@@ -23,3 +23,7 @@ Ativos/**/*.gif
 !Ativos/**/*.csv
 !Ativos/**/*.json
 !Ativos/**/manifesto.md
+
+# Quarentena: o agente na nuvem nao pode apagar arquivos, so mover pra ca.
+# Apague essa pasta manualmente de vez em quando.
+_to_delete/
