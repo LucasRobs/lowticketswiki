@@ -13,20 +13,32 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ## Leitura atual — 2026-08-16
 
-**1 rodada · 6 ofertas · 0 no corte de replicação**
+**2 passadas · 9 ofertas · 0 no corte de replicação**
 
-A rodada foi parcial: só a etapa do Reclame Aqui rodou. Biblioteca de anúncios e
-unFunnelizer ficaram de fora (extensão Claude in Chrome não conectada), então
-`dias_no_ar` e `criativos_ultima` estão zerados em todas as seis.
+A rodada teve duas passadas: varredura ampla via Reclame Aqui (6 ofertas) e busca
+dirigida ao nicho de educação física via domínio de hospedagem gratuita (3 ofertas).
+Biblioteca de anúncios e unFunnelizer seguem fora — extensão Claude in Chrome não
+conectada — então `dias_no_ar` e `criativos_ultima` continuam zerados em todas.
 
-**O padrão do mercado nesta rodada:** wrapper de IA vendido como acesso vitalício.
-Hacker Book gera e-book, Teacher ZAP conversa em 7 idiomas, Wiapy gera foto com pet.
-Custo marginal de API, ticket de infoproduto. É onde a margem está.
+**O método mais produtivo foi a busca por domínio netlify.** Uma consulta
+`site:netlify.app` com as palavras do nicho devolveu cinco ofertas ativas que nenhuma
+busca por palavra-chave comercial tinha encontrado. Produtor sem domínio próprio é
+produtor em fase de teste — é a janela que interessa.
 
-**Descoberta lateral:** Lowify (1.767 reclamações, 359 de "produto não recebido") e
-Wiapy (1.090, 241 de propaganda enganosa) não são plataformas com ofertas ruins — são
-plataformas *de* low ticket agressivo. O perfil de reclamação delas funciona como mapa
-de descoberta, não só como validação. Vale minerar a lista delas como fonte primária.
+**Achado do dia: rotação de domínio como sinal.** O [[kit-300-aulas-edfisica]] existe
+em três subdomínios netlify, um já 404, com nome auto-gerado. Página que sobe, roda e
+queima é campanha ativa. Vale virar métrica própria: contar deploys distintos da mesma
+oferta.
+
+**Teste de um segundo para separar máquina de amador: o botão de compra.** As duas
+ofertas boas levam a checkout com link direto (Wiapy, GG Checkout); a descartada leva a
+WhatsApp. Venda manual não escala e não tem bump.
+
+**Pendência de método.** A rubrica de `s_lucro` em `_meta/Scoring.md` premia tempo no ar
+alto (90+ dias = nota 9-10). A estratégia adotada em 16/08 quer o oposto para o mercado
+BR: menos de 35 dias, para não pegar o fim da onda. As duas leituras estão certas para
+objetivos diferentes e **a rubrica atual está errada para esta estratégia**. Precisa
+virar curva de sino, com pico entre 15 e 35 dias.
 
 ---
 
