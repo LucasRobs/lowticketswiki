@@ -1,14 +1,12 @@
 filters:
   and:
-    - 'note.tipo == "oferta"'
-
+    - note.tipo == "oferta"
 formulas:
-  score: '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100'
-  ra_sinal: 'if(note.ra_reclamacoes >= 20, "escala", if(note.ra_reclamacoes >= 6, "volume", if(note.ra_reclamacoes >= 1, "vendendo", "sem sinal")))'
-  falso_negativo: 'if(note.ra_reclamacoes == 0 && note.dias_no_ar >= 90, "CHECAR NOME NA RA", "")'
-  oculto: 'if(note.bump_oculto || note.upsell_oculto, "tem oferta oculta", "")'
-  checado: 'date(note.ra_checado).relative()'
-
+  score: (note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100
+  ra_sinal: if(note.ra_reclamacoes >= 20, "escala", if(note.ra_reclamacoes >= 6, "volume", if(note.ra_reclamacoes >= 1, "vendendo", "sem sinal")))
+  falso_negativo: if(note.ra_reclamacoes == 0 && note.dias_no_ar >= 90, "CHECAR NOME NA RA", "")
+  oculto: if(note.bump_oculto || note.upsell_oculto, "tem oferta oculta", "")
+  checado: date(note.ra_checado).relative()
 properties:
   file.name:
     displayName: Oferta
@@ -24,74 +22,69 @@ properties:
     displayName: Gateway
   note.unfunnelizer_capturado:
     displayName: Capturado
-
 views:
   - type: table
     name: Cobertura da mineracao
     order:
       - file.name
-      - note.unfunnelizer_capturado
+      - unfunnelizer_capturado
       - formula.checado
-      - note.gateways_detectados
+      - gateways_detectados
       - formula.ra_sinal
       - formula.oculto
       - formula.score
     sort:
-      - property: note.unfunnelizer_capturado
+      - property: unfunnelizer_capturado
         direction: ASC
-
   - type: table
     name: Fila de captura
     filters:
       and:
-        - 'note.unfunnelizer_capturado != true'
-        - 'note.dias_no_ar >= 7'
+        - note.unfunnelizer_capturado != true
+        - note.dias_no_ar >= 7
     order:
       - file.name
-      - note.dias_no_ar
-      - note.criativos_ultima
-      - note.url_pagina
+      - dias_no_ar
+      - criativos_ultima
+      - url_pagina
     sort:
-      - property: note.dias_no_ar
+      - property: dias_no_ar
         direction: DESC
-
   - type: table
     name: Volume real (Reclame Aqui)
     filters:
       and:
-        - 'note.ra_reclamacoes > 0'
+        - note.ra_reclamacoes > 0
     order:
       - file.name
-      - note.ra_reclamacoes
+      - ra_reclamacoes
       - formula.ra_sinal
-      - note.ra_plataformas
-      - note.dias_no_ar
+      - ra_plataformas
+      - dias_no_ar
       - formula.score
     sort:
-      - property: note.ra_reclamacoes
+      - property: ra_reclamacoes
         direction: DESC
-
   - type: table
     name: Suspeitas de falso negativo
     filters:
       and:
-        - 'note.ra_reclamacoes == 0'
-        - 'note.dias_no_ar >= 90'
+        - note.ra_reclamacoes == 0
+        - note.dias_no_ar >= 90
     order:
       - file.name
-      - note.dias_no_ar
-      - note.criativos_ultima
-      - note.gateways_detectados
-
+      - dias_no_ar
+      - criativos_ultima
+      - gateways_detectados
   - type: table
     name: Por gateway
     groupBy:
-      property: note.checkout
+      property: checkout
       direction: ASC
     order:
       - file.name
-      - note.ticket_medio_est
-      - note.ra_reclamacoes
+      - ticket_medio_est
+      - ra_reclamacoes
       - formula.score
     sort:
       - property: formula.score
