@@ -1,0 +1,25 @@
+# Obsidian: estado local e cache — nao versionar
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+.DS_Store
+
+# Rascunhos do radar
+_tmp/
+*.tmp
+
+# Ativos capturados pelo unFunnelizer: midia pesada fica fora do git,
+# mas os dados estruturados (csv/json) e os manifestos ficam versionados.
+Ativos/**/*.mp4
+Ativos/**/*.mov
+Ativos/**/*.webm
+Ativos/**/*.png
+Ativos/**/*.jpg
+Ativos/**/*.jpeg
+Ativos/**/*.webp
+Ativos/**/*.gif
+!Ativos/**/*.csv
+!Ativos/**/*.json
+!Ativos/**/manifesto.md

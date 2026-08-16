@@ -1,0 +1,63 @@
+filters:
+  and:
+    - 'note.tipo == "observacao"'
+
+formulas:
+  quando: 'date(note.data).relative()'
+
+properties:
+  note.slug:
+    displayName: Oferta
+  note.criativos_ativos:
+    displayName: Criativos
+  note.dias_no_ar:
+    displayName: Dias no ar
+  note.ticket_frente:
+    displayName: Ticket
+  note.angulo_novo:
+    displayName: Angulo novo
+  formula.quando:
+    displayName: Quando
+
+views:
+  - type: table
+    name: Serie temporal
+    order:
+      - note.data
+      - note.slug
+      - note.criativos_ativos
+      - note.dias_no_ar
+      - note.ticket_frente
+      - note.preco_mudou
+      - note.angulo_novo
+    sort:
+      - property: note.data
+        direction: DESC
+    limit: 500
+
+  - type: table
+    name: Por oferta
+    groupBy:
+      property: note.slug
+      direction: ASC
+    order:
+      - note.data
+      - note.criativos_ativos
+      - note.ticket_frente
+      - note.angulo_novo
+    sort:
+      - property: note.data
+        direction: DESC
+
+  - type: table
+    name: Mudancas de preco
+    filters:
+      and:
+        - 'note.preco_mudou == true'
+    order:
+      - note.data
+      - note.slug
+      - note.ticket_frente
+    sort:
+      - property: note.data
+        direction: DESC

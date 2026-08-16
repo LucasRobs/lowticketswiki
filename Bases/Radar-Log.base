@@ -1,0 +1,43 @@
+filters:
+  or:
+    - 'note.tipo == "radar"'
+
+formulas:
+  saldo: 'note.novas - note.sumiram'
+  quando: 'date(note.data).relative()'
+
+properties:
+  file.name:
+    displayName: Rodada
+  note.ofertas_vistas:
+    displayName: Vistas
+  note.novas:
+    displayName: Novas
+  note.retornaram:
+    displayName: Retornos
+  note.sumiram:
+    displayName: Sumiram
+  formula.saldo:
+    displayName: Saldo
+  formula.quando:
+    displayName: Quando
+
+views:
+  - type: table
+    name: Rodadas
+    order:
+      - file.name
+      - formula.quando
+      - note.ofertas_vistas
+      - note.novas
+      - note.retornaram
+      - note.sumiram
+      - formula.saldo
+    sort:
+      - property: note.data
+        direction: DESC
+    limit: 90
+    summaries:
+      note.novas: Sum
+      note.sumiram: Sum
+      note.ofertas_vistas: Average

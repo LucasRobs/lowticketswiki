@@ -1,0 +1,102 @@
+filters:
+  and:
+    - 'note.tipo == "oferta"'
+
+formulas:
+  score: '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100'
+  delta: 'if(note.criativos_delta > 0, "+" + note.criativos_delta, note.criativos_delta)'
+  visto: 'date(note.visto_ultimo).relative()'
+  idade: 'date(note.visto_primeiro).relative()'
+
+properties:
+  file.name:
+    displayName: Oferta
+  formula.delta:
+    displayName: Delta criativos
+  formula.visto:
+    displayName: Visto pela ultima vez
+  formula.idade:
+    displayName: No radar desde
+  note.criativos_ultima:
+    displayName: Criativos
+  note.rodadas_vista:
+    displayName: Rodadas
+
+views:
+  - type: table
+    name: Acelerando
+    filters:
+      and:
+        - 'note.criativos_delta > 0'
+    order:
+      - file.name
+      - formula.delta
+      - note.criativos_ultima
+      - note.dias_no_ar
+      - formula.score
+      - note.nicho
+    sort:
+      - property: note.criativos_delta
+        direction: DESC
+
+  - type: table
+    name: Novas nesta rodada
+    filters:
+      and:
+        - 'note.status == "nova"'
+    order:
+      - file.name
+      - note.nicho
+      - note.ticket_medio_est
+      - formula.score
+      - formula.idade
+    sort:
+      - property: formula.score
+        direction: DESC
+
+  - type: table
+    name: Esfriando
+    filters:
+      and:
+        - 'note.criativos_delta < 0'
+    order:
+      - file.name
+      - formula.delta
+      - note.criativos_ultima
+      - formula.visto
+      - note.status
+    sort:
+      - property: note.criativos_delta
+        direction: ASC
+
+  - type: table
+    name: Sumiram do radar
+    filters:
+      or:
+        - 'note.status == "esfriando"'
+        - 'note.status == "morta"'
+    order:
+      - file.name
+      - note.status
+      - formula.visto
+      - note.rodadas_vista
+      - formula.score
+    sort:
+      - property: note.visto_ultimo
+        direction: DESC
+
+  - type: table
+    name: Veteranas em escala
+    filters:
+      and:
+        - 'note.dias_no_ar >= 60'
+        - 'note.status != "morta"'
+    order:
+      - file.name
+      - note.dias_no_ar
+      - note.criativos_ultima
+      - formula.delta
+      - formula.score
+    sort:
+      - property: note.dias_no_ar
+        direction: DESC

@@ -1,0 +1,77 @@
+filters:
+  and:
+    - 'note.tipo == "oferta"'
+    - 'note.status != "morta"'
+    - 'note.veredito != "descartar"'
+
+formulas:
+  score: '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100'
+  esforco: 'if(note.s_replica >= 9, "trivial", if(note.s_replica >= 7, "baixo", if(note.s_replica >= 5, "medio", "alto")))'
+  upside: '(note.ticket_medio_est * note.margem_est).round()'
+
+properties:
+  file.name:
+    displayName: Oferta
+  formula.score:
+    displayName: Score
+  formula.esforco:
+    displayName: Esforco
+  formula.upside:
+    displayName: Liquido/venda
+  note.formato_entrega:
+    displayName: Entrega
+  note.modelo:
+    displayName: Modelo
+  note.veredito:
+    displayName: Veredito
+
+views:
+  - type: table
+    name: Corte de replicacao
+    filters:
+      and:
+        - '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 7.5'
+        - 'note.s_replica >= 7'
+    order:
+      - file.name
+      - formula.score
+      - formula.esforco
+      - formula.upside
+      - note.nicho
+      - note.modelo
+      - note.formato_entrega
+      - note.veredito
+    sort:
+      - property: formula.score
+        direction: DESC
+
+  - type: table
+    name: Zona de observacao
+    filters:
+      and:
+        - '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 6'
+        - '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 < 7.5'
+    order:
+      - file.name
+      - formula.score
+      - note.s_lucro
+      - note.s_replica
+      - note.status
+    sort:
+      - property: formula.score
+        direction: DESC
+
+  - type: table
+    name: Em execucao
+    filters:
+      or:
+        - 'note.veredito == "replicando"'
+        - 'note.veredito == "replicada"'
+    order:
+      - file.name
+      - note.veredito
+      - note.prioridade
+      - formula.score
+    sort:
+      - property: note.prioridade
+        direction: DESC
