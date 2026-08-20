@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-16
+atualizado: 2026-08-20
 ---
 
 # Painel — Radar Low Ticket
@@ -11,34 +11,49 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-16
+## Leitura atual — 2026-08-20
 
-**2 passadas · 9 ofertas · 0 no corte de replicação**
+**7 ofertas vistas · 4 novas · 3 com movimento · 0 no corte de replicação**
 
-A rodada teve duas passadas: varredura ampla via Reclame Aqui (6 ofertas) e busca
-dirigida ao nicho de educação física via domínio de hospedagem gratuita (3 ofertas).
-Biblioteca de anúncios e unFunnelizer seguem fora — extensão Claude in Chrome não
-conectada — então `dias_no_ar` e `criativos_ultima` continuam zerados em todas.
+Segunda rodada, quatro dias depois da primeira. Biblioteca de anúncios e unFunnelizer
+seguem fora — extensão não conectada, nenhum aplicativo aprovado para controle de
+desktop — então `dias_no_ar` e `criativos_ultima` continuam zerados em todas as 30
+ofertas do vault. A tabela **Acelerando**, que o Painel chama de "a que vale dinheiro",
+está vazia pela segunda rodada consecutiva. Ela vai continuar vazia até a extensão
+conectar: `criativos_delta` não tem de onde vir.
 
-**O método mais produtivo foi a busca por domínio netlify.** Uma consulta
-`site:netlify.app` com as palavras do nicho devolveu cinco ofertas ativas que nenhuma
-busca por palavra-chave comercial tinha encontrado. Produtor sem domínio próprio é
-produtor em fase de teste — é a janela que interessa.
+**A busca por domínio netlify se confirmou como o método principal.** Foi ela que trouxe
+três das quatro ofertas novas, repetindo o resultado de 16/08. O que era achado virou
+procedimento: produtor sem domínio próprio é produtor em fase de teste, e a hospedagem
+gratuita entrega essa lista de graça. A quarta oferta nova, a [[biblioteca-do-concurseiro]],
+veio da lista de reclamações da Lowify usada como fonte de descoberta — o caminho que o
+`Pipeline.md` prescreve e que agora tem duas confirmações.
 
-**Achado do dia: rotação de domínio como sinal.** O [[kit-300-aulas-edfisica]] existe
-em três subdomínios netlify, um já 404, com nome auto-gerado. Página que sobe, roda e
-queima é campanha ativa. Vale virar métrica própria: contar deploys distintos da mesma
-oferta.
+**O achado da rodada é uma correção de método, não uma oferta.** A
+[[wiapy-foto-com-pet]] cobra R$10,90 no Pix *depois* da compra, com 8 horas de espera
+pela entrega. Isso não aparece na página de vendas, não aparece no checkout e não
+apareceria nem no Brute Mode do unFunnelizer — não está no DOM, está no atendimento
+pós-venda. Só quem pagou sabe, e o único lugar onde quem pagou fala é o Reclame Aqui.
+A consequência é maior que a oferta: **`ticket_medio_est` está provavelmente subestimado
+em todo o vault**, e o Reclame Aqui deixa de ser só proxy de volume para virar fonte
+primária de anatomia de funil. Vale acrescentar ao `Pipeline.md` a instrução de ler o
+corpo das reclamações procurando valores cobrados, não só contá-las.
 
-**Teste de um segundo para separar máquina de amador: o botão de compra.** As duas
-ofertas boas levam a checkout com link direto (Wiapy, GG Checkout); a descartada leva a
-WhatsApp. Venda manual não escala e não tem bump.
+**Nada passou no corte de replicação, pela segunda rodada.** O topo do dia é a
+[[papel-magico-bonecas]] com score 6,75 e `s_replica` 10 — a primeira nota máxima do
+vault nesse eixo, com um downsell de saída que nenhuma outra oferta mapeada tem. Ela
+falha no corte por `s_lucro` 6, que é chute educado sobre sofisticação de funil, não
+leitura de dado. Isso expõe o mesmo problema que o Diagnóstico já apontou: enquanto
+`s_lucro` for estimado em vez de medido, o corte de 7,5 é praticamente inalcançável e o
+instrumento está calibrado para não decidir nada. **Duas rodadas, zero candidatas, é
+resultado do instrumento — não do mercado.** As duas pendências de método já registradas
+(curva de sino em `s_lucro`, média geométrica no lugar da soma) deveriam ser resolvidas
+antes da próxima rodada, ou a terceira vai terminar igual.
 
-**Pendência de método.** A rubrica de `s_lucro` em `_meta/Scoring.md` premia tempo no ar
-alto (90+ dias = nota 9-10). A estratégia adotada em 16/08 quer o oposto para o mercado
-BR: menos de 35 dias, para não pegar o fim da onda. As duas leituras estão certas para
-objetivos diferentes e **a rubrica atual está errada para esta estratégia**. Precisa
-virar curva de sino, com pico entre 15 e 35 dias.
+Nenhuma oferta decaiu: as 23 não vistas hoje estão na primeira ausência, e `esfriando` só
+começa na segunda. Vale lembrar que elas não sumiram do mercado — sumiram do alcance de
+um radar que, sem biblioteca de anúncios, só reencontra uma oferta quando ela gera
+reclamação nova.
 
 ---
 

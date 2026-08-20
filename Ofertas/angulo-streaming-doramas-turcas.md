@@ -18,15 +18,15 @@ ticket_medio_est: 20
 margem_est: 0.85
 modelo: [direct]
 formato_entrega: [app]
-tem_recorrencia: false
+tem_recorrencia: true
 s_ticket: 3
 s_lucro: 8
 s_replica: 3
 s_saturacao: 6
-status: nova
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-20
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/angulo-streaming-doramas-turcas"
 gateways_detectados: [lowify, cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 8
 ra_plataformas: [lowify, cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-20
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -84,3 +84,19 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-20 — recorrência confirmada
+
+Duas reclamações novas na lista da Lowify, ambas de um dia atrás. Uma delas nomeia os
+planos com precisão:
+
+> "assinatura Dorama VIP vitalícia" e "de 1 mês"
+
+A oferta tem **trilho de assinatura mensal** além do vitalício — `tem_recorrencia`
+corrigido para `true`. Pela rubrica de `s_ticket`, recorrência puxaria a nota para 9-10;
+não aplico o ajuste porque o valor da mensalidade não foi citado e a mecânica aqui é
+tipicamente de R$10 a R$20. Registro a pendência em vez de inflar o score.
+
+Oito menções em dois gateways é o segundo maior volume do vault, atrás só de
+[[treino-trinca]]. O veredito segue `descartar`: o produto é catálogo de terceiro. O que
+vale continua sendo a leitura de demanda.

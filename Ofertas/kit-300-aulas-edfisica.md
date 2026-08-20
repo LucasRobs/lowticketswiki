@@ -23,10 +23,10 @@ s_ticket: 4
 s_lucro: 7
 s_replica: 9
 s_saturacao: 5
-status: nova
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-20
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 0
 ra_plataformas: []
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-20
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, educacao]
@@ -108,3 +108,9 @@ graça, o order bump temático (circuitos motores complementa aulas prontas).
 **Melhorar (modelagem):** eles entregam 300 aulas. Entregue 500, e separe por ano
 escolar em vez de por tipo de atividade — a busca do professor é "o que dou pro 6º ano
 hoje", não "quero um circuito motor".
+
+## Rodada 2026-08-20 — sem movimento
+
+Página principal no ar, mesmo preço de R$27,90, mesma oferta. Quatro dias sem alteração.
+Nenhuma reclamação no Reclame Aqui até agora — coerente com uma oferta jovem e de ticket
+baixo, mas é o dado que falta para confirmar volume. Segue com `prioridade: 3`.
