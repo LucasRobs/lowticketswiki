@@ -107,3 +107,32 @@ Isso fecha a leitura de oferta subprecificada: 49 páginas de PDF por R$ 19,90 s
 nenhuma monetização de backend não paga tráfego frio no Meta. Ou o cara está rodando
 orgânico do Instagram, ou está queimando dinheiro. Nos dois casos, **o ângulo está
 livre de fato** — ninguém está defendendo esse leilão com verba.
+
+## Correção 2026-08-21 — o ângulo tem mais gente do que eu contei
+
+Buscando o anunciante por trás do [[guia-desintoxicacao-digital]] apareceu um cluster
+inteiro que a primeira leitura não pegou:
+
+| Operação | Onde |
+|---|---|
+| Vida sem Tela (página FB) | `facebook.com/p/Vida-sem-Tela-61575587644390/` |
+| Kami — Vida sem Tela | `facebook.com/vidasemtelas/` |
+| Vida sem tela (@vidasemtela.brasil) | Instagram, Kamille Santos |
+| Vida sem Tela Kids | `vidasemtelakids.com.br` |
+| Vida Sem Telas | `vidasemtela.com` |
+| Vida Sem Tela | `vidasemtela.site` |
+| Vida Sem Telas Oficial | YouTube |
+
+Ou seja: **`s_saturacao: 9` está otimista.** Não é um player só — é uma marca-conceito com
+várias operações usando quase o mesmo nome, o que também explica a confusão de handles
+(`@vidasemtela` na LP do ebook, `@vidasemtela.brasil` no Instagram que o Google indexa).
+
+Não dá para corrigir o score com honestidade sem ver a Biblioteca de Anúncios: várias
+páginas com nome parecido **não é o mesmo que várias campanhas com verba**. Pode ser um
+cluster orgânico de Instagram sem tráfego pago nenhum — o que manteria o leilão vazio.
+
+**Ação na próxima rodada:** abrir a Ad Library por `view_all_page_id` de cada página e
+contar quantas têm anúncio ativo. Se 2 ou menos, `s_saturacao` fica em 8-9. Se 4+,
+cai para 5 e este ângulo sai do topo da shortlist.
+
+Link direto para a primeira: `https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=61575587644390`
