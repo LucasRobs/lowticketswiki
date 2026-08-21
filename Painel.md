@@ -62,10 +62,10 @@ reclamação nova.
 ```base
 filters:
   and:
-    - 'note.tipo == "oferta"'
+    - note.tipo == "oferta"
 formulas:
-  score: '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100'
-  decisao: 'if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 7.5 && note.s_replica >= 7, "REPLICAR", if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 6, "observar", "descartar"))'
+  score: (note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100
+  decisao: if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 7.5 && note.s_replica >= 7, "REPLICAR", if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 6, "observar", "descartar"))
 properties:
   file.name:
     displayName: Oferta
@@ -80,14 +80,15 @@ views:
       - file.name
       - formula.score
       - formula.decisao
-      - note.nicho
-      - note.checkout
-      - note.ra_reclamacoes
-      - note.dias_no_ar
-      - note.status
+      - nicho
+      - checkout
+      - ra_reclamacoes
+      - dias_no_ar
+      - status
     sort:
       - property: formula.score
         direction: DESC
+
 ```
 
 ## Acelerando
