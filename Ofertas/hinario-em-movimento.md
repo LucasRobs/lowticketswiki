@@ -8,7 +8,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: lastlink
-url_pagina: "hinario-em-movimento2"
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hin%C3%A1rio%20em%20Movimento&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0

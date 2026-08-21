@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: kiwify
 url_pagina: "https://pipoeduca.com/"
-url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=NeuroMusical&search_type=keyword_unordered&media_type=all"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=NeuroOctoMusical&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 39
 ticket_bump: 0

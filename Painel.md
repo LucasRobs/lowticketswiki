@@ -199,3 +199,13 @@ R$19 em campo lotado não é a terceira melhor oportunidade por mais fácil que 
 
 Enquanto a fila de captura não esvaziar, **trate o ranking como ordem de investigação,
 não como ordem de decisão.**
+
+## Mesa de Garimpo — links de todas as ofertas (2026-08-21)
+
+Página com as 57 ofertas do vault, cada uma com **página de vendas** e **busca pronta na
+Biblioteca de Anúncios**. Filtros por nicho, veredito, "só com página" e "2+ rodadas".
+
+https://claude.ai/code/artifact/a9f45cac-2553-48ec-8e9b-f86fdb7ec13f
+
+Fonte dos dados: `_meta/ofertas-export.json`, gerado a partir do frontmatter das notas de
+`Ofertas/`. Reexportar e republicar depois de cada rodada.
