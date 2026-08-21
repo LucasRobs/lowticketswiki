@@ -88,3 +88,25 @@ Na ordem: snapshot em `Observacoes/` → atualizar/criar `Ofertas/` → nota da 
 
 `./_meta/radar-diff.sh` mostra o diff entre as duas últimas rodadas. É onde a tendência
 aparece: não em quem está no topo do ranking hoje, mas em quem subiu desde ontem.
+
+---
+
+## Exceção de nicho — quando a Etapa 3 não vale (registrado 2026-08-21)
+
+**Comportamento infantil e parentalidade não deixam rastro no Reclame Aqui.** Varredura
+completa de 5 gateways (PerfectPay, Cakto, Kiwify, Hotmart, Ticto), 40 páginas cada,
+~1.000 reclamações e ~180 corpos abertos devolveu **4 batidas no nicho** — e duas delas
+eram tangenciais.
+
+Por quê: ticket de R$ 7 a R$ 47, entrega imediata por e-mail, garantia de 7 dias honrada,
+e vergonha. Reclamar publicamente é admitir que comprou um manual para lidar com o
+próprio filho. O comprador some, não briga.
+
+**Como aplicar:** neste nicho — e provavelmente em qualquer um com ticket baixo + carga
+de estigma (saúde mental, sexualidade, dificuldade financeira pessoal) — inverta a ordem
+do pipeline. A Biblioteca de Anúncios vira Etapa 1 *e* fonte de volume; o Reclame Aqui
+vira etapa opcional de confirmação. E **não leia `ra_reclamacoes: 0` como sinal de baixo
+volume**: aqui zero é o esperado.
+
+Nichos onde a Etapa 3 continua valendo: espionagem, cashback/Pix, apostas, trading, IA,
+streaming — todos com mecânica de "taxa pra liberar", que é o que faz o comprador brigar.
