@@ -82,3 +82,28 @@ saturação 9 — é a melhor combinação da rodada.
 
 O "contrato para imprimir e assinar" é o ativo: material físico, viral em story, e
 resolve a objeção "ele não vai aceitar".
+
+## Links
+
+**Biblioteca de Anúncios** (BR, ativos, keyword_unordered) — um termo só é pouco neste
+ângulo, use os seis:
+
+- [criança viciada celular](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=crian%C3%A7a%20viciada%20celular&search_type=keyword_unordered&media_type=all)
+- [tirar o celular da criança](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=tirar%20o%20celular%20da%20crian%C3%A7a&search_type=keyword_unordered&media_type=all)
+- [tempo de tela infantil](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=tempo%20de%20tela%20infantil&search_type=keyword_unordered&media_type=all)
+- [desintoxicação digital](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=desintoxica%C3%A7%C3%A3o%20digital&search_type=keyword_unordered&media_type=all)
+- [meu filho só quer tablet](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=meu%20filho%20s%C3%B3%20quer%20tablet&search_type=keyword_unordered&media_type=all)
+- [vida sem tela](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=vida%20sem%20tela&search_type=keyword_unordered&media_type=all)
+
+**Concorrente único** — [[guia-desintoxicacao-digital]]:
+página `https://ebook.desintoxicacaodigital.com.br/` · checkout `pay.kiwify.com.br/EieCBG2`
+
+## Verificação de 2026-08-21 — a página está no ar
+
+R$ 19,90 à vista ou 2× R$ 10,48. **49 páginas.** Nenhum order bump, nenhum upsell,
+nenhum bônus. Produtor não se identifica — só o Instagram `@vidasemtela`.
+
+Isso fecha a leitura de oferta subprecificada: 49 páginas de PDF por R$ 19,90 sem
+nenhuma monetização de backend não paga tráfego frio no Meta. Ou o cara está rodando
+orgânico do Instagram, ou está queimando dinheiro. Nos dois casos, **o ângulo está
+livre de fato** — ninguém está defendendo esse leilão com verba.
