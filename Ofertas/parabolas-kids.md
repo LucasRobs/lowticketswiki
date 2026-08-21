@@ -40,7 +40,7 @@ ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-08-21
 veredito: replicar
-prioridade: 3
+prioridade: 2
 tags: [oferta, lowticket, marca, comportamento-infantil]
 ---
 

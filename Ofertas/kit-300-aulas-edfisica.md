@@ -39,7 +39,7 @@ ra_reclamacoes: 0
 ra_plataformas: []
 ra_primeira_reclamacao: 
 ra_checado: 2026-08-20
-veredito: observar
+veredito: replicar
 prioridade: 3
 tags: [oferta, lowticket, educacao]
 ---
