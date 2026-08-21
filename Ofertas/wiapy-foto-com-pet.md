@@ -38,7 +38,7 @@ upsell_oculto: true
 ra_reclamacoes: 2
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 2026-08-16
-ra_checado: 2026-08-20
+ra_checado: 2026-08-21
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]

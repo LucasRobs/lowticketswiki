@@ -23,10 +23,10 @@ s_ticket: 8
 s_lucro: 7
 s_replica: 5
 s_saturacao: 3
-status: nova
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/instalador-robo-pronto-2"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-21
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]

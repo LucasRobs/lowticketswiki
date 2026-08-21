@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-20
+atualizado: 2026-08-21
 ---
 
 # Painel — Radar Low Ticket
@@ -11,49 +11,62 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-20
+## Leitura atual — 2026-08-21
 
-**7 ofertas vistas · 4 novas · 3 com movimento · 0 no corte de replicação**
+**9 ofertas vistas · 7 novas · 1 com movimento real · 14 esfriando · 0 no corte de replicação**
 
-Segunda rodada, quatro dias depois da primeira. Biblioteca de anúncios e unFunnelizer
-seguem fora — extensão não conectada, nenhum aplicativo aprovado para controle de
-desktop — então `dias_no_ar` e `criativos_ultima` continuam zerados em todas as 30
-ofertas do vault. A tabela **Acelerando**, que o Painel chama de "a que vale dinheiro",
-está vazia pela segunda rodada consecutiva. Ela vai continuar vazia até a extensão
-conectar: `criativos_delta` não tem de onde vir.
+Três rodadas gravadas neste dia: o cluster religioso, o cluster de comportamento infantil
+(17 notas) e esta varredura de gateways. O vault fecha o dia com **64 ofertas**. A
+Biblioteca de Anúncios seguiu fora pela terceira rodada — extensão não conectada — então
+`dias_no_ar` e `criativos_ultima` continuam zerados em todas elas, e a tabela
+**Acelerando** está vazia pelo terceiro dia. Ela mede `criativos_delta`, e `criativos_delta`
+não tem de onde vir.
 
-**A busca por domínio netlify se confirmou como o método principal.** Foi ela que trouxe
-três das quatro ofertas novas, repetindo o resultado de 16/08. O que era achado virou
-procedimento: produtor sem domínio próprio é produtor em fase de teste, e a hospedagem
-gratuita entrega essa lista de graça. A quarta oferta nova, a [[biblioteca-do-concurseiro]],
-veio da lista de reclamações da Lowify usada como fonte de descoberta — o caminho que o
-`Pipeline.md` prescreve e que agora tem duas confirmações.
+**A lista de reclamações de gateway virou o método de descoberta mais barato do vault.**
+Sete ofertas novas saíram da *primeira página* de cinco gateways — Lowify, Wiapy, Kirvano,
+Cakto e Ticto — ao custo de cinco requisições. Nenhuma delas teria aparecido por busca de
+nicho ou por domínio netlify, que eram os métodos das rodadas anteriores. Isso reordena o
+`Pipeline.md` na prática: enquanto o browser estiver fora, a Etapa 3 deixa de ser
+validação final e passa a ser a porta de entrada.
 
-**O achado da rodada é uma correção de método, não uma oferta.** A
-[[wiapy-foto-com-pet]] cobra R$10,90 no Pix *depois* da compra, com 8 horas de espera
-pela entrega. Isso não aparece na página de vendas, não aparece no checkout e não
-apareceria nem no Brute Mode do unFunnelizer — não está no DOM, está no atendimento
-pós-venda. Só quem pagou sabe, e o único lugar onde quem pagou fala é o Reclame Aqui.
-A consequência é maior que a oferta: **`ticket_medio_est` está provavelmente subestimado
-em todo o vault**, e o Reclame Aqui deixa de ser só proxy de volume para virar fonte
-primária de anatomia de funil. Vale acrescentar ao `Pipeline.md` a instrução de ler o
-corpo das reclamações procurando valores cobrados, não só contá-las.
+**O corpo da reclamação continua entregando anatomia de funil, e agora com quatro
+confirmações.** [[script-da-banca]] revelou a escada inteira num parágrafo — R$ 9,99 na
+entrada, upsell de R$ 29,99 ao fim do conteúdo. [[lowzap]] entregou o nome do upsell e o
+fato de ele ser cobrado mesmo após recusa no checkout. [[unlovable]] entregou cinco meses
+de assinatura ativa numa frase sobre data de compra, que é o sinal de receita mais concreto
+que o vault produziu até hoje. [[mounjaro-de-pobre]] entregou a distância deliberada entre
+o criativo e o produto. Nada disso está no DOM de uma página de vendas, e nada disso sairia
+do Brute Mode. Junto com o PIX oculto da [[wiapy-foto-com-pet]] descoberto em 20/08, são
+cinco casos: **o Reclame Aqui é fonte primária de anatomia, não proxy secundário de volume.**
 
-**Nada passou no corte de replicação, pela segunda rodada.** O topo do dia é a
-[[papel-magico-bonecas]] com score 6,75 e `s_replica` 10 — a primeira nota máxima do
-vault nesse eixo, com um downsell de saída que nenhuma outra oferta mapeada tem. Ela
-falha no corte por `s_lucro` 6, que é chute educado sobre sofisticação de funil, não
-leitura de dado. Isso expõe o mesmo problema que o Diagnóstico já apontou: enquanto
-`s_lucro` for estimado em vez de medido, o corte de 7,5 é praticamente inalcançável e o
-instrumento está calibrado para não decidir nada. **Duas rodadas, zero candidatas, é
-resultado do instrumento — não do mercado.** As duas pendências de método já registradas
-(curva de sino em `s_lucro`, média geométrica no lugar da soma) deveriam ser resolvidas
-antes da próxima rodada, ou a terceira vai terminar igual.
+**A correção da rodada é uma armadilha de contagem.** O rótulo "Há X horas" da listagem do
+Reclame Aqui marca a última atividade do caso, não a data de abertura. A reclamação do PIX
+da [[wiapy-foto-com-pet]] aparecia como "Há 15 horas" e é de 04/08 — a mesma já registrada.
+Contar pela listagem infla `ra_reclamacoes`, e `ra_reclamacoes` alimenta `s_lucro`. A regra
+agora é abrir o corpo antes de contar; foi ela que evitou registrar uma aceleração
+inexistente na Wiapy e que confirmou uma real na Cakto, onde o
+[[instalador-robo-pronto-2]] ganhou a segunda reclamação em rodadas diferentes — a primeira
+série temporal de verdade do vault.
 
-Nenhuma oferta decaiu: as 23 não vistas hoje estão na primeira ausência, e `esfriando` só
-começa na segunda. Vale lembrar que elas não sumiram do mercado — sumiram do alcance de
-um radar que, sem biblioteca de anúncios, só reencontra uma oferta quando ela gera
-reclamação nova.
+**O melhor achado não está no topo do ranking.** É o [[app-do-paizao]], com score 6,55.
+As dezessete notas do cluster infantil convergiram na leitura de que o nicho vende alívio
+de culpa da mãe; o ponto cego dessa leitura é que, se o que converte é falar com o
+comprador sobre ele mesmo, existe um discurso de culpa paterna que ninguém está usando. A
+única oferta encontrada falando com o pai não vende ebook de R$ 27 — vende **assinatura**.
+O cluster inteiro roda sem backend nenhum, e essa roda com recorrência.
+
+**Nada passou no corte de replicação, pela terceira rodada.** A melhor das sete novas é o
+[[app-do-paizao]] com 6,55, e o topo do vault inteiro segue empatado em 7,35 entre
+[[angulo-diagnostico-isca]] e [[angulo-desintoxicacao-telas]] — ambos abaixo do corte de 7,5. A causa é a mesma que o Diagnóstico abaixo já nomeou e que segue sem
+correção: `s_lucro` pesa 35%, é o único eixo que responde "isso está dando lucro agora?", e
+é estimado em vez de medido porque a biblioteca de anúncios nunca foi lida. As duas
+pendências de método — curva de sino em `s_lucro`, média geométrica no lugar da soma —
+estão registradas desde 16/08. **Três rodadas, zero candidatas, é o instrumento falando,
+não o mercado.** A quarta rodada vai terminar igual se nada mudar antes dela.
+
+Quatorze ofertas vistas só em 16/08 completaram a segunda ausência e decaíram para
+`esfriando`. Nenhuma morreu ainda — `morta` exige sete rodadas — e vale repetir que
+`esfriando`, hoje, mede a cobertura do radar e não a saúde da oferta.
 
 ---
 
