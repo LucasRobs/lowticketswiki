@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: ggcheckout
 url_pagina: "https://auladesplugada.netlify.app/"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Aula%20Desplugada&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 10
 ticket_bump: 17.90

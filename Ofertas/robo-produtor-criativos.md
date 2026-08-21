@@ -8,8 +8,8 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: kirvano
-url_pagina: 
-url_ads: 
+url_pagina: "https://robodofuturo.com.br/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Robo%20Produtor&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 97
 ticket_bump: 0
@@ -25,8 +25,8 @@ s_replica: 5
 s_saturacao: 3
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,10 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — funil na Inlead, dois gateways
+
+Candidato: **`robodofuturo.com.br`**, funil hospedado na **Inlead Cloud**. Reclamações
+confirmam venda via **Tribo Pay** e **Kirvano** — dois gateways para o mesmo produto, que
+é o sinal de operação já preparada para derrubada. Marcado como **incerto**: o WebFetch
+só devolveu metadados.

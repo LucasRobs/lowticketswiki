@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: cakto
 url_pagina: "instalador-robo-pronto-22"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=INSTALADOR%20ROB%C3%94%20PRONTO%202.0&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0

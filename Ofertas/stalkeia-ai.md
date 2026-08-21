@@ -8,8 +8,8 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: perfectpay
-url_pagina: 
-url_ads: 
+url_pagina: "https://www.stalkea.ai/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 37
 ticket_bump: 19
@@ -25,8 +25,8 @@ s_replica: 4
 s_saturacao: 3
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,13 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — página de vendas e camada de firewall
+
+Candidato forte: **`stalkea.ai`** ("a maior ferramenta de stalker do Brasil"), SPA em JS.
+Marcado como **incerto** — o WebFetch só pega a casca da página.
+
+O achado que importa: existe um subdomínio **`up.stalkeia.website/firewall`**, página de
+proteção/redirecionamento antes do funil. É infraestrutura para **esconder o destino real
+da moderação de anúncios** do Meta. Sinal de operação madura e de que o criativo não
+poderia ser aprovado apontando direto para a oferta.

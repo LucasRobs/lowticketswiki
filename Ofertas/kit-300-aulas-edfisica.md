@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: wiapy
 url_pagina: "https://kit-300aulas-edfisica.netlify.app/"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Kit%20300%20Aulas%20Prontas%20de%20Educa%C3%A7%C3%A3o%20F%C3%ADsica&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 27.90
 ticket_bump: 0

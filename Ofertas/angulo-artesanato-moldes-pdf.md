@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: wiapy
 url_pagina: 
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=apostila%20de%20croche&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 25
 ticket_bump: 0

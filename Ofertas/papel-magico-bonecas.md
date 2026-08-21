@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: lowify
 url_pagina: "https://papelmagicobr.netlify.app/"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%2B350%20Bonecas%20de%20Papel&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 12.90
 ticket_bump: 0

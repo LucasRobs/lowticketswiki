@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: kirvano
 url_pagina: "robo-hacker-book2"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Rob%C3%B4%20Hacker%20Book&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0

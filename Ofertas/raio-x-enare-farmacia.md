@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: hotmart
 url_pagina: "https://raioxenarefarmacia2026.netlify.app/"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Raio&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 59.90
 ticket_bump: 15.90

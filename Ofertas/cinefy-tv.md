@@ -8,8 +8,8 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: lowify
-url_pagina: 
-url_ads: 
+url_pagina: "https://app.cinefytv.site/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cinefy&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 20
 ticket_bump: 0
@@ -25,8 +25,8 @@ s_replica: 3
 s_saturacao: 5
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,11 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — dois espelhos ativos, operação Lowify
+
+Domínios ativos: **`app.cinefytv.site`** e **`appcine.site`** (com página de registro em
+`/register`). A empresa por trás aparece no Reclame Aqui como **Lowify Tecnologia**.
+
+Mecânica registrada na reclamação: vendido como "pagamento único e vitalício", vira
+assinatura recorrente depois. É bump pós-compra, o mesmo padrão de [[wiapy-foto-com-pet]].

@@ -8,8 +8,8 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: perfectpay
-url_pagina: 
-url_ads: 
+url_pagina: "https://cashnopix.net/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cash%20no%20Pix&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 39
 ticket_bump: 67
@@ -25,8 +25,8 @@ s_replica: 3
 s_saturacao: 3
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,12 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — família de clones ativa
+
+Página de vendas confirmada: **`cashnopix.net`**, CTA "Ativar App + R$ 50 de Bônus".
+Domínios espelho vistos em busca: `cashnopix.pro`, `cashnopix.cloud`, `cashnopix.com`.
+
+Trate como **família de clones**, não oferta única — mesma leitura de escala que vale
+para [[parabolas-kids]] e [[kit-300-aulas-edfisica]]: quem rotaciona domínio está
+rodando verba.

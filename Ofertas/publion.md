@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: lastlink
 url_pagina: 
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Publion&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 62
 ticket_bump: 0
@@ -84,3 +84,10 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-21 — página de vendas não localizada
+
+Busca web dedicada não encontrou LP ativa de **Publion**. Ou a oferta já rotacionou de
+domínio, ou o nome do criativo difere do nome que o comprador registrou na reclamação.
+`url_ads` preenchido com o termo de busca para tentar pela Biblioteca de Anúncios.
+

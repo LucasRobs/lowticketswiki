@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: hotmart
 url_pagina: "https://arquitetos-do-pensamento.netlify.app/"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Arquitetos%20do%20Pensamento&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 27
 ticket_bump: 0

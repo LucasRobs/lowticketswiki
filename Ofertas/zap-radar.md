@@ -7,9 +7,9 @@ sub_nicho: busca-whatsapp
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
-checkout: perfectpay
-url_pagina: 
-url_ads: 
+checkout: payt
+url_pagina: "https://whatsradar.com/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 97
 ticket_bump: 0
@@ -25,8 +25,8 @@ s_replica: 4
 s_saturacao: 3
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,11 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — checkout é Payt, e há dois domínios
+
+Dois domínios com a mesma headline ("Clone o WhatsApp do seu Parceiro em 5 minutos"):
+**`whatsradar.com`** e **`zapradar.shop`**. Checkout **Payt**, não PerfectPay.
+
+**Não confundir** com `zapradar.com.br` e `zapradar.alualab.com` — são um CRM de WhatsApp
+legítimo, produto completamente diferente com nome colidente.

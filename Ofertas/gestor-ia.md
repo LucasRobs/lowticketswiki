@@ -8,25 +8,25 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: kirvano
-url_pagina: 
-url_ads: 
+url_pagina: "https://gestoria.site/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gestor%20IA&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 47
+ticket_frente: 29.98
 ticket_bump: 0
 ticket_upsell: 0
-ticket_medio_est: 47
+ticket_medio_est: 50
 margem_est: 0.85
 modelo: [direct]
 formato_entrega: [app]
-tem_recorrencia: false
-s_ticket: 5
+tem_recorrencia: true
+s_ticket: 9
 s_lucro: 6
 s_replica: 5
 s_saturacao: 5
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,12 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — assinatura mensal, checkout Kirvano
+
+Página localizada: **`gestoria.site`** (agregador de 60+ ferramentas de IA), checkout
+**Kirvano** (`pay.kirvano.com`). Planos: R$ 29,98 (Pro) · R$ 38,96 (Premium) ·
+R$ 76,95 (Ultra) por mês; anual de R$ 69 a R$ 139/mês.
+
+`s_ticket` sobe de 5 para 9 por causa da recorrência. Score: 5,35 → 6,10.
+Bate com as reclamações de "Gestor IA Premium +60 Modelos de IAs" via Kirvano.

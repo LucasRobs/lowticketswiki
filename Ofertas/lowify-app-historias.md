@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: lowify
 url_pagina: "lowify-app-historias2"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=App%20de%20hist%C3%B3rias&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0

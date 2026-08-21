@@ -7,9 +7,9 @@ sub_nicho: treino-em-casa
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
-checkout: lastlink
-url_pagina: 
-url_ads: 
+checkout: hotmart
+url_pagina: "https://treinotrinca.com.br/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 37
 ticket_bump: 0
@@ -25,8 +25,8 @@ s_replica: 6
 s_saturacao: 4
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,13 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — dois produtores com o mesmo nome
+
+Candidato: **`treinotrinca.com.br`** ("Trinca Turbo — Ative seu modo turbo em 4 semanas"),
+listado na Hotmart como "Trinca Turbo – Nikolai Miranda"
+(`hotmart.com/pt-br/marketplace/produtos/treino-trinca/U102658517X`).
+
+Mas as reclamações no Reclame Aqui citam **"Treino Trinca Pedro Lotz"** com gateway
+**Lastlink**. Ou a marca trocou de dono/gateway, ou são duas operações com o mesmo nome.
+Marcado como **incerto** até abrir a página. Instagram: `@treinotrinca`.

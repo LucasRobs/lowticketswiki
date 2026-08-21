@@ -9,7 +9,7 @@ pais: BR
 plataforma_ads: []
 checkout: whatsapp
 url_pagina: "https://planosdeaula.netlify.app/"
-url_ads: 
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%2B500%20Planos%20de%20Aula&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0

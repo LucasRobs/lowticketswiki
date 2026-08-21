@@ -8,25 +8,25 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: cakto
-url_pagina: 
-url_ads: 
+url_pagina: "https://loopyz.com.br/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 47
+ticket_frente: 97
 ticket_bump: 0
 ticket_upsell: 0
-ticket_medio_est: 47
+ticket_medio_est: 150
 margem_est: 0.85
 modelo: [direct]
 formato_entrega: [app]
-tem_recorrencia: false
-s_ticket: 5
+tem_recorrencia: true
+s_ticket: 10
 s_lucro: 5
 s_replica: 4
 s_saturacao: 8
 status: nova
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -84,3 +84,14 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — é recorrência, não low ticket
+
+Página localizada: **`loopyz.com.br`**, checkout Cakto. Preços visíveis:
+**R$ 97/mês · R$ 197/trimestre · R$ 497 vitalício.**
+
+A estimativa anterior de R$ 47 estava errada por uma categoria inteira. `s_ticket` sobe
+de 5 para **10** (a rubrica dá 9-10 para qualquer valor com recorrência) e
+`tem_recorrencia` vira `true`. Score: 5,15 → 6,15.
+
+O que trava a nota continua sendo `s_replica: 4` — é software de live, não PDF.

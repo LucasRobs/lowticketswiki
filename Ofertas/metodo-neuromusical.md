@@ -1,32 +1,32 @@
 ---
 tipo: oferta
 slug: metodo-neuromusical
-nome: "Método NeuroMusical — alfabetização por sílabas"
+nome: "Método NeuroOctoMusical (Pipo) — alfabetização por sílabas"
 nicho: comportamento-infantil
 sub_nicho: alfabetizacao
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: kiwify
-url_pagina: 
+url_pagina: "https://pipoeduca.com/"
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=NeuroMusical&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 0
+ticket_frente: 39
 ticket_bump: 0
 ticket_upsell: 0
-ticket_medio_est: 40
+ticket_medio_est: 39
 margem_est: 0.9
 modelo: [vsl]
 formato_entrega: [curso]
 tem_recorrencia: false
-s_ticket: 4
-s_lucro: 5
+s_ticket: 5
+s_lucro: 6
 s_replica: 7
 s_saturacao: 6
 status: nova
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
-rodadas_vista: 1
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -103,3 +103,19 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Correção 2026-08-21 — o nome real é NeuroOctoMusical
+
+Página de vendas localizada: **`pipoeduca.com`**. O produto se chama **Método
+NeuroOctoMusical**, o personagem é o **Pipo**, e o Instagram é `@neurooctomusical`.
+Checkout Kiwify, **R$ 39 ancorado em R$ 130** (−70%) ou 6× R$ 7,32.
+
+Isso confirma a hipótese que ficou aberta na rodada: a reclamação de abril/2026 contra
+"NeuroOctoMusical" e a de 18/08/2026 contra "NeuroMusical" são **a mesma operação**. O
+comprador de agosto abreviou o nome, não comprou outro produto.
+
+Consequência: a oferta tem **4+ meses de estrada**, não três dias. `s_lucro` sobe de 5
+para 6 e `s_ticket` de 4 para 5 (R$ 39 confirmado, não estimado). Score: 5,55 → 6,10.
+
+O padrão de falha se repete nas duas reclamações — curso vendido pela metade, ainda em
+produção. O criativo continua performando acima do produto.
