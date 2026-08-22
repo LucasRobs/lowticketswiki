@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-21
+atualizado: 2026-08-22
 ---
 
 # Painel — Radar Low Ticket
@@ -11,62 +11,60 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-21
+## Leitura atual — 2026-08-22
 
-**9 ofertas vistas · 7 novas · 1 com movimento real · 14 esfriando · 0 no corte de replicação**
+**16 ofertas vistas · 6 novas · 3 retornaram · 5 correções de score · 0 no corte de replicação**
 
-Três rodadas gravadas neste dia: o cluster religioso, o cluster de comportamento infantil
-(17 notas) e esta varredura de gateways. O vault fecha o dia com **64 ofertas**. A
-Biblioteca de Anúncios seguiu fora pela terceira rodada — extensão não conectada — então
-`dias_no_ar` e `criativos_ultima` continuam zerados em todas elas, e a tabela
-**Acelerando** está vazia pelo terceiro dia. Ela mede `criativos_delta`, e `criativos_delta`
-não tem de onde vir.
+Quarta rodada. Biblioteca de Anúncios fora pelo quarto dia e unFunnelizer fora por falta de
+grant de desktop, então a rodada inteira saiu do Reclame Aqui — desta vez em **oito
+gateways**, com Lastlink e PerfectPay entrando pela primeira vez como fonte de descoberta.
+O vault fecha em **70 ofertas**. A tabela **Acelerando** segue vazia pelo quarto dia, pela
+mesma razão de sempre: ela mede `criativos_delta`, e `criativos_delta` não tem de onde vir.
 
-**A lista de reclamações de gateway virou o método de descoberta mais barato do vault.**
-Sete ofertas novas saíram da *primeira página* de cinco gateways — Lowify, Wiapy, Kirvano,
-Cakto e Ticto — ao custo de cinco requisições. Nenhuma delas teria aparecido por busca de
-nicho ou por domínio netlify, que eram os métodos das rodadas anteriores. Isso reordena o
-`Pipeline.md` na prática: enquanto o browser estiver fora, a Etapa 3 deixa de ser
-validação final e passa a ser a porta de entrada.
+**O corpo da reclamação passou a entregar tempo no ar, que era o dado que faltava.** Três
+ofertas citaram data de compra hoje: [[teacher-zap]] em março, [[unlovable]] em 27/03,
+[[curso-massagem-tantrica]] em 12/08. Isso não mede o anúncio, mede a oferta — que é
+exatamente o que `s_lucro` pergunta, e é proxy melhor que contagem de reclamações.
+[[teacher-zap]] subiu para `s_lucro: 8` com cinco meses de venda **medidos**, não estimados;
+[[unlovable]] para 7 com ~148 dias. Enquanto o browser estiver fora, procurar data de
+compra no corpo deveria ser etapa explícita do `Pipeline.md`.
 
-**O corpo da reclamação continua entregando anatomia de funil, e agora com quatro
-confirmações.** [[script-da-banca]] revelou a escada inteira num parágrafo — R$ 9,99 na
-entrada, upsell de R$ 29,99 ao fim do conteúdo. [[lowzap]] entregou o nome do upsell e o
-fato de ele ser cobrado mesmo após recusa no checkout. [[unlovable]] entregou cinco meses
-de assinatura ativa numa frase sobre data de compra, que é o sinal de receita mais concreto
-que o vault produziu até hoje. [[mounjaro-de-pobre]] entregou a distância deliberada entre
-o criativo e o produto. Nada disso está no DOM de uma página de vendas, e nada disso sairia
-do Brute Mode. Junto com o PIX oculto da [[wiapy-foto-com-pet]] descoberto em 20/08, são
-cinco casos: **o Reclame Aqui é fonte primária de anatomia, não proxy secundário de volume.**
+**Ampliar de cinco para oito gateways produziu mais sinal do que qualquer refinamento de
+rubrica.** As cinco requisições novas em Lastlink e PerfectPay devolveram três retornos e
+duas ofertas. E as três que "voltaram" nunca esfriaram de verdade — o radar é que não
+olhava para onde elas estavam. Enquanto a cobertura de fontes mudar a cada rodada,
+`esfriando` continua medindo o instrumento e não o mercado.
 
-**A correção da rodada é uma armadilha de contagem.** O rótulo "Há X horas" da listagem do
-Reclame Aqui marca a última atividade do caso, não a data de abertura. A reclamação do PIX
-da [[wiapy-foto-com-pet]] aparecia como "Há 15 horas" e é de 04/08 — a mesma já registrada.
-Contar pela listagem infla `ra_reclamacoes`, e `ra_reclamacoes` alimenta `s_lucro`. A regra
-agora é abrir o corpo antes de contar; foi ela que evitou registrar uma aceleração
-inexistente na Wiapy e que confirmou uma real na Cakto, onde o
-[[instalador-robo-pronto-2]] ganhou a segunda reclamação em rodadas diferentes — a primeira
-série temporal de verdade do vault.
+**O padrão do degrau invisível fechou em seis casos e agora é regra.** [[love-pix]] cobra
+duas taxas de R$ 10 dentro do app depois dos R$ 25,90 da entrada; [[app-do-paizao]] oferece
+o plano anual de R$ 250 depois da primeira mensalidade de R$ 50; [[lowzap]] cobra o upsell
+de R$ 197 **através da Hubla**, não da Kirvano; [[unlovable]] roda Pix Automático que
+sobrevive ao reembolso da primeira parcela; mais [[wiapy-foto-com-pet]] e [[cinefy-tv]]. Em
+todos, o degrau caro é pós-compra e não está no DOM da página de vendas — o Brute Mode, que
+o `Pipeline.md` chama de "a etapa que mais muda o score", não acharia nenhum. O Reclame Aqui
+acha todos, porque é onde o comprador vai reclamar da cobrança que não esperava. Para funis
+com escada pós-compra, a Etapa 3 é melhor que a Etapa 2, não complemento dela.
 
-**O melhor achado não está no topo do ranking.** É o [[app-do-paizao]], com score 6,55.
-As dezessete notas do cluster infantil convergiram na leitura de que o nicho vende alívio
-de culpa da mãe; o ponto cego dessa leitura é que, se o que converte é falar com o
-comprador sobre ele mesmo, existe um discurso de culpa paterna que ninguém está usando. A
-única oferta encontrada falando com o pai não vende ebook de R$ 27 — vende **assinatura**.
-O cluster inteiro roda sem backend nenhum, e essa roda com recorrência.
+**A melhor descoberta de ontem não sobreviveu à leitura de hoje.** O [[app-do-paizao]], que
+esta seção chamou em 21/08 de "o melhor achado, e não está no topo do ranking", entrega
+treinos, dietas, comunidade e promessa de personal. É assinatura de fitness; a paternidade é
+o recorte de público, não o produto. `s_replica` cai de 6 para 3 (saúde tem teto 4 no
+`Scoring.md`), `s_saturacao` de 8 para 4, **score de 6,55 para 5,05**. A tese sobre o
+público continua de pé — um ebook de R$ 27 falando com o pai segue sendo campo aberto — mas
+não era esta oferta que a provava. Registrar o erro importa mais que corrigi-lo: a nota de
+ontem foi escrita a partir do título da reclamação, e o corpo estava a uma requisição de
+distância.
 
-**Nada passou no corte de replicação, pela terceira rodada.** A melhor das sete novas é o
-[[app-do-paizao]] com 6,55, e o topo do vault inteiro segue empatado em 7,35 entre
-[[angulo-diagnostico-isca]] e [[angulo-desintoxicacao-telas]] — ambos abaixo do corte de 7,5. A causa é a mesma que o Diagnóstico abaixo já nomeou e que segue sem
-correção: `s_lucro` pesa 35%, é o único eixo que responde "isso está dando lucro agora?", e
-é estimado em vez de medido porque a biblioteca de anúncios nunca foi lida. As duas
-pendências de método — curva de sino em `s_lucro`, média geométrica no lugar da soma —
-estão registradas desde 16/08. **Três rodadas, zero candidatas, é o instrumento falando,
-não o mercado.** A quarta rodada vai terminar igual se nada mudar antes dela.
-
-Quatorze ofertas vistas só em 16/08 completaram a segunda ausência e decaíram para
-`esfriando`. Nenhuma morreu ainda — `morta` exige sete rodadas — e vale repetir que
-`esfriando`, hoje, mede a cobertura do radar e não a saúde da oferta.
+**Zero no corte pela quarta rodada, e o topo não se mexeu.** [[angulo-diagnostico-isca]] e
+[[angulo-desintoxicacao-telas]] seguem empatadas em 7,35, abaixo do corte de 7,5. Vale dizer
+o incômodo com todas as letras: **nenhuma das duas foi vista em rodada alguma além da de
+estreia.** Elas lideram porque foram pontuadas por hipótese de ângulo em vez de evidência de
+venda, e hipótese não decai. As duas correções pendentes desde 16/08 — curva de sino em
+`s_lucro`, média geométrica no lugar da soma — continuam sem implementação, e hoje apareceu
+uma terceira: 35 das 70 notas ainda estão com `status: nova` porque o `Scoring.md` não diz o
+que fazer com uma oferta ausente por exatamente uma rodada. **Quatro rodadas, zero
+candidatas: a essa altura o instrumento já foi diagnosticado três vezes e não foi
+consertado nenhuma.**
 
 ---
 

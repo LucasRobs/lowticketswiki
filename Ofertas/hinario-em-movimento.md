@@ -23,10 +23,10 @@ s_ticket: 4
 s_lucro: 6
 s_replica: 9
 s_saturacao: 8
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-22
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/hinario-em-movimento"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-22
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -60,3 +60,23 @@ biblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.
 
 `s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais
 forte da rubrica está ausente. Espere o score subir depois da captura.
+
+## Retorno 2026-08-22
+
+Estava `esfriando`. Voltou com reclamacao de **15/08/2026** (ID 256541889) na Lastlink.
+`ra_reclamacoes` 1 -> 2.
+
+Falha de entrega pura: pagamento confirmado por e-mail, link recebido, e o site responde
+que o comprador **nao tem acesso e pede para comprar de novo**. Nao ha indicio de ma-fe —
+ha indicio de area de membros mal configurada, que e o defeito mais comum do cluster
+religioso do vault.
+
+`s_lucro` permanece 6: duas reclamacoes em seis dias e sinal fraco demais para mexer, e o
+corpo nao cita data de compra nem valor.
+
+O que mantem esta nota interessante e `s_replica: 9` com `s_saturacao: 8` — score 6,80, o
+quarto do vault. Hinario e dominio publico, a producao e conversao de partituras em video,
+e o publico e o cluster gospel que ja aparece em [[desafio-21-dias-com-deus-traco]] e
+[[cura-da-alma-devocional]]. O unico eixo fraco e `s_ticket: 4`.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/reembolso-de-compra-hinario-em-movimento_g7iJOfqc6G4gY1UV/

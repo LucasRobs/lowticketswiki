@@ -25,8 +25,8 @@ s_replica: 5
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-21
-rodadas_vista: 2
+visto_ultimo: 2026-08-22
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -37,8 +37,8 @@ bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
-ra_primeira_reclamacao: 
-ra_checado: 2026-08-21
+ra_primeira_reclamacao: 2026-08-15
+ra_checado: 2026-08-22
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -60,3 +60,21 @@ biblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.
 
 `s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais
 forte da rubrica está ausente. Espere o score subir depois da captura.
+
+## Rodada 2026-08-22 — armadilha de contagem confirmada pela segunda vez
+
+Apareceu na primeira pagina da Cakto hoje com rotulo "Ha 11 horas". O corpo diz
+**15/08/2026** (ID 256521397). Nao e reclamacao nova: `ra_reclamacoes` permanece 2.
+
+E a segunda confirmacao independente da regra que o Painel registrou em 21/08 — o rotulo
+"Ha X horas" da listagem marca a ultima atividade do caso, nao a abertura. Sem abrir o
+corpo, esta rodada teria gravado `ra_reclamacoes: 3` e uma aceleracao que nao existe.
+
+Anatomia nova, pequena mas util: o pedido de reembolso feito em 10/08 foi respondido em
+11/08 com a exigencia de **preencher um formulario** para dar continuidade. Formulario
+como degrau de atrito no cancelamento e o espelho do formulario como degrau de valor em
+[[treino-trinca]] — mesma ferramenta, direcoes opostas.
+
+`ra_primeira_reclamacao` preenchida com 2026-08-15, que era o campo vazio mais antigo da nota.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/reembolso-do-curso-instalador-robo-pronto-20-nao-realizado-dentro-do-prazo-legal_DOyIPqc4u83v-ITB/

@@ -16,7 +16,7 @@ ticket_bump: 0
 ticket_upsell: 37
 ticket_medio_est: 74
 margem_est: 0.85
-modelo: [vsl]
+modelo: [quiz]
 formato_entrega: [curso, comunidade]
 tem_recorrencia: true
 s_ticket: 7
@@ -25,8 +25,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-21
-rodadas_vista: 2
+visto_ultimo: 2026-08-22
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 10
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-22
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -94,3 +94,28 @@ listado na Hotmart como "Trinca Turbo – Nikolai Miranda"
 Mas as reclamações no Reclame Aqui citam **"Treino Trinca Pedro Lotz"** com gateway
 **Lastlink**. Ou a marca trocou de dono/gateway, ou são duas operações com o mesmo nome.
 Marcado como **incerto** até abrir a página. Instagram: `@treinotrinca`.
+
+## Rodada 2026-08-22 — o funil e quiz, nao venda direta
+
+Reclamacao de 14/08/2026 (ID 256520497), dentro da janela ja amostrada em 16/08.
+`ra_reclamacoes` permanece 10 — nao da para saber se estava na amostra de 10 paginas, e a
+regra e nao contar sem certeza.
+
+O que e novo e a anatomia: *"fiz a compra do treino trinca e **preenchi a avaliacao**, me
+falaram que o treino estaria disponivel **apos 24 horas**"*. Ou seja:
+
+    anuncio -> pagina -> checkout Lastlink -> formulario de avaliacao -> entrega em 24h
+
+`modelo` corrigido de `[vsl]` para `[quiz]`. A avaliacao pos-compra faz duas coisas ao
+mesmo tempo: justifica a promessa de personalizacao (e por isso permite ticket maior que
+um PDF generico) e **compra 24 horas** antes de qualquer entrega, o que empurra parte dos
+arrependimentos para fora da janela de impulso.
+
+E o item mais copiavel do dia. Nao exige app, nao exige backend: e um Google Form entre o
+checkout e o e-mail de entrega. Serve para qualquer oferta do vault que hoje entrega PDF
+na hora — [[kit-so-escola-tdah]], [[planos-aula-infantil-500]], [[coletanea-regulacao-emocional]].
+
+O que segura `treino-trinca` fora do corte de replicacao continua sendo `s_replica: 6`:
+a oferta tem rosto (Pedro Lotz) e o rosto e parte da conversao.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/atraso-na-liberacao-do-treino-e-falta-de-suporte_Pl3cl-kkgs0wZIsO/

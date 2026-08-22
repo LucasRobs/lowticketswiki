@@ -23,10 +23,10 @@ s_ticket: 3
 s_lucro: 3
 s_replica: 9
 s_saturacao: 6
-status: nova
+status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-21
-rodadas_vista: 1
+visto_ultimo: 2026-08-22
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -37,8 +37,8 @@ bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [lowify]
-ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-21
+ra_primeira_reclamacao: 2026-08-20
+ra_checado: 2026-08-22
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, templates]
@@ -69,3 +69,16 @@ combinações de um punhado de templates.
 `s_replica: 9` — é o eixo forte. Pacote de templates editáveis é entrega digital trivial,
 funil de duas páginas, produção resolvível em Canva. `s_ticket: 3` é o teto: R$ 24,90 sem
 bump não paga tráfego frio, o que sugere origem orgânica ou margem apertada.
+
+## Rodada 2026-08-22 — mesma reclamacao, data corrigida
+
+Reapareceu no topo da lista da Lowify com rotulo "Ha 2 dias". Corpo aberto: **20/08/2026
+as 19:39**, ID 256998079 — a mesma reclamacao ja registrada em 21/08.
+`ra_reclamacoes` permanece 1.
+
+`ra_primeira_reclamacao` corrigida de 2026-08-21 (data da rodada) para 2026-08-20 (data de
+abertura). A rodada anterior gravou a data errada; o campo agora segue a regra do
+`Schema.md` de forma consistente com as notas criadas hoje.
+
+O valor confirmado permanece **R\$ 24,90** para "1.000 envelopes + brindes + video
+explicativo editaveis", com entrega efetiva de 2 convites e 2 envelopes.

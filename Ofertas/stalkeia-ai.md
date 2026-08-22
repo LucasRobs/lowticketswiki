@@ -14,7 +14,7 @@ moeda: BRL
 ticket_frente: 37
 ticket_bump: 19
 ticket_upsell: 0
-ticket_medio_est: 60
+ticket_medio_est: 75
 margem_est: 0.85
 modelo: [direct]
 formato_entrega: [app]
@@ -25,8 +25,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-21
-rodadas_vista: 2
+visto_ultimo: 2026-08-22
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-22
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -94,3 +94,19 @@ O achado que importa: existe um subdomínio **`up.stalkeia.website/firewall`**, 
 proteção/redirecionamento antes do funil. É infraestrutura para **esconder o destino real
 da moderação de anúncios** do Meta. Sinal de operação madura e de que o criativo não
 poderia ser aprovado apontando direto para a oferta.
+
+## Rodada 2026-08-22 — sexta reclamacao, e a escada em numeros
+
+Reclamacao de 17/08/2026 (ID 256618461), posterior a varredura de 16/08 — conta como nova.
+`ra_reclamacoes` 5 -> 6.
+
+O comprador registra o valor exato: **dois PIX, R\$ 56,96 + R\$ 37,00 = R\$ 93,96**. O vault
+tinha `ticket_frente: 37` e `ticket_bump: 19`, somando 56. Os numeros reais nao batem com
+essa decomposicao — ha um degrau a mais ou um preco diferente do registrado.
+`ticket_medio_est` vai de 60 para 75, entre a frente conhecida e o topo observado.
+
+Vale notar que a PerfectPay reembolsou em ~9 horas. Reembolso rapido em gateway grande
+reduz o custo de reclamar, o que **infla** a contagem em relacao a gateways lentos — e mais
+um motivo para nao comparar `ra_reclamacoes` entre plataformas diferentes.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem_bsQiiX5mms5RNOcb/

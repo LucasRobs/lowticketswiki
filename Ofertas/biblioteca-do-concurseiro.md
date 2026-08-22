@@ -23,7 +23,7 @@ s_ticket: 3
 s_lucro: 7
 s_replica: 9
 s_saturacao: 3
-status: ativa
+status: esfriando
 visto_primeiro: 2026-08-20
 visto_ultimo: 2026-08-20
 rodadas_vista: 1

@@ -13,8 +13,8 @@ url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0
-ticket_upsell: 0
-ticket_medio_est: 67
+ticket_upsell: 197
+ticket_medio_est: 97
 margem_est: 0.85
 modelo: [vsl]
 formato_entrega: [curso, app]
@@ -23,22 +23,22 @@ s_ticket: 7
 s_lucro: 5
 s_replica: 5
 s_saturacao: 3
-status: nova
+status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-21
-rodadas_vista: 1
+visto_ultimo: 2026-08-22
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta:
-gateways_detectados: [kirvano]
+gateways_detectados: [kirvano, hubla]
 bump_oculto: false
-upsell_oculto: false
+upsell_oculto: true
 ra_reclamacoes: 1
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-21
+ra_checado: 2026-08-22
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, zap]
@@ -65,3 +65,22 @@ deve ser.
 `s_replica: 5` — é software mais curso, não ebook. `s_saturacao: 3` — ferramenta de zap
 para ganhar dinheiro é o leilão mais disputado que o vault mapeia. Cluster:
 [[zap-radar]], [[teacher-zap]], [[loopyz]].
+
+## Correcao 2026-08-22 — o upsell tem preco e tem outro gateway
+
+Releitura do corpo da mesma reclamacao de 21/08/2026 (ID 257028189). A rodada anterior
+registrou o nome do upsell (Low Scale) e o fato de ele ser cobrado apos recusa. **Faltavam
+os dois dados que mudam o score:**
+
+- O Low Scale custa **R\$ 197,00**. `ticket_upsell` sai de 0 e `ticket_medio_est` de 67 para 97.
+- A cobranca nao passa pela Kirvano: o cartao foi salvo **na plataforma Hubla**, sem
+  autorizacao. O funil atravessa dois gateways — Kirvano na frente, Hubla no upsell.
+
+O segundo achado importa mais que o primeiro. Um funil que troca de gateway entre a frente
+e o upsell **quebra a busca por gateway**: procurar "Lowzap" no Reclame Aqui da Kirvano
+acha a frente e perde a escada, e procurar na Hubla acharia a escada sem o nome do produto.
+O vault nunca varreu a Hubla. Ela nao esta na lista de plataformas do `Pipeline.md`.
+
+`ra_reclamacoes` permanece 1 — e a mesma reclamacao, lida com mais cuidado.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-de-curso-nao-solicitado-e-salvamento-nao-autorizado-de-dados-do-cartao_DZBZe48yfNcvRiBo/

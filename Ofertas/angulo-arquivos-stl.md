@@ -20,13 +20,13 @@ modelo: [direct]
 formato_entrega: [ebook]
 tem_recorrencia: false
 s_ticket: 4
-s_lucro: 6
+s_lucro: 7
 s_replica: 8
 s_saturacao: 8
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-08-22
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/angulo-arquivos-stl"
 gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-08-22
 veredito: replicar
 prioridade: 2
 tags: [oferta, lowticket, angulo]
@@ -84,3 +84,24 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Retorno 2026-08-22
+
+Estava `esfriando` desde 16/08 — duas rodadas sem aparecer. Voltou com reclamacao de
+**21/08/2026** (ID 257096749) na Wiapy: pacote de modelos 3D comprado, link enviado por
+e-mail, pagina de login que nao reconhece o e-mail do comprador. `ra_reclamacoes` 2 -> 3.
+
+Seis dias entre a primeira aparicao e esta, com reclamacao nova nos dois extremos: e venda
+continua, nao pico. `s_lucro` 6 -> 7.
+
+O detalhe da entrega importa. O produto nao vai por download direto — vai para uma **area
+de membros com login**, e o login e onde quebra. Uma oferta de arquivos STL nao precisa de
+area de membros; quem coloca uma esta protegendo o arquivo contra redistribuicao, o que
+sugere que o produtor sabe que o ativo e o catalogo e nao o funil.
+
+Continua sendo a oferta com `veredito: replicar` de maior `s_replica` do vault fora do
+cluster de PDFs. O que a segura fora do corte e `s_ticket: 4` — R\$ 30 sem bump.
+**Um bump obvio existe e ninguem esta usando:** o proprio arquivo em resolucao maior, ou o
+pacote de suportes/bases de impressao.
+
+Evidencia: https://www.reclameaqui.com.br/wiapy/problema-de-acesso-ao-pacote-de-modelos-3d-apos-compra_mAdXMhKWMnuuEgqL/
