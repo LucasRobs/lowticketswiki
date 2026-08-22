@@ -134,5 +134,25 @@ ra_reclamacoes: 0
 criativos_novos: 0                # quantos criativos apareceram desde a rodada anterior
 ```
 
-`checkout` e `ra_plataformas` usam o mesmo vocabulário controlado. Não invente valor
-novo sem adicionar aqui primeiro — filtro de Base quebra silenciosamente com typo.
+`checkout`, `gateways_detectados` e `ra_plataformas` usam o mesmo vocabulário controlado.
+Não invente valor novo sem adicionar aqui primeiro — filtro de Base quebra silenciosamente
+com typo.
+
+### Vocabulário de gateway (atualizado 2026-08-22)
+
+Auditoria da rodada de 22/08 encontrou seis valores já em uso nas notas e ausentes desta
+lista. Registrados agora para fechar o buraco:
+
+| Valor | Onde apareceu | Nota |
+|---|---|---|
+| `hubla` | `gateways_detectados` de [[lowzap]] | cobra o upsell de um funil cuja frente roda na Kirvano. **Não está na varredura do `Pipeline.md`** — adicionar à Etapa 3. |
+| `ggcheckout` | `checkout` de [[aula-desplugada]] | gateway real, faltava na lista |
+| `payt` | `checkout` de [[zap-radar]] | gateway real, faltava na lista |
+| `whatsapp` | `checkout` de [[planos-aula-infantil-500]] | não é gateway: é venda por conversa, sem checkout. Valor legítimo, semântica diferente. |
+| `desconhecido` | `checkout` dos dois [[desafio-21-dias-com-deus-traco]] | sentinela explícita para "não capturado ainda". Preferível a deixar vazio, que a Base lê como igual a qualquer coisa. |
+
+Lista completa válida para os três campos:
+
+`perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
+`hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` ·
+`stripe` · `clickbank` · `whatsapp` · `desconhecido`
