@@ -7,7 +7,7 @@ sub_nicho: birra-disciplina
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
-checkout: 
+checkout: desconhecido
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=parar%20de%20gritar%20filho&search_type=keyword_unordered&media_type=all"
 moeda: BRL
