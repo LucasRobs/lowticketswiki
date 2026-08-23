@@ -25,8 +25,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-22
-rodadas_vista: 2
+visto_ultimo: 2026-08-23
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 2026-08-20
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -113,3 +113,7 @@ Reclamacao de 20/08/2026 (ID 257010225), respondida pela Kirvano em 21/08 com re
 Nao e reclamacao nova: `ra_reclamacoes` permanece 1.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/solicitacao-de-reembolso-e-cancelamento-de-assinatura-do-app-do-paizao-devido-a-propaganda-enganosa-e-falta-de-resposta_mOZ3HEZUt5dFEF1S/
+
+## Rodada 2026-08-23
+
+Kirvano, ha 16h: pedido de reembolso e cancelamento da assinatura por propaganda enganosa. Confirma a leitura corrigida de ontem - e assinatura de fitness, nao produto de paternidade. Score mantido em 5,05.

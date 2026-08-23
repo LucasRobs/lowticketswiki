@@ -20,14 +20,14 @@ modelo: [direct]
 formato_entrega: [app]
 tem_recorrencia: true
 s_ticket: 9
-s_lucro: 7
+s_lucro: 8
 s_replica: 3
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-22
-rodadas_vista: 2
-dias_no_ar: 0
+visto_ultimo: 2026-08-23
+rodadas_vista: 3
+dias_no_ar: 149
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [kirvano]
-ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-22
+ra_primeira_reclamacao: 2026-03-27
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, ia]
@@ -90,3 +90,7 @@ Tres consequencias:
 `ra_reclamacoes` permanece 1.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-de-produto-apos-solicitacao-de-reembolso-e-cancelamento_w-be-Q3HeN6FdwPQ/
+
+## Rodada 2026-08-23
+
+Kirvano, ha 13h: mesma historia de 27/03 e R$ 57,00, com cobranca recorrente sobrevivendo ao cancelamento. 149 dias de venda medidos a partir da data de compra. Risco de dupla contagem com a reclamacao de ontem - as duas citam a mesma data e o mesmo valor. Registrado como reclamacao nova, com a ressalva.

@@ -23,11 +23,11 @@ s_ticket: 5
 s_lucro: 3
 s_replica: 2
 s_saturacao: 2
-status: nova
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-22
-rodadas_vista: 1
-dias_no_ar: 0
+visto_ultimo: 2026-08-23
+rodadas_vista: 2
+dias_no_ar: 6
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: true
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 2026-08-17
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, escada-de-taxas]
@@ -93,3 +93,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-23
+
+PerfectPay, ha 9h: a escada de taxas aparece completa e literal - "primeiro pediu 25,90 depois pediu mais 10 reais e depois pediu mais 10 reais". Confirma ticket_medio_est de 56 sem precisar de Brute Mode. 6 dias desde a primeira reclamacao.

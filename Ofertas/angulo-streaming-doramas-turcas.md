@@ -23,10 +23,10 @@ s_ticket: 3
 s_lucro: 8
 s_replica: 3
 s_saturacao: 6
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-20
-rodadas_vista: 2
+visto_ultimo: 2026-08-23
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/angulo-streaming-doramas-turcas"
 gateways_detectados: [lowify, cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 9
 ra_plataformas: [lowify, cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-20
+ra_checado: 2026-08-23
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -100,3 +100,7 @@ tipicamente de R$10 a R$20. Registro a pendência em vez de inflar o score.
 Oito menções em dois gateways é o segundo maior volume do vault, atrás só de
 [[treino-trinca]]. O veredito segue `descartar`: o produto é catálogo de terceiro. O que
 vale continua sendo a leitura de demanda.
+
+## Rodada 2026-08-23
+
+RETORNO. Lowify, 21/08: "compra de uma serie, informando que teriam todos os episodios mas veio apenas alguns". Estava esfriando desde 20/08 por ausencia, nao por queda - a rodada de ontem simplesmente nao alcancou esta reclamacao. Nona reclamacao acumulada.

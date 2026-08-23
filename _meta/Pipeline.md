@@ -110,3 +110,37 @@ volume**: aqui zero é o esperado.
 
 Nichos onde a Etapa 3 continua valendo: espionagem, cashback/Pix, apostas, trading, IA,
 streaming — todos com mecânica de "taxa pra liberar", que é o que faz o comprador brigar.
+
+---
+
+## Adendo — o que fazer quando so a Etapa 3 esta disponivel (2026-08-23)
+
+Quinta rodada consecutiva sem Biblioteca de Anuncios e sem unFunnelizer. O pipeline
+escrito acima pressupoe as tres etapas; sem as duas primeiras ele nao degrada com
+elegancia, entao aqui esta a versao curta do que funciona.
+
+**1. Ler o corpo, nao so o titulo.** O titulo da reclamacao e um resumo gerado; o corpo
+tem data de compra, valor pago e a escada de ofertas. Em 22/08 o [[app-do-paizao]] foi
+pontuado pelo titulo e a nota inteira estava errada — o corpo estava a uma requisicao de
+distancia. **Data de compra no corpo e o melhor proxy de `dias_no_ar` disponivel sem
+browser**, e mede a oferta em vez do anuncio.
+
+**2. A lista de reclamacoes so entrega as 5 mais recentes por requisicao.** Paginacao nao
+esta acessivel. Consequencia pratica: cada gateway rende no maximo 5 sinais por rodada, e
+**ampliar o numero de gateways rende mais que aprofundar em um**. Cobertura atual: Lowify,
+Wiapy, Lastlink, Kirvano, PerfectPay, Ticto, Kiwify, Hubla, Cakto.
+
+**3. `hubla` entrou na varredura** — pendencia aberta pelo `Schema.md` em 22/08, fechada.
+
+**4. Cuidado com URL filtrada.** Em 23/08 a lista da Cakto veio com `?problema=...` grudado
+e devolveu so "Atraso na entrega" — 5 reclamacoes de 9 a 18 dias atras, nenhuma recente.
+Parecia Cakto parada; era a URL. **Sempre conferir se o cabecalho diz "Todas as reclamacoes
+para X" e nao "Todas as reclamacoes sobre <problema> para X".**
+
+**5. Oferta sem nome ainda vale nota.** A mecanica pode ser o achado mesmo quando o produto
+nao se identifica — ver [[desafio-anamnese-plano-alimentar]]. `slug` congela, `nome` carrega
+"(nome nao capturado)" ate alguem capturar.
+
+**6. `s_ticket: 0` e sentinela, nao avaliacao.** Quando o valor nao aparece no corpo, zero
+e mais honesto que estimativa — mas derruba o score composto e afunda a nota no Ranking.
+Notas com `s_ticket: 0` nao devem ser comparadas com as outras ate a captura.

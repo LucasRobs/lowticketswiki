@@ -96,3 +96,31 @@ vale mais atenção do que uma oferta nova.
 - `score >= 7.5` **e** `s_replica >= 7` → candidata a replicar
 - `score >= 6` → observar, revisar semanalmente
 - `s_lucro <= 3` após 3 rodadas → descartar, não gasta mais atenção
+
+---
+
+## Adendo — ausencia de exatamente uma rodada (2026-08-23)
+
+A tabela de ciclo de vida acima tinha um buraco: `nova` so descrevia a rodada de estreia
+e `esfriando` so comecava em 2 rodadas de ausencia. Uma oferta ausente por **exatamente
+uma rodada** nao se encaixava em nenhuma linha, entao a skill nao mexia no status e ela
+ficava `nova` para sempre. Em 22/08 isso tinha 35 das 70 notas travadas — metade do vault
+descrita por um campo que so significava "ninguem recalculou".
+
+**Regra:** `nova` vale apenas na rodada de estreia. A partir da rodada seguinte, o status
+e funcao da ausencia, sempre:
+
+| Rodadas sem ver | Status |
+|---|---|
+| 0 (vista hoje) | `ativa` (ou `aquecendo`, se `criativos_delta` > 0 por 2+ rodadas) |
+| 1 | `ativa` — ausencia de uma rodada nao e sinal, e cobertura |
+| 2-6 | `esfriando` |
+| 7+ | `morta` |
+
+A contagem e em **rodadas**, nao em dias: o radar nao roda todo dia e datas de calendario
+mentiriam sobre a frequencia de observacao.
+
+**Efeito colateral que era o ponto:** aplicada em 23/08, a regra moveu 37 notas e deixou
+53 das 75 em `esfriando`. Isso nao e o mercado esfriando, e o vault admitindo que a maior
+parte do que ele guarda foi visto uma vez e nunca mais. Enquanto a Biblioteca de Anuncios
+estiver fora, essa e a leitura correta.

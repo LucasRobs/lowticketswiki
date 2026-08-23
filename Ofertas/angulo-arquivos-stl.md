@@ -25,8 +25,8 @@ s_replica: 8
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-22
-rodadas_vista: 2
+visto_ultimo: 2026-08-23
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/angulo-arquivos-stl"
 gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: replicar
 prioridade: 2
 tags: [oferta, lowticket, angulo]
@@ -105,3 +105,7 @@ cluster de PDFs. O que a segura fora do corte e `s_ticket: 4` — R\$ 30 sem bum
 pacote de suportes/bases de impressao.
 
 Evidencia: https://www.reclameaqui.com.br/wiapy/problema-de-acesso-ao-pacote-de-modelos-3d-apos-compra_mAdXMhKWMnuuEgqL/
+
+## Rodada 2026-08-23
+
+Wiapy, ha 16h: "pacote de modelos 3D" com link por e-mail que nao abre. Quarta reclamacao acumulada, terceira rodada consecutiva vista. Entrega por link de arquivo continua sendo o ponto de falha - e a evidencia de que vende.

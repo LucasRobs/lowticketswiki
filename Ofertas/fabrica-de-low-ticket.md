@@ -20,13 +20,13 @@ modelo: [vsl]
 formato_entrega: [curso]
 tem_recorrencia: false
 s_ticket: 7
-s_lucro: 3
+s_lucro: 4
 s_replica: 5
 s_saturacao: 3
-status: nova
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-22
-rodadas_vista: 1
+visto_ultimo: 2026-08-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, meta-oferta, inteligencia-de-nicho]
@@ -89,3 +89,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-23
+
+Ticto, ha 1 dia: arrependimento no mesmo dia da compra e reembolso nao efetuado. Segunda reclamacao em duas rodadas.

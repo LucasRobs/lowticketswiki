@@ -20,13 +20,13 @@ modelo: [direct]
 formato_entrega: [planilha, pdf]
 tem_recorrencia: false
 s_ticket: 3
-s_lucro: 3
+s_lucro: 4
 s_replica: 9
 s_saturacao: 6
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-22
-rodadas_vista: 2
+visto_ultimo: 2026-08-23
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [lowify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [lowify]
 ra_primeira_reclamacao: 2026-08-20
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, templates]
@@ -82,3 +82,7 @@ abertura). A rodada anterior gravou a data errada; o campo agora segue a regra d
 
 O valor confirmado permanece **R\$ 24,90** para "1.000 envelopes + brindes + video
 explicativo editaveis", com entrega efetiva de 2 convites e 2 envelopes.
+
+## Rodada 2026-08-23
+
+Reclamacao de 20/08 na Lowify confirma o ticket de 24,90 e a promessa exata do anuncio: "1.000 envelopes de casamento mais alguns brindes e video explicativo editaveis". O comprador recebeu 2 convites e 2 envelopes. Segunda reclamacao da oferta; o gap entre promessa e entrega e o proprio mecanismo de conversao.

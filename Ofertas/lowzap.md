@@ -20,13 +20,13 @@ modelo: [vsl]
 formato_entrega: [curso, app]
 tem_recorrencia: false
 s_ticket: 7
-s_lucro: 5
+s_lucro: 6
 s_replica: 5
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-22
-rodadas_vista: 2
+visto_ultimo: 2026-08-23
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [kirvano, hubla]
 bump_oculto: false
 upsell_oculto: true
-ra_reclamacoes: 1
-ra_plataformas: [kirvano]
+ra_reclamacoes: 2
+ra_plataformas: [kirvano, hubla]
 ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, zap]
@@ -84,3 +84,7 @@ O vault nunca varreu a Hubla. Ela nao esta na lista de plataformas do `Pipeline.
 `ra_reclamacoes` permanece 1 — e a mesma reclamacao, lida com mais cuidado.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-de-curso-nao-solicitado-e-salvamento-nao-autorizado-de-dados-do-cartao_DZBZe48yfNcvRiBo/
+
+## Rodada 2026-08-23
+
+Kirvano, ha 5h: o upsell **Low Scale** foi cobrado mesmo depois do comprador RECUSAR a oferta na pagina, e os dados do cartao ficaram salvos sem autorizacao. Isso reclassifica o degrau: nao e upsell escondido, e cobranca contra recusa explicita. Terceira rodada consecutiva.

@@ -25,8 +25,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-22
-rodadas_vista: 3
+visto_ultimo: 2026-08-23
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 7
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -110,3 +110,7 @@ reduz o custo de reclamar, o que **infla** a contagem em relacao a gateways lent
 um motivo para nao comparar `ra_reclamacoes` entre plataformas diferentes.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem_bsQiiX5mms5RNOcb/
+
+## Rodada 2026-08-23
+
+PerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista. Volume estavel e alto - a unica oferta do vault presente em todas as rodadas desde 16/08.

@@ -23,11 +23,11 @@ s_ticket: 5
 s_lucro: 4
 s_replica: 7
 s_saturacao: 7
-status: nova
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-22
-rodadas_vista: 1
-dias_no_ar: 0
+visto_ultimo: 2026-08-23
+rodadas_vista: 2
+dias_no_ar: 11
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, dublagem-ia]
@@ -93,3 +93,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-23
+
+Segunda reclamacao em dois dias na Wiapy (ha 11h). Compra de 12/08 registrada ontem => 11 dias no ar medidos. Duas reclamacoes em 11 dias de vida e ritmo alto para um curso de R$ 50.

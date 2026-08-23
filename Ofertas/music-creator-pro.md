@@ -20,13 +20,13 @@ modelo: [direct]
 formato_entrega: [pdf]
 tem_recorrencia: false
 s_ticket: 5
-s_lucro: 3
+s_lucro: 4
 s_replica: 8
 s_saturacao: 7
-status: nova
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-22
-rodadas_vista: 1
+visto_ultimo: 2026-08-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-22
+ra_checado: 2026-08-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -89,3 +89,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-23
+
+Segunda reclamacao na Wiapy (ha 4h), citando o produto pelo nome. Mesmo padrao de ontem: comprador esperava aulas explicativas e recebeu so os arquivos. Idade ainda nao capturada.
