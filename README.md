@@ -46,3 +46,4 @@ Abra `Bases/` — quatro visões:
 - `_meta/Schema.md` — as propriedades exatas que a skill deve gravar
 - `_meta/Scoring.md` — a rubrica dos 4 eixos e como o score é calculado
 
+# lowticketswiki
