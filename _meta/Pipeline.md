@@ -144,3 +144,33 @@ nao se identifica — ver [[desafio-anamnese-plano-alimentar]]. `slug` congela, 
 **6. `s_ticket: 0` e sentinela, nao avaliacao.** Quando o valor nao aparece no corpo, zero
 e mais honesto que estimativa — mas derruba o score composto e afunda a nota no Ranking.
 Notas com `s_ticket: 0` nao devem ser comparadas com as outras ate a captura.
+
+
+---
+
+## Adendo — a lista nao gira em 24h (2026-08-24)
+
+O adendo de 23/08 registrou que cada gateway rende no maximo 5 sinais por rodada. Faltava a
+metade pior do problema: **essas 5 linhas nao sao 5 linhas novas.**
+
+Medido em 24/08, com os corpos abertos e datados:
+
+- A reclamacao da [[desafio-anamnese-plano-alimentar]] listada hoje e a de **22/08 as 17h33,
+  ID 257133061** — a mesma que originou a nota em 23/08.
+- A linha da [[stalkeia-ai]] aponta para `bsQiiX5mms5RNOcb`, **a mesma URL citada como evidencia
+  na nota de 22/08**. Tres rodadas na primeira pagina, contada como sinal novo em duas.
+- Das 5 linhas da PerfectPay, 5 sao identicas as de ontem. No total, ~40 das 45 vagas repetem.
+
+**Os rotulos relativos mentem.** A anamnese aparece como "Ha 21 horas" com carimbo proprio de
+43 horas. O rotulo parece refletir atividade na reclamacao, nao criacao. **Nunca datar uma
+observacao pelo rotulo relativo — sempre abrir o corpo e ler o carimbo.**
+
+**Regra (substitui a contagem ingenua):** `ra_reclamacoes` so incrementa quando a data do corpo
+e **posterior a rodada anterior**. Aparecer na lista conta como avistamento — atualiza
+`visto_ultimo`, `rodadas_vista` e `status`, grava snapshot — mas nao move a contagem. Quando
+nao for viavel abrir o corpo, nao incrementar: falso negativo e barato, contagem inflada
+contamina `s_lucro`, que tem o maior peso do score.
+
+**Consequencia de cadencia.** Rodar diariamente contra uma fonte que se move a cada 2-3 dias
+nao produz serie temporal; produz a mesma fotografia com datas diferentes. Enquanto a Etapa 1
+estiver fora, **a cadencia certa e de 2 a 3 dias.**

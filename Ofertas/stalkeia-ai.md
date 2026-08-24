@@ -25,8 +25,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-23
-rodadas_vista: 4
+visto_ultimo: 2026-08-24
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 7
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -114,3 +114,7 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-e
 ## Rodada 2026-08-23
 
 PerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista. Volume estavel e alto - a unica oferta do vault presente em todas as rodadas desde 16/08.
+
+## Rodada 2026-08-24
+
+PerfectPay. URL da reclamacao de hoje e identica a citada na nota de 22/08 (bsQiiX5mms5RNOcb) — a lista nao girou em dois dias. ra_reclamacoes mantido em 7: o 8 de ontem seria contagem dupla.

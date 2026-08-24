@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-23
+atualizado: 2026-08-24
 ---
 
 # Painel — Radar Low Ticket
@@ -11,50 +11,50 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-23
+## Leitura atual — 2026-08-24
 
-**17 ofertas vistas · 5 novas · 1 retornou · 37 mudancas de status · 0 no corte de replicacao**
+**20 ofertas vistas · 4 novas · 0 retornaram · 8 mudancas de status · 0 no corte de replicacao**
 
-Quinta rodada. Biblioteca de Anuncios fora pelo quinto dia e unFunnelizer fora pelo quinto
-dia — hoje nao por falta de grant, mas porque pedir o grant exige o Lucas presente e a
-rodada e agendada. Tudo saiu do Reclame Aqui, agora em **nove gateways**, com Kiwify e
-Hubla estreando. O vault fecha em **75 ofertas**. A tabela **Acelerando** segue vazia pelo
-quinto dia, pela mesma razao de sempre.
+Sexta rodada. Biblioteca de Anuncios e unFunnelizer fora pelo sexto dia. Tudo saiu do Reclame
+Aqui, nos mesmos nove gateways. A Cakto voltou a ser legivel — o cabecalho hoje diz "Todas as
+reclamacoes", sem o `?problema=` que sabotou a leitura de ontem — e foi o unico gateway a
+devolver sinal genuinamente novo. O vault fecha em **79 ofertas**. A tabela **Acelerando**
+segue vazia pelo sexto dia, pela mesma razao de sempre.
 
-**A correcao pendente desde 16/08 foi finalmente implementada, e o resultado e
-desconfortavel do jeito certo.** O `Scoring.md` nao dizia o que fazer com uma oferta
-ausente por exatamente uma rodada, entao 35 das 70 notas estavam presas em `nova` — metade
-do vault descrita por um campo que so significava "ninguem recalculou". Com a regra escrita
-e aplicada, 37 notas mudaram de status: sobram 5 `nova` e aparecem **53 `esfriando` de 75**.
-Isso nao e o mercado esfriando. E o vault admitindo que a maior parte do que ele guarda foi
-vista uma vez e nunca mais.
+**A descoberta da rodada nao e uma oferta: e que o instrumento esta sendo lido mais rapido do
+que ele se atualiza.** Abrindo os corpos datados, a reclamacao da
+[[desafio-anamnese-plano-alimentar]] de hoje e a de 22/08 as 17h33, ID 257133061 — a mesma que
+originou a nota ontem. E a linha da [[stalkeia-ai]] de hoje aponta para a URL `bsQiiX5mms5RNOcb`,
+**a mesma citada como evidencia na nota de 22/08**: ela esteve na primeira pagina em tres
+rodadas seguidas e foi contada como sinal novo em duas. Os rotulos relativos ("Ha 8 horas")
+mentem — a reclamacao da anamnese aparece como "Ha 21 horas" com carimbo proprio de 43. Das
+quarenta e cinco vagas nas nove listas, quarenta repetem a rodada anterior.
 
-**O topo do ranking agora esta inteiramente em `esfriando`, o que confirma a reclamacao das
-duas ultimas rodadas.** [[angulo-diagnostico-isca]] e [[angulo-desintoxicacao-telas]]
-lideram em 7,35 com `ra_reclamacoes: 0` e duas rodadas sem serem vistas. Elas pontuam alto
-porque foram avaliadas por hipotese de angulo, e ate hoje hipotese nao decaia. Agora o campo
-`status` discorda do campo `score` na mesma linha da tabela — o que e progresso, porque
-antes os dois concordavam em estar errados.
+**Regra adotada agora:** `ra_reclamacoes` so incrementa quando a data do corpo e posterior a
+rodada anterior; aparecer na lista conta como avistamento, nao como sinal. [[stalkeia-ai]] fica
+em 7 e nao em 8. A consequencia real e sobre **cadencia, nao rubrica**: rodar diariamente contra
+uma fonte que se move a cada dois ou tres dias nao produz serie temporal, produz a mesma
+fotografia carimbada com datas diferentes e uma contagem que sobe sozinha. Enquanto a Biblioteca
+de Anuncios estiver fora, rodar a cada dois ou tres dias mediria a mesma coisa com um terco do
+ruido.
 
-**Zero no corte pela quinta rodada, mas por um motivo novo e mais util que o anterior.** Nas
-quatro primeiras, nada passava porque o score comprimia o sinal. Hoje nada passa porque as
-unicas ofertas com evidencia de venda **medida** — [[unlovable]] com 149 dias desde a compra
-de 27/03, [[stalkeia-ai]] com 7 reclamacoes e presenca em todas as rodadas, [[treino-trinca]]
-com 10 — tem `s_replica` de 3, 4 e 6. E as ofertas com `s_replica` alto nao tem prova de
-venda nenhuma. **O vault esta alimentando os dois lados do corte com fontes diferentes:
-o Reclame Aqui so encontra o que gera briga, e o que gera briga e software, assinatura e
-app — exatamente o que o Lucas nao replica.** Isso nao se conserta com peso nem com media
-geometrica. Se conserta com a Biblioteca de Anuncios, que e a unica fonte capaz de dar
-evidencia de venda a um ebook de R$ 27.
+**Zero no corte pela sexta rodada, mas faltou pouco de um jeito novo.**
+[[cafe-premium-barista-academy]] tem o perfil que as cinco rodadas anteriores nunca produziram:
+`s_replica: 7`, nicho de cafe/barista intocado no vault, sem regulacao, sem estigma, sem rosto,
+com doze dias de venda medidos e um angulo lateral inedito (a compra foi para presentear). Ela
+para em 4,70 **apenas porque `s_ticket` e sentinela**. Um ticket medio de R$ 60 a levaria a ~6,2
+sem que nenhum outro eixo se mexa. E o argumento mais concreto ate agora de que o gargalo do
+vault e **captura de ticket, nao descoberta de oferta**.
 
-**O melhor achado da rodada nao tem nome.** [[desafio-anamnese-plano-alimentar]], na
-Lastlink: order bump duplo no checkout e depois uma anamnese em interface de falso chat que
-nunca conclui — cada tentativa dispara uma oferta de plano (R$ 200, R$ 200 trimestral,
-R$ 100 aceita) e sem comprar a anamnese nao termina. A anamnese nao e onboarding, e o
-mecanismo de downsell. Junto com o [[lowzap]], cujo upsell **Low Scale** foi cobrado depois
-de recusa explicita na pagina, o padrao do degrau invisivel ganha uma versao mais agressiva:
-nao e so cobrar o que o comprador nao viu, e cobrar o que ele disse nao. Nenhum dos dois
-apareceria no Brute Mode.
+**O melhor achado de mecanica e o [[renderizador-imagem-recarga-google]].** Ele vende uma
+interface e so depois da compra revela que o processamento roda na conta Google do proprio
+comprador, que precisa criar credencial e por credito la. E uma terceira forma do degrau
+invisivel: o vault ja catalogava o upsell escondido ([[lowzap]], [[love-pix]]) e o downsell
+forcado ([[desafio-anamnese-plano-alimentar]]); esta nao cobra mais nada e ainda assim nao paga
+nada, porque a infraestrutura e da vitima. `margem_est: 0.95` nao e otimismo, e o modelo — e a
+versao honesta do mesmo produto, com a recarga declarada na pagina, mantem a margem e mata o
+passivo.
+
 ---
 
 ## Ranking

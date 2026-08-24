@@ -23,10 +23,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 4
 s_saturacao: 6
-status: nova
+status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-08-23
-rodadas_vista: 1
+visto_ultimo: 2026-08-24
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 2026-08-23
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -51,3 +51,7 @@ Descoberta na lista da Kiwify (ha 4h): reembolso do produto **LiveGo Pro** solic
 Mesma familia de [[loopyz]] - ferramenta de live. Vale cruzar as duas: se forem o mesmo funil com nomes diferentes, e clonagem de oferta, que e sinal de que o modelo esta pagando.
 
 `s_ticket: 0` e sentinela - valor nao capturado.
+
+## Rodada 2026-08-24
+
+Kiwify, mesma reclamacao de reembolso nao recebido apos 8 dias. Sem alteracao.

@@ -25,8 +25,8 @@ s_replica: 8
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-23
-rodadas_vista: 3
+visto_ultimo: 2026-08-24
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: replicar
 prioridade: 2
 tags: [oferta, lowticket, angulo]
@@ -109,3 +109,7 @@ Evidencia: https://www.reclameaqui.com.br/wiapy/problema-de-acesso-ao-pacote-de-
 ## Rodada 2026-08-23
 
 Wiapy, ha 16h: "pacote de modelos 3D" com link por e-mail que nao abre. Quarta reclamacao acumulada, terceira rodada consecutiva vista. Entrega por link de arquivo continua sendo o ponto de falha - e a evidencia de que vende.
+
+## Rodada 2026-08-24
+
+Wiapy, mesma reclamacao do pacote de modelos 3D com link quebrado. Sem alteracao.

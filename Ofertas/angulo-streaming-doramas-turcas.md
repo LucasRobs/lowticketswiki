@@ -25,8 +25,8 @@ s_replica: 3
 s_saturacao: 6
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-23
-rodadas_vista: 3
+visto_ultimo: 2026-08-24
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 9
 ra_plataformas: [lowify, cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -104,3 +104,7 @@ vale continua sendo a leitura de demanda.
 ## Rodada 2026-08-23
 
 RETORNO. Lowify, 21/08: "compra de uma serie, informando que teriam todos os episodios mas veio apenas alguns". Estava esfriando desde 20/08 por ausencia, nao por queda - a rodada de ontem simplesmente nao alcancou esta reclamacao. Nona reclamacao acumulada.
+
+## Rodada 2026-08-24
+
+Lowify, mesma reclamacao de serie incompleta ja registrada em 23/08 — a linha nao girou. Sem alteracao.

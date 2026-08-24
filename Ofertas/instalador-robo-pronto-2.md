@@ -25,8 +25,8 @@ s_replica: 5
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-22
-rodadas_vista: 3
+visto_ultimo: 2026-08-24
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta: "Ativos/instalador-robo-pronto-2"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 2026-08-15
-ra_checado: 2026-08-22
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -78,3 +78,7 @@ como degrau de atrito no cancelamento e o espelho do formulario como degrau de v
 `ra_primeira_reclamacao` preenchida com 2026-08-15, que era o campo vazio mais antigo da nota.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/reembolso-do-curso-instalador-robo-pronto-20-nao-realizado-dentro-do-prazo-legal_DOyIPqc4u83v-ITB/
+
+## Rodada 2026-08-24
+
+Cakto, reclamacao NOVA: reembolso do INSTALADOR ROBO PRONTO 2.0 fora do prazo legal. Primeiro sinal desde a Cakto voltar a ser legivel. ra_reclamacoes 2 -> 3.

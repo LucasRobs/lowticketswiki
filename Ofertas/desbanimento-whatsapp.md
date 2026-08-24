@@ -25,8 +25,8 @@ s_replica: 1
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-22
-rodadas_vista: 1
+visto_ultimo: 2026-08-24
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -35,10 +35,10 @@ ativos_pasta:
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 2026-08-15
-ra_checado: 2026-08-22
+ra_checado: 2026-08-24
 veredito: descartar
 prioridade: 0
 tags: [oferta, servico, descartada]
@@ -83,3 +83,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-08-24
+
+Cakto, reclamacao NOVA: R$ 100 pagos para desbanir numero, tres meses sem entrega. A Cakto nao foi lida em 23/08 (URL com filtro de problema), entao este e sinal genuinamente novo. ra_reclamacoes 1 -> 2.

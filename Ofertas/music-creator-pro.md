@@ -25,8 +25,8 @@ s_replica: 8
 s_saturacao: 7
 status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-23
-rodadas_vista: 2
+visto_ultimo: 2026-08-24
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -93,3 +93,7 @@ views:
 ## Rodada 2026-08-23
 
 Segunda reclamacao na Wiapy (ha 4h), citando o produto pelo nome. Mesmo padrao de ontem: comprador esperava aulas explicativas e recebeu so os arquivos. Idade ainda nao capturada.
+
+## Rodada 2026-08-24
+
+Wiapy, mesma reclamacao de 23/08 (produto digital sem aulas explicativas). Sem alteracao.

@@ -25,8 +25,8 @@ s_replica: 7
 s_saturacao: 7
 status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-23
-rodadas_vista: 2
+visto_ultimo: 2026-08-24
+rodadas_vista: 3
 dias_no_ar: 11
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, dublagem-ia]
@@ -97,3 +97,7 @@ views:
 ## Rodada 2026-08-23
 
 Segunda reclamacao em dois dias na Wiapy (ha 11h). Compra de 12/08 registrada ontem => 11 dias no ar medidos. Duas reclamacoes em 11 dias de vida e ritmo alto para um curso de R$ 50.
+
+## Rodada 2026-08-24
+
+Wiapy, mesma reclamacao de 23/08. Sem alteracao.

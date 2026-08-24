@@ -23,10 +23,10 @@ s_ticket: 10
 s_lucro: 4
 s_replica: 3
 s_saturacao: 5
-status: nova
+status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-08-23
-rodadas_vista: 1
+visto_ultimo: 2026-08-24
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: true
 ra_reclamacoes: 1
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -61,3 +61,7 @@ A anamnese nao e onboarding: e o mecanismo de downsell. Ela nunca "conclui" porq
 **Por que o score continua baixo mesmo com a mecanica sendo boa:** `s_replica: 3` - nicho de saude tem teto 4 no `Scoring.md`, e o funil depende de uma interface de chat com estado, nao de duas paginas. `s_ticket: 10` pela escada medida. `s_lucro: 4` porque nao ha idade da oferta, so a evidencia de que a escada funcionou pelo menos uma vez.
 
 **O que falta:** o nome. Sem ele nao da para buscar na Biblioteca de Anuncios nem cruzar com outras reclamacoes. `slug` fica congelado; `nome` muda quando for capturado.
+
+## Rodada 2026-08-24
+
+Lastlink. Corpo aberto e datado: 22/08/2026 as 17h33, ID 257133061 — e a MESMA reclamacao que originou a nota ontem. Confirma a escada (bump duplo, R$200 -> R$200 trimestral -> R$100 aceito) mas nao e sinal novo.

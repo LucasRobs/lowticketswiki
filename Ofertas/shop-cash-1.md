@@ -25,8 +25,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-23
-rodadas_vista: 2
+visto_ultimo: 2026-08-24
+rodadas_vista: 3
 dias_no_ar: 11
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 2026-08-16
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, ia]
@@ -94,3 +94,7 @@ views:
 ## Rodada 2026-08-23
 
 PerfectPay, ha 11h: compra em 12/08, produto nao corresponde ao anunciado, falhas no aplicativo. Segunda reclamacao. 11 dias de venda medidos.
+
+## Rodada 2026-08-24
+
+PerfectPay, mesma reclamacao com compra em 12/08. Sem alteracao.

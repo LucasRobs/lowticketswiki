@@ -25,8 +25,8 @@ s_replica: 9
 s_saturacao: 6
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-23
-rodadas_vista: 3
+visto_ultimo: 2026-08-24
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [lowify]
 ra_primeira_reclamacao: 2026-08-20
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, templates]
@@ -86,3 +86,7 @@ explicativo editaveis", com entrega efetiva de 2 convites e 2 envelopes.
 ## Rodada 2026-08-23
 
 Reclamacao de 20/08 na Lowify confirma o ticket de 24,90 e a promessa exata do anuncio: "1.000 envelopes de casamento mais alguns brindes e video explicativo editaveis". O comprador recebeu 2 convites e 2 envelopes. Segunda reclamacao da oferta; o gap entre promessa e entrega e o proprio mecanismo de conversao.
+
+## Rodada 2026-08-24
+
+Lowify, mesma reclamacao do pacote de 1.000 envelopes de 23/08. Sem alteracao.

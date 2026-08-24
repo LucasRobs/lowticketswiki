@@ -25,8 +25,8 @@ s_replica: 5
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-23
-rodadas_vista: 2
+visto_ultimo: 2026-08-24
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-23
+ra_checado: 2026-08-24
 veredito: observar
 prioridade: 1
 tags: [oferta, meta-oferta, inteligencia-de-nicho]
@@ -93,3 +93,7 @@ views:
 ## Rodada 2026-08-23
 
 Ticto, ha 1 dia: arrependimento no mesmo dia da compra e reembolso nao efetuado. Segunda reclamacao em duas rodadas.
+
+## Rodada 2026-08-24
+
+Ticto, mesma reclamacao de arrependimento de 23/08. Sem alteracao.
