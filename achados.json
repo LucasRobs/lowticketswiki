@@ -1,0 +1,103 @@
+{
+  "data_varredura": "2026-08-26",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "reclamacoes_ativas": 287224,
+      "paginas_varridas": 1
+    },
+    {
+      "nome": "Cakto",
+      "slug": "cakto-pay",
+      "reclamacoes_ativas": 0,
+      "paginas_varridas": 1
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "R$ 47-87",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Grafias: Stalkeia.com, Stalkeia App, IA STALKER. Cobra créditos extras para liberar resultado. Três menções em 25/08-26/08 com valores R$ 47 e R$ 87.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-de-taxa-adicional-nao-combinada-e-falta-de-acesso-ao-produto-comprado__chfFQTX8pupMWB5/"
+    },
+    {
+      "produto": "hqflix",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "Streaming e entretenimento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "hqflix",
+      "descricao": "Serviço de streaming anunciado como acesso vitalício. Comprador de 21/11/2025 não consegue mais acessar. Solicita estorno.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/usuario-solicita-estorno-por-nao-conseguir-mais-acessar-o-servico-hqflix-que-foi-anunciado-como-acesso-vitalicio_7zfD-D4s6GauY3fc/"
+    },
+    {
+      "produto": "PLANO FREELANCER IMEDIATO",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "Ganhar dinheiro online / trabalho remoto",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 11 + R$ 30 upsell",
+      "termo_busca": "freelancer imediato",
+      "descricao": "Plano vendido pela equipe Cakto por R$ 11 para acessar sites de trabalho remoto. Após pagamento, exige R$ 30 adicional para liberar acesso. Mecânica de taxa para desbloquear.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/plano-freelancer-imediato-pagamento-adicional-exigido-apos-compra-inicial-para-liberacao-de-acesso_Aa7b4b27tHVPApDH/"
+    },
+    {
+      "produto": "Pagamentos não recebidos (ângulo)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Serviços financeiros / Pix",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 13,89 + R$ 38,89",
+      "termo_busca": "pagamento nao recebido cakto",
+      "descricao": "Cliente alega ter feito pagamentos via Cakto Pay (R$ 13,89 e R$ 38,89) e não ter recebido o serviço. Padrão de cobrança sem entrega.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cliente-alega-ter-sido-editado-pelo-reclame-aqui-pela-cakto-pay-apos-solicitacao-de-pagamento-nao-recebido_iGkp9DgcxElv0_2Y/"
+    },
+    {
+      "produto": "Dificuldade de reembolso Cakto (ângulo)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "reembolso cakto dificuldade",
+      "descricao": "Comprador pediu reembolso em menos de 4 dias, não obteve resposta do produtor nem suporte da Cakto. Indica falha no fluxo de reembolso da plataforma.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reclamacao-sobre-falta-de-resposta-e-dificuldade-de-reembolso-na-cakto_jiJdywNvdI1eyqGx/"
+    },
+    {
+      "produto": "Falha validação Conta Digital Cakto - produtor (ângulo)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Serviços financeiros / conta digital",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 1.100+ retidos",
+      "termo_busca": "conta digital cakto validacao falha",
+      "descricao": "Produtor com vendas ativas não consegue transferir saldo (R$ 1.100+) por falha na validação da Conta Digital Cakto. Suporte lento, 15+ dias sem resolução. Travando operação de tráfego pago.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produtor-da-cakto-nao-consegue-transferir-saldo-de-vendas-devido-a-falha-na-validacao-da-conta-digital_4DnOrKwoT1hMSEch/"
+    },
+    {
+      "produto": "Recusa reembolso PerfectPay (ângulo)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "reembolso perfectpay recusa",
+      "descricao": "Comprador solicita reembolso horas após compra, envia provas (PIX, email cancelamento, WhatsApp inativo). PerfectPay responde com mensagens robóticas genéricas pedindo mesmas infos já anexadas. Recusa intervir.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-recusa-de-reembolso-e-atendimento-generico-pela-perfect-pay_BFp4AxOI5U-r8e8Q/"
+    }
+  ]
+}
