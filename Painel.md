@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-24
+atualizado: 2026-08-27
 ---
 
 # Painel — Radar Low Ticket
@@ -11,49 +11,46 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-24
+## Leitura atual — 2026-08-27
 
-**20 ofertas vistas · 4 novas · 0 retornaram · 8 mudancas de status · 0 no corte de replicacao**
+**17 ofertas vistas · 4 novas · 0 retornaram · 4 mudancas de status · 0 no corte de replicacao**
 
-Sexta rodada. Biblioteca de Anuncios e unFunnelizer fora pelo sexto dia. Tudo saiu do Reclame
-Aqui, nos mesmos nove gateways. A Cakto voltou a ser legivel — o cabecalho hoje diz "Todas as
-reclamacoes", sem o `?problema=` que sabotou a leitura de ontem — e foi o unico gateway a
-devolver sinal genuinamente novo. O vault fecha em **79 ofertas**. A tabela **Acelerando**
-segue vazia pelo sexto dia, pela mesma razao de sempre.
+Setima rodada, e a primeira com tres dias de intervalo em vez de um — a cadencia que o adendo
+de 24/08 do `Pipeline.md` prescreveu. **Funcionou.** Nas seis rodadas diarias anteriores, cerca
+de quarenta das quarenta e cinco vagas nas listas repetiam a rodada anterior. Hoje apareceram
+quatro ofertas nomeadas e ineditas, e **duas com carimbo do proprio dia** — coisa que nao tinha
+acontecido nenhuma vez em seis rodadas. O instrumento nao estava quebrado; estava sendo lido
+rapido demais. Biblioteca de Anuncios e unFunnelizer fora pelo setimo dia. O vault fecha em
+**83 ofertas** e a tabela **Acelerando** segue vazia pela mesma razao de sempre.
 
-**A descoberta da rodada nao e uma oferta: e que o instrumento esta sendo lido mais rapido do
-que ele se atualiza.** Abrindo os corpos datados, a reclamacao da
-[[desafio-anamnese-plano-alimentar]] de hoje e a de 22/08 as 17h33, ID 257133061 — a mesma que
-originou a nota ontem. E a linha da [[stalkeia-ai]] de hoje aponta para a URL `bsQiiX5mms5RNOcb`,
-**a mesma citada como evidencia na nota de 22/08**: ela esteve na primeira pagina em tres
-rodadas seguidas e foi contada como sinal novo em duas. Os rotulos relativos ("Ha 8 horas")
-mentem — a reclamacao da anamnese aparece como "Ha 21 horas" com carimbo proprio de 43. Das
-quarenta e cinco vagas nas nove listas, quarenta repetem a rodada anterior.
+**Mas a correcao de 24/08 estava incompleta, e a rodada de hoje mostrou onde.** Aquela regra
+mandava abrir o corpo e confiar no carimbo. Hoje a reclamacao da
+[[desafio-anamnese-plano-alimentar]] apareceu com **ID 257133061** — exatamente o ID que a nota
+de 24/08 registra como *"a de 22/08 as 17h33"* — exibindo carimbo de **25/08 as 16h24**. Mesmo
+ID, mesmo texto, tres datas em tres leituras: o carimbo se move quando a reclamacao e editada ou
+respondida. Sobrou um unico identificador estavel, o **ID**, e ele e monotonico. A anamnese tem o
+menor ID de toda a rodada e o segundo carimbo mais recente — ela e a mais antiga, e o carimbo diz
+o contrario. **Regra adotada:** deduplicar e ordenar por ID; `ra_reclamacoes` so incrementa com ID
+inedito e maior que o maior da rodada anterior. Aplicada, deu **zero incrementos hoje**.
 
-**Regra adotada agora:** `ra_reclamacoes` so incrementa quando a data do corpo e posterior a
-rodada anterior; aparecer na lista conta como avistamento, nao como sinal. [[stalkeia-ai]] fica
-em 7 e nao em 8. A consequencia real e sobre **cadencia, nao rubrica**: rodar diariamente contra
-uma fonte que se move a cada dois ou tres dias nao produz serie temporal, produz a mesma
-fotografia carimbada com datas diferentes e uma contagem que sobe sozinha. Enquanto a Biblioteca
-de Anuncios estiver fora, rodar a cada dois ou tres dias mediria a mesma coisa com um terco do
-ruido.
+**O melhor achado de mecanica e o [[angulo-taxa-escalonada-decrescente]].** R$ 27,90 pelo curso,
+R$ 12,90 de "confirmacao", R$ 5,90 de "liberacao" — os tres pagos, na PerfectPay, carimbados hoje
+as 19h59. E a **quarta forma do degrau invisivel** que o vault cataloga, depois do upsell escondido
+([[lowzap]], [[love-pix]]), do downsell forcado ([[desafio-anamnese-plano-alimentar]]) e do custo
+transferido para a infra da vitima ([[renderizador-imagem-recarga-google]]). A novidade e a direcao:
+os degraus **diminuem**, entao a resistencia cai a cada passo em vez de subir, e a soma quase dobra o
+ticket de frente. Como mecanica de checkout — nao de produto — ela e replicavel sobre qualquer
+entrega real: `s_replica: 8`.
 
-**Zero no corte pela sexta rodada, mas faltou pouco de um jeito novo.**
-[[cafe-premium-barista-academy]] tem o perfil que as cinco rodadas anteriores nunca produziram:
-`s_replica: 7`, nicho de cafe/barista intocado no vault, sem regulacao, sem estigma, sem rosto,
-com doze dias de venda medidos e um angulo lateral inedito (a compra foi para presentear). Ela
-para em 4,70 **apenas porque `s_ticket` e sentinela**. Um ticket medio de R$ 60 a levaria a ~6,2
-sem que nenhum outro eixo se mexa. E o argumento mais concreto ate agora de que o gargalo do
-vault e **captura de ticket, nao descoberta de oferta**.
-
-**O melhor achado de mecanica e o [[renderizador-imagem-recarga-google]].** Ele vende uma
-interface e so depois da compra revela que o processamento roda na conta Google do proprio
-comprador, que precisa criar credencial e por credito la. E uma terceira forma do degrau
-invisivel: o vault ja catalogava o upsell escondido ([[lowzap]], [[love-pix]]) e o downsell
-forcado ([[desafio-anamnese-plano-alimentar]]); esta nao cobra mais nada e ainda assim nao paga
-nada, porque a infraestrutura e da vitima. `margem_est: 0.95` nao e otimismo, e o modelo — e a
-versao honesta do mesmo produto, com a recarga declarada na pagina, mantem a margem e mata o
-passivo.
+**Setima rodada com zero no corte, e desta vez o topo do Ranking parou de subir.** A melhor nota do
+vault segue [[angulo-diagnostico-isca]] com 7,35, o mesmo valor de 24/08, contra um corte de 7,50.
+Seis notas estao entre 7,00 e 7,35 e **todas as seis tem `s_replica` 8 ou 9** — o eixo de
+replicabilidade ja esta saturado no topo. O que falta nao e achar oferta mais facil de copiar, e
+`s_lucro`, que depende de tempo no ar, que depende da Biblioteca de Anuncios. **O gargalo migrou de
+captura de ticket para medicao de idade.** Enquanto isso, uma observacao de fonte para a proxima
+rodada: a PerfectPay tem 287 mil reclamacoes ativas contra 17 mil da Cakto e 37 mil da Kirvano, e
+foi a unica com carimbo do dia. Se a cadencia for diaria, so PerfectPay e Kiwify justificam a
+visita; para os outros sete, o intervalo util e de tres dias ou mais.
 
 ---
 

@@ -25,8 +25,8 @@ s_replica: 8
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-24
-rodadas_vista: 4
+visto_ultimo: 2026-08-27
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-24
+ra_checado: 2026-08-27
 veredito: replicar
 prioridade: 2
 tags: [oferta, lowticket, angulo]

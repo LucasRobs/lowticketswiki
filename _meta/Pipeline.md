@@ -174,3 +174,49 @@ contamina `s_lucro`, que tem o maior peso do score.
 **Consequencia de cadencia.** Rodar diariamente contra uma fonte que se move a cada 2-3 dias
 nao produz serie temporal; produz a mesma fotografia com datas diferentes. Enquanto a Etapa 1
 estiver fora, **a cadencia certa e de 2 a 3 dias.**
+
+---
+
+## Adendo — o carimbo do corpo tambem se move; so o ID e estavel (2026-08-27)
+
+O adendo de 24/08 mandava abrir o corpo e confiar no carimbo. Insuficiente.
+
+A reclamacao **ID 257133061** ([[desafio-anamnese-plano-alimentar]], Lastlink) foi lida com
+carimbo de 22/08 as 17h33 na rodada de 24/08 e com carimbo de **25/08 as 16h24** na rodada de
+27/08 — mesmo ID, mesmo texto, mesmo comprador. O carimbo se move quando a reclamacao e
+editada ou respondida pela empresa.
+
+**O ID e o unico identificador estavel, e e monotonico.** Na rodada de 27/08:
+257133061 (anamnese) < 257150511 ([[agentor]], 23/08) < 257168105 ([[capcut-pro-revenda]], 23/08)
+< 257339487 e 257345233 (Kiwify, 25/08) < 257581811 e 257584931 (PerfectPay, 27/08). A anamnese
+tem o menor ID e o segundo carimbo mais recente: e a mais antiga da lista, e o carimbo mente.
+
+**Regra (substitui "leia o carimbo"):** deduplicar e ordenar por **ID**. `ra_reclamacoes` so
+incrementa quando o ID nunca foi visto antes **e** e maior que o maior ID registrado na rodada
+anterior. Data serve para narrativa, nao para contagem. Registrar o ID no corpo da nota da
+oferta e no snapshot, sempre.
+
+## Adendo — cadencia por gateway (2026-08-27)
+
+A cadencia de 2-3 dias do adendo de 24/08 se confirmou: primeira rodada com intervalo de tres
+dias devolveu quatro ofertas ineditas, duas carimbadas no proprio dia — zero rodadas diarias
+anteriores tinham conseguido isso.
+
+Mas a cadencia certa nao e a mesma para todos. O volume de reclamacoes ativas determina quanto
+tempo a primeira pagina leva para girar:
+
+| Gateway | Reclamacoes ativas | Giro da 1a pagina | Cadencia util |
+|---|---|---|---|
+| PerfectPay | ~287.000 | horas | diaria |
+| Kiwify | ~49.000 | ~1 dia | diaria |
+| Kirvano | ~37.000 | 2-3 dias | 3 dias |
+| Cakto | ~17.000 | 2-3 dias | 3 dias |
+| Lastlink | ~7.000 | dias | 3+ dias |
+| Hubla | ~8.600 | dias | 3+ dias |
+| Ticto | ~10.500 | dias | 3+ dias |
+| Lowify | ~1.800 | **~7 dias** | semanal |
+| Wiapy | ~1.200 | ~7 dias | semanal |
+
+Lowify e Wiapy continuam valendo como **fonte de descoberta** — sao os gateways de ticket mais
+baixo — mas visita-los diariamente e desperdicio: em 27/08 a primeira pagina da Lowify ainda
+mostrava a reclamacao de 20/08 do [[kit-convites-casamento]] no topo, com rotulo de "Ha 2 dias".

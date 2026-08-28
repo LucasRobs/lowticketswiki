@@ -23,10 +23,10 @@ s_ticket: 0
 s_lucro: 6
 s_replica: 5
 s_saturacao: 3
-status: nova
+status: ativa
 visto_primeiro: 2026-08-24
-visto_ultimo: 2026-08-24
-rodadas_vista: 1
+visto_ultimo: 2026-08-27
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 2026-08-23
-ra_checado: 2026-08-24
+ra_checado: 2026-08-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]

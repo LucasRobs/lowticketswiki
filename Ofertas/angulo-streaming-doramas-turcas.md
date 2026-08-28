@@ -25,8 +25,8 @@ s_replica: 3
 s_saturacao: 6
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-24
-rodadas_vista: 4
+visto_ultimo: 2026-08-27
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 9
 ra_plataformas: [lowify, cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-24
+ra_checado: 2026-08-27
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
