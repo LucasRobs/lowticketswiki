@@ -23,7 +23,7 @@ s_ticket: 4
 s_lucro: 7
 s_replica: 8
 s_saturacao: 7
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-16
 visto_ultimo: 2026-08-16
 rodadas_vista: 1

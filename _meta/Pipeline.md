@@ -220,3 +220,52 @@ tempo a primeira pagina leva para girar:
 Lowify e Wiapy continuam valendo como **fonte de descoberta** — sao os gateways de ticket mais
 baixo — mas visita-los diariamente e desperdicio: em 27/08 a primeira pagina da Lowify ainda
 mostrava a reclamacao de 20/08 do [[kit-convites-casamento]] no topo, com rotulo de "Ha 2 dias".
+
+---
+
+## Adendo — Etapa 3b: a pagina do produtor (2026-08-28)
+
+A Etapa 3 escrita acima manda buscar o nome do produto e do anunciante **nas paginas dos
+gateways**. Isso e uma fonte larga e rasa: a lista de um gateway mistura centenas de ofertas
+e devolve 5 linhas por requisicao, entao cada oferta rende no maximo uma mencao e
+`ra_reclamacoes` fica travado em 1 para sempre.
+
+Em 28/08 apareceu a fonte estreita e funda. A reclamacao **ID 257574289** estava listada na
+PerfectPay, mas o bloco de empresa dentro dela era `TW EMPREENDIMENTOS DIGITAIS`, com pagina
+propria no RA (`/empresa/joyce-roberts/`). **O gateway reatribui a reclamacao ao produtor e
+ela continua listada nos dois lugares** — outra reclamacao na mesma pagina se chama, ao pe da
+letra, *"PERFECT PAY MOVENDO RECLAMACAO PRA OUTRA EMPRESA"*.
+
+A pagina do produtor tinha 39 reclamacoes ativas, **todas da mesma oferta**, com a mais antiga
+carimbada em 29/06 — 60 dias de idade medida, sem Biblioteca de Anuncios.
+
+**Procedimento.** Ao abrir o corpo de qualquer reclamacao numa lista de gateway, olhar o bloco
+de empresa:
+
+1. Se disser o nome do gateway → segue como hoje, sinal de 1 mencao.
+2. Se disser **outro nome** → e o produtor. Ir para
+   `https://www.reclameaqui.com.br/empresa/<slug-do-produtor>/lista-reclamacoes/` e minerar.
+
+Dali saem tres campos que a lista de gateway nunca deu:
+
+| Campo | De onde | Por que importa |
+|---|---|---|
+| `ra_reclamacoes` | "Exibindo 5 de **N** reclamacoes" no cabecalho | volume real da oferta, nao 1 |
+| `ra_primeira_reclamacao` | carimbo da mais antiga (paginar ate o fim) | idade da **oferta** |
+| `dias_no_ar` | hoje menos a primeira | **destrava `s_lucro`, peso 35** |
+
+**Isto e o substituto parcial da Etapa 1.** Nao mede anuncio, mede venda — o que e melhor
+proxy, nao pior. A limitacao e a cobertura: so ofertas cujo produtor tem pagina propria no RA
+aparecem, e um produtor so ganha pagina quando acumula reclamacao suficiente. Ou seja, **a
+fonte enviesa para oferta com volume**, que e exatamente o vies desejado.
+
+**Aplicar retroativamente.** As notas ja mapeadas nunca foram checadas por produtor. A varredura
+de mais valor agora nao e a primeira pagina dos gateways, e procurar pagina de produtor para as
+notas do topo do Ranking — sao elas que estao travadas em `s_lucro` de palpite.
+
+### Marcador barato de carimbo movido
+
+O adendo de 27/08 estabeleceu que so o ID e estavel. Falta um atalho: **titulo com
+`[Editado pelo Reclame Aqui]` sinaliza carimbo empurrado para frente.** O ID 257574289 exibia
+28/08 12h13 sendo mais antigo que o 257586513, carimbado 27/08 21h05 — e a diferenca visivel
+era a edicao do RA. Serve para desconfiar sem precisar de leitura anterior daquele ID.

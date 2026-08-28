@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-27
+atualizado: 2026-08-28
 ---
 
 # Painel — Radar Low Ticket
@@ -11,47 +11,48 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-27
+## Leitura atual — 2026-08-28
 
-**17 ofertas vistas · 4 novas · 0 retornaram · 4 mudancas de status · 0 no corte de replicacao**
+**5 ofertas vistas · 1 nova · 0 retornaram · 22 mudancas de status · 0 no corte de replicacao**
 
-Setima rodada, e a primeira com tres dias de intervalo em vez de um — a cadencia que o adendo
-de 24/08 do `Pipeline.md` prescreveu. **Funcionou.** Nas seis rodadas diarias anteriores, cerca
-de quarenta das quarenta e cinco vagas nas listas repetiam a rodada anterior. Hoje apareceram
-quatro ofertas nomeadas e ineditas, e **duas com carimbo do proprio dia** — coisa que nao tinha
-acontecido nenhuma vez em seis rodadas. O instrumento nao estava quebrado; estava sendo lido
-rapido demais. Biblioteca de Anuncios e unFunnelizer fora pelo setimo dia. O vault fecha em
-**83 ofertas** e a tabela **Acelerando** segue vazia pela mesma razao de sempre.
+Oitava rodada, com cobertura deliberadamente estreita: so PerfectPay e Kiwify, porque o adendo
+de cadencia de 27/08 diz que com um dia de intervalo apenas esses dois giram a primeira pagina
+rapido o bastante. Dez linhas lidas, oito repeticoes, dois IDs ineditos, **uma nota nova**.
+Biblioteca de Anuncios e unFunnelizer fora pelo oitavo dia. O vault fecha em **84 ofertas**.
 
-**Mas a correcao de 24/08 estava incompleta, e a rodada de hoje mostrou onde.** Aquela regra
-mandava abrir o corpo e confiar no carimbo. Hoje a reclamacao da
-[[desafio-anamnese-plano-alimentar]] apareceu com **ID 257133061** — exatamente o ID que a nota
-de 24/08 registra como *"a de 22/08 as 17h33"* — exibindo carimbo de **25/08 as 16h24**. Mesmo
-ID, mesmo texto, tres datas em tres leituras: o carimbo se move quando a reclamacao e editada ou
-respondida. Sobrou um unico identificador estavel, o **ID**, e ele e monotonico. A anamnese tem o
-menor ID de toda a rodada e o segundo carimbo mais recente — ela e a mais antiga, e o carimbo diz
-o contrario. **Regra adotada:** deduplicar e ordenar por ID; `ra_reclamacoes` so incrementa com ID
-inedito e maior que o maior da rodada anterior. Aplicada, deu **zero incrementos hoje**.
+**A rodada achou uma fonte, e ela ataca o gargalo que esta pagina nomeou ontem.** Uma reclamacao
+listada na PerfectPay tinha, dentro do corpo, um bloco de empresa que **nao era a PerfectPay** —
+era `TW EMPREENDIMENTOS DIGITAIS`, com pagina propria no Reclame Aqui. O gateway reatribui a
+reclamacao ao produtor e ela fica listada nos dois lugares; ha ate uma reclamacao vizinha
+intitulada *"PERFECT PAY MOVENDO RECLAMACAO PRA OUTRA EMPRESA"*. A diferenca entre as duas fontes
+e de natureza: a lista do gateway e **larga e rasa** (centenas de ofertas, cinco linhas,
+`ra_reclamacoes` travado em 1); a pagina do produtor e **estreita e funda** — uma oferta so, 39
+reclamacoes ativas, a mais antiga carimbada em 29/06. Isso deu **60 dias de idade medida** para a
+[[google-captcha-tw]], a primeira vez em oito rodadas que uma nota recebe `dias_no_ar` real sem
+Biblioteca de Anuncios. Virou a Etapa 3b do `Pipeline.md`.
 
-**O melhor achado de mecanica e o [[angulo-taxa-escalonada-decrescente]].** R$ 27,90 pelo curso,
-R$ 12,90 de "confirmacao", R$ 5,90 de "liberacao" — os tres pagos, na PerfectPay, carimbados hoje
-as 19h59. E a **quarta forma do degrau invisivel** que o vault cataloga, depois do upsell escondido
-([[lowzap]], [[love-pix]]), do downsell forcado ([[desafio-anamnese-plano-alimentar]]) e do custo
-transferido para a infra da vitima ([[renderizador-imagem-recarga-google]]). A novidade e a direcao:
-os degraus **diminuem**, entao a resistencia cai a cada passo em vez de subir, e a soma quase dobra o
-ticket de frente. Como mecanica de checkout — nao de produto — ela e replicavel sobre qualquer
-entrega real: `s_replica: 8`.
+**A oferta em si e o contraponto exato do achado de ontem.** A [[google-captcha-tw]] cobra uma
+escada de taxas **ascendente e sem teto** — comeca em R$ 50, chega a R$ 795, um comprador somou
+R$ 4.666,49 — enquanto o [[angulo-taxa-escalonada-decrescente]] fecha em tres degraus decrescentes
+e R$ 46,70. O que segura a escada ascendente e uma pessoa: a *"gestora do GOOGLE CAPTCHA"* que
+reabre a conversa a cada falha de acesso e converte o atrito no gancho da cobranca seguinte. Duas
+escadas em duas rodadas, e a divisao util nao e a direcao — e o que sustenta o degrau. **As que
+rodam sozinhas no checkout sao replicaveis; as que precisam de gente no WhatsApp nao sao.** Dai o
+`s_replica: 2` e o score de 5,65, apesar do `s_lucro: 8`, o maior ja atribuido aqui.
 
-**Setima rodada com zero no corte, e desta vez o topo do Ranking parou de subir.** A melhor nota do
-vault segue [[angulo-diagnostico-isca]] com 7,35, o mesmo valor de 24/08, contra um corte de 7,50.
-Seis notas estao entre 7,00 e 7,35 e **todas as seis tem `s_replica` 8 ou 9** — o eixo de
-replicabilidade ja esta saturado no topo. O que falta nao e achar oferta mais facil de copiar, e
-`s_lucro`, que depende de tempo no ar, que depende da Biblioteca de Anuncios. **O gargalo migrou de
-captura de ticket para medicao de idade.** Enquanto isso, uma observacao de fonte para a proxima
-rodada: a PerfectPay tem 287 mil reclamacoes ativas contra 17 mil da Cakto e 37 mil da Kirvano, e
-foi a unica com carimbo do dia. Se a cadencia for diaria, so PerfectPay e Kiwify justificam a
-visita; para os outros sete, o intervalo util e de tres dias ou mais.
+**Onze ofertas morreram hoje — as primeiras do vault.** Todas com `visto_ultimo: 2026-08-16`,
+sete rodadas de ausencia, cruzando o limiar do `Scoring.md`. Mas `morta` aqui quer dizer "saiu do
+campo de visao do instrumento", nao "saiu do ar": nenhuma das onze foi procurada por nome desde
+16/08, porque a rotina so le as primeiras paginas dos gateways. Distribuicao final: **55 esfriando
+· 17 ativa · 11 morta · 1 nova**.
 
+**Oitava rodada com zero no corte, e o topo do Ranking parado pela terceira vez.**
+[[angulo-diagnostico-isca]] segue em 7,35 contra corte de 7,50, o mesmo numero de 24/08 e 27/08.
+Nada mudou porque nada podia mudar: as seis notas do pelotao de cima ja tem `s_replica` 8 ou 9 e
+todas tem `s_lucro` de proxy magro. **A proxima rodada deve gastar o tempo de outro jeito** — em
+vez de reler a primeira pagina dos nove gateways, procurar pagina de produtor para as seis do topo.
+Se alguma tiver, o `s_lucro` delas sai do palpite, e e isso, nao mais uma oferta nova, que tira o
+vault do zero. Proxima rodada em **30/08 ou 31/08**.
 ---
 
 ## Ranking
