@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: treino-trinca
 nome: "Treino Trinca (Pedro Lotz)"
 nicho: saude-estetica-fitness

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-desintoxicacao-telas
 nome: "Ângulo — Criança viciada em tela"
 nicho: comportamento-infantil

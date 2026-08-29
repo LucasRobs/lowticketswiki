@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: biblioteca-do-concurseiro
 nome: "Biblioteca do Concurseiro"
 nicho: concursos

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-sono-bebe
 nome: "Ângulo — Bebê dormir a noite toda"
 nicho: comportamento-infantil

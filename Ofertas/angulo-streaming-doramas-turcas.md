@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-streaming-doramas-turcas
 nome: "Novelas turcas, doramas e mini dramas"
 nicho: streaming-e-acesso

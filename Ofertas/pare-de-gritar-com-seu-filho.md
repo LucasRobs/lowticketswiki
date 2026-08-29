@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: pare-de-gritar-com-seu-filho
 nome: "Pare de Gritar com seu Filho — Bia Arcangeli"
 nicho: comportamento-infantil

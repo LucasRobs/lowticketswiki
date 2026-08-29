@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: kit-300-aulas-edfisica
 nome: "Kit 300 Aulas Prontas de Educação Física — Sem Improviso"
 nicho: educacao

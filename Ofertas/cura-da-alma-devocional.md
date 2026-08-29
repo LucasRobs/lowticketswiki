@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: cura-da-alma-devocional
 nome: "Cura da Alma — devocional diario para traumas e feridas"
 nicho: religioso

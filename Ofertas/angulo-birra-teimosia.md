@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-birra-teimosia
 nome: "Ângulo — Birra, teimosia e filho que não obedece"
 nicho: comportamento-infantil

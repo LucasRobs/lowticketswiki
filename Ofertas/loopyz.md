@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: loopyz
 nome: "Loopyz"
 nicho: lives-interativas

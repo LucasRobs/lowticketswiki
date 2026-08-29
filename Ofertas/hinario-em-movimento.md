@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: hinario-em-movimento
 nome: "Hinário em Movimento"
 nicho: religioso

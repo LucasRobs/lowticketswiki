@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: devocional-15-dias-ansiedade
 nome: "Devocional 15 dias — Para quem sofre de ansiedade"
 nicho: religioso

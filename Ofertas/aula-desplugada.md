@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: aula-desplugada
 nome: "Aula Desplugada — +500 atividades BNCC sem computador"
 nicho: educacao

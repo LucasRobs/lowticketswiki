@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: curso-aiva
 nome: "Curso AIVA"
 nicho: ia-ferramentas

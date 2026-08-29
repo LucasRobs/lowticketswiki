@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: google-captcha-tw
 nome: "Google Captcha (TW Empreendimentos Digitais)"
 nicho: ganhar-dinheiro

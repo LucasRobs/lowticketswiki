@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: kit-so-escola-tdah
 nome: "Kit Só Escola TDAH — 500+ Atividades Imprimíveis"
 nicho: comportamento-infantil

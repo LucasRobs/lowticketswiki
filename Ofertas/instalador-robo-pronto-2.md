@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: instalador-robo-pronto-2
 nome: "INSTALADOR ROBÔ PRONTO 2.0"
 nicho: ganhar-dinheiro

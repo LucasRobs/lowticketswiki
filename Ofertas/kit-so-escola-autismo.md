@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: kit-so-escola-autismo
 nome: "Kit Só Escola Autismo — 650 páginas, 11 apostilas"
 nicho: comportamento-infantil

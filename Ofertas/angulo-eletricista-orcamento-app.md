@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-eletricista-orcamento-app
 nome: "App de orcamento para eletricista + imprimiveis"
 nicho: cursos-de-oficio

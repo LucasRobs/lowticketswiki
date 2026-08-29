@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desafio-romanos-12-2
 nome: "Desafio Romanos 12:2"
 nicho: religioso

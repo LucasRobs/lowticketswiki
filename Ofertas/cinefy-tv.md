@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: cinefy-tv
 nome: "Cinefy TV"
 nicho: streaming-e-acesso

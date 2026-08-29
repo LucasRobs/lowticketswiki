@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: mentoria-mulheres-cristas-saradas
 nome: "Mentoria para Mulheres Cristas — Saradas para Sarar"
 nicho: religioso

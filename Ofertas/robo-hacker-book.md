@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: robo-hacker-book
 nome: "Robô Hacker Book — Gerador de E-books no Automático"
 nicho: marketing-digital

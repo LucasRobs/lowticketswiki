@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: angulo-taxa-escalonada-decrescente
 nome: "Escada de taxas decrescentes no pos-compra (nome nao capturado)"
 nicho: mecanica-de-checkout

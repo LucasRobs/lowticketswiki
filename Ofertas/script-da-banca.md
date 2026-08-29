@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: script-da-banca
 nome: "Script da Banca"
 nicho: concursos

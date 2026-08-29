@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: arquitetos-do-pensamento
 nome: "Arquitetos do Pensamento — Projetando Realidades"
 nicho: desenvolvimento-pessoal

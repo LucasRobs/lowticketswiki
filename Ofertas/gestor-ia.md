@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: gestor-ia
 nome: "Gestor IA"
 nicho: ferramentas-ia

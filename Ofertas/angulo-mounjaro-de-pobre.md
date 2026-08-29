@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-mounjaro-de-pobre
 nome: "Ângulo — A versão pobre do remédio caro"
 nicho: emagrecimento

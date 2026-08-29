@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: planos-aula-infantil-500
 nome: "+500 Planos de Aula — Educação Infantil"
 nicho: educacao

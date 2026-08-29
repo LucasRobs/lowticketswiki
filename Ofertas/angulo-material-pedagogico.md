@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-material-pedagogico
 nome: "Material pedagogico e apostilas imprimiveis"
 nicho: material-pedagogico

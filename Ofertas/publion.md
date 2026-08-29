@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: publion
 nome: "PubliOn"
 nicho: renda-celular-cashback

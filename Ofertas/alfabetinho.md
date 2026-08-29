@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: alfabetinho
 nome: "Alfabetinho — pacotes de atividades imprimiveis"
 nicho: material-pedagogico

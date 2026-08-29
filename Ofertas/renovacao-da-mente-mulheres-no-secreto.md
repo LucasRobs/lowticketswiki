@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: renovacao-da-mente-mulheres-no-secreto
 nome: "Renovacao da Mente — Mulheres no Secreto"
 nicho: religioso

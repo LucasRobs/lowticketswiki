@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: metodo-neuromusical
 nome: "Método NeuroOctoMusical (Pipo) — alfabetização por sílabas"
 nicho: comportamento-infantil

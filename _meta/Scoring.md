@@ -124,3 +124,46 @@ mentiriam sobre a frequencia de observacao.
 53 das 75 em `esfriando`. Isso nao e o mercado esfriando, e o vault admitindo que a maior
 parte do que ele guarda foi visto uma vez e nunca mais. Enquanto a Biblioteca de Anuncios
 estiver fora, essa e a leitura correta.
+
+---
+
+## Adendo — o corte so vale para `classe: oferta` (2026-08-29, segunda passada)
+
+O corte de decisao acima (`score >= 7,5` **e** `s_replica >= 7`) foi desenhado para achar
+oferta replicavel, nao padrao. Com a introducao de `classe` no `Schema.md`:
+
+**O corte de replicacao se aplica apenas a `classe: oferta`.** Angulo nao entra: ele nao
+tem produtor para copiar, gateway para conferir nem ticket para validar — o que se replica
+de um angulo e a ideia, e isso e insumo de criativo, nao decisao de negocio.
+
+Para `classe: angulo` a leitura util nao e o score composto e sim **quantas ofertas nomeadas
+o angulo ja tem ligadas a ele**. Angulo com zero operador identificado e hipotese; com dois
+ou mais, e padrao confirmado. Ver [[angulo-material-pedagogico]] → [[alfabetinho]].
+
+### Correcao importante: separar angulo NAO destravou o corte
+
+A leitura de 28/08 atribuia nove rodadas de zero-no-corte ao fato de os angulos ocuparem o
+topo do Ranking. **A separacao provou que essa explicacao estava errada.** Nem os angulos
+cruzavam: o melhor deles marca 7,35, abaixo de 7,5. Tirar os angulos da tabela nao promoveu
+ninguem — apenas revelou que o teto das ofertas reais e **6,95** ([[treino-trinca]]).
+
+A causa real e outra, e e mensuravel:
+
+| Campo | Ofertas reais sem o dado |
+|---|---|
+| `dias_no_ar` == 0 | **66 de 71 (93%)** |
+| `unfunnelizer_capturado` != true | 71 de 71 (100%) |
+| `s_ticket` == 0 (sentinela) | 11 de 71 |
+| `ra_reclamacoes` == 0 | 23 de 71 |
+
+`dias_no_ar` e o insumo principal de `s_lucro`, que tem **peso 35** — o maior da rubrica.
+Com o campo zerado em 93% das notas, `s_lucro` vira palpite conservador em quase todo o
+vault, e o palpite conservador e o que segura o score abaixo do corte.
+
+**Teste do contrafactual:** fixando `s_lucro = 10` e mantendo todo o resto,
+**24 ofertas cruzariam o corte** — entre elas [[desafio-romanos-12-2]] (8,25),
+[[hinario-em-movimento]] (8,20) e [[renovacao-da-mente-mulheres-no-secreto]] (7,90).
+Ou seja: **o corte nao esta vazio porque o mercado e ruim. Esta vazio porque falta um
+campo.** Enquanto a Etapa 1 estiver fora e a Etapa 3b nao entregar idade, zero-no-corte
+e o resultado esperado da rubrica, nao uma leitura do mercado — e nao deve ser reportado
+como se fosse.

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: lowzap
 nome: "Lowzap (+ upsell Low Scale)"
 nicho: ganhar-dinheiro

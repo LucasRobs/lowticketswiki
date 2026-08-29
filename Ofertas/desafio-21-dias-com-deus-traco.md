@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desafio-21-dias-com-deus-traco
 nome: "Desafio 21 Dias com Deus (Traco Home)"
 nicho: religioso

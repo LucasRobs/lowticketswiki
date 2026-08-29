@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-parar-de-gritar
 nome: "Ângulo — Pare de gritar com seu filho"
 nicho: comportamento-infantil

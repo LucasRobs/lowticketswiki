@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: unlovable
 nome: "Unlovable"
 nicho: ia-ferramentas

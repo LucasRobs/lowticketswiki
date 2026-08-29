@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: capcut-pro-revenda
 nome: "Revenda de assinatura CapCut Pro"
 nicho: ferramentas-ia-edicao

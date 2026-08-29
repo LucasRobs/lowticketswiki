@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: devocional-30-dias-cura-interior
 nome: "Devocional com Proposito para Mulheres — 30 Dias de Cura Interior"
 nicho: religioso

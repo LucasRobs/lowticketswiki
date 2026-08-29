@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: papel-magico-bonecas
 nome: "+350 Bonecas de Papel — Papel Mágico"
 nicho: imprimiveis-infantil

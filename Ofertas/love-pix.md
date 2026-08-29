@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: love-pix
 nome: "Love Pix"
 nicho: renda-celular-cashback

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desafio-anamnese-plano-alimentar
 nome: "Desafio de treino com loop de anamnese (nome nao capturado)"
 nicho: saude-estetica-fitness

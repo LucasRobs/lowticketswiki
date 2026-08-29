@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: do-zero-a-monetizacao-youtube
 nome: "Do Zero a Monetizacao no YouTube"
 nicho: ganhar-dinheiro

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: carrosseis-magneticos
 nome: "Carrosseis Magneticos"
 nicho: marketing-conteudo

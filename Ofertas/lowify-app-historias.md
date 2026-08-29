@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: lowify-app-historias
 nome: "App de histórias — entrega via Telegram (Lowify)"
 nicho: entretenimento

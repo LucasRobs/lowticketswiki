@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desbanimento-whatsapp
 nome: "Servico de desbanimento de numero de WhatsApp"
 nicho: ganhar-dinheiro

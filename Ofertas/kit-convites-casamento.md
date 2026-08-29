@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: kit-convites-casamento
 nome: "Kit 1.000 Convites e Envelopes de Casamento (editáveis)"
 nicho: artesanato-digital

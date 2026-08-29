@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: mounjaro-de-pobre
 nome: "Mounjaro de Pobre — Guia Definitivo do Emagrecimento Natural"
 nicho: emagrecimento

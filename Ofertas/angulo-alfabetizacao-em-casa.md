@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-alfabetizacao-em-casa
 nome: "Ângulo — Criança que não aprende a ler"
 nicho: comportamento-infantil

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: curso-massagem-tantrica
 nome: "Curso de Massagem Tantrica (Wiapy)"
 nicho: sexualidade-bemestar

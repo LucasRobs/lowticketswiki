@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: renderizador-imagem-recarga-google
 nome: "Renderizador de imagem com recarga na Google (nome nao capturado)"
 nicho: ferramentas-ia-design

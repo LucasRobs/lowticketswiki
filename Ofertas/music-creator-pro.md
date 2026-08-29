@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: music-creator-pro
 nome: "Music Creator Pro"
 nicho: musica-producao

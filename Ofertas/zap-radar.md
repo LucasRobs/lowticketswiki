@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: zap-radar
 nome: "ZAP Radar"
 nicho: espionagem-rastreamento

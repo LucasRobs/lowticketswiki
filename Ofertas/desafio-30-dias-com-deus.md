@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desafio-30-dias-com-deus
 nome: "Desafio de 30 Dias com Deus"
 nicho: religioso

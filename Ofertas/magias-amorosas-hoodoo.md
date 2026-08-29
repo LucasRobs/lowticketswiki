@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: magias-amorosas-hoodoo
 nome: "Magias Amorosas - Hoodoo"
 nicho: esoterico

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: fabrica-de-low-ticket
 nome: "Fabrica de Low Ticket"
 nicho: ganhar-dinheiro

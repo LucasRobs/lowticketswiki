@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: robo-produtor-criativos
 nome: "Robo Produtor de Criativos"
 nicho: ferramentas-ia

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: guia-desintoxicacao-digital
 nome: "Guia de Desintoxicação Digital — @vidasemtela"
 nicho: comportamento-infantil

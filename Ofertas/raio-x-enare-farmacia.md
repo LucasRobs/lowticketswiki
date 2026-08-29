@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: raio-x-enare-farmacia
 nome: "Raio-X ENARE Farmácia — Tática Farmacêutica"
 nicho: concursos

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: tea-sem-crise
 nome: "TEA Sem Crise — Dr. Fábio Coelho"
 nicho: comportamento-infantil

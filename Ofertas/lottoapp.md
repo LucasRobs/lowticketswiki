@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: lottoapp
 nome: "LottoApp / LotteApp PRO"
 nicho: apostas-e-sinais

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desafio-21-dias-oracao-virtude-plena
 nome: "Desafio 21 Dias de Oracao — Virtude Plena"
 nicho: religioso

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: parabolas-kids
 nome: "Parábolas Kids — 1.001 parábolas bíblicas para crianças"
 nicho: comportamento-infantil

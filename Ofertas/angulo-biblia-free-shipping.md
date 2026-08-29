@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-biblia-free-shipping
 nome: "Biblia gratis, so paga o frete"
 nicho: free-shipping

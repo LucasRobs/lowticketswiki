@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: cashnopix
 nome: "Cashnopix / Cash no Pix"
 nicho: renda-celular-cashback

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: auks-bot
 nome: "AUKS VIP / AUKS BOT"
 nicho: trading-automatizado

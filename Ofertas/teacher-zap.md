@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: teacher-zap
 nome: "Teacher ZAP — 7 idiomas pelo WhatsApp"
 nicho: idiomas

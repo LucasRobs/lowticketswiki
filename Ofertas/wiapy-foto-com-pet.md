@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: wiapy-foto-com-pet
 nome: "Foto com pet gerada por IA (Wiapy)"
 nicho: pet

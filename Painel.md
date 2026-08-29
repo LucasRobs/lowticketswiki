@@ -11,63 +11,32 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-29
+## Leitura atual — 2026-08-29 (segunda passada)
 
-**4 ofertas vistas · 1 nova · 0 retornaram · 21 mudancas de status · 0 no corte de replicacao**
+**88 notas · 73 ofertas · 15 angulos · 3 novas nesta passada · 0 no corte de replicacao**
 
-Nona rodada. Biblioteca de Anuncios e unFunnelizer fora pelo nono dia. O Painel de ontem deu uma
-ordem explicita — *procurar pagina de produtor para as seis do topo do Ranking* — e a rodada
-executou. **Ela falhou como escrita, funcionou reformulada, e a diferenca entre as duas coisas e o
-achado do dia.** O vault fecha em **85 ofertas**.
+A tarefa disparou de novo no mesmo dia. Em vez de repetir a varredura — que menos de 24h depois nao produziria sinal, e sobrescreveria os snapshots de hoje — esta passada executou a ordem que a rodada da manha tinha deixado: **mexer no instrumento antes de minerar mais.**
 
-**A ordem nao podia ser cumprida porque cinco das seis notas do topo sao angulos, e angulo nao tem
-produtor.** Nao e detalhe de execucao: e o Ranking admitindo um vies. Angulo pontua alto porque
-abstracao nao tem defeito — uma oferta real tem ticket que nao aparece, gateway que queima,
-produtor que sumiu; um angulo tem so a ideia, e ideia sempre parece replicavel. O corte
-(`score >= 7,5` **e** `s_replica >= 7`) foi desenhado para achar oferta, nao padrao. **Nove rodadas
-de zero no corte com angulos ocupando as seis primeiras posicoes e o sintoma disso, nao do
-mercado.**
+**O campo `classe` separou oferta de angulo, e o vies era real: 1,1 ponto de score e 1,6 de `s_replica`** a favor da abstracao (angulo 6,55 / 7,86 contra oferta 5,43 / 6,28). O criterio e a tag, nao o prefixo do slug — [[angulo-taxa-escalonada-decrescente]] tem nome de angulo mas gateway, ticket e ID de reclamacao, entao ficou como oferta. `tipo` continua `oferta` nas duas para nao quebrar Bases e Dataview.
 
-**A reformulacao rendeu a maior nota de volume do vault.** Procurar produtor *no nicho* do angulo,
-em vez de *do* angulo, achou a [[alfabetinho]]: **177 reclamacoes ativas**, 4,5x a
-[[google-captcha-tw]] que ontem era o teto. E o operador nomeado por tras do
-[[angulo-material-pedagogico]], catalogado ha treze dias como padrao sem dono — a primeira vez que
-uma nota de angulo daqui ganha nome proprio. Mas o numero tem duas metades: 177 ativas contra
-apenas 24 recebidas na janela de seis meses, com a mais recente ha dois meses. **Volume historico,
-sem aceleracao.** Reputacao Bom, 11h de resposta, 90% resolvido — entrega de verdade. `s_lucro: 7`:
-grande, provada, nao esquentando agora.
+**Mas separar nao destravou o corte, e essa e a correcao que importa.** O Painel de ontem culpava os angulos por nove rodadas de zero-no-corte. Nenhum angulo cruzava: o melhor marca 7,35, abaixo de 7,5. Tirar os angulos nao promoveu ninguem — revelou que **o teto das ofertas reais e 6,95** ([[treino-trinca]]). A causa e um campo faltando: **`dias_no_ar` esta zerado em 66 das 71 ofertas (93%)**, e ele alimenta `s_lucro`, que tem peso 35. Fixando `s_lucro = 10` e mantendo o resto, **24 ofertas cruzariam o corte**. Ou seja: **zero-no-corte nao e leitura do mercado, e o eco da rubrica rodando sem o insumo principal** — e nao deve mais ser reportado como diagnostico.
 
-**O achado de metodo e que a Etapa 3b tem duas portas, e a de fora e melhor.** Ontem se chegava a
-pagina do produtor por dentro, esperando a reclamacao certa cair nas cinco linhas do gateway. Hoje
-ficou claro que ela e pesquisavel direto por nicho, o que inverte a economia da rodada: **a primeira
-pagina da PerfectPay nao mudou nada em 24h — os tres IDs eram todos de rodadas anteriores — enquanto
-uma unica busca por nicho devolveu cinco produtores ineditos.** Isso tambem corrige a tabela de
-cadencia de 27/08: a PerfectPay tem 287.431 reclamacoes ativas e mesmo assim nao girou, ou seja
-volume da empresa nao prediz giro da primeira pagina. O preco e que `dias_no_ar` continua fora de
-alcance — paginacao nao passa no filtro de proveniencia do fetch, entao sem browser a Etapa 3b
-entrega volume, nao idade. O substituto que funcionou e o contador `M - N`: mostrou que a
-[[google-captcha-tw]] acelerou ~4,6x em agosto e que a [[alfabetinho]] desacelerou, em uma
-requisicao cada.
+**Do garimpo, tres notas novas, todas de uma busca so.** [[certifica-brasil]] e o unico achado quente: M=13 contra N=8 na janela de seis meses, ~5 chegadas em agosto, **aceleracao de ~3,8x**, com reclamacoes de 2, 3 e 5 dias atras — o unico produtor com movimento na ultima semana. Mecanica de prova online com certificado pago, sem curso a entregar. [[certificado-curso-online]] e o oposto: 58 ativas mas so 3 em seis meses, parada, e a unica com **ticket capturado (R$ 139,90)**. O par ilustra o defeito do score melhor que o Diagnostico abaixo: a morta marca 5,30 e a viva 4,90, porque uma teve ticket capturado por acaso. Das duas nasceu o [[angulo-taxa-do-certificado]] — primeiro angulo do vault a **nascer com operador nomeado**, com cinco encontrados de uma vez.
 
-**Nona rodada com zero no corte e o topo parado em 7,35 pela quarta vez.** Nao adianta esperar que
-uma oferta nova resolva: o corte esta parado porque a rubrica compara angulo com oferta na mesma
-tabela. **A proxima rodada deve mexer no instrumento antes de minerar mais** — marcar `tipo: angulo`
-no frontmatter ou separar as Bases, para que o corte volte a olhar so o que tem produtor, ticket e
-gateway. Depois disso, continuar a varredura de produtores por nicho: comportamento infantil,
-artesanato e cursos de oficio ainda nao tiveram os seus procurados por fora. Distribuicao final:
-**62 esfriando · 17 morta · 5 ativa · 1 nova** — cinco ativas em 85 e o alcance do instrumento
-falando, nao o mercado, e `esfriando` com 62 notas ja nao separa nada.
-
-Proxima rodada em **01/09**, sem varrer gateway.
+**O limite da porta de fora tambem ficou claro:** "artesanato + moldes" devolveu seis lojas de material fisico e nenhum infoproduto. **A busca por produtor funciona quando o termo descreve a mecanica ("certificado", "taxa"), nao o produto.** Proxima rodada em **01/09**: abrir o corpo da reclamacao de pagamento da [[certifica-brasil]] (um fetch destrava ticket e gateway da unica oferta acelerando) e varrer por mecanica — "taxa de saque", "liberacao de premio", "segunda via". Distribuicao final: **62 esfriando · 17 morta · 5 ativa · 4 nova**.
 
 ---
 
-## Ranking
+## Ranking — ofertas reais
+
+Só `classe: oferta`. Ângulo tem tabela própria mais abaixo: ele não tem produtor, gateway
+nem ticket, então não pode disputar o corte de replicação com uma oferta concreta.
 
 ```base
 filters:
   and:
     - note.tipo == "oferta"
+    - note.classe == "oferta"
 formulas:
   score: (note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100
   decisao: if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 7.5 && note.s_replica >= 7, "REPLICAR", if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 6, "observar", "descartar"))
@@ -96,6 +65,40 @@ views:
 
 ```
 
+## Padrões (ângulos)
+
+Nota de ângulo é **padrão sem dono**. A métrica útil aqui não é o score composto — é quantas
+ofertas nomeadas já foram ligadas ao padrão. Zero operador = hipótese. Dois ou mais = padrão
+confirmado, e aí a próxima rodada procura produtor *no nicho* dele (Etapa 3b, porta de fora).
+
+```base
+filters:
+  and:
+    - note.tipo == "oferta"
+    - note.classe == "angulo"
+formulas:
+  score: (note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100
+properties:
+  file.name:
+    displayName: Ângulo
+  formula.score:
+    displayName: Score
+views:
+  - type: table
+    name: Padroes
+    order:
+      - file.name
+      - formula.score
+      - nicho
+      - sub_nicho
+      - s_replica
+      - s_saturacao
+      - status
+    sort:
+      - property: formula.score
+        direction: DESC
+```
+
 ## Acelerando
 
 Quem ganhou criativos desde a rodada anterior. **Esta é a tabela que vale dinheiro** —
@@ -105,6 +108,7 @@ o topo do ranking diz o que é bom, esta diz o que está esquentando *agora*.
 filters:
   and:
     - 'note.tipo == "oferta"'
+    - 'note.classe == "oferta"'
     - 'note.criativos_delta > 0'
 views:
   - type: table
@@ -129,6 +133,7 @@ delas são estimativa.
 filters:
   and:
     - 'note.tipo == "oferta"'
+    - 'note.classe == "oferta"'
     - 'note.unfunnelizer_capturado != true'
 views:
   - type: table

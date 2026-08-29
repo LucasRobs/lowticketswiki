@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: operax
 nome: "Operax"
 nicho: renda-celular-cashback

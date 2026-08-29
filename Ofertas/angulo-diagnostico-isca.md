@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-diagnostico-isca
 nome: "Ângulo — 'Será que meu filho tem...?' como isca de topo"
 nicho: comportamento-infantil

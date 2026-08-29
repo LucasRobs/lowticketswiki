@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: coletanea-regulacao-emocional
 nome: "Coletânea de Regulação Emocional para Crianças — Ana Gambôa"
 nicho: comportamento-infantil

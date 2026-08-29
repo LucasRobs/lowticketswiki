@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: cafe-premium-barista-academy
 nome: "Cafe Premium — Barista Academy"
 nicho: gastronomia-profissional

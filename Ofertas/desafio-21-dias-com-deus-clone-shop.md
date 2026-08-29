@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: desafio-21-dias-com-deus-clone-shop
 nome: "Desafio 21 Dias com Deus (clone .shop)"
 nicho: religioso

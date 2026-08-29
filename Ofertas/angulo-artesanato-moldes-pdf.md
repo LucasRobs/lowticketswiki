@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-artesanato-moldes-pdf
 nome: "Artesanato, moldes e PDF criativo"
 nicho: artesanato-e-pdf

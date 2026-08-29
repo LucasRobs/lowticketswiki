@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: app-do-paizao
 nome: "App do Paizão"
 nicho: saude-estetica-fitness

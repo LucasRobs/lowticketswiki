@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: shop-cash-1
 nome: "Shop Cash 1.0"
 nicho: ganhar-dinheiro

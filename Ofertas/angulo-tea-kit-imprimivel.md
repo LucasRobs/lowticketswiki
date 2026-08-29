@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: angulo
 slug: angulo-tea-kit-imprimivel
 nome: "Ângulo — Kit imprimível para criança com TEA"
 nicho: comportamento-infantil

@@ -156,3 +156,48 @@ Lista completa válida para os três campos:
 `perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
 `hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` ·
 `stripe` · `clickbank` · `whatsapp` · `desconhecido`
+
+---
+
+## Adendo — `classe`: separar oferta de angulo (2026-08-29, segunda passada)
+
+O `tipo` das notas de `Ofertas/` sempre foi `oferta`, inclusive nas 14 notas que descrevem
+**padrao estrutural sem dono** — os angulos. Consequencia: as duas coisas competiam na mesma
+Base, com a mesma rubrica, e o Ranking premiava a abstracao (ver `Painel.md`, leitura de 29/08).
+
+**Campo novo, obrigatorio em toda nota de `Ofertas/`:**
+
+```yaml
+classe: oferta     # oferta | angulo
+```
+
+| Valor | Significado | Tem produtor, ticket e gateway? |
+|---|---|---|
+| `oferta` | operacao concreta, ainda que o nome nao tenha sido capturado | sim, ou sentinela `desconhecido` |
+| `angulo` | padrao replicavel observado em varias ofertas, sem dono unico | nao, por construcao |
+
+**`tipo` continua `oferta` nas duas.** Mudar `tipo` quebraria em silencio todas as Bases,
+o Dataview e o `radar-diff.sh`, que filtram por ele. `classe` e aditivo: quem nao filtrar
+por ele continua vendo o vault inteiro.
+
+### Criterio de classificacao — e por que nao e o slug
+
+O criterio e a **tag `angulo`**, nao o prefixo do slug. Os dois discordam em um caso e a tag
+esta certa: [[angulo-taxa-escalonada-decrescente]] tem prefixo de angulo mas tem gateway
+(`perfectpay`), ticket de frente, bump, upsell e ID de reclamacao — e uma oferta real cujo
+nome comercial nao foi capturado. Ficou como `classe: oferta`.
+
+Ao criar nota nova: se ela tem — ou pode vir a ter — um produtor identificavel, e `oferta`,
+mesmo sem nome. Se ela so existe como generalizacao de outras notas, e `angulo` e leva a tag.
+
+### O que a separacao mediu
+
+Aplicada as 85 notas (71 `oferta`, 14 `angulo`):
+
+| | Score medio | `s_replica` medio | Melhor do grupo |
+|---|---|---|---|
+| `angulo` | 6,55 | 7,86 | 7,35 |
+| `oferta` | 5,43 | 6,28 | 6,95 |
+
+O vies existia e tem tamanho: **1,1 ponto de score e 1,6 de `s_replica`**, na direcao prevista.
+Angulo pontua alto em replicabilidade porque nao tem produto concreto para atrapalhar.

@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: domando-a-teimosia
 nome: "Domando a Teimosia"
 nicho: comportamento-infantil

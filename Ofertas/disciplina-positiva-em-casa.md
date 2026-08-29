@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: disciplina-positiva-em-casa
 nome: "Disciplina Positiva em Casa — eBook + 40 modelos de rotina"
 nicho: comportamento-infantil

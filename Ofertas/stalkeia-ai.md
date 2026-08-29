@@ -1,5 +1,6 @@
 ---
 tipo: oferta
+classe: oferta
 slug: stalkeia-ai
 nome: "Stalkeia.ai"
 nicho: espionagem-rastreamento
