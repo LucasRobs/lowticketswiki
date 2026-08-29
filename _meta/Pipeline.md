@@ -263,6 +263,76 @@ fonte enviesa para oferta com volume**, que e exatamente o vies desejado.
 de mais valor agora nao e a primeira pagina dos gateways, e procurar pagina de produtor para as
 notas do topo do Ranking — sao elas que estao travadas em `s_lucro` de palpite.
 
+### Etapa 3b tem duas portas — a de fora e melhor (2026-08-29)
+
+O procedimento acima chega a pagina do produtor **por dentro**: abre uma reclamacao da lista do
+gateway e ve que o bloco de empresa e outro. Isso limita a descoberta ao que ja caiu nas cinco
+linhas do gateway.
+
+Da para chegar **por fora**, e rende muito mais: buscar
+`reclameaqui.com.br "lista-reclamacoes" <termo do nicho>` devolve paginas de produtor
+diretamente. Uma busca por material pedagogico devolveu Alfabetinho, Apostilas Brasil, Portal de
+Apostilas, Cursos e Apostilas Aprovacao e Groove Caligrafia de uma vez; foi assim que a
+[[alfabetinho]] (177 reclamacoes ativas) entrou no vault.
+
+O vies e o desejado: **produtor so ganha pagina propria quando acumula reclamacao suficiente**,
+entao a busca por fora so devolve quem tem volume — o inverso da lista do gateway, que devolve
+as cinco mais recentes seja qual for o tamanho.
+
+**Angulo nao tem produtor.** A Etapa 3b se aplica a oferta nomeada. Quando o alvo e uma nota de
+angulo, a busca certa nao e pelo produtor *do* angulo (nao existe) e sim por produtores *no
+nicho* do angulo. Foi o que ligou o [[angulo-material-pedagogico]] a [[alfabetinho]] treze dias
+depois de o padrao ter sido catalogado sem dono.
+
+### Limite: `dias_no_ar` nao sai da Etapa 3b sem browser (2026-08-29)
+
+O adendo de 28/08 prometia tres campos da pagina do produtor. Dois deles exigem paginar ate a
+reclamacao mais antiga, e **URL com `?pagina=N` nao passa no filtro de proveniencia do fetch** —
+so e possivel buscar URLs vindas de resultado de busca ou de fetch anterior, e paginacao nunca
+aparece. A [[alfabetinho]] tem 36 paginas e a primeira reclamacao ficou inacessivel.
+
+O `dias_no_ar: 60` da [[google-captcha-tw]] saiu porque aquela lista tinha 8 paginas e a mais
+antiga apareceu por acaso. **Nao e procedimento reproduzivel.** Sem browser, a Etapa 3b entrega
+`ra_reclamacoes`, nao idade.
+
+### Substituto: o contador de velocidade `M - N` (2026-08-29)
+
+Uma requisicao, sem paginar. A pagina do produtor traz dois numeros em lugares diferentes:
+
+- **N** = "Esta empresa recebeu **N** reclamacoes" (cartao de desempenho, janela de 6 meses)
+- **M** = "Exibindo 5 de **M** reclamacoes ativas" (cabecalho da lista)
+
+`M - N` e aproximadamente o que chegou depois do fim da janela.
+
+| Produtor | N | M | Leitura |
+|---|---|---|---|
+| `joyce-roberts` ([[google-captcha-tw]]) | 22 | 39 | ~17 em agosto contra 3,7/mes antes: **acelerou ~4,6x** |
+| `alfabetinho` | 24 | 177 | N baixo contra M alto: operacao antiga **desacelerando** |
+
+Para produtor novo, `M - N` mede aceleracao. Para produtor antigo, `N` baixo com `M` alto ja
+denuncia a desaceleracao. Nos dois casos e sinal de `s_lucro` sem depender de carimbo.
+
+### Correcao: a tabela de cadencia por gateway e palpite (2026-08-29)
+
+A tabela de 27/08 da a PerfectPay "giro de horas" por ter ~287.000 reclamacoes ativas. Em 29/08 a
+PerfectPay tinha 287.431 e **a primeira pagina nao girou em 24h**: os tres IDs identificaveis
+(257574289, 257584931, 257581811) eram todos de rodadas anteriores.
+
+**Volume de reclamacoes da empresa nao prediz giro da primeira pagina** — a ordenacao nao e
+puramente por recencia. Ler aquela tabela como estimativa, nunca como medicao, e nao voltar a um
+gateway so porque ele e grande.
+
+### Ausencia de pagina de produtor nao e evidencia de ausencia de vendas (2026-08-29)
+
+A `Bebe Dorminhoco`, unico produtor nomeavel do sub-nicho de [[angulo-sono-bebe]], tem 12
+reclamacoes ativas, a mais recente de ha 4 anos e **zero na janela de seis meses** — apesar de
+anunciar 70.000 familias. A tentacao e derrubar o `s_lucro` do angulo. Nao derrube.
+
+Motivo: as ofertas de sono citadas naquela nota rodam **na Hotmart**, e reclamacao de produto
+vendido em gateway cai na pagina do gateway. A reatribuicao ao produtor que a PerfectPay faz
+**nao e comportamento universal**. A pagina vazia mede aquele produtor, nao o sub-nicho. Trocar um
+proxy magro por um proxy errado e pior que ficar sem proxy.
+
 ### Marcador barato de carimbo movido
 
 O adendo de 27/08 estabeleceu que so o ID e estavel. Falta um atalho: **titulo com

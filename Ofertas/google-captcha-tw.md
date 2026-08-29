@@ -23,11 +23,11 @@ s_ticket: 9
 s_lucro: 8
 s_replica: 2
 s_saturacao: 3
-status: nova
+status: ativa
 visto_primeiro: 2026-08-28
-visto_ultimo: 2026-08-28
-rodadas_vista: 1
-dias_no_ar: 60
+visto_ultimo: 2026-08-29
+rodadas_vista: 2
+dias_no_ar: 61
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
@@ -38,7 +38,7 @@ upsell_oculto: false
 ra_reclamacoes: 39
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 2026-06-29
-ra_checado: 2026-08-28
+ra_checado: 2026-08-29
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]

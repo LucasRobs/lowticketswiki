@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-28
+atualizado: 2026-08-29
 ---
 
 # Painel — Radar Low Ticket
@@ -11,48 +11,55 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-28
+## Leitura atual — 2026-08-29
 
-**5 ofertas vistas · 1 nova · 0 retornaram · 22 mudancas de status · 0 no corte de replicacao**
+**4 ofertas vistas · 1 nova · 0 retornaram · 21 mudancas de status · 0 no corte de replicacao**
 
-Oitava rodada, com cobertura deliberadamente estreita: so PerfectPay e Kiwify, porque o adendo
-de cadencia de 27/08 diz que com um dia de intervalo apenas esses dois giram a primeira pagina
-rapido o bastante. Dez linhas lidas, oito repeticoes, dois IDs ineditos, **uma nota nova**.
-Biblioteca de Anuncios e unFunnelizer fora pelo oitavo dia. O vault fecha em **84 ofertas**.
+Nona rodada. Biblioteca de Anuncios e unFunnelizer fora pelo nono dia. O Painel de ontem deu uma
+ordem explicita — *procurar pagina de produtor para as seis do topo do Ranking* — e a rodada
+executou. **Ela falhou como escrita, funcionou reformulada, e a diferenca entre as duas coisas e o
+achado do dia.** O vault fecha em **85 ofertas**.
 
-**A rodada achou uma fonte, e ela ataca o gargalo que esta pagina nomeou ontem.** Uma reclamacao
-listada na PerfectPay tinha, dentro do corpo, um bloco de empresa que **nao era a PerfectPay** —
-era `TW EMPREENDIMENTOS DIGITAIS`, com pagina propria no Reclame Aqui. O gateway reatribui a
-reclamacao ao produtor e ela fica listada nos dois lugares; ha ate uma reclamacao vizinha
-intitulada *"PERFECT PAY MOVENDO RECLAMACAO PRA OUTRA EMPRESA"*. A diferenca entre as duas fontes
-e de natureza: a lista do gateway e **larga e rasa** (centenas de ofertas, cinco linhas,
-`ra_reclamacoes` travado em 1); a pagina do produtor e **estreita e funda** — uma oferta so, 39
-reclamacoes ativas, a mais antiga carimbada em 29/06. Isso deu **60 dias de idade medida** para a
-[[google-captcha-tw]], a primeira vez em oito rodadas que uma nota recebe `dias_no_ar` real sem
-Biblioteca de Anuncios. Virou a Etapa 3b do `Pipeline.md`.
+**A ordem nao podia ser cumprida porque cinco das seis notas do topo sao angulos, e angulo nao tem
+produtor.** Nao e detalhe de execucao: e o Ranking admitindo um vies. Angulo pontua alto porque
+abstracao nao tem defeito — uma oferta real tem ticket que nao aparece, gateway que queima,
+produtor que sumiu; um angulo tem so a ideia, e ideia sempre parece replicavel. O corte
+(`score >= 7,5` **e** `s_replica >= 7`) foi desenhado para achar oferta, nao padrao. **Nove rodadas
+de zero no corte com angulos ocupando as seis primeiras posicoes e o sintoma disso, nao do
+mercado.**
 
-**A oferta em si e o contraponto exato do achado de ontem.** A [[google-captcha-tw]] cobra uma
-escada de taxas **ascendente e sem teto** — comeca em R$ 50, chega a R$ 795, um comprador somou
-R$ 4.666,49 — enquanto o [[angulo-taxa-escalonada-decrescente]] fecha em tres degraus decrescentes
-e R$ 46,70. O que segura a escada ascendente e uma pessoa: a *"gestora do GOOGLE CAPTCHA"* que
-reabre a conversa a cada falha de acesso e converte o atrito no gancho da cobranca seguinte. Duas
-escadas em duas rodadas, e a divisao util nao e a direcao — e o que sustenta o degrau. **As que
-rodam sozinhas no checkout sao replicaveis; as que precisam de gente no WhatsApp nao sao.** Dai o
-`s_replica: 2` e o score de 5,65, apesar do `s_lucro: 8`, o maior ja atribuido aqui.
+**A reformulacao rendeu a maior nota de volume do vault.** Procurar produtor *no nicho* do angulo,
+em vez de *do* angulo, achou a [[alfabetinho]]: **177 reclamacoes ativas**, 4,5x a
+[[google-captcha-tw]] que ontem era o teto. E o operador nomeado por tras do
+[[angulo-material-pedagogico]], catalogado ha treze dias como padrao sem dono — a primeira vez que
+uma nota de angulo daqui ganha nome proprio. Mas o numero tem duas metades: 177 ativas contra
+apenas 24 recebidas na janela de seis meses, com a mais recente ha dois meses. **Volume historico,
+sem aceleracao.** Reputacao Bom, 11h de resposta, 90% resolvido — entrega de verdade. `s_lucro: 7`:
+grande, provada, nao esquentando agora.
 
-**Onze ofertas morreram hoje — as primeiras do vault.** Todas com `visto_ultimo: 2026-08-16`,
-sete rodadas de ausencia, cruzando o limiar do `Scoring.md`. Mas `morta` aqui quer dizer "saiu do
-campo de visao do instrumento", nao "saiu do ar": nenhuma das onze foi procurada por nome desde
-16/08, porque a rotina so le as primeiras paginas dos gateways. Distribuicao final: **55 esfriando
-· 17 ativa · 11 morta · 1 nova**.
+**O achado de metodo e que a Etapa 3b tem duas portas, e a de fora e melhor.** Ontem se chegava a
+pagina do produtor por dentro, esperando a reclamacao certa cair nas cinco linhas do gateway. Hoje
+ficou claro que ela e pesquisavel direto por nicho, o que inverte a economia da rodada: **a primeira
+pagina da PerfectPay nao mudou nada em 24h — os tres IDs eram todos de rodadas anteriores — enquanto
+uma unica busca por nicho devolveu cinco produtores ineditos.** Isso tambem corrige a tabela de
+cadencia de 27/08: a PerfectPay tem 287.431 reclamacoes ativas e mesmo assim nao girou, ou seja
+volume da empresa nao prediz giro da primeira pagina. O preco e que `dias_no_ar` continua fora de
+alcance — paginacao nao passa no filtro de proveniencia do fetch, entao sem browser a Etapa 3b
+entrega volume, nao idade. O substituto que funcionou e o contador `M - N`: mostrou que a
+[[google-captcha-tw]] acelerou ~4,6x em agosto e que a [[alfabetinho]] desacelerou, em uma
+requisicao cada.
 
-**Oitava rodada com zero no corte, e o topo do Ranking parado pela terceira vez.**
-[[angulo-diagnostico-isca]] segue em 7,35 contra corte de 7,50, o mesmo numero de 24/08 e 27/08.
-Nada mudou porque nada podia mudar: as seis notas do pelotao de cima ja tem `s_replica` 8 ou 9 e
-todas tem `s_lucro` de proxy magro. **A proxima rodada deve gastar o tempo de outro jeito** — em
-vez de reler a primeira pagina dos nove gateways, procurar pagina de produtor para as seis do topo.
-Se alguma tiver, o `s_lucro` delas sai do palpite, e e isso, nao mais uma oferta nova, que tira o
-vault do zero. Proxima rodada em **30/08 ou 31/08**.
+**Nona rodada com zero no corte e o topo parado em 7,35 pela quarta vez.** Nao adianta esperar que
+uma oferta nova resolva: o corte esta parado porque a rubrica compara angulo com oferta na mesma
+tabela. **A proxima rodada deve mexer no instrumento antes de minerar mais** — marcar `tipo: angulo`
+no frontmatter ou separar as Bases, para que o corte volte a olhar so o que tem produtor, ticket e
+gateway. Depois disso, continuar a varredura de produtores por nicho: comportamento infantil,
+artesanato e cursos de oficio ainda nao tiveram os seus procurados por fora. Distribuicao final:
+**62 esfriando · 17 morta · 5 ativa · 1 nova** — cinco ativas em 85 e o alcance do instrumento
+falando, nao o mercado, e `esfriando` com 62 notas ja nao separa nada.
+
+Proxima rodada em **01/09**, sem varrer gateway.
+
 ---
 
 ## Ranking
