@@ -24,7 +24,7 @@ s_ticket: 9
 s_lucro: 4
 s_replica: 5
 s_saturacao: 4
-status: nova
+status: ativa
 visto_primeiro: 2026-08-29
 visto_ultimo: 2026-08-29
 rodadas_vista: 1

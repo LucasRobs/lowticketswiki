@@ -24,7 +24,7 @@ s_ticket: 2
 s_lucro: 5
 s_replica: 9
 s_saturacao: 8
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
 rodadas_vista: 1
@@ -99,3 +99,10 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Verificacao 2026-08-30
+
+No ar. R$ 19,90 ou 2x R$ 10,48, 49 paginas, Kiwify, garantia de 7 dias, suporte so por
+Instagram `@vidasemtela`. Novidade da leitura de hoje: a pagina agora invoca **metodologia
+DSM-5-TR** e experiencia pessoal do autor como prova. Continua sem bonus, sem bump e sem
+upsell — a leitura de oferta subprecificada e leilao indefeso se mantem.

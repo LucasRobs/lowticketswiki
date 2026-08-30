@@ -24,7 +24,7 @@ s_ticket: 5
 s_lucro: 5
 s_replica: 8
 s_saturacao: 5
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
 rodadas_vista: 1
@@ -99,3 +99,12 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Verificacao 2026-08-30
+
+`tdah.soescola.com` no ar, Hotmart `M41674495K`, **R$ 47** confirmado, 500+ atividades para
+1 a 8 anos, cinco bonus, garantia 7 dias, escassez de "50% para as primeiras 50 vendas".
+
+O dominio raiz `kitsoescola.com` vende um kit maior: **R$ 47 ancorado em R$ 97 (-51%),
+1.100 paginas, 20 PDFs, 2 a 10 anos**, seis bonus, com escassez numerica viva ("proximas
+22 vendas"). Confirma a arquitetura de portfolio: mesmo acervo, recortes por publico.

@@ -1,13 +1,11 @@
 filters:
   and:
-    - 'note.tipo == "oferta"'
-
+    - note.tipo == "oferta"
 formulas:
-  score: '(note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100'
-  movimento: 'if(note.criativos_delta > 0, "sobe +" + note.criativos_delta, if(note.criativos_delta < 0, "cai " + note.criativos_delta, "estavel"))'
-  visto: 'date(note.visto_ultimo).relative()'
-  decisao: 'if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 7.5 && note.s_replica >= 7, "REPLICAR", if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 6, "observar", "descartar"))'
-
+  score: (note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100
+  movimento: if(note.criativos_delta > 0, "sobe +" + note.criativos_delta, if(note.criativos_delta < 0, "cai " + note.criativos_delta, "estavel"))
+  visto: date(note.visto_ultimo).relative()
+  decisao: if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 7.5 && note.s_replica >= 7, "REPLICAR", if((note.s_lucro * 35 + note.s_replica * 30 + note.s_ticket * 20 + note.s_saturacao * 15) / 100 >= 6, "observar", "descartar"))
 properties:
   file.name:
     displayName: Oferta
@@ -35,7 +33,6 @@ properties:
     displayName: Ticket
   note.s_saturacao:
     displayName: Espaco
-
 views:
   - type: table
     name: Ranking geral
@@ -43,42 +40,40 @@ views:
       - file.name
       - formula.score
       - formula.decisao
-      - note.nicho
-      - note.ticket_medio_est
-      - note.dias_no_ar
+      - nicho
+      - ticket_medio_est
+      - dias_no_ar
       - formula.movimento
-      - note.status
+      - status
       - formula.visto
     sort:
       - property: formula.score
         direction: DESC
     summaries:
       formula.score: Average
-      note.ticket_medio_est: Average
-
+      ticket_medio_est: Average
   - type: table
     name: Por nicho
     groupBy:
-      property: note.nicho
+      property: nicho
       direction: ASC
     order:
       - file.name
       - formula.score
-      - note.ticket_medio_est
-      - note.s_saturacao
-      - note.status
+      - ticket_medio_est
+      - s_saturacao
+      - status
     sort:
       - property: formula.score
         direction: DESC
     summaries:
       formula.score: Average
-
   - type: cards
     name: Radar visual
     order:
       - file.name
       - formula.score
-      - note.nicho
+      - nicho
       - formula.movimento
     sort:
       - property: formula.score

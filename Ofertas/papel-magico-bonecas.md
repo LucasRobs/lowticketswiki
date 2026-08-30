@@ -130,3 +130,11 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Verificacao 2026-08-30 — funil intacto, e a garantia e de 30 dias
+
+Pagina no ar, tres degraus confirmados de novo (R$ 12,90 / R$ 24,90 / downsell R$ 17,90),
+checkout Lowify `yZauOn`, sete bonus (o setimo e "atualizacoes mensais gratuitas") e
+garantia de **30 dias**. Dez dias depois do primeiro registro, nada mudou — funil
+estavel, nao teste de fim de semana. `status: morta` esta errado e precisa voltar para
+`esfriando` na proxima gravacao.

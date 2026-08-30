@@ -24,7 +24,7 @@ s_ticket: 5
 s_lucro: 6
 s_replica: 7
 s_saturacao: 6
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
 rodadas_vista: 2
@@ -120,3 +120,10 @@ para 6 e `s_ticket` de 4 para 5 (R$ 39 confirmado, não estimado). Score: 5,55 �
 
 O padrão de falha se repete nas duas reclamações — curso vendido pela metade, ainda em
 produção. O criativo continua performando acima do produto.
+
+## Verificacao 2026-08-30
+
+Pagina no ar. **Checkout mudou: `pay.kiwify.com.br/qmKQS5h`.** Preco mantido em R$ 39
+ancorado em R$ 130 (-70%) ou 6x R$ 7,32. Entrega agora anuncia acesso vitalicio,
+multiplataforma e ate 4 telas simultaneas — escada de percepcao de valor sem mudar o ativo.
+O mascote Pipo (polvinho) segue como professor dos videos.

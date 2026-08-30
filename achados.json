@@ -1,5 +1,5 @@
 {
-  "data_varredura": "2026-08-26",
+  "data_varredura": "2026-08-30",
   "gateways": [
     {
       "nome": "PerfectPay",
@@ -16,88 +16,655 @@
   ],
   "achados": [
     {
-      "produto": "Stalkeia.ai",
+      "produto": "comercializado pela Infinity, anunciado como Chat GPT PLUS (",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 8,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 117,89",
+      "termo_busca": "comercializado pela infinity, anunciado como chat gpt plus (",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Cliente solicita cancelamento e estorno de compra de acesso anual ao Chat GPT PLUS devido a instabilidade e perda de dados.  Não respondida  CAKTO PAY  Brasília - DF  30/08/2026 às 12:12  ID: 257747185  No dia 5 de janeiro de 2",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cliente-solicita-cancelamento-e-estorno-de-compra-de-acesso-anual-ao-chat-gpt-plus-devido-a-instabilidade-e-perda-de-dados_EoZfnW91AeWZK4TZ/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 8
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 117",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "comprado",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 47,00",
+      "termo_busca": "comprado",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Cobrança de taxa adicional não combinada e falta de acesso ao produto comprado.  Não respondida  PerfectPay  Rio de Janeiro - RJ  26/08/2026 às 07:07  ID: 257402949  Realizei uma compra de um produto em um site na intern",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-de-taxa-adicional-nao-combinada-e-falta-de-acesso-ao-produto-comprado__chfFQTX8pupMWB5/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 47",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "pedindo mais Pix, caracterizando [Editado pelo Reclame Aqui]",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "pedindo mais pix, caracterizando [editado pelo reclame aqui]",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Compra de IA STALKER travou no WhatsApp pedindo mais Pix, caracterizando [Editado pelo Reclame Aqui] e solicitação de estorno.  Não respondida  PerfectPay  Dois Vizinhos - PR  26/08/2026 às 02:40  ID: 257400203  Eu adqui",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/compra-de-ia-stalker-travou-no-whatsapp-pedindo-mais-pix-caracterizando-editado-pelo-reclame-aqui-e-solicitacao-de-estorno_1-kgmoEucjwYlzke/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "RA Ads Previous slide Next slide Compartilhe RA Ads P Perfec",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Outros",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "ra ads previous slide next slide compartilhe ra ads p perfec",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Tomei [Editado pelo Reclame Aqui]  Não respondida  PerfectPay  Belo Horizonte - MG  26/08/2026 às 00:00  ID: 257397521  Tomei um [Editado pelo Reclame Aqui] e foi cobrado pelo esse app  RA Ads Previous slide Next slide",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/tomei-editado-pelo-reclame-aqui_PCEkQCMzbA-5dwgy/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Stalkeia App",
       "tipo": "marca",
       "gateway": "PerfectPay",
       "nicho": "Espionagem e rastreamento",
-      "temperatura": "quente",
-      "mencoes": 3,
-      "faixa_preco": "R$ 47-87",
-      "termo_busca": "Stalkeia",
-      "descricao": "App de espionar WhatsApp/Instagram. Grafias: Stalkeia.com, Stalkeia App, IA STALKER. Cobra créditos extras para liberar resultado. Três menções em 25/08-26/08 com valores R$ 47 e R$ 87.",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-de-taxa-adicional-nao-combinada-e-falta-de-acesso-ao-produto-comprado__chfFQTX8pupMWB5/"
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 87,00",
+      "termo_busca": "stalkeia app",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Solicitação de estorno de PIX por propaganda enganosa do produto Stalkeia App.  Não respondida  PerfectPay  São Mateus - ES  25/08/2026 às 21:49  ID: 257390923  Solicito o estorno imediato do PIX no valor de R$ 87,00 efe",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicitacao-de-estorno-de-pix-por-propaganda-enganosa-do-produto-stalkeia-app_we2sfgSop5jGx37G/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 87",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "hqflix",
+      "produto": "inativo)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "inativo)",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Reclamação sobre recusa de reembolso e atendimento genérico pela Perfect Pay  Não respondida  PerfectPay  Rio de Janeiro - RJ  25/08/2026 às 21:18  ID: 257388713  Há dias tento contato com a Perfect Pay, sobre um reembol",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-recusa-de-reembolso-e-atendimento-generico-pela-perfect-pay_BFp4AxOI5U-r8e8Q/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "hqflix, que foi anunciado como acesso vitalício",
       "tipo": "marca",
       "gateway": "Cakto",
       "nicho": "Streaming e entretenimento",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "",
-      "termo_busca": "hqflix",
-      "descricao": "Serviço de streaming anunciado como acesso vitalício. Comprador de 21/11/2025 não consegue mais acessar. Solicita estorno.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/usuario-solicita-estorno-por-nao-conseguir-mais-acessar-o-servico-hqflix-que-foi-anunciado-como-acesso-vitalicio_7zfD-D4s6GauY3fc/"
+      "termo_busca": "hqflix, que foi anunciado como acesso vitalício",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Usuário solicita estorno por não conseguir mais acessar o serviço hqflix, que foi anunciado como acesso vitalício.  Não respondida  CAKTO PAY  Belo Horizonte - MG  26/08/2026 às 09:04  ID: 257409859  Fiz uma compra do hq",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/usuario-solicita-estorno-por-nao-conseguir-mais-acessar-o-servico-hqflix-que-foi-anunciado-como-acesso-vitalicio_7zfD-D4s6GauY3fc/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "ganância_acesso_vitalicio"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "PLANO FREELANCER IMEDIATO",
+      "produto": "Plano Freelancer Imediato",
       "tipo": "marca",
       "gateway": "Cakto",
-      "nicho": "Ganhar dinheiro online / trabalho remoto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "R$ 11 + R$ 30 upsell",
-      "termo_busca": "freelancer imediato",
-      "descricao": "Plano vendido pela equipe Cakto por R$ 11 para acessar sites de trabalho remoto. Após pagamento, exige R$ 30 adicional para liberar acesso. Mecânica de taxa para desbloquear.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/plano-freelancer-imediato-pagamento-adicional-exigido-apos-compra-inicial-para-liberacao-de-acesso_Aa7b4b27tHVPApDH/"
+      "faixa_preco": "R$ 11,00",
+      "termo_busca": "plano freelancer imediato",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Plano Freelancer Imediato: Pagamento adicional exigido após compra inicial para liberação de acesso.  Não respondida  CAKTO PAY  Valinhos - SP  26/08/2026 às 08:40  ID: 257407679  Comprei um PLANO FREELANCER IMEDIATO ven",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/plano-freelancer-imediato-pagamento-adicional-exigido-apos-compra-inicial-para-liberacao-de-acesso_Aa7b4b27tHVPApDH/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 11",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "Pagamentos não recebidos (ângulo)",
+      "produto": "digital",
       "tipo": "angulo",
       "gateway": "Cakto",
-      "nicho": "Serviços financeiros / Pix",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "R$ 13,89 + R$ 38,89",
-      "termo_busca": "pagamento nao recebido cakto",
-      "descricao": "Cliente alega ter feito pagamentos via Cakto Pay (R$ 13,89 e R$ 38,89) e não ter recebido o serviço. Padrão de cobrança sem entrega.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cliente-alega-ter-sido-editado-pelo-reclame-aqui-pela-cakto-pay-apos-solicitacao-de-pagamento-nao-recebido_iGkp9DgcxElv0_2Y/"
+      "faixa_preco": "R$ 1.100",
+      "termo_busca": "digital",
+      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Produtor da Cakto não consegue transferir saldo de vendas devido a falha na validação da Conta Digital  Não respondida  CAKTO PAY  Joinville - SC  25/08/2026 às 23:09  ID: 257395473  Sou produtor na plataforma Cakto, com",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produtor-da-cakto-nao-consegue-transferir-saldo-de-vendas-devido-a-falha-na-validacao-da-conta-digital_4DnOrKwoT1hMSEch/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 1.100",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "Dificuldade de reembolso Cakto (ângulo)",
-      "tipo": "angulo",
-      "gateway": "Cakto",
-      "nicho": "Infoprodutos - suporte e reembolso",
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "reembolso cakto dificuldade",
-      "descricao": "Comprador pediu reembolso em menos de 4 dias, não obteve resposta do produtor nem suporte da Cakto. Indica falha no fluxo de reembolso da plataforma.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reclamacao-sobre-falta-de-resposta-e-dificuldade-de-reembolso-na-cakto_jiJdywNvdI1eyqGx/"
-    },
-    {
-      "produto": "Falha validação Conta Digital Cakto - produtor (ângulo)",
-      "tipo": "angulo",
-      "gateway": "Cakto",
-      "nicho": "Serviços financeiros / conta digital",
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "R$ 1.100+ retidos",
-      "termo_busca": "conta digital cakto validacao falha",
-      "descricao": "Produtor com vendas ativas não consegue transferir saldo (R$ 1.100+) por falha na validação da Conta Digital Cakto. Suporte lento, 15+ dias sem resolução. Travando operação de tráfego pago.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produtor-da-cakto-nao-consegue-transferir-saldo-de-vendas-devido-a-falha-na-validacao-da-conta-digital_4DnOrKwoT1hMSEch/"
-    },
-    {
-      "produto": "Recusa reembolso PerfectPay (ângulo)",
+      "produto": "e ele nao chegou quero meu dinheiro de volta RA Ads Previous",
       "tipo": "angulo",
       "gateway": "PerfectPay",
-      "nicho": "Infoprodutos - suporte e reembolso",
+      "nicho": "Outros",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "",
-      "termo_busca": "reembolso perfectpay recusa",
-      "descricao": "Comprador solicita reembolso horas após compra, envia provas (PIX, email cancelamento, WhatsApp inativo). PerfectPay responde com mensagens robóticas genéricas pedindo mesmas infos já anexadas. Recusa intervir.",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-recusa-de-reembolso-e-atendimento-generico-pela-perfect-pay_BFp4AxOI5U-r8e8Q/"
+      "termo_busca": "e ele nao chegou quero meu dinheiro de volta ra ads previous",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Propaganda inganosa  Não respondida  PerfectPay  Caxias do Sul - RS  30/08/2026 às 15:07  ID: 257755023     Fiz a compra de um produto e ele nao chegou quero meu dinheiro de volta  RA Ads Previous slide Next slide  Compartilhe",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-inganosa_WXGZ3QLZ1OhfoBjb/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Stalkeia App e solicitação de reembolso",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "stalkeia app e solicitação de reembolso",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Propaganda enganosa do aplicativo Stalkeia App e solicitação de reembolso.  Não respondida  PerfectPay  Brasília - DF  30/08/2026 às 13:55  ID: 257751921  Fui vítima de propaganda enganosa do aplicativo Stalkeia App. Solicito o",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-do-aplicativo-stalkeia-app-e-solicitacao-de-reembolso_zrIGWUSWcSp7p5Xp/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "spygram divulgado no Instagram",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49,80",
+      "termo_busca": "spygram divulgado no instagram",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Usuário pagou por app de monitoramento falso e não recebeu acesso a nada, solicita reembolso.  Não respondida  PerfectPay  Anadia - AL  30/08/2026 às 12:37  ID: 257748371  Efetuei o pagamento de um app chamado spygram divulgado",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/usuario-pagou-por-app-de-monitoramento-falso-e-nao-recebeu-acesso-a-nada-solicita-reembolso_h9AXG_wRQFTAEB9J/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 49",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Stalkeia",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 37,00",
+      "termo_busca": "stalkeia",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Compra de aplicativo Stalkeia.ai [Editado pelo Reclame Aqui], com promessas não cumpridas e solicitação de pagamentos adicionais.  Não respondida  PerfectPay  São Paulo - SP  30/08/2026 às 11:59  ID: 257746591  Fiz um pagamento",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/compra-de-aplicativo-editado-pelo-reclame-aqui-com-promessas-nao-cumpridas-e-solicitacao-de-pagamentos-adicionais_QBT9INmhnCqkBp0I/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 37",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "mas até agora não fui atendido RA Ads Previous slide Next sl",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "mas até agora não fui atendido ra ads previous slide next sl",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Reembolso  Respondida  CAKTO PAY  Campo Grande - MS  30/08/2026 às 16:10  ID: 257757699  Fiz uma compra na loja e quero reembolsar meu produto mas até agora não fui atendido  RA Ads Previous slide Next slide  Compartilhe  Respo",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso_Ou6F1k9zy_0W3ATN/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "informando que meu perfil precisava urgentemente de mudanças",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97,99,",
+      "termo_busca": "informando que meu perfil precisava urgentemente de mudanças",
+      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Solicitação de cancelamento e reembolso de compra de seguidores por propaganda enganosa.  Respondida  CAKTO PAY  Rio de Janeiro - RJ  30/08/2026 às 10:02  ID: 257741147  Realizei uma compra de seguidores no valor de R$ 97,99, a",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-reembolso-de-compra-de-seguidores-por-propaganda-enganosa_hiaN6FFls08qzwFb/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
     }
   ]
 }

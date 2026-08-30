@@ -24,7 +24,7 @@ s_ticket: 4
 s_lucro: 5
 s_replica: 9
 s_saturacao: 4
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
 rodadas_vista: 1
@@ -93,3 +93,11 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Verificacao 2026-08-30
+
+Pagina no ar, Kiwify `x6Lfqk9`, R$ 37 — mas agora **6x R$ 6,83** e com **tres bonus** que a
+rodada de 21/08 nao registrou: livro "Poder de Foco" (R$ 36), Planner de Autocuidado
+(R$ 67) e Planner de Gratidao Kids (R$ 19). Headline atual: *"Isso deixara seu filho mais
+responsavel e organizado"*. Os 40 modelos de rotina incluem versao em ingles e material
+editavel — o editavel e o que justifica o preco.

@@ -24,7 +24,7 @@ s_ticket: 4
 s_lucro: 5
 s_replica: 8
 s_saturacao: 5
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
 rodadas_vista: 1
@@ -95,3 +95,11 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Verificacao 2026-08-30
+
+`kitsoescola.com/autismo/` **retornou erro 508 (limite de recurso do servidor)**. Nao e
+404: a rota existe. Pode ser instabilidade momentanea ou pagina desativada. Os outros dois
+dominios da mesma operacao (`tdah.soescola.com` e `kitsoescola.com`) responderam normal,
+entao **nao e a operacao que caiu — e esta pagina**. Reverificar na proxima rodada antes
+de mexer em `status`.

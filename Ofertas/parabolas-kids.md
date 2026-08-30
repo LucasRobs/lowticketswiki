@@ -24,7 +24,7 @@ s_ticket: 4
 s_lucro: 7
 s_replica: 9
 s_saturacao: 6
-status: esfriando
+status: morta
 visto_primeiro: 2026-08-21
 visto_ultimo: 2026-08-21
 rodadas_vista: 1
@@ -103,3 +103,18 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Verificacao 2026-08-30 — os dois dominios tem checkout diferente
+
+A rodada de 21/08 registrou rotacao de dominio com "funil identico". **Esta errado, e a
+correcao vale mais que o registro original.**
+
+| Dominio | Checkout | Preco | Ancora |
+|---|---|---|---|
+| `parabolaskids.com.br` | `pay.kiwify.com.br/JrXNUhx` | R$ 37 (5x R$ 8,19) | — |
+| `valorescristaoskids.com.br` | `pay.kiwify.com.br/YeiMpvP` | R$ 37 (8x R$ 5,38) | R$ 197 |
+
+Checkouts distintos, parcelamentos distintos, ancoragens distintas. Nao e espelho nem
+redirect: sao **dois funis vivos rodando em paralelo**, o que so se faz com verba e
+intencao de medir. Confirma `s_lucro: 7` sem depender da Biblioteca de Anuncios.
+Garantia divergente tambem: 30 dias num, 7 dias no outro.

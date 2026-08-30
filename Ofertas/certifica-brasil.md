@@ -24,11 +24,11 @@ s_ticket: 0
 s_lucro: 8
 s_replica: 5
 s_saturacao: 4
-status: nova
+status: ativa
 visto_primeiro: 2026-08-29
-visto_ultimo: 2026-08-29
-rodadas_vista: 1
-dias_no_ar: 0
+visto_ultimo: 2026-08-30
+rodadas_vista: 2
+dias_no_ar: 0  # nao derivavel: M-N=5 e compativel com operacao jovem
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
@@ -39,7 +39,7 @@ upsell_oculto: true
 ra_reclamacoes: 13
 ra_plataformas: []
 ra_primeira_reclamacao:
-ra_checado: 2026-08-29
+ra_checado: 2026-08-30
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, certificacao]
@@ -78,8 +78,32 @@ Pela regra do `Scoring.md` — nicho regulado tem teto — `s_replica: 5`. A mec
 ## Estado dos dados
 
 - **Confirmado:** aceleracao (M−N), cadencia recente, mecanica, ausencia de atendimento.
-- **Faltando:** ticket (nenhum corpo lido citou valor — `s_ticket: 0` e sentinela), gateway, `dias_no_ar`, pagina de vendas.
-- **Proximo passo barato:** abrir o corpo de `pagamento-efetuado-para-certificado-digital...` para capturar valor e gateway. Um fetch.
+- **Faltando:** ticket, gateway, `dias_no_ar`, pagina de vendas.
+
+### 2026-08-30 — o fetch prometido foi feito e nao entregou
+
+O Painel de ontem fechou com uma ordem: *"abrir o corpo da reclamacao de pagamento da
+certifica-brasil (um fetch destrava ticket e gateway da unica oferta acelerando)"*. Feito.
+**Nao destravou nada.**
+
+| Reclamacao | ID | Carimbo | O que tinha |
+|---|---|---|---|
+| `pagamento-efetuado-para-certificado-digital...` | **257284137** | 24/08/2026 21h37 | mecanica confirmada, **sem valor, sem gateway** |
+| `...2 via de certificado de reservista...` | **257512741** | 27/08/2026 09h07 | idem, e com marcador `[Editado pelo Reclame Aqui]` |
+
+O corpo diz *"Fiz o pagamento para obter o certificado digital"* e para ai. **O corpo de
+reclamacao cita valor quando o reclamante escolhe citar** — nao e um campo. Prever que "um
+fetch destrava o ticket" foi otimismo, e vale corrigir a expectativa: a taxa de captura de
+ticket por corpo aberto, no acumulado do vault, e baixa.
+
+**Registro de IDs (regra de 27/08):** maior ID conhecido desta oferta e **257512741**. `M = 13`
+e `N = 8` continuam identicos aos de ontem — nenhuma reclamacao nova em 24h. Avistamento sim,
+incremento nao. `ra_reclamacoes` permanece 13.
+
+**A cadencia esta mais fria do que ontem sugeria.** O rotulo "Ha 2 dias" corresponde a 27/08 —
+tres dias, nao dois — e nada chegou desde entao. A aceleracao de ~3,8x medida por `M − N`
+continua valendo para agosto inteiro; a leitura de "unico produtor com movimento na ultima
+semana" nao sobreviveu a rodada seguinte.
 
 Pagina do produtor: https://www.reclameaqui.com.br/empresa/certifica-brasil/lista-reclamacoes/
 
