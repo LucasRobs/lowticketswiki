@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-29
+atualizado: 2026-08-31
 ---
 
 # Painel — Radar Low Ticket
@@ -11,20 +11,45 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-29 (segunda passada)
+## Leitura atual — 2026-08-31 (segunda passada)
 
-**88 notas · 73 ofertas · 15 angulos · 3 novas nesta passada · 0 no corte de replicacao**
+**110 notas · 91 ofertas · 19 angulos · 0 novas nesta passada · 1 no corte de replicacao**
 
-A tarefa disparou de novo no mesmo dia. Em vez de repetir a varredura — que menos de 24h depois nao produziria sinal, e sobrescreveria os snapshots de hoje — esta passada executou a ordem que a rodada da manha tinha deixado: **mexer no instrumento antes de minerar mais.**
+Duas passadas hoje. A da manha varreu o nicho infantil pela Biblioteca de Anuncios e trouxe quinze
+notas; esta executou a fila que ela deixou. **A Etapa 1 nao estava disponivel aqui** — o navegador
+interno recusou `facebook.com` duas vezes e o claude-in-chrome segue vazio. O adendo da manha
+descreve um procedimento que custa 2-3 aprovacoes por termo, e **aprovacao pressupoe o Lucas na
+frente da tela**: a Etapa 1 pelo navegador interno e ferramenta de rodada assistida, nao de rodada
+agendada. A cadencia diaria que a manha declarou restaurada vale so para as passadas acompanhadas.
 
-**O campo `classe` separou oferta de angulo, e o vies era real: 1,1 ponto de score e 1,6 de `s_replica`** a favor da abstracao (angulo 6,55 / 7,86 contra oferta 5,43 / 6,28). O criterio e a tag, nao o prefixo do slug — [[angulo-taxa-escalonada-decrescente]] tem nome de angulo mas gateway, ticket e ID de reclamacao, entao ficou como oferta. `tipo` continua `oferta` nas duas para nao quebrar Bases e Dataview.
+**A correcao que importa: as duas rodadas anteriores relataram o corte sem calcular o corte.** A
+manha abriu anunciando o primeiro cruzamento de sempre — [[little-genius]], 7,60. Mas [[soulmate-sketcher]]
+(7,85) e [[retrato-da-alma-gemea]] (7,65) ja cruzavam, e as duas nasceram em **30/08** — rodada que
+fechou o texto dizendo "decimo dia de zero no corte". O corte e uma formula sobre o frontmatter e
+ninguem a estava rodando; a narrativa vinha da memoria do que tinha acabado de ser escrito. Regra
+nova de processo: **computar o ranking antes de narrar**, toda rodada.
 
-**Mas separar nao destravou o corte, e essa e a correcao que importa.** O Painel de ontem culpava os angulos por nove rodadas de zero-no-corte. Nenhum angulo cruzava: o melhor marca 7,35, abaixo de 7,5. Tirar os angulos nao promoveu ninguem — revelou que **o teto das ofertas reais e 6,95** ([[treino-trinca]]). A causa e um campo faltando: **`dias_no_ar` esta zerado em 66 das 71 ofertas (93%)**, e ele alimenta `s_lucro`, que tem peso 35. Fixando `s_lucro = 10` e mantendo o resto, **24 ofertas cruzariam o corte**. Ou seja: **zero-no-corte nao e leitura do mercado, e o eco da rubrica rodando sem o insumo principal** — e nao deve mais ser reportado como diagnostico.
+**Auditadas, as duas caem — e pelo mesmo vicio, nos dois eixos de maior peso.** A soulmate marcava
+`s_lucro: 9` com `dias_no_ar: 0`, `criativos_ultima: 0` e `ra_reclamacoes: 0`, e o corpo da nota
+escrevendo *"so a Biblioteca de Anuncios mede"* — declarou nao ter instrumento e cravou o maximo do
+eixo de peso 35. O retrato marcava `s_saturacao: 8` com a prosa da propria nota dizendo *"ha dezenas
+de clones"*; ali nem faltava dado, faltava ler. Corrigidas para 6,10 e 6,40. **Isso inverte o
+diagnostico de 29/08:** campo faltando nao empurra o score para baixo, empurra para onde quem
+preencheu quis — e quem preenche acabou de gastar meia hora se convencendo de que a oferta e boa.
+Hoje **22 ofertas** tem `s_lucro >= 5` sem nenhum insumo de longevidade e **14** tem `s_lucro >= 7`
+nas mesmas condicoes, entre elas [[treino-trinca]], a nota que o Painel de 29/08 citou como "o teto
+das ofertas reais". O teto era ele proprio um palpite. Regra nova no `Scoring.md`: **`s_lucro >= 7`
+exige `dias_no_ar > 0` ou `ra_primeira_reclamacao`; sem isso o teto e 6** — aplicada so onde muda
+veredito, para nao trocar um palpite por outro em lote.
 
-**Do garimpo, tres notas novas, todas de uma busca so.** [[certifica-brasil]] e o unico achado quente: M=13 contra N=8 na janela de seis meses, ~5 chegadas em agosto, **aceleracao de ~3,8x**, com reclamacoes de 2, 3 e 5 dias atras — o unico produtor com movimento na ultima semana. Mecanica de prova online com certificado pago, sem curso a entregar. [[certificado-curso-online]] e o oposto: 58 ativas mas so 3 em seis meses, parada, e a unica com **ticket capturado (R$ 139,90)**. O par ilustra o defeito do score melhor que o Diagnostico abaixo: a morta marca 5,30 e a viva 4,90, porque uma teve ticket capturado por acaso. Das duas nasceu o [[angulo-taxa-do-certificado]] — primeiro angulo do vault a **nascer com operador nomeado**, com cinco encontrados de uma vez.
-
-**O limite da porta de fora tambem ficou claro:** "artesanato + moldes" devolveu seis lojas de material fisico e nenhum infoproduto. **A busca por produtor funciona quando o termo descreve a mecanica ("certificado", "taxa"), nao o produto.** Proxima rodada em **01/09**: abrir o corpo da reclamacao de pagamento da [[certifica-brasil]] (um fetch destrava ticket e gateway da unica oferta acelerando) e varrer por mecanica — "taxa de saque", "liberacao de premio", "segunda via". Distribuicao final: **62 esfriando · 17 morta · 5 ativa · 4 nova**.
-
+**De medicao de campo, o angulo de alma gemea:** tres paginas de produtor no Reclame Aqui,
+`retrato-da-alma-gemea` (M=206, N=21, mais recente ha 16 dias), `alma-gemea` (M=19, N=2, ha 3 meses)
+e `desenho-da-alma-gemea` (M=16, N=0, ha 1 ano), mais Marcia Sensitiva, Mestre Zion, Aurara Vidal e
+Alma Gemea Chay soltos nos corpos. **Seis operadores nomeaveis, um vivo** — e as 206 reclamacoes do
+sobrevivente sao de nao-entrega. Mesma forma do achado da manha sobre bonecas de papel: o ativo
+circula pronto, os clones sao muitos, e **o que separa vivo de morto nao e a copy, e a entrega.**
+Proxima passada precisa ser **assistida**, para os tres itens de browser que ficaram na fila.
+Distribuicao final: **52 morta · 29 esfriando · 20 nova · 9 ativa**.
 ---
 
 ## Ranking — ofertas reais

@@ -167,3 +167,58 @@ Ou seja: **o corte nao esta vazio porque o mercado e ruim. Esta vazio porque fal
 campo.** Enquanto a Etapa 1 estiver fora e a Etapa 3b nao entregar idade, zero-no-corte
 e o resultado esperado da rubrica, nao uma leitura do mercado — e nao deve ser reportado
 como se fosse.
+
+---
+
+## Adendo — teto de `s_lucro` sem insumo de longevidade (2026-08-31, segunda passada)
+
+O Painel de 29/08 diagnosticou que campo faltando **derruba** o score: `dias_no_ar` zerado
+em 93% do vault fazia `s_lucro` virar palpite conservador e segurava todo mundo abaixo do
+corte. O diagnostico estava certo sobre a causa e **errado sobre a direcao**. Campo faltando
+nao empurra para baixo nem para cima — empurra para onde quem preencheu quis.
+
+Medido em 31/08, sobre `classe: oferta`:
+
+| Condicao | Notas |
+|---|---|
+| `s_lucro >= 5` com `dias_no_ar: 0` **e** `ra_reclamacoes: 0` | **22** |
+| `s_lucro >= 7` sem `dias_no_ar` **e** sem `ra_primeira_reclamacao` | **14** |
+
+O caso que provocou o adendo: [[soulmate-sketcher]] entrou em 30/08 com **`s_lucro: 9`**,
+`dias_no_ar: 0`, `criativos_ultima: 0`, `ra_reclamacoes: 0` — e a propria nota escrevendo,
+no corpo, *"so a Biblioteca de Anuncios mede"*. Ou seja: a nota declarava nao ter instrumento
+e mesmo assim atribuiu a nota maxima do eixo de maior peso. Resultado: score 7,85,
+`veredito: replicar`, `prioridade: 3` — **o topo do Ranking, construido sobre nada medido.**
+
+### A regra
+
+As faixas 7-8 e 9-10 de `s_lucro` sao definidas **exclusivamente em tempo no ar**. Nao ha
+como argumentar por elas sem um insumo de longevidade. Portanto:
+
+> **`s_lucro >= 7` exige `dias_no_ar > 0` ou `ra_primeira_reclamacao` preenchida.**
+> Sem nenhum dos dois, o teto e **6**.
+
+Faixas 0-6 continuam podendo ser argumentadas por sinal mole (mecanica, escada de ofertas,
+qualidade da pagina) — o que nao se pode e alegar escala sem ter medido escala.
+
+### Escopo da aplicacao nesta passada
+
+Aplicada **apenas onde muda veredito**: [[soulmate-sketcher]], `s_lucro` 9 → 4, score 7,85 →
+6,10, `veredito` replicar → observar. As outras 13 violacoes estao todas abaixo de 7,5 e o
+teto so as reordena no meio da tabela — ficam na fila para quando a Etapa 1 medir, em vez de
+serem rescoradas em lote por um numero que tambem seria palpite.
+
+**Vale registrar quem mais viola**, porque uma delas sustentava a tese do Painel: 
+[[treino-trinca]] tem `s_lucro: 9` sem medicao nenhuma, e foi ela que o Painel de 29/08 citou
+como *"o teto das ofertas reais e 6,95"*. O teto era ele proprio um palpite.
+
+### Corolario — `s_saturacao` alto contra corpo de nota que diz o contrario
+
+O mesmo vicio, no eixo invertido. [[retrato-da-alma-gemea]] carregava `s_saturacao: 8`
+("2-4 players, angulo com espaco") enquanto o **corpo da propria nota** listava seis avatares
+intercambiaveis e escrevia, ao pe da letra, *"o angulo esta lotado"* e *"ha dezenas de clones"*.
+Corrigido para **2** em 31/08.
+
+Esse erro e mais barato de achar que o de `s_saturacao` por falta de Etapa 1: **nao precisa de
+browser, precisa de ler a nota.** Vale uma varredura de contradicao interna antes de qualquer
+rodada de garimpo — campo otimista contra prosa pessimista, na mesma nota.

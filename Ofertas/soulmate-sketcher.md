@@ -21,10 +21,10 @@ modelo: [direct]
 formato_entrega: [servico-digital]
 tem_recorrencia: false
 s_ticket: 7
-s_lucro: 9
+s_lucro: 4
 s_replica: 8
 s_saturacao: 6
-status: nova
+status: ativa
 visto_primeiro: 2026-08-30
 visto_ultimo: 2026-08-30
 rodadas_vista: 1
@@ -40,8 +40,8 @@ ra_reclamacoes: 0
 ra_plataformas: []
 ra_primeira_reclamacao:
 ra_checado: 2026-08-30
-veredito: replicar
-prioridade: 3
+veredito: observar
+prioridade: 2
 tags: [oferta, lowticket, esoterico, gringa]
 ---
 

@@ -21,13 +21,13 @@ modelo: [direct]
 formato_entrega: [servico-digital]
 tem_recorrencia: false
 s_ticket: 3
-s_lucro: 9
+s_lucro: 8
 s_replica: 9
-s_saturacao: 8
-status: nova
+s_saturacao: 2
+status: ativa
 visto_primeiro: 2026-08-30
-visto_ultimo: 2026-08-30
-rodadas_vista: 1
+visto_ultimo: 2026-08-31
+rodadas_vista: 2
 dias_no_ar: 1826
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: true
 ra_reclamacoes: 206
 ra_plataformas: [kirvano, cakto, kiwify, hotmart, monetizze]
 ra_primeira_reclamacao: 2021-07-28
-ra_checado: 2026-08-30
+ra_checado: 2026-08-31
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, esoterico, persona-ficticia]

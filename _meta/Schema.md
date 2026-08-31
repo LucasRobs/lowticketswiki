@@ -201,3 +201,26 @@ Aplicada as 85 notas (71 `oferta`, 14 `angulo`):
 
 O vies existia e tem tamanho: **1,1 ponto de score e 1,6 de `s_replica`**, na direcao prevista.
 Angulo pontua alto em replicabilidade porque nao tem produto concreto para atrapalhar.
+
+---
+
+## Adendo — `proprio` entra no vocabulario de gateway (2026-08-31, segunda passada)
+
+[[soulmate-sketcher]] gravou `checkout: proprio` e `gateways_detectados: [proprio]` na
+estreia de 30/08, fora da lista controlada. O valor e legitimo e a semantica e a mesma de
+`whatsapp`: **nao e um gateway de infoproduto, e a ausencia deliberada de um.** A operacao
+cobra no proprio dominio (`thesoulmatesketcher.com/pt/comecar`, com `/my-orders`).
+
+Nao confundir com `desconhecido`, que e sentinela de "nao capturado ainda". `proprio`
+afirma uma captura: olhamos e nao ha intermediario.
+
+**Consequencia que precisa estar no schema, nao so na nota:** oferta com `checkout: proprio`
+e **estruturalmente invisivel para a Etapa 3**. Nao cai em lista de gateway nem ganha pagina
+de produtor no Reclame Aqui. Para essas, `ra_reclamacoes: 0` nao e sinal fraco — e sinal
+ausente, e o unico instrumento e a Etapa 1.
+
+Lista completa atualizada para os tres campos:
+
+`perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
+`hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` ·
+`stripe` · `clickbank` · `whatsapp` · `proprio` · `desconhecido`
