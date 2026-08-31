@@ -339,3 +339,74 @@ O adendo de 27/08 estabeleceu que so o ID e estavel. Falta um atalho: **titulo c
 `[Editado pelo Reclame Aqui]` sinaliza carimbo empurrado para frente.** O ID 257574289 exibia
 28/08 12h13 sendo mais antigo que o 257586513, carimbado 27/08 21h05 — e a diferenca visivel
 era a edicao do RA. Serve para desconfiar sem precisar de leitura anterior daquele ID.
+
+---
+
+## Adendo — a Etapa 1 voltou pelo navegador interno (2026-08-31)
+
+Onze rodadas descreveram a Biblioteca de Anuncios como indisponivel. Ela nao estava. O que estava
+fora era o **claude-in-chrome** (`list_connected_browsers` devolve `[]` desde 20/08).
+
+Em 30/08 o navegador interno foi testado **uma vez**, contra `reclameaqui.com.br`, foi recusado, e
+a conclusao registrada foi "o navegador interno nao serve". Generalizacao a partir de uma amostra
+de um. Ele aceita `facebook.com/ads/library` sem problema.
+
+**Procedimento:**
+
+1. `Claude_Browser__request_access` com `https://facebook.com` (o grant vale para **uma** chamada).
+2. `Claude_Browser__preview_start` ou `navigate` com a URL da Biblioteca ja montada com o termo:
+   `facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=<termo>&search_type=keyword_unordered&media_type=all`
+3. `request_access` de novo → `get_page_text`. A primeira leitura costuma pegar a pagina antes do
+   render dos resultados; repetir `request_access` + `get_page_text` uma vez resolve.
+
+**Custo:** 2 a 3 aprovacoes por termo consultado. Isso limita quantos termos cabem numa rodada, e
+tem consequencia de estrategia: **priorizar termos largos de angulo** ("caligrafia", "bonecas de
+papel") em vez de termos de marca. Um termo largo devolve a coorte inteira de operadores com data
+de veiculacao; um termo de marca devolve um.
+
+O que sai daqui, por operador: `dias_no_ar` (da data em "Veiculacao iniciada em"),
+`criativos_ultima` (contagem de anuncios ativos + os blocos "N anuncios usam esse criativo"),
+nome do anunciante, dominio da LP e frequentemente **o preco**, no cartao de link do criativo —
+util quando a LP nao abre por fetch.
+
+### Consequencia 1: `s_saturacao` do periodo sem Etapa 1 esta enviesado
+
+Sem a Biblioteca, `s_saturacao` nunca foi medido — foi inferido de quantas notas do mesmo angulo
+o vault ja tinha. **Isso confunde cobertura do radar com concorrencia no mercado**, e o erro tem
+direcao fixa: sempre superestima o espaco livre.
+
+Medido em 31/08: a shortlist de 30/08 deu `s_saturacao: 7` e a leitura "campo aberto" ao angulo de
+bonecas de papel. Uma consulta devolveu **sete operadores ativos**, tres com mais de 40 dias no ar.
+Valor corrigido para **2** — cinco pontos de erro num eixo de peso 15.
+
+**Todo `s_saturacao` >= 6 atribuido entre 21/08 e 30/08 deve ser reauditado.**
+
+### Consequencia 2: a cadencia de 2-3 dias caduca
+
+Os adendos de 24/08 e 27/08 fixaram cadencia de 2-3 dias porque a primeira pagina do Reclame Aqui
+nao gira em 24h. Isso descrevia a limitacao **daquela fonte**, nao do mercado.
+
+A Biblioteca responde por termo e por data de veiculacao, nao por recencia de lista: **nao ha giro
+a esperar.** A cadencia util volta a ser diaria, e a variavel que passa a importar deixa de ser
+*quando* rodar e passa a ser *quais termos rodar* — cada termo novo e uma coorte inteira de
+operadores que o vault nunca viu.
+
+### Consequencia 3: a Etapa 3 cai para confirmacao neste nicho
+
+A excecao de nicho de 21/08 dizia que comportamento infantil nao deixa rastro no Reclame Aqui.
+Em 31/08 as duas metades foram medidas no mesmo dia: `fabrica-de-ideias-pedagogicas` com **M=0,
+N=0** e `plano-de-aula-pronto` com **M=19, N=6**, contra operadores do mesmo nicho com **123 e 107
+dias de anuncio ativo**. Quatro meses de verba, quase nenhuma reclamacao.
+
+Com a Etapa 1 de volta, a ordem correta neste nicho e: **Biblioteca de Anuncios como descoberta e
+como fonte de volume; Reclame Aqui apenas como confirmacao opcional.**
+
+### Limitacao conhecida: LP que nao abre
+
+Tres das treze LPs de 31/08 nao abriram: uma por falha de DNS no fetch (`casinhadossonhos.com.br`,
+tambem recusada pelo navegador interno) e duas por serem aplicacoes JS que retornam so um shell
+("Carregando...") no HTML inicial (`bibliotecainterativa.com`, `mundocriativobr.shop`).
+
+Nesses casos, **o cartao de link do proprio anuncio costuma trazer o preco** ("Por apenas R$ 10,00")
+e serve como fonte. Registrar `checkout: desconhecido` — a sentinela do `Schema.md` — e nao
+estimar gateway.
