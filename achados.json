@@ -20,25 +20,25 @@
       "tipo": "marca",
       "gateway": "PerfectPay",
       "nicho": "Espionagem e rastreamento",
-      "score_final": 11,
+      "score_final": 7,
       "temperatura": "fria",
-      "mencoes": 2,
+      "mencoes": 1,
       "faixa_preco": "",
       "termo_busca": "stalkeia",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa__4nr816NYlTJmFOB/",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-do-aplicativo-stalkeia-app-e-solicitacao-de-reembolso_zrIGWUSWcSp7p5Xp/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 11
+        "score_ajustado": 7
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "curiosidade_voyeurismo",
         "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -86,11 +86,11 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "curiosidade_voyeurismo",
         "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "medo_traiçao"
       ],
-      "cloaker_suspeito": true,
+      "cloaker_suspeito": false,
       "produtor": {
         "nome": "Spygram LTDA",
         "cnpj": "",
@@ -131,8 +131,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "facilidade",
-        "novidade"
+        "novidade",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -175,8 +175,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "facilidade",
-        "novidade"
+        "novidade",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
