@@ -37,8 +37,8 @@
       },
       "angulos_detectados": [
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica",
-        "medo_traiçao"
+        "medo_traiçao",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -58,50 +58,6 @@
       },
       "funil_estimado": {
         "front": "R$ 47",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "Lumi AI",
-      "tipo": "marca",
-      "gateway": "Cakto",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 7,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "R$ 959,99.",
-      "termo_busca": "lumi ai",
-      "descricao": "REEMBOLSO SOLICITADO DENTRO DO PRAZO, MAS Cakto IMPEDE A DEVOLUÇÃO POR FALTA DE SALDO DO PRODUTOR Realizei a compra do infoproduto Lumi AI através da plataforma Cakto no dia 27/08/2026, no valor de R$ 959,99. ID do pedido: ***** No dia seguinte à compra, em 28/08/2026, solicitei o reembolso pela própria plataforma, portanto dentro do prazo de 7 dias para solicitação de reembolso. O problema é que, ao tentar realizar o procedimento, a plataforma informa que o produtor está sem saldo suficiente pa",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso-negado-por-falta-de-saldo-do-produtor-na-plataforma-cakto-apesar-de-solicitacao-dentro-do-prazo_387A3HmFDomhHErm/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 7
-      },
-      "angulos_detectados": [
-        "novidade",
-        "autoridade",
-        "facilidade"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "Lumi AI",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "Cakto"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 959",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -153,6 +109,94 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
+      "produto": "mas eu n",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "mas eu n",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/vendedor-nao-recebe-dinheiro-das-vendas-devido-a-analise-de-documentacao-demorada-e-suporte-lento_oW_Ar32UzJWou7Co/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "novidade",
+        "autoridade",
+        "facilidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um livro de macrame em paguei com Pix. En",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "um livro de macrame em paguei com pix. en",
+      "descricao": "Fiz uma compra de um livro de macrame em paguei com Pix. Enviaram um código para entrar, mas não consigo. Vem uma mensagem de token invalido. Quero uma resposta pf Erro ao acessar livro digital de macramê comprado via Pix, com mensagem de token inválido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/erro-ao-acessar-livro-digital-de-macrame-comprado-via-pix-com-mensagem-de-token-invalido_MVEYCodphEJ69zx8/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "novidade",
+        "autoridade",
+        "facilidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
       "produto": "eles mandam entrar em contato com o prod",
       "tipo": "angulo",
       "gateway": "Cakto",
@@ -189,93 +233,6 @@
       },
       "funil_estimado": {
         "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "Vavá Academy",
-      "tipo": "marca",
-      "gateway": "Cakto",
-      "nicho": "Educação e consultoria",
-      "score_final": 4,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "vavá academy",
-      "descricao": "Realizei a compra de um produto da Vavá Academy por meio da plataforma Cakto, porém **não recebi o acesso à plataforma nem o produto adquirido**. Após a compra, tentei entrar em contato com o criador responsável por e-mail para solicitar o acesso e resolver a situação, mas **não obtive nenhuma resposta** até o momento. Ou seja, o pagamento foi realizado, mas o produto não foi disponibilizado e não estou conseguindo contato com o responsável. Diante disso, solicito o **reembolso integral do valor",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produto-nao-entregue-e-criador-nao-responde-solicito-reembolso_605Q8ntQ-aQlegi3/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 4
-      },
-      "angulos_detectados": [
-        "ganância_carreira",
-        "autoridade"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "Vavá Academy",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "Cakto"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "Grupo no Telegram",
-      "tipo": "angulo",
-      "gateway": "Cakto",
-      "nicho": "Espionagem e rastreamento",
-      "score_final": 4,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "R$ 143,68.",
-      "termo_busca": "grupo no telegram",
-      "descricao": "No final de julho, realizei a compra de um produto digital chamado \"GRUPO NO TELEGRAM\" através de um link gerado na plataforma Cakto. O vendedor se identifica como Kaique Santtos, cujo e-mail cadastrado e de contato é *****. A compra foi aprovada no meu cartão de crédito sob o código de pedido *****, no valor de R$ 143,68. Na minha fatura, a cobrança aparece exatamente como \"CAKTO*GRUPO NO TELEGRAM\". Durante a negociação no WhatsApp, o vendedor me informou que a entrega (a transferência de posse",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/editado-pelo-reclame-aqui-em-compra-de-produto-digital-processada-pela-cakto-com-editado-pelo-reclame-aqui-e-nao-entrega_HJtQooCkVBEfTtMB/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 4
-      },
-      "angulos_detectados": [
-        "curiosidade_voyeurismo",
-        "facilidade_tecnologica",
-        "medo_traiçao"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "se identifica como Kaique Santtos",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "Cakto"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 143",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
