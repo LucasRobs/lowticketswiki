@@ -20,27 +20,27 @@
       "tipo": "marca",
       "gateway": "PerfectPay",
       "nicho": "Espionagem e rastreamento",
-      "score_final": 7,
+      "score_final": 18,
       "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
+      "mencoes": 3,
+      "faixa_preco": "R$ 47,00, R$ 87,00",
       "termo_busca": "stalkeia",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-do-aplicativo-stalkeia-app-e-solicitacao-de-reembolso_zrIGWUSWcSp7p5Xp/",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-de-taxa-adicional-nao-combinada-e-falta-de-acesso-ao-produto-comprado__chfFQTX8pupMWB5/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 7
+        "score_ajustado": 18
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
         "facilidade_tecnologica",
+        "curiosidade_voyeurismo",
         "medo_traiçao"
       ],
-      "cloaker_suspeito": false,
+      "cloaker_suspeito": true,
       "produtor": {
         "nome": "Stalker Tech LTDA",
         "cnpj": "",
@@ -57,7 +57,7 @@
         "portfolio_size_est": "3-5 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 27-97",
+        "front": "R$ 47",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -66,61 +66,17 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "Spygram",
+      "produto": "hqflix",
       "tipo": "marca",
-      "gateway": "PerfectPay",
-      "nicho": "Espionagem e rastreamento",
-      "score_final": 7,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "R$ 49,80",
-      "termo_busca": "spygram",
-      "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/usuario-pagou-por-app-de-monitoramento-falso-e-nao-recebeu-acesso-a-nada-solicita-reembolso_h9AXG_wRQFTAEB9J/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 7
-      },
-      "angulos_detectados": [
-        "curiosidade_voyeurismo",
-        "facilidade_tecnologica",
-        "medo_traiçao"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "Spygram LTDA",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "PerfectPay"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 49",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "comprado. Gostaria do reembolso assim que",
-      "tipo": "angulo",
       "gateway": "Cakto",
-      "nicho": "Ferramentas de IA / Produtividade",
+      "nicho": "Streaming e entretenimento",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "",
-      "termo_busca": "comprado. gostaria do reembolso assim que",
+      "termo_busca": "hqflix",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/pagamento-via-pix-nao-resultou-na-entrega-do-produto-solicitacao-de-reembolso-por-possivel-editado-pelo-reclame-aqui_cbUdm8Fq5-5oanwH/",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/usuario-solicita-estorno-por-nao-conseguir-mais-acessar-o-servico-hqflix-que-foi-anunciado-como-acesso-vitalicio_7zfD-D4s6GauY3fc/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
@@ -130,13 +86,12 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
-        "novidade",
-        "facilidade"
+        "facilidade",
+        "ganância_acesso_vitalicio"
       ],
       "cloaker_suspeito": false,
       "produtor": {
-        "nome": "desconhecido",
+        "nome": "HQFlix Streaming",
         "cnpj": "",
         "outras_ofertas": [],
         "gateways_historico": [
@@ -154,17 +109,17 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "curso online",
-      "tipo": "angulo",
+      "produto": "Plano Freelancer Imediato",
+      "tipo": "marca",
       "gateway": "Cakto",
       "nicho": "Ferramentas de IA / Produtividade",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "curso online",
+      "faixa_preco": "R$ 11,00",
+      "termo_busca": "plano freelancer imediato",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/curso-online-nao-entregue-apos-pagamento-com-falha-na-comunicacao-e-solicitacao-de-estorno_-bekag5hY78F-1mM/",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/plano-freelancer-imediato-pagamento-adicional-exigido-apos-compra-inicial-para-liberacao-de-acesso_Aa7b4b27tHVPApDH/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
@@ -174,9 +129,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "autoridade",
-        "novidade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -189,7 +144,7 @@
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 27-97",
+        "front": "R$ 11",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",

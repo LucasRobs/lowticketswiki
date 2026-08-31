@@ -23,11 +23,11 @@ tem_recorrencia: false
 s_ticket: 3
 s_lucro: 6
 s_replica: 10
-s_saturacao: 7
-status: morta
+s_saturacao: 2
+status: esfriando
 visto_primeiro: 2026-08-20
-visto_ultimo: 2026-08-20
-rodadas_vista: 1
+visto_ultimo: 2026-08-31
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -138,3 +138,23 @@ checkout Lowify `yZauOn`, sete bonus (o setimo e "atualizacoes mensais gratuitas
 garantia de **30 dias**. Dez dias depois do primeiro registro, nada mudou — funil
 estavel, nao teste de fim de semana. `status: morta` esta errado e precisa voltar para
 `esfriando` na proxima gravacao.
+
+
+---
+
+## Correcao de 2026-08-31 — o campo nunca esteve aberto
+
+A shortlist de 30/08 colocou esta oferta em primeiro lugar com a leitura de **"campo aberto"** e
+`s_saturacao: 7`. Com a Biblioteca de Anuncios de volta hoje, a leitura cai: sao **sete
+operadores ativos** no mesmo angulo, tres deles com mais de 40 dias de anuncio. `s_saturacao`
+corrigido para **2**. Ver [[angulo-bonecas-de-papel-imprimivel]].
+
+Pior que a saturacao: a [[bonecas-papel-maria-criativa]] ancora **nos mesmos valores ao centavo**
+— R$ 47,90 no basico e R$ 143,50 no completo — com os mesmos sete bonus na mesma ordem, em
+gateway diferente (Kirvano contra Lowify). **Esta oferta nao e original.** O kit de venda circula
+pronto entre operadores.
+
+O que sobrevive da leitura de ontem: `s_replica: 10` continua correto, e o **downsell de saida de
+R$ 17,90** continua sendo a peca que os outros seis nao tem. O que muda e o veredito de entrada:
+copiar este funil e ser o oitavo clone. O espaco esta no reenquadramento (ver
+[[pequenas-estilistas]], 2,3x o ticket com o mesmo tipo de ativo) e no acervo espelho de meninos.
