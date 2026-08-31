@@ -20,12 +20,12 @@
       "tipo": "marca",
       "gateway": "PerfectPay",
       "nicho": "Espionagem e rastreamento",
-      "score_final": 8,
+      "score_final": 14,
       "temperatura": "fria",
       "mencoes": 2,
       "faixa_preco": "R$ 47",
       "termo_busca": "stalkeia",
-      "descricao": "realizei o pagamento direto no aplicativo, que prometia te entregar informações privadas de qualquer conta no instagram. porém, depois que você faz o primeiro pagamento, você não consegue o que é prometido enquanto não pagar outros valores, e ainda ameaçam enviar um alerta para a conta que supostamente eles estão espionando. acabei fazendo diversos pagamentos (deixei o pdf em anexo), e no final das contas não tive acesso a nada, pois fiz o teste com outras contas no instagram e ele simplesmente",
+      "descricao": "",
       "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-do-e-solicitacao-de-reembolso-do-valor-pago_yID1cmkfVopy5OrZ/",
       "validacao_ad_library": {
         "ad_count": 0,
@@ -33,14 +33,14 @@
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 8
+        "score_ajustado": 14
       },
       "angulos_detectados": [
         "curiosidade_voyeurismo",
         "medo_traiçao",
         "facilidade_tecnologica"
       ],
-      "cloaker_suspeito": false,
+      "cloaker_suspeito": true,
       "produtor": {
         "nome": "Stalker Tech LTDA",
         "cnpj": "",
@@ -66,41 +66,90 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "um curso e",
-      "tipo": "angulo",
-      "gateway": "PerfectPay",
-      "nicho": "Educação e consultoria",
-      "score_final": 4,
+      "produto": "Converza.io",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "Chatbots / Automação de mensagens",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "",
-      "termo_busca": "um curso e",
+      "termo_busca": "converza.io",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui_UeZdzzFsRKKhakiR/",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/exijo-reembolso-servico-nao-funciona-e-suporte-nao-responde_OPi-rimJXtkjo2yB/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 4
+        "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_carreira",
+        "ganância_escala",
+        "facilidade_tecnologica",
+        "autoridade"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "Converza Tecnologia",
+        "cnpj": "",
+        "outras_ofertas": [
+          "Converza.io"
+        ],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "COMUNIDADE VSA",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "Marketing / Comunidades de negócios",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 248,89.",
+      "termo_busca": "comunidade vsa",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-de-compra-com-erro-de-saldo-na-conta-do-vendedor_e5d-tH3gUGahNktM/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "prova_social",
+        "facilidade",
         "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
-        "nome": "desconhecido",
+        "nome": "VSA Marketing",
         "cnpj": "",
-        "outras_ofertas": [],
+        "outras_ofertas": [
+          "COMUNIDADE VSA"
+        ],
         "gateways_historico": [
-          "PerfectPay"
+          "Cakto"
         ],
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 27-97",
+        "front": "R$ 248",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -109,42 +158,44 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "mas eu n",
-      "tipo": "angulo",
+      "produto": "Retrato da Sua Alma Gêmea",
+      "tipo": "marca",
       "gateway": "Cakto",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 4,
+      "nicho": "Arte personalizada / IA generativa",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "mas eu n",
+      "faixa_preco": "R$ 48,89",
+      "termo_busca": "retrato da sua alma gêmea",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/vendedor-nao-recebe-dinheiro-das-vendas-devido-a-analise-de-documentacao-demorada-e-suporte-lento_oW_Ar32UzJWou7Co/",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/editado-pelo-reclame-aqui-e-solicitacao-de-estorno-para-produto-retrato-da-sua-alma-gemea_H8ihRLGIEQMZ9WSb/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 4
+        "score_ajustado": 7
       },
       "angulos_detectados": [
         "novidade",
-        "autoridade",
-        "facilidade"
+        "vaidade",
+        "curiosidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
-        "nome": "desconhecido",
+        "nome": "Seu Retrato Oficial",
         "cnpj": "",
-        "outras_ofertas": [],
+        "outras_ofertas": [
+          "Retrato da Sua Alma Gêmea"
+        ],
         "gateways_historico": [
           "Cakto"
         ],
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 27-97",
+        "front": "R$ 48",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -153,86 +204,46 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "um livro de macrame em paguei com Pix. En",
-      "tipo": "angulo",
+      "produto": "Pack Canva Happy Hour",
+      "tipo": "marca",
       "gateway": "Cakto",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 4,
+      "nicho": "PLR / Produtos digitais para revenda",
+      "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "um livro de macrame em paguei com pix. en",
-      "descricao": "Fiz uma compra de um livro de macrame em paguei com Pix. Enviaram um código para entrar, mas não consigo. Vem uma mensagem de token invalido. Quero uma resposta pf Erro ao acessar livro digital de macramê comprado via Pix, com mensagem de token inválido.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/erro-ao-acessar-livro-digital-de-macrame-comprado-via-pix-com-mensagem-de-token-invalido_MVEYCodphEJ69zx8/",
+      "faixa_preco": "R$ 15,15",
+      "termo_busca": "pack canva happy hour",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-reembolso-de-cursos-online-apos-arrependimento-de-compra_-CZPnDHntp_r19_O/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 4
+        "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
-        "autoridade",
-        "facilidade"
+        "facilidade",
+        "ganância_renda_extra",
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
-        "nome": "desconhecido",
+        "nome": "Copão Digital",
         "cnpj": "",
-        "outras_ofertas": [],
+        "outras_ofertas": [
+          "Pack Canva Happy Hour",
+          "150 Receitas de Copões Gourmet",
+          "Mestre do Copão"
+        ],
         "gateways_historico": [
           "Cakto"
         ],
-        "portfolio_size_est": "1-2 ofertas ativas"
+        "portfolio_size_est": "3-5 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "eles mandam entrar em contato com o prod",
-      "tipo": "angulo",
-      "gateway": "Cakto",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 4,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "eles mandam entrar em contato com od",
-      "descricao": "Fiz uma compra pela empresa onde diz que tenho 7 dia para solicitar o cancelamento/reembolso de forma prática e ao solicitar o serviço eles mandam entrar em contato com o produtor e o mesmo não responde aos emails e mensagens enviadas pelos canais de comunicação e a plataforma CAKTO não está intervindo na situação e o prazo já vai esgotar e eles não resolvem a situação. Obs: o cancelamento/reembolso foi solicitado com menos de 24h após a adesão, já se passaram mais de 4 dias sem retorno. Empresa",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/empresa-nao-resolve-cancelamentoreembolso-e-nao-intervem-na-situacao_9tJ1cPoKxiMdK6tR/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 4
-      },
-      "angulos_detectados": [
-        "novidade",
-        "autoridade",
-        "facilidade"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "onde diz que tenho",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "Cakto"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 27-97",
+        "front": "R$ 15",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",

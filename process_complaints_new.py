@@ -7,7 +7,7 @@ from datetime import datetime
 from collections import defaultdict
 
 # Load all complaint data
-with open('/Users/robson/Documents/Obsidian Vault/lowticket/complaint_details_new.json', 'r') as f:
+with open('/Users/robson/Documents/Obsidian Vault/lowticket/complaint_details.json', 'r') as f:
     all_complaints = json.load(f)
 
 print(f"Total complaints: {len(all_complaints)}")
@@ -25,7 +25,9 @@ print(f"Unique complaints: {len(unique_complaints)}")
 
 # Extract product info from each complaint using improved patterns
 def extract_product_info(complaint):
-    text = complaint.get('body', '') + ' ' + complaint.get('title', '')
+    # Handle both 'body' (old format) and 'raw_text' (new format)
+    body = complaint.get('body', '') or complaint.get('raw_text', '')
+    text = body + ' ' + complaint.get('title', '') + ' ' + complaint.get('list_title', '')
     gateway = complaint.get('gateway', '')
     url = complaint.get('url', '')
     
@@ -61,6 +63,8 @@ def extract_product_info(complaint):
         'comercializado e pelo atendimento', 'digital. tenho mais de r',
         'informando que meu perfil', 'mas até agora não', 'e ele nao chegou',
         'da plataforma', 'inativo', 'pedindo mais pix',
+        'um curso e', 'mas eu n', 'eles mandam entrar', 'onde diz que tenho',
+        'um livro de macrame', 'paguei com pix', 'entrar em contato com o prod',
     ]
     if any(g in produto.lower() for g in garbage):
         produto = "sem nome"
@@ -85,6 +89,25 @@ def extract_product_info(complaint):
         produto = "Lumi AI"
     elif 'grupo no telegram' in text_lower:
         produto = "Grupo no Telegram"
+    # NEW: Products from current batch
+    elif 'converza' in text_lower or 'converza.io' in text_lower:
+        produto = "Converza.io"
+    elif 'comunidade vsa' in text_lower or 'vsa' in text_lower:
+        produto = "COMUNIDADE VSA"
+    elif 'retrato da sua alma gêmea' in text_lower or 'retrato da sua alma gemea' in text_lower or 'seu retrato oficial' in text_lower:
+        produto = "Retrato da Sua Alma Gêmea"
+    elif 'pack canva happy hour' in text_lower:
+        produto = "Pack Canva Happy Hour"
+    elif 'receitas de copões' in text_lower or 'copões gourmet' in text_lower or 'copos gourmet' in text_lower:
+        produto = "150 Receitas de Copões Gourmet"
+    elif 'mestre do copão' in text_lower or 'mestre do copao' in text_lower:
+        produto = "Mestre do Copão"
+    elif 'método atlas' in text_lower or 'metodo atlas' in text_lower:
+        produto = "Método Atlas"
+    elif 'frequência da vinci' in text_lower or 'frequencia da vinci' in text_lower or 'cura de zumbido' in text_lower:
+        produto = "Frequência da Vinci"
+    elif 'programa de cura' in text_lower and 'zumbido' in text_lower:
+        produto = "Frequência da Vinci"
     
     # Extract value
     valor_match = re.search(r'R\$\s*([\d.,]+)', text)
@@ -99,8 +122,40 @@ def extract_product_info(complaint):
     angulos = []
     sinais_cloaker = []
     
+    # NEW: Specific product checks FIRST (before generic categories)
+    # Converza.io - chatbot/messaging platform
+    if 'converza' in text_lower:
+        nicho = "Chatbots / Automação de mensagens"
+        angulos = ["facilidade_tecnologica", "autoridade", "ganância_escala"]
+        sinais_cloaker.append("taxa_adicional_para_desbloquear")
+    
+    # COMUNIDADE VSA - likely marketing/business community
+    elif 'comunidade vsa' in text_lower or ('vsa' in text_lower and 'comunidade' in text_lower):
+        nicho = "Marketing / Comunidades de negócios"
+        angulos = ["prova_social", "autoridade", "facilidade"]
+    
+    # Retrato da Sua Alma Gêmea - AI art/personalized drawing
+    elif 'retrato da sua alma' in text_lower or 'seu retrato oficial' in text_lower:
+        nicho = "Arte personalizada / IA generativa"
+        angulos = ["curiosidade", "novidade", "vaidade"]
+    
+    # Pack Canva / Copões / Mestre do Copão - digital products for resale
+    elif any(kw in text_lower for kw in ['pack canva', 'copões gourmet', 'copos gourmet', 'mestre do copão', 'mestre do copao', 'happy hour']):
+        nicho = "PLR / Produtos digitais para revenda"
+        angulos = ["ganância_renda_extra", "facilidade", "prova_social"]
+    
+    # Método Atlas - course/method
+    elif 'método atlas' in text_lower or 'metodo atlas' in text_lower:
+        nicho = "Educação e consultoria"
+        angulos = ["autoridade", "ganância_carreira", "novidade"]
+    
+    # Frequência da Vinci - tinnitus cure
+    elif 'frequência da vinci' in text_lower or 'frequencia da vinci' in text_lower or ('cura' in text_lower and 'zumbido' in text_lower):
+        nicho = "Saúde / Tratamentos alternativos"
+        angulos = ["medo", "esperança", "autoridade_cientifica"]
+    
     # Espionagem/monitoramento
-    if any(kw in text_lower for kw in ['espion', 'monitor', 'spy', 'stalke', 'whatsapp', 'rastreador', 'acesso a perfis', 'direct', 'stalkeia', 'stalker']):
+    elif any(kw in text_lower for kw in ['espion', 'monitor', 'spy', 'stalke', 'whatsapp', 'rastreador', 'acesso a perfis', 'direct', 'stalkeia', 'stalker']):
         nicho = "Espionagem e rastreamento"
         angulos = ["curiosidade_voyeurismo", "medo_traiçao", "facilidade_tecnologica"]
         if 'pix' in text_lower and 'mais' in text_lower:
@@ -271,7 +326,7 @@ for termo, items in groups.items():
         acao = "DESCARTAR"
     
     # Tipo: marca if specific product name, angulo if generic
-    tipo = "marca" if any(kw in termo.lower() for kw in ['stalkeia', 'spygram', 'hqflix', 'freelancer', 'chat gpt', 'infinity', 'chatgpt', 'gpt plus', 'vavá', 'lumi', 'grupo telegram']) else "angulo"
+    tipo = "marca" if any(kw in termo.lower() for kw in ['stalkeia', 'spygram', 'hqflix', 'freelancer', 'chat gpt', 'infinity', 'chatgpt', 'gpt plus', 'vavá', 'lumi', 'grupo telegram', 'converza', 'comunidade vsa', 'retrato da sua alma', 'seu retrato oficial', 'pack canva', 'copões gourmet', 'copos gourmet', 'mestre do copão', 'mestre do copao', 'método atlas', 'metodo atlas', 'frequência da vinci', 'frequencia da vinci']) else "angulo"
     
     # Producer info (simplified)
     produtor_nome = "desconhecido"
@@ -305,6 +360,37 @@ for termo, items in groups.items():
         produtor_nome = "Lumi AI"
     elif 'kaique' in ' '.join(items[0].get('body', '').lower() for _ in range(1)):
         produtor_nome = "Kaique Santtos"
+    # NEW: Producers for current batch
+    elif 'converza' in termo.lower():
+        produtor_nome = "Converza Tecnologia"
+        outras_ofertas = ["Converza.io"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'comunidade vsa' in termo.lower():
+        produtor_nome = "VSA Marketing"
+        outras_ofertas = ["COMUNIDADE VSA"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'retrato da sua alma' in termo.lower() or 'seu retrato oficial' in termo.lower():
+        produtor_nome = "Seu Retrato Oficial"
+        outras_ofertas = ["Retrato da Sua Alma Gêmea"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif any(kw in termo.lower() for kw in ['pack canva', 'copões gourmet', 'copos gourmet', 'mestre do copão', 'mestre do copao']):
+        produtor_nome = "Copão Digital"
+        outras_ofertas = ["Pack Canva Happy Hour", "150 Receitas de Copões Gourmet", "Mestre do Copão"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "3-5 ofertas ativas"
+    elif 'método atlas' in termo.lower() or 'metodo atlas' in termo.lower():
+        produtor_nome = "Atlas Method"
+        outras_ofertas = ["Método Atlas"]
+        gateways_historico = ["PerfectPay"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'frequência da vinci' in termo.lower() or 'frequencia da vinci' in termo.lower():
+        produtor_nome = "Frequência da Vinci"
+        outras_ofertas = ["Frequência da Vinci"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
     
     achado = {
         "produto": items[0]['produto'],
