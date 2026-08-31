@@ -1,5 +1,5 @@
 {
-  "data_varredura": "2026-08-30",
+  "data_varredura": "2026-08-31",
   "gateways": [
     {
       "nome": "PerfectPay",
@@ -23,10 +23,10 @@
       "score_final": 11,
       "temperatura": "fria",
       "mencoes": 2,
-      "faixa_preco": "R$ 37,00",
+      "faixa_preco": "",
       "termo_busca": "stalkeia",
       "descricao": "",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-do-aplicativo-stalkeia-app-e-solicitacao-de-reembolso_zrIGWUSWcSp7p5Xp/",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa__4nr816NYlTJmFOB/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
@@ -36,9 +36,9 @@
         "score_ajustado": 11
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
         "medo_traiçao",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -57,7 +57,7 @@
         "portfolio_size_est": "3-5 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 37",
+        "front": "R$ 27-97",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -86,9 +86,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
         "medo_traiçao",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -130,9 +130,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
         "autoridade",
-        "facilidade"
+        "facilidade",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -174,9 +174,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
         "autoridade",
-        "facilidade"
+        "facilidade",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
