@@ -36,8 +36,8 @@
         "score_ajustado": 14
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
         "medo_traiçao",
+        "curiosidade_voyeurismo",
         "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
@@ -87,8 +87,8 @@
       },
       "angulos_detectados": [
         "ganância_escala",
-        "facilidade_tecnologica",
-        "autoridade"
+        "autoridade",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -132,8 +132,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "prova_social",
         "facilidade",
+        "prova_social",
         "autoridade"
       ],
       "cloaker_suspeito": false,
@@ -178,8 +178,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
         "vaidade",
+        "novidade",
         "curiosidade"
       ],
       "cloaker_suspeito": false,
@@ -225,8 +225,8 @@
       },
       "angulos_detectados": [
         "facilidade",
-        "ganância_renda_extra",
-        "prova_social"
+        "prova_social",
+        "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -244,6 +244,227 @@
       },
       "funil_estimado": {
         "front": "R$ 15",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "fica saindo e entrando sozinho",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "fica saindo e entrando sozinho",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-gostei-do-app-fica-saindo-e-entrando-sozinho_UkdzKQ86egq0egAP/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "novidade",
+        "autoridade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Método Atlas",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Educação e consultoria",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "método atlas",
+      "descricao": "Fiz uma compra desse tal método atlas, não cumpriu com prometido ,tento falar com suporte wattsap, e-mail e simplesmente desativaram as contas ,já procurei uma advogada e delegacia pra denunciar. Não caiam é [Editado pelo Reclame Aqui] RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/compra-do-metodo-atlas-nao-cumpre-o-prometido-e-suporte-desativado_wzci0DCEtGCFBRc6/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "ganância_carreira",
+        "novidade",
+        "autoridade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "Atlas Method",
+        "cnpj": "",
+        "outras_ofertas": [
+          "Método Atlas"
+        ],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Interactive Live",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "interactive live",
+      "descricao": "Comprei o produto \"Interactive Live\" através da plataforma Perfect Pay, que atuou como processadora de pagamento da venda. O produto recebido não correspondeu ao que foi anunciado/esperado, e eu solicitei o cancelamento/reembolso ainda dentro do prazo de garantia de 7 dias previsto no site/checkout, que também é assegurado pelo direito de arrependimento do art. 49 do Código de Defesa do Consumidor para compras feitas fora do estabelecimento comercial (como é o caso de compras online). Esse prazo",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reembolso-negado-e-prazo-expirado-devido-a-burocracia-da-perfect-pay_wFj48yi7DgllZO-Z/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_traiçao",
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Low Ticket do Zero 2.0 no dia 30",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "low ticket do zero 2.0 no dia 30",
+      "descricao": "Solicitação de cancelamento e reembolso negada por falta de saldo na conta do produtor. Não respondida CAKTO PAY Rio de Janeiro - RJ 31/08/2026 às 17:20",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-reembolso-negada-por-falta-de-saldo-na-conta-do-produtor_g_uRVUXcpBO7YtT5/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "novidade",
+        "autoridade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um aplicativo",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "um aplicativo",
+      "descricao": "Fiz uma compra de um aplicativo, porém o mesmo não funciona, entrei em contato com a cakto por email, entrei em contato pelo suporte da plataforma e não me respondem, foi uma compra de +- 840 reais Quero o reembolso da minha compra: Dados da compra: Poxa, vou te ajudar a resolver isso! Me informe: Qual e-mail você usou na compra?",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reclamacao-sobre-aplicativo-nao-funcional-e-falta-de-resposta-do-suporte-para-reembolso_vE-W5K4jwJY0jtXa/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
