@@ -7,7 +7,7 @@ from datetime import datetime
 from collections import defaultdict
 
 # Load all complaint data
-with open('/Users/robson/Documents/Obsidian Vault/lowticket/complaint_details.json', 'r') as f:
+with open('/Users/robson/Documents/Obsidian Vault/lowticket/complaint_details_combined.json', 'r') as f:
     all_complaints = json.load(f)
 
 print(f"Total complaints: {len(all_complaints)}")
@@ -108,6 +108,23 @@ def extract_product_info(complaint):
         produto = "Frequência da Vinci"
     elif 'programa de cura' in text_lower and 'zumbido' in text_lower:
         produto = "Frequência da Vinci"
+    # NEW: Products from current batch (Sept 2026)
+    elif 'knights club' in text_lower or 'comunidade knights' in text_lower:
+        produto = "COMUNIDADE KNIGHTS CLUB"
+    elif 'cloakeuai' in text_lower or 'cloak eu ai' in text_lower:
+        produto = "Cloakeuai"
+    elif 'códigos lucrativos' in text_lower or 'codigos lucrativos' in text_lower:
+        produto = "Códigos Lucrativos"
+    elif 'opini pix' in text_lower or 'opinipix' in text_lower:
+        produto = "Opini Pix"
+    elif 'aristocracy' in text_lower and 'negocios' in text_lower:
+        produto = "Aristocracy Negócios Digitais"
+    elif 'apostila de psicologia' in text_lower:
+        produto = "Apostila de Psicologia 2025"
+    elif 'fábrica de low ticket' in text_lower or 'fabrica de low ticket' in text_lower:
+        produto = "Fábrica de Low Ticket"
+    elif 'zap radar' in text_lower or 'zapradar' in text_lower:
+        produto = "ZAP Radar"
     
     # Extract value
     valor_match = re.search(r'R\$\s*([\d.,]+)', text)
@@ -153,7 +170,35 @@ def extract_product_info(complaint):
     elif 'frequência da vinci' in text_lower or 'frequencia da vinci' in text_lower or ('cura' in text_lower and 'zumbido' in text_lower):
         nicho = "Saúde / Tratamentos alternativos"
         angulos = ["medo", "esperança", "autoridade_cientifica"]
-    
+
+    # NEW: Products from current batch (Sept 2026)
+    elif 'knights club' in text_lower or 'comunidade knights' in text_lower:
+        nicho = "Comunidades / Mentoria de negócios"
+        angulos = ["prova_social", "autoridade", "ganância_renda_extra"]
+    elif 'cloakeuai' in text_lower or 'cloak eu ai' in text_lower:
+        nicho = "Ferramentas de IA / Cloaking"
+        angulos = ["facilidade_tecnologica", "novidade", "curiosidade"]
+        sinais_cloaker.append("cloaking_ferramenta")
+    elif 'códigos lucrativos' in text_lower or 'codigos lucrativos' in text_lower or 'opini pix' in text_lower or 'opinipix' in text_lower:
+        nicho = "Ganhar dinheiro online / Ferramentas de afiliado"
+        angulos = ["ganância_renda_extra", "facilidade", "novidade"]
+        if 'taxa' in text_lower or 'adicional' in text_lower or 'mais r$' in text_lower:
+            sinais_cloaker.append("taxa_adicional_para_desbloquear")
+    elif 'aristocracy' in text_lower and 'negocios' in text_lower:
+        nicho = "Produtos digitais variados / Assinatura vitalícia"
+        angulos = ["ganância_acesso_vitalicio", "facilidade", "autoridade"]
+        sinais_cloaker.append("assinatura_vitalicia_expirada")
+    elif 'apostila de psicologia' in text_lower:
+        nicho = "Educação / Concursos e certificações"
+        angulos = ["autoridade", "medo_perda_dinheiro", "necessidade"]
+    elif 'fábrica de low ticket' in text_lower or 'fabrica de low ticket' in text_lower:
+        nicho = "Educação / Marketing digital e low ticket"
+        angulos = ["autoridade", "ganância_renda_extra", "prova_social"]
+    elif 'zap radar' in text_lower or 'zapradar' in text_lower:
+        nicho = "Ferramentas de espionagem / WhatsApp"
+        angulos = ["curiosidade_voyeurismo", "medo_traiçao", "facilidade_tecnologica"]
+        sinais_cloaker.append("taxa_adicional_para_desbloquear")
+
     # Espionagem/monitoramento
     elif any(kw in text_lower for kw in ['espion', 'monitor', 'spy', 'stalke', 'whatsapp', 'rastreador', 'acesso a perfis', 'direct', 'stalkeia', 'stalker']):
         nicho = "Espionagem e rastreamento"
