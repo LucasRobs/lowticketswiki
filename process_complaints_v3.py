@@ -36,11 +36,16 @@ def extract_product_info(complaint):
     
     # Improved product name patterns - more specific
     product_patterns = [
-        # Specific known products from complaints
-        r'(?:compra(?:do)?|produto|aplicativo|app|serviço|cursos?)\s+(?:chamado|chamada|chamados?|de|do|da)\s+["\']?([^"\'.]{3,60})["\']?',
-        r'(?:Método Atlas|Interactive Live|Low Ticket do Zero|Cloakeuai|Stalkeia|Spygram|HQFlix|Converza\.io|VSA|Retrato da Sua Alma Gêmea|Pack Canva|Mestre do Copão|Chat GPT PLUS|Comunidade VSA|Infinity)\b',
-        r'(?:produto|aplicativo|app|serviço)\s+["\']([^"\']+)["\']',
+        # Specific known products from complaints (from list_title and raw_text)
+        r'(?:Método Atlas|Interactive Live|Low Ticket do Zero 2\.0|Low Ticket do Zero|Cloakeuai|Stalkeia|Spygram|HQFlix|Converza\.io|VSA|Retrato da Sua Alma Gêmea|Pack Canva|Mestre do Copão|Chat GPT PLUS|Comunidade VSA|Infinity|Apostila de Psicologia 2025|Fábrica de Low Ticket|ZAP Radar|Zap Radar|Curs[oe] [A-Z][a-z]+)\b',
+        # "produto X" or "aplicativo X" patterns
+        r'(?:produto|aplicativo|app|serviço|curso)\s+(?:["\'])?([A-Z][a-zA-Z0-9\s\.]{2,50})',
+        # "compra do X" / "comprei o X" / "compra de X"
+        r'(?:compra(?:do)?|comprei)\s+(?:do|da|de|o|a)\s+([A-Z][a-zA-Z0-9\s\.]{2,50})',
+        # Quoted product names
         r'["\']([^"\']{5,50})["\']',
+        # Product from list_title (before "não" or "solicitação" etc)
+        r'^([A-Z][a-zA-Z0-9\s\.]{3,60}?)(?:\s+(?:não|solicita|reclama|falha|impossibil|acesso|demora|cancelamento|dificuldade|cobrança|estorno|reembolso|acessibilidade|clonado|pagamento|compra|produto|aplicativo|app|curso))',
     ]
     
     produto = "sem nome"
@@ -50,16 +55,61 @@ def extract_product_info(complaint):
             # Take the first non-generic match
             for m in matches:
                 m = m.strip()
-                if len(m) >= 3 and m.lower() not in ['sem nome', 'o produto', 'um produto', 'o app', 'um app', 'o serviço', 'uma compra']:
+                if len(m) >= 3 and m.lower() not in ['sem nome', 'o produto', 'um produto', 'o app', 'um app', 'o serviço', 'uma compra', 'o curso', 'um curso', 'a compra', 'minha compra', 'a venda', 'o site', 'o sistema', 'a plataforma', 'o suporte', 'o reembolso', 'o cancelamento', 'a solicitação', 'o estorno', 'o pagamento', 'a cobrança', 'o acesso', 'a entrega', 'o produto']:
                     produto = m
                     break
             if produto != "sem nome":
                 break
     
+    # Fallback: try to extract from list_title directly
+    if produto == "sem nome":
+        list_title = complaint.get('list_title', '')
+        # Extract product name from title before keywords
+        title_patterns = [
+            r'^([A-Z][a-zA-Z0-9\s\.]{3,60}?)(?:\s+(?:não|solicita|reclama|falha|impossibil|acesso|demora|cancelamento|dificuldade|cobrança|estorno|reembolso|acessibilidade|clonado|pagamento|compra|produto|aplicativo|app|curso))',
+            r'(?:do|da|de|o|a)\s+([A-Z][a-zA-Z0-9\s\.]{3,50})(?:\s+(?:não|solicita|reclama|falha|impossibil|acesso|demora|cancelamento|dificuldade|cobrança|estorno|reembolso))',
+        ]
+        for pattern in title_patterns:
+            match = re.search(pattern, list_title, re.IGNORECASE)
+            if match:
+                m = match.group(1).strip()
+                if len(m) >= 3 and m.lower() not in ['sem nome', 'o produto', 'um produto', 'o app', 'um app', 'o serviço', 'uma compra', 'o curso', 'um curso', 'a compra', 'minha compra', 'a venda', 'o site', 'o sistema', 'a plataforma', 'o suporte', 'o reembolso', 'o cancelamento', 'a solicitação', 'o estorno', 'o pagamento', 'a cobrança', 'o acesso', 'a entrega', 'o produto', 'não gostei', 'ficou saindo', 'entrando sozinho', 'comercializado', 'atendimento', 'cliente']:
+                    produto = m
+                    break
+    
     # Clean up product name
     produto = re.sub(r'\s+', ' ', produto).strip()
     if len(produto) > 80:
         produto = produto[:80]
+    
+    # Filter out generic/descriptive names that aren't real product names
+    generic_names = [
+        'não gostei', 'ficou saindo', 'entrando sozinho', 'comercializado', 
+        'atendimento', 'cliente', 'curso online', 'reclamação', 'solicitação',
+        'cancelamento', 'reembolso', 'estorno', 'cobrança', 'pagamento',
+        'compra', 'produto', 'aplicativo', 'app', 'serviço', 'acesso',
+        'impossibilidade', 'falha', 'plataforma', 'demora', 'validação',
+        'documentos', 'movimentação', 'saque', 'valores', 'assinatura',
+        'indevida', 'persistente', 'abre', 'retorno', 'sobre', 'online', 
+        'realizada', 'obtem', 'compra', 'direito', 'arrependimento', 'prazo',
+        'legal', 'vício', 'certificado', 'carteirinha', 'download', 'busca',
+        'itens', 'adquiridos', 'ausência', 'suporte', 'entrega', 'material',
+        'configuram', 'prestação', 'contratado', 'respaldando', 'rescisão',
+        'imediata', 'contrato', 'termos', 'código', 'defesa', 'consumidor',
+        'lei', 'artigo', 'exijo', 'confirmação', 'estornos', 'fatura',
+        'cartão', 'crédito', 'pix', 'procedimento', 'confirmado', 'horas',
+        'acionarei', 'órgãos', 'proteção', 'consumidor', 'contestação',
+        'valor', 'administradora', 'chargeback', 'serviço', 'prestado',
+        'inicial e', 'continua ativo', 'de seguran', 'de segurança', 'taxa adicional',
+        'cobrança de taxa', 'após pagamento', 'solicitação de reembolso',
+        'acesso negado', 'assinatura vitalícia', 'namorada customizada',
+        'compra de aplicativos', 'editado pelo reclame aqui', 'reembolso de pedido',
+        'código de transação', 'estorno de compra', 'site zap radar',
+        'não recebimento', 'relatório', 'combo de aprovação', 'concurso',
+        'e-mail', 'chat', 'comprovantes', 'pagamentos'
+    ]
+    if any(gn in produto.lower() for gn in generic_names):
+        produto = "sem nome"
     
     # Extract value
     valor_match = re.search(r'R\$\s*([\d.,]+)', text)
@@ -76,8 +126,20 @@ def extract_product_info(complaint):
     
     text_lower = text.lower()
     
+    # Freelancer/trabalho remoto / Low ticket / curso de vendas - CHECK FIRST for low ticket products
+    if any(kw in text_lower for kw in ['low ticket', 'freelancer', 'trabalho remoto', 'trabalhar de casa', 'ganhar dinheiro', 'vendas online', 'copywriter', 'tráfego', 'fábrica de low ticket', 'fabrica de low ticket']):
+        nicho = "Ganhar dinheiro online / trabalho remoto"
+        angulos = ["ganância_renda_extra", "facilidade"]
+        if 'taxa' in text_lower or 'adicional' in text_lower:
+            sinais_cloaker.append("taxa_adicional_para_desbloquear")
+    
+    # Consultoria/cursos
+    elif any(kw in text_lower for kw in ['consultoria', 'curso', 'mentoria', 'accenture', 'método atlas', 'método', 'apostila', 'psicologia', 'aprovação']):
+        nicho = "Educação e consultoria"
+        angulos = ["autoridade", "ganância_carreira"]
+    
     # Espionagem/monitoramento
-    if any(kw in text_lower for kw in ['espion', 'monitor', 'spy', 'stalke', 'whatsapp', 'rastreador', 'acesso a perfis', 'direct', 'spygram']):
+    elif any(kw in text_lower for kw in ['espion', 'monitor', ' spy ', 'stalke', 'whatsapp', 'rastreador', 'acesso a perfis', 'direct', 'spygram', 'zap radar', 'zapradar']):
         nicho = "Espionagem e rastreamento"
         angulos = ["curiosidade_voyeurismo", "medo_traiçao", "facilidade_tecnologica"]
         if 'pix' in text_lower and 'mais' in text_lower:
@@ -93,22 +155,10 @@ def extract_product_info(complaint):
         nicho = "Ferramentas de IA / Produtividade"
         angulos = ["facilidade", "novidade", "autoridade"]
     
-    # Freelancer/trabalho remoto / Low ticket / curso de vendas
-    elif any(kw in text_lower for kw in ['low ticket', 'freelancer', 'trabalho remoto', 'trabalhar de casa', 'ganhar dinheiro', 'vendas online', 'copywriter', 'tráfego']):
-        nicho = "Ganhar dinheiro online / trabalho remoto"
-        angulos = ["ganância_renda_extra", "facilidade"]
-        if 'taxa' in text_lower or 'adicional' in text_lower:
-            sinais_cloaker.append("taxa_adicional_para_desbloquear")
-    
     # Seguidores/social media
     elif any(kw in text_lower for kw in ['seguidor', 'instagram', 'engajamento', 'brazileiros', 'seguidores']):
         nicho = "Crescimento em redes sociais"
         angulos = ["vaidade", "prova_social", "facilidade"]
-    
-    # Consultoria/cursos
-    elif any(kw in text_lower for kw in ['consultoria', 'curso', 'mentoria', 'accenture', 'método atlas', 'método']):
-        nicho = "Educação e consultoria"
-        angulos = ["autoridade", "ganância_carreira"]
     
     # Cloaker / ferramentas de marketing
     elif any(kw in text_lower for kw in ['cloake', 'cloaker', 'página de vendas', 'funnel', 'funil']):
@@ -185,7 +235,7 @@ achados = []
 today = datetime.now().strftime('%Y-%m-%d')
 
 for termo, items in groups.items():
-    if not termo or termo in ['sem nome', 'pelo reclame aqui', 'ra ads previous slide next slid', 'digital. tenho mais de r', 'que comprei', 'pelo reclame aqui', 'comercializado e pelo atendimento', 'interactive live']:
+    if not termo or termo in ['sem nome', 'pelo reclame aqui', 'ra ads previous slide next slid', 'digital. tenho mais de r', 'que comprei', 'pelo reclame aqui', 'comercializado e pelo atendimento']:
         continue
     
     gateway = items[0]['gateway']
@@ -228,7 +278,7 @@ for termo, items in groups.items():
         acao = "DESCARTAR"
     
     # Tipo: marca if specific product name, angulo if generic
-    tipo = "marca" if any(kw in termo.lower() for kw in ['stalkeia', 'spygram', 'hqflix', 'freelancer', 'chat gpt', 'infinity', 'accenture', 'atlas', 'interactive live', 'low ticket do zero', 'cloakeuai', 'converza', 'vsa', 'retrato da sua alma', 'pack canva', 'mestre do copão', 'comunidade vsa']) else "angulo"
+    tipo = "marca" if any(kw in termo.lower() for kw in ['stalkeia', 'spygram', 'hqflix', 'freelancer', 'chat gpt', 'infinity', 'accenture', 'atlas', 'interactive live', 'low ticket do zero', 'cloakeuai', 'converza', 'vsa', 'retrato da sua alma', 'pack canva', 'mestre do copão', 'comunidade vsa', 'apostila de psicologia', 'fábrica de low ticket', 'zap radar']) else "angulo"
     
     # Producer info (simplified)
     produtor_nome = "desconhecido"
@@ -293,8 +343,8 @@ achados.sort(key=lambda x: x['score_final'], reverse=True)
 output = {
     "data_varredura": today,
     "gateways": [
-        {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 287224, "paginas_varridas": 1},
-        {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 0, "paginas_varridas": 1}
+        {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 287224, "paginas_varridas": 25},
+        {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 0, "paginas_varridas": 25}
     ],
     "achados": achados
 }

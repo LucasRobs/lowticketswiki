@@ -6,10 +6,10 @@ from playwright.async_api import async_playwright
 import json
 
 # Load new complaints
-with open('/Users/robson/Documents/Obsidian Vault/lowticket/perfectpay_complaints_full.json', 'r') as f:
+with open('/Users/robson/Documents/Obsidian Vault/lowticket/perfectpay_complaints_new.json', 'r') as f:
     perfectpay = json.load(f)
 
-with open('/Users/robson/Documents/Obsidian Vault/lowticket/cakto_complaints_full.json', 'r') as f:
+with open('/Users/robson/Documents/Obsidian Vault/lowticket/cakto_complaints_new.json', 'r') as f:
     cakto = json.load(f)
 
 perfectpay_urls = [c['url'] for c in perfectpay]
