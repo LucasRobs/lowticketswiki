@@ -36,9 +36,9 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "autoridade",
+        "prova_social",
         "ganância_renda_extra",
-        "prova_social"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -52,6 +52,50 @@
       },
       "funil_estimado": {
         "front": "R$ 254",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "On Line Rj Comercio Varejista De Acessorios Ltda",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 8,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 297,00",
+      "termo_busca": "on line rj comercio varejista de acessorios ltda",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-de-assinatura-tokfy-via-pix-devido-a-plano-incorreto-e-falha-no-login-para-cancelamento_lwKWxoGQVq5QbJLn/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 8
+      },
+      "angulos_detectados": [
+        "medo_traiçao",
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 297",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -80,9 +124,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -125,8 +169,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "novidade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -171,8 +215,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -214,9 +258,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -258,9 +302,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "curiosidade",
         "facilidade_tecnologica",
-        "curiosidade"
+        "novidade"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -302,9 +346,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "ganância_renda_extra",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -346,9 +390,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "ganância_acesso_vitalicio",
-        "facilidade"
+        "facilidade",
+        "autoridade"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -391,8 +435,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -434,9 +478,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "necessidade",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -478,9 +522,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
+        "prova_social",
         "ganância_renda_extra",
-        "prova_social"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -522,9 +566,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -566,8 +610,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -609,9 +653,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -653,9 +697,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -697,8 +741,140 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "pelo qual paguei n",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "pelo qual paguei n",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-por-indisponibilidade-do-curso-corselet-classico_kKh1cXRxKbVwJRHp/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "autoridade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "e conseguiu acess",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 20,89",
+      "termo_busca": "e conseguiu acess",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/inconsistencias-na-contabilizacao-de-vendas-e-pagamentos-na-conta-cakto_KtH_3-H9eW4zj_bs/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "autoridade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 20",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um site hoje e quero solicitar o cancelam",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "um site hoje e quero solicitar o cancelam",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-estorno-de-3-pedidos-devido-a-arrependimento-e-insatisfacao-com-o-produtosite_KUDEd8s3eGajQ3-L/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "autoridade",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -780,9 +956,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -825,8 +1001,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -875,8 +1051,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -918,9 +1094,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -962,9 +1138,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "novidade",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
