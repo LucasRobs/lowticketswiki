@@ -16,6 +16,56 @@
   ],
   "achados": [
     {
+      "produto": "Stalkeia",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 15,
+      "temperatura": "fria",
+      "mencoes": 3,
+      "faixa_preco": "R$ 401,40., R$ 47,00",
+      "termo_busca": "stalkeia",
+      "descricao": "O produto prometia acesso a contas e mensagens do Instagram, mas na verdade entrega apenas um aplicativo que simula a interface do Instagram e cria conversas artificiais. Ou seja, trata-se de um serviço [Editado pelo Reclame Aqui], que não entrega o que anuncia. Eu testei com dois perfis diferentes e as mensagens são as mesmas, ou seja, [Editado pelo Reclame Aqui] e [Editado pelo Reclame Aqui]. Além disso, após um primeiro pagamento a plataforma vai nos induzindo a efetuar outras compras para co",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/servico-editado-pelo-reclame-aqui-da-via-perfect-pay-com-promessa-editado-pelo-reclame-aqui_XI7_jZmAIuhQa5In/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 15
+      },
+      "angulos_detectados": [
+        "facilidade_tecnologica",
+        "medo_traiçao",
+        "curiosidade_voyeurismo"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "Stalker Tech LTDA",
+        "cnpj": "",
+        "outras_ofertas": [
+          "Stalkea.ai",
+          "Stalker Pro",
+          "MonitoraZap"
+        ],
+        "gateways_historico": [
+          "PerfectPay",
+          "Mangofy",
+          "Payt"
+        ],
+        "portfolio_size_est": "3-5 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 401",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
       "produto": "Fábrica de Low Ticket",
       "tipo": "angulo",
       "gateway": "Cakto",
@@ -80,9 +130,9 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao",
-        "facilidade_tecnologica"
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -168,8 +218,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_carreira",
         "novidade",
+        "ganância_carreira",
         "autoridade"
       ],
       "cloaker_suspeito": false,
@@ -214,9 +264,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao",
-        "facilidade_tecnologica"
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -303,8 +353,8 @@
       },
       "angulos_detectados": [
         "facilidade_tecnologica",
-        "novidade",
-        "curiosidade"
+        "curiosidade",
+        "novidade"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -346,8 +396,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "novidade",
+        "ganância_renda_extra",
         "facilidade"
       ],
       "cloaker_suspeito": false,
@@ -390,9 +440,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_acesso_vitalicio",
         "autoridade",
-        "facilidade"
+        "facilidade",
+        "ganância_acesso_vitalicio"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -434,9 +484,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao",
-        "facilidade_tecnologica"
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -478,9 +528,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "necessidade",
+        "autoridade",
         "medo_perda_dinheiro",
-        "autoridade"
+        "necessidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -522,8 +572,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "prova_social",
+        "ganância_renda_extra",
         "autoridade"
       ],
       "cloaker_suspeito": false,
@@ -896,6 +946,50 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
+      "produto": "não conseguiu confirmar a distribuidora",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "não conseguiu confirmar a distribuidora",
+      "descricao": "À equipe de Relações Institucionais e Ouvidoria da Amazon Brasil. Venho por meio desta registrar uma reclamação formal e de urgência a respeito da minha conta de vendedor (Seller Central), suspensa desde o dia 07/02. O motivo alegado inicialmente para a suspensão foi a necessidade de validação da documentação de [Editado pelo Reclame Aqui] de suprimentos (fornecedores/distribuidores). A plataforma já me enviou uma notificação oficial por e-mail confirmando textualmente que toda a documentação so",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/retencao-indevida-de-saldo-e-recusa-de-validacao-de-distribuidor-em-conta-de-vendedor-suspensa_P16RGZ09cZwpr2hu/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "novidade",
+        "autoridade",
+        "facilidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "de Rela",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
       "produto": "de seguran",
       "tipo": "angulo",
       "gateway": "PerfectPay",
@@ -980,56 +1074,6 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "Stalkeia",
-      "tipo": "marca",
-      "gateway": "PerfectPay",
-      "nicho": "Espionagem e rastreamento",
-      "score_final": 4,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "R$ 401,40.",
-      "termo_busca": "stalkeia",
-      "descricao": "O produto prometia acesso a contas e mensagens do Instagram, mas na verdade entrega apenas um aplicativo que simula a interface do Instagram e cria conversas artificiais. Ou seja, trata-se de um serviço [Editado pelo Reclame Aqui], que não entrega o que anuncia. Eu testei com dois perfis diferentes e as mensagens são as mesmas, ou seja, [Editado pelo Reclame Aqui] e [Editado pelo Reclame Aqui]. Além disso, após um primeiro pagamento a plataforma vai nos induzindo a efetuar outras compras para co",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/servico-editado-pelo-reclame-aqui-da-via-perfect-pay-com-promessa-editado-pelo-reclame-aqui_XI7_jZmAIuhQa5In/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 4
-      },
-      "angulos_detectados": [
-        "curiosidade_voyeurismo",
-        "medo_traiçao",
-        "facilidade_tecnologica"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "Stalker Tech LTDA",
-        "cnpj": "",
-        "outras_ofertas": [
-          "Stalkea.ai",
-          "Stalker Pro",
-          "MonitoraZap"
-        ],
-        "gateways_historico": [
-          "PerfectPay",
-          "Mangofy",
-          "Payt"
-        ],
-        "portfolio_size_est": "3-5 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 401",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
       "produto": "de postagem autom",
       "tipo": "angulo",
       "gateway": "PerfectPay",
@@ -1050,9 +1094,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao",
-        "facilidade_tecnologica"
+        "curiosidade_voyeurismo"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1173,6 +1217,224 @@
       "termo_busca": "dois cursos de idiomas",
       "descricao": "Fiz uma compra de dois cursos de idiomas, no caso Espanhol. Paguei pelos dois cursos via pi, porém só tive acesso a um curso, o outro aparece como acesso negado e não consigo acessar. Já entrei em contato com o suporte, porém o email retorna como email inválido. Entro em contato com o suporte para solicitar reembolso e ninguém me dá um retorno. Solicito devolução do valor, porém não tenho contato com ninguém da empresa. Acesso negado a curso de espanhol pago e dificuldade de contato com o suport",
       "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/acesso-negado-a-curso-de-espanhol-pago-e-dificuldade-de-contato-com-o-suporte-para-reembolso_9d9eJH4OMC_ApZLR/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "novidade",
+        "autoridade",
+        "facilidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "APARECE NA PERFECT PAY MAS O MESMO N",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "aparece na perfect pay mas o mesmo n",
+      "descricao": "Fiz A COMPRA DE UM SERVIÇO NO QUAL É [Editado pelo Reclame Aqui] E O PRODUTO APARECE NA PERFECT PAY MAS O MESMO NÃO SE RESPONSABILIZA PELO CANCELAMENTO, ISSO É [Editado pelo Reclame Aqui]. IREI ACIONAR O PROCON. ID DA COMPRA: ***** VALOR: 37,90 Compra de serviço com promessa de [Editado pelo Reclame Aqui] e Perfect Pay se isenta de responsabilidade",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/compra-de-servico-com-promessa-de-editado-pelo-reclame-aqui-e-perfect-pay-se-isenta-de-responsabilidade_0DOgqsLTHMXBEQUg/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um programa de karaoke e est",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "umgrama de karaoke e est",
+      "descricao": "Fiz a compra de um programa de karaoke e está dando conteúdo não encontrado paguei via pix. Conteúdo não encontrado",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/conteudo-nao-encontrado_eh2tS2q3T2WGSky_/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "novidade",
+        "autoridade",
+        "facilidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "uma m",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "uma m",
+      "descricao": "Fiz uma compra de uma máscara coreana , fiz o pagamento no PIX e a empresa relatou que eu nao havia pago, eu ,logo a seguir enviei o comprovante pago e a partir daí,eles nao retornaram mais. Pagamento via PIX não reconhecido e falta de retorno da empresa após envio de comprovante.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/pagamento-via-pix-nao-reconhecido-e-falta-de-retorno-da-empresa-apos-envio-de-comprovante_C6tRKpYDqejq7Cvf/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "novidade",
+        "autoridade",
+        "facilidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "relatou que eu nao havia pago",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "curso online capsulas gourmet e c",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Educação e consultoria",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso online capsulas gourmet e c",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/materiais-de-curso-online-de-capsulas-gourmet-e-capuccinos-nao-disponiveis_jlp3yz2MCVJGF1UT/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "ganância_carreira",
+        "autoridade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um curso no dia 01",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "um curso no dia 01",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produto-nao-entregue_RxHp4cyuljYU2Wtj/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
