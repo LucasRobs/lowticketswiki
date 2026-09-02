@@ -5,71 +5,27 @@
       "nome": "PerfectPay",
       "slug": "perfectpay",
       "reclamacoes_ativas": 287224,
-      "paginas_varridas": 25
+      "paginas_varridas": 1
     },
     {
       "nome": "Cakto",
       "slug": "cakto-pay",
       "reclamacoes_ativas": 0,
-      "paginas_varridas": 25
+      "paginas_varridas": 1
     }
   ],
   "achados": [
     {
-      "produto": "Stalkeia",
-      "tipo": "marca",
-      "gateway": "PerfectPay",
-      "nicho": "Espionagem e rastreamento",
-      "score_final": 14,
-      "temperatura": "fria",
-      "mencoes": 2,
-      "faixa_preco": "R$ 47",
-      "termo_busca": "stalkeia",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas propaganda enganosa do Stalkeia.app e solicitação de reembolso do valor pago.  Resolvido  PerfectPay  Goiânia - GO  31/08/2026 às 04:47  ID: 257782105  realizei o pagamento direto no aplicativo, que prometia te entregar",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-do-e-solicitacao-de-reembolso-do-valor-pago_yID1cmkfVopy5OrZ/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 14
-      },
-      "angulos_detectados": [
-        "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
-      ],
-      "cloaker_suspeito": true,
-      "produtor": {
-        "nome": "desconhecido",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "PerfectPay"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 47",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
       "produto": "Fábrica de Low Ticket",
-      "tipo": "marca",
+      "tipo": "angulo",
       "gateway": "Cakto",
-      "nicho": "Ganhar dinheiro online / trabalho remoto",
+      "nicho": "Educação / Marketing digital e low ticket",
       "score_final": 8,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "R$ 254,98",
       "termo_busca": "fábrica de low ticket",
-      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Reembolso solicitado por propaganda enganosa sobre suporte individual no curso Fábrica de Low Ticket  Resolvido  CAKTO PAY  Cansanção - BA  01/09/2026 às 08:18  ID: 257896487  Olá,  Solicito o reembolso da compra da Fábrica de",
+      "descricao": "Adquiri o curso com base na promessa apresentada pelo produtor de que haveria suporte individual. Porém, após entrar no grupo de WhatsApp, me deparei com uma discussão entre outros alunos que estavam reclamando justamente sobre essa questão. Na conversa, um dos administradores informou que a estratégia havia sido alterada e que o suporte agora seria realizado de forma coletiva pelo grupo. Eu não fui comunicado previamente sobre essa mudança e essa não foi a condição pela qual adquiri o curso. Co",
       "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso-solicitado-por-propaganda-enganosa-sobre-suporte-individual-no-curso-fabrica-de-low-ticket_BQx79JwlEi7-NBzU/",
       "validacao_ad_library": {
         "ad_count": 0,
@@ -80,12 +36,13 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "facilidade",
+        "prova_social",
+        "autoridade",
         "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
       "produtor": {
-        "nome": "desconhecido",
+        "nome": "de que haveria suporte individual. Por",
         "cnpj": "",
         "outras_ofertas": [],
         "gateways_historico": [
@@ -103,164 +60,33 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "um curso e",
+      "produto": "On Line Rj Comercio Varejista De Acessorios Ltda",
       "tipo": "angulo",
-      "gateway": "PerfectPay",
-      "nicho": "Educação e consultoria",
-      "score_final": 7,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "um curso e",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas [Editado pelo Reclame Aqui]  Resolvido  PerfectPay  Osasco - SP  31/08/2026 às 00:24  ID: 257779321  Fiz compra de um curso e é [Editado pelo Reclame Aqui]. Quero [Editado pelo Reclame Aqui] código *****  Aguardo.  RA Ad",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui_UeZdzzFsRKKhakiR/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 7
-      },
-      "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "desconhecido",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "PerfectPay"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "RA Ads Previous slide Next slide Compartilhe Resp",
-      "tipo": "angulo",
-      "gateway": "PerfectPay",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 7,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "ra ads previous slide next slide compartilhe resp",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas [Editado pelo Reclame Aqui]  Resolvido  PerfectPay  Mogi das Cruzes - SP  30/08/2026 às 23:05  ID: 257777077  Sofia um [Editado pelo Reclame Aqui], paguei e não recebi o produto  RA Ads Previous slide Next slide  Compart",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui_SUXSgNqlxlTtM8rF/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 7
-      },
-      "angulos_detectados": [
-        "autoridade",
-        "facilidade",
-        "novidade"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "desconhecido",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "PerfectPay"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "e ele nao chegou quero meu dinheiro de volta RA Ad",
-      "tipo": "angulo",
-      "gateway": "PerfectPay",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 7,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "e ele nao chegou quero meu dinheiro de volta ra ad",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Propaganda inganosa  Respondida  PerfectPay  Caxias do Sul - RS  30/08/2026 às 15:07  ID: 257755023     Fiz a compra de um produto e ele nao chegou quero meu dinheiro de volta  RA Ads Previous slide Next slide  Compartil",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-inganosa_WXGZ3QLZ1OhfoBjb/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 7
-      },
-      "angulos_detectados": [
-        "autoridade",
-        "facilidade",
-        "novidade"
-      ],
-      "cloaker_suspeito": false,
-      "produtor": {
-        "nome": "desconhecido",
-        "cnpj": "",
-        "outras_ofertas": [],
-        "gateways_historico": [
-          "PerfectPay"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "Converza.io",
-      "tipo": "marca",
       "gateway": "Cakto",
-      "nicho": "Ferramentas de IA / Produtividade",
-      "score_final": 7,
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 8,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "converza.io",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Exijo reembolso serviço não funciona e suporte não responde  Respondida  CAKTO PAY  São Paulo - SP  31/08/2026 às 03:25  ID: 257781633  Assinei um plano da Converza.io, porém não consigo sequer criar um dispositivo para",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/exijo-reembolso-servico-nao-funciona-e-suporte-nao-responde_OPi-rimJXtkjo2yB/",
+      "faixa_preco": "R$ 297,00",
+      "termo_busca": "on line rj comercio varejista de acessorios ltda",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-de-assinatura-tokfy-via-pix-devido-a-plano-incorreto-e-falha-no-login-para-cancelamento_lwKWxoGQVq5QbJLn/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
         "criativos_unicos": 0,
         "paises": [],
         "fontes_trafego": [],
-        "score_ajustado": 7
+        "score_ajustado": 8
       },
       "angulos_detectados": [
-        "autoridade",
-        "facilidade",
-        "novidade"
+        "medo_traiçao",
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
-      "cloaker_suspeito": false,
+      "cloaker_suspeito": true,
       "produtor": {
-        "nome": "Converza.io",
+        "nome": "desconhecido",
         "cnpj": "",
         "outras_ofertas": [],
         "gateways_historico": [
@@ -269,6 +95,50 @@
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
+        "front": "R$ 297",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "fica saindo e entrando sozinho",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "fica saindo e entrando sozinho",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-gostei-do-app-fica-saindo-e-entrando-sozinho_UkdzKQ86egq0egAP/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
         "front": "R$ 27-97",
         "order_bump": "",
         "upsell_1": "",
@@ -278,17 +148,63 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "COMUNIDADE VSA",
+      "produto": "Método Atlas",
       "tipo": "marca",
-      "gateway": "Cakto",
+      "gateway": "PerfectPay",
+      "nicho": "Educação e consultoria",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "método atlas",
+      "descricao": "Fiz uma compra desse tal método atlas, não cumpriu com prometido ,tento falar com suporte wattsap, e-mail e simplesmente desativaram as contas ,já procurei uma advogada e delegacia pra denunciar. Não caiam é [Editado pelo Reclame Aqui] RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/compra-do-metodo-atlas-nao-cumpre-o-prometido-e-suporte-desativado_wzci0DCEtGCFBRc6/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "ganância_carreira",
+        "autoridade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "Atlas Method",
+        "cnpj": "",
+        "outras_ofertas": [
+          "Método Atlas"
+        ],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Interactive Live",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
       "nicho": "Espionagem e rastreamento",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "R$ 248,89.",
-      "termo_busca": "comunidade vsa",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Solicitação de reembolso de compra com erro de saldo na conta do vendedor  Respondida  CAKTO PAY  Junqueiro - AL  31/08/2026 às 02:34  ID: 257781211  Olá,  Solicito o reembolso da compra da COMUNIDADE VSA, realizada em 2",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-de-compra-com-erro-de-saldo-na-conta-do-vendedor_e5d-tH3gUGahNktM/",
+      "faixa_preco": "",
+      "termo_busca": "interactive live",
+      "descricao": "Comprei o produto \"Interactive Live\" através da plataforma Perfect Pay, que atuou como processadora de pagamento da venda. O produto recebido não correspondeu ao que foi anunciado/esperado, e eu solicitei o cancelamento/reembolso ainda dentro do prazo de garantia de 7 dias previsto no site/checkout, que também é assegurado pelo direito de arrependimento do art. 49 do Código de Defesa do Consumidor para compras feitas fora do estabelecimento comercial (como é o caso de compras online). Esse prazo",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reembolso-negado-e-prazo-expirado-devido-a-burocracia-da-perfect-pay_wFj48yi7DgllZO-Z/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
@@ -299,21 +215,21 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
-      "cloaker_suspeito": false,
+      "cloaker_suspeito": true,
       "produtor": {
         "nome": "desconhecido",
         "cnpj": "",
         "outras_ofertas": [],
         "gateways_historico": [
-          "Cakto"
+          "PerfectPay"
         ],
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 248",
+        "front": "R$ 27-97",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -322,17 +238,17 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "Retrato da Sua Alma Gêmea",
-      "tipo": "marca",
+      "produto": "Low Ticket do Zero 2.0 no dia 30",
+      "tipo": "angulo",
       "gateway": "Cakto",
       "nicho": "Ferramentas de IA / Produtividade",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "R$ 48,89",
-      "termo_busca": "retrato da sua alma gêmea",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas [Editado pelo Reclame Aqui] e solicitação de estorno para produto \"Retrato da Sua Alma Gêmea\"  Respondida  CAKTO PAY  Campinas - SP  31/08/2026 às 02:06  ID: 257780917  Olá, equipe da Cakto Pay,No dia 28/08/2026, realize",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/editado-pelo-reclame-aqui-e-solicitacao-de-estorno-para-produto-retrato-da-sua-alma-gemea_H8ihRLGIEQMZ9WSb/",
+      "faixa_preco": "",
+      "termo_busca": "low ticket do zero 2.0 no dia 30",
+      "descricao": "Solicitação de cancelamento e reembolso negada por falta de saldo na conta do produtor. Resolvido CAKTO PAY Rio de Janeiro - RJ 31/08/2026 às 17:20",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-reembolso-negada-por-falta-de-saldo-na-conta-do-produtor_g_uRVUXcpBO7YtT5/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
@@ -357,7 +273,7 @@
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 48",
+        "front": "R$ 27-97",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -366,17 +282,17 @@
       "acao_recomendada": "DESCARTAR"
     },
     {
-      "produto": "Pack Canva",
-      "tipo": "marca",
+      "produto": "Cloakeuai",
+      "tipo": "angulo",
       "gateway": "Cakto",
-      "nicho": "Educação e consultoria",
+      "nicho": "Ferramentas de IA / Cloaking",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "R$ 15,15",
-      "termo_busca": "pack canva",
-      "descricao": "RA Ads Veja também todas as reclamações não respondidas respondidas finalizadas Solicitação de cancelamento e reembolso de cursos online após arrependimento de compra.  Respondida  CAKTO PAY  Suzano - SP  30/08/2026 às 19:54  ID: 257768163  Me chamo *****, solicito o cancelamento e reembolso do valo",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-reembolso-de-cursos-online-apos-arrependimento-de-compra_-CZPnDHntp_r19_O/",
+      "faixa_preco": "",
+      "termo_busca": "cloakeuai",
+      "descricao": "Fiz uma compra de um aplicativo, porém o mesmo não funciona, entrei em contato com a cakto por email, entrei em contato pelo suporte da plataforma e não me respondem, foi uma compra de +- 840 reais Quero o reembolso da minha compra: Dados da compra: Poxa, vou te ajudar a resolver isso! Me informe: Qual e-mail você usou na compra?",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reclamacao-sobre-aplicativo-nao-funcional-e-falta-de-resposta-do-suporte-para-reembolso_vE-W5K4jwJY0jtXa/",
       "validacao_ad_library": {
         "ad_count": 0,
         "dias_rodando_max": 0,
@@ -386,10 +302,11 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "curiosidade",
+        "facilidade_tecnologica",
+        "novidade"
       ],
-      "cloaker_suspeito": false,
+      "cloaker_suspeito": true,
       "produtor": {
         "nome": "desconhecido",
         "cnpj": "",
@@ -400,7 +317,95 @@
         "portfolio_size_est": "1-2 ofertas ativas"
       },
       "funil_estimado": {
-        "front": "R$ 15",
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Códigos Lucrativos",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Ganhar dinheiro online / Ferramentas de afiliado",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "códigos lucrativos",
+      "descricao": "Comprei dois aplicativos codigos lucrativos e opinipix pela perfect pay,mas eles são [Editado pelo Reclame Aqui] . [Editado pelo Reclame Aqui]. Quero meu dinheiro de volta. Resposta da Empresa 31/01/2025 às 17:31",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/compra-de-aplicativos-editado-pelo-reclame-aqui-e-editado-pelo-reclame-aqui-solicitacao-de-reembolso_xx2YJjct0gsb0fGa/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "ganância_renda_extra",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Aristocracy Negócios Digitais",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Produtos digitais variados / Assinatura vitalícia",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "aristocracy negócios digitais",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/acesso-negado-a-produtos-com-assinatura-vitalicia-e-namorada-customizada-nao-funciona_VUCzPEy-WEHTKJWB/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "ganância_acesso_vitalicio",
+        "facilidade"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
         "order_bump": "",
         "upsell_1": "",
         "upsell_2": "",
@@ -410,15 +415,15 @@
     },
     {
       "produto": "ZAP Radar",
-      "tipo": "marca",
+      "tipo": "angulo",
       "gateway": "PerfectPay",
-      "nicho": "Espionagem e rastreamento",
+      "nicho": "Ferramentas de espionagem / WhatsApp",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "",
       "termo_busca": "zap radar",
-      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Solicitação de estorno de compra no site ZAP Radar por não recebimento de relatório.  Respondida  PerfectPay  Niterói - RJ  31/08/2026 às 22:22  ID: 257882275  Fiz uma compra no valor de 137,00 site ZAP radar e fui [Editado pel",
+      "descricao": "Fiz uma compra no valor de 137,00 site ZAP radar e fui [Editado pelo Reclame Aqui] porque não abre um relatório. Peço o estorno do valor pago. RA Ads",
       "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicitacao-de-estorno-de-compra-no-site-zap-radar-por-nao-recebimento-de-relatorio_lZ9TTmWZxIG43bv7/",
       "validacao_ad_library": {
         "ad_count": 0,
@@ -430,10 +435,10 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
-      "cloaker_suspeito": false,
+      "cloaker_suspeito": true,
       "produtor": {
         "nome": "desconhecido",
         "cnpj": "",
@@ -454,15 +459,15 @@
     },
     {
       "produto": "Apostila de Psicologia 2025",
-      "tipo": "marca",
+      "tipo": "angulo",
       "gateway": "Cakto",
-      "nicho": "Educação e consultoria",
+      "nicho": "Educação / Concursos e certificações",
       "score_final": 7,
       "temperatura": "fria",
       "mencoes": 1,
       "faixa_preco": "",
-      "termo_busca": "apostila de psicologia025",
-      "descricao": "Veja também todas as reclamações não respondidas respondidas finalizadas Apostila de Psicologia 2025 não abre e cliente não obtém retorno sobre compra online.  Respondida  CAKTO PAY  Sorocaba - SP  01/09/2026 às 10:19  ID: 257909223  Fiz uma compra on-line de uma Apostila de Psicologia 2025 e um com",
+      "termo_busca": "apostila de psicologia 2025",
+      "descricao": "Fiz uma compra on-line de uma Apostila de Psicologia 2025 e um combo de Aprovação Psico. Já entrei em contato por e-mail, por chat mais não consigo retorno. Já enviei os comprovantes de pagamentos de cada compra, mais não obtenho resposta. Esse material é para concurso, porém a Apostila não abre. Quando clico dá que já foi concluída sem ao menos eu ler. Comprei o material porque preciso, e hoje já entrei e não abre. Gostaria que resolvessem isso. Edna Carvalho",
       "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/apostila-de-psicologia-2025-nao-abre-e-cliente-nao-obtem-retorno-sobre-compra-online_30j5btxdpP7LLsjJ/",
       "validacao_ad_library": {
         "ad_count": 0,
@@ -473,8 +478,713 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "necessidade",
+        "autoridade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "COMUNIDADE KNIGHTS CLUB",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Comunidades / Mentoria de negócios",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 67,99,",
+      "termo_busca": "comunidade knights club",
+      "descricao": "No dia 21/08/2026, realizei a compra da COMUNIDADE KNIGHTS CLUB, no valor de R$ 67,99, através da plataforma de pagamentos Cakto, com pagamento realizado via Pix. Após a compra, descobri que a ferramenta de inteligência artificial adquirida é destinada ao uso em computador. Essa informação não estava suficientemente clara para mim no momento da compra. Como não possuo computador, entrei em contato com o suporte para saber se seria possível utilizar a ferramenta pelo celular e fui informado de qu",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso-de-compra-via-pix-nao-realizado-apos-solicitacao-dentro-do-prazo-legal_w1bmesmQpVhI5h0M/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "prova_social",
         "autoridade",
-        "ganância_carreira"
+        "ganância_renda_extra"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 67",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Validação cadastral: Em análise",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 38,09",
+      "termo_busca": "validação cadastral: em análise",
+      "descricao": "Olá, equipe da Cakto.Estou com um problema sério em relação à validação dos meus documentos na plataforma. Realizei o envio do meu documento digital no dia 18 de agosto, e desde então o status permanece travado como \"Validação cadastral: Em análise\".Já se passaram semanas e o processo não avança. Por conta dessa demora na análise, não consigo realizar movimentações na minha conta. Atualmente, possuo um saldo de R$ 38,09 categorizado como \"Disponível para transferir\", mas a opção de \"Efetuar Saqu",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/demora-na-validacao-de-documentos-impede-movimentacao-e-saque-de-valores-na-plataforma-cakto_AxgK77MKxCN0UISD/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "da Cakto.Estou com um problema s",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 38",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "continua ativo",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "continua ativo",
+      "descricao": "O produto continua ativo,sendo que não estou usando o serviço. RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cancelamento-de-assinatura-nao-realizado-e-cobranca-indevida-persistente_4mA_vDyxabA5d2h8/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Manuscrito dos Milagres",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 99,00",
+      "termo_busca": "manuscrito dos milagres",
+      "descricao": "Realizei a compra do produto \"Manuscrito dos Milagres\" no valor de 99 reais através da plataforma de vocês. Trata-se de um [Editado pelo Reclame Aqui] que usa inteligência artificial com a imagem do ator Jonathan Roumie. O conteúdo não foi entregue e não abre. Como estou dentro do prazo legal de 7 dias previsto pelo Artigo 49 do Código de Defesa do Consumidor, exijo o cancelamento imediato e o estorno integral do valor Comprei um produto através da perfectpay Curso(s): Manuscrito dos Milagres Ap",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-produto-manuscrito-dos-milagres-nao-entregue-e-solicitacao-de-estorno_YM7HDxei_9htWhyn/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 99",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Youclone no dia 28",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 68,89",
+      "termo_busca": "youclone no dia 28",
+      "descricao": "Comprei o produto Youclone no dia 28/08, no pix. Quando fui entrar no curso, não abre a área de membros e não consigo assistir o curso. Na minha área de membros só tem um curso que eu comprei faz tempo. Detalhes do Pedido Pedido: ***** Data: 28/08/2026",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cliente-nao-consegue-acessar-area-de-membros-do-curso-youclone-e-relata-falta-de-suporte_2aC8MLyewmAd3CCU/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 68",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "na ultima quarta feira",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "na ultima quarta feira",
+      "descricao": "Boa noite. Fiz a compra de um produto na ultima quarta feira (26/08/20226) e até essa data eu não recebi o produto. Recebi o e-mail de confirmação do pagamento e um acesso pra fazer o download do material, mas não dá certo. Pra todo lugar que eles me enviam não dá certo. Falo com o pessoal do suporte e eles me deixam sem respostas. Só começam o atendimento. Pedi reembolso, também não dá certo. me mandaram 10 códigos de confirmação e com um segundo diz que expirou. tanto por E-mail quanto por cel",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produto-nao-recebido-e-dificuldade-de-acesso-ao-material-digital-com-falha-no-reembolso-e-suporte-ineficaz_iOzRmbylQ4neQezT/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "pelo qual paguei n",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "pelo qual paguei n",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-por-indisponibilidade-do-curso-corselet-classico_kKh1cXRxKbVwJRHp/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "e conseguiu acess",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 20,89",
+      "termo_busca": "e conseguiu acess",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/inconsistencias-na-contabilizacao-de-vendas-e-pagamentos-na-conta-cakto_KtH_3-H9eW4zj_bs/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 20",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um site hoje e quero solicitar o cancelam",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "um site hoje e quero solicitar o cancelam",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-estorno-de-3-pedidos-devido-a-arrependimento-e-insatisfacao-com-o-produtosite_KUDEd8s3eGajQ3-L/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "de seguran",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Outros",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "de seguran",
+      "descricao": "",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-de-pedido-com-codigo-de-transacao_poCcMMKbZVAkXZx9/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "e a plataforma deveria no m",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "e a plataforma deveria no m",
+      "descricao": "Fiz uma compra nessa plataforma e não consigo pedir o reembolso pois a plataforma alega não vender produto. Quero o reembolso pois não gostei do produto e a plataforma deveria no mínimo disponibilizar essa função no site. Segundo a plataforma eu tenho que entrar em contato com o responsável do produto, como irei pedir o reembolso pois o dono do produto não responde. ***** Numero do pedido da minha compra  Reembolso negado por plataforma que alega não vender o produto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reembolso-negado-por-plataforma-que-alega-nao-vender-o-produto_S-syATG5Z4eLNeZI/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Stalkeia",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 401,40.",
+      "termo_busca": "stalkeia",
+      "descricao": "O produto prometia acesso a contas e mensagens do Instagram, mas na verdade entrega apenas um aplicativo que simula a interface do Instagram e cria conversas artificiais. Ou seja, trata-se de um serviço [Editado pelo Reclame Aqui], que não entrega o que anuncia. Eu testei com dois perfis diferentes e as mensagens são as mesmas, ou seja, [Editado pelo Reclame Aqui] e [Editado pelo Reclame Aqui]. Além disso, após um primeiro pagamento a plataforma vai nos induzindo a efetuar outras compras para co",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/servico-editado-pelo-reclame-aqui-da-via-perfect-pay-com-promessa-editado-pelo-reclame-aqui_XI7_jZmAIuhQa5In/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "medo_traiçao",
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "Stalker Tech LTDA",
+        "cnpj": "",
+        "outras_ofertas": [
+          "Stalkea.ai",
+          "Stalker Pro",
+          "MonitoraZap"
+        ],
+        "gateways_historico": [
+          "PerfectPay",
+          "Mangofy",
+          "Payt"
+        ],
+        "portfolio_size_est": "3-5 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 401",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "de postagem autom",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "de postagem autom",
+      "descricao": "Comprei um produto ( inteligência artificial com + 10.700 vídeos) com a proposta de postagens automáticas na shopee vídeo, Instagram e tiktok. Porém dentro da plataforma , fui informada que teria que pagar mais um valor para integração com as plataformas, informaram que esse valor é pagamento único, para as plataformas liberarem a integração ( não fica nada com eles). Como meu intuito é as postagens automáticas, comprei. Enviei o comprovante, como solicitado e aguardei o prazo para eles , entrar",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-produto-de-postagem-automatica-com-cobrancas-adicionais-sem-retorno-do-suporte-sem-liberacao-do-prometido-e-com-acesso-restrito-ao-conteudoe-falta-de-reembolso_6xa6Ai85fTyG0Yce/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "medo_traiçao",
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "uma mentoria no dia 26 onde o reembolso e",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "uma mentoria no dia 26 onde o reembolso e",
+      "descricao": "Fiz a compra de uma mentoria no dia 26 onde o reembolso era de responsabilidade do produtor, produtor esse que me ignorou por bastante tempo e disse ter efetuado o reembolso, coisa que eu não sei se aconteceu ou não, por que isso foi antes de ontem e lá na cakto ainda está como \"pago\" e não algo como \"reembolso em andamento\" ou coisa assim! Me disseram na última resposta que iam me mandar mensagem no contato cadastrado no reclame aqui, coisa que ainda não fizeram e o prazo pra reembolso é até am",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reclamacao-sobre-reembolso-de-mentoria-nao-processado-e-falta-de-suporte_nV8WPHM4qJbjnUSu/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "esse que me ignorou por bastante tempo e",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "adquirido teria condi",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "adquirido teria condi",
+      "descricao": "Venho solicitar a contestação de uma compra realizada referente à contratação de uma estrutura montada para geração de retorno financeiro. A contratação foi realizada acreditando que o serviço/produto adquirido teria condições de funcionar conforme apresentado pelos responsáveis pela estrutura. O problema é que, após a contratação e a montagem das estruturas, o resultado esperado não aconteceu. Além do valor já pago pela aquisição do produto/estrutura, posteriormente fui informado de que seria n",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/contestacao-de-compra-de-estrutura-para-geracao-de-retorno-financeiro-nao-concretizado-e-falta-de-informacao-sobre-investimentos-adicionais_CUW1-e-tTFELAg9M/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "dois cursos de idiomas",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "dois cursos de idiomas",
+      "descricao": "Fiz uma compra de dois cursos de idiomas, no caso Espanhol. Paguei pelos dois cursos via pi, porém só tive acesso a um curso, o outro aparece como acesso negado e não consigo acessar. Já entrei em contato com o suporte, porém o email retorna como email inválido. Entro em contato com o suporte para solicitar reembolso e ninguém me dá um retorno. Solicito devolução do valor, porém não tenho contato com ninguém da empresa. Acesso negado a curso de espanhol pago e dificuldade de contato com o suport",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/acesso-negado-a-curso-de-espanhol-pago-e-dificuldade-de-contato-com-o-suporte-para-reembolso_9d9eJH4OMC_ApZLR/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
