@@ -36,9 +36,9 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "prova_social",
+        "autoridade",
         "ganância_renda_extra",
-        "autoridade"
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -124,8 +124,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -258,8 +258,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -303,8 +303,8 @@
       },
       "angulos_detectados": [
         "curiosidade",
-        "facilidade_tecnologica",
-        "novidade"
+        "novidade",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -391,8 +391,8 @@
       },
       "angulos_detectados": [
         "ganância_acesso_vitalicio",
-        "facilidade",
-        "autoridade"
+        "autoridade",
+        "facilidade"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -478,9 +478,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "necessidade",
+        "autoridade",
         "medo_perda_dinheiro",
-        "autoridade"
+        "necessidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -522,9 +522,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "prova_social",
+        "autoridade",
         "ganância_renda_extra",
-        "autoridade"
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -566,8 +566,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -653,8 +653,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -697,8 +697,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -784,8 +784,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -828,8 +828,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -872,8 +872,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -956,8 +956,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1094,8 +1094,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1138,8 +1138,52 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
+        "facilidade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "dois cursos de idiomas",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 4,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "dois cursos de idiomas",
+      "descricao": "Fiz uma compra de dois cursos de idiomas, no caso Espanhol. Paguei pelos dois cursos via pi, porém só tive acesso a um curso, o outro aparece como acesso negado e não consigo acessar. Já entrei em contato com o suporte, porém o email retorna como email inválido. Entro em contato com o suporte para solicitar reembolso e ninguém me dá um retorno. Solicito devolução do valor, porém não tenho contato com ninguém da empresa. Acesso negado a curso de espanhol pago e dificuldade de contato com o suport",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/acesso-negado-a-curso-de-espanhol-pago-e-dificuldade-de-contato-com-o-suporte-para-reembolso_9d9eJH4OMC_ApZLR/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 4
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "facilidade",
         "novidade"
       ],
       "cloaker_suspeito": false,
