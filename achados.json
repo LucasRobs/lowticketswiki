@@ -36,8 +36,8 @@
         "score_ajustado": 70
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -86,9 +86,9 @@
         "score_ajustado": 20
       },
       "angulos_detectados": [
-        "novidade",
         "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -132,11 +132,11 @@
         "score_ajustado": 15
       },
       "angulos_detectados": [
+        "autoridade",
         "medo_perda_dinheiro",
         "novidade",
         "confiança_quebrada",
-        "facilidade",
-        "autoridade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -178,8 +178,8 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -223,8 +223,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "ganância_carreira",
-        "prova_social"
+        "prova_social",
+        "ganância_carreira"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -311,9 +311,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
         "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -532,9 +532,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "autoridade",
-        "prova_social"
+        "prova_social",
+        "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -664,9 +664,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
         "autoridade",
-        "prova_social"
+        "prova_social",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -710,9 +710,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "vaidade",
         "novidade",
-        "curiosidade"
+        "curiosidade",
+        "vaidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -756,8 +756,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "prova_social",
         "autoridade",
+        "prova_social",
         "facilidade"
       ],
       "cloaker_suspeito": false,
@@ -802,8 +802,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
-        "ganância_renda_extra"
+        "ganância_renda_extra",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -1141,9 +1141,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "prova_social",
         "vaidade",
-        "prova_social"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1185,8 +1185,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "novidade",
+        "ganância_renda_extra",
         "facilidade"
       ],
       "cloaker_suspeito": false,
@@ -1229,8 +1229,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": true,
@@ -1313,8 +1313,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1400,8 +1400,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1444,8 +1444,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1704,8 +1704,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1922,8 +1922,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -3614,9 +3614,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "necessidade",
+        "autoridade",
         "medo_perda_dinheiro",
-        "autoridade"
+        "necessidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3658,9 +3658,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "autoridade",
-        "prova_social"
+        "prova_social",
+        "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3746,8 +3746,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -4219,9 +4219,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo",
         "esperança",
-        "autoridade_cientifica"
+        "autoridade_cientifica",
+        "medo"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4351,9 +4351,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "autoridade",
-        "ganância_escala"
+        "ganância_escala",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -4441,9 +4441,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "prova_social",
         "vaidade",
-        "prova_social"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
