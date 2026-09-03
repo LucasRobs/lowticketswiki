@@ -125,6 +125,19 @@ def extract_product_info(complaint):
         produto = "Fábrica de Low Ticket"
     elif 'zap radar' in text_lower or 'zapradar' in text_lower:
         produto = "ZAP Radar"
+    # NEW: Products from Sept 2026 batch 2
+    elif 'mentoria nova profiss' in text_lower:
+        produto = "Mentoria Nova Profissão"
+    elif 'turminha alfakids' in text_lower or 'alfakids' in text_lower:
+        produto = "Turminha Alfakids"
+    elif 'directspeed' in text_lower:
+        produto = "Directspeed"
+    elif 'curso de mandarim' in text_lower:
+        produto = "Curso de Mandarim"
+    elif 'perfect academy' in text_lower:
+        produto = "Perfect Academy"
+    elif 'produto malu' in text_lower or 'malu exige' in text_lower:
+        produto = "Produto Malu"
     
     # Extract value
     valor_match = re.search(r'R\$\s*([\d.,]+)', text)
@@ -197,6 +210,27 @@ def extract_product_info(complaint):
     elif 'zap radar' in text_lower or 'zapradar' in text_lower:
         nicho = "Ferramentas de espionagem / WhatsApp"
         angulos = ["curiosidade_voyeurismo", "medo_traiçao", "facilidade_tecnologica"]
+        sinais_cloaker.append("taxa_adicional_para_desbloquear")
+
+    # NEW: Products from Sept 2026 batch 2
+    elif 'mentoria nova profiss' in text_lower:
+        nicho = "Educação e consultoria / Mentoria"
+        angulos = ["autoridade", "ganância_carreira", "prova_social"]
+    elif 'turminha alfakids' in text_lower or 'alfakids' in text_lower:
+        nicho = "Educação infantil / Materiais didáticos"
+        angulos = ["autoridade", "facilidade", "necessidade"]
+    elif 'directspeed' in text_lower:
+        nicho = "Ferramentas de produtividade / Assinatura"
+        angulos = ["facilidade", "ganância_renda_extra", "recorrência"]
+    elif 'curso de mandarim' in text_lower:
+        nicho = "Educação / Idiomas"
+        angulos = ["autoridade", "ganância_carreira", "novidade"]
+    elif 'perfect academy' in text_lower:
+        nicho = "Educação e consultoria / Cursos online"
+        angulos = ["autoridade", "facilidade", "prova_social"]
+    elif 'produto malu' in text_lower or 'malu exige' in text_lower:
+        nicho = "Ferramentas / Aplicativos"
+        angulos = ["facilidade_tecnologica", "ganância_renda_extra"]
         sinais_cloaker.append("taxa_adicional_para_desbloquear")
 
     # Espionagem/monitoramento
@@ -371,7 +405,7 @@ for termo, items in groups.items():
         acao = "DESCARTAR"
     
     # Tipo: marca if specific product name, angulo if generic
-    tipo = "marca" if any(kw in termo.lower() for kw in ['stalkeia', 'spygram', 'hqflix', 'freelancer', 'chat gpt', 'infinity', 'chatgpt', 'gpt plus', 'vavá', 'lumi', 'grupo telegram', 'converza', 'comunidade vsa', 'retrato da sua alma', 'seu retrato oficial', 'pack canva', 'copões gourmet', 'copos gourmet', 'mestre do copão', 'mestre do copao', 'método atlas', 'metodo atlas', 'frequência da vinci', 'frequencia da vinci']) else "angulo"
+    tipo = "marca" if any(kw in termo.lower() for kw in ['stalkeia', 'spygram', 'hqflix', 'freelancer', 'chat gpt', 'infinity', 'chatgpt', 'gpt plus', 'vavá', 'lumi', 'grupo telegram', 'converza', 'comunidade vsa', 'retrato da sua alma', 'seu retrato oficial', 'pack canva', 'copões gourmet', 'copos gourmet', 'mestre do copão', 'mestre do copao', 'método atlas', 'metodo atlas', 'frequência da vinci', 'frequencia da vinci', 'mentoria nova profiss', 'turminha alfakids', 'alfakids', 'directspeed', 'curso de mandarim', 'perfect academy', 'produto malu', 'malu exige']) else "angulo"
     
     # Producer info (simplified)
     produtor_nome = "desconhecido"
@@ -436,7 +470,38 @@ for termo, items in groups.items():
         outras_ofertas = ["Frequência da Vinci"]
         gateways_historico = ["Cakto"]
         portfolio_size_est = "1-2 ofertas ativas"
-    
+    # NEW: Producers for Sept 2026 batch 2
+    elif 'mentoria nova profiss' in termo.lower():
+        produtor_nome = "Gustavo Castro"
+        outras_ofertas = ["Mentoria Nova Profissão"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'turminha alfakids' in termo.lower() or 'alfakids' in termo.lower():
+        produtor_nome = "AlfaKids"
+        outras_ofertas = ["Turminha Alfakids"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'directspeed' in termo.lower():
+        produtor_nome = "DirectSpeed"
+        outras_ofertas = ["Directspeed"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'curso de mandarim' in termo.lower():
+        produtor_nome = "Ismael Vitor Pinheiro Milher"
+        outras_ofertas = ["Curso de Mandarim"]
+        gateways_historico = ["Cakto"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'perfect academy' in termo.lower():
+        produtor_nome = "Perfect Academy"
+        outras_ofertas = ["Perfect Academy"]
+        gateways_historico = ["PerfectPay"]
+        portfolio_size_est = "1-2 ofertas ativas"
+    elif 'produto malu' in termo.lower() or 'malu exige' in termo.lower():
+        produtor_nome = "Malu"
+        outras_ofertas = ["Produto Malu"]
+        gateways_historico = ["PerfectPay"]
+        portfolio_size_est = "1-2 ofertas ativas"
+
     achado = {
         "produto": items[0]['produto'],
         "tipo": tipo,
