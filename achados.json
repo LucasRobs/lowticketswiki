@@ -37,8 +37,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -86,8 +86,8 @@
         "score_ajustado": 20
       },
       "angulos_detectados": [
-        "autoridade",
         "novidade",
+        "autoridade",
         "ganância_carreira"
       ],
       "cloaker_suspeito": false,
@@ -132,17 +132,62 @@
         "score_ajustado": 15
       },
       "angulos_detectados": [
+        "autoridade",
         "facilidade",
-        "novidade",
         "confiança_quebrada",
         "medo_perda_dinheiro",
-        "autoridade"
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
         "nome": "e suspeita de",
         "cnpj": "",
         "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "Produto Malu",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "Ferramentas / Aplicativos",
+      "score_final": 11,
+      "temperatura": "fria",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "produto malu",
+      "descricao": "Título: Produto Malu não correspondeu às minhas expectativas e exige novo pagamento para ativaçãoRealizei a compra ... Produto Malu exige novo pagamento para ativação, solicito cancelamento e reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/empresa/perfectpay/produto-malu-exige-novo-pagamento-para-ativacao-solicito-cancelamento-e-reembolso_EGQhjKMbfuFFizV7/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 11
+      },
+      "angulos_detectados": [
+        "ganância_renda_extra",
+        "facilidade_tecnologica"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "Malu",
+        "cnpj": "",
+        "outras_ofertas": [
+          "Produto Malu"
+        ],
         "gateways_historico": [
           "PerfectPay"
         ],
@@ -179,8 +224,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -222,8 +267,8 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "prova_social",
         "autoridade",
+        "prova_social",
         "ganância_carreira"
       ],
       "cloaker_suspeito": false,
@@ -268,8 +313,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -311,8 +356,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "novidade",
+        "autoridade",
         "ganância_carreira"
       ],
       "cloaker_suspeito": false,
@@ -357,8 +402,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -401,8 +446,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -445,8 +490,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -488,8 +533,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -532,8 +577,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "prova_social",
         "autoridade",
+        "prova_social",
         "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
@@ -576,8 +621,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -620,8 +665,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -664,9 +709,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "prova_social",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -711,8 +756,8 @@
       },
       "angulos_detectados": [
         "novidade",
-        "vaidade",
-        "curiosidade"
+        "curiosidade",
+        "vaidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -721,6 +766,136 @@
         "outras_ofertas": [
           "Retrato da Sua Alma Gêmea"
         ],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "digital n",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "digital n",
+      "descricao": "Comprei dois produtos digitais que não foram entregues. RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/produto-digital-nao-entregue_BJSp7nt8u2UDuoYS/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "curso de yoga n",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Educação e consultoria",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso de yoga n",
+      "descricao": "Prezados, esta manha fiz uma compra (+108 Posturas de Yoga Ilustradas, plano premium). Nao recebi o produto, recebi outra coisa e nao consta na area da Cakto Members. Paguei com Pix. O link do reembolso nao funciona, sempre a mesma mensagem: \"Não foi possível confirmar o código. Tente novamente\". Entrei em contato com o vendedor, sem resposta. Mandei email para a Cakto, sem resposta.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/compra-de-curso-de-yoga-nao-recebida-link-de-reembolso-inoperante-e-falta-de-contato-do-vendedorsuporte_zv5I8nnWtCj3LtbF/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "autoridade",
+        "ganância_carreira"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "que era pelo Gmail mandei a mensagem expl",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Ferramentas de IA / Produtividade",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "que era pelo gmail mandei a mensagem expl",
+      "descricao": "Fiz uma compra de ferramenta inteligência artificial o acesso pelo cakto mas algumas das principais funções da ferramenta, como o motion control usei 121 de crédito a plataforma não gerou o vídeo e não voltou os créditos até então não gostei da ferramenta eu quis meu reembolso quando fui tentar fazer o reembolso a plataforma do cakto falou que era só com o suporte do produto que era pelo Gmail mandei a mensagem explicando que queria o reembolso não tive resposta aí entrei em contato pelo zap ele",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso-negado-e-falta-de-suporte-para-ferramenta-de-ia-nao-funcional_k4Zr32LLud7_uMfl/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "autoridade",
+        "novidade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
         "gateways_historico": [
           "Cakto"
         ],
@@ -756,9 +931,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "prova_social",
+        "facilidade",
         "autoridade",
-        "facilidade"
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -766,51 +941,6 @@
         "cnpj": "",
         "outras_ofertas": [
           "Perfect Academy"
-        ],
-        "gateways_historico": [
-          "PerfectPay"
-        ],
-        "portfolio_size_est": "1-2 ofertas ativas"
-      },
-      "funil_estimado": {
-        "front": "R$ 27-97",
-        "order_bump": "",
-        "upsell_1": "",
-        "upsell_2": "",
-        "recorrencia": ""
-      },
-      "acao_recomendada": "DESCARTAR"
-    },
-    {
-      "produto": "Produto Malu",
-      "tipo": "marca",
-      "gateway": "PerfectPay",
-      "nicho": "Ferramentas / Aplicativos",
-      "score_final": 4,
-      "temperatura": "fria",
-      "mencoes": 1,
-      "faixa_preco": "",
-      "termo_busca": "produto malu",
-      "descricao": "Título: Produto Malu não correspondeu às minhas expectativas e exige novo pagamento para ativaçãoRealizei a compra ... Produto Malu exige novo pagamento para ativação, solicito cancelamento e reembolso.",
-      "evidencia_url": "https://www.reclameaqui.com.br/empresa/perfectpay/produto-malu-exige-novo-pagamento-para-ativacao-solicito-cancelamento-e-reembolso_EGQhjKMbfuFFizV7/",
-      "validacao_ad_library": {
-        "ad_count": 0,
-        "dias_rodando_max": 0,
-        "criativos_unicos": 0,
-        "paises": [],
-        "fontes_trafego": [],
-        "score_ajustado": 4
-      },
-      "angulos_detectados": [
-        "facilidade_tecnologica",
-        "ganância_renda_extra"
-      ],
-      "cloaker_suspeito": true,
-      "produtor": {
-        "nome": "Malu",
-        "cnpj": "",
-        "outras_ofertas": [
-          "Produto Malu"
         ],
         "gateways_historico": [
           "PerfectPay"
@@ -847,8 +977,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -890,8 +1020,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1054,8 +1184,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1097,8 +1227,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1141,9 +1271,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "prova_social",
         "facilidade",
-        "vaidade"
+        "vaidade",
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1186,8 +1316,8 @@
       },
       "angulos_detectados": [
         "facilidade",
-        "novidade",
-        "ganância_renda_extra"
+        "ganância_renda_extra",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1230,8 +1360,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -1314,8 +1444,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1357,8 +1487,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1401,8 +1531,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1445,8 +1575,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1488,8 +1618,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1531,8 +1661,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1574,8 +1704,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1617,8 +1747,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1660,8 +1790,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1705,8 +1835,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1791,8 +1921,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1834,8 +1964,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1878,8 +2008,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -1923,8 +2053,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1966,8 +2096,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2009,8 +2139,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2052,8 +2182,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2095,8 +2225,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "indignação"
+        "indignação",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2138,8 +2268,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2182,8 +2312,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2268,8 +2398,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2312,8 +2442,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2355,8 +2485,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2399,8 +2529,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2442,8 +2572,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "indignação"
+        "indignação",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2525,8 +2655,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2568,8 +2698,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2612,8 +2742,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "necessidade"
       ],
       "cloaker_suspeito": false,
@@ -2701,9 +2831,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "recorrência",
         "facilidade",
-        "ganância_renda_extra"
+        "ganância_renda_extra",
+        "recorrência"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2747,8 +2877,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2790,8 +2920,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2834,8 +2964,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2921,8 +3051,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -2965,8 +3095,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3009,8 +3139,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3052,8 +3182,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3096,8 +3226,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3139,8 +3269,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3182,8 +3312,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3226,8 +3356,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3269,8 +3399,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3313,8 +3443,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3356,8 +3486,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3440,8 +3570,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3484,8 +3614,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3527,8 +3657,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3571,8 +3701,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3615,8 +3745,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "medo_perda_dinheiro",
-        "necessidade"
+        "necessidade",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3658,8 +3788,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "prova_social",
         "autoridade",
+        "prova_social",
         "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
@@ -3702,8 +3832,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -3747,8 +3877,8 @@
       },
       "angulos_detectados": [
         "medo_traiçao",
-        "facilidade_tecnologica",
-        "curiosidade_voyeurismo"
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3790,8 +3920,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_acesso_vitalicio",
-        "facilidade"
+        "facilidade",
+        "ganância_acesso_vitalicio"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3916,8 +4046,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3959,8 +4089,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4002,8 +4132,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -4046,8 +4176,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4089,8 +4219,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4132,8 +4262,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -4176,8 +4306,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4220,8 +4350,8 @@
       },
       "angulos_detectados": [
         "autoridade_cientifica",
-        "medo",
-        "esperança"
+        "esperança",
+        "medo"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4265,8 +4395,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4308,8 +4438,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4352,8 +4482,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "facilidade_tecnologica",
-        "ganância_escala"
+        "ganância_escala",
+        "facilidade_tecnologica"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -4397,8 +4527,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
         "facilidade",
+        "autoridade",
         "novidade"
       ],
       "cloaker_suspeito": false,
@@ -4441,9 +4571,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "prova_social",
         "facilidade",
-        "vaidade"
+        "vaidade",
+        "prova_social"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4485,8 +4615,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "confiança_quebrada"
+        "confiança_quebrada",
+        "medo_perda_dinheiro"
       ],
       "cloaker_suspeito": false,
       "produtor": {
