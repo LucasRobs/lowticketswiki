@@ -36,9 +36,9 @@
         "score_ajustado": 70
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -132,11 +132,11 @@
         "score_ajustado": 15
       },
       "angulos_detectados": [
-        "autoridade",
-        "facilidade",
-        "confiança_quebrada",
         "medo_perda_dinheiro",
-        "novidade"
+        "autoridade",
+        "confiança_quebrada",
+        "novidade",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -223,9 +223,9 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -267,8 +267,8 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "autoridade",
         "prova_social",
+        "autoridade",
         "ganância_carreira"
       ],
       "cloaker_suspeito": false,
@@ -313,8 +313,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -402,9 +402,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -446,9 +446,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -490,8 +490,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -533,9 +533,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -577,9 +577,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
+        "ganância_renda_extra",
         "prova_social",
-        "ganância_renda_extra"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -621,9 +621,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -665,9 +665,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -709,9 +709,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "prova_social",
         "autoridade",
-        "prova_social"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -755,9 +755,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "novidade",
         "curiosidade",
-        "vaidade"
+        "vaidade",
+        "novidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -801,8 +801,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -887,9 +887,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -931,9 +931,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "prova_social",
         "autoridade",
-        "prova_social"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -977,8 +977,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1020,9 +1020,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1184,8 +1184,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1227,9 +1227,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1271,9 +1271,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "vaidade",
-        "prova_social"
+        "prova_social",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1315,9 +1315,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "ganância_renda_extra",
-        "novidade"
+        "novidade",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1359,9 +1359,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -1443,9 +1443,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1487,8 +1487,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1530,9 +1530,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1574,9 +1574,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1618,8 +1618,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1661,8 +1661,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1704,8 +1704,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1747,8 +1747,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1790,9 +1790,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1834,9 +1834,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1921,8 +1921,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1964,9 +1964,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2008,9 +2008,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2052,9 +2052,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2096,8 +2096,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2139,8 +2139,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2182,8 +2182,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2225,8 +2225,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "indignação",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "indignação"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2268,9 +2268,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2312,8 +2312,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2398,9 +2398,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2442,8 +2442,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2485,9 +2485,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2529,8 +2529,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2572,8 +2572,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "indignação",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "indignação"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2655,8 +2655,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2698,9 +2698,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2742,9 +2742,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "necessidade",
         "autoridade",
-        "necessidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2831,9 +2831,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "ganância_renda_extra",
-        "recorrência"
+        "recorrência",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2877,8 +2877,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2920,9 +2920,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2964,9 +2964,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3051,9 +3051,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3095,9 +3095,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3139,8 +3139,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3182,9 +3182,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3226,8 +3226,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3269,8 +3269,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3312,9 +3312,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3356,8 +3356,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3399,9 +3399,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3443,8 +3443,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3486,9 +3486,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3570,9 +3570,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3614,8 +3614,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3657,9 +3657,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3701,8 +3701,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3744,9 +3744,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
+        "medo_perda_dinheiro",
         "necessidade",
-        "medo_perda_dinheiro"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3788,9 +3788,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
+        "ganância_renda_extra",
         "prova_social",
-        "ganância_renda_extra"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3832,9 +3832,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3876,9 +3876,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "medo_traiçao",
+        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
-        "facilidade_tecnologica"
+        "medo_traiçao"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3920,8 +3920,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
-        "ganância_acesso_vitalicio"
+        "ganância_acesso_vitalicio",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4046,8 +4046,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4089,8 +4089,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4132,9 +4132,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4176,8 +4176,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4219,8 +4219,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4262,9 +4262,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4306,8 +4306,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4350,8 +4350,8 @@
       },
       "angulos_detectados": [
         "autoridade_cientifica",
-        "esperança",
-        "medo"
+        "medo",
+        "esperança"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4395,8 +4395,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4438,8 +4438,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4482,8 +4482,8 @@
       },
       "angulos_detectados": [
         "autoridade",
-        "ganância_escala",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "ganância_escala"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -4527,9 +4527,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
+        "novidade",
         "autoridade",
-        "novidade"
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4571,9 +4571,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade",
         "vaidade",
-        "prova_social"
+        "prova_social",
+        "facilidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4615,8 +4615,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "confiança_quebrada",
-        "medo_perda_dinheiro"
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
