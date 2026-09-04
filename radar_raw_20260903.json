@@ -18,9 +18,81 @@
   ],
   "achados_raw": [
     {
-      "title": "Solicitação de cancelamento e reembolso de compra não recebida, vítima de [Editado pelo Reclame Aqui].",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-cancelamento-e-reembolso-de-compra-nao-recebida-vitima-de-editado-pelo-reclame-aqui_yayk8aR-doUGpOKJ/",
-      "body": "Prezada equipe do Perfect Pay,Escrevo para solicitar o cancelamento e o reembolso integral da compra realizada no dia 25...",
+      "title": "Reclamação sobre falta de resposta e solicitação de reembolso de compra na PerfectPay.",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reclamacao-sobre-falta-de-resposta-e-solicitacao-de-reembolso-de-compra-na-perfectpay_ePS3uoY2QR7FviVZ/",
+      "body": "Fiz uma compra na perfectpay e pedi reembolso e até agora ninguém me responde nada quero meu reembolso por lei sei dos meus d...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Solicitação de reembolso e cancelamento de curso devido a cobrança adicional não informada e falta de resposta.",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-reembolso-e-cancelamento-de-curso-devido-a-cobranca-adicional-nao-informada-e-falta-de-resposta_zrp1hlRZJY1GeYSd/",
+      "body": "Fiz uma compra de um curso no qual, no mesmo dia, no caso dia 26/08, fiz a solicitação do reembolso, no qual diziam que iria ...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Recusa ilegal de reembolso dentro do prazo de 7 dias (Art. 49 CDC) - Códigos *****, ***** e *****",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/recusa-ilegal-de-reembolso-dentro-do-prazo-de-7-dias-art-49-cdc-codigos-e_KPg6Vaa1DBFmU00s/",
+      "body": "Em 07/04/2026 realizei a compra do produto Método Renda Pro 3.0 e adicionais através da Perfect Pay, totalizando ***** (Códig...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Cobrança indevida e falta de acesso a conteúdo após múltiplos pagamentos",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/cobranca-indevida-e-falta-de-acesso-a-conteudo-apos-multiplos-pagamentos_Mmr0TwTJ04BvZJ2f/",
+      "body": "fiz uma compra através de Perfect Pay para ter acesso ao conteúdo realizei o pagamento, quando fui direcionado ao site, para ...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Solicitação de reembolso por compras não recebidas no site up.stalkeia.website",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-reembolso-por-compras-nao-recebidas-no-site-upstalkeiawebsite_8lcQrc7FMJtUglvN/",
+      "body": "Realizei diversas compa no site https://up.stalkeia.website/ e paguei por um produto e, ou, serviço que nunca recebi, e agora...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Reembolso por propaganda enganosa e dificuldade de contato com vendedor e Perfect Pay",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reembolso-por-propaganda-enganosa-e-dificuldade-de-contato-com-vendedor-e-perfect-pay_L-cztE5tGKMwEX_D/",
+      "body": "Fiz uma compra de um produto de [Editado pelo Reclame Aqui]. estou dentro do prazo de 7 dias de garantia do consumidor e que...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Solicitação de estorno de valores por não recebimento de serviços comprados online.",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-estorno-de-valores-por-nao-recebimento-de-servicos-comprados-online_o5frNefVrN4fPHzE/",
+      "body": "Fiz duas compras e de serviços pela internet, mas não fui atendido. É [Editado pelo Reclame Aqui] e solicito meus valores de ...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Produto Malu exige novos pagamentos para ativação, solicitação de cancelamento e reembolso.",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/produto-malu-exige-novos-pagamentos-para-ativacao-solicitacao-de-cancelamento-e-reembolso_pxi_-qtJzNYeDz4O/",
+      "body": "O Produto Malu não correspondeu às minhas expectativas e exige novos pagamentos para ativações Realizei a compra do...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Produto digital não entregue",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/produto-digital-nao-entregue_BJSp7nt8u2UDuoYS/",
+      "body": "Comprei dois produtos digitais que não foram entregues.",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Estorno",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/estorno_f2SVX16iGxQ2mOPy/",
+      "body": "Fiz uma compra solicitei o cancelamento no prazo de 7 dias e até o momento não houve o estorno.",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Cancelamento e reembolso",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/cancelamento-e-reembolso_ktPmNuLDEESot6Hu/",
+      "body": "Quero cancelar e quero o reembolso e nao estão me atendendo.",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Programa de visualização de Instagram não funciona e cobra taxas indevidas, com solicitação de restituição.",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/programa-de-visualizacao-de-instagram-nao-funciona-e-cobra-taxas-indevidas-com-solicitacao-de-restituicao_3ASbz_LP6gOfMy2v/",
+      "body": "Eles anunciam programa de visualização de instagram, vao [Editado pelo Reclame Aqui] e o programda nao funciona.realizei...",
+      "gateway": "Perfectpay"
+    },
+    {
+      "title": "Contestação e reembolso de pagamentos via Pix para serviço não entregue e site [Editado pelo Reclame Aqui]",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/contestacao-e-reembolso-de-pagamentos-via-pix-para-servico-nao-entregue-e-site-editado-pelo-reclame-aqui_eScUnzRSURgKYS2X/",
+      "body": "Venho solicitar a contestação e o reembolso de dois pagamentos no valor de *****via pix cada, realizados no dia 02/09/2026,re...",
       "gateway": "Perfectpay"
     },
     {
@@ -33,12 +105,6 @@
       "title": "Curso incompleto e falta de suporte para reembolso na Perfect Academy",
       "url": "https://www.reclameaqui.com.br/empresa/perfectpay/curso-incompleto-e-falta-de-suporte-para-reembolso-na-perfect-academy_xfFtbFJD4cncefLz/",
       "body": "Comprei um curso na perfect academy, mais o curso veio incompleto, fui tentar pedir meu reembolso, onde me deparei sem suport...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Depósito não caiu",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/deposito-nao-caiu_McKebJgeFJJOIP3N/",
-      "body": "Fiz um depósito e até agora não caiu",
       "gateway": "Perfectpay"
     },
     {
@@ -216,8 +282,8 @@
       "gateway": "Perfectpay"
     },
     {
-      "title": "Reembolso negado e prazo expirado devido à burocracia da Perfect Pay",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reembolso-negado-e-prazo-expirado-devido-a-burocracia-da-perfect-pay_wFj48yi7DgllZO-Z/",
+      "title": "Solicitação de reembolso por produto [Editado pelo Reclame Aqui] e falta de retorno",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-reembolso-por-produto-editado-pelo-reclame-aqui-e-falta-de-retorno_OqGGxodOjL1yKt7O/",
       "body": "Cair em um mesmo [Editado pelo Reclame Aqui] produto [Editado pelo Reclame Aqui]! eu solicitoi imediatamente meu reembolso, n...",
       "gateway": "Perfectpay"
     },
@@ -270,8 +336,8 @@
       "gateway": "Perfectpay"
     },
     {
-      "title": "Compra de aplicativo Stalkeia.ai [Editado pelo Reclame Aqui], com promessas não cumpridas e solicitação de pagamentos adicionais.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/compra-de-aplicativo-editado-pelo-reclame-aqui-com-promessas-nao-cumpridas-e-solicitacao-de-pagamentos-adicionais_QBT9INmhnCqkBp0I/",
+      "title": "Reembolso solicitado por investigação de celular não recebida",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reembolso-solicitado-por-investigacao-de-celular-nao-recebida_MWMrHpCfOXvUXhuQ/",
       "body": "fiz um pagamento para perfectpay sobre uma investigação de celular não recebi e-mail e muito menos a informação preciso do re...",
       "gateway": "Perfectpay"
     },
@@ -690,82 +756,178 @@
       "gateway": "Perfectpay"
     },
     {
-      "title": "Cliente se sente enganado por promessas não cumpridas e busca reembolso imediato.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/cliente-se-sente-enganado-por-promessas-nao-cumpridas-e-busca-reembolso-imediato_etTiexCtDn-UfqJV/",
-      "body": "Promete uma coisa e para o cliente não apresenta resultado. Você tem que fazer vários pagamentos via Pix para obter o resulta...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Reembolso não resolvido pela plataforma após contato com produtora e cancelamento de cartão.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reembolso-nao-resolvido-pela-plataforma-apos-contato-com-produtora-e-cancelamento-de-cartao_P1PpJ-yUSNmPIVUp/",
-      "body": "Verifiquei a compra de um produto nessa plataforma, solicitei o reembolso junto a produtora do produto e não consegui retorno...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Cobrança de taxa adicional não combinada e falta de acesso ao produto comprado.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/cobranca-de-taxa-adicional-nao-combinada-e-falta-de-acesso-ao-produto-comprado__chfFQTX8pupMWB5/",
-      "body": "Realizei uma compra de um produto em um site na internet e ao abrir o email enviado me cobraram outra taxa que não estava com...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Compra de IA STALKER travou no WhatsApp pedindo mais Pix, caracterizando [Editado pelo Reclame Aqui] e solicitação de estorno.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/compra-de-ia-stalker-travou-no-whatsapp-pedindo-mais-pix-caracterizando-editado-pelo-reclame-aqui-e-solicitacao-de-estorno_1-kgmoEucjwYlzke/",
-      "body": "Eu adquiri a compra do IA STALKER a fim de saber sobre determinado perfil, porém travou na tela do whatsapp pedindo mais pix....",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Tomei [Editado pelo Reclame Aqui]",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/tomei-editado-pelo-reclame-aqui_PCEkQCMzbA-5dwgy/",
-      "body": "Tomei um [Editado pelo Reclame Aqui] e foi cobrado pelo esse app",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Solicitação de estorno de PIX por propaganda enganosa do produto Stalkeia App.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-estorno-de-pix-por-propaganda-enganosa-do-produto-stalkeia-app_we2sfgSop5jGx37G/",
-      "body": "Solicito o estorno imediato do PIX no valor de R$ 87,00 efetuado hoje (25/08/2026 às 20h10, Doc 252010) para a PerfectPay, re...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Reclamação sobre recusa de reembolso e atendimento genérico pela Perfect Pay",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reclamacao-sobre-recusa-de-reembolso-e-atendimento-generico-pela-perfect-pay_BFp4AxOI5U-r8e8Q/",
-      "body": "Há dias tento contato com a Perfect Pay, sobre um reembolso que pedi horas depois de uma compra, enviando repetidamente todas...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "[Editado pelo Reclame Aqui] de promessa de dinheiro fácil via Pix, induzindo a vítima a pagar taxas indevidas.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/editado-pelo-reclame-aqui-de-promessa-de-dinheiro-facil-via-pix-induzindo-a-vitima-a-pagar-taxas-indevidas_roA23zSt7WvOYDOM/",
-      "body": "Veio uma mensagem falando que eu ganharia 17.000,00 se respondesse umas perguntas!Depois pediram 90, 00 em Pix pra validar.Fu...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Solicitação de estorno por produto não correspondente à expectativa",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-estorno-por-produto-nao-correspondente-a-expectativa_jZ-08RI4TwV-ynQ4/",
-      "body": "Fiz uma compra de um produto no qual não corresponde a minha expectativa , então solicito o estorno do meu valor. Email: ****...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Tentativa de cancelamento de grupo VIP e impossibilidade de contato com o vendedor",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/tentativa-de-cancelamento-de-grupo-vip-e-impossibilidade-de-contato-com-o-vendedor_SkOpE6e5RhZv8KIr/",
-      "body": "Olá, fiz uma compra de um grupo vip no dia 20/08 e dia 23/08 tentei fazer o cancelamento, mas o vendedor ***** - operações nã...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Solicitação de cancelamento e estorno de produto digital não funciona e sem retorno do suporte.",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-cancelamento-e-estorno-de-produto-digital-nao-funciona-e-sem-retorno-do-suporte_LDD0-XXu7eI_a60s/",
-      "body": "Elaborei uma compra através da perfectpay de um produto digital, pois até recebi porém não funcionou para mim...conforme prom...",
-      "gateway": "Perfectpay"
-    },
-    {
-      "title": "Solicitação de reembolso por produto [Editado pelo Reclame Aqui] e falta de retorno",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/solicitacao-de-reembolso-por-produto-editado-pelo-reclame-aqui-e-falta-de-retorno_OqGGxodOjL1yKt7O/",
+      "title": "Reembolso negado e prazo expirado devido à burocracia da Perfect Pay",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reembolso-negado-e-prazo-expirado-devido-a-burocracia-da-perfect-pay_wFj48yi7DgllZO-Z/",
       "body": "",
       "gateway": "Perfectpay"
     },
     {
-      "title": "Reembolso solicitado por investigação de celular não recebida",
-      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/reembolso-solicitado-por-investigacao-de-celular-nao-recebida_MWMrHpCfOXvUXhuQ/",
+      "title": "Compra de aplicativo Stalkeia.ai [Editado pelo Reclame Aqui], com promessas não cumpridas e solicitação de pagamentos adicionais.",
+      "url": "https://www.reclameaqui.com.br/empresa/perfectpay/compra-de-aplicativo-editado-pelo-reclame-aqui-com-promessas-nao-cumpridas-e-solicitacao-de-pagamentos-adicionais_QBT9INmhnCqkBp0I/",
       "body": "",
       "gateway": "Perfectpay"
+    },
+    {
+      "title": "Comprei e não recebi",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/comprei-e-nao-recebi_RFvh0tgASpR_sRXS/",
+      "body": "Comprei um produto e não chegou e produtor não responde email",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Solicitação de cancelamento e reembolso de mentoria contratada.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-cancelamento-e-reembolso-de-mentoria-contratada_HtpjQowNP8y_JS1W/",
+      "body": "Solicitação de reembolso dentro dos 7 dias pagamento realizado pela CaktoRealizei no dia 02/09/2026 a contratação ...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Empresa não responde a tentativas de cancelamento de curso dentro do prazo legal.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/empresa-nao-responde-a-tentativas-de-cancelamento-de-curso-dentro-do-prazo-legal_BQa8PFKhJxOza_Hc/",
+      "body": "Fiz a compra de um curso e tentei cancelar no prazo dos 7 dias porém a empresa não deu retorno e continua a não responder nen...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Cakto impede reembolso legalmente garantido e produtor não atende solicitação.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/cakto-impede-reembolso-legalmente-garantido-e-produtor-nao-atende-solicitacao_5k1cLRWyvVyPpIsr/",
+      "body": "A cakto agora está [Editado pelo Reclame Aqui] o pedido de reembolso que é garantido por lei , o produtor não atende pedido d...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Solicitação de reembolso de curso devido à baixa qualidade do produto dentro do prazo de garantia.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-reembolso-de-curso-devido-a-baixa-qualidade-do-produto-dentro-do-prazo-de-garantia_kInIDbU006ng9Q7r/",
+      "body": "Fiz uma compra só que o curso não é muito raso não gostei da qualidade do produto por conta disso estou solitandi o reembolso...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Conta bloqueada e saldo retido por suspeita de irregularidade, sem resolução após 4 meses.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/conta-bloqueada-e-saldo-retido-por-suspeita-de-irregularidade-sem-resolucao-apos-4-meses_68Cy40AsWagqxXOu/",
+      "body": "sou produtor vendi o serviço na plataforma eles bloquearam minha conta com suspeita de algo de erradomandei tudo no...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Solicitação de reembolso e cancelamento de ferramenta mensal não atendida.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-reembolso-e-cancelamento-de-ferramenta-mensal-nao-atendida_JKUTAlaGbsCb8b_v/",
+      "body": "Eu paguei essa ferramenta mensal porém não gostei da ferramenta dentro dos sete dias eu pedi o reembolso por email e nenhum...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Compra de curso de yoga não recebida, link de reembolso inoperante e falta de contato do vendedor/suporte.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/compra-de-curso-de-yoga-nao-recebida-link-de-reembolso-inoperante-e-falta-de-contato-do-vendedorsuporte_zv5I8nnWtCj3LtbF/",
+      "body": "Prezados, esta manha fiz uma compra (+108 Posturas de Yoga Ilustradas, plano premium).Nao recebi o produto, recebi outra...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Comprei um curso em pdf",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/comprei-um-curso-em-pdf_hV3J7JdW5JWoQIRK/",
+      "body": "Fiz o pagamento de um curso mais não mandaram",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Planilha",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/planilha_J7_O_KT-MQieCRQs/",
+      "body": "Boa tarde eu fiz uma compra agora na da planilha da cacto porém para para acessar muito bem no celular que é somente no compu...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Codigo de reembolso nao funciona",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/codigo-de-reembolso-nao-funciona_PTLUpImHyVLqYtfr/",
+      "body": "Eu comprei um curso e desisti, eesolvi pedir o reemnolso so que o codigo de reembolso nao funciona",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Reembolso negado e falta de suporte para ferramenta de IA não funcional",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reembolso-negado-e-falta-de-suporte-para-ferramenta-de-ia-nao-funcional_k4Zr32LLud7_uMfl/",
+      "body": "Fiz uma compra de ferramenta inteligência artificial o acesso pelo cakto mas algumas das principais funções da ferramenta, co...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Não consigo atendimento",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/nao-consigo-atendimento_yvRKPyIBtT1JQJf0/",
+      "body": "Fiz uma compra de um curso na plataforma da cakto, no qual o produtor pede 7 dias apos a compra para ter acesso a alguns bene...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Produto não recebido e dificuldade no estorno após o prazo",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/produto-nao-recebido-e-dificuldade-no-estorno-apos-o-prazo_LeyuddbSvfvet-2j/",
+      "body": "Fiz uma compra, não chegou e quando fui pedir o estorno tinha passado o prazo. E o vendedor não deu satisfação nenhuma. É ...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Reclamação sobre plataforma Cakto com funções não operantes e dificuldade em obter reembolso.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reclamacao-sobre-plataforma-cakto-com-funcoes-nao-operantes-e-dificuldade-em-obter-reembolso_p3UOefQ_mssSwr3Q/",
+      "body": "Fiz a compra de uma plataforma pela cakto mas algumas das principais funções da plataforma, como o motion control, não está f...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Produto não instalado e suporte não responsivo após pagamento via PIX",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/produto-nao-instalado-e-suporte-nao-responsivo-apos-pagamento-via-pix_LICvq1Sxslwq4DNt/",
+      "body": "Comprei o produto INSTALADOR ROBÔ PRONTO 2.0, no dia 19/08/2026, pelo valor de R$ 497,00, com pagamento via PIX.O p...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Compra não concluída no cartão de crédito e cobrança indevida",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/compra-nao-concluida-no-cartao-de-credito-e-cobranca-indevida_V--Re8xCkZSrvUzu/",
+      "body": "Bom dia que eu fiz uma compra desse Bom dia que eu fiz o cartão de crédito só que aí não foi concluído até o final e apareceu...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "CNPJ adicionado sem consentimento e falha no atendimento ao cliente",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/cnpj-adicionado-sem-consentimento-e-falha-no-atendimento-ao-cliente_F_mwdc3gHRevJ9kT/",
+      "body": "Adicionam o CNPJ sem o consentimento do usuario!Sempre utilizava a conta da cackto como comprador, ate que resolvi ...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Reclamação sobre cancelamento e reembolso não processado pela Cakto para Hauntr.AI",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reclamacao-sobre-cancelamento-e-reembolso-nao-processado-pela-cakto-para_M1kjzEeuNIhxYz6E/",
+      "body": "No dia 14/08/2026, realizei através da plataforma Cakto a compra do produto/serviço Hauntr.AI Plano Starter, no valor de R$ ...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Dificuldade para cancelar assinatura e obter suporte",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/dificuldade-para-cancelar-assinatura-e-obter-suporte_RmhKTFeOBLOHcfTD/",
+      "body": "Título: Cobrança recorrente não cancelada e ausência de estorno mesmo após diversas solicitações. Estou abrindo esta reclamaç...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Problemas com contabilização de vendas e estorno de duplicatas na plataforma Cakto",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/problemas-com-contabilizacao-de-vendas-e-estorno-de-duplicatas-na-plataforma-cakto_flG4E4Fl5l_pEmac/",
+      "body": "Olá, equipe Cakto.Preciso de uma solução urgente para um problema que está prejudicando diretamente meu relacioname...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Recusa de reembolso de curso online pela plataforma Cakto após cancelamento dentro do prazo legal.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/recusa-de-reembolso-de-curso-online-pela-plataforma-cakto-apos-cancelamento-dentro-do-prazo-legal_VXkkkxIMJ0TxSAhL/",
+      "body": "Realizei a compra do curso DEALER & LEGACY pela plataforma Cakto no dia 21 de Agosto via Pix. Dentro do prazo legal de 7 dias...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Recebi cards de Filosofia em vez dos de Yoga comprados.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/recebi-cards-de-filosofia-em-vez-dos-de-yoga-comprados_whQaxZf_Jw05ZNba/",
+      "body": "Comprei os cards dos movimentos de Yoga, mas veio os de Filosofia.Meu email é *****",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Solicitação de cancelamento e estorno de assinatura renovada indevidamente.",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-cancelamento-e-estorno-de-assinatura-renovada-indevidamente_H-c1HH0jktrhM97b/",
+      "body": "Mandei e-mail dia 31/08 solicitando o cancelamento de uma assinatura de um produto que tinha previsão para renovar dia 05/09,...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Quero reembolso",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/quero-reembolso_yEgPrXGcITboqDjh/",
+      "body": "Fiz uma compra e não chegou a carta psicografada quero meu dinheiro de volta",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Reclamação sobre reembolso não efetuado pela Cakto para compra do Aplicativo Zyra",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reclamacao-sobre-reembolso-nao-efetuado-pela-cakto-para-compra-do-aplicativo-zyra_7RI_JXBqyUgkevEh/",
+      "body": "Fiz uma compra do Aplicativo Zyra, que inclusive já pude observar aqui no Reclame Aqui e nas Redes Sociais que é corriqueiro ...",
+      "gateway": "Cakto"
+    },
+    {
+      "title": "Cancelamento de assinatura do Grok comprada na Wubi Tech",
+      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/cancelamento-de-assinatura-do-grok-comprada-na-wubi-tech_g0lr8282I3x9UdKt/",
+      "body": "Comprei uma assinatura do Grok na empresa que se denomina Wubi Tech no dia 02 de setembro e hoje 03 de setembro foram cancela...",
+      "gateway": "Cakto"
     },
     {
       "title": "Fiz uma compra e não recebi acesso ao produto",
@@ -1353,168 +1515,6 @@
       "title": "Reclamação sobre produtos não condizentes com a oferta e falha na plataforma Cakto, com recusa de estorno.",
       "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reclamacao-sobre-produtos-nao-condizentes-com-a-oferta-e-falha-na-plataforma-cakto-com-recusa-de-estorno_lyMayq4sus8K-TN2/",
       "body": "Acabei comprando 2 produtos e infelizmente do mesmo produtor produtos não condiz com o que oferecem e um é créditos dentro da...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Reembolso não efetuado e falta de resposta da Catho e do produtor após compra de programa não funcional.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reembolso-nao-efetuado-e-falta-de-resposta-da-catho-e-do-produtor-apos-compra-de-programa-nao-funcional_2BTWhdCr7obnyw-X/",
-      "body": "Fiz uma compra online e o programa não funcionou durante dois dias comecei a enviar para o produtor e para empresa Catho o pe...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Material com erros e canais de atendimento inoperantes",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/material-com-erros-e-canais-de-atendimento-inoperantes_x15zAF75HHmDCv7r/",
-      "body": "Realizei a compra(pedido: *****) de um matérial, Atlas Visual da Elétrica, entretanto o material está cheio de erros e justam...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Cakto impede cadastro de cliente com CPF regularizado e oferece suporte demorado",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/cakto-impede-cadastro-de-cliente-com-cpf-regularizado-e-oferece-suporte-demorado_gSXbCps9-PwSlNiz/",
-      "body": "Estou registrando esta reclamação principalmente para deixar outros produtores cientes de uma limitação importante que encont...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "arrependimento",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/arrependimento_KOgsyPm5J1ZlPemc/",
-      "body": "eu fiz o cadastro com cakto mas o conteúdo e de qualidade duvidosa pois é encontrada fácil na net .",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Compra de mentoria não encontrada e falta de suporte da Cakto e do vendedor.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/compra-de-mentoria-nao-encontrada-e-falta-de-suporte-da-cakto-e-do-vendedor_Bt44ofl5iW09TC9d/",
-      "body": "fiz a compra de uma mentoria, e fui entrar la agora e não tem mais e eles nao ,e ajuda a resolver disse para entar em contato...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Comprei um produto, não recebi e não consigo pedir reembolso",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/comprei-um-produto-nao-recebi-e-nao-consigo-pedir-reembolso_kESf7mBZQ-lYpUvb/",
-      "body": "Dia 27/08/2026 comprei um produto chamado Fábrica Viral, não recebi o material no e-mail e o produtor não respondeu a minha t...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Reembolso negado e contato com o produtor indisponível após compra de produto com defeito",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reembolso-negado-e-contato-com-o-produtor-indisponivel-apos-compra-de-produto-com-defeito_JT9yPhOIhMRefinl/",
-      "body": "fiz a comprar de um produto , o produto não rodou no meu pc pedi o reembolso e mandaram falar com o produtor , mandei mensage...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Devolver assinatura",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/devolver-assinatura_n7ogb3-c-GXxsYH_/",
-      "body": "Fiz uma assinatura vitalícia na audiobook e na mesma hora pedi o cancelamento enviando dois e-mails isso no dia 21_08 os áudi...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Solicitação de cancelamento e estorno de programa de cura de zumbido",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-cancelamento-e-estorno-de-programa-de-cura-de-zumbido_T3cY3B6mIP4BEv_Y/",
-      "body": "Fiz uma compra por impulso,de um programa de cura do zumbido no ouvido e gostaria de cancelar e ter o extorno do valor pago p...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Vendedor não recebe dinheiro das vendas devido a análise de documentação demorada e suporte lento.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/vendedor-nao-recebe-dinheiro-das-vendas-devido-a-analise-de-documentacao-demorada-e-suporte-lento_oW_Ar32UzJWou7Co/",
-      "body": "A empresa libera o cadastro você começa a vender e não recebe porque eles pedem a documentação até aí ok a gente envia a docu...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Usuário não consegue acessar curso online Cakto, com suporte ineficaz e atendimento apenas por IA.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/usuario-nao-consegue-acessar-curso-online-cakto-com-suporte-ineficaz-e-atendimento-apenas-por-ia_xDQNRL8GUsuxmEsF/",
-      "body": "comprei um curso que está hospedado no site dessa empresa Cakto E não consigo acessar Apesar dele estar na página de meu curs...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Erro ao acessar livro digital de macramê comprado via Pix, com mensagem de token inválido.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/erro-ao-acessar-livro-digital-de-macrame-comprado-via-pix-com-mensagem-de-token-invalido_MVEYCodphEJ69zx8/",
-      "body": "Fiz uma compra de um livro de macrame em paguei com Pix. Enviaram um código para entrar, mas não consigo. Vem uma mensagem de...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Empresa não resolve cancelamento/reembolso e não intervém na situação",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/empresa-nao-resolve-cancelamentoreembolso-e-nao-intervem-na-situacao_9tJ1cPoKxiMdK6tR/",
-      "body": "Fiz uma compra pela empresa onde diz que tenho 7 dia para solicitar o cancelamento/reembolso de forma prática e ao solicitar ...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Produto não entregue e criador não responde, solicito reembolso",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/produto-nao-entregue-e-criador-nao-responde-solicito-reembolso_605Q8ntQ-aQlegi3/",
-      "body": "**Produto não entregue e criador não responde solicito reembolso**Realizei a compra de um produto da Vavá Aca...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Cliente não recebeu 40 aulas de sax compradas e aguarda resposta.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/cliente-nao-recebeu-40-aulas-de-sax-compradas-e-aguarda-resposta_fBZEtf5fmZILU-m4/",
-      "body": "fiz compras de 40 aulas de sax, e não recebi.celular *****email *****casao não receba vou denuciar, aguar...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Reembolso negado por falta de saldo do produtor na plataforma Cakto, apesar de solicitação dentro do prazo.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reembolso-negado-por-falta-de-saldo-do-produtor-na-plataforma-cakto-apesar-de-solicitacao-dentro-do-prazo_387A3HmFDomhHErm/",
-      "body": "REEMBOLSO SOLICITADO DENTRO DO PRAZO, MAS Cakto IMPEDE A DEVOLUÇÃO POR FALTA DE SALDO DO PRODUTORRealizei a compra ...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "[Editado pelo Reclame Aqui] em compra de produto digital processada pela Cakto, com [Editado pelo Reclame Aqui] e não entrega.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/editado-pelo-reclame-aqui-em-compra-de-produto-digital-processada-pela-cakto-com-editado-pelo-reclame-aqui-e-nao-entrega_HJtQooCkVBEfTtMB/",
-      "body": "Olá, equipe da Cakto.Estou registrando esta reclamação pois fui vítima de um [Editado pelo Reclame Aqui] e venho alertar...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Exijo reembolso  serviço não funciona e suporte não responde",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/exijo-reembolso-servico-nao-funciona-e-suporte-nao-responde_OPi-rimJXtkjo2yB/",
-      "body": "Assinei um plano da Converza.io, porém não consigo sequer criar um dispositivo para utilizar o bot de mensagens que deveria e...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Solicitação de reembolso de compra com erro de saldo na conta do vendedor",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-reembolso-de-compra-com-erro-de-saldo-na-conta-do-vendedor_e5d-tH3gUGahNktM/",
-      "body": "Olá,Solicito o reembolso da compra da COMUNIDADE VSA, realizada em 28/08/2026, no valor de R$ 248,89.Esto...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "[Editado pelo Reclame Aqui] e solicitação de estorno para produto &quot;Retrato da Sua Alma Gêmea&quot;",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/editado-pelo-reclame-aqui-e-solicitacao-de-estorno-para-produto-retrato-da-sua-alma-gemea_H8ihRLGIEQMZ9WSb/",
-      "body": "Olá, equipe da Cakto Pay,No dia 28/08/2026, realizei a compra do produto &quot;Retrato da Sua Alma Gêmea&quot; (Código do Ped...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Solicitação de cancelamento e reembolso de cursos online após arrependimento de compra.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-cancelamento-e-reembolso-de-cursos-online-apos-arrependimento-de-compra_-CZPnDHntp_r19_O/",
-      "body": "Me chamo *****, solicito o cancelamento e reembolso do valor desses cursos que comprei e me arrependi da compra, estou no pra...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Solicitação de reembolso para compras não especificadas",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/solicitacao-de-reembolso-para-compras-nao-especificadas_1wMytujsEitcfPfF/",
-      "body": "Fiz uma compra mas não estou conseguindo reembolsar esse foi o codigo da compra, peço por gentiliza que estorne o valor pago:...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Pagamento via PIX não resultou na entrega do produto, solicitação de reembolso por possível [Editado pelo Reclame Aqui].",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/pagamento-via-pix-nao-resultou-na-entrega-do-produto-solicitacao-de-reembolso-por-possivel-editado-pelo-reclame-aqui_cbUdm8Fq5-5oanwH/",
-      "body": "Fiz o pgto via PIX para a empresa seguro-vidasaudavel.site através da Cakto Pay, porém não me foi fornecido o produto comprad...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Curso online não entregue após pagamento, com falha na comunicação e solicitação de estorno.",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/curso-online-nao-entregue-apos-pagamento-com-falha-na-comunicacao-e-solicitacao-de-estorno_-bekag5hY78F-1mM/",
-      "body": "Fiz uma compra de curso online, pgn no Instagran que se chama Amigurumi Brasil, pgn com mais de 1.5 k de seguidores, e até ho...",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Site fusion insatisfação",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/site-fusion-insatisfacao_9b2b2R-0ZgLQS180/",
-      "body": "Insatisfação não quero mais estou dentro dos prazos do consumidor",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Reembolso",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reembolso_Ou6F1k9zy_0W3ATN/",
-      "body": "Fiz uma compra na loja e quero reembolsar meu produto mas até agora não fui atendido",
-      "gateway": "Cakto"
-    },
-    {
-      "title": "Reembolso negado e produtor indisponível para consultoria contratada",
-      "url": "https://www.reclameaqui.com.br/empresa/cakto-pay/reembolso-negado-e-produtor-indisponivel-para-consultoria-contratada_1JR4bg_J5EeujSt_/",
-      "body": "Data da compra 22/05/2026, pedido: ***** no valor R$ 600,99, Consultoria accenture. Fiz o pedido do reembolso pela plataforma...",
       "gateway": "Cakto"
     }
   ]

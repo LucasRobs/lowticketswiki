@@ -1,5 +1,5 @@
 {
-  "data_varredura": "2026-09-03",
+  "data_varredura": "2026-09-04",
   "gateways": [
     {
       "nome": "PerfectPay",
@@ -36,8 +36,8 @@
         "score_ajustado": 70
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -87,8 +87,8 @@
       },
       "angulos_detectados": [
         "novidade",
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -132,11 +132,11 @@
         "score_ajustado": 15
       },
       "angulos_detectados": [
-        "medo_perda_dinheiro",
-        "autoridade",
         "confiança_quebrada",
+        "facilidade",
         "novidade",
-        "facilidade"
+        "medo_perda_dinheiro",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -178,8 +178,8 @@
         "score_ajustado": 11
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
-        "facilidade_tecnologica"
+        "facilidade_tecnologica",
+        "ganância_renda_extra"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -223,8 +223,8 @@
         "score_ajustado": 8
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -268,8 +268,8 @@
       },
       "angulos_detectados": [
         "prova_social",
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -357,8 +357,8 @@
       },
       "angulos_detectados": [
         "novidade",
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -402,9 +402,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -446,9 +446,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -533,9 +533,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -577,8 +577,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "prova_social",
+        "ganância_renda_extra",
         "autoridade"
       ],
       "cloaker_suspeito": false,
@@ -621,9 +621,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -665,9 +665,9 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -710,8 +710,8 @@
       },
       "angulos_detectados": [
         "prova_social",
-        "autoridade",
-        "facilidade"
+        "facilidade",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -756,8 +756,8 @@
       },
       "angulos_detectados": [
         "curiosidade",
-        "vaidade",
-        "novidade"
+        "novidade",
+        "vaidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -844,8 +844,8 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -887,9 +887,269 @@
         "score_ajustado": 7
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "digital ApexShop Vital",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Streaming e entretenimento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 179,90,",
+      "termo_busca": "digital apexshop vital",
+      "descricao": "Realizei em 24/08/2026 a compra do produto digital ApexShop Vitalício, no valor de R$ 179,90, por meio da plataforma Perfect Pay. Logo após a contratação, solicitei formalmente o cancelamento da compra e a restituição integral do valor pago, dentro do prazo informado e previsto para o direito de arrependimento. Ao entrar em contato com a Perfect Pay, fui orientada a procurar diretamente o suporte do produto e, caso não recebesse resposta em até 2 dias úteis, deveria encaminhar os comprovantes da",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/perfect-pay-nao-resolve-cancelamento-e-reembolso-repetindo-orientacoes_zJl8k8FgpoKAMXba/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "facilidade",
+        "ganância_acesso_vitalicio"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 179",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "um usu",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "um usu",
+      "descricao": "Fiz uma compra de um usuário da aplicação e não recebi o que estava sendo anunciado e pedir reembolso e enviei vários e-mails e sempre dando uma desculpa e não fez o reembolso mandando entrar em contato com o vendedor e ao entrar em contato o e-mail do vendedor não funciona e não tem telefone pra contato sendo assim a perfectpay fica enrolando pra fazer o [Editado pelo Reclame Aqui] RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-produto-nao-recebido-e-dificuldade-de-reembolso-na-perfect-pay_zlFPokdZpRPcKoYM/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "e ao entrar em contato o e",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "PerfectPay"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "digital ap",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 88,19,",
+      "termo_busca": "digital ap",
+      "descricao": "Realizei a compra do produto +600 Horas de Roteiros Prontos para Live Shop, no dia 19/08/2026, pelo valor de R$ 88,19, pago via PIX. Após a compra, decidi não continuar com o produto e solicitei o cancelamento da compra e o reembolso do valor pago. No dia 24/08/2026, enviei uma solicitação por escrito pedindo formalmente o cancelamento e o reembolso, informando os dados da compra e o número do pedido. Até o momento, porém, não obtive uma solução para o meu pedido. Também tive dificuldades para e",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cliente-solicita-cancelamento-e-reembolso-de-produto-digital-apos-dificuldades-de-contato-e-falta-de-solucao_iqfFFkNKnKahBQk5/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": true,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 88",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "no dia",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Espionagem e rastreamento",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 86,80",
+      "termo_busca": "no dia",
+      "descricao": "Comprei um produto no dia **26/08** e, no mesmo dia, solicitei o reembolso, pois o produto recebido não correspondia ao que era prometido na oferta. Ao entrar em contato com a **Cakto**, fui informado de que o reembolso deveria ser solicitado diretamente ao produtor. Tentei contato com o produtor durante **3 dias**, mas não obtive nenhum retorno. No dia **29/08**, entrei novamente em contato com um atendente da Cakto pelo WhatsApp, porém também não tive retorno. Fiz uma nova tentativa de contato",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso-de-produto-nao-correspondente-a-oferta-apos-8-dias-de-tentativas-de-contato-sem-sucesso_vgLnIAw9NhALvEvt/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
+        "medo_traiçao"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "durante",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 86",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "incompleto dentro do prazo de 7 dias. N",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "incompleto dentro do prazo de 7 dias. n",
+      "descricao": "Fiz uma compra na caktos mais o produto veio incompleto pedi o reembolso dentro do 7 dias ..eles nao fizeram o reembolso. RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/reembolso-nao-realizado-apos-devolucao-de-produto-incompleto-dentro-do-prazo-de-7-dias_ESBgjxHcHH6maS_a/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
+      ],
+      "cloaker_suspeito": false,
+      "produtor": {
+        "nome": "desconhecido",
+        "cnpj": "",
+        "outras_ofertas": [],
+        "gateways_historico": [
+          "Cakto"
+        ],
+        "portfolio_size_est": "1-2 ofertas ativas"
+      },
+      "funil_estimado": {
+        "front": "R$ 27-97",
+        "order_bump": "",
+        "upsell_1": "",
+        "upsell_2": "",
+        "recorrencia": ""
+      },
+      "acao_recomendada": "DESCARTAR"
+    },
+    {
+      "produto": "para poder solicitar o cancelamento",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "Infoprodutos - suporte e reembolso",
+      "score_final": 7,
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "para poder solicitar o cancelamento",
+      "descricao": "Fiz a compra de uma assinatura online, porém o serviço não me atendeu, eu solicitei o cancelamento dentro do prazo de 7 dias por e-mail no suporte da empresa, porém até hoje não tive o retorno sobre o cancelamento do pedido. Solicito o cancelamento e estorno eu valor. A empresa não tem nenhum campo no site deles ou do produto para poder solicitar o cancelamento, somente por e-mail, quando enviamos um e-mail só vem resposta automática, aguardo previdências. RA Ads",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-cancelamento-e-estorno-de-assinatura-online-nao-respondida-pelo-suporte_t696AVuN0Vj7PGWm/",
+      "validacao_ad_library": {
+        "ad_count": 0,
+        "dias_rodando_max": 0,
+        "criativos_unicos": 0,
+        "paises": [],
+        "fontes_trafego": [],
+        "score_ajustado": 7
+      },
+      "angulos_detectados": [
+        "medo_perda_dinheiro",
+        "confiança_quebrada"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -932,8 +1192,8 @@
       },
       "angulos_detectados": [
         "prova_social",
-        "autoridade",
-        "facilidade"
+        "facilidade",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1020,9 +1280,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1227,9 +1487,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1271,9 +1531,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "vaidade",
         "prova_social",
-        "facilidade"
+        "facilidade",
+        "vaidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1315,9 +1575,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
+        "facilidade",
         "novidade",
-        "facilidade"
+        "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1359,8 +1619,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": true,
@@ -1443,8 +1703,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1530,8 +1790,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1574,8 +1834,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1790,9 +2050,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1834,8 +2094,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -1878,8 +2138,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -1964,9 +2224,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2008,9 +2268,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2052,8 +2312,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -2268,9 +2528,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2355,8 +2615,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2398,9 +2658,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2485,9 +2745,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2698,9 +2958,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2742,9 +3002,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "necessidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2788,8 +3048,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2831,9 +3091,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "recorrência",
-        "facilidade"
+        "facilidade",
+        "ganância_renda_extra"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2920,9 +3180,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -2964,9 +3224,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3008,8 +3268,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3051,9 +3311,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3095,9 +3355,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3182,9 +3442,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3312,9 +3572,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3399,9 +3659,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3486,9 +3746,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3570,9 +3830,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3657,9 +3917,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3788,8 +4048,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_renda_extra",
         "prova_social",
+        "ganância_renda_extra",
         "autoridade"
       ],
       "cloaker_suspeito": false,
@@ -3832,9 +4092,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -3876,8 +4136,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "facilidade_tecnologica",
         "curiosidade_voyeurismo",
+        "facilidade_tecnologica",
         "medo_traiçao"
       ],
       "cloaker_suspeito": false,
@@ -3920,8 +4180,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "ganância_acesso_vitalicio",
-        "facilidade"
+        "facilidade",
+        "ganância_acesso_vitalicio"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4003,8 +4263,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
-        "ganância_carreira"
+        "ganância_carreira",
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4132,9 +4392,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4262,9 +4522,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4349,8 +4609,8 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade_cientifica",
         "medo",
+        "autoridade_cientifica",
         "esperança"
       ],
       "cloaker_suspeito": false,
@@ -4481,9 +4741,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "autoridade",
+        "ganância_escala",
         "facilidade_tecnologica",
-        "ganância_escala"
+        "autoridade"
       ],
       "cloaker_suspeito": true,
       "produtor": {
@@ -4527,9 +4787,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
+        "facilidade",
         "novidade",
-        "autoridade",
-        "facilidade"
+        "autoridade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
@@ -4571,9 +4831,9 @@
         "score_ajustado": 4
       },
       "angulos_detectados": [
-        "vaidade",
         "prova_social",
-        "facilidade"
+        "facilidade",
+        "vaidade"
       ],
       "cloaker_suspeito": false,
       "produtor": {
