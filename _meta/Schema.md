@@ -224,3 +224,28 @@ Lista completa atualizada para os tres campos:
 `perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
 `hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` ·
 `stripe` · `clickbank` · `whatsapp` · `proprio` · `desconhecido`
+
+---
+
+## Adendo — `onprofit` entra no vocabulario de gateway (2026-09-06)
+
+Rodada de danca (ver [[2026-09-06]]). [[dicionario-em-movimento]] cobra em
+`pay.onprofit.com.br` — gateway real, ausente das duas listas anteriores. Nao confundir com
+`proprio`: ha intermediario, ele so nao estava catalogado.
+
+Lista completa atualizada para `checkout`, `gateways_detectados` e `ra_plataformas`:
+
+`perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
+`hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` · `onprofit` ·
+`stripe` · `clickbank` · `whatsapp` · `proprio` · `desconhecido`
+
+### Nota de campo — `bump_oculto` finalmente teve para que servir
+
+O campo existe no schema desde 22/08 e nunca tinha sido `true` em nenhuma nota, porque o
+unFunnelizer nunca rodou. [[cantigas-da-bailarina]] e o primeiro `bump_oculto: true` do vault, e
+foi capturado **sem unFunnelizer**: bastou abrir o link do checkout que a LP aponta e ler a
+pagina. Sete bumps que a LP nao menciona.
+
+**Procedimento barato, para a Etapa 2 quando o unFunnelizer estiver fora:** extrair o href do
+botao de compra da LP, abrir o checkout no navegador interno e ler o texto. Order bump aparece
+ali; upsell e downsell nao (sao pos-pagamento). Cobre metade da Etapa 2 com uma requisicao.
