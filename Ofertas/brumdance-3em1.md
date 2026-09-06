@@ -61,6 +61,15 @@ pronta) -> R$ 67 (vocabulario de movimento) -> R$ 40/mes ou R$ 397 (formacao tec
 delas compete com a outra; sao estagios do mesmo comprador. E o mapa de backend mais completo
 que a varredura devolveu, e esta escrito na leitura de [[angulo-material-pronto-para-quem-ensina-danca]].
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Brumdance**
+Pagina de vendas: <https://brumdance.com.br/3em1>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1971523880902568](https://www.facebook.com/ads/library/?id=1971523880902568) | 07/08/2026 |  |
+
 ## Historico
 
 ```base

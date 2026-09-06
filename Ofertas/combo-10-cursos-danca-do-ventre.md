@@ -68,6 +68,16 @@ Isso muda a leitura do `dias_no_ar`: os 584 dias provam que a operacao paga, mas
 ticket do nicho de danca**: mostra que o comprador de danca do ventre paga R$ 247, o que enquadra
 [[portal-shakti-club]] (R$ 97/mes) e sugere que o teto do sub-nicho nao e R$ 19,90.
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Patricia Cavalcante** — `facebook.com/patriciacavalcantedv`
+Pagina de vendas: <https://patriciacavalcante.com.br/combo-10-cursos-de-danca-do-ventre>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [917257397128811](https://www.facebook.com/ads/library/?id=917257397128811) | 30/01/2025 | 584 dias |
+| [1023550673675761](https://www.facebook.com/ads/library/?id=1023550673675761) | 29/05/2026 |  |
+
 ## Historico
 
 ```base

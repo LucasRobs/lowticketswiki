@@ -102,6 +102,16 @@ pedagogico.
   nao um julgamento sobre a oferta. Reavaliar em 3 rodadas.
 - **Reclame Aqui:** nao consultado a pedido (rodada restrita a Biblioteca de Anuncios).
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Coreografias Gospel** — `facebook.com/61592520222253`
+Pagina de vendas: <https://dancalouvor.com>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1056884877074087](https://www.facebook.com/ads/library/?id=1056884877074087) | 02/09/2026 |  |
+| [1442748831032425](https://www.facebook.com/ads/library/?id=1442748831032425) | 04/09/2026 |  |
+
 ## Historico
 
 ```base

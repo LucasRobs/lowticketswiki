@@ -86,6 +86,23 @@ inferido.
 Nao ha versao PDF disso: o produto **e** o video. Quem quiser este comprador entra por outro
 produto — ver a leitura da rodada em [[2026-09-06 -- shortlist-danca]].
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Danca dos Noivos** — `facebook.com/dancadosnoivoscuritiba`
+Pagina de vendas: <https://dancadosnoivosonline.com>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1709135547148649](https://www.facebook.com/ads/library/?id=1709135547148649) | 15/04/2025 | 509 dias |
+| [663145749976219](https://www.facebook.com/ads/library/?id=663145749976219) | 15/04/2025 | 509 dias |
+| [1428634915161518](https://www.facebook.com/ads/library/?id=1428634915161518) | 15/04/2025 | 509 dias |
+| [1352349473058400](https://www.facebook.com/ads/library/?id=1352349473058400) | 07/11/2025 |  |
+| [863407529970391](https://www.facebook.com/ads/library/?id=863407529970391) | 11/12/2025 |  |
+| [1435118811624847](https://www.facebook.com/ads/library/?id=1435118811624847) | 08/02/2026 |  |
+| [1777067386338991](https://www.facebook.com/ads/library/?id=1777067386338991) | 01/07/2026 |  |
+| [1080066974349178](https://www.facebook.com/ads/library/?id=1080066974349178) | 22/07/2026 |  |
+| [1536715551263941](https://www.facebook.com/ads/library/?id=1536715551263941) | 22/07/2026 |  |
+
 ## Historico
 
 ```base

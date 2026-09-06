@@ -107,6 +107,25 @@ promessa com uma fracao do esforco.
 - **`s_lucro: 4`** — 9 dias no ar cai na faixa 7-20. O volume de criativo puxaria para cima, mas
   a faixa 7-8 exige `criativos_delta` positivo por rodadas, e esta e a primeira. Sem inventar.
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Ballerina Lab** — `facebook.com/61578468452976`
+Pagina de vendas: <https://ballerinalab.com.br/cantigas-da-bailarina>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1788079548857559](https://www.facebook.com/ads/library/?id=1788079548857559) | 28/08/2026 | 2 anuncios usam esse criativo |
+| [2263316144514045](https://www.facebook.com/ads/library/?id=2263316144514045) | 28/08/2026 | 2 anuncios |
+| [1609143730696444](https://www.facebook.com/ads/library/?id=1609143730696444) | 28/08/2026 | 2 anuncios |
+| [1896609284648902](https://www.facebook.com/ads/library/?id=1896609284648902) | 28/08/2026 | 2 anuncios |
+| [941791291734829](https://www.facebook.com/ads/library/?id=941791291734829) | 31/08/2026 | 2 anuncios |
+| [1244590731133551](https://www.facebook.com/ads/library/?id=1244590731133551) | 31/08/2026 | 2 anuncios |
+| [1588414766277941](https://www.facebook.com/ads/library/?id=1588414766277941) | 31/08/2026 | 2 anuncios |
+| [3969590060015031](https://www.facebook.com/ads/library/?id=3969590060015031) | 01/09/2026 | 2 anuncios |
+| [3469711586522153](https://www.facebook.com/ads/library/?id=3469711586522153) | 01/09/2026 | 2 anuncios |
+| [1808375023485352](https://www.facebook.com/ads/library/?id=1808375023485352) | 01/09/2026 | 2 anuncios |
+| [2501108650313455](https://www.facebook.com/ads/library/?id=2501108650313455) | 02/09/2026 | 2 anuncios |
+
 ## Historico
 
 ```base

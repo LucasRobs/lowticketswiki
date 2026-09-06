@@ -80,6 +80,17 @@ MEC" para formacao de professores de Jazz). Nao copiar essa parte.
 - **Medido:** preco, ancora, bonus, gateway, certificado, `dias_no_ar: 10`, 3 criativos.
 - **Declarado, nao medido:** "+2.000 alunos satisfeitos", "4,9 de 5".
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Galera da EdFisica** — `facebook.com/galera.edfisica`
+Pagina de vendas: <https://galeraindica.com.br/ritmado>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1431162878924047](https://www.facebook.com/ads/library/?id=1431162878924047) | 27/08/2026 |  |
+| [2319243438820750](https://www.facebook.com/ads/library/?id=2319243438820750) | 27/08/2026 |  |
+| [2037174746939931](https://www.facebook.com/ads/library/?id=2037174746939931) | 27/08/2026 |  |
+
 ## Historico
 
 ```base

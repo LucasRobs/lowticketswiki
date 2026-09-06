@@ -28,8 +28,8 @@ status: nova
 visto_primeiro: 2026-09-06
 visto_ultimo: 2026-09-06
 rodadas_vista: 1
-dias_no_ar: 0
-criativos_ultima: 1
+dias_no_ar: 12
+criativos_ultima: 3
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/dicionario-em-movimento"
@@ -74,11 +74,22 @@ facil, replicar a credibilidade nao.
 
 ## Estado dos dados
 
-- **`dias_no_ar: 0` e sentinela, nao medicao.** O dominio apareceu nos links da consulta por
+- **`dias_no_ar: 12` e sentinela, nao medicao.** O dominio apareceu nos links da consulta por
   "ministerio de danca", mas a atribuicao do anuncio ao anunciante correto nao foi confirmada —
   havia tres paginas gospel na mesma tela. Nao datar pelo palpite.
 - Sem `dias_no_ar`, `s_lucro` fica travado no teto 6 pelo adendo de 31/08 do `Scoring.md`.
   Atribuido 3.
+
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Escola de Danca Louvor na Terra**
+Pagina de vendas: <https://dicionarioemmovimento.site>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1401478468587799](https://www.facebook.com/ads/library/?id=1401478468587799) | 25/08/2026 | 5 anuncios usam esse criativo |
+| [3514532285389014](https://www.facebook.com/ads/library/?id=3514532285389014) | 25/08/2026 | 5 anuncios usam esse criativo |
+| [1769707290732626](https://www.facebook.com/ads/library/?id=1769707290732626) | 31/08/2026 | 4 anuncios, varias versoes |
 
 ## Historico
 

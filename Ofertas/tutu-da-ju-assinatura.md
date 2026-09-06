@@ -61,6 +61,15 @@ Nao e um produto, e um emprego. Fica no vault como referencia de **teto de model
 mostra que existe recorrencia de R$ 50 sustentavel em danca, o que e insumo para pensar o backend
 das ofertas de R$ 19,90 — ver [[angulo-material-pronto-para-quem-ensina-danca]].
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Tutu da Ju** — `facebook.com/tutudaju`
+Pagina de vendas: <https://conteudos.tutudaju.com/assinatura-de-aulas-tutu-da-ju>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1354322349865514](https://www.facebook.com/ads/library/?id=1354322349865514) | 22/04/2026 | 137 dias |
+
 ## Historico
 
 ```base

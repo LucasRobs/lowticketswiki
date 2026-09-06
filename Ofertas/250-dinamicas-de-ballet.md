@@ -89,6 +89,16 @@ nenhum video. O funil inteiro cabe num fim de semana.
 Com o mesmo CPA, [[cantigas-da-bailarina]] fatura tres vezes mais por comprador — a diferenca nao
 esta no produto, esta no checkout.
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Material da Prof**
+Pagina de vendas: <https://dinamicadeballet.netlify.app>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1388203450084932](https://www.facebook.com/ads/library/?id=1388203450084932) | 28/08/2026 |  |
+| [1326870229520439](https://www.facebook.com/ads/library/?id=1326870229520439) | 28/08/2026 |  |
+
 ## Historico
 
 ```base

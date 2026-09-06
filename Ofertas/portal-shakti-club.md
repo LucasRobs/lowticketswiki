@@ -56,6 +56,17 @@ medido nesta rodada** — e o mais dependente de autoridade pessoal, o que trava
 
 Registrado como referencia de precificacao, nao como candidata.
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **Luma Shakti Studio Online** — `facebook.com/shaktistudioonline`
+Pagina de vendas: <https://shaktistudioonline.com/portal-shakti-club>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1481713799929612](https://www.facebook.com/ads/library/?id=1481713799929612) | 17/06/2026 | 81 dias |
+| [1435958288287540](https://www.facebook.com/ads/library/?id=1435958288287540) | 22/06/2026 |  |
+| [1622766862154166](https://www.facebook.com/ads/library/?id=1622766862154166) | 22/06/2026 |  |
+
 ## Historico
 
 ```base

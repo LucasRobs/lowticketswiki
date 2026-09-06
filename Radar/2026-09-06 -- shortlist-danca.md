@@ -24,8 +24,8 @@ anuncios ativos. Reclame Aqui nao foi consultado.
 
 | Grupo | Ofertas | `s_replica` medio | Entrega |
 |---|---|---|---|
-| Mais de 80 dias no ar | 5 | **2,6** | video filmado, com rosto |
-| Dez dias ou menos | 4 | **8,25** | PDF |
+| Mais de 80 dias no ar | 4 | **2,5** | video filmado, com rosto |
+| Doze dias ou menos | 5 | **8,0** | PDF |
 
 Isso nao e ruido de amostra pequena — e mecanica do nicho. Uma oferta de danca que aguenta
 quinhentos dias de verba aguenta porque tem cem coreografias filmadas de dois angulos e um
@@ -130,10 +130,14 @@ R$ 247, dez cursos, Hotmart. Dois criativos so — porque nao esta comprando fri
 210 mil inscritos no YouTube e 463 mil no Facebook. Os 584 dias provam que a operacao paga; nao
 provam que o anuncio e o motor. Um replicador sem audiencia nao herda isso.
 
-### [[forro-do-zero-pe-descalco]] — 236 dias no ar
-R$ 297, escola presencial de BH que digitalizou o metodo. Junto com [[forrozeiro-do-zero]] (quiz,
-8 dias) e Bia Forro (R$ 57,90, 69 dias) fecha a leitura do sub-nicho: **o forro nao tem camada de
-R$ 19,90.** Quem compra forro quer dancar, e isso obriga video. Nao ha atalho de PDF ali.
+### [[forro-do-zero-pe-descalco]] — idade **nao atribuida** (corrigido)
+R$ 297, escola presencial de BH que digitalizou o metodo. A primeira versao desta shortlist deu
+236 dias no ar; ao abrir os anuncios, os tres criativos ativos da pagina sao **presenciais** e
+nenhum aponta para a LP digital. Ver a correcao em [[2026-09-06]]. Score caiu para 4,85.
+
+Ainda assim a leitura do sub-nicho se sustenta: com [[forrozeiro-do-zero]] (quiz, 8 dias) e
+Bia Forro (R$ 57,90, 69 dias), **o forro nao tem camada de R$ 19,90.** Quem compra forro quer
+dancar, e isso obriga video. Nao ha atalho de PDF ali.
 
 ---
 
@@ -151,6 +155,102 @@ separadamente. Quem montar as tres camadas sob um funil so paga um CPA e captura
 
 E o mesmo tipo de vao que a shortlist de 31/08 achou em caligrafia (seis operadores, nenhum com
 bump). A diferenca e que aqui o backend ja existe pronto no mercado — falta so alguem juntar.
+
+---
+
+## Todos os links — paginas de vendas e criativos
+
+Cada criativo abre direto na Biblioteca de Anuncios.
+
+### Tier 1 — replicaveis
+
+**[[cantigas-da-bailarina]]** · Ballerina Lab · <https://ballerinalab.com.br/cantigas-da-bailarina>
+· checkout <https://ggcheckout.app/checkout/v5/nwDYkQaJ5TWbh1aTUmp0>
+· pagina `facebook.com/61578468452976`
+[1788079548857559](https://www.facebook.com/ads/library/?id=1788079548857559) ·
+[2263316144514045](https://www.facebook.com/ads/library/?id=2263316144514045) ·
+[1609143730696444](https://www.facebook.com/ads/library/?id=1609143730696444) ·
+[1896609284648902](https://www.facebook.com/ads/library/?id=1896609284648902) ·
+[941791291734829](https://www.facebook.com/ads/library/?id=941791291734829) ·
+[1244590731133551](https://www.facebook.com/ads/library/?id=1244590731133551) ·
+[1588414766277941](https://www.facebook.com/ads/library/?id=1588414766277941) ·
+[3969590060015031](https://www.facebook.com/ads/library/?id=3969590060015031) ·
+[3469711586522153](https://www.facebook.com/ads/library/?id=3469711586522153) ·
+[1808375023485352](https://www.facebook.com/ads/library/?id=1808375023485352) ·
+[2501108650313455](https://www.facebook.com/ads/library/?id=2501108650313455)
+
+**[[movimentos-de-adoracao]]** · Coreografias Gospel · <https://dancalouvor.com/>
+(dominio exibido no anuncio: `coreografiasprontas.com`) · checkout <https://pay.kiwify.com.br/g8tGHxE>
+· pagina `facebook.com/61592520222253`
+[1056884877074087](https://www.facebook.com/ads/library/?id=1056884877074087) ·
+[1442748831032425](https://www.facebook.com/ads/library/?id=1442748831032425)
+
+**[[aerobico-ritmado]]** · Galera da EdFisica · <https://galeraindica.com.br/ritmado/>
+· pagina `facebook.com/galera.edfisica`
+[1431162878924047](https://www.facebook.com/ads/library/?id=1431162878924047) ·
+[2319243438820750](https://www.facebook.com/ads/library/?id=2319243438820750) ·
+[2037174746939931](https://www.facebook.com/ads/library/?id=2037174746939931)
+
+**[[250-dinamicas-de-ballet]]** · Material da Prof · <https://dinamicadeballet.netlify.app/>
+· checkout `checkout.payt.com.br`
+[1388203450084932](https://www.facebook.com/ads/library/?id=1388203450084932) ·
+[1326870229520439](https://www.facebook.com/ads/library/?id=1326870229520439)
+
+**[[dicionario-em-movimento]]** · Escola de Danca Louvor na Terra · <https://dicionarioemmovimento.site/>
+· checkout `pay.onprofit.com.br`
+[1401478468587799](https://www.facebook.com/ads/library/?id=1401478468587799) ·
+[3514532285389014](https://www.facebook.com/ads/library/?id=3514532285389014) ·
+[1769707290732626](https://www.facebook.com/ads/library/?id=1769707290732626)
+
+### Tier 2 — prova de faturamento
+
+**[[danca-dos-noivos-online]]** · <https://dancadosnoivosonline.com/> · pagina `facebook.com/dancadosnoivoscuritiba`
+[1709135547148649](https://www.facebook.com/ads/library/?id=1709135547148649) *(15/04/2025)* ·
+[663145749976219](https://www.facebook.com/ads/library/?id=663145749976219) *(15/04/2025)* ·
+[1428634915161518](https://www.facebook.com/ads/library/?id=1428634915161518) *(15/04/2025)* ·
+[1352349473058400](https://www.facebook.com/ads/library/?id=1352349473058400) ·
+[863407529970391](https://www.facebook.com/ads/library/?id=863407529970391) ·
+[1435118811624847](https://www.facebook.com/ads/library/?id=1435118811624847) ·
+[1777067386338991](https://www.facebook.com/ads/library/?id=1777067386338991) ·
+[1080066974349178](https://www.facebook.com/ads/library/?id=1080066974349178) ·
+[1536715551263941](https://www.facebook.com/ads/library/?id=1536715551263941)
+
+**[[combo-10-cursos-danca-do-ventre]]** · <https://patriciacavalcante.com.br/combo-10-cursos-de-danca-do-ventre>
+[917257397128811](https://www.facebook.com/ads/library/?id=917257397128811) *(30/01/2025)* ·
+[1023550673675761](https://www.facebook.com/ads/library/?id=1023550673675761)
+
+**[[tutu-da-ju-assinatura]]** · <https://conteudos.tutudaju.com/assinatura-de-aulas-tutu-da-ju>
+[1354322349865514](https://www.facebook.com/ads/library/?id=1354322349865514) *(22/04/2026)*
+
+**[[portal-shakti-club]]** · <https://shaktistudioonline.com/portal-shakti-club>
+[1481713799929612](https://www.facebook.com/ads/library/?id=1481713799929612) *(17/06/2026)* ·
+[1435958288287540](https://www.facebook.com/ads/library/?id=1435958288287540) ·
+[1622766862154166](https://www.facebook.com/ads/library/?id=1622766862154166)
+
+**[[brumdance-3em1]]** · <https://brumdance.com.br/3em1/>
+[1971523880902568](https://www.facebook.com/ads/library/?id=1971523880902568) *(07/08/2026)*
+
+**[[forrozeiro-do-zero]]** · matheuscasbri · <https://quiz.forrozeirodozero.com.br/>
+[1064507922644275](https://www.facebook.com/ads/library/?id=1064507922644275) ·
+[1871711103791552](https://www.facebook.com/ads/library/?id=1871711103791552)
+
+**[[forro-do-zero-pe-descalco]]** · <https://pedescalcomkt.com.br/forro-zero/> ·
+**nenhum criativo ativo atribuivel** — ver correcao em [[2026-09-06]]
+
+### Fila (LP nao capturada)
+
+- **Fast Dance** — `facebook.com/equipefastdance` ·
+  [823498440695298](https://www.facebook.com/ads/library/?id=823498440695298) *(25/06/2026, 73 dias)* ·
+  [1434445158517651](https://www.facebook.com/ads/library/?id=1434445158517651)
+- **Camila Alves Jump** — `facebook.com/100091574153398` (R$ 29,90 / R$ 42,80 / R$ 119 no criativo) ·
+  [1760189601779546](https://www.facebook.com/ads/library/?id=1760189601779546) ·
+  [1645696020221506](https://www.facebook.com/ads/library/?id=1645696020221506)
+- **Mari Ballet OnLine** — `facebook.com/balletonlinemari` ·
+  [3916890885119088](https://www.facebook.com/ads/library/?id=3916890885119088) *(03/06/2026; ha
+  tambem um criativo de 10/02/2026 visto na consulta por "bailarina", ID nao capturado)*
+- **Bia Forro** — <https://bandoforrozeiro.forroporai.com.br/> (R$ 57,90) ·
+  [782549794879666](https://www.facebook.com/ads/library/?id=782549794879666) *(29/06/2026)*
+- **Danca Fit** — `dancafit.shop` · `facebook.com/100089871218878`
 
 ---
 

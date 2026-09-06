@@ -70,6 +70,16 @@ exatamente por isso que a versao online vence ali. Ver o mesmo mecanismo de diag
 so aparece no fim do fluxo. Pelo `Pipeline.md`, nota com `s_ticket: 0` nao deve ser comparada com
 as outras no Ranking ate a captura. Primeiro item da fila para a proxima rodada.
 
+## Criativos (Biblioteca de Anuncios)
+
+Anunciante: **matheuscasbri** — `facebook.com/100068510731647`
+Pagina de vendas: <https://quiz.forrozeirodozero.com.br>
+
+| Criativo | Veiculacao iniciada | Nota |
+|---|---|---|
+| [1064507922644275](https://www.facebook.com/ads/library/?id=1064507922644275) | 29/08/2026 | varias versoes |
+| [1871711103791552](https://www.facebook.com/ads/library/?id=1871711103791552) | 29/08/2026 | varias versoes |
+
 ## Historico
 
 ```base
