@@ -201,3 +201,51 @@ Aplicada as 85 notas (71 `oferta`, 14 `angulo`):
 
 O vies existia e tem tamanho: **1,1 ponto de score e 1,6 de `s_replica`**, na direcao prevista.
 Angulo pontua alto em replicabilidade porque nao tem produto concreto para atrapalhar.
+
+---
+
+## Adendo — `proprio` entra no vocabulario de gateway (2026-08-31, segunda passada)
+
+[[soulmate-sketcher]] gravou `checkout: proprio` e `gateways_detectados: [proprio]` na
+estreia de 30/08, fora da lista controlada. O valor e legitimo e a semantica e a mesma de
+`whatsapp`: **nao e um gateway de infoproduto, e a ausencia deliberada de um.** A operacao
+cobra no proprio dominio (`thesoulmatesketcher.com/pt/comecar`, com `/my-orders`).
+
+Nao confundir com `desconhecido`, que e sentinela de "nao capturado ainda". `proprio`
+afirma uma captura: olhamos e nao ha intermediario.
+
+**Consequencia que precisa estar no schema, nao so na nota:** oferta com `checkout: proprio`
+e **estruturalmente invisivel para a Etapa 3**. Nao cai em lista de gateway nem ganha pagina
+de produtor no Reclame Aqui. Para essas, `ra_reclamacoes: 0` nao e sinal fraco — e sinal
+ausente, e o unico instrumento e a Etapa 1.
+
+Lista completa atualizada para os tres campos:
+
+`perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
+`hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` ·
+`stripe` · `clickbank` · `whatsapp` · `proprio` · `desconhecido`
+
+---
+
+## Adendo — `onprofit` entra no vocabulario de gateway (2026-09-06)
+
+Rodada de danca (ver [[2026-09-06]]). [[dicionario-em-movimento]] cobra em
+`pay.onprofit.com.br` — gateway real, ausente das duas listas anteriores. Nao confundir com
+`proprio`: ha intermediario, ele so nao estava catalogado.
+
+Lista completa atualizada para `checkout`, `gateways_detectados` e `ra_plataformas`:
+
+`perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
+`hotmart` · `ticto` · `monetizze` · `eduzz` · `hubla` · `ggcheckout` · `payt` · `onprofit` ·
+`stripe` · `clickbank` · `whatsapp` · `proprio` · `desconhecido`
+
+### Nota de campo — `bump_oculto` finalmente teve para que servir
+
+O campo existe no schema desde 22/08 e nunca tinha sido `true` em nenhuma nota, porque o
+unFunnelizer nunca rodou. [[cantigas-da-bailarina]] e o primeiro `bump_oculto: true` do vault, e
+foi capturado **sem unFunnelizer**: bastou abrir o link do checkout que a LP aponta e ler a
+pagina. Sete bumps que a LP nao menciona.
+
+**Procedimento barato, para a Etapa 2 quando o unFunnelizer estiver fora:** extrair o href do
+botao de compra da LP, abrir o checkout no navegador interno e ler o texto. Order bump aparece
+ali; upsell e downsell nao (sao pos-pagamento). Cobre metade da Etapa 2 com uma requisicao.
