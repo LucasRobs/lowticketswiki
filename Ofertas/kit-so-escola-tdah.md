@@ -2,47 +2,55 @@
 tipo: oferta
 classe: oferta
 slug: kit-so-escola-tdah
-nome: "Kit Só Escola TDAH — 500+ Atividades Imprimíveis"
+nome: Kit Só Escola TDAH — 500+ Atividades Imprimíveis
 nicho: comportamento-infantil
 sub_nicho: tdah
 idioma: pt-BR
 pais: BR
-plataforma_ads: [meta]
+plataforma_ads:
+- meta
 checkout: hotmart
-url_pagina: "https://tdah.soescola.com/"
-url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TDAH%20infantil%20atividades&search_type=keyword_unordered&media_type=all"
+url_pagina: https://tdah.soescola.com/
+url_ads: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TDAH%20infantil%20atividades&search_type=keyword_unordered&media_type=all
 moeda: BRL
 ticket_frente: 47
 ticket_bump: 0
 ticket_upsell: 0
 ticket_medio_est: 47
 margem_est: 0.95
-modelo: [direct]
-formato_entrega: [pdf]
+modelo:
+- direct
+formato_entrega:
+- pdf
 tem_recorrencia: false
 s_ticket: 5
 s_lucro: 5
 s_replica: 8
 s_saturacao: 5
-status: morta
+status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-21
-rodadas_vista: 1
+visto_ultimo: '2026-09-11'
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta: "Ativos/kit-so-escola-tdah"
-gateways_detectados: [hotmart]
+ativos_pasta: Ativos/kit-so-escola-tdah
+gateways_detectados:
+- hotmart
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 0
 ra_plataformas: []
-ra_primeira_reclamacao: 
+ra_primeira_reclamacao: null
 ra_checado: 2026-08-21
 veredito: observar
 prioridade: 2
-tags: [oferta, lowticket, marca, comportamento-infantil]
+tags:
+- oferta
+- lowticket
+- marca
+- comportamento-infantil
 ---
 
 # Kit Só Escola TDAH
@@ -108,3 +116,11 @@ views:
 O dominio raiz `kitsoescola.com` vende um kit maior: **R$ 47 ancorado em R$ 97 (-51%),
 1.100 paginas, 20 PDFs, 2 a 10 anos**, seis bonus, com escassez numerica viva ("proximas
 22 vendas"). Confirma a arquitetura de portfolio: mesmo acervo, recortes por publico.
+
+## Verificação dirigida 2026-09-11
+
+Página acessível; R$47 mantidos, mais de 500 atividades e cinco bônus anunciados, checkout Hotmart. Material imprimível para pais e educadores; não é manual de criação de filhos nem plano individual de apoio escolar. Alegações de resultados e recomendação percentual pertencem ao vendedor e não foram verificadas. Anúncios não medidos para esta oferta.
+
+Fonte: [página pública](https://tdah.soescola.com/). 
+
+Retorno significa redescoberta de página pública; não comprova retomada de vendas. Valores anteriores de reclamações, ticket médio, margem e scores foram preservados como históricos não revalidados; não são novas medições. Bumps e upsells ocultos não inspecionados.

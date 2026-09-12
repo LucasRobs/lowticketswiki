@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-29
+atualizado: 2026-09-11
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,19 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-29 (segunda passada)
+## Leitura atual — 2026-09-11 · parentalidade, TEA e TDAH
+
+**Rodada dirigida: 7 novas ofertas, 3 revisitadas e 10 snapshots.** Relatório: [[2026-09-11]].
+
+Prioridades por aderência: [[31-segredos-pais-tdah]] para TDAH e escola; [[tdah-tod-paula-frati]] para conflitos familiares; [[autismo-para-pais-lacerda]] para organização parental; [[meu-filho-e-unico-horleana]] e [[parentalidade-atipica-sarah-hayden]] para TEA + TDAH.
+
+[[tea-sem-crise]] tem quatro anúncios ativos observados, pelo menos três vídeos distintos e anúncio desde 12/08; frente capturada em R$71. Os dois kits Só Escola responderam nesta consulta, por R$47 (TDAH) e R$37 (autismo). Não são manuais de parentalidade.
+
+A Biblioteca de Anúncios funcionou nesta rodada. Ainda faltam métricas de tráfego para a maioria das ofertas; lucro não foi medido. **Scores e decisões automáticas nas Bases abaixo continuam provisórios quando faltam dados.** As outras ofertas não foram reclassificadas por falta de cobertura. Histórico anterior abaixo preservado como registro, não como leitura atual.
+
+---
+
+## Leitura histórica — 2026-08-29 (segunda passada)
 
 **88 notas · 73 ofertas · 15 angulos · 3 novas nesta passada · 0 no corte de replicacao**
 
