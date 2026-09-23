@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-22
-rodadas_vista: 1
+visto_ultimo: 2026-09-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-22
+ra_checado: 2026-09-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-09-22
 
 2 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/
+
+## Rodada 2026-09-23
+
+1 mencao(oes) nesta varredura (gateway Cakto Pay). Cobrança recorrente após cancelamento. Cliente cancelou dentro de 7 dias mas continuou sendo cobrado.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/

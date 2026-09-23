@@ -1,0 +1,151 @@
+{
+ "data_varredura": "2026-09-23",
+ "gateways": [
+  {
+   "nome": "PerfectPay",
+   "slug": "perfectpay",
+   "reclamacoes_ativas": 287200,
+   "paginas_varridas": 10
+  },
+  {
+   "nome": "Cakto Pay",
+   "slug": "cakto-pay",
+   "reclamacoes_ativas": 274800,
+   "paginas_varridas": 10
+  }
+ ],
+ "achados": [
+  {
+   "produto": "Stalkeia.ai",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "Espionagem e rastreamento",
+   "temperatura": "quente",
+   "mencoes": 2,
+   "faixa_preco": "R$ 37-47",
+   "termo_busca": "Stalkeia",
+   "descricao": "App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras.",
+   "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/"
+  },
+  {
+   "produto": "Apostas Esportivas Garantidas",
+   "tipo": "angulo",
+   "gateway": "PerfectPay",
+   "nicho": "Apostas esportivas",
+   "temperatura": "quente",
+   "mencoes": 1,
+   "faixa_preco": "Variável (PIX)",
+   "termo_busca": "Apostas Esportivas Garantidas",
+   "descricao": "Operação via WhatsApp/Telegram. Promete apostas 100% garantidas com nomes falsos (Raphael Silva, Patrick Souza). Tudo mentira, reclamantes perdem dinheiro.",
+   "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui-de-apostas-esportivas-garantidas-via-whatsapp-e-telegram_ajWo_I_KYu81S6je/"
+  },
+  {
+   "produto": "Biblia Free Shipping",
+   "tipo": "angulo",
+   "gateway": "Cakto Pay",
+   "nicho": "Religiosa / Brindes",
+   "temperatura": "quente",
+   "mencoes": 1,
+   "faixa_preco": "R$ 9.90 → R$ 30.36 (cascata)",
+   "termo_busca": "Brinde Bíblia",
+   "descricao": "Op de cobranças sucessivas. Anuncia 'Bíblia grátis' (quiz), depois cobra R$ 9.90 'entrega', depois R$ 12.89, depois R$ 7.57, depois R$ 9.90 novamente. Cada cobro tem narrativa diferente.",
+   "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cobrancas-sucessivas-e-propaganda-enganosa-em-brinde-de-biblia_CgSGYZQgT8L3Wv83/"
+  },
+  {
+   "produto": "Mentoria Caio Martins",
+   "tipo": "marca",
+   "gateway": "Cakto Pay",
+   "nicho": "Mentorias high-ticket",
+   "temperatura": "quente",
+   "mencoes": 1,
+   "faixa_preco": "R$ 3.000",
+   "termo_busca": "Mentoria Caio Martins",
+   "descricao": "Mentoria de alto valor com suporte fantasma. Cliente não conseguiu contato após compra, reembolso não processado dentro do prazo de 7 dias. Padrão: CPA alto, desaparece depois.",
+   "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-nao-atendida-dentro-do-prazo-legal-mentoria-caio-martins-cakto-pay_k6rCdLrOGjPx4EY8/"
+  },
+  {
+   "produto": "Video Aulas Jantar - Chef Luana",
+   "tipo": "marca",
+   "gateway": "Cakto Pay",
+   "nicho": "Cursos culinários",
+   "temperatura": "morna",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97 + R$ 27 upsell",
+   "termo_busca": "Chef Luana",
+   "descricao": "Curso culinário com order bump pesado. Anuncia 'app com vídeos' (R$ 97), depois cobra R$ 27 'pra liberar vídeos'. Conteúdo amador, links quebrados.",
+   "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/propaganda-enganosa-e-cobranca-adicional-em-curso-culinario_kVnrtKfK9zjdYBAz/"
+  },
+  {
+   "produto": "ZAP Radar",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "Ferramentas e análise",
+   "temperatura": "quente",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "ZAP Radar",
+   "descricao": "Ferramenta de análise que não funciona. R$ 97 upfront, zero acesso. Propaganda enganosa direta.",
+   "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/"
+  },
+  {
+   "produto": "Cash no Pix",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "Cashback falso",
+   "temperatura": "morna",
+   "mencoes": 1,
+   "faixa_preco": "Variável",
+   "termo_busca": "Cash no Pix",
+   "descricao": "App de cashback falso com cobranças pra liberar saldo. Propaganda enganosa.",
+   "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-para-liberacao-de-saldo-e-propaganda-enganosa-no-cashnopix_-Av-lIMQePl-aZU2/"
+  },
+  {
+   "produto": "MS GREEN PREMIUM",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "Saúde",
+   "temperatura": "morna",
+   "mencoes": 1,
+   "faixa_preco": "Não especificado",
+   "termo_busca": "MS GREEN",
+   "descricao": "Propaganda enganosa, não cumpre o que promete.",
+   "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/"
+  },
+  {
+   "produto": "Lumi.ai",
+   "tipo": "marca",
+   "gateway": "Cakto Pay",
+   "nicho": "Plataformas IA",
+   "temperatura": "morna",
+   "mencoes": 1,
+   "faixa_preco": "R$ 99.90/mês × 12 = R$ 1.189,57",
+   "termo_busca": "Lumi.ai",
+   "descricao": "Cobrança recorrente após cancelamento. Cliente cancelou dentro de 7 dias mas continuou sendo cobrado.",
+   "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/"
+  },
+  {
+   "produto": "Curso de Pedreiro Residencial",
+   "tipo": "angulo",
+   "gateway": "Cakto Pay",
+   "nicho": "Cursos de ofício",
+   "temperatura": "morna",
+   "mencoes": 1,
+   "faixa_preco": "Não especificado",
+   "termo_busca": "Curso de Pedreiro",
+   "descricao": "Conteúdo de YouTube, plataforma amadora, sem login, suporte via WhatsApp que não retorna.",
+   "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/curso-de-pedreiro-residencial-nao-corresponde-as-expectativas-e-recusa-de-cancelamento_7tRIzgtSVjbStTpF/"
+  },
+  {
+   "produto": "Mentoria Nova Profissão",
+   "tipo": "marca",
+   "gateway": "Cakto Pay",
+   "nicho": "Mentorias",
+   "temperatura": "morna",
+   "mencoes": 1,
+   "faixa_preco": "R$ 350.46",
+   "termo_busca": "Mentoria Nova Profissão",
+   "descricao": "Mentoria com suporte fantasma. Email informado inválido, WhatsApp não retorna. Padrão: 'Ninguém responde depois que você compra'.",
+   "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cliente-busca-cancelamento-e-reembolso-de-mentoria-por-falta-de-suporte-e-promessas-nao-cumpridas_jgrKcgYXrJvKbVGa/"
+  }
+ ]
+}

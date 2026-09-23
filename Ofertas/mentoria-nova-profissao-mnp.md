@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-22
-rodadas_vista: 1
+visto_ultimo: 2026-09-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-22
+ra_checado: 2026-09-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-09-22
 
 1 mencao(oes) nesta varredura (gateway Cakto Pay). Mentoria que promete suporte hands-on mas não entrega. Email inacessível, suporte via WhatsApp sem resposta. Mecânica: cobra tudo na frente, suporte não responsivo após venda.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/cliente-busca-cancelamento-e-reembolso-de-mentoria-por-falta-de-suporte-e-promessas-nao-cumpridas_jgrKcgYXrJvKbVGa/
+
+## Rodada 2026-09-23
+
+1 mencao(oes) nesta varredura (gateway Cakto Pay). Mentoria com suporte fantasma. Email informado inválido, WhatsApp não retorna. Padrão: 'Ninguém responde depois que você compra'.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/cliente-busca-cancelamento-e-reembolso-de-mentoria-por-falta-de-suporte-e-promessas-nao-cumpridas_jgrKcgYXrJvKbVGa/

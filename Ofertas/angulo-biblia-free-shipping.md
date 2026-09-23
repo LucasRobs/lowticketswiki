@@ -24,10 +24,10 @@ s_ticket: 4
 s_lucro: 5
 s_replica: 6
 s_saturacao: 5
-status: morta
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-09-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-09-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-23
+
+1 mencao(oes) nesta varredura (gateway Cakto Pay). Op de cobranças sucessivas. Anuncia 'Bíblia grátis' (quiz), depois cobra R$ 9.90 'entrega', depois R$ 12.89, depois R$ 7.57, depois R$ 9.90 novamente. Cada cobro tem narrativa diferente.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobrancas-sucessivas-e-propaganda-enganosa-em-brinde-de-biblia_CgSGYZQgT8L3Wv83/

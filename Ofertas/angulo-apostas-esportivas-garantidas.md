@@ -24,10 +24,10 @@ s_ticket: 4
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-22
-rodadas_vista: 1
+visto_ultimo: 2026-09-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-22
+ra_checado: 2026-09-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-09-22
 
 1 mencao(oes) nesta varredura (gateway PerfectPay). Serviço de tips/sinais de apostas com promessa de jogos 100% garantidos. Operado por indivíduos com nomes falsos via Telegram/WhatsApp. Prática comum: recebe dica errada, cliente perde (RED). Sinais de fraude clara.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui-de-apostas-esportivas-garantidas-via-whatsapp-e-telegram_ajWo_I_KYu81S6je/
+
+## Rodada 2026-09-23
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Operação via WhatsApp/Telegram. Promete apostas 100% garantidas com nomes falsos (Raphael Silva, Patrick Souza). Tudo mentira, reclamantes perdem dinheiro.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui-de-apostas-esportivas-garantidas-via-whatsapp-e-telegram_ajWo_I_KYu81S6je/

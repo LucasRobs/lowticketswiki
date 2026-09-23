@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-22
-rodadas_vista: 3
+visto_ultimo: 2026-09-23
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-22
+ra_checado: 2026-09-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,5 +97,11 @@ legítimo, produto completamente diferente com nome colidente.
 ## Rodada 2026-09-22
 
 4 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que promete resultados de busca mas não entrega acesso. Propaganda enganosa clara. Cobra upfront sem entrega.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/
+
+## Rodada 2026-09-23
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que não funciona. R$ 97 upfront, zero acesso. Propaganda enganosa direta.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/

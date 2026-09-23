@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-22
-rodadas_vista: 3
+visto_ultimo: 2026-09-23
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 5
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-22
+ra_checado: 2026-09-23
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -100,3 +100,9 @@ rodando verba.
 2 mencao(oes) nesta varredura (gateway PerfectPay). Sistema que promete retorno de valores via Pix conforme preenchimento de códigos. Propaganda enganosa: não devolve. Aparece também como Cashnopix (variação).
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/cash-no-pix_91pwfUR5vkw3GZmw/
+
+## Rodada 2026-09-23
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App de cashback falso com cobranças pra liberar saldo. Propaganda enganosa.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/cobranca-para-liberacao-de-saldo-e-propaganda-enganosa-no-cashnopix_-Av-lIMQePl-aZU2/

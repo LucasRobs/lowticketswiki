@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-22
-rodadas_vista: 6
+visto_ultimo: 2026-09-23
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-22
+ra_checado: 2026-09-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -125,3 +125,9 @@ PerfectPay. URL da reclamacao de hoje e identica a citada na nota de 22/08 (bsQi
 8 mencao(oes) nesta varredura (gateway PerfectPay). App fake de espionar WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai, Stalkeia.com. Múltiplos gateways (confirmado em Mangofy também). Cobra créditos extras após venda para liberar resultados falsos.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/
+
+## Rodada 2026-09-23
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/
