@@ -27,3 +27,6 @@ Ativos/**/*.gif
 # Quarentena: o agente na nuvem nao pode apagar arquivos, so mover pra ca.
 # Apague essa pasta manualmente de vez em quando.
 _to_delete/
+
+# Cache do Python
+__pycache__/

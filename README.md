@@ -47,3 +47,15 @@ Abra `Bases/` — quatro visões:
 - `_meta/Scoring.md` — a rubrica dos 4 eixos e como o score é calculado
 
 # lowticketswiki
+
+## Outras pastas
+
+| Pasta | O que tem |
+|---|---|
+| `Analises/` | Análises avulsas (top ofertas, quick reference, pesquisa igreen) |
+| `Nichos/` | Notas de nicho |
+| `Ativos/` | Ativos capturados pelo unFunnelizer |
+| `Claude outputs/` | Planilhas e HTMLs entregues fora da rodada diária |
+| `_meta/` | Contratos (Schema, Scoring, Pipeline) e scripts ativos: `sync_vault.py`, `collect_complaints.py`, `radar-commit.sh`, `radar-diff.sh` |
+| `_arquivo/mineracao-2026-08/` | Scripts, JSONs e debug da mineração manual de ago/set. Só histórico — nada do ciclo diário depende disso |
+| `_to_delete/` | Quarentena (fora do git). Pode apagar |
