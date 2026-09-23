@@ -1,5 +1,5 @@
 ---
-tipo: radar
+tipo: shortlist
 data: 2026-08-31
 titulo: "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
 ofertas_vistas: 15

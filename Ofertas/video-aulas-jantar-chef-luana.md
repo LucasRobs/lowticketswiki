@@ -3,8 +3,8 @@ tipo: oferta
 classe: oferta
 slug: video-aulas-jantar-chef-luana
 nome: "Video Aulas Jantar - Chef Luana"
-nicho: cursos-culinarios
-sub_nicho: 
+nicho: gastronomia
+sub_nicho: cursos-culinarios
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]

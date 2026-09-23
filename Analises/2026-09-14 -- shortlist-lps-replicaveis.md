@@ -1,6 +1,5 @@
 ---
 tipo: shortlist
-classe: radar
 data: 2026-09-14
 fonte: vault (123 notas de oferta, rodadas 16/08 a 13/09)
 escopo: paginas de vendas com URL conhecida, entregavel arquivo, LP reconstruivel

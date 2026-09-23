@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: unlovable
 nome: "Unlovable"
-nicho: ia-ferramentas
+nicho: ferramentas-ia
 sub_nicho: gerador-de-app
 idioma: pt-BR
 pais: BR

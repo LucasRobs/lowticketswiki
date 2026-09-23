@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: renderizador-imagem-recarga-google
 nome: "Renderizador de imagem com recarga na Google (nome nao capturado)"
-nicho: ferramentas-ia-design
+nicho: ferramentas-ia
 sub_nicho: renderizador-wrapper-api
 idioma: pt-BR
 pais: BR

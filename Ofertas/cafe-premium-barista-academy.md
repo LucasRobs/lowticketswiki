@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: cafe-premium-barista-academy
 nome: "Cafe Premium — Barista Academy"
-nicho: gastronomia-profissional
+nicho: gastronomia
 sub_nicho: barista-cafeteria
 idioma: pt-BR
 pais: BR

@@ -1,5 +1,5 @@
 ---
-tipo: radar
+tipo: shortlist
 data: 2026-08-30
 titulo: "Shortlist — produtos infantis escalados e replicáveis com IA"
 ofertas_vistas: 12

@@ -3,8 +3,8 @@ tipo: oferta
 classe: oferta
 slug: mentoria-nova-profissao-mnp
 nome: "MENTORIA NOVA PROFISSÃO (MNP)"
-nicho: mentoria-profissional
-sub_nicho: 
+nicho: mentorias
+sub_nicho: mentoria-profissional
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]

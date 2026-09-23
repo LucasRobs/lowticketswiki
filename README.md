@@ -31,6 +31,9 @@ Se você só tivesse `Ofertas/`, saberia *o que existe*. Com `Observacoes/` voc�
 
 ## Onde olhar
 
+Comece por [[Inicio]] — o mapa do vault.
+
+
 Abra `Bases/` — quatro visões:
 
 - **Ofertas.base** — tudo, ranqueado por score composto
@@ -52,7 +55,8 @@ Abra `Bases/` — quatro visões:
 
 | Pasta | O que tem |
 |---|---|
-| `Analises/` | Análises avulsas (top ofertas, quick reference, pesquisa igreen) |
+| `Analises/` | Análises avulsas e shortlists (`tipo: shortlist`) — top ofertas, quick reference, igreen, shortlists de LPs/infantil/dança |
+| `Radar/exports/` | CSV, favoritos e painéis HTML gerados pela skill a cada rodada. A planilha acumulada fica em `Radar/radar-low-ticket.xlsx`; o JSON bruto em `Radar/dados/` |
 | `Nichos/` | Notas de nicho |
 | `Ativos/` | Ativos capturados pelo unFunnelizer |
 | `Claude outputs/` | Planilhas e HTMLs entregues fora da rodada diária |

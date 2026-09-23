@@ -93,7 +93,7 @@ CRP): aqui **nao ha barreira de entrada nenhuma**, e por isso ha dezenas de clon
 ## Escala medida
 
 A operacao tem **pagina propria no Reclame Aqui** — pelo mecanismo que a rodada de
-[[../Radar/2026-08-28|28/08]] descobriu (o gateway reatribui a reclamacao ao produtor):
+[[2026-08-28|28/08]] descobriu (o gateway reatribui a reclamacao ao produtor):
 `/empresa/retrato-da-alma-gemea/`. Nao Recomendada, nao verificada.
 
 - **206 reclamacoes** na listagem da empresa
@@ -131,4 +131,4 @@ operacao.
 
 ## Paginas de vendas em campo
 
-Ver [[../Nichos/alma-gemea]] para a lista completa com estado de verificacao.
+Ver [[alma-gemea]] para a lista completa com estado de verificacao.

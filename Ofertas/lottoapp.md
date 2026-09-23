@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: lottoapp
 nome: "LottoApp / LotteApp PRO"
-nicho: apostas-e-sinais
+nicho: apostas-e-sinais-esportivos
 sub_nicho: loteria
 idioma: pt-BR
 pais: BR

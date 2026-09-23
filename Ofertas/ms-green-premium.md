@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: ms-green-premium
 nome: "MS GREEN PREMIUM"
-nicho: suplementacao-saude
+nicho: saude-estetica-fitness
 sub_nicho: suplemento-emagrecimento
 idioma: pt-BR
 pais: BR

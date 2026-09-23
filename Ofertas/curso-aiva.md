@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: curso-aiva
 nome: "Curso AIVA"
-nicho: ia-ferramentas
+nicho: ferramentas-ia
 sub_nicho: curso-de-ia
 idioma: pt-BR
 pais: BR

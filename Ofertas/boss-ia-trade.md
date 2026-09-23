@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: boss-ia-trade
 nome: "BOSS IA TRADE"
-nicho: ia-trading
+nicho: trading-automatizado
 sub_nicho: robo-trading
 idioma: pt-BR
 pais: BR

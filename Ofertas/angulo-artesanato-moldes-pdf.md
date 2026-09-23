@@ -3,7 +3,7 @@ tipo: oferta
 classe: angulo
 slug: angulo-artesanato-moldes-pdf
 nome: "Artesanato, moldes e PDF criativo"
-nicho: artesanato-e-pdf
+nicho: artesanato
 sub_nicho: moldes-e-croche
 idioma: pt-BR
 pais: BR

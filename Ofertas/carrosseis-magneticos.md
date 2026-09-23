@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: carrosseis-magneticos
 nome: "Carrosseis Magneticos"
-nicho: marketing-conteudo
+nicho: marketing-digital
 sub_nicho: templates-instagram
 idioma: pt-BR
 pais: BR

@@ -1,5 +1,5 @@
 ---
-tipo: radar
+tipo: shortlist
 data: 2026-08-21
 ofertas_vistas: 57
 novas: 0

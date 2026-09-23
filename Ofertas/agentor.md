@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: agentor
 nome: "Agentor (Bruno Gabarra)"
-nicho: ia-ferramentas
+nicho: ferramentas-ia
 sub_nicho: agentes-de-ia
 idioma: pt-BR
 pais: BR

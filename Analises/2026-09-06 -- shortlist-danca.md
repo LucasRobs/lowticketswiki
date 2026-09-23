@@ -1,5 +1,5 @@
 ---
-tipo: radar
+tipo: shortlist
 data: 2026-09-06
 titulo: "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
 ofertas_vistas: 13

@@ -3,8 +3,8 @@ tipo: oferta
 classe: oferta
 slug: mentoria-caio-martins
 nome: "Mentoria Caio Martins"
-nicho: mentorias-high-ticket
-sub_nicho: 
+nicho: mentorias
+sub_nicho: mentorias-high-ticket
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]

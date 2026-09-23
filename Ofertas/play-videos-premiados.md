@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: play-videos-premiados
 nome: "Play Videos Premiados / PremiaPlay"
-nicho: renda-extra
+nicho: ganhar-dinheiro
 sub_nicho: taxa-para-liberar-saque
 idioma: pt-BR
 pais: BR

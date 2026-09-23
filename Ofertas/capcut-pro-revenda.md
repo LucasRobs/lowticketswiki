@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: capcut-pro-revenda
 nome: "Revenda de assinatura CapCut Pro"
-nicho: ferramentas-ia-edicao
+nicho: ferramentas-ia
 sub_nicho: revenda-assinatura-alheia
 idioma: pt-BR
 pais: BR

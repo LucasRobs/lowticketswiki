@@ -3,7 +3,7 @@ tipo: oferta
 classe: angulo
 slug: angulo-arquivos-stl
 nome: "Arquivos STL para impressao 3D"
-nicho: artesanato-e-pdf
+nicho: artesanato
 sub_nicho: impressao-3d
 idioma: pt-BR
 pais: BR
