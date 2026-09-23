@@ -94,3 +94,9 @@ Domínios espelho vistos em busca: `cashnopix.pro`, `cashnopix.cloud`, `cashnopi
 Trate como **família de clones**, não oferta única — mesma leitura de escala que vale
 para [[parabolas-kids]] e [[kit-300-aulas-edfisica]]: quem rotaciona domínio está
 rodando verba.
+
+## Rodada 2026-09-22
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Sistema que promete retorno de valores via Pix conforme preenchimento de códigos. Propaganda enganosa: não devolve. Aparece também como Cashnopix (variação).
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/cash-no-pix_91pwfUR5vkw3GZmw/

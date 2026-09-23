@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 7
+ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-22
@@ -119,3 +119,9 @@ PerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista.
 ## Rodada 2026-08-24
 
 PerfectPay. URL da reclamacao de hoje e identica a citada na nota de 22/08 (bsQiiX5mms5RNOcb) — a lista nao girou em dois dias. ra_reclamacoes mantido em 7: o 8 de ontem seria contagem dupla.
+
+## Rodada 2026-09-22
+
+8 mencao(oes) nesta varredura (gateway PerfectPay). App fake de espionar WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai, Stalkeia.com. Múltiplos gateways (confirmado em Mangofy também). Cobra créditos extras após venda para liberar resultados falsos.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/

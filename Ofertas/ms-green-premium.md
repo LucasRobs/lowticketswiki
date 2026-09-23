@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: []
 checkout: perfectpay
-url_pagina: ""
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
@@ -36,9 +36,9 @@ ativos_pasta: "Ativos/ms-green-premium"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [perfectpay]
-ra_primeira_reclamacao:
+ra_primeira_reclamacao: 
 ra_checado: 2026-09-22
 veredito: observar
 prioridade: 0
@@ -83,3 +83,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-22
+
+3 mencao(oes) nesta varredura (gateway PerfectPay). Produto de saúde/suplemento com propaganda enganosa. Não cumpre promessas. Mecânica: descrição agressiva, produto inútil.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/

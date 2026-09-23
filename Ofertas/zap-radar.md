@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-22
@@ -93,3 +93,9 @@ Dois domínios com a mesma headline ("Clone o WhatsApp do seu Parceiro em 5 minu
 
 **Não confundir** com `zapradar.com.br` e `zapradar.alualab.com` — são um CRM de WhatsApp
 legítimo, produto completamente diferente com nome colidente.
+
+## Rodada 2026-09-22
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que promete resultados de busca mas não entrega acesso. Propaganda enganosa clara. Cobra upfront sem entrega.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/
