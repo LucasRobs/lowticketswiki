@@ -5,7 +5,7 @@
   "angulos": 25,
   "observacoes": 299,
   "dias_radar": 20,
-  "passadas": 20,
+  "passadas": 21,
   "analises": 12,
   "ultima_rodada": "2026-09-27"
  },
@@ -6576,7 +6576,8 @@
    "prioridade": 0,
    "checkout": "cakto",
    "gateways": [
-    "cakto"
+    "cakto",
+    "cakto-pay"
    ],
    "plataforma_ads": [
     "meta"
@@ -6612,7 +6613,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lumi%20ai&search_type=keyword_unordered&media_type=all",
    "n_obs": 6,
    "ultima_obs": "2026-09-27",
-   "n_citacoes": 15,
+   "n_citacoes": 16,
    "resumo": "Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.",
    "flags": [
     "score-provisorio",
@@ -10024,7 +10025,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -10335,6 +10336,22 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 2000.md",
+   "data": "2026-09-27",
+   "hora": "20:00",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 24,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "lumi-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 24 · Coleta: parcial · Achados: 1 lumi-ai — cakto-pay · Plataforma de rateio/assinatura. Cobrança indevida após cancelamento no prazo legal. Fricção de cancelamento confirmada."
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 1107.md",
    "data": "2026-09-27",
@@ -10955,6 +10972,18 @@
     "codigo": "regra-s_lucro"
    },
    {
+    "arquivo": "Ofertas/lumi-ai.md",
+    "campo": "gateways_detectados",
+    "msg": "'cakto-pay' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/lumi-ai.md",
+    "campo": "ra_plataformas",
+    "msg": "'cakto-pay' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/parabolas-kids.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -10993,7 +11022,8 @@
   ],
   "resumo_avisos": {
    "regra-s_lucro": 14,
-   "status-vencido": 1
+   "status-vencido": 1,
+   "vocabulario": 2
   },
   "cobertura": [
    {
@@ -11190,15 +11220,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "335ef41503c5d89f",
-  "atualizado_em": "2026-09-27T11:08:25-03:00",
+  "hash": "03d2c991b6d23ef9",
+  "atualizado_em": "2026-09-27T13:17:59-03:00",
   "ofertas": 155,
   "angulos": 25,
   "observacoes": 299,
   "ultima_rodada": "2026-09-27",
   "ultima_passada": {
    "data": "2026-09-27",
-   "hora": "11:07",
+   "hora": "20:00",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

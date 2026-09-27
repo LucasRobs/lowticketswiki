@@ -1,0 +1,70 @@
+{
+  "data_varredura": "2026-09-27",
+  "hora_rodada": "20:00",
+  "fuso": "Fortaleza (UTC-3)",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "paginas_varridas": 12,
+      "status_coleta": "parcial"
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto-pay",
+      "paginas_varridas": 12,
+      "status_coleta": "parcial"
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Lumi.ai",
+      "tipo": "marca",
+      "gateway": "cakto-pay",
+      "nicho": "saas-plataforma-financeira",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "desconhecida",
+      "termo_busca": "Lumi",
+      "descricao": "Plataforma de rateio/assinatura. Cobrança indevida após cancelamento no prazo legal. Fricção de cancelamento confirmada.",
+      "evidencia": "Página 6 de Cakto - cobrança não reembolsada",
+      "status": "confirmado-de-dias-anteriores"
+    }
+  ],
+  "padroes_detectados": [
+    {
+      "tipo": "Reembolsos não processados",
+      "gateways": ["perfectpay", "cakto-pay"],
+      "frequencia": "alta",
+      "causa": "Fricção de cancelamento/reembolso"
+    },
+    {
+      "tipo": "Acesso não liberado após pagamento",
+      "gateways": ["perfectpay", "cakto-pay"],
+      "frequencia": "média",
+      "causa": "Produto digital não entregue"
+    }
+  ],
+  "consolidacao": {
+    "ofertas_repetidas_do_dia": [
+      "Stalker AI",
+      "PAINEL ELITE",
+      "MS GREEN PREMIUM",
+      "ZAP Radar"
+    ],
+    "novos_achados": "nenhum",
+    "delta_vs_rodada_anterior": "confirmação de Lumi.ai. Sem escalação em 7 horas."
+  },
+  "status_tecnico": {
+    "coleta": "parcial",
+    "limitacoes": "Paginação WebFetch continua retornando 0 de 0 em páginas 2-9 de PerfectPay e em páginas 2-5, 7-8, 10-11 de Cakto. Amostra efetiva: ~15 páginas únicas de 24 solicitadas (~63% de perda).",
+    "recomendacao": "Continuar monitoramento em próximas rodadas (22h). Se padrão de paginação persistir amanhã, alternar para navegador automatizado."
+  },
+  "passada": {
+    "hora": "20:00",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 24,
+    "coleta": "parcial",
+    "resumo": "Rodada sem novidades. Lumi.ai confirmada. Padrão de fricção de cancelamento/reembolso mantém-se em ambos os gateways. Paginação técnica continua limitada."
+  }
+}

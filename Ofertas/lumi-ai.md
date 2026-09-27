@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/lumi-ai"
-gateways_detectados: [cakto]
+gateways_detectados: [cakto, cakto-pay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [cakto]
+ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-27
 veredito: observar
