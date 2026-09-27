@@ -2,6 +2,30 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-09-27.md",
+   "data": "2026-09-27",
+   "titulo": "Radar 2026-09-27",
+   "ofertas_vistas": 16,
+   "novas": 14,
+   "retornaram": 2,
+   "sumiram": 0,
+   "fontes": [
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "lowify",
+    "monetizze",
+    "payt",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-09-27\n\n## Novas\n\n- [[atelie-das-velas]] — artesanato — R$ 47 — Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09)…\n- [[100-000-manuais-tecnicos]] — cursos-de-oficio — R$ 17 — Pacote de manuais tecnicos em volume (PLR), R$ 17 via Pix. ID 260078715 (25/09).\n- [[manual-do-shihtzu]] — pet —  — App/manual de raca de cachorro, comprado em 22/09. ID 260008777 (24/09).\n- [[doramas-hot-vitalicio]] — streaming-e-acesso — R$ 54 — Acesso vitalicio a doramas por app, 5x R$ 10,78 no cartao (19/09); app nao abre e suporte inexistente. Mesmo cluster de…\n- [[descobrindo-o-porque-da-fe]] — religioso —  — Curso religioso de entrada; reclamacao diz que tem pouca Biblia. ID 260025487 (25/09).\n- [[protocolo-natural-da-diabetes]] — saude-estetica-fitness — R$ 18 — Protocolo de saude a R$ 18,50 com oferta 'desconto de 50%' e mais cursos na mesma compra (3 itens em 26/09). Nicho regulado. ID 260149739.\n- [[chatgpt-privado]] — ferramentas-ia —  — Revenda de acesso ao ChatGPT que exige criar e-mail novo todo mes para continuar usando. ID 260135435 (26/09).\n- [[gerachat]] — ferramentas-ia —  — Assinatura de automacao de atendimento (chat); suporte precario e sistema diz que o comprador nao pagou. ID 260132115 (26/09).\n- [[luke-zap]] — ferramentas-ia —  — App de WhatsApp instavel, comprado em 23/09; reembolso sem resposta. ID 260146751.\n- [[white-driver]] — servicos-empresariais — R$ 119 — Sistema white-label de mobilidade tipo Uber, R$ 119,99 (31/08); app nunca publicado na Play Store. ID 259882399.\n- [[beautifycursos]] — saude-estetica-fitness — R$ 143 — Cursos de estetica; depois do pagamento um video diz que o curso sozinho nao da resultado e vende o complemento (2 cursos, R$ 286,90). ID…\n- [[metodo-corpo-definido]] — saude-estetica-fitness — R$ 98 — Programa fitness vendido como plano trimestral, R$ 98,50 (30/08). ID 260136143.\n- [[desafio-jejum-5-em-7]] — emagrecimento —  — Desafio de jejum; comprador relata ligacoes de varios numeros depois da compra (remarketing por telefone). ID 260149309 (26/09).\n- [[livros-de-enoque]] — religioso —  — Kit '3 livros de Enoque' nao entregue. ID 260126307 (26/09).\n\n## Movimento\n\n## Retornaram\n\n- [[treino-trinca]] — saude-estetica-fitness — reapareceu (12 mencao(oes))\n- [[app-do-paizao]] — saude-estetica-fitness — reapareceu (3 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nPrimeira rodada em que o navegador interno abriu o Reclame Aqui (WebFetch devolve 403) e a Biblioteca de Anuncios sem pedir aprovacao: 10 gateways fora de PerfectPay/Cakto, ~50 corpos lidos com ID. Sinal novo real em duas ofertas antigas: [[treino-trinca]] ganhou 2 reclamacoes com ID novo e ~91 anuncios ativos desde 08/08, e [[app-do-paizao]] ganhou 1 com a mecanica de upsell pos-compra e anuncios desde 04/08. Das 14 estreias, so Atelie das Velas tem longevidade medida (102 dias de anuncio); as outras sao 1 mencao cada.\n\n## Passadas do dia\n- [[2026-09-27 -- 0113]] - kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify - 16 achado(s) - rodada diaria — 10 gateways fora de PerfectPay/Cakto pelo navegador interno + 3 consultas na Biblioteca; 14 novas, 2 retornos medidos…\n"
+  },
+  {
    "arquivo": "Radar/2026-09-26.md",
    "data": "2026-09-26",
    "titulo": "Radar 2026-09-26",
@@ -309,6 +333,31 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 0113.md",
+   "data": "2026-09-27",
+   "hora": "01:13",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "lastlink",
+    "wiapy",
+    "payt",
+    "kirvano",
+    "lowify"
+   ],
+   "paginas": 10,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "treino-trinca"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-27]].\n\n# Rodada — 27/09/2026 · 01:13 Fortaleza\n\n**Gateways:** kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify · **Páginas:** 10 · **Coleta:** ok · **Achados:** 16\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 2 reclamacoes novas (IDs 260142269, 260143667) com a escada R$ 110+67+37; ~91 anuncios ativos, o mais antigo de 08/08\n- Atelie das Velas — Kiwify · curso de velas a R$ 47, anuncios desde 17/06 (102 dias)\n\n## Mornas\n- [[app-do-paizao]] — Kirvano · reclamacao nova com a mecanica: R$ 47 + 12x R$ 19 pos-compra; anuncios desde 04/08\n- +100.000 Manuais Tecnicos, Manual do Shihtzu, Doramas Hot Vitalicio, Descobrindo o Porque da Fe — Wiapy\n- Protocolo Natural da Diabetes — Payt · R$ 18,50\n- ChatGPT Privado — Kirvano; Gerachat e Luke ZAP — Ticto\n- Metodo Corpo Definido — Eduzz; Desafio Jejum 5 em 7 — Hotmart\n\n## Sinais fracos (sem nota)\n- Kiwify: Formula de Vendas com Pins (R$ 297), 'mov' de vendas, prompts que nao funcionam\n- Ticto: Sistema Produto Unico (R$ 793, HR Marketing); Lastlink: Investidor em 27 Dias (Carlos Magno)\n- Eduzz: Presente da Maju Trindade, curso Pavinatto, Resumindo Concurso; Monetizze: Floracil (fisico)\n- Lowify: assinatura por Pix automatico sem caminho de cancelamento ('coramafix')\n\nLeitura: primeira rodada com navegador interno no Reclame Aqui e na Biblioteca; dois retornos com medicao de anuncio.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0015.md",
    "data": "2026-09-26",
