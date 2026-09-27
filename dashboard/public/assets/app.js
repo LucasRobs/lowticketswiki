@@ -203,9 +203,12 @@ async function iniciarDados() {
     await carregarPainel();
   } catch (e) {
     if (e instanceof api.NaoAutorizado) return mostrarLogin();
+    const semApi = /^HTTP 404/.test(String(e.message || ""));
     main.innerHTML = String(html`<div class="cartao"><h2 class="secao">Não consegui carregar os dados</h2>
       <p class="sub">${String(e.message || e)}</p>
-      <p class="sub">Se este é o primeiro deploy, confira se <code>dashboard/data/</code> foi publicado junto (rode <code>python3 _meta/publicar.py</code> no vault).</p></div>`);
+      ${semApi
+        ? html`<p class="sub"><b>A API do painel não está no ar.</b> Na Vercel: <i>Settings → Build and Deployment → Root Directory</i> = <code>dashboard</code> → Save → <i>Deployments → ⋯ → Redeploy</i>.</p>`
+        : html`<p class="sub">Se este é o primeiro deploy, confira se <code>dashboard/data/</code> foi publicado junto (rode <code>python3 _meta/publicar.py</code> no vault).</p>`}</div>`);
     return;
   }
   estado.sessao = await api.sessao();

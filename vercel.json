@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "echo 'Rede de seguranca: o projeto na Vercel deve usar Root Directory = dashboard'",
+  "buildCommand": "echo 'Deploy pela raiz do vault: so dashboard/public e publicado (nada do vault fica exposto). Configure Root Directory = dashboard.'",
+  "outputDirectory": "dashboard/public",
+  "headers": [
+    { "source": "/(.*)", "headers": [ { "key": "X-Robots-Tag", "value": "noindex, nofollow" } ] }
+  ]
+}
