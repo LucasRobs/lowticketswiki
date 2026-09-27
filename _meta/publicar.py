@@ -64,9 +64,14 @@ def _env():
     return env
 
 
+# No VM do Cowork o git nao consegue apagar arquivo: cria objeto por rename (em vez de
+# link + unlink, que deixa tmp_obj_* para tras) e nao roda manutencao automatica.
+GIT_VM = [] if NO_MAC else ["-c", "core.createObject=rename", "-c", "maintenance.auto=false", "-c", "gc.auto=0"]
+
+
 def git(*args, timeout=90):
     try:
-        r = subprocess.run(["git", *args], cwd=str(RAIZ), env=_env(), capture_output=True,
+        r = subprocess.run(["git", *GIT_VM, *args], cwd=str(RAIZ), env=_env(), capture_output=True,
                            text=True, timeout=timeout)
         return r.returncode, (r.stdout or "") + (r.stderr or "")
     except subprocess.TimeoutExpired:
