@@ -1,0 +1,26 @@
+{
+  "data_varredura": "2026-09-27",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "reclamacoes_ativas": 4502,
+      "paginas_varridas": 1
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto-pay",
+      "reclamacoes_ativas": 4774,
+      "paginas_varridas": 2
+    }
+  ],
+  "achados": [],
+  "passada": {
+    "hora": "05:33",
+    "gateways": ["perfectpay", "cakto"],
+    "paginas": 3,
+    "coleta": "parcial",
+    "relatorio": "## Status\n\nColeta severamente limitada: apenas 3 páginas tiveram conteúdo (PerfectPay pág. 1, Cakto pág. 1 e 6). Demais páginas retornaram \"0 de 0 reclamações\". Total de ~10 reclamações únicas coletadas (vs. ~60 esperadas).\n\n## Padrão Persistente\n\n**Lumi.ai** (Cakto) — REAFIRMADO\n- Plataforma de cursos (educação online)\n- Valor: R$ 1.189,57 em 12 parcelas (R$ 99.90 cada)\n- Problema: Cobrança indevida após cancelamento dentro do prazo legal (7 dias)\n- Última menção: 27/09/2026 (reclamação de 26/05 resolvida após WA em 19/09)\n- Status: Monitorado desde 26/09, confirmado hoje novamente\n\n## Resultado\n\n**Nenhuma NOVA oferta identificada.** Consolidação de padrão anterior (Lumi.ai persistente, fricção de cancelamento confirmada).\n\n**Confiabilidade:** BAIXA — coleta <50% de profundidade esperada. Próximas rodadas diurnas (13h+) devem confirmar ou descartar.\n\n**Ação:** Manter vigilância. Não há entrada new para clone em 27/09 até o momento.",
+    "resumo": "Coleta parcial: sem novas ofertas. Lumi.ai reafirmada (cobrança após cancelamento). Padrão de 26/09 persiste."
+  }
+}

@@ -5,9 +5,9 @@
   "angulos": 25,
   "observacoes": 294,
   "dias_radar": 19,
-  "passadas": 17,
+  "passadas": 18,
   "analises": 12,
-  "ultima_rodada": "2026-09-26"
+  "ultima_rodada": "2026-09-27"
  },
  "ofertas": [
   {
@@ -1010,7 +1010,8 @@
    "resumo": "Comprador que ja pagou recebe nova cobranca para liberar o acesso (reclamacao de 26/09 02h34, relida as 17h00). Diferente de upsell: o acesso comprado vira refem. Parente de angulo-taxa-escalonada-decrescente e angulo-biblia-free-shipping.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2580,7 +2581,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3520,7 +3522,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6061,7 +6064,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6670,7 +6674,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7061,7 +7066,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7889,7 +7895,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10257,6 +10264,20 @@
  ],
  "passadas": [
   {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 0533.md",
+   "data": "2026-09-27",
+   "hora": "05:33",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 3,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto · Páginas: 3 · Coleta: parcial · Achados: 0 ## Status Coleta severamente limitada: apenas 3 páginas tiveram conteúdo (PerfectPay pág. 1, Cakto pág. 1 e 6). Demais páginas retornaram \"0 de 0 reclamações\". Total…"
+  },
+  {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0015.md",
    "data": "2026-09-26",
    "hora": "22:15",
@@ -10946,6 +10967,7 @@
    "angulo-assinatura-com-cancelamento-bloqueado",
    "angulo-bonecas-de-papel-imprimivel",
    "angulo-caligrafia-imprimivel",
+   "angulo-cobranca-extra-para-liberar-acesso",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-quiz-retrato-ia",
    "angulo-taxa-sobre-servico-gratuito",
@@ -10956,6 +10978,7 @@
    "bonecas-papel-maria-criativa",
    "boss-ia-trade",
    "brumdance-3em1",
+   "caderno-de-professor",
    "cae-course",
    "cantigas-da-bailarina",
    "carteira-nacional-do-estudante-digital",
@@ -10964,6 +10987,7 @@
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
    "comunidade-influencers-ia-ascensao",
+   "comunidade-mvz",
    "comunidade-renda-em-dolar",
    "curso-comunidade-fornecedores-nfc",
    "cursos-gratis-online",
@@ -10983,11 +11007,14 @@
    "instaunlocked",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
+   "knights-club",
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
+   "luna-ia",
    "mdr-despertar-2-0",
    "mentoria-vpj",
+   "metodo-atlas",
    "metodo-gringa-turbo",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
@@ -10997,6 +11024,7 @@
    "mundo-criativo-caligrafia",
    "o-curso-do-mago",
    "pack-produtos-validados-sistema-billion",
+   "painel-elite",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "play-videos-premiados",
@@ -11058,17 +11086,20 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c12eb981b59056cb",
-  "atualizado_em": "2026-09-26T22:49:17-03:00",
+  "hash": "9f4928a80839487e",
+  "atualizado_em": "2026-09-27T05:33:44-03:00",
   "ofertas": 154,
   "angulos": 25,
   "observacoes": 294,
-  "ultima_rodada": "2026-09-26",
+  "ultima_rodada": "2026-09-27",
   "ultima_passada": {
-   "data": "2026-09-26",
-   "hora": "22:15",
-   "coleta": "sem-coleta",
-   "gateways": []
+   "data": "2026-09-27",
+   "hora": "05:33",
+   "coleta": "parcial",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ]
   }
  }
 }
