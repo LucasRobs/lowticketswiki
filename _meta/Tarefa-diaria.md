@@ -22,6 +22,8 @@ Para mudar o prompt, edite lá e copie a versão nova para cá.
 ```text
 Rodada diaria de consolidacao do Radar Low Ticket. Tarefa agendada, diaria as 23h30 (America/Fortaleza, UTC-3 — mesmo fuso deste computador). Voce nao tem memoria das execucoes anteriores: oriente-se pelo proprio vault. Nao faca perguntas: decida com bom senso e termine a rodada. A cadencia diaria e pedido explicito do usuario, mesmo que adendos do Pipeline.md/Painel.md recomendem 2-3 dias: trate como aviso, rode, e deixe registrado quando nao houver sinal novo real.
 
+REGRA FIXA DO USUARIO: toda rodada termina abrindo um PR no GitHub e fazendo o merge dele (passo 4). Nunca faca push direto no main.
+
 ONDE ESTA O VAULT
 - E o repositorio git /home/user/Repositories/lowticketswiki, neste computador. Use a ferramenta Bash direto (nao existe device_bash aqui). Rode tudo com: cd /home/user/Repositories/lowticketswiki && ...
 - Os documentos do vault chamam a mesma pasta de "lowticket" ou "$HOME/mnt/lowticket" (vista do Mac e do VM do Cowork). E o mesmo repositorio; o GitHub (origin/main) liga os dois.
@@ -30,7 +32,7 @@ ONDE ESTA O VAULT
 
 0) SINCRONIZAR E DATA
 - date '+%F %H:%M' -> HOJE (AAAA-MM-DD) e HORA (HH:MM).
-- git status -sb ; git pull --ff-only origin main  (traz as passadas 6x/dia que o Mac enviou).
+- git status -sb ; git -c credential.helper= -c credential.helper='!gh auth git-credential' pull --ff-only origin main  (traz as passadas 6x/dia e os PRs ja mergeados).
 - Se o pull nao for fast-forward, der conflito ou pedir credencial: NAO rode merge, rebase, reset, checkout, stash nem apague nada. Va para o passo 6 (bloqueio).
 
 1) ORIENTAR — leia com cat, nesta ordem
@@ -60,25 +62,26 @@ ONDE ESTA O VAULT
 - Insumos medidos: se voce mediu dias_no_ar, criativos, preco, checkout, LP etc., edite Ofertas/<slug>.md seguindo Schema.md e recalcule os eixos pelo Scoring.md (frontmatter canonico: listas inline, datas sem aspas). Nunca edite snapshots antigos em Observacoes/.
 - Decaimento de status: o sync_vault.py NAO decai por ausencia, de proposito (ausencia fora do escopo varrido e falta de cobertura, nao mercado esfriando). Aplique a tabela de rodadas do Scoring.md a mao SO nas ofertas cujo gateway foi de fato varrido hoje (por esta rodada ou pelas passadas do dia) e que nao apareceram. Anote cada mudanca de status para a leitura.
 
-4) CONSOLIDAR NO PAINEL
+4) CONSOLIDAR NO PAINEL E FECHAR COM PR + MERGE
 - Compute antes de narrar (regra de 31/08 do Painel): python3 _meta/publicar.py --verificar, e leia os numeros de dashboard/data/painel.json (totais, status por oferta, score/decisao, novas de hoje, quem cruza o corte de replicacao).
 - Reescreva o texto do Painel.md, nao as tabelas/Bases: o bloco "## Leitura atual — ..." vira "## Leitura anterior — ..." e acima dele entra "## Leitura atual — HOJE (rodada diaria)". Mantenha as 3 leituras anteriores mais recentes e apague as mais velhas (o historico fica no git). Siga o tom e o formato das leituras ja presentes: linha de numeros em negrito, o que mudou desde a rodada anterior, o que e sinal genuino vs. a mesma foto relida, achados de mecanica de funil, gargalos do instrumento, cuidados com os numeros, autocritica honesta. Se nao houve sinal novo real, diga isso com todas as letras.
 - Atualize atualizado: HOJE no frontmatter do Painel.md, e em Inicio.md o link "(ultima: [[AAAA-MM-DD]])" e o atualizado.
 - Commite (sem push direto): python3 _meta/publicar.py --sem-push --mensagem "painel: leitura da rodada HOJE"
-- Abra um PR e faca o merge (SEMPRE, em toda rodada — pedido do usuario). O push HTTPS comum pede senha; use a credencial do gh so no comando:
+- Abra um PR e faca o merge (SEMPRE, em toda rodada — pedido do usuario). O push HTTPS comum pede senha; use a credencial do gh so no comando (escreva as flags por extenso, nunca numa variavel de shell — a divisao por espacos quebra o '!gh auth git-credential'):
   git branch -f radar/HOJE HEAD
   git -c credential.helper= -c credential.helper='!gh auth git-credential' push -u origin radar/HOJE
   gh pr create --base main --head radar/HOJE --title "radar: rodada diaria HOJE" --body "<resumo da rodada: gateways, novas, retornos, mudancas de status> + linha final '🤖 Generated with [Claude Code](https://claude.com/claude-code)'"
   gh pr merge radar/HOJE --merge --delete-branch
-  git -c credential.helper= -c credential.helper='!gh auth git-credential' fetch origin && git merge --ff-only origin/main && git branch -D radar/HOJE
-  Se o gh responder "No commits between main and radar/HOJE", o commit ja esta no main: apague o branch remoto e siga. Se o PR ou o merge falharem (credencial, rede, conflito), o commit fica local: registre na linha final e nao insista.
+  git -c credential.helper= -c credential.helper='!gh auth git-credential' fetch --prune origin && git merge --ff-only origin/main && git branch -D radar/HOJE
+  Se o gh responder "No commits between main and radar/HOJE", o commit ja esta no main: apague o branch remoto e siga. Se o gh pr merge der "error connecting to api.github.com", tente de novo uma vez (costuma ser transitorio). Se o PR ou o merge falharem de novo (credencial, rede, conflito), o commit fica local: registre na linha final e nao insista.
 
 5) NAO FAZER
 - Nao gere planilha, CSV, favoritos nem HTML; nao use SendUserFile. O dashboard substitui isso.
 - Nao rode git pull/merge/rebase/reset/checkout fora do passo 0, exceto o "git merge --ff-only origin/main" depois do merge do PR no passo 4.
+- Nao faca git push direto no main.
 
 6) BLOQUEIO
-- Se a rodada nao puder ser executada (vault inacessivel, pull em conflito, sem rede, todas as fontes fora do ar), nao invente dados nem escreva Leitura atual ficticia. Se o vault estiver acessivel e o git limpo, registre a passada vazia (JSON com "coleta": "sem-coleta", "achados": [] e o motivo no "resumo") via publicar.py, e acrescente em _meta/Pipeline.md um adendo curto "## Adendo — bloqueio da rodada diaria (HOJE)" se o motivo for novo. Depois pare.
+- Se a rodada nao puder ser executada (vault inacessivel, pull em conflito, sem rede, todas as fontes fora do ar), nao invente dados nem escreva Leitura atual ficticia. Se o vault estiver acessivel e o git limpo, registre a passada vazia (JSON com "coleta": "sem-coleta", "achados": [] e o motivo no "resumo") via publicar.py, acrescente em _meta/Pipeline.md um adendo curto "## Adendo — bloqueio da rodada diaria (HOJE)" se o motivo for novo, e feche com o PR + merge do passo 4 (se o GitHub responder). Depois pare.
 
 7) FECHAR
 - Termine com UMA linha: "Rodada HOJE — N novas (nomes), M revistas, K mudancas de status, coleta X, sinal novo: sim/nao — commit <hash>, PR #<n> merged|pendente".
