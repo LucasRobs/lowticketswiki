@@ -60,7 +60,11 @@ def log(msg):
 
 def _env():
     env = dict(os.environ)
-    env.update(GIT_OPTIONAL_LOCKS="0", GIT_TERMINAL_PROMPT="0", LOWTICKET_SEM_HOOK="1", LC_ALL="C")
+    env.update(GIT_OPTIONAL_LOCKS="0", LOWTICKET_SEM_HOOK="1", LC_ALL="C")
+    # No Mac, rodando num Terminal (Publicar.command), o git pode pedir usuario/token do GitHub
+    # na primeira vez; o macOS guarda no Keychain. Fora disso (VM, hook, agendada), nunca pergunta.
+    if not (NO_MAC and sys.stdin.isatty()):
+        env["GIT_TERMINAL_PROMPT"] = "0"
     return env
 
 
@@ -182,7 +186,7 @@ def enviar(forcar=False):
         pend = out.strip() if rc == 0 else "?"
         log("git: push fica para o Mac (%s commit(s) aguardando; o Obsidian Git ou o Publicar.command envia)" % pend)
         return False
-    rc, out = git("push", "-q", "origin", "HEAD:main", timeout=120)
+    rc, out = git("push", "-q", "origin", "HEAD:main", timeout=300)
     if rc == 0:
         git("fetch", "-q", "origin", "main", timeout=60)
         log("git: enviado para o GitHub — a Vercel publica em ~1 min")
@@ -195,7 +199,7 @@ def enviar(forcar=False):
             log("git: conflito ao juntar com o GitHub. Nada foi perdido; resolva com 'git pull' no Terminal.\n"
                 + out2.strip()[-600:])
             return False
-        rc, out = git("push", "-q", "origin", "HEAD:main", timeout=120)
+        rc, out = git("push", "-q", "origin", "HEAD:main", timeout=300)
         if rc == 0:
             log("git: enviado para o GitHub (apos merge) — a Vercel publica em ~1 min")
             return True
