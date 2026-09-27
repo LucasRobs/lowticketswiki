@@ -9,37 +9,37 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: kirvano
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 50
+ticket_frente: 47
 ticket_bump: 0
-ticket_upsell: 250
+ticket_upsell: 228
 ticket_medio_est: 120
 margem_est: 0.85
 modelo: [direct]
 formato_entrega: [app, comunidade]
 tem_recorrencia: true
 s_ticket: 9
-s_lucro: 5
+s_lucro: 7
 s_replica: 3
 s_saturacao: 4
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-23
-rodadas_vista: 3
-dias_no_ar: 0
-criativos_ultima: 0
+visto_ultimo: 2026-09-27
+rodadas_vista: 4
+dias_no_ar: 54
+criativos_ultima: 8
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta:
+ativos_pasta: 
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [kirvano]
-ra_primeira_reclamacao: 2026-08-20
-ra_checado: 2026-08-23
+ra_primeira_reclamacao: "2026-08-20"
+ra_checado: 2026-09-27
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -118,3 +118,14 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/solicitacao-de-reem
 ## Rodada 2026-08-23
 
 Kirvano, ha 16h: pedido de reembolso e cancelamento da assinatura por propaganda enganosa. Confirma a leitura corrigida de ontem - e assinatura de fitness, nao produto de paternidade. Score mantido em 5,05.
+
+## Rodada 2026-09-27
+
+3 mencao(oes) nesta varredura (gateway Kirvano). Reclamacao nova (ID 260146503, 26/09): frente de R$ 47 e, apos a compra, video com oferta de 12x R$ 19 (app + treino + dieta) prometendo devolver os 47; cobrou mais R$ 49. Anuncios ativos de Carlao Silva (avaliacaogratuitapaizao.com.br), 8 carregados, o mais antigo de 04/08.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260146503)
+
+## Medicao 2026-09-27 (rodada diaria, Biblioteca de Anuncios + RA Kirvano)
+- Anuncios ativos de **Carlão Silva** para `avaliacaogratuitapaizao.com.br` ("Chega de segredo..."): 8 carregados numa busca ampla por "paizão", o mais antigo de **04/08/2026** → `dias_no_ar: 54` (limite inferior).
+- Reclamacao nova ID **260146503** (26/09, > 257010225): frente de **R$ 47**; depois da compra, video com oferta de **12x R$ 19** (app + treino + dieta) prometendo devolver os 47 — o comprador aceitou, nao recebeu os 47 de volta e foi cobrado mais R$ 49. Treino e dieta chegaram 5 dias depois.
+- `s_lucro` 5 → **7** (45-90 dias medidos). `ticket_upsell` 250 → 228 (12x19).

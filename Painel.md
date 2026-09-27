@@ -11,7 +11,29 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-09-26 (rodadas agendadas de 22 a 26/09)
+## Leitura atual — 2026-09-27 (rodada diaria)
+
+Passada: [[2026-09-27 -- 0113]] · nota do dia: [[2026-09-27]].
+
+**193 notas · 168 ofertas · 25 ângulos · 14 novas hoje · 16 vistas hoje · status: 87 nova · 36 ativa · 25 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60)**
+
+**O instrumento mudou nesta rodada.** O WebFetch leva 403 no Reclame Aqui, mas o navegador interno abre a lista e os corpos sem pedir aprovação, e a Biblioteca de Anúncios também abriu sem aprovação. Com isso a rodada cobriu os dez gateways que as passadas 6x/dia não varrem (Kiwify, Hotmart, Ticto, Eduzz, Monetizze, Lastlink, Wiapy, Payt, Kirvano, Lowify), cerca de 50 corpos lidos com ID. Ainda é só a primeira página (5 por gateway, carimbos de 23 a 27/09): o `?pagina=2` volta vazio porque a lista é montada no cliente. Hubla não tem página no RA com os slugs tentados. Os slugs que funcionam são `kirvano-pagamentos` e `lowify-tecnologia`.
+
+**Sinal novo real: dois retornos, os dois com longevidade medida.** [[treino-trinca]] ganhou duas reclamações com ID novo na Lastlink (260142269 e 260143667, contra o maior anterior de 256520497), e uma delas mostra a escada cobrada: **R$ 110 + 67 + 37**. Na Biblioteca são **~91 anúncios ativos** de Pedro Lotz, o mais antigo carregado de 08/08, e criativos novos todo dia entre 17 e 23/09. É a primeira vez que o vault mede escala nessa nota. [[app-do-paizao]] teve uma reclamação nova (260146503) que descreve a mecânica: frente de R$ 47 e, depois da compra, um vídeo vendendo 12x R$ 19 com a promessa de "devolver os 47". Os anúncios de Carlão Silva estão no ar desde 04/08.
+
+**A correção honesta vem junto.** O `s_lucro: 9` do Treino Trinca era palpite e caiu para **8** agora que foi medido (50 dias é limite inferior, e 9-10 pede 90+). O score foi de 6,95 para **6,60**. A nota que o Painel de 29/08 chamou de "teto das ofertas reais" continua abaixo do corte, agora por medição e não por chute. O Paizão subiu de `s_lucro` 5 para 7, mas o `s_replica: 3` o mantém em 5,75.
+
+**Estreias: 14, e só uma com longevidade.** O **Ateliê das Velas** (Kiwify, R$ 47, curso de velas artesanais) tem anúncios desde **17/06, 102 dias**, e vende subprodutos dentro da área de membros. Encosta no cluster de artesanato de [[angulo-artesanato-moldes-pdf]]. Aparece como "descartar" (5,50) só porque `s_saturacao` segue em 0, a sentinela. É a primeira candidata a uma busca pelo ângulo "velas artesanais" na Biblioteca. As outras 13 são uma menção cada, sem medição. A Wiapy confirma que é o gateway do ticket de R$ 10-20: +100.000 Manuais Técnicos a R$ 17, Doramas Hot Vitalício (mesmo cluster de [[angulo-streaming-doramas-turcas]]), Manual do Shihtzu e Descobrindo o Porquê da Fé. Em IA/automação há ChatGPT Privado (Kirvano, que exige e-mail novo todo mês), Gerachat e Luke ZAP (Ticto): é a saída travada de PerfectPay/Cakto em outro gateway.
+
+**Mecânica de funil que se repetiu fora de PerfectPay/Cakto: a venda depois da venda.** Paizão (vídeo pós-compra com 12x R$ 19), Beautifycursos (vídeo pós-pagamento diz que "só esse curso não dá resultado" e vende o segundo), Protocolo Natural da Diabetes (R$ 18,50 + "desconto de 50%" + mais cursos na mesma compra) e Treino Trinca (três cobranças). Nenhuma dessas escadas aparece na LP. Continuam sendo o campo `ticket_upsell` que só a Etapa 2 captura.
+
+**Status.** Seis estreias de 24/09 vindas do RA de Monetizze, Kiwify, Eduzz e Ticto passaram de `nova` para `ativa` (uma rodada de ausência na primeira página é cobertura, não esfriamento). As notas de dança, parentalidade e infantil desses mesmos gateways **não** foram decaídas: vieram da Biblioteca, e a primeira página do RA não é instrumento para elas. **73 notas continuam `nova` depois da estreia.** É dívida do contrato, e não se paga sem uma passada de manutenção pela Biblioteca.
+
+**Cuidados.** `dias_no_ar` de Treino Trinca e Paizão é limite inferior: só a primeira leva de anúncios carregou (30 de ~91; 8 numa busca larga por "paizão"). Os `criativos_ultima` também são contagens parciais e não servem de base para `criativos_delta` sem repetir a mesma busca. Nenhuma das 14 estreias teve LP aberta.
+
+---
+
+## Leitura anterior — 2026-09-26 (rodadas agendadas de 22 a 26/09)
 
 Lista completa, separada pelo que fazer: [[2026-09-27 -- novidades-22-a-26-09]].
 

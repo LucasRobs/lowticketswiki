@@ -21,25 +21,25 @@ modelo: [quiz]
 formato_entrega: [curso, comunidade]
 tem_recorrencia: true
 s_ticket: 7
-s_lucro: 9
+s_lucro: 8
 s_replica: 6
 s_saturacao: 4
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-22
-rodadas_vista: 3
-dias_no_ar: 0
-criativos_ultima: 0
+visto_ultimo: 2026-09-27
+rodadas_vista: 4
+dias_no_ar: 50
+criativos_ultima: 91
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 12
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-22
+ra_checado: 2026-09-27
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -120,3 +120,15 @@ O que segura `treino-trinca` fora do corte de replicacao continua sendo `s_repli
 a oferta tem rosto (Pedro Lotz) e o rosto e parte da conversao.
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/atraso-na-liberacao-do-treino-e-falta-de-suporte_Pl3cl-kkgs0wZIsO/
+
+## Rodada 2026-09-27
+
+12 mencao(oes) nesta varredura (gateway Lastlink). Duas reclamacoes novas em 26/09 (IDs 260142269 e 260143667, acima do maior ID anterior 256520497); uma descreve a escada cobrada: R$ 110 + 67 + 37. Biblioteca de Anuncios em 27/09: ~91 anuncios ativos de Pedro Lotz (LP ltz.pedrolotz.online), o mais antigo carregado de 08/08.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/quero-o-reembolso-do-programa-treino-trinca_d3v8u5FiwbakOPEJ/
+
+## Medicao 2026-09-27 (rodada diaria, Biblioteca de Anuncios + RA Lastlink)
+- Busca exata "treino trinca": **~91 anuncios ativos** de Pedro Lotz, LP `ltz.pedrolotz.online`, dois textos ("Participe do Desafio Treino Trinca... 28 dias" e "a metodologia que as famosas estao usando"). Das 30 carregadas, a mais antiga e de **08/08/2026** → `dias_no_ar: 50` (limite inferior; as outras 61 nao foram carregadas). Criativos novos de 17 a 23/09: esta escalando agora.
+- Reclamacoes novas na Lastlink: IDs **260142269** e **260143667** (26/09), acima do maior ID anterior (256520497) → `ra_reclamacoes` 10 → 12. Uma descreve a escada efetivamente cobrada: **R$ 110 + 67 + 37**.
+- `s_lucro` 9 → **8**: agora medido (45-90 dias, criativos subindo), mas 9-10 exige 90+ dias. O 9 anterior era palpite (ver adendo de 31/08 do Scoring.md).
+- As reclamacoes estao na Lastlink, nao na Hotmart do `checkout`; nao troquei o `checkout` sem abrir a LP.

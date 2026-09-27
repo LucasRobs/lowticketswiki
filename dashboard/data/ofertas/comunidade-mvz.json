@@ -65,7 +65,8 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp"
+   "sem-lp",
+   "status-vencido"
   ],
   "gateways": [
    "cakto"
