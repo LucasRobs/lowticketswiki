@@ -270,5 +270,6 @@ Biblioteca de Anúncios**. Filtros por nicho, veredito, "só com página" e "2+ 
 
 https://claude.ai/code/artifact/a9f45cac-2553-48ec-8e9b-f86fdb7ec13f
 
-Fonte dos dados: `_meta/ofertas-export.json`, gerado a partir do frontmatter das notas de
-`Ofertas/`. Reexportar e republicar depois de cada rodada.
+Fonte dos dados: `_arquivo/exports-antigos/ofertas-export-2026-08-21.json` — foto de 21/08,
+congelada. **Substituída pelo dashboard** (`dashboard/`, publicado na Vercel), que lê todas as
+notas e se atualiza sozinho a cada mineração publicada: ver [[dashboard/README|Dashboard]].

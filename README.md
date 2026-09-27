@@ -19,19 +19,25 @@ Se você só tivesse `Ofertas/`, saberia *o que existe*. Com `Observacoes/` voc�
 
 ## Ciclo diário
 
-1. A skill `radar-low-ticket` roda e minera o mercado.
-2. Para cada oferta encontrada:
-   - já existe em `Ofertas/`? → atualiza `visto_ultimo`, `rodadas_vista`, `criativos_*`, recalcula `status`
-   - é nova? → cria a nota de oferta a partir de `Templates/T-Oferta.md`
-   - sempre → grava um snapshot novo em `Observacoes/`
-3. Ofertas não vistas hoje: `status` decai (ver `_meta/Scoring.md`).
-4. Grava a nota da rodada em `Radar/YYYY-MM-DD.md`.
-5. `_meta/radar-commit.sh` commita tudo — o `git diff` entre dois dias é o relatório
-   de movimento mais honesto que existe.
+1. A tarefa agendada (6x/dia) roda a skill `radar-low-ticket` e minera o mercado.
+2. Ela grava os achados em `Radar/dados/achados-AAAA-MM-DD-HHMM.json` e roda **um comando só**:
+   `python3 _meta/publicar.py --achados Radar/dados/achados-AAAA-MM-DD-HHMM.json`
+   - já existe em `Ofertas/`? → atualiza `visto_ultimo`, `rodadas_vista`, `ra_*`, `status`
+   - é nova? → cria a nota de oferta (mesmo contrato de `Templates/T-Oferta.md`)
+   - sempre → grava um snapshot novo em `Observacoes/` e a nota da passada em `Radar/rodadas/`
+   - regenera `dashboard/data/` e commita (no Mac, também envia pro GitHub)
+3. Ofertas não vistas hoje: `status` decai (ver `_meta/Scoring.md`) — hoje só em passada de manutenção.
+4. A nota do dia fica em `Radar/YYYY-MM-DD.md`, com a lista das passadas.
+5. O push pro GitHub republica o **dashboard** na Vercel. O `git diff` entre dois dias continua
+   sendo o relatório de movimento mais honesto que existe (`_meta/radar-diff.sh`).
 
 ## Onde olhar
 
 Comece por [[Inicio]] — o mapa do vault.
+
+**Dashboard (site na Vercel)** — tudo o que já foi minerado, com busca, filtros, a nota de
+cada oferta, as rodadas e a qualidade dos dados; atualiza sozinho a cada mineração publicada.
+Como publicar e como funciona: [[dashboard/README|dashboard/README]].
 
 
 Abra `Bases/` — quatro visões:
@@ -49,8 +55,6 @@ Abra `Bases/` — quatro visões:
 - `_meta/Schema.md` — as propriedades exatas que a skill deve gravar
 - `_meta/Scoring.md` — a rubrica dos 4 eixos e como o score é calculado
 
-# lowticketswiki
-
 ## Outras pastas
 
 | Pasta | O que tem |
@@ -61,6 +65,19 @@ Abra `Bases/` — quatro visões:
 | `Nichos/` | Notas de nicho |
 | `Ativos/` | Ativos capturados pelo unFunnelizer |
 | `Claude outputs/` | Planilhas e HTMLs entregues fora da rodada diária |
-| `_meta/` | Contratos (Schema, Scoring, Pipeline) e scripts ativos: `sync_vault.py`, `collect_complaints.py`, `radar-commit.sh`, `radar-diff.sh` |
+| `dashboard/` | O site (Vercel, Root Directory = `dashboard`). `dashboard/data/` é **gerado** do vault — não editar |
+| `_meta/` | Contratos (Schema, Scoring, Pipeline) e scripts: `publicar.py` (comando único do pipeline), `exportar_dados.py` (vault → dashboard + validação), `vault.py` (parser/formato canônico), `sync_vault.py`, `collect_complaints.py`, `radar-commit.sh`, `radar-diff.sh`, `hooks/pre-commit`, `Publicar.command` (Mac) |
 | `_arquivo/mineracao-2026-08/` | Scripts, JSONs e debug da mineração manual de ago/set. Só histórico — nada do ciclo diário depende disso |
+| `_arquivo/exports-antigos/` | Exports avulsos substituídos pelo dashboard (`ofertas-export`, `export-planilha`) |
 | `_to_delete/` | Quarentena (fora do git). Esvaziada em 27/09; pode apagar de novo quando encher |
+
+## Comandos
+
+| Quero… | Rodar (na pasta `lowticket`) |
+|---|---|
+| Gravar uma passada de mineração e publicar | `python3 _meta/publicar.py --achados Radar/dados/achados-….json` |
+| Só atualizar o dashboard e commitar o que mudou | `python3 _meta/publicar.py` |
+| Validar o vault (vocabulário, datas, slugs, regra do s_lucro) | `python3 _meta/publicar.py --verificar` |
+| Padronizar frontmatter vindo de outra ferramenta | `python3 _meta/vault.py normalizar --aplicar` |
+| Enviar pro GitHub pelo Finder | dois cliques em `_meta/Publicar.command` |
+| Ver o site localmente | `cd dashboard && node dev/servidor.js` |

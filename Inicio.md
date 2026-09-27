@@ -8,9 +8,10 @@ atualizado: 2026-09-27
 Porta de entrada. A leitura do dia está no [[Painel]]; como o vault funciona está no [[README]].
 
 ## Operação diária
+- **[[dashboard/README|Dashboard]]** — o site na Vercel com todas as ofertas mineradas, ao vivo (fonte: este vault)
 - [[Painel]] — leitura consolidada + rankings vivos
 - Rodadas: `Radar/YYYY-MM-DD.md` (última: [[2026-09-26]]) · cada passada da tarefa agendada em `Radar/rodadas/` (tabela no fim desta nota) · exports da skill em `Radar/exports/` · planilha acumulada `Radar/radar-low-ticket.xlsx`
-- Contratos: [[Schema]] · [[Scoring]] · [[Pipeline]]
+- Contratos: [[Schema]] · [[Scoring]] · [[Pipeline]] · publicar uma passada: `python3 _meta/publicar.py --achados <json>`
 
 ## Visões (Bases)
 - [[Ofertas.base|Ofertas]] — tudo, ranqueado por score

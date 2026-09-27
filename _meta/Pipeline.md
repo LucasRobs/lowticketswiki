@@ -410,3 +410,24 @@ tambem recusada pelo navegador interno) e duas por serem aplicacoes JS que retor
 Nesses casos, **o cartao de link do proprio anuncio costuma trazer o preco** ("Por apenas R$ 10,00")
 e serve como fonte. Registrar `checkout: desconhecido` — a sentinela do `Schema.md` — e nao
 estimar gateway.
+
+---
+
+## Adendo — Etapa 4 agora é um comando só (2026-09-27)
+
+A ordem da Etapa 4 (snapshot → oferta → rodada → commit) continua a mesma, mas quem executa é
+`python3 _meta/publicar.py --achados <json>` — ver o adendo de 27/09 no `Schema.md`. Ele também
+regenera os dados do dashboard (`dashboard/data/`) e, rodando no Mac, envia pro GitHub, o que
+republica o site na Vercel. O `radar-commit.sh` continua funcionando (e agora exporta o
+dashboard antes de commitar), mas o caminho preferido é o `publicar.py`.
+
+**Onde cada coisa roda.** O VM do Cowork (tarefa agendada, sessão assistida) grava e commita,
+mas não alcança o GitHub (proxy devolve 403) e não consegue apagar arquivo (git deixa `.lock`
+órfão — o `publicar.py` varre por `mv`, como o `radar-commit.sh` já fazia). O envio é do Mac:
+Obsidian Git com *Custom base path* = `lowticket`, ou dois cliques em `_meta/Publicar.command`.
+Nunca rodar `git pull`/`merge`/`checkout` pelo VM: essas operações precisam apagar arquivo e
+deixariam o repositório no meio do caminho.
+
+**Mac desligado na hora da passada.** A tarefa agendada guarda o JSON da passada no Projeto
+Claude (`claude/fila/achados-AAAA-MM-DD-HHMM.json`) e a próxima passada com o Mac ligado grava a
+fila no vault antes de minerar. Nada se perde; só chega atrasado ao dashboard.

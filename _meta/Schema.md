@@ -273,3 +273,62 @@ origem: ""                # de onde veio o texto, se nao foi escrito direto aqui
 contagem de rodadas. A passada com `coleta: sem-coleta` **nao** roda o `sync_vault.py` — so deixa a
 nota, para o buraco ficar visivel.
 
+
+---
+
+## Adendo — o vault alimenta o dashboard (2026-09-27, segunda passada)
+
+O site da Vercel (`dashboard/`) lê **só** `dashboard/data/`, e essa pasta é gerada por
+`_meta/exportar_dados.py` a partir das notas. Nada ali é editado à mão; o contrato continua
+sendo este arquivo. O que mudou para a skill e para quem escreve nota:
+
+### 1. Um comando grava a passada inteira
+
+A passada termina com o JSON de achados salvo em `Radar/dados/achados-AAAA-MM-DD-HHMM.json` e
+
+```
+python3 _meta/publicar.py --achados Radar/dados/achados-AAAA-MM-DD-HHMM.json
+```
+
+que roda o `sync_vault.py`, grava a nota da passada em `Radar/rodadas/`, acrescenta a passada
+em `## Passadas do dia` da nota do dia, regenera `dashboard/data/` e commita (no Mac, envia).
+O JSON é o da skill `radar-low-ticket`, com um bloco opcional `passada`:
+
+```json
+"passada": {
+  "hora": "13:00",
+  "gateways": ["perfectpay", "cakto"],
+  "paginas": 12,
+  "coleta": "ok",
+  "relatorio": "## Quentes\n- [[slug]] — gateway · por quê\n\n## Mornas\n- ...\n\nLeitura: 1-2 linhas",
+  "resumo": "uma linha para a lista de passadas do dia"
+}
+```
+
+`coleta: sem-coleta` com `achados: []` registra a passada vazia sem tocar em `Ofertas/`
+(a falha fica visível no dashboard, em *Rodadas → Saúde da coleta*). A passada automática
+**não** reescreve a `## Leitura da rodada` do dia: ela é texto de consolidação, não de passada.
+`--leitura "…"` continua existindo para uso manual.
+
+### 2. Formato canônico do frontmatter
+
+Listas inline (`[a, b]`), strings com aspas duplas quando precisam, campo vazio sem valor,
+datas `AAAA-MM-DD` sem aspas. Nota que chegar em estilo PyYAML (listas em bloco, aspas simples,
+`null`) — como as de 11/09 — é lida corretamente, mas deve ser padronizada com
+`python3 _meta/vault.py normalizar --aplicar` (reescreve só o frontmatter). Motivo: o parser
+antigo do `sync_vault.py` lia lista em bloco como vazio e apagaria `tags`/`modelo` ao atualizar
+a nota. O parser agora é comum (`_meta/vault.py`) e entende os dois estilos.
+
+### 3. Validação a cada exportação
+
+`python3 _meta/publicar.py --verificar` lista erros (frontmatter ilegível, slug ≠ nome do
+arquivo, snapshot apontando para oferta inexistente, data inválida) e avisos (vocabulário fora
+das listas deste arquivo, escala 0-10, `s_lucro >= 7` sem insumo de longevidade, `status: nova`
+vencido). O dashboard mostra o mesmo relatório em *Qualidade*.
+
+### 4. Campos calculados (só no dashboard, nunca gravados na nota)
+
+`score` e `decisao` seguem a fórmula do `Scoring.md` (mesma das Bases). `flags` sinaliza o que
+torna o número frágil: `lucro-sem-medicao`, `score-provisorio` (algum eixo em 0 = sentinela),
+`sem-longevidade`, `checkout-desconhecido`, `sem-lp`, `status-vencido`. Decisão "descartar" com
+score provisório aparece como **"A avaliar"** — a fórmula não decide com eixo sentinela.
