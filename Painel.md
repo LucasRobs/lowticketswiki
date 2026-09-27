@@ -27,6 +27,18 @@ As passadas agendadas de 24, 25 e 26/09 gravaram só no Projeto Claude. Em 27/09
 
 ---
 
+## Leitura anterior — 2026-09-11 · parentalidade, TEA e TDAH (rodada dirigida)
+
+**Rodada dirigida: 7 novas ofertas, 3 revisitadas e 10 snapshots.** Relatório: [[2026-09-11]].
+
+Prioridades por aderência: [[31-segredos-pais-tdah]] para TDAH e escola; [[tdah-tod-paula-frati]] para conflitos familiares; [[autismo-para-pais-lacerda]] para organização parental; [[meu-filho-e-unico-horleana]] e [[parentalidade-atipica-sarah-hayden]] para TEA + TDAH.
+
+[[tea-sem-crise]] tem quatro anúncios ativos observados, pelo menos três vídeos distintos e anúncio desde 12/08; frente capturada em R$71. Os dois kits Só Escola responderam nesta consulta, por R$47 (TDAH) e R$37 (autismo). Não são manuais de parentalidade.
+
+A Biblioteca de Anúncios funcionou nesta rodada. Ainda faltam métricas de tráfego para a maioria das ofertas; lucro não foi medido. **Scores e decisões automáticas nas Bases abaixo continuam provisórios quando faltam dados.** As outras ofertas não foram reclassificadas por falta de cobertura.
+
+---
+
 ## Leitura anterior — 2026-08-31 (segunda passada)
 
 **110 notas · 91 ofertas · 19 angulos · 0 novas nesta passada · 1 no corte de replicacao**
