@@ -1,0 +1,114 @@
+{
+ "slug": "soulmate-sketcher",
+ "arquivo": "Ofertas/soulmate-sketcher.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "soulmate-sketcher",
+  "nome": "The Soulmate Sketcher",
+  "nicho": "esoterico",
+  "sub_nicho": "retrato-alma-gemea",
+  "idioma": "pt-BR",
+  "pais": "INTL",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "proprio",
+  "url_pagina": "https://thesoulmatesketcher.com/pt",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&q=soulmate%20sketch&search_type=keyword_unordered&media_type=all",
+  "moeda": "USD",
+  "ticket_frente": 27,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 27,
+  "margem_est": 0.97,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "servico-digital"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 4,
+  "s_replica": 8,
+  "s_saturacao": 6,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-30",
+  "visto_ultimo": "2026-08-30",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/soulmate-sketcher",
+  "gateways_detectados": [
+   "proprio"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-30",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "esoterico",
+   "gringa"
+  ]
+ },
+ "calc": {
+  "score": 6.1,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "proprio"
+  ]
+ },
+ "corpo": "# The Soulmate Sketcher\n\nA versao **feita direito** do [[retrato-da-alma-gemea]]. Mesmo produto, mesmo mecanismo, e a\ndiferenca inteira esta em tres decisoes de estrutura — e o ticket sai de R$ 29 para US$ 27\n(~5x) com o mesmo custo de entrega.\n\n## O que muda em relacao a operacao BR\n\n**1. Empilha entregaveis em vez de vender um desenho.** O pacote e:\n\n- retrato em grafite (upgrade colorido no checkout — o bump)\n- leitura de personalidade, em documento a parte\n- \"janela do encontro\" / linha do tempo, em documento a parte\n- cartao com sinais de reconhecimento\n\nQuatro pecas, todas geradas na mesma passada. O comprador BR recebe um JPEG; aqui ele recebe\num kit. E o mesmo movimento que o [[mulher-crista-saude-mental]] chamou de pilha de bonus\nprecificados individualmente, aplicado a um servico em vez de a um PDF.\n\n**2. Prova social numerica em cima da escassez.** A headline e\n*\"+500 rostos ja desenhados. Uma vaga continua vazia — a sua.\"* Nao promete o desenho —\npromete a **vaga**. Converte um servico infinito em fila finita.\n\n**3. Garantia de 30 dias, sem perguntas.** A operacao BR da 7 dias e nao honra. Trinta dias\ndeclarados em cima de um produto de custo zero e o que permite cobrar 5x mais: e o preco da\nobjecao, nao o preco do desenho.\n\n## Checkout proprio\n\n`thesoulmatesketcher.com/pt/comecar`, com `/my-orders` para o comprador acompanhar. Sem\ngateway de infoproduto no meio — nao aparece em varredura de Reclame Aqui, e por isso\n`ra_reclamacoes: 0` aqui **nao significa ausencia de volume**. Significa que essa operacao e\ninvisivel para o metodo do vault. So a Biblioteca de Anuncios mede.\n\nServe PT-BR na URL `/pt` cobrando em dolar. E o teste que interessa: **se o publico brasileiro\npaga US$ 27 nessa estrutura, o teto do nicho no BR nao e R$ 29 — e falta de oferta.**\n\n`veredito: replicar`. E a unica nota do recorte com esteira legivel, entrega definida e sem\nrastro de nao-entrega.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-30",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 27,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Snapshot de estreia (nota criada na passada da manha de hoje). Versao internacional do mesmo mecanismo com checkout proprio — invisivel a varredura de RA, entao `ra_reclamacoes: 0` aqui nao mede volume. US$ 27 servindo pt-BR."
+  },
+  {
+   "data": "2026-08-31",
+   "fonte": "auditoria-interna",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 27,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Nao avistada — nenhuma fonte tocou a oferta nesta passada. Snapshot de **correcao de score**, nao\nde observacao de campo.\n\nEntrou em 30/08 com `s_lucro: 9`, `veredito: replicar` e `prioridade: 3` — topo do Ranking do vault.\nOs insumos do eixo: `dias_no_ar: 0`, `criativos_ultima: 0`, `ra_reclamacoes: 0`, e o corpo da nota\ndeclarando que `checkout: proprio` a torna invisivel para o Reclame Aqui e que **\"so a Biblioteca de\nAnuncios mede\"**. A nota afirmava nao ter instrumento e mesmo assim marcou o maximo do eixo de\npeso 35.\n\nAplicado o teto do adendo de 31/08 do `Scoring.md`: `s_lucro` **9 → 4**. Score **7,85 → 6,10**,\n`veredito` replicar → observar, `prioridade` 3 → 2.\n\nIsso nao e um julgamento contra a oferta — a leitura estrutural da nota de 30/08 continua de pe, e\na tese (empilhar entregaveis, garantia de 30 dias, cobrar 5x o BR) continua sendo a coisa mais\ninteressante do recorte. E um julgamento contra **pontuar longevidade sem ter medido longevidade**.\nSobe de volta assim que a Etapa 1 der `dias_no_ar`.\n\n`status` nova → ativa: uma rodada de ausencia e cobertura, nao sinal (adendo de 23/08)."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-30.md",
+   "data": "2026-08-30",
+   "titulo": "Radar 2026-08-30"
+  }
+ ]
+}

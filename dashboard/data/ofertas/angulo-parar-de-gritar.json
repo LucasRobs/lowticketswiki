@@ -1,0 +1,100 @@
+{
+ "slug": "angulo-parar-de-gritar",
+ "arquivo": "Ofertas/angulo-parar-de-gritar.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-parar-de-gritar",
+  "nome": "Ângulo — Pare de gritar com seu filho",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "birra-disciplina",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=parar%20de%20gritar%20filho&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 37,
+  "margem_est": 0.9,
+  "modelo": [
+   "vsl",
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 7,
+  "s_replica": 9,
+  "s_saturacao": 4,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "hotmart",
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 6.55,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "hotmart",
+   "kiwify"
+  ]
+ },
+ "corpo": "# Ângulo — Pare de gritar\n\n**O hook-mãe do nicho inteiro.** Três operações independentes convergem nele:\n[[pare-de-gritar-com-seu-filho]] (é o nome do produto), [[domando-a-teimosia]]\n(\"sem gritar e sem culpa\") e [[disciplina-positiva-em-casa]] (\"sem gritos nem castigo\nfísico\"). Convergência de três é validação de mercado.\n\n## A inversão que faz funcionar\n\nO produto parece ser sobre a criança. **Não é.** É sobre a culpa da mãe.\n\nEla não compra porque o filho grita — compra porque **ela** gritou de novo ontem à noite\ne se odiou depois. O criativo que converte fala com a compradora sobre ela mesma, não\nsobre a criança. Todo o resto do nicho fala sobre a criança; é aí que está a brecha.\n\n## Termos de busca\n\n`parar de gritar filho` · `educar sem gritar` · `mãe que grita` · `me arrependo de gritar`\n\n## Fórmula de headline extraída\n\n`[3 sintomas] com [3 qualidades] — sem [2 objeções]`\n→ \"Lide com birras, teimosia e desobediência com calma, firmeza e afeto — sem gritar e\nsem culpa\"\n\nFunciona porque nomeia o sintoma na linguagem da mãe, promete o estado desejado, e mata\nas duas objeções (\"vou virar autoritária\" / \"a culpa é minha\") na mesma frase.\n\n## Onde está o espaço\n\nSaturação 4: o ângulo é conhecido. Mas quase todo mundo executa como ebook de disciplina\npositiva. Nenhum executa como **produto de autorregulação da mãe** — respiração, gatilho,\nplano de 10 segundos antes de explodir. Esse é o recorte livre.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo novo. Convergencia de 3 operacoes independentes na mesma frase — validado por mercado.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

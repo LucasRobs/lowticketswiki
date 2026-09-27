@@ -1,0 +1,105 @@
+{
+ "slug": "angulo-sono-bebe",
+ "arquivo": "Ofertas/angulo-sono-bebe.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-sono-bebe",
+  "nome": "Ângulo — Bebê dormir a noite toda",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "sono-infantil",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=beb%C3%AA%20dormir%20noite%20toda&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 27,
+  "ticket_bump": 0,
+  "ticket_upsell": 397,
+  "ticket_medio_est": 60,
+  "margem_est": 0.92,
+  "modelo": [
+   "vsl",
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook",
+   "curso"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 8,
+  "s_replica": 8,
+  "s_saturacao": 3,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 7.05,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Ângulo — Sono infantil\n\n**O sub-nicho mais lotado e mais lucrativo do cluster.** Seis ofertas distintas\nconfirmadas numa única busca: O Poder do Sono, Método Soninho do Bebê, Guia Para o Bebê\nDormir, Protocolo do Sono Sereno, Método Dream Baby, Curso de Sono 0-2 anos.\n\n## A escada de preço é o achado\n\nR$ 25 → R$ 50 → R$ 97 → **R$ 397** (ancorado em R$ 1.570). O mesmo público sobe a escada\ninteira. É o único sub-nicho do cluster onde o high ticket já está validado — mãe privada\nde sono há 8 meses paga qualquer coisa.\n\n`s_ticket: 7` reflete isso: não é um nicho de R$ 27, é um nicho de R$ 27 **na porta**.\n\n## Termos de busca\n\n`bebê dormir noite toda` · `bebê não dorme` · `método sono bebê` · `treinamento do sono`\n\n## Por que a saturação é 3 e ainda assim vale\n\nEstá lotado de ofertas quase idênticas — todas prometem \"dormir a noite toda\", todas em\nHotmart, todas com o mesmo criativo de mãe exausta. Justamente por isso o diferencial de\ncriativo custa pouco: qualquer ângulo novo se destaca num feed uniforme.\n\n**Recorte livre:** ninguém segmenta por idade específica no criativo. \"Regressão do sono\ndos 8 meses\" é uma dor com nome próprio que a mãe já googlou, e nenhuma das seis ofertas\na usa como headline.\n\n## O que evitar\n\nPrometer \"noite toda\" literal. É a promessa que gera reembolso e reclamação, e a que\nlimita a escala do criativo por rejeição.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 27,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo novo. 6 ofertas distintas confirmadas numa busca. Escada de R$25 a R$397 ja validada.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

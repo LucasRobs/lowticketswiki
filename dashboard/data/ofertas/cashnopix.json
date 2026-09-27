@@ -1,0 +1,218 @@
+{
+ "slug": "cashnopix",
+ "arquivo": "Ofertas/cashnopix.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "cashnopix",
+  "nome": "Cashnopix / Cash no Pix",
+  "nicho": "renda-celular-cashback",
+  "sub_nicho": "cashback-pix",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "perfectpay",
+  "url_pagina": "https://cashnopix.net/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cash%20no%20Pix&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 39,
+  "ticket_bump": 67,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 107,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 8,
+  "s_replica": 3,
+  "s_saturacao": 3,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-09-25",
+  "rodadas_vista": 6,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/cashnopix",
+  "gateways_detectados": [
+   "perfectpay"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 5,
+  "ra_plataformas": [
+   "perfectpay"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-09-25",
+  "veredito": "descartar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 5.55,
+  "decisao": "descartar",
+  "flags": [
+   "lucro-sem-medicao",
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "perfectpay"
+  ]
+ },
+ "corpo": "# Cashnopix / Cash no Pix\n\n## Angulo\nGanhe avaliando produtos / assistindo videos, com saldo acumulado em cashback via Pix. Grafias: Cashnopix, Cash no Pix, Cash Pix.\n\n## Funil\nanuncio -> app -> saldo acumula -> saque bloqueado -> taxa de liberacao -> segunda taxa -> terceira. Um reclamante somou R$107,80 em dois Pix.\n\n## Por que funciona\nCinco reclamacoes em 50 amostradas, todas descrevendo a mesma cascata de taxas. Volume alto e recorrente na PerfectPay.\n\n## O que copiar / o que evitar\nRegistrado como referencia de mecanica, nao como candidata. O modelo depende de nunca pagar o saque - nao ha versao honesta disso para replicar.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (5 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/cobranca-para-liberacao-de-saldo-e-propaganda-enganosa-no-cashnopix_-Av-lIMQePl-aZU2/\n\n## Historico\n\n## Correção 2026-08-21 — família de clones ativa\n\nPágina de vendas confirmada: **`cashnopix.net`**, CTA \"Ativar App + R$ 50 de Bônus\".\nDomínios espelho vistos em busca: `cashnopix.pro`, `cashnopix.cloud`, `cashnopix.com`.\n\nTrate como **família de clones**, não oferta única — mesma leitura de escala que vale\npara [[parabolas-kids]] e [[kit-300-aulas-edfisica]]: quem rotaciona domínio está\nrodando verba.\n\n## Rodada 2026-09-22\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Sistema que promete retorno de valores via Pix conforme preenchimento de códigos. Propaganda enganosa: não devolve. Aparece também como Cashnopix (variação).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/cash-no-pix_91pwfUR5vkw3GZmw/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). App de cashback falso com cobranças pra liberar saldo. Propaganda enganosa.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/cobranca-para-liberacao-de-saldo-e-propaganda-enganosa-no-cashnopix_-Av-lIMQePl-aZU2/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada 04h41, 14h12 e 23h00. Mesma mecanica: cobra Pix do usuario para liberar o saldo 'ganho'.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Cobra Pix para liberar saque.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 39,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 5 mencao/mencoes em 1 gateway(s): perfectpay. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 39,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Pagina de vendas confirmada (cashnopix.net) + 3 dominios espelho. Familia de clones ativa.\n\nRodada de complemento: busca dedicada por pagina de vendas, sem nova varredura de\nReclame Aqui. `ra_reclamacoes` mantido — nao houve nova coleta, entao nao incrementa."
+  },
+  {
+   "data": "2026-09-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 39,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "RETORNOU. Estava `morta` desde 21/08. Reapareceu com mencoes na varredura de 22/09, mesma mecanica de cascata de taxas de liberacao. ra_reclamacoes mantido em 5 (nota antiga) por falta de dedup confiavel nesta captura — nao incrementado sem confirmar reclamacoes novas por ID."
+  },
+  {
+   "data": "2026-09-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. App de cashback falso com cobranças pra liberar saldo. Propaganda enganosa."
+  },
+  {
+   "data": "2026-09-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Avistada 04h41, 14h12 e 23h00. Mesma mecanica: cobra Pix do usuario para liberar o saldo 'ganho'."
+  },
+  {
+   "data": "2026-09-25",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Cobra Pix para liberar saque."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-25 -- 0600.md",
+   "data": "2026-09-25",
+   "titulo": "Passada 2026-09-25 06:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-25.md",
+   "data": "2026-09-25",
+   "titulo": "Radar 2026-09-25"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 2300.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 23:00"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 1412.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 14:12"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 0441.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 04:41"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-24.md",
+   "data": "2026-09-24",
+   "titulo": "Radar 2026-09-24"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-23.md",
+   "data": "2026-09-23",
+   "titulo": "Radar 2026-09-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-22.md",
+   "data": "2026-09-22",
+   "titulo": "Radar 2026-09-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

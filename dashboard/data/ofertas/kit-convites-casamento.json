@@ -1,0 +1,170 @@
+{
+ "slug": "kit-convites-casamento",
+ "arquivo": "Ofertas/kit-convites-casamento.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "kit-convites-casamento",
+  "nome": "Kit 1.000 Convites e Envelopes de Casamento (editáveis)",
+  "nicho": "artesanato",
+  "sub_nicho": "convites-casamento",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "lowify",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=convites%20de%20casamento%20edit%C3%A1veis&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 24.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 25,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "planilha",
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 4,
+  "s_replica": 9,
+  "s_saturacao": 6,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-27",
+  "rodadas_vista": 5,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "lowify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "lowify"
+  ],
+  "ra_primeira_reclamacao": "2026-08-20",
+  "ra_checado": "2026-08-27",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "templates"
+  ]
+ },
+ "calc": {
+  "score": 5.6,
+  "decisao": "descartar",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "lowify"
+  ]
+ },
+ "corpo": "# Kit 1.000 Convites e Envelopes de Casamento\n\nDescoberta pela lista de reclamações da Lowify — o caminho que o `Pipeline.md` prescreve\ncomo fonte de descoberta, não só de validação. Terceira confirmação do método.\n\n## Ângulo\n**Número na headline como prova de valor.** \"1.000 envelopes + brindes + vídeo explicativo,\ntodos editáveis\" por R$ 24,90. O comprador não conta mil arquivos — conta o zero à direita.\nÉ o mesmo mecanismo de [[planos-aula-infantil-500]] e [[kit-300-aulas-edfisica]]: o vault\njá tem três ofertas vivas construídas sobre uma quantidade grande e redonda.\n\n## Funil\nNão capturado. A reclamação de 20/08/2026 diz que a entrega foram **2 convites e 2\nenvelopes**, sem os brindes — o que é informação de anatomia, não só de volume: o produto\nreal é pequeno e a promessa é o pacote. Ou é entrega quebrada, ou o \"1.000\" é a soma de\ncombinações de um punhado de templates.\n\n## Estado dos dados\n- **Confirmado:** existe, vende, cobra R$ 24,90, roda em Lowify, reclamação de 20/08/2026.\n- **Provisório:** ticket médio — não há bump/upsell conhecido; se houver, sobe muito.\n- **Faltando:** página de vendas, anunciante, tempo no ar, criativos.\n\n`s_replica: 9` — é o eixo forte. Pacote de templates editáveis é entrega digital trivial,\nfunil de duas páginas, produção resolvível em Canva. `s_ticket: 3` é o teto: R$ 24,90 sem\nbump não paga tráfego frio, o que sugere origem orgânica ou margem apertada.\n\n## Rodada 2026-08-22 — mesma reclamacao, data corrigida\n\nReapareceu no topo da lista da Lowify com rotulo \"Ha 2 dias\". Corpo aberto: **20/08/2026\nas 19:39**, ID 256998079 — a mesma reclamacao ja registrada em 21/08.\n`ra_reclamacoes` permanece 1.\n\n`ra_primeira_reclamacao` corrigida de 2026-08-21 (data da rodada) para 2026-08-20 (data de\nabertura). A rodada anterior gravou a data errada; o campo agora segue a regra do\n`Schema.md` de forma consistente com as notas criadas hoje.\n\nO valor confirmado permanece **R\\$ 24,90** para \"1.000 envelopes + brindes + video\nexplicativo editaveis\", com entrega efetiva de 2 convites e 2 envelopes.\n\n## Rodada 2026-08-23\n\nReclamacao de 20/08 na Lowify confirma o ticket de 24,90 e a promessa exata do anuncio: \"1.000 envelopes de casamento mais alguns brindes e video explicativo editaveis\". O comprador recebeu 2 convites e 2 envelopes. Segunda reclamacao da oferta; o gap entre promessa e entrega e o proprio mecanismo de conversao.\n\n## Rodada 2026-08-24\n\nLowify, mesma reclamacao do pacote de 1.000 envelopes de 23/08. Sem alteracao.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 24.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparição. Descoberta na lista de reclamações da Lowify (reclamação de 20/08/2026, R$ 24,90). Entrega relatada como incompleta — 2 convites e 2 envelopes contra 1.000 prometidos."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 24.9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Vista na listagem da Lowify com rotulo 'Ha 2 dias'; corpo aberto e de 20/08 — a mesma ja registrada. ra_primeira_reclamacao corrigida para 2026-08-20."
+  },
+  {
+   "data": "2026-08-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 24.9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Reclamacao de 20/08 na Lowify confirma o ticket de 24,90 e a promessa exata do anuncio: \"1.000 envelopes de casamento mais alguns brindes e video explicativo editaveis\". O comprador recebeu 2 convites e 2 envelopes. Segunda reclamacao da oferta; o gap entre promessa e entrega e o proprio mecanismo de conversao."
+  },
+  {
+   "data": "2026-08-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 24.9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Lowify, mesma reclamacao do pacote de 1.000 envelopes de 23/08. Sem alteracao."
+  },
+  {
+   "data": "2026-08-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Lowify. Mesma reclamacao ID 256998079 de 20/08/2026 (R$ 24,90, 2 convites entregues de 1.000). Rotulo da lista dizia 'Ha 2 dias'; o carimbo diz 20/08 — sete dias. Sem alteracao."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-27.md",
+   "data": "2026-08-27",
+   "titulo": "Radar 2026-08-27"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

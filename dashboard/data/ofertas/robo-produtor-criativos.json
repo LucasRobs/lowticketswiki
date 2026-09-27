@@ -1,0 +1,115 @@
+{
+ "slug": "robo-produtor-criativos",
+ "arquivo": "Ofertas/robo-produtor-criativos.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "robo-produtor-criativos",
+  "nome": "Robo Produtor de Criativos",
+  "nicho": "ferramentas-ia",
+  "sub_nicho": "criativos-ia",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kirvano",
+  "url_pagina": "https://robodofuturo.com.br/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Robo%20Produtor&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 97,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 97,
+  "margem_est": 0.85,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 6,
+  "s_replica": 5,
+  "s_saturacao": 3,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/robo-produtor-criativos",
+  "gateways_detectados": [
+   "kirvano"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "kirvano"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-16",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 5.45,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "kirvano"
+  ]
+ },
+ "corpo": "# Robo Produtor de Criativos\n\n## Angulo\nFerramenta de IA que gera criativos de anuncio prontos. Publico e o proprio infoprodutor.\n\n## Funil\nanuncio -> pagina -> checkout Kirvano parcelado em 3x.\n\n## Por que funciona\nVender pa para garimpeiro. Parcelamento em 3x indica ticket acima de R$97.\n\n## O que copiar / o que evitar\nCopiar: o parcelamento como forma de subir ticket sem subir a barreira. Evitar: o nicho de marketing esta saturado - so entra com angulo novo.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (2 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/propaganda-enganosa-no-robo-produtor-de-criativos_iVsYlIi3WkBaFgNM/\n\n## Historico\n\n## Correção 2026-08-21 — funil na Inlead, dois gateways\n\nCandidato: **`robodofuturo.com.br`**, funil hospedado na **Inlead Cloud**. Reclamações\nconfirmam venda via **Tribo Pay** e **Kirvano** — dois gateways para o mesmo produto, que\né o sinal de operação já preparada para derrubada. Marcado como **incerto**: o WebFetch\nsó devolveu metadados.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 2 mencao/mencoes em 1 gateway(s): kirvano. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Candidato robodofuturo.com.br na Inlead Cloud. Dois gateways: Tribo Pay e Kirvano.\n\nRodada de complemento: busca dedicada por pagina de vendas, sem nova varredura de\nReclame Aqui. `ra_reclamacoes` mantido — nao houve nova coleta, entao nao incrementa."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

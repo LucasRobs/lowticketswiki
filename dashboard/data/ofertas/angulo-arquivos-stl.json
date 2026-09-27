@@ -1,0 +1,176 @@
+{
+ "slug": "angulo-arquivos-stl",
+ "arquivo": "Ofertas/angulo-arquivos-stl.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-arquivos-stl",
+  "nome": "Arquivos STL para impressao 3D",
+  "nicho": "artesanato",
+  "sub_nicho": "impressao-3d",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "wiapy",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=arquivos%20STL%20impressao%203D&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 30,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 30,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 7,
+  "s_replica": 8,
+  "s_saturacao": 8,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-27",
+  "rodadas_vista": 5,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/angulo-arquivos-stl",
+  "gateways_detectados": [
+   "wiapy"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 4,
+  "ra_plataformas": [
+   "wiapy"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-27",
+  "veredito": "replicar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo"
+  ]
+ },
+ "calc": {
+  "score": 6.85,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "wiapy"
+  ]
+ },
+ "corpo": "# Arquivos STL para impressao 3D\n\n## Angulo\nPacotes de arquivos STL prontos para quem tem impressora 3D. Publico com equipamento comprado e sede de conteudo.\n\n## Funil\nanuncio -> pagina -> checkout Wiapy -> download dos arquivos.\n\n## Por que funciona\nDuas mencoes na amostra da Wiapy e nenhum player conhecido. Publico auto-qualificado (ja gastou em impressora), entrega e arquivo, saturacao baixa. s_saturacao 8.\n\n## O que copiar / o que evitar\nCopiar: a logica 'quem comprou o equipamento precisa de conteudo pra ele' vale para impressora 3D, plotter de recorte, maquina de bordar e Cricut. Evitar: arquivo com defeito - foi exatamente a reclamacao.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (2 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/wiapy/arquivos-stl-com-defeito-e-diferentes-do-anunciado_xdSqNJPFhMT7qKV7/\n\n## Historico\n\n## Retorno 2026-08-22\n\nEstava `esfriando` desde 16/08 — duas rodadas sem aparecer. Voltou com reclamacao de\n**21/08/2026** (ID 257096749) na Wiapy: pacote de modelos 3D comprado, link enviado por\ne-mail, pagina de login que nao reconhece o e-mail do comprador. `ra_reclamacoes` 2 -> 3.\n\nSeis dias entre a primeira aparicao e esta, com reclamacao nova nos dois extremos: e venda\ncontinua, nao pico. `s_lucro` 6 -> 7.\n\nO detalhe da entrega importa. O produto nao vai por download direto — vai para uma **area\nde membros com login**, e o login e onde quebra. Uma oferta de arquivos STL nao precisa de\narea de membros; quem coloca uma esta protegendo o arquivo contra redistribuicao, o que\nsugere que o produtor sabe que o ativo e o catalogo e nao o funil.\n\nContinua sendo a oferta com `veredito: replicar` de maior `s_replica` do vault fora do\ncluster de PDFs. O que a segura fora do corte e `s_ticket: 4` — R\\$ 30 sem bump.\n**Um bump obvio existe e ninguem esta usando:** o proprio arquivo em resolucao maior, ou o\npacote de suportes/bases de impressao.\n\nEvidencia: https://www.reclameaqui.com.br/wiapy/problema-de-acesso-ao-pacote-de-modelos-3d-apos-compra_mAdXMhKWMnuuEgqL/\n\n## Rodada 2026-08-23\n\nWiapy, ha 16h: \"pacote de modelos 3D\" com link por e-mail que nao abre. Quarta reclamacao acumulada, terceira rodada consecutiva vista. Entrega por link de arquivo continua sendo o ponto de falha - e a evidencia de que vende.\n\n## Rodada 2026-08-24\n\nWiapy, mesma reclamacao do pacote de modelos 3D com link quebrado. Sem alteracao.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 30,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 2 mencao/mencoes em 1 gateway(s): wiapy. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 30,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Retorno de esfriando. Reclamacao de 21/08 na Wiapy: pacote de modelos 3D entregue via area de membros com login quebrado. s_lucro 6 -> 7."
+  },
+  {
+   "data": "2026-08-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 30,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Wiapy, ha 16h: \"pacote de modelos 3D\" com link por e-mail que nao abre. Quarta reclamacao acumulada, terceira rodada consecutiva vista. Entrega por link de arquivo continua sendo o ponto de falha - e a evidencia de que vende."
+  },
+  {
+   "data": "2026-08-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 30,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Wiapy, mesma reclamacao do pacote de modelos 3D. Sem alteracao."
+  },
+  {
+   "data": "2026-08-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Wiapy. Reclamacao de pacote de modelos 3D sem acesso ao link. Corpo nao aberto. Avistamento sem contagem."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-21 -- shortlist-replicaveis.md",
+   "data": "2026-08-21",
+   "titulo": "Shortlist de replicação — as 8 melhores de 57 mineradas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

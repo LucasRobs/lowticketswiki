@@ -1,0 +1,95 @@
+{
+ "slug": "play-videos-premiados",
+ "arquivo": "Ofertas/play-videos-premiados.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "play-videos-premiados",
+  "nome": "Play Videos Premiados / PremiaPlay",
+  "nicho": "ganhar-dinheiro",
+  "sub_nicho": "taxa-para-liberar-saque",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "http://playvideospremiados.com",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=assistir%20videos%20e%20ganhar%20dinheiro&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 0,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 0,
+  "s_lucro": 2,
+  "s_replica": 2,
+  "s_saturacao": 3,
+  "status": "nova",
+  "visto_primeiro": "2026-08-30",
+  "visto_ultimo": "2026-08-30",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 106,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-30",
+  "veredito": "descartar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "renda-extra",
+   "morta-na-chegada"
+  ]
+ },
+ "calc": {
+  "score": 1.75,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-longevidade",
+   "checkout-desconhecido",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Play Videos Premiados / PremiaPlay\n\n**Medida e descartada na mesma rodada.** Entrou pela busca por mecanica de \"taxa para liberacao\nde saque\" e saiu com o diagnostico mais limpo que o contador `M − N` ja produziu.\n\n| Medida | Valor |\n|---|---|\n| **M** — ativas | 106 |\n| **N** — janela 01/02–31/07 | **0** |\n| Mais recente | ha 7 meses |\n| Restante da primeira pagina | 1 ano |\n\n`N = 0` com `M = 106` e o caso extremo: volume historico real, **zero atividade na janela**.\nNao e uma oferta esfriando, e uma oferta que **acabou**. `s_lucro: 2`.\n\n## Por que fica registrada mesmo morta\n\nDuas razoes.\n\n1. **Serve de calibragem do `M − N`.** A leitura de 29/08 dizia que \"para produtor antigo, N\n   baixo com M alto ja denuncia a desaceleracao\". Aqui N e zero e o diagnostico e binario. Ter\n   um caso de fundo de escala no vault ajuda a ler os intermediarios.\n2. **Documenta a fronteira do que o vault cataloga.** A mecanica — pagar taxa atras de taxa\n   para liberar um saldo que nunca sai — nao tem entregavel. Um comprador registrou\n   **R$ 250,68 em taxas sucessivas**; outro descreve \"taxa de manutencao\" que vira varias.\n   Isso nao e oferta low ticket com margem alta, e uma escada sem produto no fim.\n\nO detalhe que quase a salva: uma reclamacao cita \"paguei taxas para **e-books da Disrupty**\" —\nou seja, em algum ponto a taxa foi embrulhada como venda de infoproduto. E a costura entre esta\ncategoria e o [[angulo-taxa-sobre-servico-gratuito]]. Mas embrulho nao muda a entrega: continua\nsem produto.\n\n`veredito: descartar`. Nao gasta rodada.\n\nPagina do produtor: https://www.reclameaqui.com.br/empresa/play-videos-premiados/lista-reclamacoes/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-30",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 106,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira e provavelmente ultima medicao. **M=106 / N=0**, mais recente ha 7 meses: caso de fundo de escala do contador M−N. Escada de taxas sucessivas sem entregavel (um comprador registrou R$ 250,68). `veredito: descartar`."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-30.md",
+   "data": "2026-08-30",
+   "titulo": "Radar 2026-08-30"
+  }
+ ]
+}

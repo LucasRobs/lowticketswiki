@@ -1,0 +1,108 @@
+{
+ "slug": "coletanea-regulacao-emocional",
+ "arquivo": "Ofertas/coletanea-regulacao-emocional.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "coletanea-regulacao-emocional",
+  "nome": "Coletânea de Regulação Emocional para Crianças — Ana Gambôa",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "regulacao-emocional",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://pay.hotmart.com/R89696248N",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=regula%C3%A7%C3%A3o%20emocional%20infantil&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 7,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 7,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 1,
+  "s_lucro": 5,
+  "s_replica": 9,
+  "s_saturacao": 7,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/coletanea-regulacao-emocional",
+  "gateways_detectados": [
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 5.7,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Coletânea de Regulação Emocional para Crianças\n\n## Ângulo\n\n> \"13 recursos terapêuticos em PDF, prontos para impressão\"\n\n**R$ 7.** É o piso de preço do nicho e serve para uma coisa: comprar o comprador.\n\n## Funil\n\nanúncio → checkout Hotmart direto (`pay.hotmart.com/R89696248N`). Sem LP intermediária\ndetectada — é oferta de tripwire pura.\n\n## Por que funciona\n\nR$ 7 não é preço, é **teste de intenção**. Quem paga R$ 7 por PDF de regulação emocional\ndeclarou publicamente que tem uma criança desregulada em casa. Esse é o ativo: a lista.\nSem backend, essa oferta não paga tráfego frio.\n\nO público-alvo real aqui provavelmente **não é a mãe, é a psicóloga infantil** —\n\"recursos terapêuticos prontos para impressão\" é vocabulário de profissional. Isso muda\no criativo inteiro e é um sub-público que quase ninguém está segmentando.\n\n## O que copiar / o que evitar\n\n**Copiar:** o preço de R$ 7 como porta de entrada para uma escada — desde que exista a\nescada. Sozinho, é prejuízo.\n\n**Evitar:** rodar isso sem e-mail/WhatsApp de retorno montado. `s_ticket: 1` é o alerta:\nnão há margem para CPA de Meta num produto de R$ 7 sem monetização de backend.\n\n**Modelagem sugerida:** mesma coletânea, posicionada para psicólogo e pedagogo, a R$ 47,\ncom \"13 recursos + protocolo de aplicação em sessão\". Mesmo ativo, 6× o ticket.\n\n## Histórico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 7,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. R$7, tripwire puro, checkout Hotmart direto sem LP. Publico provavel e psicologa infantil, nao mae.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

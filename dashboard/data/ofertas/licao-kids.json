@@ -1,0 +1,98 @@
+{
+ "slug": "licao-kids",
+ "arquivo": "Ofertas/licao-kids.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "licao-kids",
+  "nome": "Licao Kids — loja de atividades imprimiveis",
+  "nicho": "material-pedagogico",
+  "sub_nicho": "acervo-professora",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "https://licaokids.com.br",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=licao%20kids&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 9.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 97,
+  "ticket_medio_est": 25,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 6,
+  "s_replica": 7,
+  "s_saturacao": 5,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 50,
+  "criativos_ultima": 1,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/licao-kids",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 5.55,
+  "decisao": "descartar",
+  "flags": [
+   "checkout-desconhecido",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Licao Kids — loja, nao funil\n\nSousa Marketing Digital LTDA · CNPJ 46.941.473/0001-94 · 50 dias no ar.\n\n## A arquitetura e o achado\n\nNao e uma landing page. E uma **loja com categorias** — Atividades Crista, Caligrafia Cursiva e\nBastao, Combo Premium, Datas Comemorativas, Desenhos para Colorir, Matematica — e mais de 25\nprodutos entre R$ 9,90 e R$ 10,00.\n\nTres mecanismos de ticket empilhados sobre um catalogo unico:\n\n1. **Item avulso** a R$ 9,90 / R$ 10,00 (ancorado em R$ 34,90).\n2. **Cupom KIDS**: compre 3, ganhe 15% — empurra o carrinho de 1 para 3 itens.\n3. **Combo \"pague uma vez e tenha acesso a tudo\": R$ 97,00**, declarado como 80,6% de desconto\n   sobre R$ 500.\n\nO R$ 97 e o mesmo movimento do upgrade de R$ 28 do [[clube-da-pedagogia]], numa escala maior:\n**o catalogo inteiro existe para tornar o combo obvio.** Cada produto de R$ 10 e, na pratica,\num anuncio do de R$ 97 hospedado dentro da propria loja.\n\n## Contra o modelo de LP unica\n\nO cluster inteiro do vault e LP unica -> checkout. Esta e a primeira operacao infantil catalogada\nque roda **vitrine**. Vantagem: um so trafego alimenta 25 ofertas e a mesma verba testa qual\ncategoria converte. Desvantagem: exige plataforma de loja, gestao de catalogo e produz atrito de\nnavegacao que a LP unica nao tem — por isso `s_replica: 7` e nao 9.\n\n## O que copiar\n\n**A categoria \"Atividades Crista\" dentro de uma loja pedagogica.** E o cruzamento que o vault\npersegue em duas notas separadas ([[parabolas-kids]] e [[angulo-material-pedagogico]]) e que aqui\nja esta operando: a mesma professora compra folclore, matematica e devocional infantil no mesmo\ncarrinho. Um publico, tres nichos, um checkout.\n\n**PIX com entrega na hora** em destaque no topo — no ticket de R$ 10 o PIX nao e forma de\npagamento, e reducao de atrito: nao tem CVV, nao tem parcelamento, nao tem recusa de cartao.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 1,
+   "criativos_novos": 1,
+   "dias_no_ar": 50,
+   "ticket_frente": 9.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 50 dias no ar (veiculacao iniciada 12/07/2026). Primeira operacao infantil do vault em formato de loja/vitrine em vez de LP unica; combo de catalogo a R$ 97 como degrau de ticket."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

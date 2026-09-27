@@ -1,0 +1,104 @@
+{
+ "slug": "casinha-dos-sonhos",
+ "arquivo": "Ofertas/casinha-dos-sonhos.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "casinha-dos-sonhos",
+  "nome": "Casinha dos Sonhos — casinha de papel imprimivel",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "imprimivel-brincadeira",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "https://casinhadossonhos.com.br",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=casinha%20dos%20sonhos&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 10,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 10,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 1,
+  "s_lucro": 6,
+  "s_replica": 10,
+  "s_saturacao": 6,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 42,
+  "criativos_ultima": 2,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/casinha-dos-sonhos",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 6.2,
+  "decisao": "observar",
+  "flags": [
+   "checkout-desconhecido",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Casinha dos Sonhos — R$ 10, 42 dias no ar\n\nAnunciante: **Prof.a Juliana Gamon** (autoridade de professora emprestada a um produto que nao e\npedagogico). Dois criativos ativos desde 20/07.\n\nO ativo e o mais simples do cluster: PDFs de casinha para imprimir, recortar e montar. Nenhuma\nilustracao de personagem, nenhuma boneca — **so cenario**. Isso importa: cenario e o unico\nativo deste angulo que nao tem problema de consistencia de personagem em geracao por IA.\n\n## O gancho\n\n> \"Sua filha passa horas no celular? E se, em vez de ficar presa as telas, ela pudesse criar a\n> propria casinha dos sonhos com as proprias maos?\"\n\nE o mesmo gancho anti-tela da [[papel-magico-bonecas]] e do [[angulo-desintoxicacao-telas]] —\ntres notas do vault, tres produtos diferentes, **uma so dor**. A dor da tela nao e um nicho, e\num formato de abertura que serve a qualquer produto infantil offline.\n\nEmpilha tres reducoes de atrito seguidas: *\"sem precisar esperar entrega / baixe na hora /\nimprima quantas vezes quiser.\"* A terceira e a que fecha — resolve a objecao de \"R$ 10 por um\narquivo\" transformando compra unica em uso ilimitado.\n\n## Estado dos dados\n\n**A LP nao resolveu por fetch** (falha de DNS na consulta de robots.txt) e o navegador interno\nrecusou a navegacao. Preco R$ 10 e nota 4,9/5 saem do cartao de link do anuncio. Gateway,\nbonus, garantia e bump: **nao capturados**. Reabrir na proxima rodada.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 2,
+   "criativos_novos": 2,
+   "dias_no_ar": 42,
+   "ticket_frente": 10,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 42 dias no ar (veiculacao iniciada 20/07/2026), 2 criativos. LP nao abriu — DNS falhou no fetch e o navegador interno recusou. Preco lido no cartao de link."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

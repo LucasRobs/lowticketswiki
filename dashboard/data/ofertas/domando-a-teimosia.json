@@ -1,0 +1,100 @@
+{
+ "slug": "domando-a-teimosia",
+ "arquivo": "Ofertas/domando-a-teimosia.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "domando-a-teimosia",
+  "nome": "Domando a Teimosia",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "birra-disciplina",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://ebook.domandoateimosia.com/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Domando%20a%20Teimosia&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 40,
+  "margem_est": 0.9,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 6,
+  "s_replica": 8,
+  "s_saturacao": 6,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/domando-a-teimosia",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 6.4,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Domando a Teimosia\n\n## Ângulo\n\n> \"Lide com birras, teimosia e desobediência com calma, firmeza e afeto —\n> sem gritar e sem culpa\"\n\n**A melhor headline do cluster.** Ela faz três coisas ao mesmo tempo: nomeia os três\nsintomas (birra, teimosia, desobediência), promete o método (calma, firmeza, afeto) e\nremove as duas objeções na mesma frase (sem gritar = \"não vou virar a mãe que odeio\";\nsem culpa = \"não é sua culpa\"). É o padrão que vale copiar literalmente.\n\n## Funil\n\nanúncio → VSL em domínio próprio (`ebook.domandoateimosia.com`) → checkout não\nidentificado (subdomínio `ebook.` sugere LP dedicada por produto, padrão Hotmart/Kiwify).\nPreço não exposto antes do CTA — clássico de VSL.\n\nCheckout e ticket **não confirmados**: precisam do unFunnelizer em Brute Mode.\n\n## Por que funciona\n\nO nome do produto é o problema, não a solução. \"Domando a Teimosia\" é como a mãe\ndescreve o filho para a amiga — a busca mental já está formada. Compare com \"Disciplina\nPositiva\", que é como o especialista descreve o método: o público não busca por isso.\n\nDomínio próprio + VSL + preço escondido = operação que já testou e sabe o que está\nfazendo. Não é teste de fim de semana.\n\n## O que copiar / o que evitar\n\n**Copiar:** a fórmula da headline — `[3 sintomas] com [3 qualidades] — sem [2 objeções]`.\nEla se aplica a qualquer sub-ângulo deste nicho e provavelmente a outros.\n\n**Evitar:** VSL longa se você não tem o rosto. O formato exige alguém falando.\n\n## Histórico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. VSL em dominio proprio, preco escondido antes do CTA. Melhor headline do cluster.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

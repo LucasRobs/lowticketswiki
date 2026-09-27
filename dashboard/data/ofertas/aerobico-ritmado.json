@@ -1,0 +1,110 @@
+{
+ "slug": "aerobico-ritmado",
+ "arquivo": "Ofertas/aerobico-ritmado.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "aerobico-ritmado",
+  "nome": "Aerobico Ritmado — aula pronta com certificado de 50h",
+  "nicho": "danca",
+  "sub_nicho": "danca-para-professor-de-edfisica",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://galeraindica.com.br/ritmado/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=coreografias%20prontas&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 67,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 67,
+  "margem_est": 0.88,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "curso",
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 4,
+  "s_replica": 7,
+  "s_saturacao": 4,
+  "status": "nova",
+  "visto_primeiro": "2026-09-06",
+  "visto_ultimo": "2026-09-06",
+  "rodadas_vista": 1,
+  "dias_no_ar": 10,
+  "criativos_ultima": 3,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/aerobico-ritmado",
+  "gateways_detectados": [
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "danca",
+   "edfisica",
+   "certificado"
+  ]
+ },
+ "calc": {
+  "score": 5.5,
+  "decisao": "descartar",
+  "flags": [
+   "status-vencido"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Aerobico Ritmado — Galera da EdFisica\n\nAnunciante **Galera da EdFisica** (`galera.edfisica`), dominio `educacaofisicaead.com.br`,\nLP em `galeraindica.com.br/ritmado/`. Tres criativos, no ar desde 27/08. Headline do anuncio:\n**\"CURSO COMPLETO POR APENAS R$ 67,00 + CERTIFICADO GRATIS\"**.\n\nR$ 67 (ancorado R$ 97), Hotmart, videoaulas mais e-book PDF de apoio, **certificado de 50 horas**.\nBonus de tres playlists (gospel, internacionais, alta intensidade) ancorado em R$ 89,70 e\nentregue a R$ 0,00 com contador de 30 minutos.\n\n## O certificado e o produto\n\nO curso e a embalagem; o comprador quer as 50 horas na parede. Isso conecta esta oferta a duas\nnotas ja no vault: [[angulo-taxa-do-certificado]] e [[certifica-brasil]]. E conecta o nicho de\ndanca ao cluster pedagogico por [[kit-300-aulas-edfisica]] — mesmo comprador, mesma dor de\ncomprovacao profissional, so troca o conteudo.\n\n**Consequencia pratica:** a danca aqui nao precisa ser boa. Precisa ser suficiente para justificar\no certificado. E o teto de exigencia mais baixo de toda a varredura.\n\n## O que copiar / o que evitar\n\n**Copiar:** a estrutura \"aula pronta + certificado\". O bonus de playlist e o exemplo mais barato\npossivel de valor percebido — sao links de musica ancorados em R$ 89,70.\n\n**Evitar:** a promessa de certificado sem lastro. Ver a discussao em [[angulo-taxa-do-certificado]]:\no certificado de curso livre e legitimo, o de \"reconhecido pelo MEC\" nao e — e ha anunciante no\nmesmo nicho de danca fazendo essa afirmacao (Le Grand Pas Ballet Academy, \"curso reconhecido pelo\nMEC\" para formacao de professores de Jazz). Nao copiar essa parte.\n\n## Estado dos dados\n\n- **Medido:** preco, ancora, bonus, gateway, certificado, `dias_no_ar: 10`, 3 criativos.\n- **Declarado, nao medido:** \"+2.000 alunos satisfeitos\", \"4,9 de 5\".\n\n## Criativos (Biblioteca de Anuncios)\n\nAnunciante: **Galera da EdFisica** — `facebook.com/galera.edfisica`\nPagina de vendas: <https://galeraindica.com.br/ritmado>\n\n| Criativo | Veiculacao iniciada | Nota |\n|---|---|---|\n| [1431162878924047](https://www.facebook.com/ads/library/?id=1431162878924047) | 27/08/2026 |  |\n| [2319243438820750](https://www.facebook.com/ads/library/?id=2319243438820750) | 27/08/2026 |  |\n| [2037174746939931](https://www.facebook.com/ads/library/?id=2037174746939931) | 27/08/2026 |  |\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-09-06",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 3,
+   "criativos_novos": 3,
+   "dias_no_ar": 10,
+   "ticket_frente": 67,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. R$ 67 com certificado de 50h e bonus de playlists ancorado em R$ 89,70 entregue a zero. Liga o nicho de danca ao cluster de certificado."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-06.md",
+   "data": "2026-09-06",
+   "titulo": "Radar 2026-09-06"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  }
+ ]
+}

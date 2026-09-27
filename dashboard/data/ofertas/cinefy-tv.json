@@ -1,0 +1,127 @@
+{
+ "slug": "cinefy-tv",
+ "arquivo": "Ofertas/cinefy-tv.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "cinefy-tv",
+  "nome": "Cinefy TV",
+  "nicho": "streaming-e-acesso",
+  "sub_nicho": "catalogo-series",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "lowify",
+  "url_pagina": "https://app.cinefytv.site/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cinefy&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 20,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 20,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 6,
+  "s_replica": 3,
+  "s_saturacao": 5,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/cinefy-tv",
+  "gateways_detectados": [
+   "lowify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "lowify"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-16",
+  "veredito": "descartar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 4.35,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "lowify"
+  ]
+ },
+ "corpo": "# Cinefy TV\n\n## Angulo\nAcesso a catalogo de series/filmes. Familia de marcas na mesma operacao Lowify: Cinefy TV, CineShort, Bleff.App, Reliquia Games.\n\n## Funil\nanuncio -> pagina -> checkout Lowify -> acesso ao catalogo (frequentemente com erro de formato/login).\n\n## Por que funciona\nA Lowify concentra um cluster inteiro de catalogo pirata sob marcas diferentes. Volume real, mas o ativo e conteudo de terceiros.\n\n## O que copiar / o que evitar\nNao replicar: direito autoral. Registrado porque o cluster explica o perfil da Lowify como gateway.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (2 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/lowify-tecnologia/cinefy-tv-nao-cumpre-o-que-promete_Hb4uPnPCVeMoMjSC/\n\n## Historico\n\n## Correção 2026-08-21 — dois espelhos ativos, operação Lowify\n\nDomínios ativos: **`app.cinefytv.site`** e **`appcine.site`** (com página de registro em\n`/register`). A empresa por trás aparece no Reclame Aqui como **Lowify Tecnologia**.\n\nMecânica registrada na reclamação: vendido como \"pagamento único e vitalício\", vira\nassinatura recorrente depois. É bump pós-compra, o mesmo padrão de [[wiapy-foto-com-pet]].\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 20,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 2 mencao/mencoes em 1 gateway(s): lowify. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 20,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Dois espelhos ativos (app.cinefytv.site, appcine.site). Operacao Lowify. Vitalicio que vira recorrente.\n\nRodada de complemento: busca dedicada por pagina de vendas, sem nova varredura de\nReclame Aqui. `ra_reclamacoes` mantido — nao houve nova coleta, entao nao incrementa."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

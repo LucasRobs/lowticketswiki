@@ -1,0 +1,9 @@
+{
+  "name": "radar-low-ticket-dashboard",
+  "private": true,
+  "description": "Dashboard do Radar Low Ticket. Sem dependencias: HTML/JS estatico + 2 funcoes Node na Vercel.",
+  "scripts": {
+    "dev": "node dev/servidor.js",
+    "test": "node dev/testar.js"
+  }
+}

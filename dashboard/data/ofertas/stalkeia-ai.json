@@ -1,0 +1,302 @@
+{
+ "slug": "stalkeia-ai",
+ "arquivo": "Ofertas/stalkeia-ai.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "stalkeia-ai",
+  "nome": "Stalkeia.ai",
+  "nicho": "espionagem-rastreamento",
+  "sub_nicho": "espionar-redes-sociais",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "perfectpay",
+  "url_pagina": "https://www.stalkea.ai/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 37,
+  "ticket_bump": 19,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 75,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 8,
+  "s_replica": 4,
+  "s_saturacao": 3,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-09-26",
+  "rodadas_vista": 10,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/stalkeia-ai",
+  "gateways_detectados": [
+   "perfectpay"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 8,
+  "ra_plataformas": [
+   "perfectpay"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-09-26",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 5.85,
+  "decisao": "descartar",
+  "flags": [
+   "lucro-sem-medicao",
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "perfectpay"
+  ]
+ },
+ "corpo": "# Stalkeia.ai\n\n## Angulo\nApp que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.\n\n## Funil\nanuncio -> promessa de 'teste gratuito' -> coleta de dados -> primeiro pagamento R$29,90-37 -> segunda cobranca de R$19,90 em creditos para 'liberar o resultado'.\n\n## Por que funciona\nA mecanica de credito e o produto: o primeiro pagamento nao entrega nada, so habilita a proxima cobranca. E o que sustenta CPA alto no front.\n\n## O que copiar / o que evitar\nCopiar: a estrutura de creditos escalonados. Evitar: o nicho inteiro - espionagem de terceiros e o que mais gera reembolso forcado e derrubada de conta de anuncio.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (5 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Historico\n\n## Correção 2026-08-21 — página de vendas e camada de firewall\n\nCandidato forte: **`stalkea.ai`** (\"a maior ferramenta de stalker do Brasil\"), SPA em JS.\nMarcado como **incerto** — o WebFetch só pega a casca da página.\n\nO achado que importa: existe um subdomínio **`up.stalkeia.website/firewall`**, página de\nproteção/redirecionamento antes do funil. É infraestrutura para **esconder o destino real\nda moderação de anúncios** do Meta. Sinal de operação madura e de que o criativo não\npoderia ser aprovado apontando direto para a oferta.\n\n## Rodada 2026-08-22 — sexta reclamacao, e a escada em numeros\n\nReclamacao de 17/08/2026 (ID 256618461), posterior a varredura de 16/08 — conta como nova.\n`ra_reclamacoes` 5 -> 6.\n\nO comprador registra o valor exato: **dois PIX, R\\$ 56,96 + R\\$ 37,00 = R\\$ 93,96**. O vault\ntinha `ticket_frente: 37` e `ticket_bump: 19`, somando 56. Os numeros reais nao batem com\nessa decomposicao — ha um degrau a mais ou um preco diferente do registrado.\n`ticket_medio_est` vai de 60 para 75, entre a frente conhecida e o topo observado.\n\nVale notar que a PerfectPay reembolsou em ~9 horas. Reembolso rapido em gateway grande\nreduz o custo de reclamar, o que **infla** a contagem em relacao a gateways lentos — e mais\num motivo para nao comparar `ra_reclamacoes` entre plataformas diferentes.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem_bsQiiX5mms5RNOcb/\n\n## Rodada 2026-08-23\n\nPerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista. Volume estavel e alto - a unica oferta do vault presente em todas as rodadas desde 16/08.\n\n## Rodada 2026-08-24\n\nPerfectPay. URL da reclamacao de hoje e identica a citada na nota de 22/08 (bsQiiX5mms5RNOcb) — a lista nao girou em dois dias. ra_reclamacoes mantido em 7: o 8 de ontem seria contagem dupla.\n\n## Rodada 2026-09-22\n\n8 mencao(oes) nesta varredura (gateway PerfectPay). App fake de espionar WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai, Stalkeia.com. Múltiplos gateways (confirmado em Mangofy também). Cobra créditos extras após venda para liberar resultados falsos.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Rodada 2026-09-23\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada nas passadas 04h41, 14h12 e 23h00. Grafias Stalkea.ai / StalkeaAI. Cobrancas duplicadas, R$ 47-152 por transacao, nao entrega.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Detalhe novo: cobrancas sucessivas na mesma compra - R$ 47, R$ 37,90, R$ 67,90 - cada funcao nova cobra taxa extra.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 5 mencao/mencoes em 1 gateway(s): perfectpay. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Pagina candidata stalkea.ai (incerta, SPA). Achado: subdominio de firewall up.stalkeia.website antes do funil.\n\nRodada de complemento: busca dedicada por pagina de vendas, sem nova varredura de\nReclame Aqui. `ra_reclamacoes` mantido — nao houve nova coleta, entao nao incrementa."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 6,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": true,
+   "angulo_novo": false,
+   "texto": "Sexta reclamacao (17/08). Valores observados: dois PIX de R$ 56,96 + R$ 37,00 = R$ 93,96 — nao batem com a decomposicao 37+19 registrada. ticket_medio_est 60 -> 75."
+  },
+  {
+   "data": "2026-08-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 7,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "PerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista. Volume estavel e alto - a unica oferta do vault presente em todas as rodadas desde 16/08."
+  },
+  {
+   "data": "2026-08-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 7,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "PerfectPay, URL identica a citada na nota de 22/08 — a lista nao girou em dois dias. ra_reclamacoes mantido em 7."
+  },
+  {
+   "data": "2026-09-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 8,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "PerfectPay (+ mencao a Mangofy/Payt em rodadas anteriores do dia). Segue lider do vault em volume de reclamacao — 8 mencoes acumuladas, presente em quase toda rodada desde 16/08. Captura de hoje via skill sincronizada (sem URL individual por reclamacao) — contagem e estimativa, nao dedup por ID."
+  },
+  {
+   "data": "2026-09-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras."
+  },
+  {
+   "data": "2026-09-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Avistada nas passadas 04h41, 14h12 e 23h00. Grafias Stalkea.ai / StalkeaAI. Cobrancas duplicadas, R$ 47-152 por transacao, nao entrega."
+  },
+  {
+   "data": "2026-09-25",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Detalhe novo: cobrancas sucessivas na mesma compra - R$ 47, R$ 37,90, R$ 67,90 - cada funcao nova cobra taxa extra."
+  },
+  {
+   "data": "2026-09-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Listada como ainda ativa na passada das 06h00."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-27 -- novidades-22-a-26-09.md",
+   "data": "2026-09-27",
+   "titulo": "Novidades mineradas de 22 a 26/09"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-26 -- 0600.md",
+   "data": "2026-09-26",
+   "titulo": "Passada 2026-09-26 06:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-26.md",
+   "data": "2026-09-26",
+   "titulo": "Radar 2026-09-26"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-25 -- 0600.md",
+   "data": "2026-09-25",
+   "titulo": "Passada 2026-09-25 06:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-25.md",
+   "data": "2026-09-25",
+   "titulo": "Radar 2026-09-25"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 2300.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 23:00"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 1412.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 14:12"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 0441.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 04:41"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-24.md",
+   "data": "2026-09-24",
+   "titulo": "Radar 2026-09-24"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-23.md",
+   "data": "2026-09-23",
+   "titulo": "Radar 2026-09-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-22.md",
+   "data": "2026-09-22",
+   "titulo": "Radar 2026-09-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-28.md",
+   "data": "2026-08-28",
+   "titulo": "Radar 2026-08-28"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-24.md",
+   "data": "2026-08-24",
+   "titulo": "Radar 2026-08-24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "slug": "mundo-criativo-caligrafia",
+ "arquivo": "Ofertas/mundo-criativo-caligrafia.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "mundo-criativo-caligrafia",
+  "nome": "Caderno Completo de Caligrafia — +300 atividades",
+  "nicho": "material-pedagogico",
+  "sub_nicho": "caligrafia",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "https://mundocriativobr.shop",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=caligrafia&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 10,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 10,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 1,
+  "s_lucro": 6,
+  "s_replica": 9,
+  "s_saturacao": 3,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 47,
+  "criativos_ultima": 1,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/mundo-criativo-caligrafia",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 5.45,
+  "decisao": "descartar",
+  "flags": [
+   "checkout-desconhecido",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Mundo Criativo — +300 atividades de caligrafia a R$ 10\n\n47 dias no ar. Concorrente direta da [[colecao-caligrafia-cursiva]], que cobra R$ 12 por 380\npaginas: aqui sao 300 atividades por R$ 10. **Mesmo produto, mesma promessa, R$ 2 de diferenca.**\n\nO criativo abre pela pergunta diagnostica — *\"A crianca tem dificuldade com letra cursiva, copia\ndevagar ou faz uma escrita dificil de entender?\"* — e nao pela oferta. Tres sintomas\nobservaveis, nenhum diagnostico. E a versao segura do padrao catalogado em\n[[angulo-diagnostico-isca]], sem encostar em nicho regulado.\n\n**A LP nao abriu por fetch** (aplicacao JS, retorna so \"Carregando...\"). Preco e ativo saem do\nproprio anuncio, que declara \"R$ 10\" no cartao de link. Gateway nao capturado.\n\n## Leitura\n\nDois operadores independentes sustentando 47 e 123 dias de anuncio no mesmo produto, com precos\na R$ 2 de distancia, e a evidencia de que **o mercado de caligrafia imprimivel comporta mais de\num vendedor** — e tambem de que ninguem ali esta disputando por preco, porque nao ha mais para\nonde descer. A disputa e de criativo.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 1,
+   "criativos_novos": 1,
+   "dias_no_ar": 47,
+   "ticket_frente": 10,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 47 dias no ar (veiculacao iniciada 15/07/2026). LP nao abriu por fetch (app JS); preco R$ 10 lido no cartao de link do anuncio. Gateway pendente."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

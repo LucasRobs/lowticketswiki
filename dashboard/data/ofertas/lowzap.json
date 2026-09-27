@@ -1,0 +1,149 @@
+{
+ "slug": "lowzap",
+ "arquivo": "Ofertas/lowzap.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "lowzap",
+  "nome": "Lowzap (+ upsell Low Scale)",
+  "nicho": "ganhar-dinheiro",
+  "sub_nicho": "whatsapp-ferramentas",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kirvano",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lowzap&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 197,
+  "ticket_medio_est": 97,
+  "margem_est": 0.85,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "curso",
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 6,
+  "s_replica": 5,
+  "s_saturacao": 3,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-23",
+  "rodadas_vista": 3,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "kirvano",
+   "hubla"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "kirvano",
+   "hubla"
+  ],
+  "ra_primeira_reclamacao": "2026-08-21",
+  "ra_checado": "2026-08-23",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "zap"
+  ]
+ },
+ "calc": {
+  "score": 5.45,
+  "decisao": "descartar",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "hubla",
+   "kirvano"
+  ]
+ },
+ "corpo": "# Lowzap (+ upsell Low Scale)\n\n## Ângulo\nFerramenta de WhatsApp com escada nomeada: **Lowzap** na frente, **Low Scale** no upsell.\nMarca própria em dois degraus é sinal de operação estruturada, não de teste.\n\n## Funil\n`Lowzap → upsell Low Scale (recusável no checkout)`. A reclamação de hoje na Kirvano diz\nque o comprador **recusou** o Low Scale no site e foi cobrado mesmo assim, e que o cartão\nficou salvo sem autorização. Isso é one-click upsell mal implementado — ou implementado\nde propósito. Registrar como risco de replicação: o mecanismo é copiável, a execução não\ndeve ser.\n\n## Estado dos dados\n- **Confirmado:** existe, vende, gateway Kirvano, reclamação de 2026-08-21.\n- **Provisório:** todos os tickets. `ticket_medio_est: 67` é estimativa por categoria.\n- **Faltando:** preços reais, página, tempo no ar, criativos.\n\n`s_replica: 5` — é software mais curso, não ebook. `s_saturacao: 3` — ferramenta de zap\npara ganhar dinheiro é o leilão mais disputado que o vault mapeia. Cluster:\n[[zap-radar]], [[teacher-zap]], [[loopyz]].\n\n## Correcao 2026-08-22 — o upsell tem preco e tem outro gateway\n\nReleitura do corpo da mesma reclamacao de 21/08/2026 (ID 257028189). A rodada anterior\nregistrou o nome do upsell (Low Scale) e o fato de ele ser cobrado apos recusa. **Faltavam\nos dois dados que mudam o score:**\n\n- O Low Scale custa **R\\$ 197,00**. `ticket_upsell` sai de 0 e `ticket_medio_est` de 67 para 97.\n- A cobranca nao passa pela Kirvano: o cartao foi salvo **na plataforma Hubla**, sem\n  autorizacao. O funil atravessa dois gateways — Kirvano na frente, Hubla no upsell.\n\nO segundo achado importa mais que o primeiro. Um funil que troca de gateway entre a frente\ne o upsell **quebra a busca por gateway**: procurar \"Lowzap\" no Reclame Aqui da Kirvano\nacha a frente e perde a escada, e procurar na Hubla acharia a escada sem o nome do produto.\nO vault nunca varreu a Hubla. Ela nao esta na lista de plataformas do `Pipeline.md`.\n\n`ra_reclamacoes` permanece 1 — e a mesma reclamacao, lida com mais cuidado.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-de-curso-nao-solicitado-e-salvamento-nao-autorizado-de-dados-do-cartao_DZBZe48yfNcvRiBo/\n\n## Rodada 2026-08-23\n\nKirvano, ha 5h: o upsell **Low Scale** foi cobrado mesmo depois do comprador RECUSAR a oferta na pagina, e os dados do cartao ficaram salvos sem autorizacao. Isso reclassifica o degrau: nao e upsell escondido, e cobranca contra recusa explicita. Terceira rodada consecutiva.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparição. Kirvano, 2026-08-21. Upsell nomeado (Low Scale) cobrado após recusa no checkout; cartão salvo sem autorização."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": true,
+   "angulo_novo": false,
+   "texto": "Upsell Low Scale precificado: R$ 197, cobrado via Hubla e nao via Kirvano. Funil atravessa dois gateways. ticket_medio_est 67 -> 97."
+  },
+  {
+   "data": "2026-08-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Kirvano, ha 5h: o upsell **Low Scale** foi cobrado mesmo depois do comprador RECUSAR a oferta na pagina, e os dados do cartao ficaram salvos sem autorizacao. Isso reclassifica o degrau: nao e upsell escondido, e cobranca contra recusa explicita. Terceira rodada consecutiva."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-28.md",
+   "data": "2026-08-28",
+   "titulo": "Radar 2026-08-28"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-27.md",
+   "data": "2026-08-27",
+   "titulo": "Radar 2026-08-27"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

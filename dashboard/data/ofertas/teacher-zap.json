@@ -1,0 +1,130 @@
+{
+ "slug": "teacher-zap",
+ "arquivo": "Ofertas/teacher-zap.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "teacher-zap",
+  "nome": "Teacher ZAP — 7 idiomas pelo WhatsApp",
+  "nicho": "idiomas",
+  "sub_nicho": "ia-conversacional",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "lastlink",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Teacher%20ZAP&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 47,
+  "margem_est": 0.85,
+  "modelo": [],
+  "formato_entrega": [],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 8,
+  "s_replica": 6,
+  "s_saturacao": 5,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-22",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/teacher-zap",
+  "gateways_detectados": [
+   "lastlink"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "lastlink"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-22",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket"
+  ]
+ },
+ "calc": {
+  "score": 6.35,
+  "decisao": "observar",
+  "flags": [
+   "lucro-sem-medicao",
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "lastlink"
+  ]
+ },
+ "corpo": "# Teacher ZAP — 7 idiomas pelo WhatsApp\n\n## Ângulo\nAprender 7 idiomas conversando com IA dentro do WhatsApp. Ancoragem de preço em \"menos de R$ 0,11 por dia\" — desvia da comparação com o valor cheio.\n\n## Funil\nNão capturado. `dias_no_ar`, `criativos_ultima` e os tickets estão zerados porque a\nbiblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.\n\n## Estado dos dados\n- **Confirmado:** existência, plataforma de checkout, sinal de volume via Reclame Aqui.\n- **Provisório:** `ticket_medio_est` e `s_ticket` são estimativa por categoria, não leitura.\n- **Faltando:** tempo no ar, contagem de criativos, order bump e upsell ocultos.\n\n`s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais\nforte da rubrica está ausente. Espere o score subir depois da captura.\n\n## Retorno 2026-08-22 — e a primeira medicao real de tempo no ar do vault\n\nEstava `esfriando`. Voltou com reclamacao de **15/08/2026** (ID 256573369) na Lastlink.\n`ra_reclamacoes` 1 -> 2.\n\nO corpo entrega o dado que a Biblioteca de Anuncios deveria entregar e nao entrega ha\nquatro rodadas: *\"Comprei o curso Teacher Zap - 7 idiomas vitalicio pela plataforma\nlastlink **em marco**. Funcionou por alguns meses porem ja nao funciona mais.\"*\n\nCompra em marco, uso ate agosto: **a oferta esta vendendo ha pelo menos cinco meses.**\n`s_lucro` 7 -> 8, e agora por medicao, nao por proxy. Score 6,00 -> 6,35.\n\nIsso vale registrar como metodo: **a data de compra citada no corpo da reclamacao e um\nsubstituto legitimo de `dias_no_ar`.** Nao mede o anuncio, mede a oferta — que e o que\n`s_lucro` quer saber. Enquanto o browser estiver fora, e a unica fonte de tempo no ar que\no vault tem, e ela ja apareceu tres vezes hoje ([[unlovable]] 27/03,\n[[curso-massagem-tantrica]] 12/08, esta 03/2026).\n\nO segundo dado: **\"vitalicio\" que para de funcionar em cinco meses.** O produto e acesso a\num bot de WhatsApp; custo marginal por usuario ativo nao e zero, e o \"vitalicio\" so fecha\na conta enquanto a base nova paga a base velha. E o modelo que quebra por dentro — util\nsaber antes de replicar, nao depois.\n\nEvidencia: https://www.reclameaqui.com.br/lastlink/curso-online-parou-de-funcionar-e-suporte-nao-responde_RFn8bmDbc5XNiNkK/\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira detecção. Origem: reclamação no Reclame Aqui contra lastlink. Sem dados de anúncio."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Retorno de esfriando. Reclamacao de 15/08: compra em marco/2026, funcionou alguns meses. Tempo no ar medido em ~5 meses. s_lucro 7 -> 8."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-24.md",
+   "data": "2026-08-24",
+   "titulo": "Radar 2026-08-24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

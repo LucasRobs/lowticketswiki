@@ -1,0 +1,108 @@
+{
+ "slug": "kit-grafismo-fonetico",
+ "arquivo": "Ofertas/kit-grafismo-fonetico.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "kit-grafismo-fonetico",
+  "nome": "Kit Grafismo Fonetico — Leitura Facil",
+  "nicho": "material-pedagogico",
+  "sub_nicho": "alfabetizacao",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "whatsapp",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=grafismo%20fonetico&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 20,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 20,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 2,
+  "s_lucro": 7,
+  "s_replica": 8,
+  "s_saturacao": 4,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 39,
+  "criativos_ultima": 10,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/kit-grafismo-fonetico",
+  "gateways_detectados": [
+   "whatsapp"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 5.85,
+  "decisao": "descartar",
+  "flags": [
+   "sem-lp",
+   "status-vencido"
+  ],
+  "gateways": [
+   "whatsapp"
+  ]
+ },
+ "corpo": "# Kit Grafismo Fonetico — venda por conversa, 10 criativos\n\n39 dias no ar e **o maior numero de criativos ativos da rodada**: um bloco de 6 anuncios e outro\nde 4, mesmo texto, datas diferentes (23/07 e 14/08). Criativo repetido em volume e o sinal de\n`s_lucro` que o `Scoring.md` premia — e aqui ele e visivel sem abrir nada.\n\n`checkout: whatsapp` — nao ha gateway. Mesmo padrao de [[planos-aula-infantil-500]]: venda por\nconversa, \"menos de R$ 20,00 no Pix\", entrega do PDF pelo proprio WhatsApp.\n\n## O que o texto do anuncio entrega de graca\n\nUma aula inteira de copy defensiva:\n\n- **Numero de mecanismo:** \"aprende ate 5x mais rapido\" com \"apenas 10 minutos por dia\" — o mesmo\n  par velocidade+cabimento da [[parabolas-kids]].\n- **Pseudo-mecanismo neurologico:** \"ativando multiplas areas do cerebro\". Explica sem prometer.\n- **Desqualificacao explicita:** *\"Nao indicado para adultos aprenderem a ler.\"* Parece perda de\n  publico; e o contrario. Delimitar quem **nao** deve comprar e prova de honestidade barata, e\n  filtra o lead que geraria reembolso.\n- **Educacao especial pela porta lateral:** \"se voce trabalha com criancas da Educacao Especial,\n  esse material pode ser um divisor de aguas\" — alcanca o publico de laudo **sem prometer\n  tratamento**, que e exatamente o teto de `s_replica` que derruba [[kit-so-escola-tdah]].\n\n## Limite do modelo\n\nWhatsApp elimina taxa de gateway e recupera o carrinho na conversa, mas nao tem order bump,\nupsell automatico nem rastreio de conversao — e nao escala sem atendente. `s_ticket: 2` travado\nem R$ 20 sem esteira.\n\n**O que copiar e o criativo, nao o checkout.** Os quatro movimentos acima cabem numa LP com\nCakto atras e ticket 3x maior.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 10,
+   "criativos_novos": 10,
+   "dias_no_ar": 39,
+   "ticket_frente": 20,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 39 dias no ar (veiculacao iniciada 23/07/2026), 10 criativos ativos em dois blocos (6+4) — maior contagem da rodada. Venda por WhatsApp, sem gateway."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

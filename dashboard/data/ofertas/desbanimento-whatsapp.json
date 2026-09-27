@@ -1,0 +1,133 @@
+{
+ "slug": "desbanimento-whatsapp",
+ "arquivo": "Ofertas/desbanimento-whatsapp.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "desbanimento-whatsapp",
+  "nome": "Servico de desbanimento de numero de WhatsApp",
+  "nicho": "ganhar-dinheiro",
+  "sub_nicho": "whatsapp-ferramentas",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "cakto",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=desbanir%20n%C3%BAmero%20whatsapp&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 100,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 100,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "comunidade"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 3,
+  "s_replica": 1,
+  "s_saturacao": 5,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-22",
+  "visto_ultimo": "2026-08-27",
+  "rodadas_vista": 3,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "cakto"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "cakto"
+  ],
+  "ra_primeira_reclamacao": "2026-08-15",
+  "ra_checado": "2026-08-27",
+  "veredito": "descartar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "servico",
+   "descartada"
+  ]
+ },
+ "calc": {
+  "score": 3.5,
+  "decisao": "descartar",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "cakto"
+  ]
+ },
+ "corpo": "# Servico de desbanimento de numero de WhatsApp\n\nR$ 100 para \"desbanir\" um numero bloqueado pelo WhatsApp. Tres meses depois, sem entrega.\n\nRegistrada porque completa o mapa do sub-nicho `whatsapp-ferramentas`, que ja tem\n[[lowzap]], [[zap-radar]] e [[teacher-zap]] no vault — mas com um veredito diferente dos\ntres. Aqui o produto nao e informacao nem software: e a **promessa de intervir num sistema\nde terceiro que o vendedor nao controla**. Nao existe versao honesta dessa oferta, porque\nninguem consegue reverter um ban da Meta mediante pagamento.\n\n`s_replica: 1` e teto imposto, nao nota. `s_ticket: 7` e alto e irrelevante: um ticket\nbom numa oferta impossivel de entregar continua sendo zero.\n\n## Estado dos dados\n- **Confirmado:** R$ 100, gateway Cakto, nao entregue em 3 meses, reclamacao de 15/08/2026\n  (ID 256524581).\n- **Faltando:** tudo o mais — nome comercial, pagina, anunciante, criativos.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/ele-me-100-e-nao-conseguiu-meu-numero-tudo-mentira_53PGdfYaDwM62dO2/\n\n## Historico\n\n## Rodada 2026-08-24\n\nCakto, reclamacao NOVA: R$ 100 pagos para desbanir numero, tres meses sem entrega. A Cakto nao foi lida em 23/08 (URL com filtro de problema), entao este e sinal genuinamente novo. ra_reclamacoes 1 -> 2.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 100,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. Cakto, R$ 100, reclamacao de 15/08. Servico de desbanimento de numero; nao entregue em 3 meses. Descartada na estreia."
+  },
+  {
+   "data": "2026-08-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 100,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Cakto, reclamacao NOVA: R$ 100 pagos para desbanir numero, tres meses sem entrega. Cakto nao foi lida em 23/08 (URL filtrada), entao e sinal genuinamente novo."
+  },
+  {
+   "data": "2026-08-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Cakto. Mesma reclamacao de 24/08 — R$ 100 para desbanir numero, tres meses sem entrega. Sem alteracao."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-24.md",
+   "data": "2026-08-24",
+   "titulo": "Radar 2026-08-24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  }
+ ]
+}

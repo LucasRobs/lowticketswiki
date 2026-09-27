@@ -1,0 +1,139 @@
+{
+ "slug": "agentor",
+ "arquivo": "Ofertas/agentor.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "agentor",
+  "nome": "Agentor (Bruno Gabarra)",
+  "nicho": "ferramentas-ia",
+  "sub_nicho": "agentes-de-ia",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "lastlink",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Agentor%20Bruno%20Gabarra&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 0,
+  "margem_est": 0.85,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "curso"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 0,
+  "s_lucro": 3,
+  "s_replica": 3,
+  "s_saturacao": 4,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-23",
+  "visto_ultimo": "2026-08-27",
+  "rodadas_vista": 3,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/agentor",
+  "gateways_detectados": [
+   "lastlink"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "lastlink"
+  ],
+  "ra_primeira_reclamacao": "2026-08-23",
+  "ra_checado": "2026-08-27",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket"
+  ]
+ },
+ "calc": {
+  "score": 2.55,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-lp"
+  ],
+  "gateways": [
+   "lastlink"
+  ]
+ },
+ "corpo": "# Agentor (Bruno Gabarra)\n\nDescoberta na lista da Lastlink (ha 7h): curso \"Agentor\", de Bruno Gabarra, com acesso travado no primeiro video (\"comece aqui\") e suporte sem resposta.\n\n`s_ticket: 0` e sentinela, nao avaliacao - o valor pago nao aparece no corpo da reclamacao. Enquanto nao for capturado, o score desta nota nao significa nada e ela nao deve ser comparada com as outras no Ranking.\n\n`s_replica: 3` porque o curso e vendido pelo nome do autor. Replicar exigiria construir a mesma autoridade, que e justamente o ativo que nao se copia.\n\n## Rodada 2026-08-24\n\nLastlink, mesma reclamacao de acesso ao curso de Bruno Gabarra de 23/08. Sem alteracao.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. Descoberta pela lista de reclamacoes da lastlink."
+  },
+  {
+   "data": "2026-08-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Lastlink, mesma reclamacao de 23/08. Sem alteracao."
+  },
+  {
+   "data": "2026-08-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Lastlink, ID 257150511, carimbo 23/08/2026 07h36. Confirma o produtor Bruno Gabarra e que a entrega trava no primeiro video. Anterior a rodada de 24/08 — nao incrementa."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-27.md",
+   "data": "2026-08-27",
+   "titulo": "Radar 2026-08-27"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-24.md",
+   "data": "2026-08-24",
+   "titulo": "Radar 2026-08-24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  }
+ ]
+}

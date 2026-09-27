@@ -1,0 +1,99 @@
+{
+ "slug": "cursos-gratis-online",
+ "arquivo": "Ofertas/cursos-gratis-online.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "cursos-gratis-online",
+  "nome": "Cursos Gratis Online",
+  "nicho": "certificacao",
+  "sub_nicho": "taxa-para-liberar-certificado",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta",
+   "google"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "http://cursosgratisonline.com.br",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=cursos%20gratis%20online%20certificado&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 79.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 99,
+  "ticket_medio_est": 90,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "curso"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 7,
+  "s_replica": 5,
+  "s_saturacao": 3,
+  "status": "nova",
+  "visto_primeiro": "2026-08-30",
+  "visto_ultimo": "2026-08-30",
+  "rodadas_vista": 1,
+  "dias_no_ar": 210,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/cursos-gratis-online",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 114,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-30",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "certificacao"
+  ]
+ },
+ "calc": {
+  "score": 5.8,
+  "decisao": "descartar",
+  "flags": [
+   "checkout-desconhecido",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Cursos Gratis Online\n\nEstava na fila do [[angulo-taxa-do-certificado]] como *\"nao medido\"* desde ontem. Medida hoje:\n**114 reclamacoes ativas, 9 na janela de seis meses**, mais recente ha tres meses.\n\n## Os numeros\n\n| Medida | Valor |\n|---|---|\n| **M** — ativas | 114 |\n| **N** — janela 01/02–31/07 | 9 (~1,5/mes) |\n| Mais recente | ha ~3 meses |\n| Reputacao | Sem reputacao definida (so 2 avaliadas) |\n| Resposta | **100%**, media de **1 dia e 11 horas** |\n\n`M − N = 105` contra taxa de 1,5/mes: a esmagadora maioria e anterior a janela. Operacao\n**antiga e viva, mas desacelerando** — mesma assinatura da [[alfabetinho]]. Pelo criterio que\nabri hoje no `Pipeline.md`, `dias_no_ar >= 210` (piso conservador).\n\n## Ticket — o segundo capturado no angulo\n\nDois valores lidos em corpo, o que torna esta a nota mais bem instrumentada do nicho:\n\n- **R$ 79,90** pelo certificado de um curso de extensao (auxiliar fiscal; tambem ABA),\n  pago **via Pix**\n- **R$ 99,00 por um combo de 5 certificados** — e o combo gerou reclamacao propria: o\n  comprador entendeu que escolheria os cinco cursos e a empresa e que escolhia quatro deles\n\nO combo e o achado comercial. Ele transforma um ticket de R$ 79,90 em R$ 99 e, de quebra,\n**resolve o problema de catalogo**: cursos que ninguem escolheria sozinho saem empacotados. E\no mesmo movimento de pilha de bonus que o [[soulmate-sketcher]] usa em nicho totalmente\ndiferente.\n\nJunto com os R$ 139,90 do [[certificado-curso-online]], o angulo agora tem faixa medida:\n**R$ 80 a R$ 140**.\n\n## Esta e a variante limpa da mecanica\n\nO contraste com a [[certifica-brasil]] e o que essa nota adiciona ao vault:\n\n| | [[certifica-brasil]] | Cursos Gratis Online |\n|---|---|---|\n| Resposta a reclamacao | **0%** | **100%**, 1d11h |\n| Reclamacoes resolvidas | nenhuma | resolve, com nota 10 |\n| Entrega | prova + PDF, nao chega | curso real + certificado, chega |\n| Parceiro emissor | nenhum citado | **Fasul** (faculdade) |\n| Cadencia | 3 dias | 3 meses |\n\nA operacao que **entrega** tem um vigesimo da velocidade da que **nao entrega**. Isso e o\npadrao mais desconfortavel que o vault ja mediu, e vale registrar sem suavizar: neste angulo,\na friccao de fazer certo (curso real, emissor real, atendimento real) custa volume.\n\nO que **nao** se conclui dai e que a replica limpa nao funciona — se conclui que ela e um\nnegocio de margem menor e ritmo menor. `veredito: observar`.\n\n## Score 5,80\n\n`s_lucro: 7` (antiga e provada, sem aceleracao — nada nos ultimos tres meses).\n`s_ticket: 7` (medio estimado ~R$ 90, dentro da faixa 60-120).\n`s_replica: 5`, herdado do angulo: a promessa de validade do certificado encosta em area\nregulada mesmo na variante limpa.\n`s_saturacao: 3`.\n\nPagina do produtor: https://www.reclameaqui.com.br/empresa/cursos-online-gratis/lista-reclamacoes/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-30",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 114,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 210,
+   "ticket_frente": 79.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira medicao. M=114 / N=9, mais recente ha 3 meses: antiga, viva, desacelerando. Ticket capturado em corpo: **R$ 79,90** avulso e **R$ 99,00** por combo de 5 certificados, pago por Pix. Responde 100% em 1d11h, emissor parceiro Fasul."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-30.md",
+   "data": "2026-08-30",
+   "titulo": "Radar 2026-08-30"
+  }
+ ]
+}

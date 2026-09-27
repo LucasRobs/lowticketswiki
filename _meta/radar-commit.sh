@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Commita a rodada do dia. Rode DEPOIS que a skill terminar de escrever.
 # Uso: ./_meta/radar-commit.sh [YYYY-MM-DD]
+# Preferir: python3 _meta/publicar.py (grava a passada, exporta o dashboard, commita e, no Mac, envia).
 set -uo pipefail
 
 VAULT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -26,6 +27,9 @@ sweep_locks() {
 
 mkdir -p "$VAULT/_to_delete"
 sweep_locks
+
+# dados do dashboard em dia com as notas (o caminho novo e _meta/publicar.py, que ja faz isto)
+python3 "$VAULT/_meta/exportar_dados.py" --silencioso 2>/dev/null || echo "(aviso: exportar_dados.py falhou; o dashboard fica com os dados anteriores)"
 
 git add -A 2>/dev/null
 

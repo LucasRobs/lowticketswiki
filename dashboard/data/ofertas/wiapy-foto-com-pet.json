@@ -1,0 +1,140 @@
+{
+ "slug": "wiapy-foto-com-pet",
+ "arquivo": "Ofertas/wiapy-foto-com-pet.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "wiapy-foto-com-pet",
+  "nome": "Foto com pet gerada por IA (Wiapy)",
+  "nicho": "pet",
+  "sub_nicho": "ia-imagem",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "wiapy",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Foto%20com%20pet%20gerada%20por%20IA&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 10.9,
+  "ticket_medio_est": 30,
+  "margem_est": 0.85,
+  "modelo": [],
+  "formato_entrega": [],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 6,
+  "s_replica": 9,
+  "s_saturacao": 7,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-20",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/wiapy-foto-com-pet",
+  "gateways_detectados": [
+   "wiapy"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "wiapy"
+  ],
+  "ra_primeira_reclamacao": "2026-08-16",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket"
+  ]
+ },
+ "calc": {
+  "score": 6.65,
+  "decisao": "observar",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "wiapy"
+  ]
+ },
+ "corpo": "# Foto com pet gerada por IA (Wiapy)\n\n## Ângulo\nFoto do dono com o pet gerada por IA. Apelo emocional forte, produção trivial, entrega digital imediata.\n\n## Funil\nNão capturado. `dias_no_ar`, `criativos_ultima` e os tickets estão zerados porque a\nbiblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.\n\n## Estado dos dados\n- **Confirmado:** existência, plataforma de checkout, sinal de volume via Reclame Aqui.\n- **Provisório:** `ticket_medio_est` e `s_ticket` são estimativa por categoria, não leitura.\n- **Faltando:** tempo no ar, contagem de criativos, order bump e upsell ocultos.\n\n`s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais\nforte da rubrica está ausente. Espere o score subir depois da captura.\n\n## Rodada 2026-08-20 — mecânica de cobrança descoberta\n\nReclamação de 15 horas atrás na lista da Wiapy, marcada como **Resolvido**:\n\n> compra da foto com pet, e só depois a informação de que era preciso pagar mais\n> **R$ 10,90 no Pix** e esperar **8 horas** pela entrega.\n\nIsso muda a leitura da oferta. Não é um bump de checkout — é um **upsell pós-compra**,\ncobrado fora do gateway, depois que o cliente já pagou. Explica por que o `ticket_frente`\npodia ser tão baixo: a monetização real acontece na etapa que nenhuma ferramenta de spy\nalcança, porque não está na página.\n\nAs 8 horas de espera são o outro lado da mesma moeda: sugerem geração manual ou em fila,\nnão automação. Isso é teto de escala e é onde a operação quebra se o volume subir.\n\n`ticket_upsell` e `upsell_oculto` atualizados. `s_lucro` sobe de 5 para 6: segunda\ndetecção em rodadas consecutivas, com reclamação de menos de um dia.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira detecção. Origem: reclamação no Reclame Aqui contra wiapy. Sem dados de anúncio."
+  },
+  {
+   "data": "2026-08-20",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": true,
+   "angulo_novo": false,
+   "texto": "Segunda rodada. Reclamacao de 15 horas atras na lista da Wiapy revela a mecanica de\nmonetizacao: apos a compra o cliente e informado de que precisa pagar mais R$10,90 no Pix\ne esperar 8 horas pela entrega. Isso e um upsell pos-compra, nao um bump de checkout — e\nso aparece depois de pagar. Registrado em `ticket_upsell`."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Sem alteração. **Correção de método:** a reclamação do PIX de R$ 10,90 é datada de 04/08/2026 — é a mesma já registrada em 2026-08-20, não uma nova. O rótulo \"Há 15 horas\" na listagem do Reclame Aqui marca a última atividade do caso, não a data de abertura. Ler sempre a data no corpo da reclamação antes de contar volume."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-20.md",
+   "data": "2026-08-20",
+   "titulo": "Radar 2026-08-20"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

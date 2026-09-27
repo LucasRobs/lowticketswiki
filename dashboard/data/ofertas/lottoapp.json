@@ -1,0 +1,110 @@
+{
+ "slug": "lottoapp",
+ "arquivo": "Ofertas/lottoapp.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "lottoapp",
+  "nome": "LottoApp / LotteApp PRO",
+  "nicho": "apostas-e-sinais-esportivos",
+  "sub_nicho": "loteria",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kirvano",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=LottoApp&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 197,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 197,
+  "margem_est": 0.85,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 9,
+  "s_lucro": 6,
+  "s_replica": 4,
+  "s_saturacao": 6,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-16",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/lottoapp",
+  "gateways_detectados": [
+   "kirvano"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "kirvano"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-16",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 6.0,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "kirvano"
+  ]
+ },
+ "corpo": "# LottoApp / LotteApp PRO\n\n## Angulo\nApp que promete numeros/oportunidades de loteria. Trafego vindo do YouTube, nao do Meta.\n\n## Funil\nanuncio YouTube -> pagina -> checkout Kirvano R$197,99 -> versao PRO.\n\n## Por que funciona\nTicket de R$197,99 num app de loteria e o maior valor unitario visto na rodada. Se sustenta CPA nesse preco, a margem por comprador e alta.\n\n## O que copiar / o que evitar\nCopiar: o ticket. Vale checar na Biblioteca de Anuncios se o volume no YouTube justifica o preco. Evitar: promessa de resultado em jogo de azar.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (2 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/solicitacao-de-estorno-do-valor-pago-pelo-aplicativo-lottoapp_fXSACeAM35sNCqQm/\n\n## Historico\n\n## Rodada 2026-08-21 — página de vendas não localizada\n\nBusca web dedicada não encontrou LP ativa de **LottoApp**. Ou a oferta já rotacionou de\ndomínio, ou o nome do criativo difere do nome que o comprador registrou na reclamação.\n`url_ads` preenchido com o termo de busca para tentar pela Biblioteca de Anúncios.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 197,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 2 mencao/mencoes em 1 gateway(s): kirvano. Sem dados de anuncio."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-28.md",
+   "data": "2026-08-28",
+   "titulo": "Radar 2026-08-28"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

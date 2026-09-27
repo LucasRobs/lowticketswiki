@@ -1,0 +1,164 @@
+{
+ "slug": "instalador-robo-pronto-2",
+ "arquivo": "Ofertas/instalador-robo-pronto-2.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "instalador-robo-pronto-2",
+  "nome": "INSTALADOR ROBÔ PRONTO 2.0",
+  "nicho": "ganhar-dinheiro",
+  "sub_nicho": "automacao-robo",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "cakto",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=INSTALADOR%20ROB%C3%94%20PRONTO%202.0&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 97,
+  "margem_est": 0.85,
+  "modelo": [],
+  "formato_entrega": [],
+  "tem_recorrencia": false,
+  "s_ticket": 8,
+  "s_lucro": 7,
+  "s_replica": 5,
+  "s_saturacao": 3,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-27",
+  "rodadas_vista": 5,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/instalador-robo-pronto-2",
+  "gateways_detectados": [
+   "cakto"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 3,
+  "ra_plataformas": [
+   "cakto"
+  ],
+  "ra_primeira_reclamacao": "2026-08-15",
+  "ra_checado": "2026-08-27",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket"
+  ]
+ },
+ "calc": {
+  "score": 6.0,
+  "decisao": "observar",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "cakto"
+  ]
+ },
+ "corpo": "# INSTALADOR ROBÔ PRONTO 2.0\n\n## Ângulo\nRobô de automação pronto para instalar. O \"2.0\" no nome é sinal relevante: só se faz v2 de oferta que vendeu.\n\n## Funil\nNão capturado. `dias_no_ar`, `criativos_ultima` e os tickets estão zerados porque a\nbiblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.\n\n## Estado dos dados\n- **Confirmado:** existência, plataforma de checkout, sinal de volume via Reclame Aqui.\n- **Provisório:** `ticket_medio_est` e `s_ticket` são estimativa por categoria, não leitura.\n- **Faltando:** tempo no ar, contagem de criativos, order bump e upsell ocultos.\n\n`s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais\nforte da rubrica está ausente. Espere o score subir depois da captura.\n\n## Rodada 2026-08-22 — armadilha de contagem confirmada pela segunda vez\n\nApareceu na primeira pagina da Cakto hoje com rotulo \"Ha 11 horas\". O corpo diz\n**15/08/2026** (ID 256521397). Nao e reclamacao nova: `ra_reclamacoes` permanece 2.\n\nE a segunda confirmacao independente da regra que o Painel registrou em 21/08 — o rotulo\n\"Ha X horas\" da listagem marca a ultima atividade do caso, nao a abertura. Sem abrir o\ncorpo, esta rodada teria gravado `ra_reclamacoes: 3` e uma aceleracao que nao existe.\n\nAnatomia nova, pequena mas util: o pedido de reembolso feito em 10/08 foi respondido em\n11/08 com a exigencia de **preencher um formulario** para dar continuidade. Formulario\ncomo degrau de atrito no cancelamento e o espelho do formulario como degrau de valor em\n[[treino-trinca]] — mesma ferramenta, direcoes opostas.\n\n`ra_primeira_reclamacao` preenchida com 2026-08-15, que era o campo vazio mais antigo da nota.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/reembolso-do-curso-instalador-robo-pronto-20-nao-realizado-dentro-do-prazo-legal_DOyIPqc4u83v-ITB/\n\n## Rodada 2026-08-24\n\nCakto, reclamacao NOVA: reembolso do INSTALADOR ROBO PRONTO 2.0 fora do prazo legal. Primeiro sinal desde a Cakto voltar a ser legivel. ra_reclamacoes 2 -> 3.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira detecção. Origem: reclamação no Reclame Aqui contra cakto. Sem dados de anúncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Reclamação nova na Cakto em 2026-08-21 (segunda registrada). Oferta viva e vendendo cinco dias depois da primeira observação. Sem alteração de preço ou ângulo — o que mudou foi a confirmação de que continua no ar."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Vista na listagem da Cakto com rotulo 'Ha 11 horas'; corpo aberto e de 15/08. Nao e reclamacao nova. Segunda confirmacao da armadilha de contagem."
+  },
+  {
+   "data": "2026-08-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Cakto, reclamacao NOVA: reembolso do INSTALADOR ROBO PRONTO 2.0 fora do prazo legal."
+  },
+  {
+   "data": "2026-08-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Cakto. Mesma reclamacao de 24/08 — reembolso fora do prazo legal. Sem alteracao."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-24.md",
+   "data": "2026-08-24",
+   "titulo": "Radar 2026-08-24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "slug": "biblioteca-do-concurseiro",
+ "arquivo": "Ofertas/biblioteca-do-concurseiro.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "biblioteca-do-concurseiro",
+  "nome": "Biblioteca do Concurseiro",
+  "nicho": "concursos",
+  "sub_nicho": "acervo-pdf",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://bibliotecadoconcurseiro.site/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Biblioteca%20do%20Concurseiro&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 27,
+  "margem_est": 0.9,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 7,
+  "s_replica": 9,
+  "s_saturacao": 3,
+  "status": "morta",
+  "visto_primeiro": "2026-08-20",
+  "visto_ultimo": "2026-08-20",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/biblioteca-do-concurseiro",
+  "gateways_detectados": [
+   "hotmart",
+   "lowify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 5,
+  "ra_plataformas": [
+   "hotmart",
+   "lowify"
+  ],
+  "ra_primeira_reclamacao": "2026-04-11",
+  "ra_checado": "2026-08-20",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "concursos"
+  ]
+ },
+ "calc": {
+  "score": 6.2,
+  "decisao": "observar",
+  "flags": [],
+  "gateways": [
+   "hotmart",
+   "lowify"
+  ]
+ },
+ "corpo": "# Biblioteca do Concurseiro\n\nDescoberta pelo caminho que o `Pipeline.md` previu: a lista de reclamações da Lowify como\n**fonte de descoberta**, não só de validação. Uma reclamação de dois dias atrás citava o\nnome do produto; o nome levou a uma página própria no Reclame Aqui.\n\n## Ângulo\nAcervo curado de apostilas, resumos, mapas mentais, simulados e questões para concursos,\nmilitares, ENEM e vestibular, organizado por concurso, banca e disciplina. A promessa é\n**economia de tempo de garimpo**, não conteúdo exclusivo: \"evitando que o aluno perca\ntempo procurando conteúdo na internet\".\n\n## Funil\nanúncio → página → checkout → link de site → link de Google Drive.\n\nProdutor na Hotmart: **WAU Digital LTDA**, produto `G104367321C`. Também aparece na\nLowify, o que indica operação em mais de um gateway ao mesmo tempo.\n\n## Sinal de volume\nCinco reclamações no total: quatro na página própria, uma na lista da Lowify. O número\nabsoluto é baixo, mas **a distribuição é o que importa** — 11/04, 25/04, 15/05, 01/07 e\n18/08. Reclamação em cinco meses distintos não é pico de lançamento, é venda contínua.\nEstá no Reclame Aqui há 4 meses, com 0% de resposta.\n\n## Rotação de domínio\nO mesmo padrão de [[kit-300-aulas-edfisica]], em outro nicho:\n\n| Domínio | Estado |\n|---|---|\n| `bibliotecadoconcurseiro.site` | contato oficial no Reclame Aqui |\n| `acesso.bibliotecadoconcurseiro.com` | área de acesso |\n| `aluno-concurseiro.netlify.app` | **vazia na leitura de hoje** — página queimada ou em troca |\n\nDuas ofertas independentes com a mesma arquitetura reforça a hipótese do Painel: contar\ndeploys distintos da mesma oferta merece virar métrica própria do radar.\n\n## O que copiar / o que evitar\n\n**Copiar:** o eixo de organização. O valor declarado não é o PDF — é a curadoria por\nbanca. Isso é replicável com material que já circula de graça.\n\n**Evitar:** entrega por link de Google Drive. Três das cinco reclamações são exatamente\nisso — link que não abre, conteúdo que não está lá. É onde a operação está sangrando, e\né barato de resolver com área de membros de verdade.\n\n**Cuidado de direito autoral:** \"materiais curados\" em concursos costuma significar\napostila de terceiro redistribuída. Modelar a estrutura, não o acervo.\n\n## Estado dos dados\n- **Confirmado:** existência, produtor, dois gateways, histórico de reclamações datado.\n- **Provisório:** `ticket_medio_est` 27 é estimativa de categoria. A página de marketplace\n  da Hotmart não expõe preço e a landing não abriu. `s_ticket` cai junto se estiver errado.\n- **Faltando:** preço real, tempo no ar, criativos, bump e upsell.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-20",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Origem: reclamacao na lista da Lowify ha 2 dias, que levou a pagina\npropria no Reclame Aqui (4 reclamacoes, 0 respondidas, no RA ha 4 meses). Reclamacoes\nespalhadas por abril, maio, julho e agosto: venda continua, nao pico unico. Entrega por\nlink de Google Drive, segundo dois reclamantes. Ticket nao capturado."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-20.md",
+   "data": "2026-08-20",
+   "titulo": "Radar 2026-08-20"
+  }
+ ]
+}

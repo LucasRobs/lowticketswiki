@@ -1,0 +1,88 @@
+{
+ "slug": "devocional-15-dias-ansiedade",
+ "arquivo": "Ofertas/devocional-15-dias-ansiedade.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "devocional-15-dias-ansiedade",
+  "nome": "Devocional 15 dias — Para quem sofre de ansiedade",
+  "nicho": "religioso",
+  "sub_nicho": "mulher-crista-saude-mental",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://hotmart.com/pt-br/marketplace/produtos/devocional-15-dias-para-quem-sofre-de-ansiedade/F96615361N",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=devocional%20ansiedade&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 27,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 5,
+  "s_replica": 10,
+  "s_saturacao": 5,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/devocional-15-dias-ansiedade",
+  "gateways_detectados": [
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "cristao"
+  ]
+ },
+ "calc": {
+  "score": 6.1,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Devocional 15 dias — Para quem sofre de ansiedade\n\nscore = 6.1\n\n## Angulo\n\nMesma dor da oferta de referencia (ansiedade em mulher crista), **sem o mecanismo\npsicologico** — e devocional puro. Produtoras: Bruna Ferreira Binoto e Larissa Barreto.\n\nE o contraexemplo que prova a tese do nicho: mesma dor, mesmo publico, ticket 5x menor,\nporque nao ha credencial nem entregavel fisico.\n\n## Funil\n\n15 devocionais diarios em e-book. Listado no marketplace da Hotmart (aberto a afiliados).\n\n## Estado dos dados\n\n- **Confirmado:** existencia, produtoras, formato.\n- **Faltando:** preco (a pagina de marketplace nao exibe), avaliacoes, tempo no ar, criativos.\n- `ticket_medio_est: 27` e estimativa por categoria, nao leitura.\n\nNicho: [[mulher-crista-saude-mental]]\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "web",
+   "ra_reclamacoes": "",
+   "criativos_ativos": 0,
+   "criativos_novos": "",
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira captura via marketplace Hotmart. Preco nao exibido.\n\nBiblioteca de Anuncios nao rodou nesta rodada — `criativos_ativos` e `dias_no_ar` ficam em 0\npor ausencia de leitura, nao por ausencia de anuncio."
+  }
+ ],
+ "citacoes": []
+}

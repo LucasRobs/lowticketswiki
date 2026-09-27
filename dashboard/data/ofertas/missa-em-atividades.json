@@ -1,0 +1,100 @@
+{
+ "slug": "missa-em-atividades",
+ "arquivo": "Ofertas/missa-em-atividades.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "missa-em-atividades",
+  "nome": "Missa em Atividades — kit catolico infantil imprimivel",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "catequese-infantil",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=missa%20em%20atividades&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 0,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 0,
+  "s_lucro": 5,
+  "s_replica": 9,
+  "s_saturacao": 9,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 35,
+  "criativos_ultima": 3,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/missa-em-atividades",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 5.8,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "checkout-desconhecido",
+   "sem-lp",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Missa em Atividades — o cruzamento mais vazio do vault\n\n35 dias no ar, 3 criativos ativos, +200 recursos imprimiveis em PDF sobre a Santa Missa: partes\nda celebracao, objetos liturgicos, cores, gestos e respostas da assembleia. Publico declarado:\npais, catequistas, educadores, paroquias e escolas catolicas.\n\n## Por que `s_saturacao: 9`\n\nO vault tem **dois clusters grandes que nunca se tocaram**: material pedagogico imprimivel\n([[alfabetinho]], [[kit-so-escola-tdah]], [[clube-da-pedagogia]], [[angulo-material-pedagogico]])\ne devocional cristao ([[desafio-romanos-12-2]], [[hinario-em-movimento]],\n[[renovacao-da-mente-mulheres-no-secreto]], [[desafio-30-dias-com-deus]]).\n\nEsta oferta e a **primeira interseccao observada em campo**, e esta praticamente sozinha nela.\nA [[parabolas-kids]] chega perto mas entra por formacao de carater com a Biblia como veiculo;\nesta entra por **liturgia**, que e vocabulario catolico especifico e nao tem concorrente medido.\n\n## Por que o publico e melhor do que parece\n\nNao e so a mae. E a **catequista** — que compra material para vinte criancas, tem verba de\nparoquia e nao pede reembolso de R$ 30. O mesmo deslocamento de comprador que a shortlist de\n30/08 anotou na [[coletanea-regulacao-emocional]] (mae -> psicologa infantil), aqui ja resolvido\npelo proprio anunciante.\n\nE o problema que ele nomeia e observavel toda semana:\n\n> \"Muitas criancas vao a Missa, sentam, levantam, ajoelham e respondem... mas ainda nao entendem\n> o que esta acontecendo.\"\n\n## O que falta\n\n`ticket_frente: 0` e **sentinela, nao avaliacao** (`Pipeline.md`, item 6): o anuncio nao declara\npreco e a LP nao foi capturada — o link do criativo nao apareceu no texto da Biblioteca. Com\n`s_ticket: 0`, o score de 5,80 esta sistematicamente subestimado e **nao deve ser comparado com\nas outras notas da rodada** ate a captura.\n\nPrioridade 3 apesar do score: `s_saturacao: 9` com `s_replica: 9` e a combinacao mais rara do\nvault, e o ativo (PDF ilustrado sobre um roteiro fixo e publico) e integralmente gerave por IA.\n\n## Fila\n\nAchar a LP pela pagina do anunciante na Biblioteca de Anuncios e capturar preco e gateway.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 3,
+   "criativos_novos": 3,
+   "dias_no_ar": 35,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 35 dias no ar (veiculacao iniciada 27/07/2026), 3 criativos. Primeira interseccao medida entre os clusters pedagogico e devocional. `s_ticket: 0` e sentinela — preco nao declarado no anuncio e LP nao capturada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "slug": "angulo-eletricista-orcamento-app",
+ "arquivo": "Ofertas/angulo-eletricista-orcamento-app.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-eletricista-orcamento-app",
+  "nome": "App de orcamento para eletricista + imprimiveis",
+  "nicho": "cursos-de-oficio",
+  "sub_nicho": "eletrica-residencial",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "wiapy",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=orcamento%20eletricista%20app&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 27,
+  "ticket_bump": 32,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 60,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "planilha",
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 5,
+  "s_replica": 9,
+  "s_saturacao": 8,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-16",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/angulo-eletricista-orcamento-app",
+  "gateways_detectados": [
+   "wiapy"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "wiapy"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-16",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo"
+  ]
+ },
+ "calc": {
+  "score": 7.05,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "wiapy"
+  ]
+ },
+ "corpo": "# App de orcamento para eletricista + imprimiveis\n\n## Angulo\nFerramenta de orcamento para eletricista autonomo, empacotada com materiais imprimiveis. Vende utilidade profissional, nao curso.\n\n## Funil\nanuncio -> pagina -> checkout Wiapy R$27,99 -> app + imprimiveis -> cobranca adicional de R$32,90 para liberar o restante.\n\n## Por que funciona\nO melhor eixo de replicabilidade da rodada. Entrega e planilha/PDF, o publico e classe C profissional, o criativo nao precisa de rosto nem de autoridade, e o ticket medio chega a R$60 com o bump. s_replica 9.\n\n## O que copiar / o que evitar\nCopiar: o formato 'ferramenta de trabalho + imprimiveis' aplicado a qualquer oficio - encanador, ar-condicionado, pintor, marceneiro. O bump de R$32,90 sobre um front de R$27,99 quase dobra o ticket medio. Evitar: travar o produto principal atras do bump; cobre o bump como extra de verdade.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/wiapy/produto-nao-funciona-e-exige-pagamento-adicional_tyL1dL9FWDAZypkJ/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 27,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 1 mencao/mencoes em 1 gateway(s): wiapy. Sem dados de anuncio."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-28.md",
+   "data": "2026-08-28",
+   "titulo": "Radar 2026-08-28"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-21 -- shortlist-replicaveis.md",
+   "data": "2026-08-21",
+   "titulo": "Shortlist de replicação — as 8 melhores de 57 mineradas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

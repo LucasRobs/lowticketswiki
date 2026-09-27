@@ -1,0 +1,137 @@
+{
+ "slug": "papel-magico-bonecas",
+ "arquivo": "Ofertas/papel-magico-bonecas.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "papel-magico-bonecas",
+  "nome": "+350 Bonecas de Papel — Papel Mágico",
+  "nicho": "imprimiveis-infantil",
+  "sub_nicho": "tempo-de-tela",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "lowify",
+  "url_pagina": "https://papelmagicobr.netlify.app/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%2B350%20Bonecas%20de%20Papel&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 12.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 24.9,
+  "ticket_medio_est": 21,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 6,
+  "s_replica": 10,
+  "s_saturacao": 2,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-20",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/papel-magico-bonecas",
+  "gateways_detectados": [
+   "lowify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-20",
+  "veredito": "observar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "imprimiveis"
+  ]
+ },
+ "calc": {
+  "score": 6.0,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "lowify"
+  ]
+ },
+ "corpo": "# +350 Bonecas de Papel — Papel Mágico\n\n**O achado da rodada.** `s_replica` 10 é a primeira nota máxima do vault nesse eixo.\n\n## Ângulo\n\n> \"Sua filha vai largar o celular quando ver isso!\"\n\nO produto é boneca de papel imprimível. **A oferta não é sobre boneca — é sobre tempo de\ntela.** A headline não vende a atividade, vende o fim da briga diária. É a diferença\nentre vender o objeto e vender a saída de um conflito que a mãe já perdeu várias vezes.\n\nA seção \"esta coleção é ideal pra você que\" tem seis blocos, e cada um nomeia um cenário\nespecífico em vez de um benefício: *já tentou cortar o celular e cedeu na primeira birra*,\n*briga com a sogra ou marido que sempre cede*, *tem medo de atraso de fala*. O terceiro é\no mais afiado — usa o conflito familiar, não o da criança, como gatilho.\n\nO objetivo é ser substituição, não proibição: \"você não tira nada, você substitui\".\n\n## Funil\n\n| Degrau | Preço | Onde |\n|---|---|---|\n| Plano Básico | **R$ 12,90** (de R$47,90) | 350 bonecas, sem bônus |\n| Plano Completo | **R$ 24,90** (de R$143,50) | `pay.lowify.com.br/checkout?product_id=yZauOn` |\n| Downsell de saída | **R$ 17,90** | `pay.lowify.com.br/checkout?product_id=DxPp46` |\n\nO **downsell de saída** é o detalhe caro: um pop-up dispara na intenção de sair e oferece\no Completo por R$17,90 em vez de R$24,90. Isso não é funil de iniciante — é alguém que já\nmediu abandono e construiu uma segunda chance para ele.\n\nSeis bônus com valor declarado (R$19,90 + R$12,90 × 4 = R$71,50), mais um sétimo bônus de\n\"atualizações mensais gratuitas\" que cria motivo de retorno sem cobrar recorrência.\n\nEntrega por **WhatsApp e e-mail**, garantia de 30 dias (não 7).\n\n## Por que isso está rodando\n\nCusto de produção próximo de zero: ilustração kawaii chibi, formato A4, PDF. Sem rosto,\nsem autoridade, sem nicho regulado, sem logística. A página inteira roda em netlify.\n\nO que sustenta a nota: **nada aqui exige o produtor original.** Qualquer pessoa com um\ngerador de imagem e uma tarde monta o acervo. É o oposto de [[raio-x-enare-farmacia]],\ndescoberta na mesma rodada e que depende de dois doutores.\n\n## O que copiar / o que evitar\n\n**Copiar:** o downsell de saída (o vault não tinha nenhum exemplo até hoje); a ancoragem\npor unidade — \"menos de 4 centavos por boneca\" transforma R$12,90 em algo sem comparação;\no \"Truque do Dedão\", um detalhe de uso trivial que finge ser método proprietário; e a\ngarantia de 30 dias, que num produto de custo zero é retórica pura.\n\n**Evitar:** os temas nomeados são personagens genéricos (princesa, fada, sereia), mas a\nheadline promete \"personagens favoritos dela\". Se a modelagem usar personagem licenciado\nde verdade, vira problema de marca. Mantenha genérico como eles mantiveram.\n\n**Melhorar:** eles entregam meninas de 4 a 10 anos. O bônus #6 já admite que existe\ndemanda de menino e entrega 20 bonecos como consolo. Uma oferta espelho só de meninos é\ncampo aberto — e o mesmo acervo, redesenhado.\n\n## Estado dos dados\n- **Confirmado:** preços dos três degraus, gateway, IDs de produto, estrutura de bônus.\n- **Provisório:** `ticket_medio_est` 21 assume mix entre básico e completo. A página afirma\n  97% no completo, o que empurraria para 24; não há como verificar, então fica no meio.\n- **Faltando:** tempo no ar e contagem de criativos. `s_lucro` 6 é leitura de sofisticação\n  do funil, não de dado de anúncio — é o eixo mais frágil desta nota.\n## Historico\n\n## Verificacao 2026-08-30 — funil intacto, e a garantia e de 30 dias\n\nPagina no ar, tres degraus confirmados de novo (R$ 12,90 / R$ 24,90 / downsell R$ 17,90),\ncheckout Lowify `yZauOn`, sete bonus (o setimo e \"atualizacoes mensais gratuitas\") e\ngarantia de **30 dias**. Dez dias depois do primeiro registro, nada mudou — funil\nestavel, nao teste de fim de semana. `status: morta` esta errado e precisa voltar para\n`esfriando` na proxima gravacao.\n\n---\n\n## Correcao de 2026-08-31 — o campo nunca esteve aberto\n\nA shortlist de 30/08 colocou esta oferta em primeiro lugar com a leitura de **\"campo aberto\"** e\n`s_saturacao: 7`. Com a Biblioteca de Anuncios de volta hoje, a leitura cai: sao **sete\noperadores ativos** no mesmo angulo, tres deles com mais de 40 dias de anuncio. `s_saturacao`\ncorrigido para **2**. Ver [[angulo-bonecas-de-papel-imprimivel]].\n\nPior que a saturacao: a [[bonecas-papel-maria-criativa]] ancora **nos mesmos valores ao centavo**\n— R$ 47,90 no basico e R$ 143,50 no completo — com os mesmos sete bonus na mesma ordem, em\ngateway diferente (Kirvano contra Lowify). **Esta oferta nao e original.** O kit de venda circula\npronto entre operadores.\n\nO que sobrevive da leitura de ontem: `s_replica: 10` continua correto, e o **downsell de saida de\nR$ 17,90** continua sendo a peca que os outros seis nao tem. O que muda e o veredito de entrada:\ncopiar este funil e ser o oitavo clone. O espaco esta no reenquadramento (ver\n[[pequenas-estilistas]], 2,3x o ticket com o mesmo tipo de ativo) e no acervo espelho de meninos.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-20",
+   "fonte": "busca-netlify",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 12.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira deteccao. Busca por dominio netlify com termos de preco. Funil de tres degraus\nvisivel sem Brute Mode: basico R$12,90, completo R$24,90 e downsell de saida R$17,90.\nAngulo novo no vault: tempo de tela infantil como dor da mae, nao a atividade em si."
+  },
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 12.9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Reavaliacao, nao avistamento: a oferta nao apareceu na Biblioteca de Anuncios sob o termo do\nangulo, mas seis concorrentes diretos apareceram. `s_saturacao` corrigido de 7 para 2 e a leitura\nde \"campo aberto\" da shortlist de 30/08 revogada. Ancoragem identica a da\n[[bonecas-papel-maria-criativa]] indica ativo de venda circulando pronto."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-20.md",
+   "data": "2026-08-20",
+   "titulo": "Radar 2026-08-20"
+  }
+ ]
+}

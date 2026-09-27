@@ -1,0 +1,120 @@
+{
+ "slug": "colecao-caligrafia-cursiva",
+ "arquivo": "Ofertas/colecao-caligrafia-cursiva.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "colecao-caligrafia-cursiva",
+  "nome": "Colecao Completa de Caligrafia 1o ao 6o ano — 380 atividades",
+  "nicho": "material-pedagogico",
+  "sub_nicho": "caligrafia",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "cakto",
+  "url_pagina": "https://atividade-cursiva.netlify.app",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=caligrafia&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 12,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 12,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 2,
+  "s_lucro": 9,
+  "s_replica": 9,
+  "s_saturacao": 3,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 123,
+  "criativos_ultima": 8,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/colecao-caligrafia-cursiva",
+  "gateways_detectados": [
+   "cakto"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "material-pedagogico",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 6.7,
+  "decisao": "observar",
+  "flags": [
+   "status-vencido"
+  ],
+  "gateways": [
+   "cakto"
+  ]
+ },
+ "corpo": "# Colecao Completa de Caligrafia — 380 atividades\n\n**123 dias no ar.** E a maior idade de anuncio ja medida no vault, e a primeira medida de\nverdade: saiu da Biblioteca de Anuncios, nao de estimativa. Veiculacao iniciada em **30 de abril\nde 2026**, ainda ativa hoje.\n\nNinguem queima verba por quatro meses numa oferta que nao paga. Este e o unico registro do vault\nonde `s_lucro` alto e **medicao**, nao palpite conservador.\n\n## Funil\n\nAnuncio (video 44s, criativo de \"letra feia\") -> LP unica em Netlify -> checkout Cakto\n`pay.cakto.com.br/si5amap_922965` -> nenhum bump, nenhum upsell.\n\n| Item | Valor |\n|---|---|\n| Preco | **R$ 12,00** (ancorado R$ 44,90, economia declarada R$ 32,90) |\n| Entrega | 380 paginas em PDF, 6 modulos |\n| Garantia | 7 dias, \"sem burocracia e sem perguntas\" |\n| Escassez | timer de 14min59s |\n\nModulos: Caderno Pratico de Caligrafia · Silabario Cursivo · Frases Cursivas · Producao de\nFrases · Coordenacao Motora Fina · Caderno do Alfabeto.\n\n## Os bonus sao precificados mas nao sao produtos\n\nCaderno do Alfabeto (R$ 9,90), Suporte VIP WhatsApp (R$ 14,90), Acesso Vitalicio (R$ 19,90),\nRenovacao Gratuita (R$ 12,90). Somam R$ 57,60 de valor declarado e **custam zero**: dois sao\npromessas de acesso, um e um canal de WhatsApp, um e um PDF a mais. E a tecnica mais barata de\ninflar valor percebido que existe — e a oferta de R$ 12 encosta em R$ 60 de ancoragem sem\nproduzir nada.\n\n## Por que funciona\n\n**A dor tem testemunha.** Letra feia e o unico problema escolar que a mae ve com os proprios\nolhos, todo dia, no caderno. Nao precisa de laudo, nao precisa de professora avisando. O\ncriativo so precisa mostrar um caderno rabiscado ao lado de um caderno bonito.\n\n**E o inverso do nicho regulado.** Caligrafia nao promete tratamento, nao encosta em diagnostico\ne nao reprova no Meta. Compare com [[kit-so-escola-tdah]], que carrega o risco de promessa\nclinica: aqui o teto de `s_replica` nao existe.\n\n## O que copiar / o que evitar\n\n**Copiar:** a ancoragem por bonus de custo zero; o timer curto; a LP unica em host gratuito\n(Netlify), que e o funil mais barato possivel; e o duplo anunciante — \"Universo das Dinamicas\" e\n\"Atividades Cursiva\" rodam **o mesmo criativo em duas paginas**, o que dobra o alcance sem dobrar\nproducao. Ver [[parabolas-kids]], que faz o mesmo com dois dominios.\n\n**Evitar:** competir com o preco. A R$ 12 sem bump nem upsell, o ticket medio e R$ 12 —\n`s_ticket: 2`. Quem entrar aqui deve entrar com **bump** (caderno de numeros, R$ 9) e **upsell**\n(pacote bastao + cursiva, R$ 27), porque a mesma verba de trafego compra o mesmo clique.\n\n## Estado dos dados\n\n- **Medido hoje:** `dias_no_ar: 123`, preco, gateway, garantia, bonus, escassez.\n- **Estimado:** `criativos_ultima: 8` — soma conservadora dos criativos ativos das duas paginas\n  (1 + 3 + 4). A contagem exata exige abrir cada anuncio.\n- **Ausente:** rastro no Reclame Aqui. Esperado — ver a excecao de nicho no `Pipeline.md`.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 8,
+   "criativos_novos": 8,
+   "dias_no_ar": 123,
+   "ticket_frente": 12,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. Primeira nota do vault com `dias_no_ar` medido na Biblioteca de Anuncios: 123 dias, veiculacao iniciada em 30/04/2026. Checkout Cakto e preco R$ 12 lidos na LP hoje."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

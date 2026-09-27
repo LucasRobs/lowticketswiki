@@ -1,0 +1,161 @@
+{
+ "slug": "angulo-artesanato-moldes-pdf",
+ "arquivo": "Ofertas/angulo-artesanato-moldes-pdf.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-artesanato-moldes-pdf",
+  "nome": "Artesanato, moldes e PDF criativo",
+  "nicho": "artesanato",
+  "sub_nicho": "moldes-e-croche",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "wiapy",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=apostila%20de%20croche&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 25,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 25,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 8,
+  "s_replica": 10,
+  "s_saturacao": 4,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-09-25",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/angulo-artesanato-moldes-pdf",
+  "gateways_detectados": [
+   "wiapy",
+   "cakto",
+   "lastlink",
+   "lowify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 6,
+  "ra_plataformas": [
+   "wiapy",
+   "cakto",
+   "lastlink",
+   "lowify"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-09-25",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo"
+  ]
+ },
+ "calc": {
+  "score": 7.0,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "cakto",
+   "lastlink",
+   "lowify",
+   "wiapy"
+  ]
+ },
+ "corpo": "# Artesanato, moldes e PDF criativo\n\n## Angulo\nMoldes, croche, bordado, figurinhas, bonecas de papel. Marca nomeada na amostra: 160 Moldes Pra Personalizacao de Tenis.\n\n## Funil\nanuncio -> pagina -> checkout -> PDF.\n\n## Por que funciona\nSeis reclamacoes espalhadas por QUATRO gateways diferentes (Wiapy, Cakto, Lastlink, Lowify). E o angulo mais difuso da rodada, o que significa muitos produtores pequenos rodando em paralelo - mercado com demanda, nao operacao unica.\n\n## O que copiar / o que evitar\nCopiar: producao trivial, s_replica 10. O contra e o ticket de R$25 - so fecha conta com bump. O '160 moldes' mostra o padrao vencedor: quantidade no nome do produto.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (6 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/wiapy/reembolso-do-material-160-moldes-pra-personalizacao-de-tenis_93lTucSVR8kCltMT/\n\n## Historico\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway Cakto). Receita/apostila de croche (vendedora Amigurumii.Brasil, via Instagram) nao entregue. Segunda mencao de croche na semana; ja era o cluster quente da rodada de 13/09.\n\nEvidencia: [[2026-09-25 -- 1017]] (rodada agendada; sem URL individual de reclamacao)\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 6,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 25,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 6 mencao/mencoes em 4 gateway(s): wiapy, cakto, lastlink, lowify. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-09-25",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Receita/apostila de croche (vendedora Amigurumii.Brasil, via Instagram) nao entregue. Segunda mencao de croche na semana; ja era o cluster quente da rodada de 13/09."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-27 -- novidades-22-a-26-09.md",
+   "data": "2026-09-27",
+   "titulo": "Novidades mineradas de 22 a 26/09"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-25 -- 1017.md",
+   "data": "2026-09-25",
+   "titulo": "Passada 2026-09-25 10:17"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-25.md",
+   "data": "2026-09-25",
+   "titulo": "Radar 2026-09-25"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-13 -- pdf-clonaveis.md",
+   "data": "2026-09-13",
+   "titulo": "PDFs clonaveis so com agentes de IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-28.md",
+   "data": "2026-08-28",
+   "titulo": "Radar 2026-08-28"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

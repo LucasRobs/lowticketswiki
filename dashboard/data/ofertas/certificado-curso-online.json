@@ -1,0 +1,92 @@
+{
+ "slug": "certificado-curso-online",
+ "arquivo": "Ofertas/certificado-curso-online.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "certificado-curso-online",
+  "nome": "Certificado Curso Online — curso gratis, certificado R$ 139,90",
+  "nicho": "certificacao",
+  "sub_nicho": "taxa-para-liberar-certificado",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "google"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "http://certificadocursosonline.com",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=certificado%20curso%20online&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 139.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 139.9,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "curso"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 9,
+  "s_lucro": 4,
+  "s_replica": 5,
+  "s_saturacao": 4,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-29",
+  "visto_ultimo": "2026-08-29",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/certificado-curso-online",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 58,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-29",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "certificacao"
+  ]
+ },
+ "calc": {
+  "score": 5.3,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade",
+   "checkout-desconhecido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Certificado Curso Online — curso gratis, certificado R$ 139,90\n\nSegundo maior volume do vault depois da [[alfabetinho]]: **58 reclamacoes ativas**. E a unica nota do dia com **ticket capturado**, porque um corpo diz o valor ao pe da letra: *\"informando que e gratuito, mas na hora tem que pagar certificado. Paguei R$ 139,90\"*.\n\n## A mecanica, escrita pelos proprios reclamantes\n\nO titulo da reclamacao mais util e literal: **\"Cobranca indevida de certificado em curso anunciado como gratuito\"**. O funil e:\n\n1. Anuncio de curso **gratuito com certificado**\n2. Aluno faz o curso inteiro (custo afundado, semanas de esforco)\n3. Na emissao, o certificado e pago — R$ 139,90\n\nO ponto de cobranca fica **depois** do investimento de tempo, nao antes do de dinheiro. E a versao educacional da \"taxa pra liberar\" que o `Pipeline.md` ja lista como a mecanica que faz o comprador brigar — e por isso deixa rastro no RA. Ver [[angulo-taxa-do-certificado]].\n\nDistribuicao de problemas nas 58: **propaganda enganosa (20)**, outro problema (11), boletos (3). Categoria dominante: Cursos Livres (32). Nomes de curso citados nos corpos indicam catalogo largo e generico — \"Historia da Velhice no Brasil\" (com professora nomeada), \"operador de empilhadeira\".\n\n## Volume alto, operacao fria\n\n| Numero | Valor |\n|---|---|\n| **M** — ativas | 58 |\n| **N** — recebidas em 01/02-31/07 | 3 |\n| Mais recente | ha 2 meses |\n| Respondeu | 0% |\n\n`M − N` aqui nao mede aceleracao: mede **acumulo de anos**. Tres reclamacoes em seis meses contra 58 ativas e o padrao de desaceleracao que a [[alfabetinho]] tambem mostra, so que mais extremo. `s_lucro: 4`.\n\n**Contraste util com a [[certifica-brasil]].** Mesmo nicho, mesma mecanica, sinais opostos: esta tem 4,5x mais volume historico e esta parada; a outra tem volume pequeno e esta acelerando ~3,8x. **Se o vault tivesse que apostar em uma, e na que esta esquentando** — o que e exatamente o que `s_lucro` (peso 35) deveria estar dizendo e nao diz, porque esta nota compensa com `s_ticket: 9`.\n\nVale registrar o efeito: esta nota marca **5,30** e a [[certifica-brasil]] marca **4,90**, ou seja o ranking coloca a operacao morta na frente da viva por causa de um ticket capturado por acaso. E o mesmo defeito que o Diagnostico do `Painel.md` chamou de anticorrelacao entre eixos, agora com um par limpo para ilustrar.\n\n## O que copiar\n\nO ponto de cobranca. Nao o produto — o **momento**. Cobrar depois do esforco investido, e nao antes, converte melhor que cobrar na entrada; o custo e que gera reclamacao, porque o comprador se sente enganado. Para uma replica limpa: **anunciar o preco do certificado desde o inicio** e manter o curso gratuito de verdade. Perde-se parte da conversao por surpresa e ganha-se a operacao que nao vive de churn.\n\n## Estado dos dados\n\n- **Confirmado:** volume (58), ticket (R$ 139,90), mecanica, mix de problemas, site (`certificadocursosonline.com`).\n- **Faltando:** gateway, `dias_no_ar`, se ha bump/upsell (a carteirinha citada na [[certifica-brasil]] sugere que o padrao tem upsell).\n\nPagina do produtor: https://www.reclameaqui.com.br/empresa/certificado-curso-online/lista-reclamacoes/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 58,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 139.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao, por busca de produtor por nicho. **58 reclamacoes ativas** — segundo maior volume do vault, atras so da [[alfabetinho]] (177). Mas **N = 3** na janela de seis meses e a mais recente e de ha 2 meses: volume acumulado de anos, operacao parada. `s_lucro: 4`. **Unico ticket capturado da rodada:** um corpo diz \"informando que e gratuito, mas na hora tem que pagar certificado. Paguei R$ 139,90\". Mix de problemas: propaganda enganosa (20 de 58), Cursos Livres (32). Site `certificadocursosonline.com`, 0% respondida. Ancora do [[angulo-taxa-do-certificado]] na variante com curso real."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "slug": "unlovable",
+ "arquivo": "Ofertas/unlovable.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "unlovable",
+  "nome": "Unlovable",
+  "nicho": "ferramentas-ia",
+  "sub_nicho": "gerador-de-app",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kirvano",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=unlovable&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 57,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 114,
+  "margem_est": 0.8,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": true,
+  "s_ticket": 9,
+  "s_lucro": 8,
+  "s_replica": 3,
+  "s_saturacao": 5,
+  "status": "esfriando",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-23",
+  "rodadas_vista": 3,
+  "dias_no_ar": 149,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "kirvano"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "kirvano"
+  ],
+  "ra_primeira_reclamacao": "2026-03-27",
+  "ra_checado": "2026-08-23",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "recorrencia",
+   "ia"
+  ]
+ },
+ "calc": {
+  "score": 6.25,
+  "decisao": "observar",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "kirvano"
+  ]
+ },
+ "corpo": "# Unlovable\n\n## Ângulo\n**Nome como piada de posicionamento.** \"Unlovable\" é o anti-Lovable — categoria de\ngerador de app por IA, entrada barata contra uma ferramenta cara e conhecida. O mesmo\nmecanismo que faz [[mounjaro-de-pobre]] funcionar em emagrecimento: pegar carona no nome\nque o mercado já pesquisa e vender a versão acessível.\n\n## Funil\n`R$ 57,00 recorrente`. A reclamação de 2026-08-21 é o dado bom: a primeira compra foi em\n**27/03** e a cobrança seguia rodando em agosto. **Cinco meses de assinatura ativa** é o\nsinal de receita mais concreto que esta rodada produziu — mais confiável que contagem de\nreclamação, porque é uma série temporal dentro de um único caso.\n\n## Estado dos dados\n- **Confirmado:** R$ 57,00, recorrência, Kirvano, operação viva de março a agosto de 2026.\n- **Faltando:** página, tempo no ar, criativos, taxa de churn.\n\n`s_ticket: 9` pela recorrência — a rubrica dá 9-10 para qualquer valor recorrente.\n`s_replica: 3` é o que derruba: construir um gerador de app é produção pesada de software.\n**O ângulo é replicável, o produto não.**\n\n## Correcao 2026-08-22 — nao e compra unica, e Pix Automatico recorrente\n\nReleitura do corpo da reclamacao de 21/08/2026 (ID 257016211). A rodada anterior leu\n\"cinco meses de assinatura ativa\" e registrou `tem_recorrencia: false`. As duas coisas nao\npodem ser verdade ao mesmo tempo.\n\nO que o corpo diz: compra em **27/03** por R\\$ 57,00, reembolsada. Nova cobranca de\nR\\$ 57,00 em **27/05**, e outras depois, somando \"mais de R\\$ 100,00\". O meio de pagamento\ne **Pix Automatico** — e a cobranca sobreviveu ao reembolso da primeira parcela.\n\nTres consequencias:\n\n1. `tem_recorrencia: true`. `ticket_medio_est` sobe de 57 para 114 — dois ciclos sao o\n   piso observado, nao a media.\n2. `s_lucro` sobe de 6 para 7: a oferta esta viva desde 27/03, sao ~148 dias, e a faixa\n   \"45-90 dias\" do `Scoring.md` ja estava estourada.\n3. **Pix Automatico e o achado transferivel.** Recorrencia sem cartao, em ticket baixo,\n   num publico que nao tem limite de credito — e o unico jeito de rodar assinatura de\n   R\\$ 57 no Brasil sem depender de aprovacao de cartao. Nenhuma outra oferta do vault\n   usa. Vale checar se [[app-do-paizao]] e [[treino-trinca]] cobram assim.\n\n`ra_reclamacoes` permanece 1.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-de-produto-apos-solicitacao-de-reembolso-e-cancelamento_w-be-Q3HeN6FdwPQ/\n\n## Rodada 2026-08-23\n\nKirvano, ha 13h: mesma historia de 27/03 e R$ 57,00, com cobranca recorrente sobrevivendo ao cancelamento. 149 dias de venda medidos a partir da data de compra. Risco de dupla contagem com a reclamacao de ontem - as duas citam a mesma data e o mesmo valor. Registrado como reclamacao nova, com a ressalva.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 57,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparição. Kirvano, 2026-08-21. R$ 57,00 recorrente; primeira compra em 27/03 com cobrança ainda ativa em agosto — cinco meses de assinatura viva."
+  },
+  {
+   "data": "2026-08-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 57,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Recorrencia confirmada: Pix Automatico, R$ 57 em 27/03 e 27/05 e depois. tem_recorrencia false -> true, s_lucro 6 -> 7. Vendendo ha ~148 dias."
+  },
+  {
+   "data": "2026-08-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 149,
+   "ticket_frente": 57,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Kirvano, ha 13h: mesma historia de 27/03 e R$ 57,00, com cobranca recorrente sobrevivendo ao cancelamento. 149 dias de venda medidos a partir da data de compra. Risco de dupla contagem com a reclamacao de ontem - as duas citam a mesma data e o mesmo valor. Registrado como reclamacao nova, com a ressalva."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-27.md",
+   "data": "2026-08-27",
+   "titulo": "Radar 2026-08-27"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-24.md",
+   "data": "2026-08-24",
+   "titulo": "Radar 2026-08-24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

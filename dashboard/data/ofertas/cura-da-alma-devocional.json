@@ -1,0 +1,88 @@
+{
+ "slug": "cura-da-alma-devocional",
+ "arquivo": "Ofertas/cura-da-alma-devocional.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "cura-da-alma-devocional",
+  "nome": "Cura da Alma — devocional diario para traumas e feridas",
+  "nicho": "religioso",
+  "sub_nicho": "cura-interior",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://hotmart.com/pt-br/marketplace/produtos/hagsx-cura-da-alma-devocional-diario-para-curar-traumas-e-feridas-do-passado-4ktcx/P85285936W",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=cura%20da%20alma%20devocional&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 27,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 5,
+  "s_replica": 10,
+  "s_saturacao": 5,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/cura-da-alma-devocional",
+  "gateways_detectados": [
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "cristao"
+  ]
+ },
+ "calc": {
+  "score": 6.1,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Cura da Alma — devocional diario para traumas e feridas\n\nscore = 6.1\n\n## Angulo\n\nDeclara o publico explicitamente: \"mulheres cristas\". Cobre autoestima, crise de fe,\nculpa, vergonha, perda, autenticidade e gratidao — cada um com aplicacao pratica.\n\n**A lista de temas dessa oferta e um mapa de angulos pronto.** Cada item ali e um criativo\npossivel, e \"culpa\" e \"vergonha\" sao exatamente as dores que a referencia ataca.\nProdutora: Andrea Triani Costa Barbosa.\n\n## Funil\n\nE-book devocional diario. Categoria desenvolvimento pessoal no marketplace Hotmart.\n\n## Estado dos dados\n\n- **Confirmado:** existencia, produtora, publico declarado, temas.\n- **Faltando:** preco, avaliacoes, tempo no ar, criativos.\n\nNicho: [[mulher-crista-saude-mental]]\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "web",
+   "ra_reclamacoes": "",
+   "criativos_ativos": 0,
+   "criativos_novos": "",
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira captura via marketplace Hotmart. Preco nao exibido. Lista de temas serve de mapa de angulos.\n\nBiblioteca de Anuncios nao rodou nesta rodada — `criativos_ativos` e `dias_no_ar` ficam em 0\npor ausencia de leitura, nao por ausencia de anuncio."
+  }
+ ],
+ "citacoes": []
+}

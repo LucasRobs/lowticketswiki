@@ -1,0 +1,153 @@
+{
+ "slug": "mentoria-nova-profissao-mnp",
+ "arquivo": "Ofertas/mentoria-nova-profissao-mnp.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "mentoria-nova-profissao-mnp",
+  "nome": "MENTORIA NOVA PROFISSÃO (MNP)",
+  "nicho": "mentorias",
+  "sub_nicho": "mentoria-profissional",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "cakto",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=mentoria%20profissão&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 350.46,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 350.46,
+  "margem_est": 0.8,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 10,
+  "s_lucro": 2,
+  "s_replica": 0,
+  "s_saturacao": 0,
+  "status": "ativa",
+  "visto_primeiro": "2026-09-22",
+  "visto_ultimo": "2026-09-25",
+  "rodadas_vista": 3,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/mentoria-nova-profissao-mnp",
+  "gateways_detectados": [
+   "cakto"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "cakto"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-09-25",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 2.7,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "cakto"
+  ]
+ },
+ "corpo": "# MENTORIA NOVA PROFISSÃO (MNP)\n\n## Angulo\nMentoria que promete suporte hands-on mas não entrega. Email inacessível, suporte via WhatsApp sem resposta. Mecânica: cobra tudo na frente, suporte não responsivo após venda.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-22 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cliente-busca-cancelamento-e-reembolso-de-mentoria-por-falta-de-suporte-e-promessas-nao-cumpridas_jgrKcgYXrJvKbVGa/\n\n## Historico\n\n## Rodada 2026-09-22\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Mentoria que promete suporte hands-on mas não entrega. Email inacessível, suporte via WhatsApp sem resposta. Mecânica: cobra tudo na frente, suporte não responsivo após venda.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cliente-busca-cancelamento-e-reembolso-de-mentoria-por-falta-de-suporte-e-promessas-nao-cumpridas_jgrKcgYXrJvKbVGa/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Mentoria com suporte fantasma. Email informado inválido, WhatsApp não retorna. Padrão: 'Ninguém responde depois que você compra'.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cliente-busca-cancelamento-e-reembolso-de-mentoria-por-falta-de-suporte-e-promessas-nao-cumpridas_jgrKcgYXrJvKbVGa/\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway Cakto). Suporte inexistente apos a compra (e-mail invalido). Mesma reclamacao de 22/09.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n",
+ "observacoes": [
+  {
+   "data": "2026-09-22",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 350.46,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira vez vista. Mentoria que promete suporte hands-on mas não entrega. Email inacessível, suporte via WhatsApp sem resposta. Mecânica: cobra tudo na frente, suporte não responsivo após venda."
+  },
+  {
+   "data": "2026-09-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 35046,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Mentoria com suporte fantasma. Email informado inválido, WhatsApp não retorna. Padrão: 'Ninguém responde depois que você compra'."
+  },
+  {
+   "data": "2026-09-25",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 350.46,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Suporte inexistente apos a compra (e-mail invalido). Mesma reclamacao de 22/09."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-27 -- novidades-22-a-26-09.md",
+   "data": "2026-09-27",
+   "titulo": "Novidades mineradas de 22 a 26/09"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-25 -- 0600.md",
+   "data": "2026-09-25",
+   "titulo": "Passada 2026-09-25 06:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-25.md",
+   "data": "2026-09-25",
+   "titulo": "Radar 2026-09-25"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-23.md",
+   "data": "2026-09-23",
+   "titulo": "Radar 2026-09-23"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-22 -- 2300.md",
+   "data": "2026-09-22",
+   "titulo": "Passada 2026-09-22 23:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-22.md",
+   "data": "2026-09-22",
+   "titulo": "Radar 2026-09-22"
+  }
+ ]
+}

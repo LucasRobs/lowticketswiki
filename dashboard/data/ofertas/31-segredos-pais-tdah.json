@@ -1,0 +1,96 @@
+{
+ "slug": "31-segredos-pais-tdah",
+ "arquivo": "Ofertas/31-segredos-pais-tdah.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "31-segredos-pais-tdah",
+  "nome": "31 Segredos — Yuri Maia",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "tdah-parentalidade-escola",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [],
+  "checkout": "eduzz",
+  "url_pagina": "https://ebook.tdah.com.br/",
+  "url_ads": "",
+  "moeda": "BRL",
+  "ticket_frente": 37,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 37,
+  "margem_est": 0,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 0,
+  "s_replica": 4,
+  "s_saturacao": 0,
+  "status": "nova",
+  "visto_primeiro": "2026-09-11",
+  "visto_ultimo": "2026-09-11",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/31-segredos-pais-tdah",
+  "gateways_detectados": [
+   "eduzz"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "parentalidade",
+   "scan-2026-09-11"
+  ]
+ },
+ "calc": {
+  "score": 2.2,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-longevidade",
+   "status-vencido"
+  ],
+  "gateways": [
+   "eduzz"
+  ]
+ },
+ "corpo": "# 31 Segredos — Yuri Maia\n\n## Verificação 2026-09-11\n\n100 páginas; rotina, emoções e relação com a escola. Oferta pública de R$37, ancorada em R$97. CTA principal: https://chk.eduzz.com/G92VQ6549E; outro botão aponta para Hotmart. Garantia anunciada de 7 dias. Anúncios do autor foram vistos, mas promovem outro produto; não atribuídos a este ebook.\n\nFonte: [31 Segredos — Yuri Maia](https://ebook.tdah.com.br/), consultada em 2026-09-11.\n\n## Limites dos dados e score\n\nMétricas não aferidas: vendas, lucro, margem, adesão a bumps/upsells e total de reclamações em 30 dias. Zeros nesses campos representam desconhecido. Scores são provisórios, com s_lucro=0 quando não há evidência de anúncios; não são avaliação clínica nem recomendação de compra. Nenhum acesso ao conteúdo pago ou unFunnelizer.\n\nTicket médio é cenário sem adicionais, igual à frente observada, não média de vendas. Margem zero é desconhecido; não foi aplicada penalidade de margem sem medição. Saturação zero é desconhecida. s_replica limitado a 4 pelo recorte de saúde e necessidade de autoria qualificada. Score provisório: 2.20; não usar para declarar ausência de demanda.\n",
+ "observacoes": [
+  {
+   "data": "2026-09-11",
+   "fonte": "pagina-publica",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Observação dirigida da oferta [[31-segredos-pais-tdah]] em 11/09/2026. Fonte: https://ebook.tdah.com.br/.\n\nVer a nota da oferta e [[2026-09-11]] para evidências e limites. Preço desconhecido usa zero como sentinela. RA não foi recontado; valores herdados não representam uma nova medição. Criativos novos e delta não têm comparação válida; zero não prova estabilidade. Para TEA Sem Crise, 3 criativos é piso observado e 30 dias é a idade do anúncio mais antigo visto. preco_mudou=false não transforma a primeira captura de preço em aumento."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-11.md",
+   "data": "2026-09-11",
+   "titulo": "Radar 2026-09-11"
+  }
+ ]
+}

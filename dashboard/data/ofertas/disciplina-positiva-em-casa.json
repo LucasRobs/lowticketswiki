@@ -1,0 +1,109 @@
+{
+ "slug": "disciplina-positiva-em-casa",
+ "arquivo": "Ofertas/disciplina-positiva-em-casa.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "disciplina-positiva-em-casa",
+  "nome": "Disciplina Positiva em Casa — eBook + 40 modelos de rotina",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "birra-disciplina",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kiwify",
+  "url_pagina": "https://comportamentopositivo.com/positiva/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=disciplina%20positiva&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 37,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 37,
+  "margem_est": 0.92,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook",
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 5,
+  "s_replica": 9,
+  "s_saturacao": 4,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/disciplina-positiva-em-casa",
+  "gateways_detectados": [
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 5.85,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "kiwify"
+  ]
+ },
+ "corpo": "# Disciplina Positiva em Casa\n\n## Ângulo\n\n> \"Filhos mais organizados e responsáveis — resolvendo birra, sono e resistência à rotina\"\n\nR$ 37 à vista, ancorado em R$ 97,90 (−62%). Checkout Kiwify (`pay.kiwify.com.br/x6Lfqk9`).\n\nO diferencial não é o ebook, são os **40 modelos de rotina**. O ebook explica; o modelo\né o que a mãe imprime e cola na geladeira. Entrega tangível dentro de produto digital.\n\n## Funil\n\nanúncio → `comportamentopositivo.com/positiva/` → Kiwify. Sem bump/upsell visível.\n\n## Por que funciona\n\nJunta três dores num produto só (birra + sono + rotina), o que multiplica os ângulos de\nanúncio possíveis a partir do mesmo ativo. Cada dor vira um criativo.\n\n## O que copiar / o que evitar\n\n**Copiar:** o par ebook + template imprimível. O template é o que justifica o preço e o\nque gera o print no story — marketing orgânico embutido.\n\n**Evitar:** \"disciplina positiva\" como termo de anúncio. `s_saturacao: 4` — é o rótulo do\nespecialista, está lotado, e o público leigo não busca por ele. Anuncie pela dor\n(\"meu filho não obedece\"), entregue o método com o nome bonito.\n\n## Histórico\n\n## Verificacao 2026-08-30\n\nPagina no ar, Kiwify `x6Lfqk9`, R$ 37 — mas agora **6x R$ 6,83** e com **tres bonus** que a\nrodada de 21/08 nao registrou: livro \"Poder de Foco\" (R$ 36), Planner de Autocuidado\n(R$ 67) e Planner de Gratidao Kids (R$ 19). Headline atual: *\"Isso deixara seu filho mais\nresponsavel e organizado\"*. Os 40 modelos de rotina incluem versao em ingles e material\neditavel — o editavel e o que justifica o preco.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. R$37 ancorado em R$97,90, Kiwify. Diferencial sao os 40 modelos de rotina imprimiveis.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "slug": "angulo-alfabetizacao-em-casa",
+ "arquivo": "Ofertas/angulo-alfabetizacao-em-casa.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-alfabetizacao-em-casa",
+  "nome": "Ângulo — Criança que não aprende a ler",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "alfabetizacao",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=alfabetiza%C3%A7%C3%A3o%20em%20casa&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 9,
+  "ticket_bump": 19,
+  "ticket_upsell": 47,
+  "ticket_medio_est": 35,
+  "margem_est": 0.94,
+  "modelo": [
+   "direct",
+   "vsl"
+  ],
+  "formato_entrega": [
+   "pdf",
+   "curso"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 7,
+  "s_replica": 8,
+  "s_saturacao": 4,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "hotmart",
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "kiwify"
+  ],
+  "ra_primeira_reclamacao": "2026-08-18",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 6.25,
+  "decisao": "padrao",
+  "flags": [
+   "sem-lp"
+  ],
+  "gateways": [
+   "hotmart",
+   "kiwify"
+  ]
+ },
+ "corpo": "# Ângulo — Alfabetização em casa\n\nOfertas confirmadas: Kit Alfabetização \"Destravar a Leitura\" (R$ 9, Hotmart),\n[[metodo-neuromusical]] (Kiwify), Curso Alfabetiza Kids (Kiwify).\n\n**É o único sub-nicho do cluster que aparece no Reclame Aqui** — duas reclamações, ambas\nKiwify, ambas com a mesma queixa: *o anúncio mostrava mais do que o curso entrega*.\n\n## O que isso significa\n\nNão é sinal de nicho ruim. É sinal de que o **criativo está performando acima do\nproduto** — o anúncio vende tão bem que o produto não alcança. Para quem quer modelar,\nessa é a informação: copie o criativo, entregue melhor que eles, e você fica com o\nmesmo CPA e sem reembolso.\n\n## O elemento de criativo que se repete\n\nUm **personagem/boneco demonstrando a junção das sílabas em vídeo**. É o que os dois\ncompradores insatisfeitos citam ter visto no anúncio. Num feed cheio de PDF estático de\nalfabetização, um mascote animado é a diferenciação inteira.\n\n## Termos de busca\n\n`alfabetização em casa` · `meu filho não aprende a ler` · `criança 7 anos não lê` ·\n`método de alfabetização silábico` · `alfabetizar brincando`\n\n## Preço e estrutura\n\nEntrada de R$ 9 (Hotmart) — tripwire puro, precisa de escada atrás. Ticket médio real do\nsub-nicho fica em ~R$ 35 com bump e upsell.\n\n## O que evitar\n\nVender curso ainda em produção. Foi o que gerou PROCON e boletim de ocorrência no caso\nvizinho ao [[metodo-neuromusical]]. Neste nicho o comprador é mãe com dinheiro contado e\nprazo escolar correndo — ela briga.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo novo. Unico sub-nicho do cluster com rastro no Reclame Aqui (2 reclamacoes, ambas Kiwify).\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

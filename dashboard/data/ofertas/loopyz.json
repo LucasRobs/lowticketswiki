@@ -1,0 +1,115 @@
+{
+ "slug": "loopyz",
+ "arquivo": "Ofertas/loopyz.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "loopyz",
+  "nome": "Loopyz",
+  "nicho": "lives-interativas",
+  "sub_nicho": "ferramenta-live-tiktok",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "cakto",
+  "url_pagina": "https://loopyz.com.br/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 97,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 150,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": true,
+  "s_ticket": 10,
+  "s_lucro": 5,
+  "s_replica": 4,
+  "s_saturacao": 8,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/loopyz",
+  "gateways_detectados": [
+   "cakto"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "cakto"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-16",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 6.15,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "cakto"
+  ]
+ },
+ "corpo": "# Loopyz\n\n## Angulo\nFerramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.\n\n## Funil\nanuncio -> pagina -> checkout Cakto -> suporte via produtor, nao via plataforma.\n\n## Por que funciona\nO nicho de live interativa esta em expansao rapida e com poucos players. s_saturacao 8 e o mais alto da rodada entre as marcas.\n\n## O que copiar / o que evitar\nCopiar: o nicho, nao necessariamente o produto. Vale mapear os concorrentes na Biblioteca de Anuncios com 'live interativa tiktok'.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-ferramenta-comprada-para-live-no-tiktok_8ByKgtxdl-o8n54i/\n\n## Historico\n\n## Correção 2026-08-21 — é recorrência, não low ticket\n\nPágina localizada: **`loopyz.com.br`**, checkout Cakto. Preços visíveis:\n**R$ 97/mês · R$ 197/trimestre · R$ 497 vitalício.**\n\nA estimativa anterior de R$ 47 estava errada por uma categoria inteira. `s_ticket` sobe\nde 5 para **10** (a rubrica dá 9-10 para qualquer valor com recorrência) e\n`tem_recorrencia` vira `true`. Score: 5,15 → 6,15.\n\nO que trava a nota continua sendo `s_replica: 4` — é software de live, não PDF.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 47,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 1 mencao/mencoes em 1 gateway(s): cakto. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": true,
+   "angulo_novo": false,
+   "texto": "Pagina de vendas localizada (loopyz.com.br). Preco real e recorrente: R$97/mes, R$197/tri, R$497 vitalicio. ticket_frente e s_ticket corrigidos (5 -> 10).\n\nRodada de complemento: busca dedicada por pagina de vendas, sem nova varredura de\nReclame Aqui. `ra_reclamacoes` mantido — nao houve nova coleta, entao nao incrementa."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "gestor-ia",
+ "arquivo": "Ofertas/gestor-ia.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "gestor-ia",
+  "nome": "Gestor IA",
+  "nicho": "ferramentas-ia",
+  "sub_nicho": "automacao-negocio",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kirvano",
+  "url_pagina": "https://gestoria.site/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gestor%20IA&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 29.98,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 50,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": true,
+  "s_ticket": 9,
+  "s_lucro": 6,
+  "s_replica": 5,
+  "s_saturacao": 5,
+  "status": "morta",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/gestor-ia",
+  "gateways_detectados": [
+   "kirvano"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "kirvano"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-16",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 6.15,
+  "decisao": "observar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "kirvano"
+  ]
+ },
+ "corpo": "# Gestor IA\n\n## Angulo\nAssistente de IA para gestao de negocio. Duas reclamacoes distintas em 50 amostradas da Kirvano.\n\n## Funil\nNao capturado.\n\n## Por que funciona\nAparece duas vezes na amostra, o que ja separa de ruido. Nicho de IA com assinatura e o que mais cresce na Kirvano.\n\n## O que copiar / o que evitar\nVale abrir na Biblioteca de Anuncios antes de decidir - a amostra e pequena demais para concluir.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (2 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/solicitacao-de-reembolso-para-o-produto-gestor-ia-nao-respondida_QJGMkxMpN1_RSAma/\n\n## Historico\n\n## Correção 2026-08-21 — assinatura mensal, checkout Kirvano\n\nPágina localizada: **`gestoria.site`** (agregador de 60+ ferramentas de IA), checkout\n**Kirvano** (`pay.kirvano.com`). Planos: R$ 29,98 (Pro) · R$ 38,96 (Premium) ·\nR$ 76,95 (Ultra) por mês; anual de R$ 69 a R$ 139/mês.\n\n`s_ticket` sobe de 5 para 9 por causa da recorrência. Score: 5,35 → 6,10.\nBate com as reclamações de \"Gestor IA Premium +60 Modelos de IAs\" via Kirvano.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 47,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 2 mencao/mencoes em 1 gateway(s): kirvano. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 29.98,
+   "preco_mudou": true,
+   "angulo_novo": false,
+   "texto": "Pagina localizada (gestoria.site), checkout Kirvano. Assinatura mensal R$29,98 a R$76,95. s_ticket corrigido (5 -> 9).\n\nRodada de complemento: busca dedicada por pagina de vendas, sem nova varredura de\nReclame Aqui. `ra_reclamacoes` mantido — nao houve nova coleta, entao nao incrementa."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "slug": "retrato-da-alma-gemea",
+ "arquivo": "Ofertas/retrato-da-alma-gemea.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "retrato-da-alma-gemea",
+  "nome": "Retrato da Alma Gemea",
+  "nicho": "esoterico",
+  "sub_nicho": "retrato-alma-gemea",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta",
+   "google",
+   "tiktok"
+  ],
+  "checkout": "kirvano",
+  "url_pagina": "https://alldigital.fun/index.php/alma-gemea/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=retrato%20da%20alma%20gemea&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 29,
+  "ticket_bump": 0,
+  "ticket_upsell": 27,
+  "ticket_medio_est": 45,
+  "margem_est": 0.97,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "servico-digital"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 3,
+  "s_lucro": 8,
+  "s_replica": 9,
+  "s_saturacao": 2,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-30",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 2,
+  "dias_no_ar": 1826,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/retrato-da-alma-gemea",
+  "gateways_detectados": [
+   "kirvano",
+   "cakto",
+   "kiwify",
+   "hotmart",
+   "monetizze",
+   "perfectpay",
+   "eduzz"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 206,
+  "ra_plataformas": [
+   "kirvano",
+   "cakto",
+   "kiwify",
+   "hotmart",
+   "monetizze"
+  ],
+  "ra_primeira_reclamacao": "2021-07-28",
+  "ra_checado": "2026-08-31",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "esoterico",
+   "persona-ficticia"
+  ]
+ },
+ "calc": {
+  "score": 6.4,
+  "decisao": "observar",
+  "flags": [],
+  "gateways": [
+   "cakto",
+   "eduzz",
+   "hotmart",
+   "kirvano",
+   "kiwify",
+   "monetizze",
+   "perfectpay"
+  ]
+ },
+ "corpo": "# Retrato da Alma Gemea\n\nSondagem dirigida em 2026-08-30, a pedido: o vault tinha **zero** ofertas de alma gemea. So\n[[magias-amorosas-hoodoo]] encostava no tema, e sem `url_pagina`. Esta nota abre o recorte.\n\n## O que e\n\nServico digital de \"retrato psiquico\": o comprador informa nome, idade e data de nascimento,\ne recebe por e-mail um desenho a lapis do rosto da suposta alma gemea mais uma leitura de\npersonalidade. Entrega prometida em **24h** (48h \"em casos raros de alta demanda\").\n\nHoje o desenho e gerado por IA. Isso e o que mudou o nicho: em 2021 era servico artesanal\ncom custo marginal real; em 2026 e custo zero e entrega automatizavel. `s_lucro: 9`.\n\n## A estrutura da esteira (confirmada em reclamacao)\n\nO front nao e onde o dinheiro esta. A escada lida em campo:\n\n| Degrau | Produto | Valor |\n|---|---|---|\n| Front | Retrato / desenho da alma gemea | R$ 29,00 – R$ 39,99 |\n| Upsell 1 | \"Localizacao, iniciais e video com a Serena\" | R$ 27,00 |\n| Cross | Bussola da Alma | nao capturado |\n| Cross | Segredos de Cleopatra (e-book) | nao capturado |\n\nUm comprador registrou **R$ 66,99 em dois passos** (R$ 39,99 + R$ 27,00). O upsell nao vende\nmais desenho — vende **especificidade**: onde a pessoa esta, as iniciais do nome, e um video\nda propria vidente. E o mesmo padrao de `bump_oculto`/`upsell_oculto` que o vault ja registrou\nem [[angulo-taxa-escalonada-decrescente]], so que com envelope esoterico em vez de taxa.\n\n## Persona ficticia e o motivo de `s_replica: 9`\n\nA oferta nao tem dono. Tem **avatares intercambiaveis**, cada um com sua pagina e seu gateway:\n\n- **Astrologa Serena** — R$ 39,99 + R$ 27,00, Kirvano\n- **Mestre Zion** — a operacao dona da pagina propria no Reclame Aqui\n- **Mestre Li** — Monetizze e Cakto Pay, vende junto com \"Segredos de Cleopatra\"\n- **Mestre Chen** — Hotmart, rastro desde 2021\n- **Marcia Sensitiva** — Cakto Pay\n- **Luna** — versao gringa ([[soulmate-sketcher]])\n\nNenhum avatar precisa existir. Sem rosto real, sem credencial, sem logistica, sem regulacao.\nE o oposto exato da barreira que o [[mulher-crista-saude-mental]] identificou (bonus fisico +\nCRP): aqui **nao ha barreira de entrada nenhuma**, e por isso ha dezenas de clones.\n\n## Escala medida\n\nA operacao tem **pagina propria no Reclame Aqui** — pelo mecanismo que a rodada de\n[[2026-08-28|28/08]] descobriu (o gateway reatribui a reclamacao ao produtor):\n`/empresa/retrato-da-alma-gemea/`. Nao Recomendada, nao verificada.\n\n- **206 reclamacoes** na listagem da empresa\n- reclamacao mais recente **ha 15 dias** (~15/08/2026) — esta viva\n- rastro mais antigo em **28/07/2021** via Hotmart — **cinco anos de oferta no ar**\n- presente em **sete gateways** simultaneos\n\nSete gateways ao mesmo tempo e a assinatura de operacao que ja se preparou pra derrubada.\nPelo criterio do `Pipeline.md` isso e sinal forte de escala, nao de tres produtos diferentes.\n\nA vizinha `/empresa/desenho-da-alma-gemea/` tem 16 reclamacoes, todas de **ha 1 ano** — essa\nmorreu. Duas paginas, uma viva e uma morta, mesmo produto. Reforca que o que persiste e o\n**formato**, nao o operador.\n\n## O problema honesto\n\n**As 206 reclamacoes sao de nao-entrega, nao de qualidade.** \"Paguei e nao recebi\", \"retrato\nigual ao de outra pessoa\", \"filtro aplicado a uma foto\". Zero das reclamacoes lidas reclama do\npreco ou do conceito — reclamam que o produto **nunca chegou**.\n\nIsso corta nos dois sentidos:\n\n1. **Contra:** o volume de reclamacao aqui nao mede so trafego, mede tambem inadimplencia de\n   entrega. `ra_reclamacoes: 206` esta inflado como proxy de vendas.\n2. **A favor:** o mercado esta comprando um produto que ninguem esta entregando. Uma operacao\n   que **de fato entregue em 24h** — e com IA isso custa centavos — herda a demanda ja\n   aquecida por cinco anos de trafego alheio sem herdar o churn de estorno.\n\n`veredito: observar` e nao `replicar` por um motivo so: replicar a copy sem replicar a entrega\ne repetir a fraude, e o vault nao e pra isso. O que se copia aqui e **a esteira**, nao a\noperacao.\n\n`s_saturacao: 8` — o angulo \"retrato psiquico\" esta lotado. O espaco livre esta em\n[[angulo-quiz-retrato-ia]].\n\n## Paginas de vendas em campo\n\nVer [[alma-gemea]] para a lista completa com estado de verificacao.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-30",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 206,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 1826,
+   "ticket_frente": 29,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Snapshot de estreia (nota criada na passada da manha de hoje). 206 reclamacoes ativas na pagina do produtor, mais recente ha ~15 dias, rastro desde 28/07/2021 em sete gateways simultaneos. Esteira confirmada em corpo: R$ 39,99 + R$ 27,00 = R$ 66,99 em dois passos."
+  },
+  {
+   "data": "2026-08-31",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 206,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 1826,
+   "ticket_frente": 29,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Reauditada pela Etapa 3b, sem Etapa 1 (navegador interno recusou `facebook.com` nesta passada).\n\n**Contador `M - N` medido pela primeira vez nesta oferta:** N = **21** no cartao de desempenho\n(janela 01/08/2025 a 31/07/2026) contra M = **206** ativas. Assinatura de [[alfabetinho]] — base\ngrande acumulada, chegada recente fina. Cinco anos de operacao com ~21 reclamacoes no ultimo ano\nnao e escala em curso, e cauda longa. `s_lucro` **9 → 8**: os 90+ dias estao confirmados, o\n\"criativos ainda subindo\" da faixa 9-10 nao esta.\n\n**A lista nao andou em 24h.** A reclamacao do topo era \"Ha 15 dias\" em 30/08 e \"Ha 16 dias\" hoje —\nmesma reclamacao, rotulo relativo avancando com o calendario. Pelo adendo de 24/08 isso e\navistamento, nao incremento: `ra_reclamacoes` fica em 206.\n\n**`s_saturacao` 8 → 2, por contradicao interna.** O campo dizia \"2-4 players, angulo com espaco\"\nenquanto o corpo da nota ja listava seis avatares intercambiaveis e a frase \"ha dezenas de clones\".\nConfirmado por medicao lateral: tres paginas de produtor distintas no RA para o mesmo angulo —\n`retrato-da-alma-gemea` (M=206, N=21, mais recente 16 dias), `alma-gemea` (M=19, N=2, mais recente\n3 meses) e `desenho-da-alma-gemea` (M=16, N=0, mais recente 1 ano). Mais os nomes soltos nos corpos:\nMarcia Sensitiva, Mestre Zion, Aurara Vidal, Alma Gemea Chay/Chaline.\n\nDuas mortas e uma viva no mesmo angulo. Score composto **7,65 → 6,40**: sai do corte de replicacao.\n\nDado novo de esteira: uma reclamacao cita **\"Bussola da Alma\"** comprada via `appkirvano`, o cross\nque a nota de 30/08 tinha registrado como \"nao capturado\" — agora confirmado como produto vendido,\nainda sem valor."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-30.md",
+   "data": "2026-08-30",
+   "titulo": "Radar 2026-08-30"
+  }
+ ]
+}

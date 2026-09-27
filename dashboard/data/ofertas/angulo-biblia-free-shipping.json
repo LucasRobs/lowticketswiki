@@ -1,0 +1,140 @@
+{
+ "slug": "angulo-biblia-free-shipping",
+ "arquivo": "Ofertas/angulo-biblia-free-shipping.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-biblia-free-shipping",
+  "nome": "Biblia gratis, so paga o frete",
+  "nicho": "free-shipping",
+  "sub_nicho": "brinde-religioso",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "cakto",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=biblia%20gratis%20frete&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 9,
+  "ticket_bump": 12,
+  "ticket_upsell": 7,
+  "ticket_medio_est": 30,
+  "margem_est": 0.85,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "fisico"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 5,
+  "s_replica": 6,
+  "s_saturacao": 5,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-16",
+  "visto_ultimo": "2026-09-23",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/angulo-biblia-free-shipping",
+  "gateways_detectados": [
+   "cakto"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "cakto"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-09-23",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo"
+  ]
+ },
+ "calc": {
+  "score": 5.1,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "cakto"
+  ]
+ },
+ "corpo": "# Biblia gratis, so paga o frete\n\n## Angulo\nBiblia de brinde com pagamento apenas do frete, seguido de cobrancas em cascata.\n\n## Funil\nanuncio -> 'gratis, so o frete' -> Pix R$12,89 (frete R$9,90 + taxa) -> segundo Pix R$7,57 (NF-e) -> terceiro Pix R$9,90 tentado. Total cobrado: R$30,36.\n\n## Por que funciona\nDocumenta a cascata completa de um free+shipping: cada etapa tem uma justificativa plausivel (frete, taxa, nota fiscal) e o ticket medio triplica o valor anunciado.\n\n## O que copiar / o que evitar\nCopiar: a logica de decompor o preco em etapas justificadas eleva o ticket medio sem elevar a barreira de entrada. Evitar: cobrar 'nota fiscal' como etapa - foi o que disparou a reclamacao.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobrancas-sucessivas-e-propaganda-enganosa-em-brinde-de-biblia_CgSGYZQgT8L3Wv83/\n\n## Historico\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Op de cobranças sucessivas. Anuncia 'Bíblia grátis' (quiz), depois cobra R$ 9.90 'entrega', depois R$ 12.89, depois R$ 7.57, depois R$ 9.90 novamente. Cada cobro tem narrativa diferente.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobrancas-sucessivas-e-propaganda-enganosa-em-brinde-de-biblia_CgSGYZQgT8L3Wv83/\n",
+ "observacoes": [
+  {
+   "data": "2026-08-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Primeira deteccao. Varredura de 10 paginas em 6 gateways (PerfectPay, Cakto, Kirvano, Lastlink, Wiapy, Lowify), ~295 reclamacoes lidas. 1 mencao/mencoes em 1 gateway(s): cakto. Sem dados de anuncio."
+  },
+  {
+   "data": "2026-09-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 990,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Op de cobranças sucessivas. Anuncia 'Bíblia grátis' (quiz), depois cobra R$ 9.90 'entrega', depois R$ 12.89, depois R$ 7.57, depois R$ 9.90 novamente. Cada cobro tem narrativa diferente."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-23 -- 2200.md",
+   "data": "2026-09-23",
+   "titulo": "Passada 2026-09-23 22:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-23.md",
+   "data": "2026-09-23",
+   "titulo": "Radar 2026-09-23"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-22 -- 2200.md",
+   "data": "2026-09-22",
+   "titulo": "Passada 2026-09-22 22:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-28.md",
+   "data": "2026-08-28",
+   "titulo": "Radar 2026-08-28"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-16.md",
+   "data": "2026-08-16",
+   "titulo": "Radar 2026-08-16"
+  }
+ ]
+}

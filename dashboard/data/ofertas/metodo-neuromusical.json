@@ -1,0 +1,114 @@
+{
+ "slug": "metodo-neuromusical",
+ "arquivo": "Ofertas/metodo-neuromusical.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "metodo-neuromusical",
+  "nome": "Método NeuroOctoMusical (Pipo) — alfabetização por sílabas",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "alfabetizacao",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kiwify",
+  "url_pagina": "https://pipoeduca.com/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=NeuroOctoMusical&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 39,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 39,
+  "margem_est": 0.9,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "curso"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 6,
+  "s_replica": 7,
+  "s_saturacao": 6,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/metodo-neuromusical",
+  "gateways_detectados": [
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "kiwify"
+  ],
+  "ra_primeira_reclamacao": "2026-08-18",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 6.1,
+  "decisao": "observar",
+  "flags": [],
+  "gateways": [
+   "kiwify"
+  ]
+ },
+ "corpo": "# Método NeuroMusical\n\n## Ângulo\n\n> Alfabetização infantil pela combinação de letras em sílabas, com **um boneco/personagem\n> demonstrando o método no anúncio**\n\nÉ o achado mais fresco da rodada: reclamação de **18/08/2026**, três dias atrás. Oferta\nviva, rodando agora.\n\n## O que se sabe\n\nPágina de venda **não localizada** — buscas por \"Método NeuroMusical\" só devolvem\nconteúdo genérico sobre neurociência musical. Isso é comum quando o criativo usa um nome\ne o checkout usa outro. Checkout confirmado: Kiwify.\n\nExiste uma reclamação vizinha contra **\"NeuroOctoMusical\"** (Kiwify, abril/2026, mesmo\nnicho de alfabetização por som), com o mesmo padrão de queixa: curso ainda em produção,\nentregue pela metade. **Não está confirmado que seja a mesma operação** — só que o nome\né foneticamente próximo e o modus operandi idêntico. Se for, a oferta tem 4+ meses de\nestrada, e `s_lucro` sobe.\n\n## Por que interessa\n\nO mascote animado no criativo é o ativo. Alfabetização é um nicho lotado de PDF estático;\num personagem que **demonstra** a junção das sílabas em vídeo é diferenciação de criativo,\nnão de produto. E é exatamente o que o pedido desta rodada procurava: anúncio atraente.\n\nA queixa dos dois compradores diz a mesma coisa — *o anúncio mostrava mais do que o curso\nentrega*. Isso, em leitura de mercado, significa que **o criativo está performando acima\ndo produto**. É o criativo que vale copiar aqui, não o produto.\n\n## O que copiar / o que evitar\n\n**Copiar:** o personagem demonstrando a mecânica no próprio criativo. Substitui a\nexplicação por demonstração.\n\n**Evitar:** vender antes de produzir. As duas reclamações são de curso incompleto — foi\no que gerou PROCON e B.O. no caso do NeuroOctoMusical.\n\n## Histórico\n\n## Correção 2026-08-21 — o nome real é NeuroOctoMusical\n\nPágina de vendas localizada: **`pipoeduca.com`**. O produto se chama **Método\nNeuroOctoMusical**, o personagem é o **Pipo**, e o Instagram é `@neurooctomusical`.\nCheckout Kiwify, **R$ 39 ancorado em R$ 130** (−70%) ou 6× R$ 7,32.\n\nIsso confirma a hipótese que ficou aberta na rodada: a reclamação de abril/2026 contra\n\"NeuroOctoMusical\" e a de 18/08/2026 contra \"NeuroMusical\" são **a mesma operação**. O\ncomprador de agosto abreviou o nome, não comprou outro produto.\n\nConsequência: a oferta tem **4+ meses de estrada**, não três dias. `s_lucro` sobe de 5\npara 6 e `s_ticket` de 4 para 5 (R$ 39 confirmado, não estimado). Score: 5,55 → 6,10.\n\nO padrão de falha se repete nas duas reclamações — curso vendido pela metade, ainda em\nprodução. O criativo continua performando acima do produto.\n\n## Verificacao 2026-08-30\n\nPagina no ar. **Checkout mudou: `pay.kiwify.com.br/qmKQS5h`.** Preco mantido em R$ 39\nancorado em R$ 130 (-70%) ou 6x R$ 7,32. Entrega agora anuncia acesso vitalicio,\nmultiplataforma e ate 4 telas simultaneas — escada de percepcao de valor sem mudar o ativo.\nO mascote Pipo (polvinho) segue como professor dos videos.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. Reclamacao de 18/08 — oferta viva. Pagina de venda nao localizada; nome do criativo difere do checkout.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

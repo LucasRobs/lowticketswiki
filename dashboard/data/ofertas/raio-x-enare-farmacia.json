@@ -1,0 +1,109 @@
+{
+ "slug": "raio-x-enare-farmacia",
+ "arquivo": "Ofertas/raio-x-enare-farmacia.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "raio-x-enare-farmacia",
+  "nome": "Raio-X ENARE Farmácia — Tática Farmacêutica",
+  "nicho": "concursos",
+  "sub_nicho": "residencia-farmacia",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://raioxenarefarmacia2026.netlify.app/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Raio-X%20ENARE%20Farmacia&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 59.9,
+  "ticket_bump": 15.9,
+  "ticket_upsell": 79.9,
+  "ticket_medio_est": 65,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 7,
+  "s_lucro": 4,
+  "s_replica": 4,
+  "s_saturacao": 9,
+  "status": "morta",
+  "visto_primeiro": "2026-08-20",
+  "visto_ultimo": "2026-08-20",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/raio-x-enare-farmacia",
+  "gateways_detectados": [
+   "hotmart",
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-20",
+  "veredito": "descartar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "concursos"
+  ]
+ },
+ "calc": {
+  "score": 5.35,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "hotmart",
+   "kiwify"
+  ]
+ },
+ "corpo": "# Raio-X ENARE Farmácia\n\n**Descartada pela rubrica, guardada pela estrutura.** Score 5,35 e `s_replica` 4: Lucas\nnão replica isso. Mas a escada de preços é a mais bem construída que o vault viu, e vale\ncomo modelo para um nicho que ele consiga executar.\n\n## Ângulo\n\n> \"Pare de estudar tudo. Estude o que cai.\"\n\nVende **priorização**, não conteúdo. O argumento central é um número: 47% da prova está\nem 4 dos 18 eixos. Todo o resto da página existe para sustentar esse número — 6 edições\nanalisadas, 317 questões rastreadas por ano e banca.\n\nO bônus principal, \"Raio-X dos Editais\", é o movimento mais inteligente da oferta:\n*\"em vez de mais conteúdo para ler, ele entrega inteligência sobre o conteúdo que você já\nvai estudar\"*. Bônus que não aumenta a carga de trabalho do comprador.\n\n## Funil — escada de quatro degraus\n\n| Produto | Preço | Papel |\n|---|---|---|\n| Simulado (100 questões inéditas) | **R$ 15,90** | entrada / bump |\n| Super-Combo (2 tabelas + bônus) | **R$ 29,90** | degrau intermediário |\n| Raio-X principal (317 questões) | **R$ 59,90** (de R$79,90) | produto central |\n| Kit Completo | **R$ 79,90** (de R$99,90) | topo, ancorado contra a soma das partes |\n\nComplementares avulsos (Antimicrobianos, Quimioterápicos) vendidos separados alimentam\nos dois combos. **Cada preço avulso existe para justificar o combo** — o Kit a R$79,90\ncusta menos que principal + simulado somados.\n\nDois gateways lado a lado no mesmo botão (Hotmart e Kiwify), sem preferência declarada.\n\nIsca de topo: plano de estudos gratuito em Google Docs editável. Amostra de degustação\nem Drive antes da compra.\n\n## Por que `s_replica` é 4\n317 questões comentadas em quatro camadas, escritas por dois doutores da UFPA com nome,\ntitulação e vínculo na página. A rubrica penaliza dependência de autoridade e produção\npesada, e aqui são as duas coisas ao mesmo tempo. Não há atalho: o produto *é* o trabalho.\n\n## O que copiar\nA arquitetura de escada, aplicada a qualquer nicho de prova com edital público. A parte\ntransportável é o método de construir o argumento: pegar N edições anteriores, contar\nincidência por tema e vender o recorte. Isso funciona para concurso, OAB, ENEM, CFC,\nresidência de qualquer área — e a contagem pode ser automatizada.\n\nSazonalidade a favor: prova em 13/09/2026. Menos de um mês. Se houver reposição de verba,\né agora.\n\n## Estado dos dados\n- **Confirmado:** todos os preços, os dois gateways, autoria, estrutura de combos.\n- **Provisório:** `s_lucro` 4 é conservador por ausência total de dado de anúncio e de\n  reclamação. Produto de nicho estreito e recém-lançado pode simplesmente não ter gerado\n  reclamação ainda — o falso negativo que o `Pipeline.md` alerta.\n- **Faltando:** tempo no ar, criativos.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-20",
+   "fonte": "busca-netlify",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 59.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira deteccao. Escada de precos completa exposta na propria pagina: R$15,90 simulado,\nR$29,90 super-combo, R$59,90 principal, R$79,90 kit. Dois gateways lado a lado (Hotmart e\nKiwify) no mesmo botao. Autoria com nome, titulacao e vinculo institucional."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-20.md",
+   "data": "2026-08-20",
+   "titulo": "Radar 2026-08-20"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "slug": "bolos-caseirinhos-saudaveis",
+ "arquivo": "Ofertas/bolos-caseirinhos-saudaveis.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "bolos-caseirinhos-saudaveis",
+  "nome": "Bolos Caseirinhos Saudaveis",
+  "nicho": "gastronomia",
+  "sub_nicho": "",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bolos%20Caseirinhos&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 0,
+  "margem_est": 0.8,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [],
+  "tem_recorrencia": false,
+  "s_ticket": 0,
+  "s_lucro": 2,
+  "s_replica": 0,
+  "s_saturacao": 0,
+  "status": "nova",
+  "visto_primeiro": "2026-09-24",
+  "visto_ultimo": "2026-09-24",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/bolos-caseirinhos-saudaveis",
+  "gateways_detectados": [
+   "desconhecido"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "desconhecido"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-09-24",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 0.7,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-longevidade",
+   "checkout-desconhecido",
+   "sem-lp",
+   "status-vencido"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Bolos Caseirinhos Saudaveis\n\n## Angulo\nCurso de culinaria. Cobranca nao autorizada de um segundo curso (bump cobrado sem consentimento). Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-09-24",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira vez vista. Curso de culinaria. Cobranca nao autorizada de um segundo curso (bump cobrado sem consentimento). Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou)."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-27 -- novidades-22-a-26-09.md",
+   "data": "2026-09-27",
+   "titulo": "Novidades mineradas de 22 a 26/09"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-24 -- 1700.md",
+   "data": "2026-09-24",
+   "titulo": "Passada 2026-09-24 17:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-24.md",
+   "data": "2026-09-24",
+   "titulo": "Radar 2026-09-24"
+  }
+ ]
+}

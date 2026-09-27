@@ -1,0 +1,112 @@
+{
+ "slug": "angulo-material-pronto-para-quem-ensina-danca",
+ "arquivo": "Ofertas/angulo-material-pronto-para-quem-ensina-danca.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-material-pronto-para-quem-ensina-danca",
+  "nome": "Angulo — material pronto para quem ENSINA danca",
+  "nicho": "danca",
+  "sub_nicho": "material-para-professor",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=coreografias%20prontas&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 19.9,
+  "ticket_bump": 12,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 30,
+  "margem_est": 0.92,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 4,
+  "s_replica": 9,
+  "s_saturacao": 5,
+  "status": "nova",
+  "visto_primeiro": "2026-09-06",
+  "visto_ultimo": "2026-09-06",
+  "rodadas_vista": 1,
+  "dias_no_ar": 10,
+  "criativos_ultima": 19,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "ggcheckout",
+   "kiwify",
+   "payt",
+   "onprofit",
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "danca",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 5.65,
+  "decisao": "padrao",
+  "flags": [
+   "sem-lp",
+   "status-vencido"
+  ],
+  "gateways": [
+   "ggcheckout",
+   "hotmart",
+   "kiwify",
+   "onprofit",
+   "payt"
+  ]
+ },
+ "corpo": "# Angulo — material pronto para quem ENSINA danca\n\n**A metade replicavel do mercado de danca nao vende danca. Vende planejamento de aula.**\n\nQuem compra nao e a aluna: e a professora de ballet, a lider de ministerio, o professor de\neducacao fisica. Eles ja tem a obrigacao — ha uma turma esperando na quarta-feira — e o que falta\ne repertorio. Por isso o produto pode ser **PDF**: ninguem precisa ver alguem dancando bonito,\nprecisa de uma sequencia escrita que funcione na sala.\n\nE o mesmo deslocamento de comprador que o vault ja catalogou em [[angulo-material-pedagogico]]\n(mae -> professora) e em [[missa-em-atividades]] (mae -> catequista). A novidade aqui e que ele\nresolve o problema estrutural do nicho de danca: **danca normalmente obriga video, e video obriga\ntalento.** Este angulo nao obriga nenhum dos dois.\n\n## Os operadores medidos em 06/09/2026\n\n| Oferta | Comprador | Ticket | Entrega | Dias no ar |\n|---|---|---|---|---|\n| [[cantigas-da-bailarina]] | professora de Baby Class | R$ 19,90 + 7 bumps | PDF + audios | 9 |\n| [[250-dinamicas-de-ballet]] | professora de ballet | R$ 10 / R$ 19,90 | PDF imprimivel | 9 |\n| [[movimentos-de-adoracao]] | lider de ministerio | R$ 19,90 + bump R$ 9,90 | PDF | 4 |\n| [[dicionario-em-movimento]] | lider de ministerio | R$ 67 | PDF + QR para video | nao medido |\n| [[aerobico-ritmado]] | professor de ed. fisica | R$ 67 + certificado | video + PDF | 10 |\n\nCinco operadores, **quatro deles com menos de dez dias de anuncio**. Isso nao e um angulo maduro:\ne uma coorte se formando agora.\n\n## Por que `s_saturacao: 5` e nao 8\n\nO reflexo seria chamar de campo aberto — o vault nunca tinha visto nenhuma dessas notas. O adendo\nde 31/08 do `Pipeline.md` existe exatamente para impedir isso: **cobertura do radar nao e\nconcorrencia de mercado.** Cinco operadores ativos e a faixa 5-15 players, ainda com variacao de\nangulo. Cinco.\n\nO que sustenta o 5 e nao o 3: os cinco atacam **denominacoes diferentes de comprador** (ballet\ninfantil, ballet adulto, gospel, educacao fisica) e nenhum deles cobre mais de uma. Ha espaco\nlateral, nao ha espaco frontal.\n\n## A escada que ninguem monta\n\nTres camadas de ticket foram medidas no mesmo comprador gospel, por tres operadores diferentes:\n\n- R$ 19,90 — coreografia pronta ([[movimentos-de-adoracao]])\n- R$ 67 — vocabulario de movimento ([[dicionario-em-movimento]])\n- R$ 40/mes ou R$ 397 — formacao tecnica ([[brumdance-3em1]])\n\n**Nenhum dos tres vende os outros dois.** Sao estagios sequenciais do mesmo comprador, operados\npor gente que nao se conhece. Quem montar as tres camadas sob um funil so captura a escada inteira\ncom um CPA.\n\n## O que copiar\n\n1. **O catalogo no checkout** de [[cantigas-da-bailarina]] — sete PDFs do mesmo nicho como bump,\n   sem LP, sem criativo, sem trafego proprio. E o multiplicador de ticket mais barato do vault.\n2. **O bump em bloco** de [[movimentos-de-adoracao]] — quatro PDFs por R$ 9,90 em vez de quatro\n   ofertas separadas. Menos atrito, mesma margem.\n3. **A prova social institucional** — depoimento com cargo e instituicao (pastora, coordenadora,\n   professora), nao corpo dancando. Mantem o criativo fora do escrutinio estetico.\n\n## O que evitar\n\nEntrar a R$ 10 sem bump, como [[250-dinamicas-de-ballet]]. O CPA e o mesmo do concorrente de\nR$ 19,90 com sete bumps; o faturamento por comprador nao e.\n\n## Ofertas ligadas\n\n[[cantigas-da-bailarina]] · [[250-dinamicas-de-ballet]] · [[movimentos-de-adoracao]] ·\n[[dicionario-em-movimento]] · [[aerobico-ritmado]] · [[brumdance-3em1]]\n\nCinco ofertas nomeadas ligadas na estreia. Pelo adendo de 29/08 do `Scoring.md`, angulo com dois\nou mais operadores identificados e **padrao confirmado**, nao hipotese.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-09-06",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 19,
+   "criativos_novos": 19,
+   "dias_no_ar": 10,
+   "ticket_frente": 19.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia do angulo. Cinco operadores medidos, quatro deles com menos de dez dias de anuncio: coorte em formacao, nao angulo maduro."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-06.md",
+   "data": "2026-09-06",
+   "titulo": "Radar 2026-09-06"
+  }
+ ]
+}

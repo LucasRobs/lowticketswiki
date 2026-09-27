@@ -32,6 +32,12 @@ import argparse
 from pathlib import Path
 from datetime import date
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+try:
+    import vault as _vault  # parser robusto + serializacao canonica (_meta/vault.py)
+except ImportError:  # pragma: no cover — sem vault.py, cai no parser antigo abaixo
+    _vault = None
+
 FIELD_ORDER = [
     "tipo", "classe", "slug", "nome", "nicho", "sub_nicho", "idioma", "pais",
     "plataforma_ads", "checkout", "url_pagina", "url_ads",
@@ -142,6 +148,9 @@ def yaml_value(key, val):
 
 
 def serialize_frontmatter(data: dict, field_order=FIELD_ORDER) -> str:
+    if _vault is not None:
+        # mesma saida para os campos do contrato; chave extra vai pro fim em vez de sumir
+        return _vault.serialize_frontmatter(data, field_order)
     lines = ["---"]
     for k in field_order:
         if k in data:
@@ -151,6 +160,11 @@ def serialize_frontmatter(data: dict, field_order=FIELD_ORDER) -> str:
 
 
 def parse_frontmatter(text: str):
+    if _vault is not None:
+        dados, corpo, info = _vault.parse_frontmatter(text)
+        if not info["tem_fm"]:
+            return {}, text
+        return _vault.normalizar_dados(dados), corpo
     m = re.match(r"^---\n(.*?)\n---\n?(.*)$", text, re.DOTALL)
     if not m:
         return {}, text
@@ -507,11 +521,12 @@ def main():
     achados = payload["achados"]
     fontes = [g["nome"].lower().replace(" ", "-") for g in payload.get("gateways", [])] or ["reclame-aqui"]
 
-    if args.data:
-        y, m, d = [int(x) for x in args.data.split("-")]
+    data_arg = args.data or str(payload.get("data_varredura") or "")
+    if re.match(r"^\d{4}-\d{2}-\d{2}$", data_arg):
+        y, m, d = [int(x) for x in data_arg.split("-")]
         hoje = date(y, m, d)
     else:
-        hoje = date.today()
+        hoje = _vault.hoje_local() if _vault is not None else date.today()
     hoje_str = hoje.isoformat()
 
     novas_slugs, movimento_slugs, retornaram_slugs = [], [], []

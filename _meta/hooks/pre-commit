@@ -1,0 +1,12 @@
+#!/bin/sh
+# Radar Low Ticket — mantem dashboard/data/ em dia com as notas a cada commit,
+# inclusive os commits automaticos do Obsidian Git. Instalado por _meta/publicar.py.
+# Nunca bloqueia um commit: se algo falhar, o commit segue e a proxima rodada exporta.
+[ -n "$LOWTICKET_SEM_HOOK" ] && exit 0
+RAIZ="$(git rev-parse --show-toplevel 2>/dev/null)" || exit 0
+[ -f "$RAIZ/_meta/exportar_dados.py" ] || exit 0
+PY="$(command -v python3 2>/dev/null)"
+[ -z "$PY" ] && exit 0
+"$PY" "$RAIZ/_meta/exportar_dados.py" --silencioso >/dev/null 2>&1 || exit 0
+git add -A -- "$RAIZ/dashboard/data" >/dev/null 2>&1
+exit 0

@@ -30,3 +30,10 @@ _to_delete/
 
 # Cache do Python
 __pycache__/
+
+# Dashboard: sem dependencias, mas se alguem instalar algo localmente nao versiona
+dashboard/node_modules/
+dashboard/.vercel/
+.vercel/
+# Transferencias git entre ambientes (bundles temporarios)
+*.bundle

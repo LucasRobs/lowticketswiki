@@ -1,0 +1,120 @@
+{
+ "slug": "angulo-taxa-do-certificado",
+ "arquivo": "Ofertas/angulo-taxa-do-certificado.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-taxa-do-certificado",
+  "nome": "Angulo — curso gratis, certificado pago",
+  "nicho": "certificacao",
+  "sub_nicho": "taxa-para-liberar-certificado",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta",
+   "google"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20gratuito%20com%20certificado&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 139.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 139.9,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct",
+   "advertorial"
+  ],
+  "formato_entrega": [
+   "curso",
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 9,
+  "s_lucro": 6,
+  "s_replica": 5,
+  "s_saturacao": 3,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-29",
+  "visto_ultimo": "2026-08-30",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-30",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "certificacao"
+  ]
+ },
+ "calc": {
+  "score": 5.85,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Angulo — curso gratis, certificado pago\n\n**A isca nao e o desconto, e o esforco ja investido.** O anuncio promete curso gratuito *com certificado*. O curso e mesmo gratuito. A cobranca aparece na emissao do certificado, depois de o aluno ter gasto semanas — quando desistir significa jogar fora o que ja fez.\n\nE a mecanica de \"taxa pra liberar\" que o `Pipeline.md` ja mapeia em cashback, Pix e apostas, transplantada para educacao. O que muda: em Pix a taxa vem depois de dinheiro prometido, aqui vem depois de **tempo gasto**. Tempo nao volta, e o comprador sabe disso — por isso paga.\n\n## Operadores nomeados (5)\n\nEste angulo nasce **confirmado**, nao como hipotese: uma unica busca por pagina de produtor devolveu cinco operadores com o mesmo funil.\n\n| Operador | Ativas (M) | Janela 6m (N) | Leitura |\n|---|---|---|---|\n| [[certificado-curso-online]] | 58 | 3 | volume historico, parado |\n| [[certifica-brasil]] | 13 | 8 | acelerando ~3,8x, mas **sem chegada nova desde 27/08** |\n| [[cursos-gratis-online]] | **114** | **9** | **medido em 30/08** — antigo, vivo, desacelerando |\n| E-Cursos Online Gratis | 10 | 0 | morto (mais recente ha 1 ano) |\n| Fabrica das Apostilas | 5 | 0 | morto, e produto fisico |\n\n**Cinco operadores, um vivo.** Isso e o que `s_saturacao: 3` esta dizendo: o angulo e conhecido e ja foi rodado por varios, mas o campo esvaziou — quatro dos cinco pararam. Nicho batido com espaco de volta, nao nicho lotado.\n\n## As duas variantes\n\n1. **Curso gratis → certificado pago** ([[certificado-curso-online]]). Ha um curso real para entregar. Custo de producao real, ticket R$ 139,90.\n2. **Prova → certificado pago** ([[certifica-brasil]]). Nao ha curso: so uma prova e um PDF. Custo marginal proximo de zero.\n\nA variante 2 e estruturalmente melhor e e justamente a que esta acelerando. **Quando um angulo tem duas variantes e a mais enxuta e a unica viva, a variante e o achado, nao o angulo.**\n\n## O teto de replicabilidade\n\n`s_replica: 5`, e o motivo nao e producao. E que a promessa que faz o funil funcionar — \"certificado valido\" — encosta em area regulada. A [[certifica-brasil]] chegou a vender 2a via de certificado de reservista, documento da Uniao. \"Propaganda enganosa\" e o problema mais frequente nos dois operadores medidos.\n\nExiste replica limpa e ela e chata de propositos: **preco do certificado anunciado desde o primeiro criativo**, certificado de conclusao proprio sem alegar equivalencia oficial, curso gratuito de verdade. Converte menos e nao vive de churn. O que **nao** da para replicar com seguranca e a surpresa no fim do funil, que e de onde vem tanto a conversao quanto as reclamacoes.\n\n## Por que este angulo nao entra no corte\n\nPela regra nova do `Scoring.md`, angulo nao disputa o corte de replicacao — nao tem produtor para copiar. A leitura util aqui e outra e ja esta feita: **dois operadores nomeados e medidos**, o que torna este o primeiro angulo do vault a nascer com operador identificado em vez de ganhar um depois (compare com [[angulo-material-pedagogico]], que levou treze dias ate achar a [[alfabetinho]]).\n\n## Atualizacao 2026-08-30 — a fila fechou, e o angulo ganhou faixa de ticket\n\nA [[cursos-gratis-online]] estava aqui como *\"nao medido\"*. Medida: **M = 114, N = 9**, mais\nrecente ha tres meses. Antiga, viva, desacelerando — nao e a que esta esquentando, mas e a que\ntem o **maior volume acumulado do angulo**, quase o dobro da [[certificado-curso-online]].\n\n### Faixa de ticket: R$ 80 a R$ 140\n\nTres valores medidos em corpo de reclamacao, o que torna este o unico angulo do vault com\n`s_ticket` fora da sentinela em mais de uma nota:\n\n| Valor | Onde | Formato |\n|---|---|---|\n| R$ 79,90 | [[cursos-gratis-online]] | certificado avulso de curso de extensao, pago por Pix |\n| R$ 99,00 | [[cursos-gratis-online]] | **combo de 5 certificados** |\n| R$ 139,90 | [[certificado-curso-online]] | certificado avulso |\n\nO **combo** e o movimento comercial a copiar: sobe o ticket de R$ 80 para R$ 99 e escoa\ncatalogo que ninguem escolheria avulso. Custa uma reclamacao de propaganda enganosa quando a\nempresa e quem escolhe quatro dos cinco cursos — anunciar a escolha resolve.\n\n### O script juridico que estava de graca na E-Cursos\n\nA resposta publica da E-Cursos Online Gratis (ID 153932027) a uma reclamacao de \"certificado\nnao vale no MEC\" e um **tratamento de objecao completo**, e ele muda a leitura do teto de\nreplicabilidade desta nota:\n\n- o MEC so reconhece graduacao e pos; **curso livre nao e regulado pelo MEC por definicao**\n- amparo citado: LDB Art. 40, CNE/CNB 06, decreto presidencial\n- uso declarado do certificado: fins curriculares, prova de titulos, progressao interna\n- e a ressalva que faz a frase inteira funcionar: *nao garantimos aceitacao em todo caso,\n  consulte o edital ou o conselho*\n\nOu seja: **existe enquadramento legal para vender certificado de curso livre**, e ele e publico.\nO `s_replica: 5` desta nota nao vem do enquadramento — vem de **como a maioria anuncia**, com a\npromessa implicita de equivalencia oficial e o preco escondido ate o fim do funil. Quem anuncia\n\"curso livre, certificado de conclusao proprio, R$ 79,90, sem equivalencia MEC\" nao esta em\narea cinzenta. Converte menos, e replicavel.\n\n### O padrao desconfortavel\n\nCruzando os dois operadores medidos em detalhe:\n\n| | [[certifica-brasil]] | [[cursos-gratis-online]] |\n|---|---|---|\n| Responde | 0% | 100% (1d11h) |\n| Entrega | nao | sim (parceiro emissor: Fasul) |\n| Cadencia de reclamacao | 3 dias | 3 meses |\n\n**A que nao entrega tem vinte vezes mais velocidade que a que entrega.** Como reclamacao aqui e\nproxy de venda, a leitura ingenua seria \"fraude vende mais\". A leitura honesta e outra:\nreclamacao mede **venda + insatisfacao**, e a operacao que entrega suprime a segunda metade do\nproxy. **O `ra_reclamacoes` favorece sistematicamente quem nao atende.** E um vies do\ninstrumento, nao do mercado, e ele contamina `s_lucro` no vault inteiro.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 139.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo novo, e o primeiro do vault a **nascer com operador nomeado**: cinco encontrados numa busca so, dois medidos ([[certificado-curso-online]] 58/3, [[certifica-brasil]] 13/8). Padrao: anuncio de curso gratuito com certificado, curso realmente gratuito, cobranca na emissao — o ponto de cobranca fica depois do esforco investido, nao antes do dinheiro. E a \"taxa pra liberar\" do `Pipeline.md` transplantada de Pix/cashback para educacao, com tempo no lugar de dinheiro como custo afundado. Duas variantes; a enxuta (prova + PDF, sem curso) e a unica viva. Quatro dos cinco operadores estao parados — `s_saturacao: 3` descreve campo esvaziando, nao lotado."
+  },
+  {
+   "data": "2026-08-30",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo ganhou o terceiro operador medido: [[cursos-gratis-online]] (M=114, N=9), que estava na fila. Faixa de ticket agora medida em tres pontos: R$ 79,90 / R$ 99,00 (combo de 5) / R$ 139,90. Angulo novo detectado na resposta publica da E-Cursos: **enquadramento de \"curso livre\"** (LDB Art. 40) como tratamento de objecao de validade — muda a leitura do teto de `s_replica`."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-30.md",
+   "data": "2026-08-30",
+   "titulo": "Radar 2026-08-30"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  }
+ ]
+}

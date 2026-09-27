@@ -1,0 +1,126 @@
+{
+ "slug": "kit-so-escola-autismo",
+ "arquivo": "Ofertas/kit-so-escola-autismo.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "kit-so-escola-autismo",
+  "nome": "Kit Só Escola Autismo — 650 páginas, 11 apostilas",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "tea-autismo",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "https://kitsoescola.com/autismo/",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=autismo%20atividades%20crian%C3%A7a&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 37,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 37,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 4,
+  "s_lucro": 5,
+  "s_replica": 8,
+  "s_saturacao": 5,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-09-11",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/kit-so-escola-autismo",
+  "gateways_detectados": [
+   "hotmart"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 5.7,
+  "decisao": "descartar",
+  "flags": [
+   "sem-longevidade"
+  ],
+  "gateways": [
+   "hotmart"
+  ]
+ },
+ "corpo": "# Kit Só Escola Autismo\n\n## Ângulo\n\n> \"650+ páginas, 11 apostilas (vogais, alfabeto, coordenação motora, emoções) para\n> crianças com TEA até 10 anos — 99,9% de recomendação\"\n\nIrmão gêmeo do kit de TDAH, mesma mecânica: **valor por volume**, não por resultado.\nA prova social de \"99,9%\" é inflada e serve de ancoragem emocional, não de argumento.\nDesconto de 45% (R$ 67 → R$ 37).\n\n`s_lucro` subestimado — sem dado de tempo no ar nesta rodada.\n\n## Funil\n\nanúncio → `kitsoescola.com/autismo/` → checkout Hotmart. Bump/upsell não confirmados.\n\n## Por que funciona\n\nTEA é o sub-nicho de maior carga emocional do cluster e o de menor oferta de material\nadaptado real. A mãe de criança autista já gastou muito em terapia; R$ 37 por um acervo\nimprimível é decisão de impulso, não de comparação.\n\n## O que copiar / o que evitar\n\n**Copiar:** empacotar por faixa etária *e* por habilidade (motora, emocional, cognitiva)\ndentro do mesmo kit — dá ao anúncio várias headlines possíveis a partir de um produto só.\n\n**Evitar:** qualquer promessa terapêutica. Nicho regulado — teto de `s_replica` 4 se você\nprometer resultado clínico. Vendendo material, o teto sobe.\n\n## Histórico\n\n## Verificacao 2026-08-30\n\n`kitsoescola.com/autismo/` **retornou erro 508 (limite de recurso do servidor)**. Nao e\n404: a rota existe. Pode ser instabilidade momentanea ou pagina desativada. Os outros dois\ndominios da mesma operacao (`tdah.soescola.com` e `kitsoescola.com`) responderam normal,\nentao **nao e a operacao que caiu — e esta pagina**. Reverificar na proxima rodada antes\nde mexer em `status`.\n\n## Verificação dirigida 2026-09-11\n\nPágina voltou a responder nesta consulta; o erro de agosto não prova desativação. R$37 mantidos, 650 páginas anunciadas, checkout Hotmart. É kit pedagógico complementar, não manual parental. Sem medição de anúncios ou de resultado terapêutico.\n\nFonte: [página pública](https://kitsoescola.com/autismo/). \n\nRetorno significa redescoberta de página pública; não comprova retomada de vendas. Valores anteriores de reclamações, ticket médio, margem e scores foram preservados como históricos não revalidados; não são novas medições. Bumps e upsells ocultos não inspecionados.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. Irmao do kit TDAH, mesmo acervo reembalado. R$37 de R$67.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  },
+  {
+   "data": "2026-09-11",
+   "fonte": "pagina-publica",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Observação dirigida da oferta [[kit-so-escola-autismo]] em 11/09/2026. Fonte: https://kitsoescola.com/autismo/.\n\nVer a nota da oferta e [[2026-09-11]] para evidências e limites. Preço desconhecido usa zero como sentinela. RA não foi recontado; valores herdados não representam uma nova medição. Criativos novos e delta não têm comparação válida; zero não prova estabilidade. Para TEA Sem Crise, 3 criativos é piso observado e 30 dias é a idade do anúncio mais antigo visto. preco_mudou=false não transforma a primeira captura de preço em aumento."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-11.md",
+   "data": "2026-09-11",
+   "titulo": "Radar 2026-09-11"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  }
+ ]
+}

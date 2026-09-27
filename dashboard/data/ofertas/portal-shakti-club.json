@@ -1,0 +1,115 @@
+{
+ "slug": "portal-shakti-club",
+ "arquivo": "Ofertas/portal-shakti-club.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "portal-shakti-club",
+  "nome": "Portal Shakti Club — bellydance e tribal fusion",
+  "nicho": "danca",
+  "sub_nicho": "danca-do-ventre",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kiwify",
+  "url_pagina": "https://shaktistudioonline.com/portal-shakti-club",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=dan%C3%A7a%20do%20ventre&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 97,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 210,
+  "margem_est": 0.85,
+  "modelo": [
+   "vsl"
+  ],
+  "formato_entrega": [
+   "curso",
+   "comunidade"
+  ],
+  "tem_recorrencia": true,
+  "s_ticket": 10,
+  "s_lucro": 7,
+  "s_replica": 2,
+  "s_saturacao": 6,
+  "status": "nova",
+  "visto_primeiro": "2026-09-06",
+  "visto_ultimo": "2026-09-06",
+  "rodadas_vista": 1,
+  "dias_no_ar": 81,
+  "criativos_ultima": 3,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/portal-shakti-club",
+  "gateways_detectados": [
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "",
+  "veredito": "descartar",
+  "prioridade": 1,
+  "tags": [
+   "oferta",
+   "danca",
+   "danca-do-ventre",
+   "recorrencia"
+  ]
+ },
+ "calc": {
+  "score": 5.95,
+  "decisao": "descartar",
+  "flags": [
+   "status-vencido"
+  ],
+  "gateways": [
+   "kiwify"
+  ]
+ },
+ "corpo": "# Portal Shakti Club\n\nR$ 97/mes (ancorado R$ 169) ou R$ 210 trimestral, Kiwify, cinco cursos em video integrados,\ndownload offline pelo app da Kiwify, garantia de 7 dias. **81 dias no ar**, 3 criativos.\n\nRecorrencia de ticket alto no mesmo sub-nicho do [[combo-10-cursos-danca-do-ventre]] (R$ 247\nvitalicio). Os dois juntos fecham a leitura de que **danca do ventre e o sub-nicho de maior ticket\nmedido nesta rodada** — e o mais dependente de autoridade pessoal, o que trava `s_replica` em 2.\n\nRegistrado como referencia de precificacao, nao como candidata.\n\n## Criativos (Biblioteca de Anuncios)\n\nAnunciante: **Luma Shakti Studio Online** — `facebook.com/shaktistudioonline`\nPagina de vendas: <https://shaktistudioonline.com/portal-shakti-club>\n\n| Criativo | Veiculacao iniciada | Nota |\n|---|---|---|\n| [1481713799929612](https://www.facebook.com/ads/library/?id=1481713799929612) | 17/06/2026 | 81 dias |\n| [1435958288287540](https://www.facebook.com/ads/library/?id=1435958288287540) | 22/06/2026 |  |\n| [1622766862154166](https://www.facebook.com/ads/library/?id=1622766862154166) | 22/06/2026 |  |\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-09-06",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 3,
+   "criativos_novos": 3,
+   "dias_no_ar": 81,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. R$ 97/mes ou R$ 210 trimestral na Kiwify, 81 dias no ar. Teto de ticket recorrente do sub-nicho de danca do ventre."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-06.md",
+   "data": "2026-09-06",
+   "titulo": "Radar 2026-09-06"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  }
+ ]
+}

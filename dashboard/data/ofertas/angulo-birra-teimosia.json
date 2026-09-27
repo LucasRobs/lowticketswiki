@@ -1,0 +1,106 @@
+{
+ "slug": "angulo-birra-teimosia",
+ "arquivo": "Ofertas/angulo-birra-teimosia.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-birra-teimosia",
+  "nome": "Ângulo — Birra, teimosia e filho que não obedece",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "birra-disciplina",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "hotmart",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=birra%20crian%C3%A7a&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 34.9,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 40,
+  "margem_est": 0.92,
+  "modelo": [
+   "vsl",
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 7,
+  "s_replica": 9,
+  "s_saturacao": 4,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "hotmart",
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 6.75,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "hotmart",
+   "kiwify"
+  ]
+ },
+ "corpo": "# Ângulo — Birra e teimosia\n\nOfertas confirmadas: [[domando-a-teimosia]] (VSL, domínio próprio), Ebook Birras\n(soumae.org, R$ 34,90 ancorado em R$ 47,90), Entenda a Birra Crie Conexão (Hotmart),\n[[disciplina-positiva-em-casa]] (R$ 37).\n\n## A tensão que define o nicho\n\n**O copy vende conexão. O público busca obediência.**\n\nAs páginas falam em \"vínculo seguro\", \"respeito\", \"conexão\". A busca real que traz a\nmãe é \"como fazer meu filho me obedecer\". As duas coisas convivem na mesma LP porque a\nmãe quer o resultado autoritário com a identidade da mãe gentil — e a página precisa\nentregar as duas.\n\nQuem escreve só conexão não converte tráfego frio. Quem escreve só obediência atrai o\npúblico errado e toma rejeição. **O anúncio entra pela obediência, a página converte\npela conexão.** Essa é a leitura que vale desta rodada.\n\n## Termos de busca\n\n`birra criança` · `meu filho não obedece` · `criança teimosa` · `birra em público` ·\n`filho responde mal`\n\n## Faixa de preço e ancoragem\n\nR$ 34,90 a R$ 37, sempre com âncora de 45-62% de desconto. O preço \"cheio\" nunca é\ncobrado — a âncora existe só para o desconto parecer generoso. Padrão universal do\ncluster.\n\n## Onde há espaço\n\nTodo mundo trata birra em casa. **Ninguém trata birra em público** — supermercado,\naniversário, casa da sogra —, que é onde a vergonha entra e a dor triplica. É o recorte\ncom maior carga emocional e menor concorrência dentro de um sub-nicho saturado.\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 34.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo novo. Tensao central: anuncio entra pela obediencia, pagina converte pela conexao.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-21 -- shortlist-replicaveis.md",
+   "data": "2026-08-21",
+   "titulo": "Shortlist de replicação — as 8 melhores de 57 mineradas"
+  }
+ ]
+}

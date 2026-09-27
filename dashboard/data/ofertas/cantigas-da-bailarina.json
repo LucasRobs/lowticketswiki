@@ -1,0 +1,115 @@
+{
+ "slug": "cantigas-da-bailarina",
+ "arquivo": "Ofertas/cantigas-da-bailarina.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "cantigas-da-bailarina",
+  "nome": "Cantigas da Bailarina — repertorio pronto para Baby Class",
+  "nicho": "danca",
+  "sub_nicho": "material-para-professora-de-ballet",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "ggcheckout",
+  "url_pagina": "https://ballerinalab.com.br/cantigas-da-bailarina",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=coreografias%20prontas&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 19.9,
+  "ticket_bump": 15,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 35,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 4,
+  "s_replica": 8,
+  "s_saturacao": 6,
+  "status": "nova",
+  "visto_primeiro": "2026-09-06",
+  "visto_ultimo": "2026-09-06",
+  "rodadas_vista": 1,
+  "dias_no_ar": 9,
+  "criativos_ultima": 11,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/cantigas-da-bailarina",
+  "gateways_detectados": [
+   "ggcheckout"
+  ],
+  "bump_oculto": true,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "",
+  "veredito": "observar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "danca",
+   "ballet",
+   "imprimivel"
+  ]
+ },
+ "calc": {
+  "score": 5.7,
+  "decisao": "descartar",
+  "flags": [
+   "status-vencido"
+  ],
+  "gateways": [
+   "ggcheckout"
+  ]
+ },
+ "corpo": "# Cantigas da Bailarina — Ballerina Lab\n\n**O checkout tem sete order bumps.** A LP vende um produto de R$ 19,90; a pagina de pagamento\noferece mais sete PDFs de ballet, cada um com preco ancorado e desconto proprio. Isso e o achado\nestrutural da rodada — e so aparece se voce abrir o checkout.\n\nAnunciante **Ballerina Lab** (page id 61578468452976). **Onze criativos ativos em nove dias**,\ncada um marcado \"2 anuncios usam esse criativo\" — 22 veiculacoes. E o operador com maior volume\nde criativo de toda a varredura de danca.\n\n## Funil\n\nAnuncio -> LP com timer de 39min -> `ggcheckout.app/checkout/v5/nwDYkQaJ5TWbh1aTUmp0` ->\n7 bumps mais \"adicione um ou mais produtos e ganhe 10 por cento OFF\".\n\n| Bump no checkout | Ancora | Preco |\n|---|---|---|\n| Dicionario do Ballet Classico | R$ 67,00 | R$ 19,90 |\n| Ballet das Princesas | R$ 67,00 | R$ 29,90 |\n| Dancando com a Mamae | R$ 39,90 | R$ 19,90 |\n| Ballet com o Papai | R$ 37,00 | R$ 14,90 |\n| Brincando de Ballet | R$ 29,90 | R$ 14,90 |\n| O Universo da Bailarina | R$ 29,90 | R$ 9,90 |\n| Enciclopedia do Ballet | R$ 29,90 | R$ 9,90 |\n\nFrente R$ 19,90. Piscina de bump: **R$ 119,30**. Com um unico item anexado o ticket medio ja\ndobra — por isso `ticket_medio_est: 35` e conservador.\n\n## A ancora nao bate\n\nA LP anuncia \"de R$ 49,90 por R$ 19,90\". O checkout anuncia \"R$ 47,00 riscado\". **Sao duas\nancoras diferentes para o mesmo produto**, o que sugere LP e checkout montados em momentos\ndistintos e nunca conciliados. Detalhe pequeno, mas e o tipo de descuido que denuncia operacao\nrecente — coerente com os 9 dias de anuncio.\n\n## Por que funciona\n\n**Mesmo comprador de [[movimentos-de-adoracao]], outra denominacao.** Nao e a bailarina: e a\nprofessora de Baby Class que precisa de repertorio para criancas de 2 a 5 anos. A LP lista\nquatro dores e todas sao de planejamento, nenhuma e de tecnica.\n\n**O produto e a familiaridade, nao a coreografia.** Borboletinha, A Dona Aranha, A Bailarina Nao\nLava o Pe — cantigas de dominio publico adaptadas. O ativo real e a *adaptacao*, que e texto.\n\n## O que copiar / o que evitar\n\n**Copiar, e este e o item mais valioso da rodada:** o **catalogo no checkout**. Um produto de\nfrente barato serve de porta para sete PDFs do mesmo nicho, e nenhum deles precisa de LP propria,\ncriativo proprio ou trafego proprio. E a forma mais barata conhecida de multiplicar ticket medio\nsem multiplicar CPA.\n\n**Evitar:** os 15 audios. Sao a unica parte do produto que nao e texto e a unica que da trabalho\nde verdade. Uma versao so-PDF (como faz [[movimentos-de-adoracao]]) entrega a maior parte da\npromessa com uma fracao do esforco.\n\n## Estado dos dados\n\n- **Medido hoje:** preco, os 7 bumps, gateway, garantia, `dias_no_ar: 9`, 11 criativos.\n- **Declarado pela LP, nao medido:** \"+300 professoras\", \"+200 vendas esta semana\", \"4,9\".\n- **`s_lucro: 4`** — 9 dias no ar cai na faixa 7-20. O volume de criativo puxaria para cima, mas\n  a faixa 7-8 exige `criativos_delta` positivo por rodadas, e esta e a primeira. Sem inventar.\n\n## Criativos (Biblioteca de Anuncios)\n\nAnunciante: **Ballerina Lab** — `facebook.com/61578468452976`\nPagina de vendas: <https://ballerinalab.com.br/cantigas-da-bailarina>\n\n| Criativo | Veiculacao iniciada | Nota |\n|---|---|---|\n| [1788079548857559](https://www.facebook.com/ads/library/?id=1788079548857559) | 28/08/2026 | 2 anuncios usam esse criativo |\n| [2263316144514045](https://www.facebook.com/ads/library/?id=2263316144514045) | 28/08/2026 | 2 anuncios |\n| [1609143730696444](https://www.facebook.com/ads/library/?id=1609143730696444) | 28/08/2026 | 2 anuncios |\n| [1896609284648902](https://www.facebook.com/ads/library/?id=1896609284648902) | 28/08/2026 | 2 anuncios |\n| [941791291734829](https://www.facebook.com/ads/library/?id=941791291734829) | 31/08/2026 | 2 anuncios |\n| [1244590731133551](https://www.facebook.com/ads/library/?id=1244590731133551) | 31/08/2026 | 2 anuncios |\n| [1588414766277941](https://www.facebook.com/ads/library/?id=1588414766277941) | 31/08/2026 | 2 anuncios |\n| [3969590060015031](https://www.facebook.com/ads/library/?id=3969590060015031) | 01/09/2026 | 2 anuncios |\n| [3469711586522153](https://www.facebook.com/ads/library/?id=3469711586522153) | 01/09/2026 | 2 anuncios |\n| [1808375023485352](https://www.facebook.com/ads/library/?id=1808375023485352) | 01/09/2026 | 2 anuncios |\n| [2501108650313455](https://www.facebook.com/ads/library/?id=2501108650313455) | 02/09/2026 | 2 anuncios |\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-09-06",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 11,
+   "criativos_novos": 11,
+   "dias_no_ar": 9,
+   "ticket_frente": 19.9,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 11 criativos em 9 dias e **sete order bumps no checkout ggcheckout** (R$ 9,90 a R$ 29,90, piscina de R$ 119,30). Ancora da LP (R$ 49,90) nao bate com a do checkout (R$ 47,00)."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-26 -- ofertas-escaladas.md",
+   "data": "2026-09-26",
+   "titulo": "Ofertas escaladas - planilha consolidada"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-06.md",
+   "data": "2026-09-06",
+   "titulo": "Radar 2026-09-06"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "slug": "clube-da-pedagogia",
+ "arquivo": "Ofertas/clube-da-pedagogia.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "clube-da-pedagogia",
+  "nome": "Clube da Pedagogia — kit 3.000+ atividades BNCC",
+  "nicho": "material-pedagogico",
+  "sub_nicho": "acervo-professora",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "ggcheckout",
+  "url_pagina": "https://clubedapedagogia.com",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=clube%20da%20pedagogia&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 20,
+  "ticket_bump": 0,
+  "ticket_upsell": 28,
+  "ticket_medio_est": 35,
+  "margem_est": 0.9,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 5,
+  "s_lucro": 7,
+  "s_replica": 7,
+  "s_saturacao": 4,
+  "status": "nova",
+  "visto_primeiro": "2026-08-31",
+  "visto_ultimo": "2026-08-31",
+  "rodadas_vista": 1,
+  "dias_no_ar": 74,
+  "criativos_ultima": 1,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/clube-da-pedagogia",
+  "gateways_detectados": [
+   "ggcheckout"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-31",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "material-pedagogico"
+  ]
+ },
+ "calc": {
+  "score": 6.15,
+  "decisao": "observar",
+  "flags": [
+   "status-vencido"
+  ],
+  "gateways": [
+   "ggcheckout"
+  ]
+ },
+ "corpo": "# Clube da Pedagogia — a escada que o cluster infantil nao tem\n\n74 dias no ar. O nome diz \"clube\" e o anuncio fala em comunidade, mas **nao ha recorrencia**:\ne pagamento unico com acesso vitalicio. A palavra \"clube\" faz o trabalho de pertencimento sem o\npassivo de cobranca mensal — e a melhor mentira barata da rodada.\n\n## A estrutura de preco e o achado\n\n| Degrau | Preco | Ancorado | Conteudo | Garantia |\n|---|---|---|---|---|\n| Basico | **R$ 20,00** | R$ 54,95 (-62%) | 2.000+ atividades | 7 dias |\n| Premium | **R$ 39,90** | R$ 80,00 (-50%) | 4.000+ atividades + 5 bonus | **30 dias** |\n| Upgrade | **R$ 28,00** | — | Basico -> Premium, \"economia de R$ 11\" | — |\n\nTres links de `ggcheckout.app`, um por degrau. O terceiro e o que importa: **o upgrade de\nR$ 28 e um upsell pos-compra com pagina propria.** Quem entrou por R$ 20 recebe a oferta de\ncompletar por R$ 28 — total R$ 48, contra R$ 39,90 se tivesse comprado o Premium direto.\n\nO comprador paga **R$ 8 a mais por ter comecado barato**, e sente que economizou R$ 11. Isso e\nancoragem de segunda ordem e e a peca que falta em todas as ofertas do cluster infantil\ncatalogadas ate hoje.\n\n**A garantia tambem e degrau.** 7 dias no basico, 30 no premium. Garantia mais longa como\nbeneficio pago — nao vi isso em nenhuma outra nota do vault.\n\n## Prova social operante\n\n*\"Mais de 12.400 professoras ja adquiriram\"* + timer de 15 minutos. O numero e alto o bastante\npara ser credivel e redondo o bastante para nao ser auditavel. A R$ 20 medios, alega\n~R$ 250 mil — plausivel para 74 dias de anuncio.\n\n## O que copiar / o que evitar\n\n**Copiar, na ordem:**\n1. O **upgrade pos-compra**. E receita incremental com custo zero de trafego, e o cluster\n   inteiro esta deixando na mesa.\n2. **Garantia como degrau** (7 vs 30 dias).\n3. A entrega por **Drive + WhatsApp + e-mail**, que dispensa area de membros.\n\n**Evitar:** a promessa de \"novos materiais toda semana\". Ela transforma um produto pronto numa\nassinatura de trabalho sem assinatura de receita — foi exatamente essa divida de suporte que\ngerou as 177 reclamacoes da [[alfabetinho]].\n\n## Publico\n\nNao e mae. E **professora, pedagoga e reforcadora** — quem compra tempo, nao resultado do filho.\nMesmo publico do [[angulo-material-pedagogico]] e da [[alfabetinho]]. Objecao diferente: a mae\npergunta \"funciona?\", a professora pergunta \"esta alinhado a BNCC?\". A resposta e uma linha de\ncopy, nao um produto melhor.\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-31",
+   "fonte": "ads-library",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 1,
+   "criativos_novos": 1,
+   "dias_no_ar": 74,
+   "ticket_frente": 20,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Estreia. 74 dias no ar (veiculacao iniciada 18/06/2026). Unica oferta do cluster com upsell pos-compra em pagina propria (upgrade R$ 28) e garantia escalonada 7/30 dias."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-24 -- ofertas-mais-escaladas.md",
+   "data": "2026-09-24",
+   "titulo": "Ofertas mais escaladas"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-31.md",
+   "data": "2026-08-31",
+   "titulo": "Radar 2026-08-31"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-31 -- shortlist-infantil-replicaveis.md",
+   "data": "2026-08-31",
+   "titulo": "Shortlist — paginas de vendas infantis faceis de replicar (com dias no ar medidos)"
+  }
+ ]
+}

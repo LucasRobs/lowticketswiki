@@ -1,0 +1,135 @@
+{
+ "slug": "angulo-desintoxicacao-telas",
+ "arquivo": "Ofertas/angulo-desintoxicacao-telas.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-desintoxicacao-telas",
+  "nome": "Ângulo — Criança viciada em tela",
+  "nicho": "comportamento-infantil",
+  "sub_nicho": "telas",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "kiwify",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=crian%C3%A7a%20viciada%20celular&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 27,
+  "ticket_bump": 19,
+  "ticket_upsell": 67,
+  "ticket_medio_est": 50,
+  "margem_est": 0.93,
+  "modelo": [
+   "direct",
+   "vsl"
+  ],
+  "formato_entrega": [
+   "ebook",
+   "pdf"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 6,
+  "s_lucro": 6,
+  "s_replica": 9,
+  "s_saturacao": 9,
+  "status": "morta",
+  "visto_primeiro": "2026-08-21",
+  "visto_ultimo": "2026-08-21",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "",
+  "gateways_detectados": [
+   "kiwify"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 0,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-21",
+  "veredito": "replicar",
+  "prioridade": 3,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo",
+   "comportamento-infantil"
+  ]
+ },
+ "calc": {
+  "score": 7.35,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "kiwify"
+  ]
+ },
+ "corpo": "# Ângulo — Criança viciada em tela\n\n**Maior `s_saturacao` da rodada: 9.** Encontrei uma única oferta séria rodando isso no\nBrasil — [[guia-desintoxicacao-digital]], a R$ 19,90. Campo praticamente livre.\n\n## Por que o campo está livre e não deveria estar\n\nA dor é universal (toda casa com criança de 5 a 12 anos tem essa briga), crescente, e tem\nrespaldo institucional recente — a discussão sobre celular na escola e as recomendações\nde tempo de tela deram vocabulário e legitimidade ao problema.\n\nO que trava é o enquadramento: quem tenta vender isso trata como **tema de tecnologia**\n(detox digital, minimalismo) e vai competir com conteúdo adulto saturado. Tratado como\n**tema de comportamento infantil**, é campo aberto.\n\n## O recorte que abre o nicho\n\nNão é \"reduzir tempo de tela\". É:\n\n> **\"Meu filho tem crise quando eu tiro o celular.\"**\n\nIsso é birra, não tecnologia. E conecta este ângulo direto com [[angulo-parar-de-gritar]]\ne [[angulo-birra-teimosia]] — mesmo público, mesma dor, gatilho diferente. Um comprador\nde birra é comprador de tela.\n\n## Termos de busca\n\n`criança viciada celular` · `tirar o celular da criança` · `tempo de tela infantil` ·\n`meu filho só quer tablet` · `desintoxicação digital criança`\n\n## Estrutura sugerida\n\nR$ 27 (guia de 21 dias) + bump R$ 19 (contrato de uso de tela para imprimir e assinar\ncom a criança) + upsell R$ 67 (versão adolescente). Ticket médio ~R$ 50 num ângulo com\nsaturação 9 — é a melhor combinação da rodada.\n\nO \"contrato para imprimir e assinar\" é o ativo: material físico, viral em story, e\nresolve a objeção \"ele não vai aceitar\".\n\n## Links\n\n**Biblioteca de Anúncios** (BR, ativos, keyword_unordered) — um termo só é pouco neste\nângulo, use os seis:\n\n- [criança viciada celular](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=crian%C3%A7a%20viciada%20celular&search_type=keyword_unordered&media_type=all)\n- [tirar o celular da criança](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=tirar%20o%20celular%20da%20crian%C3%A7a&search_type=keyword_unordered&media_type=all)\n- [tempo de tela infantil](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=tempo%20de%20tela%20infantil&search_type=keyword_unordered&media_type=all)\n- [desintoxicação digital](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=desintoxica%C3%A7%C3%A3o%20digital&search_type=keyword_unordered&media_type=all)\n- [meu filho só quer tablet](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=meu%20filho%20s%C3%B3%20quer%20tablet&search_type=keyword_unordered&media_type=all)\n- [vida sem tela](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=vida%20sem%20tela&search_type=keyword_unordered&media_type=all)\n\n**Concorrente único** — [[guia-desintoxicacao-digital]]:\npágina `https://ebook.desintoxicacaodigital.com.br/` · checkout `pay.kiwify.com.br/EieCBG2`\n\n## Verificação de 2026-08-21 — a página está no ar\n\nR$ 19,90 à vista ou 2× R$ 10,48. **49 páginas.** Nenhum order bump, nenhum upsell,\nnenhum bônus. Produtor não se identifica — só o Instagram `@vidasemtela`.\n\nIsso fecha a leitura de oferta subprecificada: 49 páginas de PDF por R$ 19,90 sem\nnenhuma monetização de backend não paga tráfego frio no Meta. Ou o cara está rodando\norgânico do Instagram, ou está queimando dinheiro. Nos dois casos, **o ângulo está\nlivre de fato** — ninguém está defendendo esse leilão com verba.\n\n## Correção 2026-08-21 — o ângulo tem mais gente do que eu contei\n\nBuscando o anunciante por trás do [[guia-desintoxicacao-digital]] apareceu um cluster\ninteiro que a primeira leitura não pegou:\n\n| Operação | Onde |\n|---|---|\n| Vida sem Tela (página FB) | `facebook.com/p/Vida-sem-Tela-61575587644390/` |\n| Kami — Vida sem Tela | `facebook.com/vidasemtelas/` |\n| Vida sem tela (@vidasemtela.brasil) | Instagram, Kamille Santos |\n| Vida sem Tela Kids | `vidasemtelakids.com.br` |\n| Vida Sem Telas | `vidasemtela.com` |\n| Vida Sem Tela | `vidasemtela.site` |\n| Vida Sem Telas Oficial | YouTube |\n\nOu seja: **`s_saturacao: 9` está otimista.** Não é um player só — é uma marca-conceito com\nvárias operações usando quase o mesmo nome, o que também explica a confusão de handles\n(`@vidasemtela` na LP do ebook, `@vidasemtela.brasil` no Instagram que o Google indexa).\n\nNão dá para corrigir o score com honestidade sem ver a Biblioteca de Anúncios: várias\npáginas com nome parecido **não é o mesmo que várias campanhas com verba**. Pode ser um\ncluster orgânico de Instagram sem tráfego pago nenhum — o que manteria o leilão vazio.\n\n**Ação na próxima rodada:** abrir a Ad Library por `view_all_page_id` de cada página e\ncontar quantas têm anúncio ativo. Se 2 ou menos, `s_saturacao` fica em 8-9. Se 4+,\ncai para 5 e este ângulo sai do topo da shortlist.\n\nLink direto para a primeira: `https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=61575587644390`\n",
+ "observacoes": [
+  {
+   "data": "2026-08-21",
+   "fonte": "busca-web",
+   "ra_reclamacoes": 0,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 27,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Angulo novo. Maior saturacao invertida da rodada (9) — campo praticamente livre no recorte infantil.\n\nBiblioteca de Anuncios nao consultada nesta rodada (extensao do Chrome offline) —\n`criativos_ativos` e `dias_no_ar` em 0 por falta de dado, nao por ausencia de anuncio.\n`s_lucro` esta subestimado em todas as notas desta rodada."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-30 -- shortlist-infantil.md",
+   "data": "2026-08-30",
+   "titulo": "Shortlist — produtos infantis escalados e replicáveis com IA"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-23.md",
+   "data": "2026-08-23",
+   "titulo": "Radar 2026-08-23"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-22.md",
+   "data": "2026-08-22",
+   "titulo": "Radar 2026-08-22"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-21 -- rodada-gateways.md",
+   "data": "2026-08-21",
+   "titulo": "Radar 2026-08-21"
+  },
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-08-21 -- shortlist-replicaveis.md",
+   "data": "2026-08-21",
+   "titulo": "Shortlist de replicação — as 8 melhores de 57 mineradas"
+  }
+ ]
+}

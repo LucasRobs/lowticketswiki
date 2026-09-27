@@ -1,0 +1,119 @@
+{
+ "slug": "certifica-brasil",
+ "arquivo": "Ofertas/certifica-brasil.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "certifica-brasil",
+  "nome": "Certifica Brasil — prova online, certificado pago",
+  "nicho": "certificacao",
+  "sub_nicho": "taxa-para-liberar-certificado",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=certifica%20brasil&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 0,
+  "margem_est": 0.95,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "ebook"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 0,
+  "s_lucro": 8,
+  "s_replica": 5,
+  "s_saturacao": 4,
+  "status": "ativa",
+  "visto_primeiro": "2026-08-29",
+  "visto_ultimo": "2026-08-30",
+  "rodadas_vista": 2,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/certifica-brasil",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": true,
+  "ra_reclamacoes": 13,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-08-30",
+  "veredito": "observar",
+  "prioridade": 2,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "certificacao"
+  ]
+ },
+ "calc": {
+  "score": 4.9,
+  "decisao": "descartar",
+  "flags": [
+   "lucro-sem-medicao",
+   "score-provisorio",
+   "sem-longevidade",
+   "checkout-desconhecido",
+   "sem-lp"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Certifica Brasil — prova online, certificado pago\n\n**A unica coisa quente encontrada hoje.** Tres reclamacoes nos ultimos cinco dias (ha 2, ha 3, ha 5 dias) numa pagina de produtor que so tem 13 ativas no total. Todas nao respondidas.\n\n## Contador de velocidade\n\n| Numero | Valor |\n|---|---|\n| **N** — recebidas em 01/02-31/07 | 8 |\n| **M** — ativas hoje | 13 |\n| **M − N** | ~5 chegadas depois de 01/08 |\n\n8 em seis meses = **1,3/mes**. ~5 so em agosto = **~5/mes**. Aceleracao de **~3,8x** — o mesmo formato de sinal que a [[google-captcha-tw]] deu ontem (4,6x), pela mesma medicao de uma requisicao so.\n\nO reforco e a cadencia: as tres mais recentes sao de 2, 3 e 5 dias. Nenhum outro produtor minerado hoje tem reclamacao da ultima semana.\n\n**0% de resposta, 0 avaliadas.** Perfil de operacao que nao trata reembolso — o oposto da [[alfabetinho]] e igual ao da `joyce-roberts`. Nesta rotina isso e sinal positivo de `s_lucro`: quem esta escalando nao gasta atendimento.\n\n## A mecanica\n\nNao e curso com certificado. E **prova com certificado**: o comprador faz uma prova online e paga para receber o certificado digital — \"Fiz a prova, passei e nao recebi meu certificado. Fiz o pagamento para obter o certificado digital\". Outro cita carteirinha junto do certificado.\n\nIsso e mais enxuto que o padrao do [[angulo-taxa-do-certificado]]: **nao ha nem curso para entregar.** O custo marginal e um PDF gerado. Margem estimada 0,95.\n\n## O freio: `s_replica: 5`\n\nUma reclamacao de ha 2 dias pede **2a via de certificado de reservista** — documento militar emitido pela Uniao. Vender intermediacao de documento oficial e outra categoria de risco, nao e infoproduto. Some a isso \"propaganda enganosa\" como problema mais frequente (4 de 13) e emissao de certificado com valor declarado.\n\nPela regra do `Scoring.md` — nicho regulado tem teto — `s_replica: 5`. A mecanica e trivial de copiar tecnicamente; o que nao e replicavel com seguranca e a promessa de validade do documento. **Copiar a mecanica sem copiar a promessa** e o unico caminho: prova + certificado de conclusao proprio, sem alegar equivalencia oficial.\n\n## Estado dos dados\n\n- **Confirmado:** aceleracao (M−N), cadencia recente, mecanica, ausencia de atendimento.\n- **Faltando:** ticket, gateway, `dias_no_ar`, pagina de vendas.\n\n### 2026-08-30 — o fetch prometido foi feito e nao entregou\n\nO Painel de ontem fechou com uma ordem: *\"abrir o corpo da reclamacao de pagamento da\ncertifica-brasil (um fetch destrava ticket e gateway da unica oferta acelerando)\"*. Feito.\n**Nao destravou nada.**\n\n| Reclamacao | ID | Carimbo | O que tinha |\n|---|---|---|---|\n| `pagamento-efetuado-para-certificado-digital...` | **257284137** | 24/08/2026 21h37 | mecanica confirmada, **sem valor, sem gateway** |\n| `...2 via de certificado de reservista...` | **257512741** | 27/08/2026 09h07 | idem, e com marcador `[Editado pelo Reclame Aqui]` |\n\nO corpo diz *\"Fiz o pagamento para obter o certificado digital\"* e para ai. **O corpo de\nreclamacao cita valor quando o reclamante escolhe citar** — nao e um campo. Prever que \"um\nfetch destrava o ticket\" foi otimismo, e vale corrigir a expectativa: a taxa de captura de\nticket por corpo aberto, no acumulado do vault, e baixa.\n\n**Registro de IDs (regra de 27/08):** maior ID conhecido desta oferta e **257512741**. `M = 13`\ne `N = 8` continuam identicos aos de ontem — nenhuma reclamacao nova em 24h. Avistamento sim,\nincremento nao. `ra_reclamacoes` permanece 13.\n\n**A cadencia esta mais fria do que ontem sugeria.** O rotulo \"Ha 2 dias\" corresponde a 27/08 —\ntres dias, nao dois — e nada chegou desde entao. A aceleracao de ~3,8x medida por `M − N`\ncontinua valendo para agosto inteiro; a leitura de \"unico produtor com movimento na ultima\nsemana\" nao sobreviveu a rodada seguinte.\n\nPagina do produtor: https://www.reclameaqui.com.br/empresa/certifica-brasil/lista-reclamacoes/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-08-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 13,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira aparicao. Achada por busca de pagina de produtor por nicho (Etapa 3b, porta de fora): `/empresa/certifica-brasil/lista-reclamacoes/`. **M = 13 ativas, N = 8 na janela 01/02-31/07** → ~5 chegaram em agosto, ou seja 1,3/mes vira ~5/mes: **aceleracao de ~3,8x**. As tres mais recentes sao de ha 2, 3 e 5 dias — unico produtor minerado hoje com reclamacao da ultima semana. 0% respondida, 0 avaliadas. Mecanica: prova online e certificado digital pago, sem curso a entregar; um corpo pede 2a via de certificado de reservista, o que puxa `s_replica` para 5 pela regra de nicho regulado. Ticket nao capturado — `s_ticket: 0` e sentinela. Ancora do [[angulo-taxa-do-certificado]]."
+  },
+  {
+   "data": "2026-08-30",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 13,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "Avistamento sem incremento. `M = 13` e `N = 8` identicos aos de 29/08 — **nenhuma reclamacao nova em 24h**. Maior ID registrado: **257512741** (27/08 09h07). O corpo de pagamento (ID 257284137, 24/08 21h37) foi aberto conforme a ordem do Painel de ontem e **nao trouxe ticket nem gateway** — a previsao de que \"um fetch destrava\" estava errada. Rotulo \"Ha 2 dias\" corresponde a 27/08: tres dias."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "analise",
+   "arquivo": "Analises/2026-09-06 -- shortlist-danca.md",
+   "data": "2026-09-06",
+   "titulo": "Shortlist — ofertas de danca escaladas e faceis de replicar (so Biblioteca de Anuncios)"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-30.md",
+   "data": "2026-08-30",
+   "titulo": "Radar 2026-08-30"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-08-29.md",
+   "data": "2026-08-29",
+   "titulo": "Radar 2026-08-29"
+  }
+ ]
+}
