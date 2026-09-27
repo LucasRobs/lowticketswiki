@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-27
+
+0 mencao(oes) nesta varredura (gateway PerfectPay). App de espionagem. Variação de Stalkeia.ai (já vista em rodadas 06:11, 11:07). Padrão: acesso negado, reembolso não atendido.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/

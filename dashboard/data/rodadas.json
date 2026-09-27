@@ -5,17 +5,17 @@
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
    "titulo": "Radar 2026-09-27",
-   "ofertas_vistas": 5,
-   "novas": 1,
-   "retornaram": 0,
+   "ofertas_vistas": 9,
+   "novas": 3,
+   "retornaram": 1,
    "sumiram": 0,
    "fontes": [
     "cakto-pay",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
-   "corpo": "# Radar 2026-09-27\n\n## Novas\n\n- [[stalker-ai]] — espionagem-rastreamento — sem info — App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de…\n\n## Movimento\n\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-27 -- 0611]] - perfectpay, cakto-pay - 3 achado(s) - Padrão de 26/09 mantém-se. Lumi.ai confirmado como novo player em fricção de cancelamento com ticket alto.\n- [[2026-09-27 -- 1107]] - perfectpay, cakto-pay - 2 achado(s) - Stalker AI (provável variação de Stalkeia.ai) em página 1 PerfectPay. PAINEL ELITE novo, genérico. Padrão espionagem persiste.\n- [[2026-09-27 -- 2000]] - perfectpay, cakto-pay - 1 achado(s) - Rodada sem novidades. Lumi.ai confirmada. Padrão de fricção de cancelamento/reembolso mantém-se em ambos os gateways. Paginação técnica…\n"
+   "n_passadas": 5,
+   "corpo": "# Radar 2026-09-27\n\n## Novas\n\n- [[stalker-ai]] — espionagem-rastreamento — sem info — App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de…\n- [[postcloner]] — social-media-marketing — R$ 59,90 — Ferramenta de automação para redes sociais. Reclamação: reembolso solicitado dentro do prazo.\n- [[hub-boss-rateio-ia]] — ia-ferramentas — ~R$ 900 — Plataforma de ferramentas de IA para geração de vídeos, vendida em rateio. Padrão: contrato quebrado, reembolso solicitado.\n\n## Movimento\n\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n- [[knights-club]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[loopyz]] — educacao-online — reapareceu (0 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-27 -- 0611]] - perfectpay, cakto-pay - 3 achado(s) - Padrão de 26/09 mantém-se. Lumi.ai confirmado como novo player em fricção de cancelamento com ticket alto.\n- [[2026-09-27 -- 1107]] - perfectpay, cakto-pay - 2 achado(s) - Stalker AI (provável variação de Stalkeia.ai) em página 1 PerfectPay. PAINEL ELITE novo, genérico. Padrão espionagem persiste.\n- [[2026-09-27 -- 2000]] - perfectpay, cakto-pay - 1 achado(s) - Rodada sem novidades. Lumi.ai confirmada. Padrão de fricção de cancelamento/reembolso mantém-se em ambos os gateways. Paginação técnica…\n- [[2026-09-27 -- 2216]] - perfectpay, cakto-pay - 6 achado(s) - Confirmação de ofertas persistentes (Stalker AI, PAINEL ELITE). 4 novas ofertas identificadas em Cakto Pay (PostCloner, Loopyz, Knights…\n"
   },
   {
    "arquivo": "Radar/2026-09-26.md",
@@ -325,6 +325,26 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 2216.md",
+   "data": "2026-09-27",
+   "hora": "22:16",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 7,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "knights-club",
+    "loopyz",
+    "painel-elite",
+    "postcloner",
+    "stalker-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-27]].\n\n# Rodada — 27/09/2026 · 22:16 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay · **Páginas:** 7 · **Coleta:** parcial · **Achados:** 6\n\n## Confirmadas (sem escalação)\n\n- [[stalker-ai]] — PerfectPay · Persistente (vista em 11:07, 06:11)\n- [[painel-elite]] — PerfectPay · Persistente (vista em 11:07)\n\n## Novas\n\n- [[postcloner]] — Cakto · Automação SMM · R$ 59,90\n- [[loopyz]] — Cakto · Educação · Resolvida\n- [[knights-club]] — Cakto · Membership · Reembolso negado\n- [[hub-boss]] — Cakto · IA · ~R$ 900\n\nLeitura: Padrão estável de ofertas de cancelamento/reembolso. Nenhuma escalação nova. Stalker AI continua como oferta de volume. 4 novas ofertas de baixa temperatura.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 2000.md",
    "data": "2026-09-27",

@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 5
 s_replica: 4
 s_saturacao: 8
-status: morta
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-21
-rodadas_vista: 2
+visto_ultimo: 2026-09-27
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-09-27
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -96,3 +96,9 @@ de 5 para **10** (a rubrica dá 9-10 para qualquer valor com recorrência) e
 `tem_recorrencia` vira `true`. Score: 5,15 → 6,15.
 
 O que trava a nota continua sendo `s_replica: 4` — é software de live, não PDF.
+
+## Rodada 2026-09-27
+
+0 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação. Reclamação RESOLVIDA: reembolso foi efetuado conforme resposta da Cakto.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopyz-e-o-produtor-me-removeu-do-grupo_7xTu0t7hJOtnBwjw/

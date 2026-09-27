@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 155,
+  "ofertas": 157,
   "angulos": 25,
-  "observacoes": 299,
+  "observacoes": 303,
   "dias_radar": 20,
-  "passadas": 21,
+  "passadas": 22,
   "analises": 12,
   "ultima_rodada": "2026-09-27"
  },
@@ -5517,6 +5517,61 @@
    ]
   },
   {
+   "slug": "hub-boss-rateio-ia",
+   "nome": "Hub Boss (Rateio IA)",
+   "classe": "oferta",
+   "nicho": "ia-ferramentas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 900,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 900,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hub%20Boss&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Plataforma de ferramentas de IA para geração de vídeos, vendida em rateio. Padrão: contrato quebrado, reembolso solicitado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "ia-fx-promocional",
    "nome": "IA FX Promocional",
    "classe": "oferta",
@@ -6018,7 +6073,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -6045,27 +6100,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-09-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Knights%20Club&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 5,
    "resumo": "Comunidade com geradores de video por IA que pararam apos atualizacao do VO3; Cakto manda falar com o produtor, produtor nao resolve.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6295,7 +6349,7 @@
    "classe": "oferta",
    "nicho": "lives-interativas",
    "sub_nicho": "ferramenta-live-tiktok",
-   "status": "morta",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 2,
    "checkout": "cakto",
@@ -6324,21 +6378,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-08-21",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-08-16",
+   "ra_checado": "2026-09-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-08-21",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 4,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -7891,7 +7945,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-09-27",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
@@ -8394,6 +8448,61 @@
    "resumo": "R$ 97/mes (ancorado R$ 169) ou R$ 210 trimestral, Kiwify, cinco cursos em video integrados, download offline pelo app da Kiwify, garantia de 7 dias. 81 dias no ar, 3 criativos.",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "postcloner",
+   "nome": "PostCloner",
+   "classe": "oferta",
+   "nicho": "social-media-marketing",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 59.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 59.9,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PostCloner&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 2,
+   "resumo": "Ferramenta de automação para redes sociais. Reclamação: reembolso solicitado dentro do prazo.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -9228,7 +9337,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-09-27",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
    "flags": [
     "score-provisorio",
@@ -10016,16 +10125,16 @@
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
    "titulo": "Radar 2026-09-27",
-   "ofertas_vistas": 5,
-   "novas": 1,
-   "retornaram": 0,
+   "ofertas_vistas": 9,
+   "novas": 3,
+   "retornaram": 1,
    "sumiram": 0,
    "fontes": [
     "cakto-pay",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -10336,6 +10445,26 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 2216.md",
+   "data": "2026-09-27",
+   "hora": "22:16",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 7,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "knights-club",
+    "loopyz",
+    "painel-elite",
+    "postcloner",
+    "stalker-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 7 · Coleta: parcial · Achados: 6 ## Confirmadas (sem escalação) stalker-ai — PerfectPay · Persistente (vista em 11:07, 06:11) painel-elite — PerfectPay · Persistente (vista em 11:07) ## Novas…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 2000.md",
    "data": "2026-09-27",
@@ -10820,7 +10949,7 @@
     "angulo": 1
    },
    "2026-09-27": {
-    "oferta": 1,
+    "oferta": 3,
     "angulo": 0
    }
   },
@@ -10843,7 +10972,7 @@
    "2026-09-24": 27,
    "2026-09-25": 25,
    "2026-09-26": 15,
-   "2026-09-27": 5
+   "2026-09-27": 9
   }
  },
  "analises": [
@@ -11030,49 +11159,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 155
+    "total": 157
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 155
+    "total": 157
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 155
+    "total": 157
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 126,
-    "total": 155
+    "preenchidas": 128,
+    "total": 157
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 108,
-    "total": 155
+    "preenchidas": 110,
+    "total": 157
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 155
+    "total": 157
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 155
+    "total": 157
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 99,
-    "total": 155
+    "preenchidas": 101,
+    "total": 157
    }
   ],
   "fila_enriquecimento": [
@@ -11142,7 +11271,6 @@
    "instaunlocked",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
-   "knights-club",
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
@@ -11173,7 +11301,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 479
+   "canonico": 485
   }
  },
  "vocabulario": {
@@ -11220,15 +11348,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "03d2c991b6d23ef9",
-  "atualizado_em": "2026-09-27T13:17:59-03:00",
-  "ofertas": 155,
+  "hash": "bf80fec725b3a6e9",
+  "atualizado_em": "2026-09-27T17:17:48-03:00",
+  "ofertas": 157,
   "angulos": 25,
-  "observacoes": 299,
+  "observacoes": 303,
   "ultima_rodada": "2026-09-27",
   "ultima_passada": {
    "data": "2026-09-27",
-   "hora": "20:00",
+   "hora": "22:16",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

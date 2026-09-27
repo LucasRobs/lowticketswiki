@@ -1,0 +1,100 @@
+{
+  "data_varredura": "2026-09-27",
+  "hora_fortaleza": "22:16",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 6, "status": "parcial (páginas 2+ vazias)"},
+    {"nome": "Cakto Pay", "slug": "cakto-pay", "paginas_varridas": 1, "status": "ok"}
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes_em_22h": 1,
+      "status_em_rodada": "confirmada",
+      "faixa_preco": "sem valor informado",
+      "termo_busca": "Stalker AI",
+      "descricao": "App de espionagem. Variação de Stalkeia.ai (já vista em rodadas 06:11, 11:07). Padrão: acesso negado, reembolso não atendido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/"
+    },
+    {
+      "produto": "PAINEL ELITE",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "gestao-negocio",
+      "temperatura": "morna",
+      "mencoes_em_22h": 1,
+      "status_em_rodada": "confirmada",
+      "faixa_preco": "sem valor informado",
+      "termo_busca": "PAINEL ELITE",
+      "descricao": "Painel de gestão. Já vista em rodada 11:07. Padrão: reembolso não processado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/"
+    },
+    {
+      "produto": "PostCloner",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "social-media-marketing",
+      "temperatura": "fria",
+      "mencoes_em_22h": 1,
+      "status_em_rodada": "nova",
+      "faixa_preco": "R$ 59,90",
+      "termo_busca": "PostCloner",
+      "descricao": "Ferramenta de automação para redes sociais. Reclamação: reembolso solicitado dentro do prazo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicito-reembolso-do-meu-pedido-postcloner-no-valor-de-r-5990_ouBeMGVURX7lnJfi/",
+      "data_compra": "2026-09-23"
+    },
+    {
+      "produto": "Loopyz",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "educacao-online",
+      "temperatura": "fria",
+      "mencoes_em_22h": 1,
+      "status_em_rodada": "nova",
+      "faixa_preco": "sem valor informado",
+      "termo_busca": "Loopyz",
+      "descricao": "Plataforma de educação. Reclamação RESOLVIDA: reembolso foi efetuado conforme resposta da Cakto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopyz-e-o-produtor-me-removeu-do-grupo_7xTu0t7hJOtnBwjw/",
+      "data_compra": "2026-09-25"
+    },
+    {
+      "produto": "Knights Club",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "comunidade-membership",
+      "temperatura": "fria",
+      "mencoes_em_22h": 1,
+      "status_em_rodada": "nova",
+      "faixa_preco": "sem valor informado",
+      "termo_busca": "Knights Club",
+      "descricao": "Assinatura de comunidade/membership. Padrão: reembolso negado apesar de estar dentro do prazo de 7 dias.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/pedi-reembolso-da-assinatura-knights-club-antes-dos-7-dias-e-negaram_SwsU-y5vchwkhKww/",
+      "data_compra": "2026-09-25"
+    },
+    {
+      "produto": "Hub Boss (Rateio IA)",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "ia-ferramentas",
+      "temperatura": "fria",
+      "mencoes_em_22h": 1,
+      "status_em_rodada": "nova",
+      "faixa_preco": "~R$ 900",
+      "termo_busca": "Hub Boss",
+      "descricao": "Plataforma de ferramentas de IA para geração de vídeos, vendida em rateio. Padrão: contrato quebrado, reembolso solicitado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-o-cancelamento-e-reembolso-da-plataforma-de-ia-que-quebrou-o-contrato_VJ6aR0XmyKA8HRzY/",
+      "data_compra": "2026-09-25"
+    }
+  ],
+  "passada": {
+    "hora": "22:16",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 7,
+    "coleta": "parcial",
+    "relatorio": "## Confirmadas (sem escalação)\n\n- [[stalker-ai]] — PerfectPay · Persistente (vista em 11:07, 06:11)\n- [[painel-elite]] — PerfectPay · Persistente (vista em 11:07)\n\n## Novas\n\n- [[postcloner]] — Cakto · Automação SMM · R$ 59,90\n- [[loopyz]] — Cakto · Educação · Resolvida\n- [[knights-club]] — Cakto · Membership · Reembolso negado\n- [[hub-boss]] — Cakto · IA · ~R$ 900\n\nLeitura: Padrão estável de ofertas de cancelamento/reembolso. Nenhuma escalação nova. Stalker AI continua como oferta de volume. 4 novas ofertas de baixa temperatura.",
+    "resumo": "Confirmação de ofertas persistentes (Stalker AI, PAINEL ELITE). 4 novas ofertas identificadas em Cakto Pay (PostCloner, Loopyz, Knights Club, Hub Boss). Padrão: fricção de cancelamento/reembolso. Nenhuma escalação em relação às 17h."
+  }
+}
