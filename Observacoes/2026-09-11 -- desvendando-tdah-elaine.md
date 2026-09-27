@@ -1,8 +1,8 @@
 ---
 tipo: observacao
-data: '2026-09-11'
+data: 2026-09-11
 slug: desvendando-tdah-elaine
-oferta: '[[desvendando-tdah-elaine]]'
+oferta: "[[desvendando-tdah-elaine]]"
 criativos_ativos: 0
 dias_no_ar: 0
 ticket_frente: 19.9

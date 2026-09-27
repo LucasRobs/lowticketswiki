@@ -2,28 +2,23 @@
 tipo: oferta
 classe: oferta
 slug: tea-sem-crise
-nome: TEA Sem Crise — Dr. Fábio Coelho
+nome: "TEA Sem Crise — Dr. Fábio Coelho"
 nicho: comportamento-infantil
 sub_nicho: tea-autismo
 idioma: pt-BR
 pais: BR
-plataforma_ads:
-- meta
+plataforma_ads: [meta]
 checkout: hotmart
-url_pagina: https://teasemcrise.com.br/
-url_ads: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TEA%20Sem%20Crise&search_type=keyword_unordered&media_type=all
+url_pagina: "https://teasemcrise.com.br/"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TEA%20Sem%20Crise&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 71
 ticket_bump: 0
 ticket_upsell: 397
 ticket_medio_est: 90
 margem_est: 0.6
-modelo:
-- direct
-formato_entrega:
-- fisico
-- curso
-- area-membros
+modelo: [direct]
+formato_entrega: [fisico, curso, area-membros]
 tem_recorrencia: false
 s_ticket: 7
 s_lucro: 6
@@ -31,29 +26,23 @@ s_replica: 3
 s_saturacao: 7
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: '2026-09-11'
+visto_ultimo: 2026-09-11
 rodadas_vista: 2
 dias_no_ar: 30
 criativos_ultima: 3
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta: Ativos/tea-sem-crise
-gateways_detectados:
-- hotmart
+ativos_pasta: "Ativos/tea-sem-crise"
+gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: true
 ra_reclamacoes: 1
-ra_plataformas:
-- hotmart
-ra_primeira_reclamacao: 2026-08-06
+ra_plataformas: [hotmart]
+ra_primeira_reclamacao: "2026-08-06"
 ra_checado: 2026-08-21
 veredito: observar
 prioridade: 1
-tags:
-- oferta
-- lowticket
-- marca
-- comportamento-infantil
+tags: [oferta, lowticket, marca, comportamento-infantil]
 ---
 
 # TEA Sem Crise

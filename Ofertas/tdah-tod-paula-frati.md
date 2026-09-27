@@ -1,56 +1,48 @@
 ---
 tipo: oferta
+classe: oferta
 slug: tdah-tod-paula-frati
-nome: TDAH e TOD — Paula Frati
+nome: "TDAH e TOD — Paula Frati"
 nicho: comportamento-infantil
 sub_nicho: tdah-parentalidade-comportamento
 idioma: pt-BR
 pais: BR
-plataforma_ads:
-- meta
+plataforma_ads: [meta]
 checkout: eduzz
-url_pagina: https://www.paulafrati.com.br/inscricao-ebook2
-url_ads: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Paula%20Frati&search_type=keyword_unordered
+url_pagina: "https://www.paulafrati.com.br/inscricao-ebook2"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Paula%20Frati&search_type=keyword_unordered"
 moeda: BRL
 ticket_frente: 19.9
 ticket_bump: 0
 ticket_upsell: 0
 ticket_medio_est: 19.9
 margem_est: 0
-modelo:
-- direct
-formato_entrega:
-- ebook
+modelo: [direct]
+formato_entrega: [ebook]
 tem_recorrencia: false
 s_ticket: 1
 s_lucro: 7
 s_replica: 4
 s_saturacao: 0
 status: nova
-visto_primeiro: '2026-09-11'
-visto_ultimo: '2026-09-11'
+visto_primeiro: 2026-09-11
+visto_ultimo: 2026-09-11
 rodadas_vista: 1
 dias_no_ar: 105
 criativos_ultima: 0
 criativos_delta: 0
-veredito: observar
-prioridade: 0
-tags:
-- oferta
-- lowticket
-- parentalidade
-- scan-2026-09-11
-classe: oferta
 unfunnelizer_capturado: false
-ativos_pasta: Ativos/tdah-tod-paula-frati
-gateways_detectados:
-- eduzz
+ativos_pasta: "Ativos/tdah-tod-paula-frati"
+gateways_detectados: [eduzz]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 0
 ra_plataformas: []
-ra_primeira_reclamacao: null
-ra_checado: null
+ra_primeira_reclamacao: 
+ra_checado: 
+veredito: observar
+prioridade: 0
+tags: [oferta, lowticket, parentalidade, scan-2026-09-11]
 ---
 
 # TDAH e TOD — Paula Frati

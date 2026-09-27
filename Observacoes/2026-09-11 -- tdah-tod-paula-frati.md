@@ -1,8 +1,8 @@
 ---
 tipo: observacao
-data: '2026-09-11'
+data: 2026-09-11
 slug: tdah-tod-paula-frati
-oferta: '[[tdah-tod-paula-frati]]'
+oferta: "[[tdah-tod-paula-frati]]"
 criativos_ativos: 0
 dias_no_ar: 105
 ticket_frente: 19.9

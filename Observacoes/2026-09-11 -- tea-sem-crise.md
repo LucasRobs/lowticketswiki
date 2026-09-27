@@ -1,8 +1,8 @@
 ---
 tipo: observacao
-data: '2026-09-11'
+data: 2026-09-11
 slug: tea-sem-crise
-oferta: '[[tea-sem-crise]]'
+oferta: "[[tea-sem-crise]]"
 criativos_ativos: 3
 dias_no_ar: 30
 ticket_frente: 71

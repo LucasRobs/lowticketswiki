@@ -1,8 +1,8 @@
 ---
 tipo: observacao
-data: '2026-09-11'
+data: 2026-09-11
 slug: autismo-para-pais-lacerda
-oferta: '[[autismo-para-pais-lacerda]]'
+oferta: "[[autismo-para-pais-lacerda]]"
 criativos_ativos: 0
 dias_no_ar: 0
 ticket_frente: 97

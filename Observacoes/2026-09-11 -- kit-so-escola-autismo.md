@@ -1,8 +1,8 @@
 ---
 tipo: observacao
-data: '2026-09-11'
+data: 2026-09-11
 slug: kit-so-escola-autismo
-oferta: '[[kit-so-escola-autismo]]'
+oferta: "[[kit-so-escola-autismo]]"
 criativos_ativos: 0
 dias_no_ar: 0
 ticket_frente: 37

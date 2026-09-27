@@ -1,8 +1,8 @@
 ---
 tipo: observacao
-data: '2026-09-11'
+data: 2026-09-11
 slug: parentalidade-atipica-sarah-hayden
-oferta: '[[parentalidade-atipica-sarah-hayden]]'
+oferta: "[[parentalidade-atipica-sarah-hayden]]"
 criativos_ativos: 0
 dias_no_ar: 0
 ticket_frente: 79
