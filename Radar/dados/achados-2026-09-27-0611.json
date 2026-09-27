@@ -1,0 +1,53 @@
+{
+  "data_varredura": "2026-09-27",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 287224, "paginas_varridas": 10},
+    {"nome": "Cakto Pay", "slug": "cakto-pay", "reclamacoes_ativas": "nd", "paginas_varridas": 6}
+  ],
+  "achados": [
+    {
+      "produto": "Lumi.ai",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "educacao-cursos",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 1.189+",
+      "termo_busca": "Lumi",
+      "descricao": "Plataforma de cursos online. Cobrança indevida após cancelamento dentro do prazo legal de arrependimento. Ticket alto (R$ 1.189,57 confirmado). Padrão: fricção de cancelamento - novo ator confirmado em 27/09.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/"
+    },
+    {
+      "produto": "MS GREEN PREMIUM",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "beleza-cuidados",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "sem info",
+      "termo_busca": "MS GREEN",
+      "descricao": "Produto de cosmética/capilar. Propaganda enganosa. Persistente de 26/09 - mesma data de avistamento anterior.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "saas-ferramentas",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97",
+      "termo_busca": "ZAP Radar",
+      "descricao": "Ferramenta de análise/prospecção (SaaS). Cobrança sem acesso aos resultados. Persistente de 26/09.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/"
+    }
+  ],
+  "passada": {
+    "hora": "06:11",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 16,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n\n**Lumi.ai** — Cakto Pay · Novo membro confirmado do cluster 'fricção de cancelamento'. Ticket alto (R$ 1.189+), cobrança após prazo legal de arrependimento.\n\n## Mornas\n\n**MS GREEN PREMIUM** — PerfectPay · Persistente de 26/09, propaganda enganosa.\n\n**ZAP Radar** — PerfectPay · Persistente de 26/09, cobrança sem acesso.\n\nLeitura: Consolidação do padrão anterior. Lumi.ai é o novo ator relevante no cluster de fricção de cancelamento que já inclui Luna IA, Trendy IA e Stalkeia.ai.",
+    "resumo": "Padrão de 26/09 mantém-se. Lumi.ai confirmado como novo player em fricção de cancelamento com ticket alto."
+  }
+}

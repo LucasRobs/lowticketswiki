@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-26
-rodadas_vista: 5
+visto_ultimo: 2026-09-27
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-09-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: [[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao antiga (20/08), relida nas passadas 06h00 e 17h00. Nenhuma reclamacao nova de Lumi.ai nesta semana.
 
 Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-27
+
+1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de cursos online. Cobrança indevida após cancelamento dentro do prazo legal de arrependimento. Ticket alto (R$ 1.189,57 confirmado). Padrão: fricção de cancelamento - novo ator confirmado em 27/09.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/

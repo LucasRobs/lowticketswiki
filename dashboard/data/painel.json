@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 154,
   "angulos": 25,
-  "observacoes": 294,
-  "dias_radar": 19,
-  "passadas": 18,
+  "observacoes": 297,
+  "dias_radar": 20,
+  "passadas": 19,
   "analises": 12,
   "ultima_rodada": "2026-09-27"
  },
@@ -6598,21 +6598,21 @@
    "score": 3.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-09-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lumi%20ai&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 14,
+   "n_obs": 6,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 15,
    "resumo": "Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.",
    "flags": [
     "score-provisorio",
@@ -7545,21 +7545,21 @@
    "score": 2.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-09-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 11,
+   "n_obs": 6,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 12,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -9933,21 +9933,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-09-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 7,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 12,
+   "n_obs": 8,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 13,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -9955,6 +9955,22 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-09-27.md",
+   "data": "2026-09-27",
+   "titulo": "Radar 2026-09-27",
+   "ofertas_vistas": 3,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto-pay",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 2,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-09-26.md",
    "data": "2026-09-26",
@@ -10263,6 +10279,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 0611.md",
+   "data": "2026-09-27",
+   "hora": "06:11",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 16 · Coleta: parcial · Achados: 3 ## Quentes Lumi.ai — Cakto Pay · Novo membro confirmado do cluster 'fricção de cancelamento'. Ticket alto (R$ 1.189+), cobrança após prazo legal de…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0533.md",
    "data": "2026-09-27",
@@ -10721,7 +10751,8 @@
    "2026-09-23": 11,
    "2026-09-24": 27,
    "2026-09-25": 25,
-   "2026-09-26": 15
+   "2026-09-26": 15,
+   "2026-09-27": 3
   }
  },
  "analises": [
@@ -11039,7 +11070,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 473
+   "canonico": 476
   }
  },
  "vocabulario": {
@@ -11086,19 +11117,19 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "9f4928a80839487e",
-  "atualizado_em": "2026-09-27T05:33:44-03:00",
+  "hash": "91f59de88b461a4a",
+  "atualizado_em": "2026-09-27T06:12:38-03:00",
   "ofertas": 154,
   "angulos": 25,
-  "observacoes": 294,
+  "observacoes": 297,
   "ultima_rodada": "2026-09-27",
   "ultima_passada": {
    "data": "2026-09-27",
-   "hora": "05:33",
+   "hora": "06:11",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto"
+    "cakto-pay"
    ]
   }
  }

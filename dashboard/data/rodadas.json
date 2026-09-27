@@ -2,6 +2,22 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-09-27.md",
+   "data": "2026-09-27",
+   "titulo": "Radar 2026-09-27",
+   "ofertas_vistas": 3,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto-pay",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-09-27\n\n## Novas\n\n## Movimento\n\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-27 -- 0611]] - perfectpay, cakto-pay - 3 achado(s) - Padrão de 26/09 mantém-se. Lumi.ai confirmado como novo player em fricção de cancelamento com ticket alto.\n"
+  },
+  {
    "arquivo": "Radar/2026-09-26.md",
    "data": "2026-09-26",
    "titulo": "Radar 2026-09-26",
@@ -309,6 +325,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 0611.md",
+   "data": "2026-09-27",
+   "hora": "06:11",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-27]].\n\n# Rodada — 27/09/2026 · 06:11 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay · **Páginas:** 16 · **Coleta:** parcial · **Achados:** 3\n\n## Quentes\n\n**Lumi.ai** — Cakto Pay · Novo membro confirmado do cluster 'fricção de cancelamento'. Ticket alto (R$ 1.189+), cobrança após prazo legal de arrependimento.\n\n## Mornas\n\n**MS GREEN PREMIUM** — PerfectPay · Persistente de 26/09, propaganda enganosa.\n\n**ZAP Radar** — PerfectPay · Persistente de 26/09, cobrança sem acesso.\n\nLeitura: Consolidação do padrão anterior. Lumi.ai é o novo ator relevante no cluster de fricção de cancelamento que já inclui Luna IA, Trendy IA e Stalkeia.ai.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0533.md",
    "data": "2026-09-27",
