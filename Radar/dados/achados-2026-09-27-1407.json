@@ -1,0 +1,41 @@
+{
+  "data_varredura": "2026-09-27",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 287224, "paginas_varridas": 10},
+    {"nome": "Cakto Pay", "slug": "cakto-pay", "reclamacoes_ativas": "nd", "paginas_varridas": 2}
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "sem info",
+      "termo_busca": "Stalker AI",
+      "descricao": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/"
+    },
+    {
+      "produto": "PAINEL ELITE",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "saas-ferramentas",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "sem info",
+      "termo_busca": "Painel Elite",
+      "descricao": "Produto digital genérico. Solicitação de reembolso não atendida. Novo achado, tipo SAAS/painel sem contexto claro. Acompanhar em próximas rodadas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/"
+    }
+  ],
+  "passada": {
+    "hora": "11:07",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 12,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n\n**Stalker AI** — PerfectPay · Possível grafia alternativa de Stalkeia.ai (cluster espionagem). Propaganda enganosa, entrega genérica. Aparece em página 1 (alta recência).\n\n## Mornas\n\n**PAINEL ELITE** — PerfectPay · Novo achado genérico, tipo SAAS/painel. Sem dados de valor/data. Acompanhar.\n\nLeitura: Coleta parcial (páginas 2-8 de PerfectPay vazias). Stalker AI confirma padrão espionagem como quente. PAINEL ELITE novo mas pouco contexto. Cakto Pay sem novidades na amostra.",
+    "resumo": "Stalker AI (provável variação de Stalkeia.ai) em página 1 PerfectPay. PAINEL ELITE novo, genérico. Padrão espionagem persiste."
+  }
+}

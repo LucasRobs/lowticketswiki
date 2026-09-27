@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 154,
+  "ofertas": 155,
   "angulos": 25,
-  "observacoes": 297,
+  "observacoes": 299,
   "dias_radar": 20,
-  "passadas": 19,
+  "passadas": 20,
   "analises": 12,
   "ultima_rodada": "2026-09-27"
  },
@@ -7849,7 +7849,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -7876,27 +7876,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-09-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 4,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9180,6 +9179,63 @@
    ]
   },
   {
+   "slug": "stalker-ai",
+   "nome": "Stalker AI",
+   "classe": "oferta",
+   "nicho": "espionagem-rastreamento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "tdah-guia-pais-renata",
    "nome": "TDAH — Um Guia para Pais — Renata Oenning Allan",
    "classe": "oferta",
@@ -9959,8 +10015,8 @@
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
    "titulo": "Radar 2026-09-27",
-   "ofertas_vistas": 3,
-   "novas": 0,
+   "ofertas_vistas": 5,
+   "novas": 1,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -9968,7 +10024,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -10279,6 +10335,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 1107.md",
+   "data": "2026-09-27",
+   "hora": "11:07",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 12 · Coleta: parcial · Achados: 2 ## Quentes Stalker AI — PerfectPay · Possível grafia alternativa de Stalkeia.ai (cluster espionagem). Propaganda enganosa, entrega genérica. Aparece em página 1…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0611.md",
    "data": "2026-09-27",
@@ -10731,6 +10801,10 @@
    "2026-09-26": {
     "oferta": 6,
     "angulo": 1
+   },
+   "2026-09-27": {
+    "oferta": 1,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -10752,7 +10826,7 @@
    "2026-09-24": 27,
    "2026-09-25": 25,
    "2026-09-26": 15,
-   "2026-09-27": 3
+   "2026-09-27": 5
   }
  },
  "analises": [
@@ -10926,49 +11000,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 154
+    "total": 155
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 154
+    "total": 155
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 154
+    "total": 155
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 125,
-    "total": 154
+    "preenchidas": 126,
+    "total": 155
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 108,
-    "total": 154
+    "total": 155
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 154
+    "total": 155
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 154
+    "total": 155
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 98,
-    "total": 154
+    "preenchidas": 99,
+    "total": 155
    }
   ],
   "fila_enriquecimento": [
@@ -11055,7 +11129,6 @@
    "mundo-criativo-caligrafia",
    "o-curso-do-mago",
    "pack-produtos-validados-sistema-billion",
-   "painel-elite",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "play-videos-premiados",
@@ -11070,7 +11143,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 476
+   "canonico": 479
   }
  },
  "vocabulario": {
@@ -11117,15 +11190,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "91f59de88b461a4a",
-  "atualizado_em": "2026-09-27T06:12:38-03:00",
-  "ofertas": 154,
+  "hash": "335ef41503c5d89f",
+  "atualizado_em": "2026-09-27T11:08:25-03:00",
+  "ofertas": 155,
   "angulos": 25,
-  "observacoes": 297,
+  "observacoes": 299,
   "ultima_rodada": "2026-09-27",
   "ultima_passada": {
    "data": "2026-09-27",
-   "hora": "06:11",
+   "hora": "11:07",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

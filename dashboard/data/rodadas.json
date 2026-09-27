@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
    "titulo": "Radar 2026-09-27",
-   "ofertas_vistas": 3,
-   "novas": 0,
+   "ofertas_vistas": 5,
+   "novas": 1,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -14,8 +14,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
-   "corpo": "# Radar 2026-09-27\n\n## Novas\n\n## Movimento\n\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-27 -- 0611]] - perfectpay, cakto-pay - 3 achado(s) - Padrão de 26/09 mantém-se. Lumi.ai confirmado como novo player em fricção de cancelamento com ticket alto.\n"
+   "n_passadas": 3,
+   "corpo": "# Radar 2026-09-27\n\n## Novas\n\n- [[stalker-ai]] — espionagem-rastreamento — sem info — App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de…\n\n## Movimento\n\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-27 -- 0611]] - perfectpay, cakto-pay - 3 achado(s) - Padrão de 26/09 mantém-se. Lumi.ai confirmado como novo player em fricção de cancelamento com ticket alto.\n- [[2026-09-27 -- 1107]] - perfectpay, cakto-pay - 2 achado(s) - Stalker AI (provável variação de Stalkeia.ai) em página 1 PerfectPay. PAINEL ELITE novo, genérico. Padrão espionagem persiste.\n"
   },
   {
    "arquivo": "Radar/2026-09-26.md",
@@ -325,6 +325,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 1107.md",
+   "data": "2026-09-27",
+   "hora": "11:07",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-27]].\n\n# Rodada — 27/09/2026 · 11:07 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay · **Páginas:** 12 · **Coleta:** parcial · **Achados:** 2\n\n## Quentes\n\n**Stalker AI** — PerfectPay · Possível grafia alternativa de Stalkeia.ai (cluster espionagem). Propaganda enganosa, entrega genérica. Aparece em página 1 (alta recência).\n\n## Mornas\n\n**PAINEL ELITE** — PerfectPay · Novo achado genérico, tipo SAAS/painel. Sem dados de valor/data. Acompanhar.\n\nLeitura: Coleta parcial (páginas 2-8 de PerfectPay vazias). Stalker AI confirma padrão espionagem como quente. PAINEL ELITE novo mas pouco contexto. Cakto Pay sem novidades na amostra.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0611.md",
    "data": "2026-09-27",
