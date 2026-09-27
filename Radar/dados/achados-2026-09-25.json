@@ -1,0 +1,313 @@
+{
+ "data_varredura": "2026-09-25",
+ "gateways": [
+  {
+   "nome": "PerfectPay"
+  },
+  {
+   "nome": "Cakto"
+  }
+ ],
+ "achados": [
+  {
+   "produto": "Stalkeia.ai",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 37-67,90",
+   "termo_busca": "Stalkeia",
+   "descricao": "Detalhe novo: cobrancas sucessivas na mesma compra - R$ 47, R$ 37,90, R$ 67,90 - cada funcao nova cobra taxa extra.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Video Aulas Jantar - Chef Luana",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "gastronomia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "Chef Luana",
+   "descricao": "Anuncia app com videos por R$ 97, entrega e-books e cobra R$ 27 para liberar os videos.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "MENTORIA NOVA PROFISSAO (MNP)",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "mentorias",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 350,46",
+   "termo_busca": "Mentoria Nova Profissao",
+   "descricao": "Suporte inexistente apos a compra (e-mail invalido). Mesma reclamacao de 22/09.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Trendy IA",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Trendy IA",
+   "descricao": "Trial de 1 mes vira cobranca automatica; produtor sem suporte.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "MS GREEN PREMIUM",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "MS Green",
+   "descricao": "Aparece com a variacao 'Master Betano 1.0' (previsoes de aposta) - pode ser mais de um produto sob o mesmo vendedor.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Cash no Pix",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "renda-celular-cashback",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Cash no Pix",
+   "descricao": "Cobra Pix para liberar saque.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "InstaUnlocked",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "InstaUnlocked",
+   "descricao": "Ferramenta de Instagram que nao entrega; cobra pagamento adicional para liberar funcoes (bump oculto). Cliente conseguiu reembolso via reclamacao. Ja citada na passada de 22/09 18h30, sem nota.",
+   "evidencia_url": "[[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "MDR Despertar 2.0",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "desenvolvimento-pessoal",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 397,99",
+   "termo_busca": "MDR Despertar",
+   "descricao": "Curso/mentoria de R$ 397,99; entrega nao corresponde ao anunciado.",
+   "evidencia_url": "[[2026-09-25 -- 1017]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "900 Mapas Mentais",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "material-pedagogico",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 10,99",
+   "termo_busca": "900 mapas mentais",
+   "descricao": "R$ 10,99. Anuncia material impresso, entrega PDF. Mesmo formato do 'Mapa da Fluencia' da rodada de 13/09.",
+   "evidencia_url": "[[2026-09-25 -- 1017]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Curso Comunidade Fornecedores NFC",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "fornecedores NFC",
+   "descricao": "'Curso + Comunidade + Fornecedores NFC': acesso a comunidade + lista de fornecedores; entrega menor que o anunciado.",
+   "evidencia_url": "[[2026-09-25 -- 1017]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Artesanato, moldes e PDF criativo",
+   "tipo": "angulo",
+   "gateway": "Cakto",
+   "nicho": "artesanato",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "receita de croche",
+   "descricao": "Receita/apostila de croche (vendedora Amigurumii.Brasil, via Instagram) nao entregue. Segunda mencao de croche na semana; ja era o cluster quente da rodada de 13/09.",
+   "evidencia_url": "[[2026-09-25 -- 1017]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "AppLuna.net",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 2,
+   "faixa_preco": "R$ 697-1298",
+   "termo_busca": "AppLuna",
+   "descricao": "ARISTOCRACY NEGOCIOS DIGITAIS. Planos Premium / Lifetime / Spicy de R$ 697 a R$ 1.298. Cliente paga 'vitalicio', plataforma bloqueia o acesso e zera creditos; suporte mudo. Possivel mesma familia de [[luna-ia]].",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Lumi.ai",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ferramentas-de-pagamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 1189,57",
+   "termo_busca": "Lumi",
+   "descricao": "Mesma reclamacao: cancelou em 29/05 dentro do prazo, cobrancas ate 20/08, resolvido por chargeback.",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Um Puxa O Outro",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Um Puxa O Outro",
+   "descricao": "Comunidade online que anuncia 1.200+ membros e entrega grupo quase vazio; reembolso pedido em 30 min sem resposta em 3 dias.",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Assinatura com cancelamento bloqueado",
+   "tipo": "angulo",
+   "gateway": "Cakto",
+   "nicho": "mecanica-de-checkout",
+   "temperatura": "",
+   "mencoes": 2,
+   "faixa_preco": "",
+   "termo_busca": "",
+   "descricao": "Padrao sem dono unico: assinatura digital (R$ 10-100/mes) sem botao de cancelar, cancelamento so por e-mail que ninguem le, cobranca continua. Visto 13h00 ('assinatura sem nome', reclamacao de 14/08) e 17h00 ('Dashboard Assinatura', 22/08). Mesma mecanica de [[lumi-ai]], [[livego-pro]], [[trendy-ia]].",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "IA FX Promocional",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "trading-automatizado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "IA FX",
+   "descricao": "Robo de trading a R$ 97; promete resultado, gera perda; e-mail de suporte ficticio impede reembolso no prazo.",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Pack Produtos Validados Sistema Billion",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Sistema Billion",
+   "descricao": "'Pack de Produtos Validados + Sistema Billion' - Felipe Braz (Grupokrivo). Botao de reembolso nao funciona; produtor inacessivel.",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "e-Workflow Adeus CLT",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Adeus CLT",
+   "descricao": "Curso entregue e depois bloqueado sem aviso; suporte nao responde.",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Modao Raiz",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Modao Raiz",
+   "descricao": "Moda/vestuario fisico: pagou e nao recebeu. Fora do perfil infoproduto.",
+   "evidencia_url": "[[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "RB_OPERACOES",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 49,90",
+   "termo_busca": "RB OPERACOES",
+   "descricao": "R$ 49,90. Pedido de cancelamento dentro dos 7 dias sem resposta (reclamacao de 25/08). Nicho nao informado.",
+   "evidencia_url": "[[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Treino de Calistenia",
+   "tipo": "angulo",
+   "gateway": "Cakto",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "treino de calistenia",
+   "descricao": "Treino vendido pelo Instagram; pagou e nunca recebeu acesso; e-mail sem resposta (11/08). Sem nome comercial.",
+   "evidencia_url": "[[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "ZAP Radar",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "ZAP Radar",
+   "descricao": "'Nao da opcoes para ver o resultado das buscas' - reembolso concedido (reclamacao de 10/08).",
+   "evidencia_url": "[[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Glow Mode",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "marketing-digital",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Glow Mode",
+   "descricao": "Plataforma; reembolso resolvido com nota 10 (12/08). Sinal fraco.",
+   "evidencia_url": "[[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "RPR Recomendacoes Personalizadas Remotas",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 297,99",
+   "termo_busca": "RPR",
+   "descricao": "R$ 297,99. Reembolso travado porque o produtor sacou todo o saldo e a conta ficou negativa (jul/2026).",
+   "evidencia_url": "[[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Mentoria Caio Martins",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "mentorias",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 3000",
+   "termo_busca": "Caio Martins",
+   "descricao": "Reembolso dentro do prazo nao processado (reclamacoes de 04-10/08).",
+   "evidencia_url": "[[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  }
+ ]
+}

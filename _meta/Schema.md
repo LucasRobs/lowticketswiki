@@ -249,3 +249,27 @@ pagina. Sete bumps que a LP nao menciona.
 **Procedimento barato, para a Etapa 2 quando o unFunnelizer estiver fora:** extrair o href do
 botao de compra da LP, abrir o checkout no navegador interno e ler o texto. Order bump aparece
 ali; upsell e downsell nao (sao pos-pagamento). Cobre metade da Etapa 2 com uma requisicao.
+
+---
+
+## Adendo — `tipo: rodada`, uma nota por passada (2026-09-27)
+
+A tarefa agendada roda 6x/dia, mas `Radar/YYYY-MM-DD.md` é uma nota por **dia**. Para não perder o
+que cada passada viu (e quando a coleta falhou), cada uma ganha nota própria em
+`Radar/rodadas/YYYY-MM-DD -- HHMM.md`:
+
+```yaml
+tipo: rodada
+data: 2026-09-24          # dia da nota Radar/ que consolida esta passada
+hora: "17:00"
+gateways: [kiwify, hotmart]
+paginas: 22               # paginas de listagem pedidas
+coleta: ok                # ok | parcial | sem-coleta
+radar: "[[2026-09-24]]"
+origem: ""                # de onde veio o texto, se nao foi escrito direto aqui
+```
+
+`tipo: rodada` nao aparece na Radar-Log.base (que filtra `tipo == "radar"`), entao nao distorce a
+contagem de rodadas. A passada com `coleta: sem-coleta` **nao** roda o `sync_vault.py` — so deixa a
+nota, para o buraco ficar visivel.
+

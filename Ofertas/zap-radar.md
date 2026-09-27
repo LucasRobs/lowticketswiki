@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-23
-rodadas_vista: 4
+visto_ultimo: 2026-09-26
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-23
+ra_checado: 2026-09-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -105,3 +105,21 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-aces
 1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que não funciona. R$ 97 upfront, zero acesso. Propaganda enganosa direta.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/
+
+## Rodada 2026-09-24
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Avistado 14h12 e 23h00. Pagamento sem acesso aos resultados das buscas.
+
+Evidencia: [[2026-09-24 -- 1412]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-25
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). 'Nao da opcoes para ver o resultado das buscas' - reembolso concedido (reclamacao de 10/08).
+
+Evidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-26
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.
+
+Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)

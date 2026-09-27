@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-23
-rodadas_vista: 2
+visto_ultimo: 2026-09-26
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-23
+ra_checado: 2026-09-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,21 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cance
 1 mencao(oes) nesta varredura (gateway Cakto Pay). Cobrança recorrente após cancelamento. Cliente cancelou dentro de 7 dias mas continuou sendo cobrado.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/
+
+## Rodada 2026-09-24
+
+1 mencao(oes) nesta varredura (gateway Cakto). Avistada 04h41 e 14h12. Mesma reclamacao de cobranca apos cancelamento (12x R$ 99,90).
+
+Evidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-25
+
+1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao: cancelou em 29/05 dentro do prazo, cobrancas ate 20/08, resolvido por chargeback.
+
+Evidencia: [[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-26
+
+1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao antiga (20/08), relida nas passadas 06h00 e 17h00. Nenhuma reclamacao nova de Lumi.ai nesta semana.
+
+Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)

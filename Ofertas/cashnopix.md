@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-23
-rodadas_vista: 4
+visto_ultimo: 2026-09-25
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 5
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-23
+ra_checado: 2026-09-25
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -106,3 +106,15 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/cash-no-pix_91pwfUR5vkw3GZm
 1 mencao(oes) nesta varredura (gateway PerfectPay). App de cashback falso com cobranças pra liberar saldo. Propaganda enganosa.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/cobranca-para-liberacao-de-saldo-e-propaganda-enganosa-no-cashnopix_-Av-lIMQePl-aZU2/
+
+## Rodada 2026-09-24
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada 04h41, 14h12 e 23h00. Mesma mecanica: cobra Pix do usuario para liberar o saldo 'ganho'.
+
+Evidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-25
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Cobra Pix para liberar saque.
+
+Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)

@@ -24,10 +24,10 @@ s_ticket: 3
 s_lucro: 8
 s_replica: 10
 s_saturacao: 4
-status: morta
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-16
-rodadas_vista: 1
+visto_ultimo: 2026-09-25
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 6
 ra_plataformas: [wiapy, cakto, lastlink, lowify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-16
+ra_checado: 2026-09-25
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-25
+
+1 mencao(oes) nesta varredura (gateway Cakto). Receita/apostila de croche (vendedora Amigurumii.Brasil, via Instagram) nao entregue. Segunda mencao de croche na semana; ja era o cluster quente da rodada de 13/09.
+
+Evidencia: [[2026-09-25 -- 1017]] (rodada agendada; sem URL individual de reclamacao)

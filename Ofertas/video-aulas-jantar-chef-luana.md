@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-23
-visto_ultimo: 2026-09-23
-rodadas_vista: 1
+visto_ultimo: 2026-09-25
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-23
+ra_checado: 2026-09-25
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,15 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-24
+
+1 mencao(oes) nesta varredura (gateway Cakto). Avistada 04h41 e 14h12. Na passada 14h12 apareceu tambem como 'Livros de Culinaria - Chef Luana' (acesso nao liberado) - mesma operadora, dois produtos.
+
+Evidencia: [[2026-09-24 -- 1412]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-25
+
+1 mencao(oes) nesta varredura (gateway Cakto). Anuncia app com videos por R$ 97, entrega e-books e cobra R$ 27 para liberar os videos.
+
+Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)

@@ -1,0 +1,360 @@
+{
+ "data_varredura": "2026-09-24",
+ "gateways": [
+  {
+   "nome": "PerfectPay"
+  },
+  {
+   "nome": "Cakto"
+  },
+  {
+   "nome": "Kiwify"
+  },
+  {
+   "nome": "Hotmart"
+  },
+  {
+   "nome": "Ticto"
+  },
+  {
+   "nome": "Eduzz"
+  },
+  {
+   "nome": "Monetizze"
+  }
+ ],
+ "achados": [
+  {
+   "produto": "Stalkeia.ai",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 37-177",
+   "termo_busca": "Stalkeia",
+   "descricao": "Avistada nas passadas 04h41, 14h12 e 23h00. Grafias Stalkea.ai / StalkeaAI. Cobrancas duplicadas, R$ 47-152 por transacao, nao entrega.",
+   "evidencia_url": "[[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Cash no Pix",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "renda-celular-cashback",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Cash no Pix",
+   "descricao": "Avistada 04h41, 14h12 e 23h00. Mesma mecanica: cobra Pix do usuario para liberar o saldo 'ganho'.",
+   "evidencia_url": "[[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "MS GREEN PREMIUM",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "MS Green",
+   "descricao": "Avistada 04h41 e 14h12. Propaganda enganosa, vendedor inacessivel.",
+   "evidencia_url": "[[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Mentoria Caio Martins",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "mentorias",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 3000",
+   "termo_busca": "Caio Martins",
+   "descricao": "Avistada 04h41 e 14h12. Suporte fantasma, reembolso retido. Mesmas reclamacoes de 22-23/09.",
+   "evidencia_url": "[[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Curso de Pedreiro Residencial",
+   "tipo": "angulo",
+   "gateway": "Cakto",
+   "nicho": "cursos-de-oficio",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "curso de pedreiro",
+   "descricao": "Avistado 04h41 e 14h12. Conteudo copiado do YouTube, sem suporte.",
+   "evidencia_url": "[[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Lumi.ai",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ferramentas-de-pagamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 1189,57",
+   "termo_busca": "Lumi",
+   "descricao": "Avistada 04h41 e 14h12. Mesma reclamacao de cobranca apos cancelamento (12x R$ 99,90).",
+   "evidencia_url": "[[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Video Aulas Jantar - Chef Luana",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "gastronomia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "Chef Luana",
+   "descricao": "Avistada 04h41 e 14h12. Na passada 14h12 apareceu tambem como 'Livros de Culinaria - Chef Luana' (acesso nao liberado) - mesma operadora, dois produtos.",
+   "evidencia_url": "[[2026-09-24 -- 1412]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "ZAP Radar",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "ZAP Radar",
+   "descricao": "Avistado 14h12 e 23h00. Pagamento sem acesso aos resultados das buscas.",
+   "evidencia_url": "[[2026-09-24 -- 1412]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Academia do Jejum",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "emagrecimento",
+   "temperatura": "",
+   "mencoes": 2,
+   "faixa_preco": "",
+   "termo_busca": "Academia do Jejum",
+   "descricao": "Adriana Sant'Anna. Assinatura anual com renovacao automatica cobrada sem aviso; suporte nao responde. Rodada marcou como quente. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "HAP 2.0",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "servicos-empresariais",
+   "temperatura": "",
+   "mencoes": 2,
+   "faixa_preco": "",
+   "termo_busca": "HAP 2.0",
+   "descricao": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Laboratorio de Influencers IA",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 197",
+   "termo_busca": "Influencers IA",
+   "descricao": "Assinatura anual de R$ 197. Pagamento aprovado e sem acesso. Provavel mesma familia de Comunidade Influencers IA Ascensao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "Comunidade Influencers IA Ascensao",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 297",
+   "termo_busca": "Influencers IA",
+   "descricao": "'Comunidade Influencers IA AF / Ascensao', R$ 297/ano, mesmo padrao de nao-acesso do Laboratorio de Influencers IA. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "H2Jobs Full",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "educacao",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 997",
+   "termo_busca": "H2Jobs",
+   "descricao": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "ticket_upsell": 197
+  },
+  {
+   "produto": "Desafio 3 Dias Copys Validadas",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "marketing-digital",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Copys Validadas",
+   "descricao": "Produtor: Jotape. Desafio de copywriting para anuncios; reembolso negado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Bolos Caseirinhos Saudaveis",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "gastronomia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Bolos Caseirinhos",
+   "descricao": "Curso de culinaria. Cobranca nao autorizada de um segundo curso (bump cobrado sem consentimento). Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Metodo Livre",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 82",
+   "termo_busca": "Metodo Livre",
+   "descricao": "R$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "Fluency English",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "idiomas",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Fluency English",
+   "descricao": "Curso de ingles. Cobrancas indevidas com pagamento em dia; suporte ineficaz. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "120 Prompts Ultra-realista",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 19,90",
+   "termo_busca": "prompts ultra realista",
+   "descricao": "'+120 Prompts Ultra-realista N' - e-book de prompts de IA a R$ 19,90. Entrada tipica de funil; 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "O Curso do MAGO",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "desenvolvimento-pessoal",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Curso do Mago",
+   "descricao": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "CAE Course",
+   "tipo": "marca",
+   "gateway": "desconhecido",
+   "nicho": "educacao",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "CAE Course",
+   "descricao": "Cobranca continuada apos cancelamento dentro do prazo. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
+   "evidencia_url": "[[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "Protocolo Leite Sem Fim",
+   "tipo": "marca",
+   "gateway": "Ticto",
+   "nicho": "maternidade",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Leite Sem Fim",
+   "descricao": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
+   "evidencia_url": "[[2026-09-24 -- 2200]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Mentoria VPJ",
+   "tipo": "marca",
+   "gateway": "Eduzz",
+   "nicho": "mentorias",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 15000",
+   "termo_busca": "Mentoria VPJ",
+   "descricao": "VPJ Treinamentos LTDA, R$ 15.000. Promete acompanhamento 24h, entrega 15 dias; recusa reembolso proporcional. Maior ticket ja registrado no vault.",
+   "evidencia_url": "[[2026-09-24 -- 2200]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Comunidade Renda em Dolar",
+   "tipo": "marca",
+   "gateway": "Monetizze",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 297",
+   "termo_busca": "Renda em Dolar",
+   "descricao": "R$ 297. Vendedor demora a responder; so resolve com escalada.",
+   "evidencia_url": "[[2026-09-24 -- 2200]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Carteira Nacional do Estudante Digital",
+   "tipo": "marca",
+   "gateway": "Monetizze",
+   "nicho": "servicos-empresariais",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 65,90",
+   "termo_busca": "carteira do estudante",
+   "descricao": "R$ 65,90. Reclamacao descreve documento estudantil falso. Golpe - registrado so como rastro de verba, nao como modelo.",
+   "evidencia_url": "[[2026-09-24 -- 2200]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Divas Milionarias",
+   "tipo": "marca",
+   "gateway": "Kiwify",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Divas Milionarias",
+   "descricao": "Thais Pereira. Educacao financeira feminina. Compra de 23/09 reclamada em 24/09 - a reclamacao mais recente do dia. Nao consegue cancelar, sem resposta.",
+   "evidencia_url": "[[2026-09-24 -- 2300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Trendy IA",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Trendy IA",
+   "descricao": "Ferramenta de IA com trial de 1 mes que vira cobranca recorrente sem consentimento claro. Nao confundir com [[trendly]] (vitalicio R$ 299) ate confirmar - pode ser a mesma operacao.",
+   "evidencia_url": "[[2026-09-24 -- 2300]] (rodada agendada; sem URL individual de reclamacao)",
+   "tem_recorrencia": true
+  },
+  {
+   "produto": "Metodo Gringa Turbo",
+   "tipo": "marca",
+   "gateway": "Kiwify",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Gringa Turbo",
+   "descricao": "Curso ligado a viagem/turismo. Reembolso nao processado (compra de 08/09). 1 mencao.",
+   "evidencia_url": "[[2026-09-24 -- 2300]] (rodada agendada; sem URL individual de reclamacao)"
+  }
+ ]
+}

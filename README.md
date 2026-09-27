@@ -56,10 +56,11 @@ Abra `Bases/` — quatro visões:
 | Pasta | O que tem |
 |---|---|
 | `Analises/` | Análises avulsas e shortlists (`tipo: shortlist`) — top ofertas, quick reference, igreen, shortlists de LPs/infantil/dança |
+| `Radar/rodadas/` | Uma nota por passada da tarefa agendada (`tipo: rodada`, `YYYY-MM-DD -- HHMM.md`), com gateways, páginas e se a coleta funcionou. A nota do dia em `Radar/` consolida as passadas |
 | `Radar/exports/` | CSV, favoritos e painéis HTML gerados pela skill a cada rodada. A planilha acumulada fica em `Radar/radar-low-ticket.xlsx`; o JSON bruto em `Radar/dados/` |
 | `Nichos/` | Notas de nicho |
 | `Ativos/` | Ativos capturados pelo unFunnelizer |
 | `Claude outputs/` | Planilhas e HTMLs entregues fora da rodada diária |
 | `_meta/` | Contratos (Schema, Scoring, Pipeline) e scripts ativos: `sync_vault.py`, `collect_complaints.py`, `radar-commit.sh`, `radar-diff.sh` |
 | `_arquivo/mineracao-2026-08/` | Scripts, JSONs e debug da mineração manual de ago/set. Só histórico — nada do ciclo diário depende disso |
-| `_to_delete/` | Quarentena (fora do git). Pode apagar |
+| `_to_delete/` | Quarentena (fora do git). Esvaziada em 27/09; pode apagar de novo quando encher |

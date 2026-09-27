@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-08-31
+atualizado: 2026-09-27
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,23 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-08-31 (segunda passada)
+## Leitura atual — 2026-09-26 (rodadas agendadas de 22 a 26/09)
+
+Lista completa, separada pelo que fazer: [[2026-09-27 -- novidades-22-a-26-09]].
+
+**172 notas · 147 ofertas · 25 ângulos · 41 notas novas entre 24 e 26/09 · status: 72 nova · 25 ativa · 27 esfriando · 48 morta**
+
+As passadas agendadas de 24, 25 e 26/09 gravaram só no Projeto Claude. Em 27/09 foram trazidas para cá pelo `sync_vault.py` (nota do dia em `Radar/`, snapshots em `Observacoes/`, notas em `Ofertas/`) e cada passada ficou arquivada em `Radar/rodadas/`. Dos 41 achados novos, 15 vieram de gateways que a automação nunca tinha varrido (Kiwify, Hotmart, Ticto, Eduzz, Monetizze) — e nenhum se sobrepõe ao portfólio de PerfectPay/Cakto.
+
+**O que a semana disse.** Em PerfectPay/Cakto o que se repetiu não foi um produto, foi uma mecânica: saída travada. [[angulo-assinatura-com-cancelamento-bloqueado]], [[luna-ia]] (cobra para excluir a conta), [[trendy-ia]], [[livego-pro]] e [[lumi-ai]] são a mesma engrenagem com nomes diferentes; [[angulo-cobranca-extra-para-liberar-acesso]] e as três cobranças por função da [[stalkeia-ai]] são a versão de entrada. Em Kiwify/Hotmart domina assinatura, com trava anti-reembolso desenhada ([[hap-2-0]]). Quase tudo isso é golpe ou suporte fantasma: mostra onde há verba, não o que copiar.
+
+**O que vale replicar continua no mesmo cluster.** As únicas estreias com entregável em arquivo foram [[900-mapas-mentais]] e [[caderno-de-professor]], e o crochê voltou em [[angulo-artesanato-moldes-pdf]] — todos encostados no material pedagógico/imprimível, o cluster com escala medida ([[2026-09-26 -- ofertas-escaladas]]).
+
+**Cuidados com os números.** A listagem "ativas" do Reclame Aqui não é cronológica: a passada de 25/09 17h leu reclamações de julho e agosto, e várias ofertas "persistentes" são a mesma reclamação relida ([[lumi-ai]] não teve reclamação nova desde 20/08). Nenhuma das 41 notas novas tem `dias_no_ar` ou criativos medidos, então `s_lucro` ficou no piso conservador e `s_replica`/`s_saturacao` em 0 (sentinela). 15 notas estão com `checkout: desconhecido` porque a passada de Kiwify/Hotmart não separou os dois. A passada de 26/09 22h15 não coletou nada.
+
+---
+
+## Leitura anterior — 2026-08-31 (segunda passada)
 
 **110 notas · 91 ofertas · 19 angulos · 0 novas nesta passada · 1 no corte de replicacao**
 

@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: kiwify
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=LiveGo%20Pro&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 4
 s_saturacao: 6
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-08-24
-rodadas_vista: 2
+visto_ultimo: 2026-09-26
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/livego-pro"
-gateways_detectados: [kiwify]
+gateways_detectados: [kiwify, cakto]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [kiwify]
-ra_primeira_reclamacao: 2026-08-23
-ra_checado: 2026-08-24
+ra_plataformas: [kiwify, cakto]
+ra_primeira_reclamacao: "2026-08-23"
+ra_checado: 2026-09-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -56,3 +56,9 @@ Mesma familia de [[loopyz]] - ferramenta de live. Vale cruzar as duas: se forem 
 ## Rodada 2026-08-24
 
 Kiwify, mesma reclamacao de reembolso nao recebido apos 8 dias. Sem alteracao.
+
+## Rodada 2026-09-26
+
+1 mencao(oes) nesta varredura (gateway Cakto). Agora tambem na Cakto (era Kiwify em 24/08). Sem botao de cancelar, cancelamento so por e-mail e cobranca continua (24/09).
+
+Evidencia: [[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)

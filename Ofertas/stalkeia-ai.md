@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-23
-rodadas_vista: 7
+visto_ultimo: 2026-09-26
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-23
+ra_checado: 2026-09-26
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -131,3 +131,21 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-e
 2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/
+
+## Rodada 2026-09-24
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada nas passadas 04h41, 14h12 e 23h00. Grafias Stalkea.ai / StalkeaAI. Cobrancas duplicadas, R$ 47-152 por transacao, nao entrega.
+
+Evidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-25
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Detalhe novo: cobrancas sucessivas na mesma compra - R$ 47, R$ 37,90, R$ 67,90 - cada funcao nova cobra taxa extra.
+
+Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-09-26
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.
+
+Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)

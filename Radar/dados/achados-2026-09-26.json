@@ -1,0 +1,193 @@
+{
+ "data_varredura": "2026-09-26",
+ "gateways": [
+  {
+   "nome": "PerfectPay"
+  },
+  {
+   "nome": "Cakto"
+  }
+ ],
+ "achados": [
+  {
+   "produto": "Trendy IA",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Trendy IA",
+   "descricao": "Cobranca recorrente mesmo apos pedido de cancelamento; produtor some (reclamacao de ~20/09).",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Luna IA",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Luna IA",
+   "descricao": "App de IA que cobra taxa para excluir a conta/dados ('cobrar pra sair'); servico diferente do anunciado (~18/09). Possivel mesma familia de [[appluna-net]]. Ja citada em 22/09 18h30, sem nota.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Metodo Atlas",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Metodo Atlas",
+   "descricao": "'Metodo comprovado de rentabilidade' que entrega conteudo generico/desatualizado (~22/09). Visto de novo as 13h00.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Painel Elite",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Painel Elite",
+   "descricao": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Caderno de Professor",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "material-pedagogico",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Caderno de Professor",
+   "descricao": "Material para professores; entrega diferente do anunciado, sem suporte (~21/09). Encosta no cluster de material pedagogico, o mais replicavel do vault.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Stalkeia.ai",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Stalkeia",
+   "descricao": "Listada como ainda ativa na passada das 06h00.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "RB_OPERACOES",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "nao-classificado",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 49,90",
+   "termo_busca": "RB OPERACOES",
+   "descricao": "Listada como ainda ativa na passada das 06h00 (cancelamento bloqueado).",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "MS GREEN PREMIUM",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "MS Green",
+   "descricao": "Listada como ainda ativa na passada das 06h00.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "ZAP Radar",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 97",
+   "termo_busca": "ZAP Radar",
+   "descricao": "Listada como ainda ativa na passada das 06h00.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Lumi.ai",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ferramentas-de-pagamento",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 1189,57",
+   "termo_busca": "Lumi",
+   "descricao": "Mesma reclamacao antiga (20/08), relida nas passadas 06h00 e 17h00. Nenhuma reclamacao nova de Lumi.ai nesta semana.",
+   "evidencia_url": "[[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Cobranca extra para liberar acesso",
+   "tipo": "angulo",
+   "gateway": "PerfectPay",
+   "nicho": "mecanica-de-checkout",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "",
+   "descricao": "Comprador que ja pagou recebe nova cobranca para liberar o acesso (reclamacao de 26/09 02h34, relida as 17h00). Diferente de upsell: o acesso comprado vira refem. Parente de [[angulo-taxa-escalonada-decrescente]] e [[angulo-biblia-free-shipping]].",
+   "evidencia_url": "[[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Knights Club",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ferramentas-ia",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Knights Club",
+   "descricao": "Comunidade com geradores de video por IA que pararam apos atualizacao do VO3; Cakto manda falar com o produtor, produtor nao resolve.",
+   "evidencia_url": "[[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "LiveGo Pro",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "lives-interativas",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "LiveGo Pro",
+   "descricao": "Agora tambem na Cakto (era Kiwify em 24/08). Sem botao de cancelar, cancelamento so por e-mail e cobranca continua (24/09).",
+   "evidencia_url": "[[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "Comunidade MVZ",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "educacao",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "R$ 149,73",
+   "termo_busca": "Comunidade MVZ",
+   "descricao": "R$ 149,73. Reembolso em 7 dias jogado entre Cakto e produtor; resolvido com estorno.",
+   "evidencia_url": "[[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)"
+  },
+  {
+   "produto": "e-Workflow Adeus CLT",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "",
+   "mencoes": 1,
+   "faixa_preco": "",
+   "termo_busca": "Adeus CLT",
+   "descricao": "Perdeu o acesso ~1 ano depois da compra; suporte mudo.",
+   "evidencia_url": "[[2026-09-26 -- 1700]] (rodada agendada; sem URL individual de reclamacao)"
+  }
+ ]
+}

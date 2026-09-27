@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-23
-rodadas_vista: 2
+visto_ultimo: 2026-09-24
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-23
+ra_checado: 2026-09-24
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/curso-de-pedreiro-residencia
 1 mencao(oes) nesta varredura (gateway Cakto Pay). Conteúdo de YouTube, plataforma amadora, sem login, suporte via WhatsApp que não retorna.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/curso-de-pedreiro-residencial-nao-corresponde-as-expectativas-e-recusa-de-cancelamento_7tRIzgtSVjbStTpF/
+
+## Rodada 2026-09-24
+
+1 mencao(oes) nesta varredura (gateway Cakto). Avistado 04h41 e 14h12. Conteudo copiado do YouTube, sem suporte.
+
+Evidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)
