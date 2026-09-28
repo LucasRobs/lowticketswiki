@@ -3,11 +3,11 @@
  "totais": {
   "ofertas": 157,
   "angulos": 25,
-  "observacoes": 303,
-  "dias_radar": 20,
-  "passadas": 22,
+  "observacoes": 306,
+  "dias_radar": 21,
+  "passadas": 23,
   "analises": 12,
-  "ultima_rodada": "2026-09-27"
+  "ultima_rodada": "2026-09-28"
  },
  "ofertas": [
   {
@@ -5568,7 +5568,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7075,7 +7076,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -7102,27 +7103,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Atlas&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 5,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 6,
    "resumo": "'Metodo comprovado de rentabilidade' que entrega conteudo generico/desatualizado (~22/09). Visto de novo as 13h00.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7931,21 +7931,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 6,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
@@ -8502,7 +8502,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9294,7 +9295,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -9323,21 +9324,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 3,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
    "flags": [
     "score-provisorio",
@@ -10122,6 +10123,22 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-09-28.md",
+   "data": "2026-09-28",
+   "titulo": "Radar 2026-09-28",
+   "ofertas_vistas": 3,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto-pay",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
+  {
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
    "titulo": "Radar 2026-09-27",
@@ -10445,6 +10462,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-28 -- 2136.md",
+   "data": "2026-09-28",
+   "hora": "21:36",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 10,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 10 · Coleta: parcial · Achados: 3 ## Confirmadas Stalker AI — PerfectPay · Persistente Painel Elite — PerfectPay · Persistente ## Potenciais Novas Método Atlas — PerfectPay · Educação (requer…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 2216.md",
    "data": "2026-09-27",
@@ -10972,7 +11003,8 @@
    "2026-09-24": 27,
    "2026-09-25": 25,
    "2026-09-26": 15,
-   "2026-09-27": 9
+   "2026-09-27": 9,
+   "2026-09-28": 3
   }
  },
  "analises": [
@@ -11267,6 +11299,7 @@
    "glow-mode",
    "h2jobs-full",
    "hap-2-0",
+   "hub-boss-rateio-ia",
    "ia-fx-promocional",
    "instaunlocked",
    "kit-grafismo-fonetico",
@@ -11277,7 +11310,6 @@
    "luna-ia",
    "mdr-despertar-2-0",
    "mentoria-vpj",
-   "metodo-atlas",
    "metodo-gringa-turbo",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
@@ -11292,6 +11324,7 @@
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
+   "postcloner",
    "protocolo-leite-sem-fim",
    "rpr-recomendacoes-personalizadas-remotas",
    "tdah-guia-pais-renata",
@@ -11301,7 +11334,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 485
+   "canonico": 488
   }
  },
  "vocabulario": {
@@ -11348,15 +11381,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "bf80fec725b3a6e9",
-  "atualizado_em": "2026-09-27T17:17:48-03:00",
+  "hash": "88c68ea9e7c4789d",
+  "atualizado_em": "2026-09-27T21:38:55-03:00",
   "ofertas": 157,
   "angulos": 25,
-  "observacoes": 303,
-  "ultima_rodada": "2026-09-27",
+  "observacoes": 306,
+  "ultima_rodada": "2026-09-28",
   "ultima_passada": {
-   "data": "2026-09-27",
-   "hora": "22:16",
+   "data": "2026-09-28",
+   "hora": "21:36",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

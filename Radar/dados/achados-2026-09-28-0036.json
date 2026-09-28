@@ -1,0 +1,75 @@
+{
+  "data_varredura": "2026-09-28",
+  "hora_fortaleza": "21:36",
+  "timestamp_utc": "2026-09-28T00:36:59Z",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "paginas_varridas": 10,
+      "status": "parcial (páginas 2-9 vazias, acesso limitado)"
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto-pay",
+      "paginas_varridas": 0,
+      "status": "acesso negado (erro 404)"
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "status_em_rodada": "confirmada (persistente desde 2026-09-27)",
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalker AI",
+      "mencoes_rodada_anterior": 1,
+      "descricao": "App de espionagem de WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai. Cobra créditos extras para liberar resultado. Operação de escala (múltiplos gateways).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_crQJ5-S8XrrK7baT/"
+    },
+    {
+      "produto": "Painel Elite",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "gestao-negocio",
+      "temperatura": "morna",
+      "status_em_rodada": "confirmada (persistente desde 2026-09-27)",
+      "faixa_preco": "sem valor informado",
+      "termo_busca": "PAINEL ELITE",
+      "descricao": "Painel de gestão/automação. Padrão: acesso negado, reembolso não processado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/"
+    },
+    {
+      "produto": "Método Atlas",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "educacao-online",
+      "temperatura": "fria",
+      "status_em_rodada": "potencial-nova",
+      "faixa_preco": "sem valor informado",
+      "termo_busca": "Método Atlas",
+      "data_reclamacao": "2026-09-25T22:19",
+      "descricao": "Curso com foco em metodologia. Padrão: cancelamento não processado. Status: requer verificação se é realmente oferta low ticket ou marca educacional maior.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-cancelar-o-curso-metodo-atlas-e-ser-reembolsado_o8i1AYeTwyvamoA9/"
+    }
+  ],
+  "notas": {
+    "coleta": "parcial",
+    "limitacoes": "WebFetch retornou páginas vazias (filtro ativo?) para PerfectPay págs 2-9. Cakto Pay retornou 404. ReclameAqui pode estar com proteção contra scraping ou mudança de estrutura.",
+    "recomendacao": "Usar browser automation (Claude in Chrome) para próximas rodadas ou verificar se há mudança na estrutura do site ReclameAqui.",
+    "ofertas_repetidas": "Stalker AI e Painel Elite já foram vistas em rodadas do dia 27.",
+    "ofertas_novas": "Método Atlas (necessita confirmação se é low ticket)",
+    "temperatura_geral": "Padrão estável. Nenhuma escalação nova identificada nesta rodada. Stalker AI continua como oferta de volume."
+  },
+  "passada": {
+    "hora": "21:36",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 10,
+    "coleta": "parcial",
+    "relatorio": "## Confirmadas\n- Stalker AI — PerfectPay · Persistente\n- Painel Elite — PerfectPay · Persistente\n\n## Potenciais Novas\n- Método Atlas — PerfectPay · Educação (requer verificação)\n\n**Leitura:** Coleta limitada por restrições de acesso ao site. Padrão estável de reembolso/cancelamento. Nenhuma escalação crítica. Recomendação: usar browser automation para próximas rodadas.",
+    "resumo": "3 ofertas mapeadas (2 confirmadas persistentes, 1 potencial nova). Coleta com limitações técnicas."
+  }
+}

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-26
-visto_ultimo: 2026-09-27
-rodadas_vista: 2
+visto_ultimo: 2026-09-28
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-09-28
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-09-27
 
 1 mencao(oes) nesta varredura (gateway PerfectPay). Produto digital genérico. Solicitação de reembolso não atendida. Novo achado, tipo SAAS/painel sem contexto claro. Acompanhar em próximas rodadas.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/
+
+## Rodada 2026-09-28
+
+0 mencao(oes) nesta varredura (gateway PerfectPay). Painel de gestão/automação. Padrão: acesso negado, reembolso não processado.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/
