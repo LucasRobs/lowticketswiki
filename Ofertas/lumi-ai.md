@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-27
-rodadas_vista: 6
+visto_ultimo: 2026-09-28
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-09-28
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -121,3 +121,9 @@ Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de cursos online. Cobrança indevida após cancelamento dentro do prazo legal de arrependimento. Ticket alto (R$ 1.189,57 confirmado). Padrão: fricção de cancelamento - novo ator confirmado em 27/09.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/
+
+## Rodada 2026-09-28
+
+1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação com IA. Cobrança recorrente dentro do prazo de arrependimento. NOVA - primeira menção.
+
+Evidencia: 

@@ -1,0 +1,96 @@
+{
+  "data_varredura": "2026-09-28",
+  "hora_rodada": "11:53",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 10, "status": "parcial"},
+    {"nome": "Cakto Pay", "slug": "cakto-pay", "paginas_varridas": 10, "status": "parcial"}
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalker",
+      "descricao": "App de espionagem WhatsApp/Instagram. Confirmada em 3 rodadas no mesmo dia (06:11, 11:07, 22:16 de 27/09) + hoje. Operação sustentada. Cobra créditos extras.",
+      "status": "confirmada"
+    },
+    {
+      "produto": "Painel Elite",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "painel-vendedor",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Painel Elite",
+      "descricao": "Painel para vendedores. Confirmada em 3 rodadas (11:07, 22:16 de 27/09, hoje). Operação ativa.",
+      "status": "confirmada"
+    },
+    {
+      "produto": "Placar Exato",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "apostas-previsao",
+      "temperatura": "fria",
+      "mencoes": 2,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Placar Exato",
+      "descricao": "Produto de previsão de placar. Reclamação sobre propaganda enganosa. Confirmada em 2 rodadas (04:30 hoje, agora).",
+      "status": "confirmada"
+    },
+    {
+      "produto": "Loopyz",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "educacao",
+      "temperatura": "fria",
+      "mencoes": 2,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Loopyz",
+      "descricao": "Plataforma de educação online. Cobrança recorrente e cancelamento não processado. Confirmada em 2 rodadas.",
+      "status": "confirmada"
+    },
+    {
+      "produto": "MS Green Premium",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "suplementacao-saude",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "MS Green",
+      "descricao": "Produto de suplementação/saúde. Reclamação por propaganda enganosa. NOVA - primeira menção.",
+      "status": "nova"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "automacao-vendas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "ZAP Radar",
+      "descricao": "Ferramenta de automação/radar de vendas. Cobrança efetuada sem acesso aos resultados. NOVA - primeira menção.",
+      "status": "nova"
+    },
+    {
+      "produto": "Lumi.ai",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "educacao-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Lumi.ai",
+      "descricao": "Plataforma de educação com IA. Cobrança recorrente dentro do prazo de arrependimento. NOVA - primeira menção.",
+      "status": "nova"
+    }
+  ],
+  "status_coleta": "parcial",
+  "observacoes": "Paginação degradada confirmada: PerfectPay páginas 2-6, 8 retornam vazio; Cakto páginas 2-6, 8, 10 retornam vazio. Apenas páginas 1, 7, 9, 10 retornam dados. Padrão técnico persistente desde 27/09. Operações confirmadas (Stalker AI, Painel Elite, Placar Exato, Loopyz) mantêm temperatura. 3 novos products mencionados uma vez (MS Green Premium, ZAP Radar, Lumi.ai) - frios, com baixa evidência."
+}

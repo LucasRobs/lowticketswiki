@@ -45,7 +45,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "cakto"
   ],
@@ -71,7 +71,7 @@
    "cakto"
   ]
  },
- "corpo": "# Placar Exato\n\n## Angulo\nProduto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-28 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: \n\n## Historico\n",
+ "corpo": "# Placar Exato\n\n## Angulo\nProduto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-28 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: \n\n## Historico\n\n## Rodada 2026-09-28\n\n2 mencao(oes) nesta varredura (gateway Cakto Pay). Produto de previsão de placar. Reclamação sobre propaganda enganosa. Confirmada em 2 rodadas (04:30 hoje, agora).\n\nEvidencia:\n",
  "observacoes": [
   {
    "data": "2026-09-28",
@@ -92,6 +92,12 @@
    "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",
    "data": "2026-09-28",
    "titulo": "Passada 2026-09-28 22:17"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-28 -- 1155.md",
+   "data": "2026-09-28",
+   "titulo": "Passada 2026-09-28 11:55"
   },
   {
    "tipo": "radar",

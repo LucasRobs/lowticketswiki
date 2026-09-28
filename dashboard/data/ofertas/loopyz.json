@@ -47,7 +47,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "cakto"
   ],
@@ -128,6 +128,12 @@
    "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",
    "data": "2026-09-28",
    "titulo": "Passada 2026-09-28 22:17"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-09-28 -- 1155.md",
+   "data": "2026-09-28",
+   "titulo": "Passada 2026-09-28 11:55"
   },
   {
    "tipo": "radar",

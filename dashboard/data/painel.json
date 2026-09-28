@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 158,
   "angulos": 25,
-  "observacoes": 308,
+  "observacoes": 311,
   "dias_radar": 21,
-  "passadas": 24,
+  "passadas": 25,
   "analises": 12,
   "ultima_rodada": "2026-09-28"
  },
@@ -6384,7 +6384,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-09-28",
    "bump_oculto": false,
@@ -6393,7 +6393,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -6654,21 +6654,21 @@
    "score": 3.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 6,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 7,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lumi%20ai&search_type=keyword_unordered&media_type=all",
-   "n_obs": 6,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 16,
+   "n_obs": 7,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 18,
    "resumo": "Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.",
    "flags": [
     "score-provisorio",
@@ -7600,21 +7600,21 @@
    "score": 2.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 6,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 7,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
-   "n_obs": 6,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 12,
+   "n_obs": 7,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 14,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -7936,7 +7936,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-09-28",
    "bump_oculto": false,
@@ -7945,7 +7945,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
@@ -8267,7 +8267,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-09-28",
    "bump_oculto": false,
@@ -8276,7 +8276,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Placar%20Exato&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.",
    "flags": [
     "score-provisorio",
@@ -9384,7 +9384,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-09-28",
    "bump_oculto": false,
@@ -9393,7 +9393,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
    "flags": [
     "score-provisorio",
@@ -10155,21 +10155,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 8,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 9,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 13,
+   "n_obs": 9,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 15,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -10181,7 +10181,7 @@
    "arquivo": "Radar/2026-09-28.md",
    "data": "2026-09-28",
    "titulo": "Radar 2026-09-28",
-   "ofertas_vistas": 5,
+   "ofertas_vistas": 8,
    "novas": 1,
    "retornaram": 0,
    "sumiram": 0,
@@ -10190,7 +10190,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -10549,6 +10549,28 @@
    "origem": "tarefa agendada",
    "ofertas": [],
    "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 10 · Coleta: parcial · Achados: 3 ## Confirmadas Stalker AI — PerfectPay · Persistente Painel Elite — PerfectPay · Persistente ## Potenciais Novas Método Atlas — PerfectPay · Educação (requer…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-09-28 -- 1155.md",
+   "data": "2026-09-28",
+   "hora": "11:55",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 20,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "loopyz",
+    "lumi-ai",
+    "ms-green-premium",
+    "painel-elite",
+    "placar-exato",
+    "stalker-ai",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto · Páginas: 20 · Coleta: ok · Achados: 7 stalker-ai — PerfectPay · App de espionagem WhatsApp/Instagram. Confirmada em 3 rodadas no mesmo dia (06:11, 11:07, 22:16 de 27/09) + hoje. Operação sustentada. Cobra…"
   },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 2216.md",
@@ -11082,7 +11104,7 @@
    "2026-09-25": 25,
    "2026-09-26": 15,
    "2026-09-27": 9,
-   "2026-09-28": 5
+   "2026-09-28": 8
   }
  },
  "analises": [
@@ -11412,7 +11434,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 491
+   "canonico": 494
   }
  },
  "vocabulario": {
@@ -11459,11 +11481,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d8438fc9744be0f0",
-  "atualizado_em": "2026-09-27T22:17:53-03:00",
+  "hash": "47ef44508800130d",
+  "atualizado_em": "2026-09-28T11:55:18-03:00",
   "ofertas": 158,
   "angulos": 25,
-  "observacoes": 308,
+  "observacoes": 311,
   "ultima_rodada": "2026-09-28",
   "ultima_passada": {
    "data": "2026-09-28",

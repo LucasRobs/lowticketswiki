@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/placar-exato"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-28
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-28
+
+2 mencao(oes) nesta varredura (gateway Cakto Pay). Produto de previsão de placar. Reclamação sobre propaganda enganosa. Confirmada em 2 rodadas (04:30 hoje, agora).
+
+Evidencia: 

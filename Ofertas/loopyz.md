@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/loopyz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-28
