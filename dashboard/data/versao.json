@@ -1,18 +1,18 @@
 {
  "esquema": 1,
- "hash": "88c68ea9e7c4789d",
- "atualizado_em": "2026-09-27T21:38:55-03:00",
- "ofertas": 157,
+ "hash": "d8438fc9744be0f0",
+ "atualizado_em": "2026-09-27T22:17:53-03:00",
+ "ofertas": 158,
  "angulos": 25,
- "observacoes": 306,
+ "observacoes": 308,
  "ultima_rodada": "2026-09-28",
  "ultima_passada": {
   "data": "2026-09-28",
-  "hora": "21:36",
-  "coleta": "parcial",
+  "hora": "22:17",
+  "coleta": "ok",
   "gateways": [
    "perfectpay",
-   "cakto-pay"
+   "cakto"
   ]
  }
 }

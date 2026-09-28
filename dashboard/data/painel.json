@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 157,
+  "ofertas": 158,
   "angulos": 25,
-  "observacoes": 306,
+  "observacoes": 308,
   "dias_radar": 21,
-  "passadas": 23,
+  "passadas": 24,
   "analises": 12,
   "ultima_rodada": "2026-09-28"
  },
@@ -6379,21 +6379,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-09-28",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 6,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -7945,7 +7945,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
@@ -8227,6 +8227,61 @@
    "resumo": "pay.hotmart.com/Q107143997G · R$ 27,90 (ancorado em R$ 369) · garantia 7 dias · 19 dias no ar.",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "placar-exato",
+   "nome": "Placar Exato",
+   "classe": "oferta",
+   "nicho": "apostas-previsao",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-28",
+   "visto_ultimo": "2026-09-28",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-28",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Placar%20Exato&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-28",
+   "n_citacoes": 2,
+   "resumo": "Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -9338,7 +9393,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
    "flags": [
     "score-provisorio",
@@ -10126,8 +10181,8 @@
    "arquivo": "Radar/2026-09-28.md",
    "data": "2026-09-28",
    "titulo": "Radar 2026-09-28",
-   "ofertas_vistas": 3,
-   "novas": 0,
+   "ofertas_vistas": 5,
+   "novas": 1,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -10135,7 +10190,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -10462,6 +10517,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",
+   "data": "2026-09-28",
+   "hora": "22:17",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 12,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "loopyz",
+    "painel-elite",
+    "placar-exato",
+    "stalker-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto · Páginas: 12 · Coleta: ok · Achados: 4 stalker-ai — PerfectPay · App de espionagem WhatsApp/Instagram. Confirmada em 3 rodadas no mesmo dia (06:11, 11:07, 22:16 de 27/09). Operação sustentada. Cobra créditos…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-28 -- 2136.md",
    "data": "2026-09-28",
@@ -10982,6 +11056,10 @@
    "2026-09-27": {
     "oferta": 3,
     "angulo": 0
+   },
+   "2026-09-28": {
+    "oferta": 1,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -11004,7 +11082,7 @@
    "2026-09-25": 25,
    "2026-09-26": 15,
    "2026-09-27": 9,
-   "2026-09-28": 3
+   "2026-09-28": 5
   }
  },
  "analises": [
@@ -11191,49 +11269,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 157
+    "total": 158
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 157
+    "total": 158
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 157
+    "total": 158
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 128,
-    "total": 157
+    "preenchidas": 129,
+    "total": 158
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 110,
-    "total": 157
+    "total": 158
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 157
+    "total": 158
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 157
+    "total": 158
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 101,
-    "total": 157
+    "preenchidas": 102,
+    "total": 158
    }
   ],
   "fila_enriquecimento": [
@@ -11334,7 +11412,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 488
+   "canonico": 491
   }
  },
  "vocabulario": {
@@ -11381,19 +11459,19 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "88c68ea9e7c4789d",
-  "atualizado_em": "2026-09-27T21:38:55-03:00",
-  "ofertas": 157,
+  "hash": "d8438fc9744be0f0",
+  "atualizado_em": "2026-09-27T22:17:53-03:00",
+  "ofertas": 158,
   "angulos": 25,
-  "observacoes": 306,
+  "observacoes": 308,
   "ultima_rodada": "2026-09-28",
   "ultima_passada": {
    "data": "2026-09-28",
-   "hora": "21:36",
-   "coleta": "parcial",
+   "hora": "22:17",
+   "coleta": "ok",
    "gateways": [
     "perfectpay",
-    "cakto-pay"
+    "cakto"
    ]
   }
  }

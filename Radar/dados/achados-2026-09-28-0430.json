@@ -1,0 +1,60 @@
+{
+  "data_varredura": "2026-09-28",
+  "hora_rodada": "04:30",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 7, "status": "parcial"},
+    {"nome": "Cakto Pay", "slug": "cakto-pay", "paginas_varridas": 5, "status": "parcial"}
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalker",
+      "descricao": "App de espionagem WhatsApp/Instagram. Confirmada em 3 rodadas no mesmo dia (06:11, 11:07, 22:16 de 27/09). Operação sustentada. Cobra créditos extras.",
+      "status": "confirmada"
+    },
+    {
+      "produto": "Painel Elite",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "painel-vendedor",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Painel Elite",
+      "descricao": "Painel para vendedores. Confirmada em 2 rodadas (11:07 e 22:16 de 27/09). Operação ativa.",
+      "status": "confirmada"
+    },
+    {
+      "produto": "Placar Exato",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "apostas-previsao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Placar Exato",
+      "descricao": "Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.",
+      "status": "nova"
+    },
+    {
+      "produto": "Loopyz",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "educacao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Loopyz",
+      "descricao": "Plataforma de educação online. Reclamação sobre cobrança recorrente após cancelamento. ATUALIZADA - já aparecia em 27/09.",
+      "status": "atualizada"
+    }
+  ],
+  "status_coleta": "parcial",
+  "observacoes": "Paginação degradada continua: PerfectPay páginas 2-7 retornam vazio; Cakto páginas 2-5 retornam vazio. Somente página 1 de cada gateway retornou dados (padrão técnico persistente desde 27/09). Coleta reduzida a ~2 páginas efetivas. Temperatura geral: FRIA. Nenhuma escalação além das confirmadas de 27/09."
+}

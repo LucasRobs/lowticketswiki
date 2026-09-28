@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-09-28.md",
    "data": "2026-09-28",
    "titulo": "Radar 2026-09-28",
-   "ofertas_vistas": 3,
-   "novas": 0,
+   "ofertas_vistas": 5,
+   "novas": 1,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -14,8 +14,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-09-28\n\n## Novas\n\n## Movimento\n\n- [[stalker-ai]] — ra_reclamacoes atualizado para 1\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-28 -- 2136]] - perfectpay, cakto-pay - 3 achado(s) - 3 ofertas mapeadas (2 confirmadas persistentes, 1 potencial nova). Coleta com limitações técnicas.\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-09-28\n\n## Novas\n\n- [[placar-exato]] — apostas-previsao — desconhecido — Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.\n\n## Movimento\n\n- [[stalker-ai]] — ra_reclamacoes atualizado para 1\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n- [[loopyz]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-28 -- 2136]] - perfectpay, cakto-pay - 3 achado(s) - 3 ofertas mapeadas (2 confirmadas persistentes, 1 potencial nova). Coleta com limitações técnicas.\n- [[2026-09-28 -- 2217]] - perfectpay, cakto - 4 achado(s)\n"
   },
   {
    "arquivo": "Radar/2026-09-27.md",
@@ -341,6 +341,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",
+   "data": "2026-09-28",
+   "hora": "22:17",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 12,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "loopyz",
+    "painel-elite",
+    "placar-exato",
+    "stalker-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-28]].\n\n# Rodada — 28/09/2026 · 22:17 Fortaleza\n\n**Gateways:** perfectpay, cakto · **Páginas:** 12 · **Coleta:** ok · **Achados:** 4\n\n- [[stalker-ai]] — PerfectPay · App de espionagem WhatsApp/Instagram. Confirmada em 3 rodadas no mesmo dia (06:11, 11:07, 22:16 de 27/09). Operação sustentada. Cobra créditos extras.\n- [[painel-elite]] — PerfectPay · Painel para vendedores. Confirmada em 2 rodadas (11:07 e 22:16 de 27/09). Operação ativa.\n- [[placar-exato]] — Cakto Pay · Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.\n- [[loopyz]] — Cakto Pay · Plataforma de educação online. Reclamação sobre cobrança recorrente após cancelamento. ATUALIZADA - já aparecia em 27/09.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-28 -- 2136.md",
    "data": "2026-09-28",

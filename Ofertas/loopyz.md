@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-27
-rodadas_vista: 3
+visto_ultimo: 2026-09-28
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-09-28
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -102,3 +102,9 @@ O que trava a nota continua sendo `s_replica: 4` — é software de live, não P
 0 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação. Reclamação RESOLVIDA: reembolso foi efetuado conforme resposta da Cakto.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopyz-e-o-produtor-me-removeu-do-grupo_7xTu0t7hJOtnBwjw/
+
+## Rodada 2026-09-28
+
+1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação online. Reclamação sobre cobrança recorrente após cancelamento. ATUALIZADA - já aparecia em 27/09.
+
+Evidencia: 
