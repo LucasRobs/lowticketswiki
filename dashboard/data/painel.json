@@ -5,7 +5,7 @@
   "angulos": 25,
   "observacoes": 311,
   "dias_radar": 21,
-  "passadas": 25,
+  "passadas": 26,
   "analises": 12,
   "ultima_rodada": "2026-09-28"
  },
@@ -7945,7 +7945,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
@@ -9393,7 +9393,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-09-28",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
    "flags": [
     "score-provisorio",
@@ -10190,7 +10190,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -10549,6 +10549,22 @@
    "origem": "tarefa agendada",
    "ofertas": [],
    "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 10 · Coleta: parcial · Achados: 3 ## Confirmadas Stalker AI — PerfectPay · Persistente Painel Elite — PerfectPay · Persistente ## Potenciais Novas Método Atlas — PerfectPay · Educação (requer…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-09-28 -- 1318.md",
+   "data": "2026-09-28",
+   "hora": "13:18",
+   "gateways": [
+    "perfectpay"
+   ],
+   "paginas": 1,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "painel-elite",
+    "stalker-ai"
+   ],
+   "resumo": "Gateways: perfectpay · Páginas: 1 · Coleta: ok · Achados: 2 stalker-ai — PerfectPay · App de espionar WhatsApp/Instagram. 5ª aparição no dia (04:30, 11:55, 13:17). Operação sustentada, monetização por créditos. painel-elite — PerfectPay ·…"
   },
   {
    "arquivo": "Radar/rodadas/2026-09-28 -- 1155.md",
@@ -11481,8 +11497,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "47ef44508800130d",
-  "atualizado_em": "2026-09-28T11:55:18-03:00",
+  "hash": "647eb87e2940a2cf",
+  "atualizado_em": "2026-09-28T13:18:07-03:00",
   "ofertas": 158,
   "angulos": 25,
   "observacoes": 311,

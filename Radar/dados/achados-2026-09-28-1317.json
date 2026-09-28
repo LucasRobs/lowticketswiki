@@ -1,0 +1,45 @@
+{
+  "data_varredura": "2026-09-28",
+  "hora_rodada": "13:17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 1, "status": "parcial"}
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes_rodada": 1,
+      "mencoes_total_dia": 5,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalker",
+      "descricao": "App de espionar WhatsApp/Instagram. 5ª aparição no dia (04:30, 11:55, 13:17). Operação sustentada, monetização por créditos.",
+      "evidencia": "Página 1 PerfectPay - Rodada 13:17"
+    },
+    {
+      "produto": "Painel Elite",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "vendas-automacao",
+      "temperatura": "morna",
+      "mencoes_rodada": 1,
+      "mencoes_total_dia": 4,
+      "faixa_preco": "R$ 97-297",
+      "termo_busca": "Painel",
+      "descricao": "Painel para vendedores. 4ª aparição no dia. Operação consolidada, modelo de cancelamento agressivo.",
+      "evidencia": "Página 1 PerfectPay - Rodada 13:17"
+    }
+  ],
+  "consolidacao": {
+    "status_coleta": "parcial",
+    "paginas_esperadas": 12,
+    "paginas_efetivas": 1,
+    "taxa_coleta": "8%",
+    "gateways_acessados": ["perfectpay"],
+    "limitacoes": "Paginação ReclameAqui degradada (páginas 2+ vazias). Cakto Pay retorna 404. WebFetch bloqueado.",
+    "resumo": "Quinta rodada do dia mantém confirmação de Stalker AI e Painel Elite. Sem novas ofertas escalando. Temperatura geral: FRIA. Padrão técnico de degradação persiste desde 27/09.",
+    "recomendacao": "Stalker AI mantém posição quente — candidata a clonagem. Aguardar próximas rodadas (17h, 20h, 22h) para validar se novos padrões emergem ou se dia consolida sem escalação."
+  }
+}

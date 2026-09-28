@@ -14,8 +14,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
-   "corpo": "# Radar 2026-09-28\n\n## Novas\n\n- [[placar-exato]] — apostas-previsao — desconhecido — Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.\n\n## Movimento\n\n- [[stalker-ai]] — ra_reclamacoes atualizado para 1\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n- [[loopyz]] — ra_reclamacoes atualizado para 1\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-28 -- 2136]] - perfectpay, cakto-pay - 3 achado(s) - 3 ofertas mapeadas (2 confirmadas persistentes, 1 potencial nova). Coleta com limitações técnicas.\n- [[2026-09-28 -- 2217]] - perfectpay, cakto - 4 achado(s)\n- [[2026-09-28 -- 1155]] - perfectpay, cakto - 7 achado(s)\n"
+   "n_passadas": 4,
+   "corpo": "# Radar 2026-09-28\n\n## Novas\n\n- [[placar-exato]] — apostas-previsao — desconhecido — Produto de previsão de placar. Reclamação sobre propaganda enganosa. NOVA - primeira aparição em rodada.\n\n## Movimento\n\n- [[stalker-ai]] — ra_reclamacoes atualizado para 1\n- [[painel-elite]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n- [[loopyz]] — ra_reclamacoes atualizado para 1\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-28 -- 2136]] - perfectpay, cakto-pay - 3 achado(s) - 3 ofertas mapeadas (2 confirmadas persistentes, 1 potencial nova). Coleta com limitações técnicas.\n- [[2026-09-28 -- 2217]] - perfectpay, cakto - 4 achado(s)\n- [[2026-09-28 -- 1155]] - perfectpay, cakto - 7 achado(s)\n- [[2026-09-28 -- 1318]] - perfectpay - 2 achado(s)\n"
   },
   {
    "arquivo": "Radar/2026-09-27.md",
@@ -373,6 +373,22 @@
    "origem": "tarefa agendada",
    "ofertas": [],
    "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-28]].\n\n# Rodada — 28/09/2026 · 21:36 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay · **Páginas:** 10 · **Coleta:** parcial · **Achados:** 3\n\n## Confirmadas\n- Stalker AI — PerfectPay · Persistente\n- Painel Elite — PerfectPay · Persistente\n\n## Potenciais Novas\n- Método Atlas — PerfectPay · Educação (requer verificação)\n\n**Leitura:** Coleta limitada por restrições de acesso ao site. Padrão estável de reembolso/cancelamento. Nenhuma escalação crítica. Recomendação: usar browser automation para próximas rodadas.\n"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-09-28 -- 1318.md",
+   "data": "2026-09-28",
+   "hora": "13:18",
+   "gateways": [
+    "perfectpay"
+   ],
+   "paginas": 1,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "painel-elite",
+    "stalker-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-28]].\n\n# Rodada — 28/09/2026 · 13:18 Fortaleza\n\n**Gateways:** perfectpay · **Páginas:** 1 · **Coleta:** ok · **Achados:** 2\n\n- [[stalker-ai]] — PerfectPay · App de espionar WhatsApp/Instagram. 5ª aparição no dia (04:30, 11:55, 13:17). Operação sustentada, monetização por créditos.\n- [[painel-elite]] — PerfectPay · Painel para vendedores. 4ª aparição no dia. Operação consolidada, modelo de cancelamento agressivo.\n"
   },
   {
    "arquivo": "Radar/rodadas/2026-09-28 -- 1155.md",
