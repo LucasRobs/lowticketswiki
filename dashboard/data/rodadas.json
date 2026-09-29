@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-09-29.md",
    "data": "2026-09-29",
    "titulo": "Radar 2026-09-29",
-   "ofertas_vistas": 7,
-   "novas": 3,
+   "ofertas_vistas": 10,
+   "novas": 6,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -14,8 +14,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-09-29\n\n## Novas\n\n- [[muscleflix]] — streaming-fitness — R$ 29-99 — Streaming de campeonatos de fisiculturismo. Problema: fricção de cancelamento (sem botão de cancelar visível), cobrança continua mesmo após…\n- [[protocolo-de-reprogramacao-neural]] — autoajuda-pnl — R$ 97-99 — Curso/PLR de autoajuda (4 semanas). Problema: suporte inadequado, Cakto redireciona para produtor que não responde.\n- [[minha-historinha]] — educacao-infantil — R$ 9-49 — Livro infantil digital. Problema: não recebimento de link de acesso após pagamento (PIX confirmado em 22/09, sem entrega até 29/09).\n\n## Movimento\n\n- [[stalker-ai]] — ra_reclamacoes atualizado para 3\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[painel-elite]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-29 -- 1651]] - perfectpay, cakto-pay - 7 achado(s) - Confirmado novo padrão em Cakto-Pay (fricção de cancelamento/Muscleflix). Stalker AI persiste em PerfectPay. Tickets em faixa R$ 19-297…\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-09-29\n\n## Novas\n\n- [[muscleflix]] — streaming-fitness — R$ 29-99 — Streaming de campeonatos de fisiculturismo. Problema: fricção de cancelamento (sem botão de cancelar visível), cobrança continua mesmo após…\n- [[protocolo-de-reprogramacao-neural]] — autoajuda-pnl — R$ 97-99 — Curso/PLR de autoajuda (4 semanas). Problema: suporte inadequado, Cakto redireciona para produtor que não responde.\n- [[minha-historinha]] — educacao-infantil — R$ 9-49 — Livro infantil digital. Problema: não recebimento de link de acesso após pagamento (PIX confirmado em 22/09, sem entrega até 29/09).\n- [[stalkea-ai]] — espionagem-rastreamento — redacted — App de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada…\n- [[jornada-do-freelancer-online]] — educacao-negocio — redacted — Treinamento online. Reembolso solicitado mas não processado. Reclamação em 25-26/09.\n- [[captchas-no-google]] — servicos-diversos — R$ 17.500 (suspeito) — Serviço de recebimento de captchas. Taxa paga (R$ 17.500 — valor extremo, pode ser formatação) mas serviço não entregue nem reembolso…\n\n## Movimento\n\n- [[stalker-ai]] — ra_reclamacoes atualizado para 3\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[painel-elite]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-29 -- 1651]] - perfectpay, cakto-pay - 7 achado(s) - Confirmado novo padrão em Cakto-Pay (fricção de cancelamento/Muscleflix). Stalker AI persiste em PerfectPay. Tickets em faixa R$ 19-297…\n- [[2026-09-29 -- 1718]] - perfectpay, cakto-pay - 6 achado(s) - Stalkea.ai mantém tráfego pago; Muscleflix replica padrão de fricção de cancelamento (multi-gateway); 4 novos produtos (3 educação/1…\n"
   },
   {
    "arquivo": "Radar/2026-09-28.md",
@@ -357,6 +357,24 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-29 -- 1718.md",
+   "data": "2026-09-29",
+   "hora": "17:18",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 14,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "minha-historinha",
+    "muscleflix",
+    "stalkea-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-29]].\n\n# Rodada — 29/09/2026 · 17:18 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay · **Páginas:** 14 · **Coleta:** parcial · **Achados:** 6\n\n## Quentes\n- [[stalkea-ai]] — PerfectPay · Persistente (terceira menção em 24h); tráfego pago sustentado\n\n## Mornas\n- [[muscleflix]] — Cakto Pay · Fricção de cancelamento + suporte mudo = padrão replicável\n\n## Frias\n- [[protocolo-reprogramacao-neural]] — Novo, suporte inadequado (Cakto redireciona pra produtor)\n- [[minha-historinha]] — Novo, não recebimento 7 dias pós-compra\n- [[jornada-freelancer]] — Novo, reembolso bloqueado\n- [[captchas-google]] — Novo, suspeita de fraude (valor extremo R$ 17.500)\n\n**Coleta:** 14 páginas entre ambos gateways; paginação ReclameAqui degradada em páginas intermediárias.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-29 -- 1651.md",
    "data": "2026-09-29",

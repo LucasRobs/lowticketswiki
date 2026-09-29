@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/minha-historinha"
-gateways_detectados: [cakto]
+gateways_detectados: [cakto, cakto-pay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [cakto]
+ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-29
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway cakto-pay). Livro infantil digital. Não recebimento de link: compra 22/09 → reclamação 29/09 (7 dias sem entrega). Pode ser problema técnico ou negligência deliberada.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-link-do-livro-minha-historinha-apos-pagamento-via-pix_U7wp_PH9c4g5gNH7/

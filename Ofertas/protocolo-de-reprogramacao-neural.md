@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/protocolo-de-reprogramacao-neural"
-gateways_detectados: [cakto]
+gateways_detectados: [cakto, cakto-pay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [cakto]
+ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-29
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway cakto-pay). Curso de 4 semanas. Suporte inadequado: Cakto redireciona pra produtor ("não é responsável"), produtor não responde. Sinal de negligência intencional.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-tirar-duvidas-sobre-o-protocolo-de-reprogramacao-neural_dMFgS_n-UN5UgLWD/

@@ -1,0 +1,95 @@
+{
+  "data_varredura": "2026-09-29",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 376, "paginas_varridas": 8},
+    {"nome": "Cakto Pay", "slug": "cakto-pay", "reclamacoes_ativas": 18492, "paginas_varridas": 6}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkea.ai",
+      "tipo": "marca",
+      "gateway": "perfectpay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "redacted",
+      "termo_busca": "Stalkea",
+      "descricao": "App de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada 13:51 de hoje — tráfego pago sustentado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/",
+      "status_persistencia": "persistente"
+    },
+    {
+      "produto": "Muscleflix",
+      "tipo": "marca",
+      "gateway": "cakto-pay",
+      "nicho": "streaming-entretenimento",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "redacted",
+      "termo_busca": "Muscleflix",
+      "descricao": "Streaming de fisiculturismo/competições. Sem botão visível de cancelamento. Suporte não responde; cobrança recorrente continua. Padrão replicável: fricção de cancelamento = ordem bump invisível.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-da-muscleflix-e-da-cakto-nenhum-me-responde_muYr8noRQp_tMEdU/",
+      "status_persistencia": "persistente"
+    },
+    {
+      "produto": "Protocolo de Reprogramação Neural",
+      "tipo": "marca",
+      "gateway": "cakto-pay",
+      "nicho": "educacao-desenvolvimento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97,99",
+      "termo_busca": "Protocolo Reprogramação",
+      "descricao": "Curso de 4 semanas. Suporte inadequado: Cakto redireciona pra produtor (\"não é responsável\"), produtor não responde. Sinal de negligência intencional.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-tirar-duvidas-sobre-o-protocolo-de-reprogramacao-neural_dMFgS_n-UN5UgLWD/",
+      "status_persistencia": "novo"
+    },
+    {
+      "produto": "Minha Historinha",
+      "tipo": "marca",
+      "gateway": "cakto-pay",
+      "nicho": "educacao-infantil",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "redacted",
+      "termo_busca": "Minha Historinha",
+      "descricao": "Livro infantil digital. Não recebimento de link: compra 22/09 → reclamação 29/09 (7 dias sem entrega). Pode ser problema técnico ou negligência deliberada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-link-do-livro-minha-historinha-apos-pagamento-via-pix_U7wp_PH9c4g5gNH7/",
+      "status_persistencia": "novo"
+    },
+    {
+      "produto": "Jornada do Freelancer Online",
+      "tipo": "marca",
+      "gateway": "perfectpay",
+      "nicho": "educacao-negocio",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "redacted",
+      "termo_busca": "Jornada Freelancer",
+      "descricao": "Treinamento online. Reembolso solicitado mas não processado. Reclamação em 25-26/09.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicitei-reembolso-de-treinamento-online-e-nao-obtive-resposta_P1ceNp74UMxmCYBx/",
+      "status_persistencia": "novo"
+    },
+    {
+      "produto": "Captchas no Google",
+      "tipo": "marca",
+      "gateway": "perfectpay",
+      "nicho": "servicos-diversos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 17.500 (suspeito)",
+      "termo_busca": "Captchas Google",
+      "descricao": "Serviço de recebimento de captchas. Taxa paga (R$ 17.500 — valor extremo, pode ser formatação) mas serviço não entregue nem reembolso processado. Suspeita de fraude ou erro de entrada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/paguei-taxa-para-receber-captchas-no-google-e-nao-recebi-nem-o-valor-nem-a-devolucao_EPc68aBY7XP5R0hz/",
+      "status_persistencia": "novo"
+    }
+  ],
+  "passada": {
+    "hora": "17:18",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 14,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkea-ai]] — PerfectPay · Persistente (terceira menção em 24h); tráfego pago sustentado\n\n## Mornas\n- [[muscleflix]] — Cakto Pay · Fricção de cancelamento + suporte mudo = padrão replicável\n\n## Frias\n- [[protocolo-reprogramacao-neural]] — Novo, suporte inadequado (Cakto redireciona pra produtor)\n- [[minha-historinha]] — Novo, não recebimento 7 dias pós-compra\n- [[jornada-freelancer]] — Novo, reembolso bloqueado\n- [[captchas-google]] — Novo, suspeita de fraude (valor extremo R$ 17.500)\n\n**Coleta:** 14 páginas entre ambos gateways; paginação ReclameAqui degradada em páginas intermediárias.",
+    "resumo": "Stalkea.ai mantém tráfego pago; Muscleflix replica padrão de fricção de cancelamento (multi-gateway); 4 novos produtos (3 educação/1 suspeita); Cakto com 18k reclamações vs. PerfectPay 376 ativas."
+  }
+}

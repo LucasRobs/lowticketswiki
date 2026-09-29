@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/muscleflix"
-gateways_detectados: [cakto]
+gateways_detectados: [cakto, cakto-pay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [cakto]
+ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-29
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway cakto-pay). Streaming de fisiculturismo/competições. Sem botão visível de cancelamento. Suporte não responde; cobrança recorrente continua. Padrão replicável: fricção de cancelamento = ordem bump invisível.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-da-muscleflix-e-da-cakto-nenhum-me-responde_muYr8noRQp_tMEdU/

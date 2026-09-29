@@ -1,14 +1,14 @@
 {
  "esquema": 1,
- "hash": "b3c346f189661ee7",
- "atualizado_em": "2026-09-29T16:54:16-03:00",
- "ofertas": 161,
+ "hash": "911f35f2a43c62d8",
+ "atualizado_em": "2026-09-29T17:19:11-03:00",
+ "ofertas": 164,
  "angulos": 25,
- "observacoes": 318,
+ "observacoes": 321,
  "ultima_rodada": "2026-09-29",
  "ultima_passada": {
   "data": "2026-09-29",
-  "hora": "16:51",
+  "hora": "17:18",
   "coleta": "parcial",
   "gateways": [
    "perfectpay",
