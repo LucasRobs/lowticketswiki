@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-28
-rodadas_vista: 7
+visto_ultimo: 2026-09-29
+rodadas_vista: 8
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 3
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-28
+ra_checado: 2026-09-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -125,3 +125,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do
 1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de suplementação/saúde. Reclamação por propaganda enganosa. NOVA - primeira menção.
 
 Evidencia: 
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de saúde/wellness. Problema: propaganda enganosa, refund requests persistentes.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa/

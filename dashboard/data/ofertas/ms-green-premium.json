@@ -33,8 +33,8 @@
   "s_saturacao": 5,
   "status": "ativa",
   "visto_primeiro": "2026-09-22",
-  "visto_ultimo": "2026-09-28",
-  "rodadas_vista": 7,
+  "visto_ultimo": "2026-09-29",
+  "rodadas_vista": 8,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-28",
+  "ra_checado": "2026-09-29",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# MS GREEN PREMIUM\n\n## Angulo\nSuplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.\n\n## Funil\nanuncio -> pagina -> compra -> reclamante alega propaganda enganosa, arrependimento.\n\n## Por que funciona\nAinda nao avaliado — uma mencao apenas, sinal fraco.\n\n## O que copiar / o que evitar\nProduto fisico com logistica real: teto baixo de `s_replica` por padrao do vault (produto fisico penaliza replicabilidade). Nao e prioridade de clonagem.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout (PerfectPay), 1 mencao em amostra parcial (15 paginas) de 22/09.\n- **Faltando:** quase tudo — sinal unico (`fria`), sem Etapa 1. Manter em observacao passiva.\n- **Nota de metodo:** mesma limitacao de `boss-ia-trade` — captura via skill sincronizada, sem dedup por URL/ID.\n\n## Historico\n\n## Rodada 2026-09-22\n\n3 mencao(oes) nesta varredura (gateway PerfectPay). Produto de saúde/suplemento com propaganda enganosa. Não cumpre promessas. Mecânica: descrição agressiva, produto inútil.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Propaganda enganosa, não cumpre o que promete.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada 04h41 e 14h12. Propaganda enganosa, vendedor inacessivel.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Aparece com a variacao 'Master Betano 1.0' (previsoes de aposta) - pode ser mais de um produto sob o mesmo vendedor.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de cosmética/capilar. Propaganda enganosa. Persistente de 26/09 - mesma data de avistamento anterior.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de suplementação/saúde. Reclamação por propaganda enganosa. NOVA - primeira menção.\n\nEvidencia:\n",
+ "corpo": "# MS GREEN PREMIUM\n\n## Angulo\nSuplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.\n\n## Funil\nanuncio -> pagina -> compra -> reclamante alega propaganda enganosa, arrependimento.\n\n## Por que funciona\nAinda nao avaliado — uma mencao apenas, sinal fraco.\n\n## O que copiar / o que evitar\nProduto fisico com logistica real: teto baixo de `s_replica` por padrao do vault (produto fisico penaliza replicabilidade). Nao e prioridade de clonagem.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout (PerfectPay), 1 mencao em amostra parcial (15 paginas) de 22/09.\n- **Faltando:** quase tudo — sinal unico (`fria`), sem Etapa 1. Manter em observacao passiva.\n- **Nota de metodo:** mesma limitacao de `boss-ia-trade` — captura via skill sincronizada, sem dedup por URL/ID.\n\n## Historico\n\n## Rodada 2026-09-22\n\n3 mencao(oes) nesta varredura (gateway PerfectPay). Produto de saúde/suplemento com propaganda enganosa. Não cumpre promessas. Mecânica: descrição agressiva, produto inútil.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Propaganda enganosa, não cumpre o que promete.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada 04h41 e 14h12. Propaganda enganosa, vendedor inacessivel.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Aparece com a variacao 'Master Betano 1.0' (previsoes de aposta) - pode ser mais de um produto sob o mesmo vendedor.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de cosmética/capilar. Propaganda enganosa. Persistente de 26/09 - mesma data de avistamento anterior.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de suplementação/saúde. Reclamação por propaganda enganosa. NOVA - primeira menção.\n\nEvidencia: \n\n## Rodada 2026-09-29\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de saúde/wellness. Problema: propaganda enganosa, refund requests persistentes.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa/\n",
  "observacoes": [
   {
    "data": "2026-09-22",
@@ -156,9 +156,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Produto de suplementação/saúde. Reclamação por propaganda enganosa. NOVA - primeira menção."
+  },
+  {
+   "data": "2026-09-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Produto de saúde/wellness. Problema: propaganda enganosa, refund requests persistentes."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-29.md",
+   "data": "2026-09-29",
+   "titulo": "Radar 2026-09-29"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-09-28 -- 1155.md",

@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-28
-rodadas_vista: 9
+visto_ultimo: 2026-09-29
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-28
+ra_checado: 2026-09-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -135,3 +135,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-aces
 1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de automação/radar de vendas. Cobrança efetuada sem acesso aos resultados. NOVA - primeira menção.
 
 Evidencia: 
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise/monitoramento. Problema: acesso negado aos resultados após pagamento.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar/

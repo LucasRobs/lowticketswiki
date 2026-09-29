@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-26
-visto_ultimo: 2026-09-28
-rodadas_vista: 3
+visto_ultimo: 2026-09-29
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-28
+ra_checado: 2026-09-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz
 ## Rodada 2026-09-28
 
 0 mencao(oes) nesta varredura (gateway PerfectPay). Painel de gestão/automação. Padrão: acesso negado, reembolso não processado.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Produto não identificado. Refund request simples.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/

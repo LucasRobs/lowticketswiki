@@ -35,8 +35,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-27",
-  "visto_ultimo": "2026-09-28",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-09-29",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-28",
+  "ra_checado": "2026-09-29",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Stalker AI\n\n## Angulo\nApp de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/\n\n## Historico\n\n## Rodada 2026-09-27\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). App de espionagem. Variação de Stalkeia.ai (já vista em rodadas 06:11, 11:07). Padrão: acesso negado, reembolso não atendido.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/\n\n## Rodada 2026-09-28\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). App de espionagem de WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai. Cobra créditos extras para liberar resultado. Operação de escala (múltiplos gateways).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_crQJ5-S8XrrK7baT/\n",
+ "corpo": "# Stalker AI\n\n## Angulo\nApp de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/\n\n## Historico\n\n## Rodada 2026-09-27\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). App de espionagem. Variação de Stalkeia.ai (já vista em rodadas 06:11, 11:07). Padrão: acesso negado, reembolso não atendido.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/\n\n## Rodada 2026-09-28\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). App de espionagem de WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai. Cobra créditos extras para liberar resultado. Operação de escala (múltiplos gateways).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_crQJ5-S8XrrK7baT/\n\n## Rodada 2026-09-29\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). App de rastreamento/espionagem (WhatsApp, Instagram). Problema: produto não fornece informações úteis, apenas genérico. Persistente em rodadas anteriores.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/\n",
  "observacoes": [
   {
    "data": "2026-09-27",
@@ -98,9 +98,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "0 mencao(oes) na varredura de hoje. App de espionagem de WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai. Cobra créditos extras para liberar resultado. Operação de escala (múltiplos gateways)."
+  },
+  {
+   "data": "2026-09-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 19,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. App de rastreamento/espionagem (WhatsApp, Instagram). Problema: produto não fornece informações úteis, apenas genérico. Persistente em rodadas anteriores."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-29.md",
+   "data": "2026-09-29",
+   "titulo": "Radar 2026-09-29"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",

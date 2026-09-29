@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-26",
-  "visto_ultimo": "2026-09-28",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-09-29",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-28",
+  "ra_checado": "2026-09-29",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Painel Elite\n\n## Angulo\nDashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-26 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto digital genérico. Solicitação de reembolso não atendida. Novo achado, tipo SAAS/painel sem contexto claro. Acompanhar em próximas rodadas.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/\n\n## Rodada 2026-09-28\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). Painel de gestão/automação. Padrão: acesso negado, reembolso não processado.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/\n",
+ "corpo": "# Painel Elite\n\n## Angulo\nDashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-26 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto digital genérico. Solicitação de reembolso não atendida. Novo achado, tipo SAAS/painel sem contexto claro. Acompanhar em próximas rodadas.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/\n\n## Rodada 2026-09-28\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). Painel de gestão/automação. Padrão: acesso negado, reembolso não processado.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/\n\n## Rodada 2026-09-29\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Produto não identificado. Refund request simples.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/\n",
  "observacoes": [
   {
    "data": "2026-09-26",
@@ -108,9 +108,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "0 mencao(oes) na varredura de hoje. Painel de gestão/automação. Padrão: acesso negado, reembolso não processado."
+  },
+  {
+   "data": "2026-09-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 29,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Produto não identificado. Refund request simples."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-09-29.md",
+   "data": "2026-09-29",
+   "titulo": "Radar 2026-09-29"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",

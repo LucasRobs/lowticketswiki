@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-09-28
-rodadas_vista: 2
+visto_ultimo: 2026-09-29
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 3
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-28
+ra_checado: 2026-09-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-
 0 mencao(oes) nesta varredura (gateway PerfectPay). App de espionagem de WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai. Cobra créditos extras para liberar resultado. Operação de escala (múltiplos gateways).
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_crQJ5-S8XrrK7baT/
+
+## Rodada 2026-09-29
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App de rastreamento/espionagem (WhatsApp, Instagram). Problema: produto não fornece informações úteis, apenas genérico. Persistente em rodadas anteriores.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/

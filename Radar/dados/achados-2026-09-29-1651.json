@@ -1,0 +1,119 @@
+{
+  "data_varredura": "2026-09-29",
+  "hora_varredura": "16:51",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "reclamacoes_ativas": 4502,
+      "paginas_varridas": 11
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto-pay",
+      "reclamacoes_ativas": null,
+      "paginas_varridas": 1
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Stalker AI",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalker",
+      "descricao": "App de rastreamento/espionagem (WhatsApp, Instagram). Problema: produto não fornece informações úteis, apenas genérico. Persistente em rodadas anteriores.",
+      "data_reclamacao": "2026-09-27",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-o-app-stalker-ai-e-nao-recebi-o-servico-prometido_UgzuvhHEWuc43EaX/"
+    },
+    {
+      "produto": "MS Green Premium",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "saude-wellness",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97-297",
+      "termo_busca": "MS Green",
+      "descricao": "Produto de saúde/wellness. Problema: propaganda enganosa, refund requests persistentes.",
+      "data_reclamacao": "2026-09-26",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa/"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ferramentas-analise",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 47-197",
+      "termo_busca": "ZAP Radar",
+      "descricao": "Ferramenta de análise/monitoramento. Problema: acesso negado aos resultados após pagamento.",
+      "data_reclamacao": "2026-09-26",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar/"
+    },
+    {
+      "produto": "Muscleflix",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "streaming-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 29-99",
+      "termo_busca": "Muscleflix",
+      "descricao": "Streaming de campeonatos de fisiculturismo. Problema: fricção de cancelamento (sem botão de cancelar visível), cobrança continua mesmo após solicitação de cancelamento.",
+      "data_reclamacao": "2026-09-29",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-da-muscleflix-e-da-cakto-nenhum-me-responde_muYr8noRQp_tMEdU/"
+    },
+    {
+      "produto": "Protocolo de Reprogramação Neural",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "autoajuda-pnl",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97-99",
+      "termo_busca": "Reprogramação Neural",
+      "descricao": "Curso/PLR de autoajuda (4 semanas). Problema: suporte inadequado, Cakto redireciona para produtor que não responde.",
+      "data_reclamacao": "2026-09-29",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-tirar-duvidas-sobre-o-protocolo-de-reprogramacao-neural_dMFgS_n-UN5UgLWD/"
+    },
+    {
+      "produto": "Minha Historinha",
+      "tipo": "marca",
+      "gateway": "Cakto Pay",
+      "nicho": "educacao-infantil",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 9-49",
+      "termo_busca": "Minha Historinha",
+      "descricao": "Livro infantil digital. Problema: não recebimento de link de acesso após pagamento (PIX confirmado em 22/09, sem entrega até 29/09).",
+      "data_reclamacao": "2026-09-29",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-link-do-livro-minha-historinha-apos-pagamento-via-pix_U7wp_PH9c4g5gNH7/"
+    },
+    {
+      "produto": "Painel Elite",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "desconhecido",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 29-297",
+      "termo_busca": "Painel Elite",
+      "descricao": "Produto não identificado. Refund request simples.",
+      "data_reclamacao": "2026-09-27",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/painel-elite_9UUY0vFmQ3klaz8Q/"
+    }
+  ],
+  "passada": {
+    "hora": "16:51",
+    "gateways": ["perfectpay", "cakto-pay"],
+    "paginas": 12,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- **Stalker AI** — PerfectPay · Persistente em rodadas anteriores, app não fornece valor prometido\n- **Muscleflix** — Cakto-Pay · Novo padrão confirmado hoje: fricção de cancelamento (sem botão), cobrança continua\n\n## Mornas\n- **MS Green Premium** — PerfectPay · Propaganda enganosa, refund requests\n- **ZAP Radar** — PerfectPay · Acesso negado após pagamento\n- **Protocolo de Reprogramação Neural** — Cakto · Suporte inadequado, ticket médio (R$ 97)\n- **Minha Historinha** — Cakto · Não recebimento de link (7 dias sem entrega)\n\n## Frias\n- **Painel Elite** — PerfectPay · Menção única, produto não identificado\n\nColeta: Parcial (paginação com 404s). ReclameAqui retorna páginas vazias após página 10-11. Amostra: ~60 reclamações, cobrindo ~1-2 dias.",
+    "resumo": "Confirmado novo padrão em Cakto-Pay (fricção de cancelamento/Muscleflix). Stalker AI persiste em PerfectPay. Tickets em faixa R$ 19-297, concentração em R$ 29-99 (subscriptions recorrentes)."
+  }
+}

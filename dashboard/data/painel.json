@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 158,
+  "ofertas": 161,
   "angulos": 25,
-  "observacoes": 311,
-  "dias_radar": 21,
-  "passadas": 26,
+  "observacoes": 318,
+  "dias_radar": 22,
+  "passadas": 27,
   "analises": 12,
-  "ultima_rodada": "2026-09-28"
+  "ultima_rodada": "2026-09-29"
  },
  "ofertas": [
   {
@@ -7345,6 +7345,61 @@
    ]
   },
   {
+   "slug": "minha-historinha",
+   "nome": "Minha Historinha",
+   "classe": "oferta",
+   "nicho": "educacao-infantil",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 29,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-29",
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-29",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Minha%20Historinha&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 1,
+   "resumo": "Livro infantil digital. Problema: não recebimento de link de acesso após pagamento (PIX confirmado em 22/09, sem entrega até 29/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "missa-em-atividades",
    "nome": "Missa em Atividades — kit catolico infantil imprimivel",
    "classe": "oferta",
@@ -7600,21 +7655,21 @@
    "score": 2.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-09-29",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
-   "n_obs": 7,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 14,
+   "n_obs": 8,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 15,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -7674,6 +7729,61 @@
    "flags": [
     "checkout-desconhecido",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "muscleflix",
+   "nome": "Muscleflix",
+   "classe": "oferta",
+   "nicho": "streaming-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 29,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 64,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-29",
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-29",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Muscleflix&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 1,
+   "resumo": "Streaming de campeonatos de fisiculturismo. Problema: fricção de cancelamento (sem botão de cancelar visível), cobrança continua mesmo após solicitação de cancelamento.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -7931,21 +8041,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-09-29",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Painel%20Elite&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 9,
+   "n_obs": 4,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 10,
    "resumo": "Dashboard prometido nao liberado; empresa retem o dinheiro e responde so com mensagem automatica (~19/09).",
    "flags": [
     "score-provisorio",
@@ -8281,7 +8391,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8559,6 +8670,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "protocolo-de-reprogramacao-neural",
+   "nome": "Protocolo de Reprogramação Neural",
+   "classe": "oferta",
+   "nicho": "autoajuda-pnl",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 97,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 98,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-29",
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-29",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Reprogramação%20Neural&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 1,
+   "resumo": "Curso/PLR de autoajuda (4 semanas). Problema: suporte inadequado, Cakto redireciona para produtor que não responde.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -9379,21 +9545,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-09-29",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalker%20AI&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 6,
+   "n_obs": 3,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 7,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
    "flags": [
     "score-provisorio",
@@ -10155,21 +10321,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 9,
+   "visto_ultimo": "2026-09-29",
+   "rodadas_vista": 10,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-09-29",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 9,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 15,
+   "n_obs": 10,
+   "ultima_obs": "2026-09-29",
+   "n_citacoes": 16,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -10177,6 +10343,22 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-09-29.md",
+   "data": "2026-09-29",
+   "titulo": "Radar 2026-09-29",
+   "ofertas_vistas": 7,
+   "novas": 3,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto-pay",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-09-28.md",
    "data": "2026-09-28",
@@ -10517,6 +10699,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-29 -- 1651.md",
+   "data": "2026-09-29",
+   "hora": "16:51",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay · Páginas: 12 · Coleta: parcial · Achados: 7 ## Quentes Stalker AI — PerfectPay · Persistente em rodadas anteriores, app não fornece valor prometido Muscleflix — Cakto-Pay · Novo padrão confirmado hoje…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-28 -- 2217.md",
    "data": "2026-09-28",
@@ -11098,6 +11294,10 @@
    "2026-09-28": {
     "oferta": 1,
     "angulo": 0
+   },
+   "2026-09-29": {
+    "oferta": 3,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -11120,7 +11320,8 @@
    "2026-09-25": 25,
    "2026-09-26": 15,
    "2026-09-27": 9,
-   "2026-09-28": 8
+   "2026-09-28": 8,
+   "2026-09-29": 7
   }
  },
  "analises": [
@@ -11307,49 +11508,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 158
+    "total": 161
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 158
+    "total": 161
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 158
+    "total": 161
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 129,
-    "total": 158
+    "preenchidas": 132,
+    "total": 161
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 110,
-    "total": 158
+    "preenchidas": 113,
+    "total": 161
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 158
+    "total": 161
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 158
+    "total": 161
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 102,
-    "total": 158
+    "preenchidas": 105,
+    "total": 161
    }
   ],
   "fila_enriquecimento": [
@@ -11437,6 +11638,7 @@
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
+   "placar-exato",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
@@ -11450,7 +11652,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 494
+   "canonico": 504
   }
  },
  "vocabulario": {
@@ -11497,19 +11699,19 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "647eb87e2940a2cf",
-  "atualizado_em": "2026-09-28T13:18:07-03:00",
-  "ofertas": 158,
+  "hash": "b3c346f189661ee7",
+  "atualizado_em": "2026-09-29T16:54:16-03:00",
+  "ofertas": 161,
   "angulos": 25,
-  "observacoes": 311,
-  "ultima_rodada": "2026-09-28",
+  "observacoes": 318,
+  "ultima_rodada": "2026-09-29",
   "ultima_passada": {
-   "data": "2026-09-28",
-   "hora": "22:17",
-   "coleta": "ok",
+   "data": "2026-09-29",
+   "hora": "16:51",
+   "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto"
+    "cakto-pay"
    ]
   }
  }
