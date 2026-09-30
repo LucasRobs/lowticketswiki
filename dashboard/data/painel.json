@@ -2,12 +2,12 @@
  "esquema": 1,
  "totais": {
   "ofertas": 164,
-  "angulos": 25,
-  "observacoes": 321,
-  "dias_radar": 22,
-  "passadas": 28,
+  "angulos": 26,
+  "observacoes": 323,
+  "dias_radar": 23,
+  "passadas": 29,
   "analises": 12,
-  "ultima_rodada": "2026-09-29"
+  "ultima_rodada": "2026-09-30"
  },
  "ofertas": [
   {
@@ -959,6 +959,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-captchas-google",
+   "nome": "Captchas Google",
+   "classe": "angulo",
+   "nicho": "ganhar-dinheiro-tarefas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 17500,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 17500,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-09-30",
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-30",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Captchas%20Google&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 1,
+   "resumo": "Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de digitação. Repetição em 24h confirma nicho viável.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -2859,7 +2911,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5842,7 +5895,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7507,7 +7561,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7895,7 +7950,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8837,7 +8893,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9573,7 +9630,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -9602,21 +9659,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-29",
-   "visto_ultimo": "2026-09-29",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-29",
+   "ra_checado": "2026-09-30",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-29",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 4,
    "resumo": "App de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada 13:51 de hoje — tráfego pago sustentado.",
    "flags": [
     "score-provisorio",
@@ -10514,6 +10571,22 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-09-30.md",
+   "data": "2026-09-30",
+   "titulo": "Radar 2026-09-30",
+   "ofertas_vistas": 2,
+   "novas": 1,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto-pay",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
+  {
    "arquivo": "Radar/2026-09-29.md",
    "data": "2026-09-29",
    "titulo": "Radar 2026-09-29",
@@ -10869,6 +10942,22 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-30 -- 1017.md",
+   "data": "2026-09-30",
+   "hora": "10:17",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "stalkea-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto · Páginas: 12 · Coleta: parcial · Achados: 2 ## 🔴 Quentes stalkea-ai — PerfectPay · 6ª menção, persistência intra-dia confirmada captchas-google — PerfectPay · Confirmação de novo nicho (R$ 17.500) ## ⚪ Frias…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-29 -- 1718.md",
    "data": "2026-09-29",
@@ -11486,6 +11575,10 @@
    "2026-09-29": {
     "oferta": 6,
     "angulo": 0
+   },
+   "2026-09-30": {
+    "oferta": 0,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -11509,7 +11602,8 @@
    "2026-09-26": 15,
    "2026-09-27": 9,
    "2026-09-28": 8,
-   "2026-09-29": 10
+   "2026-09-29": 10,
+   "2026-09-30": 2
   }
  },
  "analises": [
@@ -11818,6 +11912,7 @@
    "caderno-de-professor",
    "cae-course",
    "cantigas-da-bailarina",
+   "captchas-no-google",
    "carteira-nacional-do-estudante-digital",
    "casinha-dos-sonhos",
    "clube-da-pedagogia",
@@ -11843,6 +11938,7 @@
    "hub-boss-rateio-ia",
    "ia-fx-promocional",
    "instaunlocked",
+   "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
@@ -11854,10 +11950,12 @@
    "metodo-gringa-turbo",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
+   "minha-historinha",
    "missa-em-atividades",
    "modao-raiz",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
+   "muscleflix",
    "o-curso-do-mago",
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
@@ -11867,6 +11965,7 @@
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
+   "protocolo-de-reprogramacao-neural",
    "protocolo-leite-sem-fim",
    "rpr-recomendacoes-personalizadas-remotas",
    "tdah-guia-pais-renata",
@@ -11876,7 +11975,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 510
+   "canonico": 513
   }
  },
  "vocabulario": {
@@ -11923,19 +12022,19 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "911f35f2a43c62d8",
-  "atualizado_em": "2026-09-29T17:19:11-03:00",
+  "hash": "95710bc172cea316",
+  "atualizado_em": "2026-09-30T10:18:38-03:00",
   "ofertas": 164,
-  "angulos": 25,
-  "observacoes": 321,
-  "ultima_rodada": "2026-09-29",
+  "angulos": 26,
+  "observacoes": 323,
+  "ultima_rodada": "2026-09-30",
   "ultima_passada": {
-   "data": "2026-09-29",
-   "hora": "17:18",
+   "data": "2026-09-30",
+   "hora": "10:17",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto-pay"
+    "cakto"
    ]
   }
  }

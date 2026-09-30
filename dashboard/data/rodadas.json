@@ -2,6 +2,22 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-09-30.md",
+   "data": "2026-09-30",
+   "titulo": "Radar 2026-09-30",
+   "ofertas_vistas": 2,
+   "novas": 1,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto-pay",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-09-30\n\n## Novas\n\n- [[angulo-captchas-google]] — ganhar-dinheiro-tarefas — R$ 17.500 — Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de…\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-30 -- 1017]] - perfectpay, cakto - 2 achado(s) - Stalkea.ai consolida padrão de operação sustentada. Captchas Google confirma novo nicho de alta escala em ganhar dinheiro.\n"
+  },
+  {
    "arquivo": "Radar/2026-09-29.md",
    "data": "2026-09-29",
    "titulo": "Radar 2026-09-29",
@@ -357,6 +373,22 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-30 -- 1017.md",
+   "data": "2026-09-30",
+   "hora": "10:17",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "stalkea-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-30]].\n\n# Rodada — 30/09/2026 · 10:17 Fortaleza\n\n**Gateways:** perfectpay, cakto · **Páginas:** 12 · **Coleta:** parcial · **Achados:** 2\n\n## 🔴 Quentes\n- [[stalkea-ai]] — PerfectPay · 6ª menção, persistência intra-dia confirmada\n- [[captchas-google]] — PerfectPay · Confirmação de novo nicho (R$ 17.500)\n\n## ⚪ Frias\n- Produto genérico \"não recebi\" (sem nome, menção isolada)\n\nCakto: 404 persistente (3ª rodada consecutiva).\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-29 -- 1718.md",
    "data": "2026-09-29",

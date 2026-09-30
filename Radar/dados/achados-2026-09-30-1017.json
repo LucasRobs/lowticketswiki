@@ -1,0 +1,52 @@
+{
+  "data_varredura": "2026-09-30",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "reclamacoes_ativas": 4502,
+      "paginas_varridas": 10
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto",
+      "reclamacoes_ativas": null,
+      "paginas_varridas": 0,
+      "nota": "404 em todas as páginas"
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Stalkea.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 19-97",
+      "termo_busca": "Stalkea",
+      "descricao": "App de espionar WhatsApp/Instagram. Funcionalidades não existem e cobram pagamentos adicionais. 6ª menção confirmada em 24h (persistência desde 26/09).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/"
+    },
+    {
+      "produto": "Captchas Google",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro-tarefas",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 17.500",
+      "termo_busca": "Captchas Google",
+      "descricao": "Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de digitação. Repetição em 24h confirma nicho viável.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/paguei-taxa-para-receber-captchas-no-google-e-nao-recebi-nem-o-valor-nem-a-devolucao_EPc68aBY7XP5R0hz/"
+    }
+  ],
+  "passada": {
+    "hora": "10:17",
+    "gateways": ["perfectpay", "cakto"],
+    "paginas": 12,
+    "coleta": "parcial",
+    "relatorio": "## 🔴 Quentes\n- [[stalkea-ai]] — PerfectPay · 6ª menção, persistência intra-dia confirmada\n- [[captchas-google]] — PerfectPay · Confirmação de novo nicho (R$ 17.500)\n\n## ⚪ Frias\n- Produto genérico \"não recebi\" (sem nome, menção isolada)\n\nCakto: 404 persistente (3ª rodada consecutiva).",
+    "resumo": "Stalkea.ai consolida padrão de operação sustentada. Captchas Google confirma novo nicho de alta escala em ganhar dinheiro."
+  }
+}
