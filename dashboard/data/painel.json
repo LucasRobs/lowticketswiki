@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 164,
+  "ofertas": 167,
   "angulos": 26,
-  "observacoes": 323,
+  "observacoes": 329,
   "dias_radar": 23,
-  "passadas": 29,
+  "passadas": 30,
   "analises": 12,
   "ultima_rodada": "2026-09-30"
  },
@@ -3858,6 +3858,61 @@
    ]
   },
   {
+   "slug": "curso-de-marketing-e-vendas-com-ia",
+   "nome": "Curso de Marketing e Vendas com IA",
+   "classe": "oferta",
+   "nicho": "marketing-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 97,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 197,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-30",
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-30",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Marketing%20IA&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 1,
+   "resumo": "Curso online de marketing/vendas com IA. Defeito técnico e mau atendimento; cliente solicita reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "curso-massagem-tantrica",
    "nome": "Curso de Massagem Tantrica (Wiapy)",
    "classe": "oferta",
@@ -4748,11 +4803,12 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
    "gateways": [
+    "hotmart-kiwify",
     "kiwify"
    ],
    "plataforma_ads": [
@@ -4775,27 +4831,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-09-30",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Divas%20Milionarias&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 5,
    "resumo": "Thais Pereira. Educacao financeira feminina. Compra de 23/09 reclamada em 24/09 - a reclamacao mais recente do dia. Nao consegue cancelar, sem resposta.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5734,6 +5789,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "indicadores-de-trading",
+   "nome": "Indicadores de trading",
+   "classe": "oferta",
+   "nicho": "trading",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 197,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 347,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-30",
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-30",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Indicadores%20trading&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 1,
+   "resumo": "Indicadores/sistema de trading. Reclamação: não atingem expectativas de ROI prometidas.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -7184,7 +7294,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -7211,27 +7321,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-09-30",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mentoria%20VPJ&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 5,
    "resumo": "VPJ Treinamentos LTDA, R$ 15.000. Promete acompanhamento 24h, entrega 15 dias; recusa reembolso proporcional. Maior ticket ja registrado no vault.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7295,7 +7404,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -7322,27 +7431,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-09-30",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gringa%20Turbo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 5,
    "resumo": "Curso ligado a viagem/turismo. Reembolso nao processado (compra de 08/09). 1 mencao.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9673,7 +9781,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-09-30",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "App de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada 13:51 de hoje — tráfego pago sustentado.",
    "flags": [
     "score-provisorio",
@@ -10513,6 +10621,61 @@
    ]
   },
   {
+   "slug": "youtube-dark-do-peter",
+   "nome": "YouTube dark do Peter",
+   "classe": "oferta",
+   "nicho": "educacao-youtube",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-30",
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-30",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=YouTube%20dark&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 2,
+   "resumo": "Curso sobre YouTube. Problema relatado: reembolso negado, conteúdo incompleto.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "zap-radar",
    "nome": "ZAP Radar",
    "classe": "oferta",
@@ -10574,16 +10737,19 @@
    "arquivo": "Radar/2026-09-30.md",
    "data": "2026-09-30",
    "titulo": "Radar 2026-09-30",
-   "ofertas_vistas": 2,
-   "novas": 1,
+   "ofertas_vistas": 8,
+   "novas": 4,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto-pay",
+    "eduzz",
+    "hotmart",
+    "kiwify",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -10942,6 +11108,28 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-30 -- 1318.md",
+   "data": "2026-09-30",
+   "hora": "13:18",
+   "gateways": [
+    "perfectpay",
+    "hotmart",
+    "kiwify",
+    "eduzz"
+   ],
+   "paginas": 13,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "divas-milionarias",
+    "mentoria-vpj",
+    "metodo-gringa-turbo",
+    "stalkea-ai",
+    "youtube-dark-do-peter"
+   ],
+   "resumo": "Gateways: perfectpay, hotmart, kiwify, eduzz · Páginas: 13 · Coleta: parcial · Achados: 6 ## Mornas youtube-dark-do-peter — Hotmart · reembolso negado, conteúdo incompleto curso-marketing-vendas-ia — Hotmart · defeito técnico, mau…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-30 -- 1017.md",
    "data": "2026-09-30",
@@ -11577,7 +11765,7 @@
     "angulo": 0
    },
    "2026-09-30": {
-    "oferta": 0,
+    "oferta": 3,
     "angulo": 1
    }
   },
@@ -11603,7 +11791,7 @@
    "2026-09-27": 9,
    "2026-09-28": 8,
    "2026-09-29": 10,
-   "2026-09-30": 2
+   "2026-09-30": 8
   }
  },
  "analises": [
@@ -11720,6 +11908,18 @@
     "codigo": "regra-s_lucro"
    },
    {
+    "arquivo": "Ofertas/divas-milionarias.md",
+    "campo": "gateways_detectados",
+    "msg": "'hotmart-kiwify' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/divas-milionarias.md",
+    "campo": "ra_plataformas",
+    "msg": "'hotmart-kiwify' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/kit-300-aulas-edfisica.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -11819,56 +12019,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 14,
    "status-vencido": 1,
-   "vocabulario": 8
+   "vocabulario": 10
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 164
+    "total": 167
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 164
+    "total": 167
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 164
+    "total": 167
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 135,
-    "total": 164
+    "preenchidas": 138,
+    "total": 167
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 114,
-    "total": 164
+    "preenchidas": 116,
+    "total": 167
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 164
+    "total": 167
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 164
+    "total": 167
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 108,
-    "total": 164
+    "preenchidas": 111,
+    "total": 167
    }
   ],
   "fila_enriquecimento": [
@@ -11927,7 +12127,6 @@
    "desafio-3-dias-copys-validadas",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
-   "divas-milionarias",
    "do-rabisco-a-letra-bonita",
    "fluency-english",
    "forro-do-zero-pe-descalco",
@@ -11946,8 +12145,6 @@
    "little-genius",
    "luna-ia",
    "mdr-despertar-2-0",
-   "mentoria-vpj",
-   "metodo-gringa-turbo",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
@@ -11975,7 +12172,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 513
+   "canonico": 522
   }
  },
  "vocabulario": {
@@ -12022,19 +12219,21 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "95710bc172cea316",
-  "atualizado_em": "2026-09-30T10:18:38-03:00",
-  "ofertas": 164,
+  "hash": "e0601e18df82b7d8",
+  "atualizado_em": "2026-09-30T13:19:03-03:00",
+  "ofertas": 167,
   "angulos": 26,
-  "observacoes": 323,
+  "observacoes": 329,
   "ultima_rodada": "2026-09-30",
   "ultima_passada": {
    "data": "2026-09-30",
-   "hora": "10:17",
+   "hora": "13:18",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto"
+    "hotmart",
+    "kiwify",
+    "eduzz"
    ]
   }
  }

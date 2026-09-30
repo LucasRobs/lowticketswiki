@@ -5,17 +5,20 @@
    "arquivo": "Radar/2026-09-30.md",
    "data": "2026-09-30",
    "titulo": "Radar 2026-09-30",
-   "ofertas_vistas": 2,
-   "novas": 1,
+   "ofertas_vistas": 8,
+   "novas": 4,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto-pay",
+    "eduzz",
+    "hotmart",
+    "kiwify",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-09-30\n\n## Novas\n\n- [[angulo-captchas-google]] — ganhar-dinheiro-tarefas — R$ 17.500 — Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de…\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-30 -- 1017]] - perfectpay, cakto - 2 achado(s) - Stalkea.ai consolida padrão de operação sustentada. Captchas Google confirma novo nicho de alta escala em ganhar dinheiro.\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-09-30\n\n## Novas\n\n- [[angulo-captchas-google]] — ganhar-dinheiro-tarefas — R$ 17.500 — Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de…\n- [[youtube-dark-do-peter]] — educacao-youtube — ? — Curso sobre YouTube. Problema relatado: reembolso negado, conteúdo incompleto.\n- [[curso-de-marketing-e-vendas-com-ia]] — marketing-ia — R$ 97-297 — Curso online de marketing/vendas com IA. Defeito técnico e mau atendimento; cliente solicita reembolso.\n- [[indicadores-de-trading]] — trading — R$ 197-497 — Indicadores/sistema de trading. Reclamação: não atingem expectativas de ROI prometidas.\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 2\n- [[divas-milionarias]] — ra_reclamacoes atualizado para 2\n- [[metodo-gringa-turbo]] — ra_reclamacoes atualizado para 1\n- [[mentoria-vpj]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-30 -- 1017]] - perfectpay, cakto - 2 achado(s) - Stalkea.ai consolida padrão de operação sustentada. Captchas Google confirma novo nicho de alta escala em ganhar dinheiro.\n- [[2026-09-30 -- 1318]] - perfectpay, hotmart, kiwify, eduzz - 6 achado(s) - 6 novos achados: Divas Milionárias em 2 gateways (prioridade alta); cluster IA em crescimento; trading mantém persistência histórica.\n"
   },
   {
    "arquivo": "Radar/2026-09-29.md",
@@ -373,6 +376,28 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-30 -- 1318.md",
+   "data": "2026-09-30",
+   "hora": "13:18",
+   "gateways": [
+    "perfectpay",
+    "hotmart",
+    "kiwify",
+    "eduzz"
+   ],
+   "paginas": 13,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "divas-milionarias",
+    "mentoria-vpj",
+    "metodo-gringa-turbo",
+    "stalkea-ai",
+    "youtube-dark-do-peter"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-30]].\n\n# Rodada — 30/09/2026 · 13:18 Fortaleza\n\n**Gateways:** perfectpay, hotmart, kiwify, eduzz · **Páginas:** 13 · **Coleta:** parcial · **Achados:** 6\n\n## Mornas\n- [[youtube-dark-do-peter]] — Hotmart · reembolso negado, conteúdo incompleto\n- [[curso-marketing-vendas-ia]] — Hotmart · defeito técnico, mau atendimento\n- [[indicadores-trading]] — Hotmart · não atinge expectativas de ROI\n- [[divas-milionarias]] — Hotmart + Kiwify · **2 gateways** · cancelamento travado, suporte fraco\n- [[metodo-gringa-turbo]] — Kiwify · reembolso não processado\n- [[mentoria-vpj]] — Eduzz · falta de suporte, cobrança recusada\n\n## Achados Anteriores (Não Repetidos)\n- [[stalkea-ai]] — Permanece quente (6ª menção em rodada 10:17)\n- [[captchas-google]] — Permanece confirmado (2ª rodada em 10:17)\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-30 -- 1017.md",
    "data": "2026-09-30",

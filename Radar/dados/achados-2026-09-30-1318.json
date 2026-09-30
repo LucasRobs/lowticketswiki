@@ -1,0 +1,88 @@
+{
+  "data_varredura": "2026-09-30",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 1, "coleta": "parcial"},
+    {"nome": "Hotmart", "slug": "hotmart", "paginas_varridas": 6, "coleta": "ok"},
+    {"nome": "Kiwify", "slug": "kiwify", "paginas_varridas": 3, "coleta": "parcial"},
+    {"nome": "Eduzz", "slug": "eduzz", "paginas_varridas": 3, "coleta": "ok"}
+  ],
+  "achados": [
+    {
+      "produto": "YouTube dark do Peter",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "educacao-youtube",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "termo_busca": "YouTube dark",
+      "descricao": "Curso sobre YouTube. Problema relatado: reembolso negado, conteúdo incompleto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/"
+    },
+    {
+      "produto": "Curso de Marketing e Vendas com IA",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-ia",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97-297",
+      "termo_busca": "Marketing IA",
+      "descricao": "Curso online de marketing/vendas com IA. Defeito técnico e mau atendimento; cliente solicita reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/"
+    },
+    {
+      "produto": "Indicadores de trading",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "trading",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 197-497",
+      "termo_busca": "Indicadores trading",
+      "descricao": "Indicadores/sistema de trading. Reclamação: não atingem expectativas de ROI prometidas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/"
+    },
+    {
+      "produto": "Divas Milionárias",
+      "tipo": "marca",
+      "gateway": "Hotmart, Kiwify",
+      "nicho": "financa-pessoal",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "termo_busca": "Divas milionárias",
+      "descricao": "Curso/mentoria sobre finanças pessoais. Padrão: cancelamento difícil, falta de suporte, cobrança recorrente travada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/ | https://www.reclameaqui.com.br/kiwify/"
+    },
+    {
+      "produto": "Método Gringa Turbo",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "metodos-sistemas",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "termo_busca": "Método Gringa",
+      "descricao": "Curso/sistema com padrão de nome comum (método + adjetivo). Reclamação: reembolso não processado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/"
+    },
+    {
+      "produto": "Mentoria VPJ",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "mentoria",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 297-1997",
+      "termo_busca": "Mentoria VPJ",
+      "descricao": "Mentoria/programa. Problema: falta de acompanhamento, recusa de reembolso proporcional, cobrança integral.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/"
+    }
+  ],
+  "passada": {
+    "hora": "13:18",
+    "gateways": ["perfectpay", "hotmart", "kiwify", "eduzz"],
+    "paginas": 13,
+    "coleta": "parcial",
+    "relatorio": "## Mornas\n- [[youtube-dark-do-peter]] — Hotmart · reembolso negado, conteúdo incompleto\n- [[curso-marketing-vendas-ia]] — Hotmart · defeito técnico, mau atendimento\n- [[indicadores-trading]] — Hotmart · não atinge expectativas de ROI\n- [[divas-milionarias]] — Hotmart + Kiwify · **2 gateways** · cancelamento travado, suporte fraco\n- [[metodo-gringa-turbo]] — Kiwify · reembolso não processado\n- [[mentoria-vpj]] — Eduzz · falta de suporte, cobrança recusada\n\n## Achados Anteriores (Não Repetidos)\n- [[stalkea-ai]] — Permanece quente (6ª menção em rodada 10:17)\n- [[captchas-google]] — Permanece confirmado (2ª rodada em 10:17)",
+    "resumo": "6 novos achados: Divas Milionárias em 2 gateways (prioridade alta); cluster IA em crescimento; trading mantém persistência histórica."
+  }
+}
