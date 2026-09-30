@@ -1,0 +1,81 @@
+{
+  "data_varredura": "2026-09-30",
+  "hora_fortaleza": "20:00",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "reclamacoes_ativas": 287669,
+      "paginas_varridas": 12
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto",
+      "reclamacoes_ativas": "N/A",
+      "paginas_varridas": 0,
+      "status": "404 persistente"
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Stalkea.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 8,
+      "faixa_preco": "R$ 37-141",
+      "termo_busca": "Stalkea",
+      "descricao": "App de espionar WhatsApp/Instagram. Múltiplas menções ao longo do dia (continua em escalação). Problema: Não funciona conforme anunciado; cobranças múltiplas sem resultado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-cancelamento-e-reembolso-de-app-que-nao-funciona_WyJm5xeXUQGWuExU/"
+    },
+    {
+      "produto": "MS GREEN PREMIUM",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "saude-wellness",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "N/A",
+      "termo_busca": "MS Green Premium",
+      "descricao": "Produto de saúde/wellness. Problema: Propaganda enganosa, não entrega benefícios prometidos. Primeira menção.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/"
+    },
+    {
+      "produto": "Curso + Comunidade + Fornecedores NFC",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "educacao-marketplace",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "N/A",
+      "termo_busca": "Fornecedores NFC",
+      "descricao": "Curso + acesso a comunidade de vendedores + lista de fornecedores. Problema: Acesso não liberado após compra (login não funciona). Cluster de comunidades de assinatura (similar a Divas Milionárias).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/curso-online-nao-corresponde-ao-anunciado-solicitacao-de-cancelamento-e-reembolso_1m7vKk1v83TN8jpq/"
+    },
+    {
+      "produto": "Produto digital (Instagram)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "redes-sociais-instagram",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "N/A",
+      "termo_busca": "Curso Instagram",
+      "descricao": "Sem nome de produto identificável (redacted no ReclameAqui). Relacionado a Instagram/redes sociais. Problema: Produto falso/propaganda enganosa. Ângulo genérico.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/produto-digital-falso-e-propaganda-enganosa-solicito-reembolso_L7kbfURHuwDyoN7H/"
+    }
+  ],
+  "passada": {
+    "hora": "20:00",
+    "gateways": [
+      "perfectpay",
+      "cakto"
+    ],
+    "paginas": 12,
+    "coleta": "parcial",
+    "status": "Cakto Pay com 404 persistente (4ª rodada consecutiva); PerfectPay com coleta parcial (~40% das páginas retornaram dados).",
+    "relatorio": "## Quentes\n- **Stalkea.ai** (8+ menções, multi-gateway) — App de rastreamento; não funciona conforme prometido\n\n## Mornas\n- **Curso + Comunidade NFC** — Cluster de assinatura recorrente com bloqueio de acesso (padrão emergente)\n- **MS GREEN PREMIUM** — Produto saúde com propaganda enganosa (primeira menção)\n\n## Frias\n- **Produto Instagram** (sem nome) — Ângulo genérico; primeira menção\n\n**Coleta:** Parcial (PerfectPay apenas, Cakto com 404); ~12 páginas varridas; últimas ~4 horas cobertas.",
+    "resumo": "Stalkea.ai consolida posição como oferta quente recorrente; cluster de comunidades de assinatura (NFC, Divas Milionárias, Knights) emerge como padrão replicável de alta escala."
+  }
+}

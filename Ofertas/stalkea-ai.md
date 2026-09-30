@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/stalkea-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-30
