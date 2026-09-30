@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-09-30.md",
    "data": "2026-09-30",
    "titulo": "Radar 2026-09-30",
-   "ofertas_vistas": 8,
-   "novas": 4,
+   "ofertas_vistas": 11,
+   "novas": 6,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -17,8 +17,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
-   "corpo": "# Radar 2026-09-30\n\n## Novas\n\n- [[angulo-captchas-google]] — ganhar-dinheiro-tarefas — R$ 17.500 — Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de…\n- [[youtube-dark-do-peter]] — educacao-youtube — ? — Curso sobre YouTube. Problema relatado: reembolso negado, conteúdo incompleto.\n- [[curso-de-marketing-e-vendas-com-ia]] — marketing-ia — R$ 97-297 — Curso online de marketing/vendas com IA. Defeito técnico e mau atendimento; cliente solicita reembolso.\n- [[indicadores-de-trading]] — trading — R$ 197-497 — Indicadores/sistema de trading. Reclamação: não atingem expectativas de ROI prometidas.\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 2\n- [[divas-milionarias]] — ra_reclamacoes atualizado para 2\n- [[metodo-gringa-turbo]] — ra_reclamacoes atualizado para 1\n- [[mentoria-vpj]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-30 -- 1017]] - perfectpay, cakto - 2 achado(s) - Stalkea.ai consolida padrão de operação sustentada. Captchas Google confirma novo nicho de alta escala em ganhar dinheiro.\n- [[2026-09-30 -- 1318]] - perfectpay, hotmart, kiwify, eduzz - 6 achado(s) - 6 novos achados: Divas Milionárias em 2 gateways (prioridade alta); cluster IA em crescimento; trading mantém persistência histórica.\n"
+   "n_passadas": 3,
+   "corpo": "# Radar 2026-09-30\n\n## Novas\n\n- [[angulo-captchas-google]] — ganhar-dinheiro-tarefas — R$ 17.500 — Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de…\n- [[youtube-dark-do-peter]] — educacao-youtube — ? — Curso sobre YouTube. Problema relatado: reembolso negado, conteúdo incompleto.\n- [[curso-de-marketing-e-vendas-com-ia]] — marketing-ia — R$ 97-297 — Curso online de marketing/vendas com IA. Defeito técnico e mau atendimento; cliente solicita reembolso.\n- [[indicadores-de-trading]] — trading — R$ 197-497 — Indicadores/sistema de trading. Reclamação: não atingem expectativas de ROI prometidas.\n- [[hero-live-shop]] — e-commerce-vendas — N/I — Plataforma de loja online. Problema: cancelamento e reembolso não processados imediatamente. Resolvido após contactar suporte.\n- [[comunidade-knights]] — comunidade-rateio-assinatura — N/I — Serviço de assinatura de comunidade com modelo de rateio. Problema: erro na plataforma impede cancelamento, reembolso travado. Padrão…\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 2\n- [[divas-milionarias]] — ra_reclamacoes atualizado para 2\n- [[metodo-gringa-turbo]] — ra_reclamacoes atualizado para 1\n- [[mentoria-vpj]] — ra_reclamacoes atualizado para 1\n- [[curso-comunidade-fornecedores-nfc]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-09-30 -- 1017]] - perfectpay, cakto - 2 achado(s) - Stalkea.ai consolida padrão de operação sustentada. Captchas Google confirma novo nicho de alta escala em ganhar dinheiro.\n- [[2026-09-30 -- 1318]] - perfectpay, hotmart, kiwify, eduzz - 6 achado(s) - 6 novos achados: Divas Milionárias em 2 gateways (prioridade alta); cluster IA em crescimento; trading mantém persistência histórica.\n- [[2026-09-30 -- 1716]] - perfectpay, cakto - 3 achado(s) - 3 novos achados (Hero Live Shop, Curso NFC, Comunidade Knights); padrão de rateio/comunidade em escalação\n"
   },
   {
    "arquivo": "Radar/2026-09-29.md",
@@ -376,6 +376,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-30 -- 1716.md",
+   "data": "2026-09-30",
+   "hora": "17:16",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 24,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-09-30]].\n\n# Rodada — 30/09/2026 · 17:16 Fortaleza\n\n**Gateways:** perfectpay, cakto · **Páginas:** 24 · **Coleta:** parcial · **Achados:** 3\n\n## Quentes\nNenhum novo.\n\n## Mornas\n- [[Hero Live Shop]] — PerfectPay · Plataforma de e-commerce; cancelamento lento\n- [[Curso NFC Fornecedores]] — PerfectPay · Curso + comunidade; acesso não liberado\n- [[Comunidade Knights]] — PerfectPay · Assinatura de rateio; cancelamento travado\n\n**Consolidação:** Rodada 20h encontrou 3 novos achados (todas mornas). Stalkea.ai continua repetindo (não listado novamente). Cakto Pay segue com 404. Padrão: comunidades de rateio emergen como nicho de assinatura recorrente com dificuldade de cancelamento (similar a Divas Milionárias da rodada 13h).\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-30 -- 1318.md",
    "data": "2026-09-30",

@@ -1,0 +1,64 @@
+{
+  "data_varredura": "2026-09-30",
+  "hora_varredura": "17:16",
+  "gateways": [
+    {
+      "nome": "PerfectPay",
+      "slug": "perfectpay",
+      "reclamacoes_ativas": 287224,
+      "paginas_varridas": 12
+    },
+    {
+      "nome": "Cakto Pay",
+      "slug": "cakto",
+      "reclamacoes_ativas": null,
+      "paginas_varridas": 0
+    }
+  ],
+  "achados": [
+    {
+      "produto": "Hero Live Shop",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "e-commerce-vendas",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "N/I",
+      "termo_busca": "Hero Live Shop",
+      "descricao": "Plataforma de loja online. Problema: cancelamento e reembolso não processados imediatamente. Resolvido após contactar suporte.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicitacao-de-cancelamento-e-reembolso-nao-atendida_YdQ1DkuKkltBcY6Z/"
+    },
+    {
+      "produto": "Curso + Comunidade + Fornecedores NFC",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "negocio-vendas-fornecedores",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "N/I",
+      "termo_busca": "NFC fornecedores",
+      "descricao": "Curso com acesso a comunidade de vendedores e lista de fornecedores NFC. Problema: acesso não liberado após compra (login não funciona). Reembolso processado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/curso-online-nao-corresponde-ao-anunciado-solicitacao-de-cancelamento-e-reembolso_1m7vKk1v83TN8jpq/"
+    },
+    {
+      "produto": "Comunidade Knights",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "comunidade-rateio-assinatura",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "N/I",
+      "termo_busca": "Comunidade Knights",
+      "descricao": "Serviço de assinatura de comunidade com modelo de rateio. Problema: erro na plataforma impede cancelamento, reembolso travado. Padrão: assinatura de difícil cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-consigo-cancelar-assinatura-e-solicitar-reembolso-de-servico-de-rateio_HSJfZ3Ehn9shhuEZ/"
+    }
+  ],
+  "passada": {
+    "hora": "17:16",
+    "gateways": ["perfectpay", "cakto"],
+    "paginas": 24,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\nNenhum novo.\n\n## Mornas\n- [[Hero Live Shop]] — PerfectPay · Plataforma de e-commerce; cancelamento lento\n- [[Curso NFC Fornecedores]] — PerfectPay · Curso + comunidade; acesso não liberado\n- [[Comunidade Knights]] — PerfectPay · Assinatura de rateio; cancelamento travado\n\n**Consolidação:** Rodada 20h encontrou 3 novos achados (todas mornas). Stalkea.ai continua repetindo (não listado novamente). Cakto Pay segue com 404. Padrão: comunidades de rateio emergen como nicho de assinatura recorrente com dificuldade de cancelamento (similar a Divas Milionárias da rodada 13h).",
+    "resumo": "3 novos achados (Hero Live Shop, Curso NFC, Comunidade Knights); padrão de rateio/comunidade em escalação"
+  }
+}

@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 167,
+  "ofertas": 169,
   "angulos": 26,
-  "observacoes": 329,
+  "observacoes": 332,
   "dias_radar": 23,
-  "passadas": 30,
+  "passadas": 31,
   "analises": 12,
   "ultima_rodada": "2026-09-30"
  },
@@ -3579,6 +3579,61 @@
    ]
   },
   {
+   "slug": "comunidade-knights",
+   "nome": "Comunidade Knights",
+   "classe": "oferta",
+   "nicho": "comunidade-rateio-assinatura",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-30",
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-30",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Comunidade%20Knights&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 1,
+   "resumo": "Serviço de assinatura de comunidade com modelo de rateio. Problema: erro na plataforma impede cancelamento, reembolso travado. Padrão: assinatura de difícil cancelamento.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "comunidade-mvz",
    "nome": "Comunidade MVZ",
    "classe": "oferta",
@@ -3807,7 +3862,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -3834,27 +3889,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-25",
-   "visto_ultimo": "2026-09-25",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-25",
+   "ra_checado": "2026-09-30",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fornecedores%20NFC&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-25",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 4,
    "resumo": "'Curso + Comunidade + Fornecedores NFC': acesso a comunidade + lista de fornecedores; entrega menor que o anunciado.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5625,6 +5679,61 @@
     "checkout-desconhecido",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "hero-live-shop",
+   "nome": "Hero Live Shop",
+   "classe": "oferta",
+   "nicho": "e-commerce-vendas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-30",
+   "visto_ultimo": "2026-09-30",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-30",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hero%20Live%20Shop&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-30",
+   "n_citacoes": 1,
+   "resumo": "Plataforma de loja online. Problema: cancelamento e reembolso não processados imediatamente. Resolvido após contactar suporte.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -10737,8 +10846,8 @@
    "arquivo": "Radar/2026-09-30.md",
    "data": "2026-09-30",
    "titulo": "Radar 2026-09-30",
-   "ofertas_vistas": 8,
-   "novas": 4,
+   "ofertas_vistas": 11,
+   "novas": 6,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -10749,7 +10858,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -11108,6 +11217,20 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-09-30 -- 1716.md",
+   "data": "2026-09-30",
+   "hora": "17:16",
+   "gateways": [
+    "perfectpay",
+    "cakto"
+   ],
+   "paginas": 24,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto · Páginas: 24 · Coleta: parcial · Achados: 3 ## Quentes Nenhum novo. ## Mornas Hero Live Shop — PerfectPay · Plataforma de e-commerce; cancelamento lento Curso NFC Fornecedores — PerfectPay · Curso + comunidade…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-30 -- 1318.md",
    "data": "2026-09-30",
@@ -11765,7 +11888,7 @@
     "angulo": 0
    },
    "2026-09-30": {
-    "oferta": 3,
+    "oferta": 5,
     "angulo": 1
    }
   },
@@ -11791,7 +11914,7 @@
    "2026-09-27": 9,
    "2026-09-28": 8,
    "2026-09-29": 10,
-   "2026-09-30": 8
+   "2026-09-30": 11
   }
  },
  "analises": [
@@ -12026,49 +12149,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 167
+    "total": 169
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 167
+    "total": 169
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 167
+    "total": 169
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 138,
-    "total": 167
+    "preenchidas": 140,
+    "total": 169
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 116,
-    "total": 167
+    "total": 169
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 167
+    "total": 169
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 167
+    "total": 169
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 111,
-    "total": 167
+    "preenchidas": 113,
+    "total": 169
    }
   ],
   "fila_enriquecimento": [
@@ -12121,7 +12244,6 @@
    "comunidade-influencers-ia-ascensao",
    "comunidade-mvz",
    "comunidade-renda-em-dolar",
-   "curso-comunidade-fornecedores-nfc",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-3-dias-copys-validadas",
@@ -12172,7 +12294,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 522
+   "canonico": 527
   }
  },
  "vocabulario": {
@@ -12219,21 +12341,19 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "e0601e18df82b7d8",
-  "atualizado_em": "2026-09-30T13:19:03-03:00",
-  "ofertas": 167,
+  "hash": "213fb807a7af0ad2",
+  "atualizado_em": "2026-09-30T17:18:07-03:00",
+  "ofertas": 169,
   "angulos": 26,
-  "observacoes": 329,
+  "observacoes": 332,
   "ultima_rodada": "2026-09-30",
   "ultima_passada": {
    "data": "2026-09-30",
-   "hora": "13:18",
+   "hora": "17:16",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "hotmart",
-    "kiwify",
-    "eduzz"
+    "cakto"
    ]
   }
  }
