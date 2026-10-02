@@ -14,7 +14,7 @@ url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all
 moeda: BRL
 ticket_frente: 37
 ticket_bump: 0
-ticket_upsell: 37
+ticket_upsell: 220
 ticket_medio_est: 74
 margem_est: 0.85
 modelo: [quiz]

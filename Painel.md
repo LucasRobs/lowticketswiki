@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-09-27
+atualizado: 2026-10-02
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,34 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-09-27 (rodada diaria)
+## Leitura atual — 2026-10-02 (rodada diaria)
+
+Passada: [[2026-10-02 -- 0102]] · nota do dia: [[2026-10-02]].
+
+**199 notas · 174 ofertas · 25 ângulos · 6 novas hoje · 12 vistas hoje · status: 79 nova · 44 ativa · 31 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Cinco dias sem nada gravado.** A rodada anterior foi a de 27/09. Entre 27/09 e 02/10 as passadas 6x/dia não deixaram nenhuma nota em `Radar/rodadas/`, nem passada vazia. Ou não rodaram, ou gravaram só na fila do Projeto Claude. O buraco aparece no dashboard como ausência, não como "sem-coleta". Antes de culpar o mercado por qualquer silêncio nesse intervalo, alguém precisa olhar a fila.
+
+**O instrumento melhorou de novo.** Em 27/09 o `?pagina=2` voltava vazio. Hoje, clicar no número da página dentro do navegador interno troca a lista, e o corpo de cada reclamação abre por `fetch` na mesma origem, com ID e carimbo. Foram 26 páginas em 10 gateways (Kiwify, Hotmart, Ticto, Eduzz, Monetizze, Lastlink, Wiapy, Payt, Kirvano, Lowify), cerca de 150 corpos lidos, quase todos de 30/09 e 01/10. A Biblioteca de Anúncios abriu sem aprovação para 5 consultas. Ressalva: o Meta anunciou pausa de anúncios políticos no Brasil de 2 a 5/10. Não afeta infoproduto, mas pode deixar a Biblioteca mais ruidosa nesses dias.
+
+**Sinal novo real: sim, concentrado em três notas que já existiam.** Todas tinham `status: ativa`, então não contam como "retorno".
+- [[treino-trinca]] ganhou **5 reclamações com ID novo** num dia (260567113 a 260606589, todas acima de 260143667), de 12 para **17**. Uma delas mostra a escada inteira: Desafio **R$ 37 → programa R$ 220 → Plano Trinca/TF 1.000 R$ 997**. O degrau de R$ 997 não aparecia em nenhuma leitura anterior. `ticket_upsell` passou de 37 para 220, e o `ticket_medio_est` ficou como estava porque a taxa de aceitação não é conhecida. A busca "treino trinca" na Biblioteca dá ~130 anúncios, só de Pedro Lotz, com criativos novos até 26/09. A busca de 27/09 foi outra, então não há `criativos_delta` honesto. Score continua **6,60**.
+- [[chatgpt-privado]] saiu de 1 para **5**: quatro reclamações em 01/10 nomeiam o produto ou o vendedor (Infinity Apps), e há mais duas prováveis que não foram contadas. A mecânica se repete: o "anual" vira Pix automático mensal. A Biblioteca mostra o que está por trás: **~120 anúncios de "ChatGPT anual", todos iniciados entre 27 e 30/09, vários anunciantes a R$ 21,90.** É uma coorte que nasceu na semana do buraco. Com medição, `s_saturacao` foi para 2 e `s_replica` para 2 (revenda de acesso de terceiro), e o score ficou em **3,00**. Mostra onde há verba, não o que copiar.
+- [[app-do-paizao]] subiu de 3 para **5**. A reclamação 260569507 descreve uma mecânica nova: o comprador apertou o botão "reembolse aqui" e caiu uma cobrança de **R$ 284,90**. Se o relato estiver certo, é upsell de um clique disfarçado de reembolso. Ainda é um relato só.
+
+**Estreias: 6, e uma com longevidade medida.** O **Achados da Ellen** (Kiwify) é um perfil de achadinhos ("comenta eu quero") com anúncio ativo desde **01/08 (62 dias)**. O perfil vende um treinamento de R$ 67 e um grupo por assinatura em Pix automático de R$ 49,90. Foi medido com `s_lucro: 6`, não 7, porque o anúncio vende o achadinho e não a oferta. Score **3,70**, provisório (`s_replica` e `s_saturacao` seguem na sentinela). O **Date Nights Cristão** (Payt, R$ 42, 2 reclamações) encosta no cluster religioso/casal e não tem anúncio ativo com o nome exato. Também estrearam **Coramaflix** (Lowify), que cobra taxa por episódio depois da mensalidade e era o "coramafix" que ficou como sinal fraco em 27/09; **+100 Projetos de Parquinho** (Wiapy, R$ 25,90), PLR de marcenaria com um irmão na Lowify; **SerBene** (Hotmart), R$ 9,90 que vira R$ 59,90 no terceiro mês; e **Seu Curso Viral em 1 Dia** (Kiwify, R$ 47 + 27).
+
+**Mecânica de funil: o preço que muda depois da compra.** SerBene (9,90 → 59,90), ChatGPT "anual" que vira mensal, o Pix automático do grupo da Ellen, a taxa por episódio da Coramaflix e o botão de reembolso do Paizão são a mesma família. O ticket de frente é isca e o valor real está numa cobrança recorrente ou escondida, que a LP não mostra. É o mesmo campo que 27/09 chamou de "venda depois da venda", agora no lado da recorrência. Na Wiapy apareceu outra variante: um checkout com **quatro produtos extras** oferecidos na compra (260571759), ou seja, bump múltiplo em ticket de R$ 20-30.
+
+**Status (decaimento à mão, só nos 10 gateways varridos hoje e só em notas vindas do RA).** **11 estreias de 27/09** que não reapareceram passaram de `nova` para `ativa` (uma rodada de ausência é cobertura). **6 estreias de 24/09** (carteira do estudante, comunidade renda em dólar, divas milionárias, mentoria VPJ, método gringa turbo, protocolo leite sem fim) estão na segunda rodada sem aparecer e foram para `esfriando`. Gerachat e White Driver foram **avistadas**: a mesma reclamação relida na primeira página da Ticto. Atualizaram `visto_ultimo` sem mover a contagem. As notas de dança, parentalidade e infantil desses gateways **não** foram tocadas, porque vieram da Biblioteca e a lista do RA não as mede. As `esfriando` de agosto também ficaram como estavam: a conta de rodadas por gateway desde então dá 5 ou 6, e não dá para afirmar 7.
+
+**Cuidados.** Ler cinco dias de buraco numa noite só infla o "sinal do dia". As 5 reclamações do Treino Trinca e as 4 do ChatGPT Privado são de 01/10, mas foram vistas pela primeira vez hoje porque ninguém olhou antes. Isso mede acumulado, não aceleração. A estreia "Date Nights" usa o nome que o comprador escreveu, e o nome comercial pode ser outro. **73 notas continuam `nova` depois da estreia** (o aviso do `--verificar`), e 13 notas violam o teto de `s_lucro` sem insumo de longevidade. As duas dívidas são as mesmas de 27/09.
+
+**Autocrítica.** O resumo da passada saiu primeiro com "7 novas, 3 retornos". Eram 6 novas e zero retornos, porque as três notas com ID novo já estavam `ativa`. Foi corrigido antes do commit do Painel. É o mesmo vício de 31/08: narrar antes de computar.
+
+---
+
+## Leitura anterior — 2026-09-27 (rodada diaria)
 
 Passada: [[2026-09-27 -- 0113]] · nota do dia: [[2026-09-27]].
 
@@ -59,47 +86,6 @@ Prioridades por aderência: [[31-segredos-pais-tdah]] para TDAH e escola; [[tdah
 
 A Biblioteca de Anúncios funcionou nesta rodada. Ainda faltam métricas de tráfego para a maioria das ofertas; lucro não foi medido. **Scores e decisões automáticas nas Bases abaixo continuam provisórios quando faltam dados.** As outras ofertas não foram reclassificadas por falta de cobertura.
 
----
-
-## Leitura anterior — 2026-08-31 (segunda passada)
-
-**110 notas · 91 ofertas · 19 angulos · 0 novas nesta passada · 1 no corte de replicacao**
-
-Duas passadas hoje. A da manha varreu o nicho infantil pela Biblioteca de Anuncios e trouxe quinze
-notas; esta executou a fila que ela deixou. **A Etapa 1 nao estava disponivel aqui** — o navegador
-interno recusou `facebook.com` duas vezes e o claude-in-chrome segue vazio. O adendo da manha
-descreve um procedimento que custa 2-3 aprovacoes por termo, e **aprovacao pressupoe o Lucas na
-frente da tela**: a Etapa 1 pelo navegador interno e ferramenta de rodada assistida, nao de rodada
-agendada. A cadencia diaria que a manha declarou restaurada vale so para as passadas acompanhadas.
-
-**A correcao que importa: as duas rodadas anteriores relataram o corte sem calcular o corte.** A
-manha abriu anunciando o primeiro cruzamento de sempre — [[little-genius]], 7,60. Mas [[soulmate-sketcher]]
-(7,85) e [[retrato-da-alma-gemea]] (7,65) ja cruzavam, e as duas nasceram em **30/08** — rodada que
-fechou o texto dizendo "decimo dia de zero no corte". O corte e uma formula sobre o frontmatter e
-ninguem a estava rodando; a narrativa vinha da memoria do que tinha acabado de ser escrito. Regra
-nova de processo: **computar o ranking antes de narrar**, toda rodada.
-
-**Auditadas, as duas caem — e pelo mesmo vicio, nos dois eixos de maior peso.** A soulmate marcava
-`s_lucro: 9` com `dias_no_ar: 0`, `criativos_ultima: 0` e `ra_reclamacoes: 0`, e o corpo da nota
-escrevendo *"so a Biblioteca de Anuncios mede"* — declarou nao ter instrumento e cravou o maximo do
-eixo de peso 35. O retrato marcava `s_saturacao: 8` com a prosa da propria nota dizendo *"ha dezenas
-de clones"*; ali nem faltava dado, faltava ler. Corrigidas para 6,10 e 6,40. **Isso inverte o
-diagnostico de 29/08:** campo faltando nao empurra o score para baixo, empurra para onde quem
-preencheu quis — e quem preenche acabou de gastar meia hora se convencendo de que a oferta e boa.
-Hoje **22 ofertas** tem `s_lucro >= 5` sem nenhum insumo de longevidade e **14** tem `s_lucro >= 7`
-nas mesmas condicoes, entre elas [[treino-trinca]], a nota que o Painel de 29/08 citou como "o teto
-das ofertas reais". O teto era ele proprio um palpite. Regra nova no `Scoring.md`: **`s_lucro >= 7`
-exige `dias_no_ar > 0` ou `ra_primeira_reclamacao`; sem isso o teto e 6** — aplicada so onde muda
-veredito, para nao trocar um palpite por outro em lote.
-
-**De medicao de campo, o angulo de alma gemea:** tres paginas de produtor no Reclame Aqui,
-`retrato-da-alma-gemea` (M=206, N=21, mais recente ha 16 dias), `alma-gemea` (M=19, N=2, ha 3 meses)
-e `desenho-da-alma-gemea` (M=16, N=0, ha 1 ano), mais Marcia Sensitiva, Mestre Zion, Aurara Vidal e
-Alma Gemea Chay soltos nos corpos. **Seis operadores nomeaveis, um vivo** — e as 206 reclamacoes do
-sobrevivente sao de nao-entrega. Mesma forma do achado da manha sobre bonecas de papel: o ativo
-circula pronto, os clones sao muitos, e **o que separa vivo de morto nao e a copy, e a entrega.**
-Proxima passada precisa ser **assistida**, para os tres itens de browser que ficaram na fila.
-Distribuicao final: **52 morta · 29 esfriando · 20 nova · 9 ativa**.
 ---
 
 ## Ranking — ofertas reais

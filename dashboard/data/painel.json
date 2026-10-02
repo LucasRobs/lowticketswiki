@@ -16,7 +16,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -62,8 +62,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -417,23 +416,23 @@
     "direct"
    ],
    "formato_entrega": [],
-   "recorrente": false,
+   "recorrente": true,
    "moeda": "BRL",
-   "ticket_frente": 49.9,
+   "ticket_frente": 67,
    "ticket_bump": 0,
-   "ticket_upsell": 0,
-   "ticket_medio_est": 58.45,
-   "s_ticket": 6,
-   "s_lucro": 3,
+   "ticket_upsell": 49.9,
+   "ticket_medio_est": 117,
+   "s_ticket": 8,
+   "s_lucro": 6,
    "s_replica": 0,
    "s_saturacao": 0,
-   "score": 2.25,
+   "score": 3.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-02",
    "visto_ultimo": "2026-10-02",
    "rodadas_vista": 1,
-   "dias_no_ar": 0,
-   "criativos_ultima": 0,
+   "dias_no_ar": 62,
+   "criativos_ultima": 2,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
@@ -448,7 +447,6 @@
    "resumo": "Perfil de achadinhos (comenta 'eu quero' e recebe o link) que vende 'Treinamento da Ellen' (R$ 67, vendedor Lucas Caiafa) e o 'Grupo dos Achados da Ellen 3' por assinatura em Pix automatico (R$ 49,90). Duas reclamacoes em 01/10 (260601503, 260601331)…",
    "flags": [
     "score-provisorio",
-    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -2259,7 +2257,7 @@
    "classe": "oferta",
    "nicho": "artesanato",
    "sub_nicho": "velas-artesanais",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2305,8 +2303,7 @@
    "n_citacoes": 1,
    "resumo": "Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).",
    "flags": [
-    "score-provisorio",
-    "status-vencido"
+    "score-provisorio"
    ]
   },
   {
@@ -2482,7 +2479,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2528,8 +2525,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -3147,7 +3143,7 @@
    "classe": "oferta",
    "nicho": "servicos-empresariais",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "descartar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -3439,15 +3435,15 @@
    "formato_entrega": [],
    "recorrente": false,
    "moeda": "BRL",
-   "ticket_frente": 0,
+   "ticket_frente": 97,
    "ticket_bump": 0,
    "ticket_upsell": 0,
-   "ticket_medio_est": 0,
-   "s_ticket": 0,
+   "ticket_medio_est": 97,
+   "s_ticket": 7,
    "s_lucro": 2,
-   "s_replica": 0,
-   "s_saturacao": 0,
-   "score": 0.7,
+   "s_replica": 2,
+   "s_saturacao": 2,
+   "score": 3.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
    "visto_ultimo": "2026-10-02",
@@ -3467,7 +3463,6 @@
    "n_citacoes": 3,
    "resumo": "Revenda de acesso ao ChatGPT que exige criar e-mail novo todo mes para continuar usando. ID 260135435 (26/09).",
    "flags": [
-    "score-provisorio",
     "sem-longevidade",
     "sem-lp"
    ]
@@ -3864,7 +3859,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -4694,7 +4689,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -4740,8 +4735,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4862,7 +4856,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -4908,8 +4902,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5195,7 +5188,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -5417,7 +5410,7 @@
    "classe": "oferta",
    "nicho": "streaming-e-acesso",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -5465,8 +5458,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6962,7 +6954,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -7008,8 +7000,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7294,7 +7285,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -7342,8 +7333,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7521,7 +7511,7 @@
    "classe": "oferta",
    "nicho": "pet",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -7569,8 +7559,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7803,7 +7792,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -7914,7 +7903,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -7960,8 +7949,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7970,7 +7958,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -9295,7 +9283,7 @@
    "classe": "oferta",
    "nicho": "maternidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -9350,7 +9338,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -9396,8 +9384,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10484,7 +10471,7 @@
    "moeda": "BRL",
    "ticket_frente": 37,
    "ticket_bump": 0,
-   "ticket_upsell": 37,
+   "ticket_upsell": 220,
    "ticket_medio_est": 74,
    "s_ticket": 7,
    "s_lucro": 8,
@@ -12096,13 +12083,13 @@
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
-    "preenchidas": 61,
+    "preenchidas": 62,
     "total": 174
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
-    "preenchidas": 28,
+    "preenchidas": 29,
     "total": 174
    },
    {
@@ -12120,19 +12107,19 @@
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 120,
+    "preenchidas": 121,
     "total": 174
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
-    "preenchidas": 113,
+    "preenchidas": 114,
     "total": 174
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
-    "preenchidas": 105,
+    "preenchidas": 106,
     "total": 174
    },
    {
@@ -12160,7 +12147,6 @@
    "cura-da-alma-devocional"
   ],
   "status_vencido": [
-   "100-000-manuais-tecnicos",
    "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
@@ -12176,9 +12162,7 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "appluna-net",
-   "atelie-das-velas",
    "autismo-para-pais-lacerda",
-   "beautifycursos",
    "bolos-caseirinhos-saudaveis",
    "bonecas-papel-maria-criativa",
    "boss-ia-trade",
@@ -12196,12 +12180,9 @@
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-3-dias-copys-validadas",
-   "desafio-jejum-5-em-7",
-   "descobrindo-o-porque-da-fe",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
-   "doramas-hot-vitalicio",
    "fluency-english",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
@@ -12216,13 +12197,9 @@
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
-   "livros-de-enoque",
-   "luke-zap",
    "luna-ia",
-   "manual-do-shihtzu",
    "mdr-despertar-2-0",
    "metodo-atlas",
-   "metodo-corpo-definido",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "missa-em-atividades",
@@ -12237,7 +12214,6 @@
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
-   "protocolo-natural-da-diabetes",
    "rpr-recomendacoes-personalizadas-remotas",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
@@ -12293,8 +12269,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "0b9800dd36e25c70",
-  "atualizado_em": "2026-10-02T01:02:45-03:00",
+  "hash": "948cf85c94b457db",
+  "atualizado_em": "2026-10-02T01:04:26-03:00",
   "ofertas": 174,
   "angulos": 25,
   "observacoes": 322,

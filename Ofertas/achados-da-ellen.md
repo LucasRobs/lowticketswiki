@@ -12,24 +12,24 @@ checkout: kiwify
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Achados%20da%20Ellen&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 49.9
+ticket_frente: 67
 ticket_bump: 0
-ticket_upsell: 0
-ticket_medio_est: 58.45
+ticket_upsell: 49.9
+ticket_medio_est: 117
 margem_est: 0.8
 modelo: [direct]
 formato_entrega: []
-tem_recorrencia: false
-s_ticket: 6
-s_lucro: 3
+tem_recorrencia: true
+s_ticket: 8
+s_lucro: 6
 s_replica: 0
 s_saturacao: 0
 status: nova
 visto_primeiro: 2026-10-02
 visto_ultimo: 2026-10-02
 rodadas_vista: 1
-dias_no_ar: 0
-criativos_ultima: 0
+dias_no_ar: 62
+criativos_ultima: 2
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/achados-da-ellen"
@@ -85,3 +85,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Medicao 2026-10-02
+- Biblioteca de Anuncios, busca "achados da ellen": ~3 resultados, anuncio ativo mais antigo iniciado em 01/08/2026 (62 dias), 2 anuncios usam o mesmo criativo. O anuncio vende o achadinho (organizador de roupa de bebe, "comenta eu quero"), nao o treinamento: a oferta de R$ 67 e o grupo de R$ 49,90/mes ficam atras do perfil.
+- `s_lucro: 6` e nao 7: 62 dias de anuncio, mas de um perfil de achadinhos com poucos criativos, nao da oferta em si.

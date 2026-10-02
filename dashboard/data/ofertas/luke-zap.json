@@ -33,7 +33,7 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-09-27",
   "visto_ultimo": "2026-09-27",
   "rodadas_vista": 1,
@@ -67,8 +67,7 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "ticto"
