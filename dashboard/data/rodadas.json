@@ -2,6 +2,30 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-02.md",
+   "data": "2026-10-02",
+   "titulo": "Radar 2026-10-02",
+   "ofertas_vistas": 12,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "lowify",
+    "monetizze",
+    "payt",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-02\n\n## Novas\n\n- [[date-nights-cristao]] — religioso — R$ 42 — Kit digital de encontros para casais cristaos, R$ 42 em 2x R$ 21 (compra de 21/09). Duas reclamacoes em 01/10 (260597223, 260601271)…\n- [[achados-da-ellen]] — ganhar-dinheiro — R$ 49,90-67 — Perfil de achadinhos (comenta 'eu quero' e recebe o link) que vende 'Treinamento da Ellen' (R$ 67, vendedor Lucas Caiafa) e o 'Grupo dos…\n- [[coramaflix-corama-tv]] — streaming-e-acesso —  — App de doramas por mensalidade que cobra taxa extra por episodio depois do pagamento (260537633, 01/10). E o 'coramafix' que ficou como…\n- [[100-projetos-de-parquinho]] — cursos-de-oficio — R$ 25,90 — Pacote de projetos de marcenaria infantil em PDF, R$ 25,90 no Pix (260567601, 01/10). Na Lowify aparece o mesmo formato: 'Modelos de…\n- [[serbene]] — nao-classificado — R$ 9,90-59,90 — Assinatura vendida a R$ 9,90 que passa a cobrar R$ 59,90 a partir do terceiro mes (260608075, 01/10). Isca de preco na assinatura; o que o…\n- [[seu-curso-viral-em-1-dia-scv]] — marketing-digital — R$ 47-74 — Curso de criar e vender curso rapido, R$ 47 mais modulo de automacao de Direct a R$ 27 na mesma compra (29/09). Reclamacao 260572339…\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 17\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 5\n- [[chatgpt-privado]] — ra_reclamacoes atualizado para 5\n- [[zap-radar]] — ra_reclamacoes atualizado para 5\n- [[gerachat]] — ra_reclamacoes atualizado para 1\n- [[white-driver]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nPrimeira rodada desde 27/09; as passadas 6x/dia nao gravaram nada no vault nesse intervalo. A paginacao do Reclame Aqui voltou a funcionar pelo navegador interno (clique no numero da pagina), e a rodada leu ~150 corpos com ID em 10 gateways. Sinal novo real e concentrado: [[treino-trinca]] com 5 reclamacoes novas e a escada ate R$ 997, [[chatgpt-privado]] com 4 e uma coorte de anuncios de ChatGPT anual iniciada em 27-30/09, [[app-do-paizao]] com 2. Das 6 estreias, so Achados da Ellen tem longevidade medida (anuncio desde 01/08).\n\n## Passadas do dia\n- [[2026-10-02 -- 0102]] - kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify - 12 achado(s) - rodada diaria — 10 gateways fora de PerfectPay/Cakto, 26 paginas, ~150 corpos com ID + 5 consultas na Biblioteca; 6 novas, 3 notas ativas com ID novo\n"
+  },
+  {
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
    "titulo": "Radar 2026-09-27",
@@ -333,6 +357,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-02 -- 0102.md",
+   "data": "2026-10-02",
+   "hora": "01:02",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "lastlink",
+    "wiapy",
+    "payt",
+    "kirvano",
+    "lowify"
+   ],
+   "paginas": 26,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "chatgpt-privado",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-02]].\n\n# Rodada — 02/10/2026 · 01:02 Fortaleza\n\n**Gateways:** kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify · **Páginas:** 26 · **Coleta:** ok · **Achados:** 12\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 5 reclamacoes com ID novo em 01/10; escada R$ 37 + 220 + 997 (Plano Trinca/TF 1.000)\n- [[chatgpt-privado]] — Kirvano · 4 reclamacoes novas (Infinity Apps); Biblioteca mostra coorte nova de ChatGPT anual a R$ 21,90\n- [[app-do-paizao]] — Kirvano · 2 reclamacoes novas, cobranca de R$ 284,90 apos o botao 'reembolse aqui'\n\n## Mornas\n- Date Nights Cristao — Payt · R$ 42, 2 reclamacoes\n- Achados da Ellen — Kiwify · treinamento R$ 67 + grupo R$ 49,90/mes; anuncio desde 01/08\n- Coramaflix — Lowify · doramas com taxa por episodio\n- +100 Projetos de Parquinho — Wiapy · PLR de marcenaria a R$ 25,90\n- SerBene — Hotmart · R$ 9,90 que vira R$ 59,90\n- Seu Curso Viral em 1 Dia — Kiwify · R$ 47 + 27\n- [[zap-radar]] — Payt · reclamacao nova\n\n## Sinais fracos (sem nota)\n- Payt: Tokscale e Sistema TikTok Shop Automatico (R$ 328,80)\n- Wiapy: Malu Assistente (site fora do ar), checkout com 4 produtos extras oferecidos na compra\n- Lastlink: Sensory Energetics, Costure e Lucre\n- Monetizze: Manual do Milhao + Lasy IA (acao judicial)\n- Ticto: emulador GPBOX 12x R$ 16,96\n\nLeitura: paginacao do RA voltou a funcionar pelo navegador interno; ~150 corpos lidos com ID, quase todos de 30/09-01/10.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0113.md",
    "data": "2026-09-27",

@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-09-27
-rodadas_vista: 1
+visto_ultimo: 2026-10-02
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-10-02
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-02
+
+1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 259882399 (23/09) continua listada na Ticto. Sem reclamacao nova.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/lista-reclamacoes/ (ID 259882399)

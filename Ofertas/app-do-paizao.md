@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-09-27
-rodadas_vista: 4
+visto_ultimo: 2026-10-02
+rodadas_vista: 5
 dias_no_ar: 54
 criativos_ultima: 8
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 5
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-09-27
+ra_checado: 2026-10-02
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -129,3 +129,9 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ 
 - Anuncios ativos de **Carlão Silva** para `avaliacaogratuitapaizao.com.br` ("Chega de segredo..."): 8 carregados numa busca ampla por "paizão", o mais antigo de **04/08/2026** → `dias_no_ar: 54` (limite inferior).
 - Reclamacao nova ID **260146503** (26/09, > 257010225): frente de **R$ 47**; depois da compra, video com oferta de **12x R$ 19** (app + treino + dieta) prometendo devolver os 47 — o comprador aceitou, nao recebeu os 47 de volta e foi cobrado mais R$ 49. Treino e dieta chegaram 5 dias depois.
 - `s_lucro` 5 → **7** (45-90 dias medidos). `ticket_upsell` 250 → 228 (12x19).
+
+## Rodada 2026-10-02
+
+5 mencao(oes) nesta varredura (gateway Kirvano). Duas reclamacoes com ID novo em 01/10: 260569507 (mensal de teste R$ 47,90; o botao 'reembolse aqui' gerou cobranca extra de R$ 284,90, segundo o comprador) e 260553823 (cobranca continua apos cancelamento pedido em 29/07).
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260569507)
