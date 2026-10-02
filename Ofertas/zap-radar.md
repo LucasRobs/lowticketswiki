@@ -26,20 +26,20 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-26
-rodadas_vista: 7
+visto_ultimo: 2026-10-02
+rodadas_vista: 8
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/zap-radar"
-gateways_detectados: [perfectpay]
+gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
-ra_plataformas: [perfectpay]
+ra_reclamacoes: 5
+ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-10-02
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -123,3 +123,9 @@ Evidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.
 
 Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-02
+
+5 mencao(oes) nesta varredura (gateway Payt). Reclamacao nova 260598927 (01/10) na Payt: app comprado no cartao nao entrega o prometido. Primeira vez que a oferta aparece no RA da Payt (antes so PerfectPay).
+
+Evidencia: https://www.reclameaqui.com.br/payt/lista-reclamacoes/ (ID 260598927)

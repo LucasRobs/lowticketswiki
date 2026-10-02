@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-27
-rodadas_vista: 4
+visto_ultimo: 2026-10-02
+rodadas_vista: 5
 dias_no_ar: 50
 criativos_ultima: 91
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 12
+ra_reclamacoes: 17
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-10-02
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -132,3 +132,9 @@ Evidencia: https://www.reclameaqui.com.br/lastlink/quero-o-reembolso-do-programa
 - Reclamacoes novas na Lastlink: IDs **260142269** e **260143667** (26/09), acima do maior ID anterior (256520497) → `ra_reclamacoes` 10 → 12. Uma descreve a escada efetivamente cobrada: **R$ 110 + 67 + 37**.
 - `s_lucro` 9 → **8**: agora medido (45-90 dias, criativos subindo), mas 9-10 exige 90+ dias. O 9 anterior era palpite (ver adendo de 31/08 do Scoring.md).
 - As reclamacoes estao na Lastlink, nao na Hotmart do `checkout`; nao troquei o `checkout` sem abrir a LP.
+
+## Rodada 2026-10-02
+
+17 mencao(oes) nesta varredura (gateway Lastlink). Cinco reclamacoes com ID novo em 01/10 (260567113, 260574045, 260577145, 260603667, 260606589), todas acima do maior ID de 27/09 (260143667). A 260606589 mostra a escada inteira: Desafio R$ 37 + programa R$ 220 + Plano Trinca/TF 1.000 R$ 997. Biblioteca em 02/10, busca 'treino trinca': ~130 resultados, so Pedro Lotz, mais antigo carregado 17/08, criativos novos ate 26/09 (busca diferente da de 27/09, nao serve para delta).
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (ID 260606589)

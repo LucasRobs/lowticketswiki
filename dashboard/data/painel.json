@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 168,
+  "ofertas": 174,
   "angulos": 25,
-  "observacoes": 310,
-  "dias_radar": 20,
-  "passadas": 18,
+  "observacoes": 322,
+  "dias_radar": 21,
+  "passadas": 19,
   "analises": 12,
-  "ultima_rodada": "2026-09-27"
+  "ultima_rodada": "2026-10-02"
  },
  "ofertas": [
   {
@@ -59,6 +59,62 @@
    "ultima_obs": "2026-09-27",
    "n_citacoes": 1,
    "resumo": "Pacote de manuais tecnicos em volume (PLR), R$ 17 via Pix. ID 260078715 (25/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "100-projetos-de-parquinho",
+   "nome": "+100 Projetos de Parquinho",
+   "classe": "oferta",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 25.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 25.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=100%20projetos%20de%20parquinho&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Pacote de projetos de marcenaria infantil em PDF, R$ 25,90 no Pix (260567601, 01/10). Na Lowify aparece o mesmo formato: 'Modelos de Arquitetura Infantil + 100 projetos de carrinhos de madeira' (260207349, 28/09). PLR de marcenaria em gateways de ticket baixo.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -339,6 +395,61 @@
     "checkout-desconhecido",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "achados-da-ellen",
+   "nome": "Achados da Ellen",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 49.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 58.45,
+   "s_ticket": 6,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.25,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Achados%20da%20Ellen&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Perfil de achadinhos (comenta 'eu quero' e recebe o link) que vende 'Treinamento da Ellen' (R$ 67, vendedor Lucas Caiafa) e o 'Grupo dos Achados da Ellen 3' por assinatura em Pix automatico (R$ 49,90). Duas reclamacoes em 01/10 (260601503, 260601331)…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -2011,21 +2122,21 @@
    "score": 5.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-21",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 5,
    "dias_no_ar": 54,
    "criativos_ultima": 8,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "2026-08-20",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-10-02",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 6,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 8,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -2194,7 +2305,8 @@
    "n_citacoes": 1,
    "resumo": "Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).",
    "flags": [
-    "score-provisorio"
+    "score-provisorio",
+    "status-vencido"
    ]
   },
   {
@@ -2416,7 +2528,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3310,7 +3423,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -3337,21 +3450,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-10-02",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ChatGPT%20Privado&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 3,
    "resumo": "Revenda de acesso ao ChatGPT que exige criar e-mail novo todo mes para continuar usando. ID 260135435 (26/09).",
    "flags": [
     "score-provisorio",
@@ -3801,6 +3914,63 @@
    ]
   },
   {
+   "slug": "coramaflix-corama-tv",
+   "nome": "Coramaflix (Corama TV)",
+   "classe": "oferta",
+   "nicho": "streaming-e-acesso",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "lowify",
+   "gateways": [
+    "lowify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Coramaflix&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "App de doramas por mensalidade que cobra taxa extra por episodio depois do pagamento (260537633, 01/10). E o 'coramafix' que ficou como sinal fraco em 27/09. Na mesma lista da Lowify: Aura Play (novelinhas, 28/09) e 'Plano VIP de Minisseries' vitalicio a R$…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "cura-da-alma-devocional",
    "nome": "Cura da Alma — devocional diario para traumas e feridas",
    "classe": "oferta",
@@ -4130,6 +4300,61 @@
    "resumo": "509 dias no ar. E a maior idade de anuncio ja medida no vault — supera os 123 dias da colecao-caligrafia-cursiva por um fator de quatro. Veiculacao iniciada em 15 de abril de 2025, com tres criativos ativos daquela data e mais seis distribuidos ate…",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "date-nights-cristao",
+   "nome": "Date Nights Cristão",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 42,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 42,
+   "s_ticket": 6,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.25,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Date%20Nights%20Cristão&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Kit digital de encontros para casais cristaos, R$ 42 em 2x R$ 21 (compra de 21/09). Duas reclamacoes em 01/10 (260597223, 260601271): conteudo menor que o anunciado e vendedor sem resposta. Biblioteca: busca exata sem anuncio ativo em 02/10.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -4515,7 +4740,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4682,7 +4908,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5238,7 +5465,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5523,7 +5751,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -5550,21 +5778,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-10-02",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gerachat&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 2,
    "resumo": "Assinatura de automacao de atendimento (chat); suporte precario e sistema diz que o comprador nao pagou. ID 260132115 (26/09).",
    "flags": [
     "score-provisorio",
@@ -6780,7 +7008,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7113,7 +7342,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7339,7 +7569,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7729,7 +7960,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9164,7 +9396,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9728,6 +9961,116 @@
    ]
   },
   {
+   "slug": "serbene",
+   "nome": "SerBene",
+   "classe": "oferta",
+   "nicho": "nao-classificado",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 9.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 34.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=SerBene&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Assinatura vendida a R$ 9,90 que passa a cobrar R$ 59,90 a partir do terceiro mes (260608075, 01/10). Isca de preco na assinatura; o que o pacote entrega nao foi capturado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "seu-curso-viral-em-1-dia-scv",
+   "nome": "Seu Curso Viral em 1 Dia (SCV)",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 47,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 60.5,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Seu%20Curso%20Viral%20em%201%20Dia&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Curso de criar e vender curso rapido, R$ 47 mais modulo de automacao de Direct a R$ 27 na mesma compra (29/09). Reclamacao 260572339: comprador ja tinha o curso e o modulo vendido estava vazio.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "shop-cash-1",
    "nome": "Shop Cash 1.0",
    "classe": "oferta",
@@ -10150,21 +10493,21 @@
    "score": 6.6,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 5,
    "dias_no_ar": 50,
    "criativos_ultima": 91,
    "criativos_delta": 0,
-   "ra_reclamacoes": 12,
+   "ra_reclamacoes": 17,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-10-02",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://treinotrinca.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 8,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 10,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
    "flags": []
   },
@@ -10564,7 +10907,7 @@
    "classe": "oferta",
    "nicho": "servicos-empresariais",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -10593,21 +10936,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-10-02",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=White%20Driver&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 2,
    "resumo": "Sistema white-label de mobilidade tipo Uber, R$ 119,99 (31/08); app nunca publicado na Play Store. ID 259882399.",
    "flags": [
     "score-provisorio",
@@ -10702,21 +11045,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 4,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-02",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 7,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 12,
+   "n_obs": 8,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 14,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -10724,6 +11067,30 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-02.md",
+   "data": "2026-10-02",
+   "titulo": "Radar 2026-10-02",
+   "ofertas_vistas": 12,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "lowify",
+    "monetizze",
+    "payt",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": "Primeira rodada desde 27/09; as passadas 6x/dia nao gravaram nada no vault nesse intervalo. A paginacao do Reclame Aqui voltou a funcionar pelo navegador interno (clique no numero da pagina), e a rodada leu ~150 corpos com ID em 10 gateways. Sinal novo real e concentrado: treino-trinca com 5 reclamacoes novas e a escada ate R$ 997, chatgpt-privado com 4 e uma coorte de anuncios de ChatGPT anual iniciada em 27-30/09…"
+  },
   {
    "arquivo": "Radar/2026-09-27.md",
    "data": "2026-09-27",
@@ -11056,6 +11423,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-02 -- 0102.md",
+   "data": "2026-10-02",
+   "hora": "01:02",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "lastlink",
+    "wiapy",
+    "payt",
+    "kirvano",
+    "lowify"
+   ],
+   "paginas": 26,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "chatgpt-privado",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify · Páginas: 26 · Coleta: ok · Achados: 12 ## Quentes treino-trinca — Lastlink · 5 reclamacoes com ID novo em 01/10; escada R$ 37 + 220 + 997 (Plano…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0113.md",
    "data": "2026-09-27",
@@ -11509,6 +11903,10 @@
    "2026-09-27": {
     "oferta": 14,
     "angulo": 0
+   },
+   "2026-10-02": {
+    "oferta": 6,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -11530,7 +11928,8 @@
    "2026-09-24": 27,
    "2026-09-25": 25,
    "2026-09-26": 15,
-   "2026-09-27": 16
+   "2026-09-27": 16,
+   "2026-10-02": 12
   }
  },
  "analises": [
@@ -11698,49 +12097,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 61,
-    "total": 168
+    "total": 174
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 28,
-    "total": 168
+    "total": 174
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 168
+    "total": 174
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 139,
-    "total": 168
+    "preenchidas": 145,
+    "total": 174
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 115,
-    "total": 168
+    "preenchidas": 120,
+    "total": 174
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 113,
-    "total": 168
+    "total": 174
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 168
+    "total": 174
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 112,
-    "total": 168
+    "preenchidas": 118,
+    "total": 174
    }
   ],
   "fila_enriquecimento": [
@@ -11761,6 +12160,7 @@
    "cura-da-alma-devocional"
   ],
   "status_vencido": [
+   "100-000-manuais-tecnicos",
    "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
@@ -11776,7 +12176,9 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "appluna-net",
+   "atelie-das-velas",
    "autismo-para-pais-lacerda",
+   "beautifycursos",
    "bolos-caseirinhos-saudaveis",
    "bonecas-papel-maria-criativa",
    "boss-ia-trade",
@@ -11794,9 +12196,12 @@
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-3-dias-copys-validadas",
+   "desafio-jejum-5-em-7",
+   "descobrindo-o-porque-da-fe",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
+   "doramas-hot-vitalicio",
    "fluency-english",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
@@ -11811,9 +12216,13 @@
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
+   "livros-de-enoque",
+   "luke-zap",
    "luna-ia",
+   "manual-do-shihtzu",
    "mdr-despertar-2-0",
    "metodo-atlas",
+   "metodo-corpo-definido",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "missa-em-atividades",
@@ -11828,6 +12237,7 @@
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
+   "protocolo-natural-da-diabetes",
    "rpr-recomendacoes-personalizadas-remotas",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
@@ -11836,7 +12246,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 503
+   "canonico": 521
   }
  },
  "vocabulario": {
@@ -11883,15 +12293,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "ce5418424a255750",
-  "atualizado_em": "2026-09-27T01:15:26-03:00",
-  "ofertas": 168,
+  "hash": "0b9800dd36e25c70",
+  "atualizado_em": "2026-10-02T01:02:45-03:00",
+  "ofertas": 174,
   "angulos": 25,
-  "observacoes": 310,
-  "ultima_rodada": "2026-09-27",
+  "observacoes": 322,
+  "ultima_rodada": "2026-10-02",
   "ultima_passada": {
-   "data": "2026-09-27",
-   "hora": "01:13",
+   "data": "2026-10-02",
+   "hora": "01:02",
    "coleta": "ok",
    "gateways": [
     "kiwify",
