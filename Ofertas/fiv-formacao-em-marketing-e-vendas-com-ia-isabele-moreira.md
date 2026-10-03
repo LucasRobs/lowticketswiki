@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Segunda reclamação no mesmo dia: assistentes de IA mal configurados pro nicho da cliente e reembolso só saiu com intervenção da Hotmart depois do prazo de garantia já ter 'vencido'.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/curso-de-marketing-e-vendas-com-ia-apresenta-defeito-e-mau-atendimento-cliente-solicita-cancelamento-e-reembolso_DnV_znf_p8R4Sdku/

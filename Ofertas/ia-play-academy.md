@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Segunda reclamação de atraso no reembolso no mesmo dia (essa já foi resolvida pela Kiwify, nota 9/10).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/

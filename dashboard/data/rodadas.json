@@ -5,20 +5,21 @@
    "arquivo": "Radar/2026-10-03.md",
    "data": "2026-10-03",
    "titulo": "Radar 2026-10-03",
-   "ofertas_vistas": 15,
-   "novas": 6,
-   "retornaram": 0,
+   "ofertas_vistas": 34,
+   "novas": 20,
+   "retornaram": 1,
    "sumiram": 0,
    "fontes": [
     "braip",
     "cakto",
     "hotmart",
     "kiwify",
+    "payt",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-03\n\n## Novas\n\n- [[ebook-master-evolution]] — ferramentas-de-ia — R$ 97 — Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado…\n- [[angulo-cashback-para-assistir-videos-pix]] — renda-no-celular-cashback-pix — R$ 67,90 + R$ 39,90 (duas parcelas) — Esquema que promete devolver dinheiro assistindo vídeos; cobra duas parcelas via Pix e não paga nada de volta. Ângulo clássico de…\n- [[angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber]] — jogos-mobile-moeda — não informado — Pacote vendido via link de YouTuber prometendo moeda infinita em jogo mobile (ex.: Simoleons); propaganda enganosa, reembolso só saiu após…\n- [[youclone-guiyouclone]] — ferramentas-de-ia — não informado — Ferramenta/curso de 'clonagem' vendido por afiliado no Instagram (@guiyouclone) via Cakto. Produto nunca entregue, vendedor inacessível por…\n- [[ia-play-academy]] — ferramentas-de-ia — não informado — Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.\n- [[fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira]] — marketing-faca-como-eu — não informado — Curso de marketing e vendas com assistentes de IA mal configurados (treinados para nicho errado). Suporte ruim e reembolso negado apesar do…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[muscleflix]] — ra_reclamacoes atualizado para 1\n- [[protocolo-de-reprogramacao-neural]] — ra_reclamacoes atualizado para 1\n- [[trendy-ia]] — ra_reclamacoes atualizado para 1\n- [[luna-ia]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-03 -- 1450]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 15 achado(s) - Gap de ~3 dias desde a ultima passada (30/09 20h); varredura ampliada (perfectpay 30 paginas, cakto 29, kiwify 18, hotmart 15, braip 15)…\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-03\n\n## Novas\n\n- [[ebook-master-evolution]] — ferramentas-de-ia — R$ 97 — Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado…\n- [[angulo-cashback-para-assistir-videos-pix]] — renda-no-celular-cashback-pix — R$ 67,90 + R$ 39,90 (duas parcelas) — Esquema que promete devolver dinheiro assistindo vídeos; cobra duas parcelas via Pix e não paga nada de volta. Ângulo clássico de…\n- [[angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber]] — jogos-mobile-moeda — não informado — Pacote vendido via link de YouTuber prometendo moeda infinita em jogo mobile (ex.: Simoleons); propaganda enganosa, reembolso só saiu após…\n- [[youclone-guiyouclone]] — ferramentas-de-ia — não informado — Ferramenta/curso de 'clonagem' vendido por afiliado no Instagram (@guiyouclone) via Cakto. Produto nunca entregue, vendedor inacessível por…\n- [[ia-play-academy]] — ferramentas-de-ia — não informado — Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.\n- [[fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira]] — marketing-faca-como-eu — não informado — Curso de marketing e vendas com assistentes de IA mal configurados (treinados para nicho errado). Suporte ruim e reembolso negado apesar do…\n- [[o-truque-da-loto-pro]] — apostas-loteria — R$501,56 (bundle: R$97 + R$197 + R$167 + 4x R$40,56) — Achado novo e o mais chamativo da passada: funil de 4 produtos amarrados (O Truque da Loto PRO, Lovable.app, Blindagem Anti-Erro do…\n- [[gtd-academy-mentoria-anderson-seabra]] — marketing-faca-como-eu — R$369,09 — Mentoria 'estrategista digital' vendida com promessa de aulas em vivo de 2-3h e suporte via WhatsApp; nenhuma aula em vivo aconteceu e o…\n- [[curso-de-loja-virtual-raphael-mancini]] — dropshipping — R$74 — Curso de loja virtual/dropshipping que exige instalar apps extras não divulgados na venda — cada instalação gera comissão extra pro…\n- [[metodo-live-perpetua-tiktok-shop-liveflow-ia]] — tiktok-shop — não informado — Bundle de dois produtos de automação de live/TikTok Shop vendidos juntos; cliente diz que não correspondeu ao anunciado.\n- [[gifts-da-isa]] — artesanato-presentes — não informado — Curso descrito como mal feito e desorganizado; reembolso dentro do prazo de 7 dias foi prometido mas falhou e a cobrança continuou.\n- [[zapturbomax-pulse-mkt-digital]] — ferramentas-whatsapp — não informado — Acesso anual a 'software' (provável ferramenta de disparo/automação de WhatsApp) que parou de funcionar depois de um mês, sem suporte…\n- [[thyago-gomes-prompts]] — prompts-ia — não informado — Ângulo novo no radar: venda de prompts de IA como infoproduto. Conta bloqueada pela Kiwify por violação de política, saldo retido até 15/11.\n- [[maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5]] — marketing-conteudo-viral — R$334,60 (bundle: R$237,60 + R$97) — Vendido pela Brands Decoded Ltda. Anuncia garantia de 30 dias na página de vendas, mas o sistema de reembolso só aplica 7 dias — mecânica…\n- [[imersao-tradutor-de-almas-andrea-vermont]] — espiritualidade-autoconhecimento — R$37 — Curso + ebook de leitura espiritual; reclamação original era cobrança recorrente indevida, depois esclarecida como pagamento único.\n- [[shopminer]] — ferramentas-ecommerce — não informado — Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.\n- [[linflora]] — golpe-loja-fake-instagram — R$239 — Loja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG…\n- [[thermafit]] — saude-emagrecimento — não informado — App/produto de emagrecimento vendido sem liberar acesso nem instruções de uso.\n- [[angulo-curso-comunidade-fornecedores-revenda]] — dropshipping-fornecedores — não informado — Bundle de curso + comunidade + lista de fornecedores pra revenda; elementos clicáveis da plataforma não funcionavam.\n- [[moldes-digitais-de-artesanato-rendafini]] — artesanato-moldes — não informado — Moldes de crochê/artesanato anunciados como 'completos e detalhados' mas entregues incompletos.\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[muscleflix]] — ra_reclamacoes atualizado para 1\n- [[protocolo-de-reprogramacao-neural]] — ra_reclamacoes atualizado para 1\n- [[trendy-ia]] — ra_reclamacoes atualizado para 1\n- [[luna-ia]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n- [[o-curso-do-mago]] — ra_reclamacoes atualizado para 1\n- [[youtube-dark-do-peter]] — ra_reclamacoes atualizado para 1\n- [[hap-2-0]] — ra_reclamacoes atualizado para 2\n- [[academia-do-jejum]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n- [[metodo-neuromusical]] — alfabetizacao-infantil — reapareceu (1 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-03 -- 1450]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 15 achado(s) - Gap de ~3 dias desde a ultima passada (30/09 20h); varredura ampliada (perfectpay 30 paginas, cakto 29, kiwify 18, hotmart 15, braip 15)…\n- [[2026-10-03 -- 1957]] - perfectpay, cakto-pay, kiwify, hotmart, payt - 28 achado(s) - Gap de ~5h desde a ultima passada (14:50); 16 paginas tentadas por gateway (perfectpay, cakto-pay, kiwify, hotmart, payt), mas boa parte…\n"
   },
   {
    "arquivo": "Radar/2026-09-30.md",
@@ -395,6 +396,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-03 -- 1957.md",
+   "data": "2026-10-03",
+   "hora": "19:57",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "ebook-master-evolution",
+    "fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira",
+    "ia-play-academy",
+    "lumi-ai",
+    "ms-green-premium",
+    "muscleflix",
+    "protocolo-de-reprogramacao-neural",
+    "stalkeia-ai",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-03]].\n\n# Rodada — 03/10/2026 · 19:57 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, payt · **Páginas:** 16 · **Coleta:** parcial · **Achados:** 28\n\n## Quentes\n- [[stalkeia-ai]] — 3 mencoes hoje, familia Stalkeia/Stalkei continua dominando o volume no PerfectPay\n- [[zap-radar]] — confirmado R$97 de novo, mesmo padrao\n- [[ms-green-premium]] — terceira aparicao em dia diferente, bundle saude+aposta seguindo firme\n- Truque da Loto PRO (novo) — funil pesado de 4 produtos amarrados (R$501,56) no Payt, vale abrir primeiro\n\n## Mornas\n- [[protocolo-de-reprogramacao-neural]], [[muscleflix]], [[lumi-ai]], [[ebook-master-evolution]], [[ia-play-academy]], [[fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira]] — todas reapareceram nesta mesma data (passada das 14:50 e de novo agora as 19:57); ainda nao contam como 'dias diferentes' mas confirmam que seguem ativas\n\n## Frias (primeira mencao)\n- GTD Academy (Anderson Seabra), Curso de Loja Virtual (Raphael Mancini), Live Perpetua TikTok Shop + LiveFlow IA, O Curso do Mago, Gifts da Isa, zapTurboMax, Metodo NeuroMusical, Thyago Gomes Prompts, YouTube Dark do Peter, HAP 2.0, Maquina de Viralizacao Inteligente + Headlines Virais (Brands Decoded), Academia do Jejum (Adriana Sant'Anna), Imersao Tradutor de Almas (Andrea Vermont), ShopMiner, Linflora, ThermaFit, moldes de artesanato (Rendafini), curso+comunidade+fornecedores — dezoito marcas/angulos novos, uma mencao cada\n\nLeitura: Payt (gateway rotativo desta passada) trouxe dois achados fortes de primeira (Truque da Loto e Linflora) mesmo com so 1 pagina util varrida de 16 tentadas — sinal de que vale voltar nele em breve. PerfectPay e Cakto continuam dominados pelas mesmas marcas de sempre (Stalkeia, ZAP Radar, Reprogramacao Neural, Muscleflix).\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-03 -- 1450.md",
    "data": "2026-10-03",

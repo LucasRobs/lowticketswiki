@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-09-24
-rodadas_vista: 1
+visto_ultimo: 2026-10-03
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/hap-2-0"
-gateways_detectados: [desconhecido]
+gateways_detectados: [desconhecido, hotmart]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [desconhecido]
+ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-24
+ra_checado: 2026-10-03
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Conteúdo principal só libera 7 dias após a compra — o que trava o pedido de reembolso justamente dentro da janela de garantia. Mecânica de retenção vale notar.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/

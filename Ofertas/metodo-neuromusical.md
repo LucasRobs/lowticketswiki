@@ -24,10 +24,10 @@ s_ticket: 5
 s_lucro: 6
 s_replica: 7
 s_saturacao: 6
-status: morta
+status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-21
-rodadas_vista: 2
+visto_ultimo: 2026-10-03
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,8 +38,8 @@ bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
-ra_primeira_reclamacao: 2026-08-18
-ra_checado: 2026-08-21
+ra_primeira_reclamacao: "2026-08-18"
+ra_checado: 2026-10-03
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca, comportamento-infantil]
@@ -127,3 +127,9 @@ Pagina no ar. **Checkout mudou: `pay.kiwify.com.br/qmKQS5h`.** Preco mantido em 
 ancorado em R$ 130 (-70%) ou 6x R$ 7,32. Entrega agora anuncia acesso vitalicio,
 multiplataforma e ate 4 telas simultaneas — escada de percepcao de valor sem mudar o ativo.
 O mascote Pipo (polvinho) segue como professor dos videos.
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso de alfabetização que entregou só uma fração do prometido (apenas pronúncia de vogais/consoantes, sem o método de sílabas anunciado).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-dentro-do-prazo-de-7-dias-por-propaganda-enganosa-em-curso-de-alfabetizacao_S8krKFgkHuB_Uf5f/

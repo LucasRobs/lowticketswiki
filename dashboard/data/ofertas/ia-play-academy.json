@@ -71,7 +71,7 @@
    "kiwify"
   ]
  },
- "corpo": "# IA Play Academy\n\n## Angulo\nCurso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/\n\n## Historico\n",
+ "corpo": "# IA Play Academy\n\n## Angulo\nCurso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/\n\n## Historico\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Segunda reclamação de atraso no reembolso no mesmo dia (essa já foi resolvida pela Kiwify, nota 9/10).\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/\n",
  "observacoes": [
   {
    "data": "2026-10-03",
@@ -87,6 +87,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-03 -- 1957.md",
+   "data": "2026-10-03",
+   "titulo": "Passada 2026-10-03 19:57"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-03.md",

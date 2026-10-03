@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Confirma R$97 e o bump oculto via créditos de API/Gemini visto na passada anterior, mesmo dia.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-estorno-devido-a-falhas-e-propaganda-enganosa-no-ebook-master-evolution_kH2eiIZP3rSEF2mL/
