@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-30
-rodadas_vista: 9
+visto_ultimo: 2026-10-03
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 3
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-30
+ra_checado: 2026-10-03
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -137,3 +137,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do
 1 mencao(oes) nesta varredura (gateway PerfectPay). Produto de saúde/wellness. Problema: Propaganda enganosa, não entrega benefícios prometidos. Primeira menção.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/arrependimento-de-compra-do-produto-ms-green-premium-por-propaganda-enganosa_Lu8Q8rmMewVHD1IR/
+
+## Rodada 2026-10-03
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Bundle saúde+aposta: produto 'MS Green Premium' vendido junto com grupo de sinais 'Master Betano 1.0'. Vendedor some após a venda e coloca o comprador em grupos que não mostram resultado real. Segunda aparição no vault em dias diferentes.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-o-produto-ms-green-premium-master-betano-10-com-promessas-e-dificuldade-de-contato_GZdKickTNRJ-19GZ/

@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-03.md",
+   "data": "2026-10-03",
+   "titulo": "Radar 2026-10-03",
+   "ofertas_vistas": 15,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-03\n\n## Novas\n\n- [[ebook-master-evolution]] — ferramentas-de-ia — R$ 97 — Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado…\n- [[angulo-cashback-para-assistir-videos-pix]] — renda-no-celular-cashback-pix — R$ 67,90 + R$ 39,90 (duas parcelas) — Esquema que promete devolver dinheiro assistindo vídeos; cobra duas parcelas via Pix e não paga nada de volta. Ângulo clássico de…\n- [[angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber]] — jogos-mobile-moeda — não informado — Pacote vendido via link de YouTuber prometendo moeda infinita em jogo mobile (ex.: Simoleons); propaganda enganosa, reembolso só saiu após…\n- [[youclone-guiyouclone]] — ferramentas-de-ia — não informado — Ferramenta/curso de 'clonagem' vendido por afiliado no Instagram (@guiyouclone) via Cakto. Produto nunca entregue, vendedor inacessível por…\n- [[ia-play-academy]] — ferramentas-de-ia — não informado — Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.\n- [[fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira]] — marketing-faca-como-eu — não informado — Curso de marketing e vendas com assistentes de IA mal configurados (treinados para nicho errado). Suporte ruim e reembolso negado apesar do…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[lumi-ai]] — ra_reclamacoes atualizado para 2\n- [[muscleflix]] — ra_reclamacoes atualizado para 1\n- [[protocolo-de-reprogramacao-neural]] — ra_reclamacoes atualizado para 1\n- [[trendy-ia]] — ra_reclamacoes atualizado para 1\n- [[luna-ia]] — ra_reclamacoes atualizado para 1\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-03 -- 1450]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 15 achado(s) - Gap de ~3 dias desde a ultima passada (30/09 20h); varredura ampliada (perfectpay 30 paginas, cakto 29, kiwify 18, hotmart 15, braip 15)…\n"
+  },
+  {
    "arquivo": "Radar/2026-09-30.md",
    "data": "2026-09-30",
    "titulo": "Radar 2026-09-30",
@@ -376,6 +395,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-03 -- 1450.md",
+   "data": "2026-10-03",
+   "hora": "14:50",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 30,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "ms-green-premium",
+    "stalkeia-ai",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-03]].\n\n# Rodada — 03/10/2026 · 14:50 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, braip · **Páginas:** 30 · **Coleta:** parcial · **Achados:** 15\n\n## Quentes\n- [[stalkeia-ai]] — 7 mencoes, familia Stalkeia/Stalkea/Stalker segue sendo o maior volume do radar\n- [[zap-radar]] — confirmado R$97,09, mesmo padrao das passadas anteriores\n- [[ms-green-premium]] — bundle saude+aposta (Master Betano), segunda aparicao em dia diferente\n\n## Mornas\n- Nenhuma nesta passada (achados novos entraram direto como frias, sem historico ainda)\n\n## Frias (primeira mencao)\n- Lumi.ai — ticket alto (R$1.189,57) pra recorrencia disfarcada, vale observar\n- Ebook Master Evolution — bump oculto via creditos de API/Gemini\n- Cashback assistir videos, Pacote de jogo moeda infinita — angulos novos\n- Muscleflix, YouClone, Protocolo Reprogramacao Neural, Trendy IA, Luna IA, IA Play Academy, FIV Isabele Moreira, Metodo Atlas — marcas isoladas, uma mencao cada\n\nLeitura: forte presenca de ofertas com 'IA' no nome (Trendy IA, Luna IA, Lumi.ai, IA Play Academy, FIV com IA, Ebook com Gemini) - virou o rotulo generico que mais aparece no low ticket agora, igual 'espionagem' era antes.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-30 -- 2000.md",
    "data": "2026-09-30",

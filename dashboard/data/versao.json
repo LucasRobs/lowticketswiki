@@ -1,18 +1,21 @@
 {
  "esquema": 1,
- "hash": "95ff627f2e272167",
- "atualizado_em": "2026-09-30T20:18:10-03:00",
- "ofertas": 169,
- "angulos": 27,
- "observacoes": 334,
- "ultima_rodada": "2026-09-30",
+ "hash": "14baede8b0752bf7",
+ "atualizado_em": "2026-10-03T14:51:36-03:00",
+ "ofertas": 173,
+ "angulos": 29,
+ "observacoes": 349,
+ "ultima_rodada": "2026-10-03",
  "ultima_passada": {
-  "data": "2026-09-30",
-  "hora": "20:00",
+  "data": "2026-10-03",
+  "hora": "14:50",
   "coleta": "parcial",
   "gateways": [
    "perfectpay",
-   "cakto"
+   "cakto-pay",
+   "kiwify",
+   "hotmart",
+   "braip"
   ]
  }
 }

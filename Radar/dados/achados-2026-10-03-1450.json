@@ -1,0 +1,200 @@
+{
+  "data_varredura": "2026-10-03",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4502, "paginas_varridas": 30},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 29},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3964, "paginas_varridas": 18},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5647, "paginas_varridas": 15},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 490, "paginas_varridas": 15}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 7,
+      "faixa_preco": "R$ 37-67,90 por etapa (PIX duplo/triplo)",
+      "termo_busca": "Stalkeia",
+      "descricao": "App falso de espionagem de WhatsApp/Instagram, a oferta mais estável do vault desde 16/08. Grafias desta passada: Stalkea.ai, Stalker AI, 'stalkiem'. Cobra em PIX sucessivos e não entrega o resultado prometido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-do-servico-no-aplicativo-stalker-ai_ZkpgnfCPgV5V-Rge/"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 97,09",
+      "termo_busca": "Zap Radar",
+      "descricao": "Ferramenta de busca de número de WhatsApp (checkout real é Payt, não PerfectPay nesta amostra). Cobra R$97 upfront e não exibe resultado da busca. Mesmo nicho da Stalkeia, ticket ~2,6x maior.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/"
+    },
+    {
+      "produto": "MS Green Premium / Master Betano 1.0",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "apostas-e-sinais",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "não informado",
+      "termo_busca": "MS Green Premium",
+      "descricao": "Bundle saúde+aposta: produto 'MS Green Premium' vendido junto com grupo de sinais 'Master Betano 1.0'. Vendedor some após a venda e coloca o comprador em grupos que não mostram resultado real. Segunda aparição no vault em dias diferentes.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/reclamacao-sobre-o-produto-ms-green-premium-master-betano-10-com-promessas-e-dificuldade-de-contato_GZdKickTNRJ-19GZ/"
+    },
+    {
+      "produto": "Lumi.ai",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 1.189,57",
+      "termo_busca": "Lumi",
+      "descricao": "Plataforma de IA com ticket bem acima do padrão low ticket. Reclamante pediu cancelamento dentro do prazo de 7 dias e continuou sendo cobrado — sinal de recorrência disfarçada/difícil de cancelar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/"
+    },
+    {
+      "produto": "Ebook Master Evolution",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97",
+      "termo_busca": "Master Evolution",
+      "descricao": "Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado de 'requisito técnico'.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicitacao-de-estorno-devido-a-falhas-e-propaganda-enganosa-no-ebook-master-evolution_kH2eiIZP3rSEF2mL/"
+    },
+    {
+      "produto": "Cashback para assistir vídeos (Pix)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "renda-no-celular-cashback-pix",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 67,90 + R$ 39,90 (duas parcelas)",
+      "termo_busca": "cashback assistindo vídeos",
+      "descricao": "Esquema que promete devolver dinheiro assistindo vídeos; cobra duas parcelas via Pix e não paga nada de volta. Ângulo clássico de renda-no-celular, útil pra achar concorrentes na Biblioteca de Anúncios.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui-do-cashback-e-pagamento-para-assistir-videos_t5BYR83nX2Gup6HQ/"
+    },
+    {
+      "produto": "Pacote de jogo com moeda infinita (indicação de YouTuber)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "jogos-mobile-moeda",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "moeda infinita jogo",
+      "descricao": "Pacote vendido via link de YouTuber prometendo moeda infinita em jogo mobile (ex.: Simoleons); propaganda enganosa, reembolso só saiu após reclamação formal.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-de-pacote-de-jogo-e-recusa-de-reembolso-pela-perfect-pay_cVsSB_dCkKfyGI-d/"
+    },
+    {
+      "produto": "Muscleflix",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado (assinatura mensal)",
+      "termo_busca": "Muscleflix",
+      "descricao": "Assinatura de streaming de fitness/culturismo. App sem opção visível de cancelamento, cobrança recorrente continua no cartão sem resposta do suporte.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-da-muscleflix-e-da-cakto-nenhum-me-responde_muYr8noRQp_tMEdU/"
+    },
+    {
+      "produto": "YouClone (@guiyouclone)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "YouClone",
+      "descricao": "Ferramenta/curso de 'clonagem' vendido por afiliado no Instagram (@guiyouclone) via Cakto. Produto nunca entregue, vendedor inacessível por e-mail e Instagram.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produto-nao-recebido-e-falta-de-contato-com-o-vendedor-youclone_7GXqc5L5yuqMtTPv/"
+    },
+    {
+      "produto": "Protocolo de Reprogramação Neural",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "desenvolvimento-pessoal",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97,99",
+      "termo_busca": "Reprogramação Neural",
+      "descricao": "Mentoria/plano de 4 semanas de 'reprogramação neural'. Comprador não consegue suporte; Cakto só redireciona para o produtor, que não responde.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-tirar-duvidas-sobre-o-protocolo-de-reprogramacao-neural_dMFgS_n-UN5UgLWD/"
+    },
+    {
+      "produto": "Trendy IA",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Trendy IA",
+      "descricao": "Ferramenta digital vendida como teste de 1 mês, mas cobra renovação automática sem aviso e sem suporte do produtor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-recorrente-indevida-pela-intermediadora-perfectpay-e-nenhum-retorno-ou-resposta-do-produtorvendedor-da-ferramenta-digital-trendy-ia_qxK5HEuEcRUyMSrH/"
+    },
+    {
+      "produto": "Luna IA",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Luna IA",
+      "descricao": "App que cobra uma taxa só para excluir a própria conta; serviço diferente do anunciado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobranca-para-exclusao-de-conta-e-servico-diferente-do-anunciado-luna-ia-via-perfectpay_c5azMXwqKu0Qv0dK/"
+    },
+    {
+      "produto": "IA Play Academy",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "IA Play Academy",
+      "descricao": "Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/"
+    },
+    {
+      "produto": "FIV - Formação em Marketing e Vendas com IA (Isabele Moreira)",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "FIV Isabele Moreira",
+      "descricao": "Curso de marketing e vendas com assistentes de IA mal configurados (treinados para nicho errado). Suporte ruim e reembolso negado apesar do defeito.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/curso-de-marketing-e-vendas-com-ia-apresenta-defeito-e-mau-atendimento-cliente-solicita-cancelamento-e-reembolso_DnV_znf_p8R4Sdku/"
+    },
+    {
+      "produto": "Método Atlas",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Método Atlas",
+      "descricao": "Infoproduto genérico com propaganda enganosa e sem suporte para reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-falta-de-suporte-para-reembolso-do-metodo-atlas_9G1np4holmXkyTbX/"
+    }
+  ],
+  "passada": {
+    "hora": "14:50",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 30,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] — 7 mencoes, familia Stalkeia/Stalkea/Stalker segue sendo o maior volume do radar\n- [[zap-radar]] — confirmado R$97,09, mesmo padrao das passadas anteriores\n- [[ms-green-premium]] — bundle saude+aposta (Master Betano), segunda aparicao em dia diferente\n\n## Mornas\n- Nenhuma nesta passada (achados novos entraram direto como frias, sem historico ainda)\n\n## Frias (primeira mencao)\n- Lumi.ai — ticket alto (R$1.189,57) pra recorrencia disfarcada, vale observar\n- Ebook Master Evolution — bump oculto via creditos de API/Gemini\n- Cashback assistir videos, Pacote de jogo moeda infinita — angulos novos\n- Muscleflix, YouClone, Protocolo Reprogramacao Neural, Trendy IA, Luna IA, IA Play Academy, FIV Isabele Moreira, Metodo Atlas — marcas isoladas, uma mencao cada\n\nLeitura: forte presenca de ofertas com 'IA' no nome (Trendy IA, Luna IA, Lumi.ai, IA Play Academy, FIV com IA, Ebook com Gemini) - virou o rotulo generico que mais aparece no low ticket agora, igual 'espionagem' era antes.",
+    "resumo": "Gap de ~3 dias desde a ultima passada (30/09 20h); varredura ampliada (perfectpay 30 paginas, cakto 29, kiwify 18, hotmart 15, braip 15) mas cerca de 40% das paginas voltaram vazias do ReclameAqui (falha transitoria do site, nao do radar) - cobertura é parcial, nao e varredura completa do periodo."
+  }
+}

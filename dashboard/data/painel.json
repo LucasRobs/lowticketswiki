@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 169,
-  "angulos": 27,
-  "observacoes": 334,
-  "dias_radar": 23,
-  "passadas": 32,
+  "ofertas": 173,
+  "angulos": 29,
+  "observacoes": 349,
+  "dias_radar": 24,
+  "passadas": 33,
   "analises": 12,
-  "ultima_rodada": "2026-09-30"
+  "ultima_rodada": "2026-10-03"
  },
  "ofertas": [
   {
@@ -1010,6 +1010,59 @@
    "resumo": "Programa de recebimento de captchas com promessa de renda. Valor extremamente alto (R$ 17.500) sugere escala operacional ou erro de digitação. Repetição em 24h confirma nicho viável.",
    "flags": [
     "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-cashback-para-assistir-videos-pix",
+   "nome": "Cashback para assistir vídeos (Pix)",
+   "classe": "angulo",
+   "nicho": "renda-no-celular-cashback-pix",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 39.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 53.9,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-03",
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-03",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=cashback%20assistindo%20vídeos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 1,
+   "resumo": "Esquema que promete devolver dinheiro assistindo vídeos; cobra duas parcelas via Pix e não paga nada de volta. Ângulo clássico de renda-no-celular, útil pra achar concorrentes na Biblioteca de Anúncios.",
+   "flags": [
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -1470,6 +1523,58 @@
    ]
   },
   {
+   "slug": "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
+   "nome": "Pacote de jogo com moeda infinita (indicação de YouTuber)",
+   "classe": "angulo",
+   "nicho": "jogos-mobile-moeda",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-03",
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-03",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=moeda%20infinita%20jogo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 1,
+   "resumo": "Pacote vendido via link de YouTuber prometendo moeda infinita em jogo mobile (ex.: Simoleons); propaganda enganosa, reembolso só saiu após reclamação formal.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-parar-de-gritar",
    "nome": "Ângulo — Pare de gritar com seu filho",
    "classe": "angulo",
@@ -1576,7 +1681,8 @@
    "resumo": "Sem nome de produto identificável (redacted no ReclameAqui). Relacionado a Instagram/redes sociais. Problema: Produto falso/propaganda enganosa. Ângulo genérico.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3682,7 +3788,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4015,7 +4122,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5182,6 +5290,61 @@
    ]
   },
   {
+   "slug": "ebook-master-evolution",
+   "nome": "Ebook Master Evolution",
+   "classe": "oferta",
+   "nicho": "ferramentas-de-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 97,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 97,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-03",
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-03",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Master%20Evolution&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 1,
+   "resumo": "Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado de 'requisito técnico'.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "fabrica-de-low-ticket",
    "nome": "Fabrica de Low Ticket",
    "classe": "oferta",
@@ -5233,6 +5396,61 @@
    "n_citacoes": 3,
    "resumo": "\"Fabrica\" como promessa de volume e sistematizacao — nao um produto, um processo que cospe produtos.",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira",
+   "nome": "FIV - Formação em Marketing e Vendas com IA (Isabele Moreira)",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-03",
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-03",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=FIV%20Isabele%20Moreira&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 1,
+   "resumo": "Curso de marketing e vendas com assistentes de IA mal configurados (treinados para nicho errado). Suporte ruim e reembolso negado apesar do defeito.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -5785,7 +6003,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5953,6 +6172,61 @@
    ]
   },
   {
+   "slug": "ia-play-academy",
+   "nome": "IA Play Academy",
+   "classe": "oferta",
+   "nicho": "ferramentas-de-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-03",
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-03",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=IA%20Play%20Academy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 1,
+   "resumo": "Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "indicadores-de-trading",
    "nome": "Indicadores de trading",
    "classe": "oferta",
@@ -6004,7 +6278,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7089,21 +7364,21 @@
    "score": 3.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lumi%20ai&search_type=keyword_unordered&media_type=all",
-   "n_obs": 7,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 18,
+   "n_obs": 8,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 19,
    "resumo": "Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.",
    "flags": [
     "score-provisorio",
@@ -7117,7 +7392,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -7146,27 +7421,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Luna%20IA&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 4,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 5,
    "resumo": "App de IA que cobra taxa para excluir a conta/dados ('cobrar pra sair'); servico diferente do anunciado (~18/09). Possivel mesma familia de appluna-net. Ja citada em 22/09 18h30, sem nota.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7537,21 +7811,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Atlas&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 6,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 7,
    "resumo": "'Metodo comprovado de rentabilidade' que entrega conteudo generico/desatualizado (~22/09). Visto de novo as 13h00.",
    "flags": [
     "score-provisorio",
@@ -8090,21 +8364,21 @@
    "score": 2.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-30",
-   "rodadas_vista": 9,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 10,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-30",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
-   "n_obs": 9,
-   "ultima_obs": "2026-09-30",
-   "n_citacoes": 16,
+   "n_obs": 10,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 18,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -8172,7 +8446,7 @@
    "classe": "oferta",
    "nicho": "streaming-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8200,27 +8474,26 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-29",
-   "visto_ultimo": "2026-09-29",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-29",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Muscleflix&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-29",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 3,
    "resumo": "Streaming de campeonatos de fisiculturismo. Problema: fricção de cancelamento (sem botão de cancelar visível), cobrança continua mesmo após solicitação de cancelamento.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9115,7 +9388,7 @@
    "classe": "oferta",
    "nicho": "autoajuda-pnl",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -9143,27 +9416,26 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-29",
-   "visto_ultimo": "2026-09-29",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-29",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Reprogramação%20Neural&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-29",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 2,
    "resumo": "Curso/PLR de autoajuda (4 semanas). Problema: suporte inadequado, Cakto redireciona para produtor que não responde.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9985,21 +10257,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 10,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 11,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-03",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 10,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 17,
+   "n_obs": 11,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 19,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -10428,21 +10700,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendy%20IA&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 8,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 9,
    "resumo": "Ferramenta de IA com trial de 1 mes que vira cobranca recorrente sem consentimento claro. Nao confundir com trendly (vitalicio R$ 299) ate confirmar - pode ser a mesma operacao.",
    "flags": [
     "score-provisorio",
@@ -10782,6 +11054,61 @@
    ]
   },
   {
+   "slug": "youclone-guiyouclone",
+   "nome": "YouClone (@guiyouclone)",
+   "classe": "oferta",
+   "nicho": "ferramentas-de-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-03",
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-03",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=YouClone&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 1,
+   "resumo": "Ferramenta/curso de 'clonagem' vendido por afiliado no Instagram (@guiyouclone) via Cakto. Produto nunca entregue, vendedor inacessível por e-mail e Instagram.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "youtube-dark-do-peter",
    "nome": "YouTube dark do Peter",
    "classe": "oferta",
@@ -10833,7 +11160,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10872,21 +11200,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-29",
-   "rodadas_vista": 10,
+   "visto_ultimo": "2026-10-03",
+   "rodadas_vista": 11,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-29",
+   "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 10,
-   "ultima_obs": "2026-09-29",
-   "n_citacoes": 16,
+   "n_obs": 11,
+   "ultima_obs": "2026-10-03",
+   "n_citacoes": 18,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -10894,6 +11222,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-03.md",
+   "data": "2026-10-03",
+   "titulo": "Radar 2026-10-03",
+   "ofertas_vistas": 15,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-09-30.md",
    "data": "2026-09-30",
@@ -11269,6 +11616,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-03 -- 1450.md",
+   "data": "2026-10-03",
+   "hora": "14:50",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 30,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "ms-green-premium",
+    "stalkeia-ai",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 30 · Coleta: parcial · Achados: 15 ## Quentes stalkeia-ai — 7 mencoes, familia Stalkeia/Stalkea/Stalker segue sendo o maior volume do radar zap-radar — confirmado R$97,09…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-09-30 -- 2000.md",
    "data": "2026-09-30",
@@ -11956,6 +12324,10 @@
    "2026-09-30": {
     "oferta": 5,
     "angulo": 2
+   },
+   "2026-10-03": {
+    "oferta": 4,
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -11980,7 +12352,8 @@
    "2026-09-27": 9,
    "2026-09-28": 8,
    "2026-09-29": 10,
-   "2026-09-30": 13
+   "2026-09-30": 13,
+   "2026-10-03": 15
   }
  },
  "analises": [
@@ -12215,49 +12588,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 169
+    "total": 173
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 169
+    "total": 173
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 169
+    "total": 173
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 140,
-    "total": 169
+    "preenchidas": 144,
+    "total": 173
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 116,
-    "total": 169
+    "preenchidas": 117,
+    "total": 173
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 169
+    "total": 173
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 169
+    "total": 173
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 113,
-    "total": 169
+    "preenchidas": 117,
+    "total": 173
    }
   ],
   "fila_enriquecimento": [
@@ -12287,8 +12660,10 @@
    "angulo-assinatura-com-cancelamento-bloqueado",
    "angulo-bonecas-de-papel-imprimivel",
    "angulo-caligrafia-imprimivel",
+   "angulo-captchas-google",
    "angulo-cobranca-extra-para-liberar-acesso",
    "angulo-material-pronto-para-quem-ensina-danca",
+   "angulo-produto-digital-instagram",
    "angulo-quiz-retrato-ia",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
@@ -12308,8 +12683,10 @@
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
    "comunidade-influencers-ia-ascensao",
+   "comunidade-knights",
    "comunidade-mvz",
    "comunidade-renda-em-dolar",
+   "curso-de-marketing-e-vendas-com-ia",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-3-dias-copys-validadas",
@@ -12322,8 +12699,10 @@
    "glow-mode",
    "h2jobs-full",
    "hap-2-0",
+   "hero-live-shop",
    "hub-boss-rateio-ia",
    "ia-fx-promocional",
+   "indicadores-de-trading",
    "instaunlocked",
    "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
@@ -12331,7 +12710,6 @@
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
-   "luna-ia",
    "mdr-despertar-2-0",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
@@ -12340,7 +12718,6 @@
    "modao-raiz",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
-   "muscleflix",
    "o-curso-do-mago",
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
@@ -12350,17 +12727,17 @@
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
-   "protocolo-de-reprogramacao-neural",
    "protocolo-leite-sem-fim",
    "rpr-recomendacoes-personalizadas-remotas",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
-   "um-puxa-o-outro"
+   "um-puxa-o-outro",
+   "youtube-dark-do-peter"
   ],
   "estilos_frontmatter": {
-   "canonico": 530
+   "canonico": 551
   }
  },
  "vocabulario": {
@@ -12407,19 +12784,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "95ff627f2e272167",
-  "atualizado_em": "2026-09-30T20:18:10-03:00",
-  "ofertas": 169,
-  "angulos": 27,
-  "observacoes": 334,
-  "ultima_rodada": "2026-09-30",
+  "hash": "14baede8b0752bf7",
+  "atualizado_em": "2026-10-03T14:51:36-03:00",
+  "ofertas": 173,
+  "angulos": 29,
+  "observacoes": 349,
+  "ultima_rodada": "2026-10-03",
   "ultima_passada": {
-   "data": "2026-09-30",
-   "hora": "20:00",
+   "data": "2026-10-03",
+   "hora": "14:50",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto"
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
    ]
   }
  }

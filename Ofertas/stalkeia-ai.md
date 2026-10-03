@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-26
-rodadas_vista: 10
+visto_ultimo: 2026-10-03
+rodadas_vista: 11
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-10-03
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -149,3 +149,9 @@ Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.
 
 Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-03
+
+7 mencao(oes) nesta varredura (gateway PerfectPay). App falso de espionagem de WhatsApp/Instagram, a oferta mais estável do vault desde 16/08. Grafias desta passada: Stalkea.ai, Stalker AI, 'stalkiem'. Cobra em PIX sucessivos e não entrega o resultado prometido.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-do-servico-no-aplicativo-stalker-ai_ZkpgnfCPgV5V-Rge/

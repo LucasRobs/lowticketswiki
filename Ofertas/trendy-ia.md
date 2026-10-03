@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-09-26
-rodadas_vista: 3
+visto_ultimo: 2026-10-03
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-10-03
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway PerfectPay). Cobranca recorrente mesmo apos pedido de cancelamento; produtor some (reclamacao de ~20/09).
 
 Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta digital vendida como teste de 1 mês, mas cobra renovação automática sem aviso e sem suporte do produtor.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/cobranca-recorrente-indevida-pela-intermediadora-perfectpay-e-nenhum-retorno-ou-resposta-do-produtorvendedor-da-ferramenta-digital-trendy-ia_qxK5HEuEcRUyMSrH/

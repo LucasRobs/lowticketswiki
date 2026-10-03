@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-29
-visto_ultimo: 2026-09-29
-rodadas_vista: 1
+visto_ultimo: 2026-10-03
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-29
+ra_checado: 2026-10-03
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-09-29
 
 1 mencao(oes) nesta varredura (gateway cakto-pay). Curso de 4 semanas. Suporte inadequado: Cakto redireciona pra produtor ("não é responsável"), produtor não responde. Sinal de negligência intencional.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-tirar-duvidas-sobre-o-protocolo-de-reprogramacao-neural_dMFgS_n-UN5UgLWD/
+
+## Rodada 2026-10-03
+
+1 mencao(oes) nesta varredura (gateway Cakto). Mentoria/plano de 4 semanas de 'reprogramação neural'. Comprador não consegue suporte; Cakto só redireciona para o produtor, que não responde.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-tirar-duvidas-sobre-o-protocolo-de-reprogramacao-neural_dMFgS_n-UN5UgLWD/
