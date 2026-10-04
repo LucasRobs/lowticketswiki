@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-rastreador-de-celular-generico"
-gateways_detectados: []
+gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: []
+ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Duas reclamações hoje sobre apps de rastreamento de celular que não entregam acesso, nenhuma com nome de marca. Uma delas mostra o padrão clássico de 3 cobranças crescentes (R$27,90 + R$19,90 + R$37,90) para 'liberar' o resultado - mesma mecânica da família Stalkeia, mas sem confirmação de que seja o mesmo produto.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fiz-varios-pagamentos-e-nao-recebi-o-servico-de-rastreamento_qSmcZT9snGfN4-CL/

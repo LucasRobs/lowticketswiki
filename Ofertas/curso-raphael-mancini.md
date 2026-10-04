@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Primeira aparicao. Reclamacao de propaganda enganosa e falta de suporte em mentoria/curso do produtor Raphael Mancini.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/

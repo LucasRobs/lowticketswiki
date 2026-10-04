@@ -42,11 +42,15 @@
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/angulo-rastreador-de-celular-generico",
-  "gateways_detectados": [],
+  "gateways_detectados": [
+   "perfectpay"
+  ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 2,
-  "ra_plataformas": [],
+  "ra_plataformas": [
+   "perfectpay"
+  ],
   "ra_primeira_reclamacao": "",
   "ra_checado": "2026-10-04",
   "veredito": "observar",
@@ -64,9 +68,11 @@
    "sem-longevidade",
    "sem-lp"
   ],
-  "gateways": []
+  "gateways": [
+   "perfectpay"
+  ]
  },
- "corpo": "# Rastreador de celular (generico)\n\n## Angulo\nDuas reclamações hoje sobre apps de rastreamento de celular que não entregam acesso, nenhuma com nome de marca. Uma delas mostra o padrão clássico de 3 cobranças crescentes (R$27,90 + R$19,90 + R$37,90) para 'liberar' o resultado - mesma mecânica da família Stalkeia, mas sem confirmação de que seja o mesmo produto.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fiz-varios-pagamentos-e-nao-recebi-o-servico-de-rastreamento_qSmcZT9snGfN4-CL/\n\n## Historico\n",
+ "corpo": "# Rastreador de celular (generico)\n\n## Angulo\nDuas reclamações hoje sobre apps de rastreamento de celular que não entregam acesso, nenhuma com nome de marca. Uma delas mostra o padrão clássico de 3 cobranças crescentes (R$27,90 + R$19,90 + R$37,90) para 'liberar' o resultado - mesma mecânica da família Stalkeia, mas sem confirmação de que seja o mesmo produto.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fiz-varios-pagamentos-e-nao-recebi-o-servico-de-rastreamento_qSmcZT9snGfN4-CL/\n\n## Historico\n\n## Rodada 2026-10-04\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Duas reclamações hoje sobre apps de rastreamento de celular que não entregam acesso, nenhuma com nome de marca. Uma delas mostra o padrão clássico de 3 cobranças crescentes (R$27,90 + R$19,90 + R$37,90) para 'liberar' o resultado - mesma mecânica da família Stalkeia, mas sem confirmação de que seja o mesmo produto.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fiz-varios-pagamentos-e-nao-recebi-o-servico-de-rastreamento_qSmcZT9snGfN4-CL/\n",
  "observacoes": [
   {
    "data": "2026-10-04",

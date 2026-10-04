@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Primeira aparicao. Produto digital de moldes de artesanato vendido por 'rendafini'; comprador recebeu conteudo diferente do anunciado na oferta. Reembolso total foi aprovado pela PerfectPay. Classico low ticket de artesanato/PDF.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-produto-diferente-do-anunciado_jjLpOuVfvIgnRQ1D/

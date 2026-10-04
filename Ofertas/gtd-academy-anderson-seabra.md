@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Cakto). Primeira aparicao. Mentoria de 'estrategista digital' do produtor Anderson Pereira Seabra de Andrade, reclamacao de mentoria incompleta. Ticket bem mais alto que o low ticket tipico do radar - mais proximo de mentoria/high ticket.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/mentoria-incompleta-e-ausencia-de-resposta-para-reembolso_w80gibXuDSWBvF6u/

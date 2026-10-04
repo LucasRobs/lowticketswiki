@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-cobranca-adicional-pos-venda-em-curso-online-generico"
-gateways_detectados: []
+gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: []
+ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Duas reclamacoes sem nome de marca descrevem o mesmo mecanismo: pagamento inicial seguido de cobrancas extras nao anunciadas para liberar acesso ou resultado completo. Mecanica de order bump/upsell pesado, recorrente no radar.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/cobranca-abusiva-e-propaganda-enganosa-em-site-de-servicos_Tk8TsMD1sSFuhSkF/

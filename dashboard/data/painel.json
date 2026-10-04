@@ -1240,7 +1240,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "perfectpay"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2181,7 +2183,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "perfectpay"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -16932,8 +16936,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "81195b1dda191b2d",
-  "atualizado_em": "2026-10-04T19:54:26-03:00",
+  "hash": "616c4c0aebd2f4ce",
+  "atualizado_em": "2026-10-04T19:54:33-03:00",
   "ofertas": 231,
   "angulos": 41,
   "observacoes": 452,
