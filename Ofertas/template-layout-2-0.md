@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Produto de templates digitais; comprador relata baixa qualidade e incompatibilidade com programas, reembolso demorado.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/atraso-no-reembolso-e-produto-de-baixa-qualidade_nbpCFDBG-bSTgzg_/

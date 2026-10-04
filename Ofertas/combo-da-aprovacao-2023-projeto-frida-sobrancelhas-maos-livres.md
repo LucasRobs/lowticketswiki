@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Combo de cursos de design de sobrancelhas vendido como acesso vitalício; comprador relata ausência total de conteúdo/atualização desde 2023.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/curso-vitalicio-sem-atualizacoes-e-sem-conteudo-na-hotmart_e3BqTEcIwNwoy0g0/

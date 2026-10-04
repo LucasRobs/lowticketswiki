@@ -1,0 +1,184 @@
+{
+  "data_varredura": "2026-10-04",
+  "gateways": [
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5647, "paginas_varridas": 9}
+  ],
+  "achados": [
+    {
+      "produto": "Comunidade Subido",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "mentoria-comunidade",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 1.345,64 (assinatura anual)",
+      "termo_busca": "Subido",
+      "descricao": "Assinatura de comunidade cobrada automaticamente; comprador não conseguiu cancelar nem pelo produtor nem pelo suporte Hotmart.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/"
+    },
+    {
+      "produto": "App Start",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "negocio-online",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "App Start",
+      "descricao": "Curso/app vendido como assinatura; cobrança anual não autorizada e sem opção funcional de cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrado-indevidamente-pelo-curso-app-start-e-nao-consigo-cancelar_09P5M-oNHCyoBOmm/"
+    },
+    {
+      "produto": "Comunidade Pulsar",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "mentoria-comunidade",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49,60/mês (R$ 595,20/ano)",
+      "termo_busca": "Comunidade Pulsar",
+      "descricao": "Produtora Dra Juliana Franco. Renovação automática de assinatura não solicitada, sem nota/aviso; suporte do produto e da Hotmart não resolveram.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-solicitei-renovacao-do-curso-comunidade-pulsar-e-fui-cobrada-indevidamente_d677O4FN2eZA-pTH/"
+    },
+    {
+      "produto": "Curso Isabela Schonorr (mentoria de perfil no LinkedIn)",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "carreira-marketing-pessoal",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 355,68",
+      "termo_busca": "Isabela Schonorr",
+      "descricao": "Mentoria para melhorar perfil no LinkedIn vendida pela própria produtora; comprador alega propaganda enganosa por não atingir resultado prometido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/solicito-cancelamento-e-estorno-do-curso-isabela-schonorr_F5imp0Art8q2I8xs/"
+    },
+    {
+      "produto": "ShopPro",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "negocio-online-ecommerce",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "ShopPro",
+      "descricao": "Curso de e-commerce/loja online; comprador não se identificou com o conteúdo e teve demora no reembolso apesar de promessa de devolução rápida. Nome extraído do corpo da reclamação (confirmar antes de usar como termo de busca).",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/solicitacao-de-estorno-de-curso-nao-identificado-apos-promessa-de-reembolso_au-P7Qc2m2tbqQFs/"
+    },
+    {
+      "produto": "sem nome",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "educacao-generico",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "",
+      "descricao": "Ângulo: curso online com liberação de aulas represada — 5 meses após a compra só 57% do conteúdo estava liberado, produtora sem suporte.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/falta-de-atencao-e-suporte-no-curso-online-com-aulas-nao-liberadas-apos-5-meses_UjJk-LRSrRWV6BBz/"
+    },
+    {
+      "produto": "Combo da Aprovação 2023 / Projeto Frida + Sobrancelhas Mãos Livres",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "estetica-beleza",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Sobrancelhas Mãos Livres",
+      "descricao": "Combo de cursos de design de sobrancelhas vendido como acesso vitalício; comprador relata ausência total de conteúdo/atualização desde 2023.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/curso-vitalicio-sem-atualizacoes-e-sem-conteudo-na-hotmart_e3BqTEcIwNwoy0g0/"
+    },
+    {
+      "produto": "HAP 2.0 - Hierarquia e Arquitetura de Processos",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "produtividade-gestao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "HAP 2.0",
+      "descricao": "Curso de gestão/processos corporativos; dentro do prazo de garantia o conteúdo principal ficou indisponível por 7 dias, impedindo avaliação antes do reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/"
+    },
+    {
+      "produto": "Método Livre (curso de licitação)",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "renda-extra-licitacoes",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 82,00/mês (12x)",
+      "termo_busca": "Método Livre licitação",
+      "descricao": "Curso de licitações públicas vendido em mensalidade de 12 meses; comprador alega propaganda enganosa, conteúdo raso e acesso limitado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/"
+    },
+    {
+      "produto": "Movimento é o Remédio - Tratamento individual para romper o ciclo da dor",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Movimento é o Remédio",
+      "descricao": "Programa de exercícios para dor lombar; comprador relata piora do quadro e demora grande para análise do pedido de reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/demora-na-analise-e-solucao-de-pedido-de-reembolso-para-programa-de-exercicios_VLyWZs7tozZo16ch/"
+    },
+    {
+      "produto": "Máquina de Viralização Inteligente / Headlines Virais - Content Machine 5.5",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-digital-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 237,60 + R$ 97,00 (R$ 334,60 total)",
+      "termo_busca": "Content Machine viralização",
+      "descricao": "Dois produtos digitais de IA para conteúdo viral do mesmo produtor (Brands Decoded Ltda), vendidos juntos; anúncio promete garantia de 30 dias mas o sistema da Hotmart aplicou só 7, negando o reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/"
+    },
+    {
+      "produto": "Template Layout 2.0",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "templates-digitais",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Template Layout",
+      "descricao": "Produto de templates digitais; comprador relata baixa qualidade e incompatibilidade com programas, reembolso demorado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/atraso-no-reembolso-e-produto-de-baixa-qualidade_nbpCFDBG-bSTgzg_/"
+    },
+    {
+      "produto": "Chama Gêmea",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "espiritualidade-autoconhecimento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Chama Gêmea",
+      "descricao": "Curso de espiritualidade/relacionamento (tema 'chama gêmea'); comprador identificou cobrança de curso no app que afirma nunca ter adquirido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/compra-desconhecida-de-curso-no-aplicativo_bbKGkBLpa1Ml9gON/"
+    },
+    {
+      "produto": "Bolos Caseirinhos Saudáveis / Academia Comer Bem",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "alimentacao-saudavel",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado (parcelado em 12x)",
+      "termo_busca": "Academia Comer Bem",
+      "descricao": "Mesma professora de dois cursos de receitas/alimentação saudável; comprador relata cobrança não autorizada de um segundo curso parcelado, com falha no suporte da plataforma.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/cobranca-indevida-de-curso-nao-solicitado-e-falha-no-suporte-da-plataforma_ke3_YvNdxCHUuE_f/"
+    }
+  ],
+  "passada": {
+    "hora": "19:45",
+    "gateways": ["hotmart"],
+    "paginas": 15,
+    "coleta": "parcial",
+    "relatorio": "## Frias (1 menção cada — janela curta de ~8h desde o último corte)\n- [[comunidade-subido]] — assinatura R$1.345,64/ano, não consegue cancelar\n- [[app-start]] — cobrança indevida recorrente, sem valor informado\n- [[comunidade-pulsar]] — Dra Juliana Franco, renovação automática não autorizada, R$49,60/mês\n- [[curso-isabela-schonorr]] — mentoria de LinkedIn, R$355,68, propaganda enganosa\n- [[shoppro]] — curso de e-commerce, reembolso lento (nome extraído do corpo, confirmar)\n- curso online com aulas represadas (sem nome) — só 57% liberado após 5 meses\n- [[combo-aprovacao-sobrancelhas]] — curso vitalício de sobrancelhas sem conteúdo desde 2023\n- [[hap-2-0]] — curso corporativo de processos, acesso bloqueado 7 dias no prazo de garantia\n- [[metodo-livre-licitacao]] — R$82/mês, curso raso e propaganda enganosa\n- [[movimento-e-o-remedio]] — programa de exercícios p/ dor lombar, piorou o quadro\n- [[maquina-de-viralizacao-inteligente]] — Brands Decoded Ltda, R$334,60 (2 produtos), garantia de 30 dias não respeitada pelo sistema\n- [[template-layout-2-0]] — templates digitais, baixa qualidade\n- [[chama-gemea]] — curso de espiritualidade, compra não reconhecida\n- [[bolos-caseirinhos-saudaveis]] — 'Academia Comer Bem', segundo curso cobrado sem autorização\n\nLeitura: janela de coleta curta (~8h) fez quase tudo aparecer só 1x; 6 das 15 páginas de listagem não carregaram reclamações (falha de renderização), então a contagem de menções é conservadora.",
+    "resumo": "Hotmart 04/10 19h45: 14 achados distintos (todos com 1 menção, janela curta de ~8h), destaque para 2 operações multi-produto do mesmo vendedor (Brands Decoded e a dupla Bolos Caseirinhos/Academia Comer Bem) e 3 casos de renovação automática não autorizada (Subido, Pulsar, App Start)."
+  }
+}

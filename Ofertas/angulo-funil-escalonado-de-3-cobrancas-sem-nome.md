@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-funil-escalonado-de-3-cobrancas-sem-nome"
-gateways_detectados: [eduzz]
+gateways_detectados: [eduzz, hotmart]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 11
-ra_plataformas: [eduzz]
+ra_plataformas: [eduzz, hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
 veredito: observar

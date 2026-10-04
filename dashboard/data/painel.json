@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 219,
+  "ofertas": 225,
   "angulos": 35,
-  "observacoes": 433,
+  "observacoes": 440,
   "dias_radar": 25,
-  "passadas": 39,
+  "passadas": 40,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -1628,7 +1628,8 @@
    "prioridade": 0,
    "checkout": "desconhecido",
    "gateways": [
-    "eduzz"
+    "eduzz",
+    "hotmart"
    ],
    "plataforma_ads": [
     "meta"
@@ -2674,6 +2675,63 @@
    ]
   },
   {
+   "slug": "app-start",
+   "nome": "App Start",
+   "classe": "oferta",
+   "nicho": "negocio-online",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=App%20Start&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Curso/app vendido como assinatura; cobrança anual não autorizada e sem opção funcional de cancelamento.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "appluna-net",
    "nome": "AppLuna.net",
    "classe": "oferta",
@@ -3066,11 +3124,13 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -3091,28 +3151,27 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bolos%20Caseirinhos&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 5,
    "resumo": "Curso de culinaria. Cobranca nao autorizada de um segundo curso (bump cobrado sem consentimento). Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4004,6 +4063,63 @@
    ]
   },
   {
+   "slug": "chama-gemea",
+   "nome": "Chama Gêmea",
+   "classe": "oferta",
+   "nicho": "espiritualidade-autoconhecimento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chama%20Gêmea&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Curso de espiritualidade/relacionamento (tema 'chama gêmea'); comprador identificou cobrança de curso no app que afirma nunca ter adquirido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "chef-luana-livros-de-culinaria",
    "nome": "Chef Luana (livros de culinaria)",
    "classe": "oferta",
@@ -4666,6 +4782,61 @@
    ]
   },
   {
+   "slug": "comunidade-pulsar",
+   "nome": "Comunidade Pulsar",
+   "classe": "oferta",
+   "nicho": "mentoria-comunidade",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 49.6,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 322.4,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Comunidade%20Pulsar&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Produtora Dra Juliana Franco. Renovação automática de assinatura não solicitada, sem nota/aviso; suporte do produto e da Hotmart não resolveram.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "comunidade-renda-em-dolar",
    "nome": "Comunidade Renda em Dolar",
    "classe": "oferta",
@@ -4719,6 +4890,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "comunidade-subido",
+   "nome": "Comunidade Subido",
+   "classe": "oferta",
+   "nicho": "mentoria-comunidade",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 1345.64,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 1345.64,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Subido&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Assinatura de comunidade cobrada automaticamente; comprador não conseguiu cancelar nem pelo produtor nem pelo suporte Hotmart.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -5054,6 +5280,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
+   "nome": "Curso Isabela Schonorr (mentoria de perfil no LinkedIn)",
+   "classe": "oferta",
+   "nicho": "carreira-marketing-pessoal",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 355.68,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 355.68,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Isabela%20Schonorr&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Mentoria para melhorar perfil no LinkedIn vendida pela própria produtora; comprador alega propaganda enganosa por não atingir resultado prometido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -7317,7 +7598,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=HAP%202.0&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -10364,7 +10645,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Movimento%20é%20o%20Remédio&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Programa \"Movimento é o Remédio - Tratamento individual para romper o ciclo da dor\"; reclamação de demora na análise do pedido de reembolso.",
    "flags": [
     "score-provisorio",
@@ -12486,6 +12767,61 @@
    ]
   },
   {
+   "slug": "shoppro",
+   "nome": "ShopPro",
+   "classe": "oferta",
+   "nicho": "negocio-online-ecommerce",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopPro&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Curso de e-commerce/loja online; comprador não se identificou com o conteúdo e teve demora no reembolso apesar de promessa de devolução rápida. Nome extraído do corpo da reclamação (confirmar antes de usar como termo de busca).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "sistema-de-fornecedores-ocultos-marcelle-martins",
    "nome": "Sistema de Fornecedores Ocultos (Marcelle Martins)",
    "classe": "oferta",
@@ -13031,7 +13367,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Template%20Layout%202.0&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Primeira aparicao. Template digital com problema de compatibilidade de software, reembolso ja processado.",
    "flags": [
     "score-provisorio",
@@ -14104,8 +14440,8 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 65,
-   "novas": 38,
+   "ofertas_vistas": 72,
+   "novas": 44,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -14119,7 +14455,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -14532,6 +14868,29 @@
     "tribo-do-gain"
    ],
    "resumo": "Gateways: eduzz · Páginas: 20 · Coleta: parcial · Achados: 9 ## Mornas Cluster sem-nome 'cursos genéricos reembolso' — Eduzz · 11 menções nas reclamações ativas, nenhum nome de marca se repete, sinal de cauda longa (produtores…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 1945.md",
+   "data": "2026-10-04",
+   "hora": "19:45",
+   "gateways": [
+    "hotmart"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-start",
+    "bolos-caseirinhos-saudaveis",
+    "chama-gemea",
+    "comunidade-pulsar",
+    "comunidade-subido",
+    "hap-2-0",
+    "movimento-e-o-remedio",
+    "shoppro",
+    "template-layout-2-0"
+   ],
+   "resumo": "Gateways: hotmart · Páginas: 15 · Coleta: parcial · Achados: 14 ## Frias (1 menção cada — janela curta de ~8h desde o último corte) comunidade-subido — assinatura R$1.345,64/ano, não consegue cancelar app-start — cobrança indevida…"
   },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 1120.md",
@@ -15369,7 +15728,7 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 33,
+    "oferta": 39,
     "angulo": 5
    }
   },
@@ -15397,7 +15756,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 65
+   "2026-10-04": 72
   }
  },
  "analises": [
@@ -15686,49 +16045,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 219
+    "total": 225
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 219
+    "total": 225
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 219
+    "total": 225
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 190,
-    "total": 219
+    "preenchidas": 196,
+    "total": 225
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 125,
-    "total": 219
+    "preenchidas": 128,
+    "total": 225
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 219
+    "total": 225
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 219
+    "total": 225
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 163,
-    "total": 219
+    "preenchidas": 169,
+    "total": 225
    }
   ],
   "fila_enriquecimento": [
@@ -15769,7 +16128,6 @@
    "angulo-treino-de-calistenia",
    "appluna-net",
    "autismo-para-pais-lacerda",
-   "bolos-caseirinhos-saudaveis",
    "bonecas-papel-maria-criativa",
    "boss-ia-trade",
    "brumdance-3em1",
@@ -15838,7 +16196,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 687
+   "canonico": 700
   }
  },
  "vocabulario": {
@@ -15885,11 +16243,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c5c73fdea813849c",
-  "atualizado_em": "2026-10-04T19:48:44-03:00",
-  "ofertas": 219,
+  "hash": "a73e4b350836f4d5",
+  "atualizado_em": "2026-10-04T19:50:33-03:00",
+  "ofertas": 225,
   "angulos": 35,
-  "observacoes": 433,
+  "observacoes": 440,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
