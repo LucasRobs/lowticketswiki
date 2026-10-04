@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-10-03
-rodadas_vista: 8
+visto_ultimo: 2026-10-04
+rodadas_vista: 9
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto, cakto-pay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -131,5 +131,11 @@ Evidencia:
 ## Rodada 2026-10-03
 
 1 mencao(oes) nesta varredura (gateway Cakto). Plataforma de IA com ticket bem acima do padrão low ticket. Reclamante pediu cancelamento dentro do prazo de 7 dias e continuou sendo cobrado — sinal de recorrência disfarçada/difícil de cancelar.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Cakto). Reaparece em dia diferente da passada anterior (antes so no mesmo dia 03/10). Cobranca indevida apos cancelamento dentro do prazo de arrependimento.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/

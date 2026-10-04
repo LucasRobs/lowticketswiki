@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-03
-rodadas_vista: 1
+visto_ultimo: 2026-10-04
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-03
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Confirma R$97 e o bump oculto via créditos de API/Gemini visto na passada anterior, mesmo dia.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-estorno-devido-a-falhas-e-propaganda-enganosa-no-ebook-master-evolution_kH2eiIZP3rSEF2mL/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reaparece em dia diferente da passada anterior. Estorno por falhas e propaganda enganosa.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-estorno-devido-a-falhas-e-propaganda-enganosa-no-ebook-master-evolution_kH2eiIZP3rSEF2mL/

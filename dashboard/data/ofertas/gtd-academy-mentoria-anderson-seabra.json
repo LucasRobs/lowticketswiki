@@ -33,10 +33,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-03",
-  "visto_ultimo": "2026-10-03",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-04",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-03",
+  "ra_checado": "2026-10-04",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -67,14 +67,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "kiwify"
   ]
  },
- "corpo": "# GTD Academy (Mentoria Anderson Seabra)\n\n## Angulo\nMentoria 'estrategista digital' vendida com promessa de aulas em vivo de 2-3h e suporte via WhatsApp; nenhuma aula em vivo aconteceu e o suporte parou de responder.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/\n\n## Historico\n",
+ "corpo": "# GTD Academy (Mentoria Anderson Seabra)\n\n## Angulo\nMentoria 'estrategista digital' vendida com promessa de aulas em vivo de 2-3h e suporte via WhatsApp; nenhuma aula em vivo aconteceu e o suporte parou de responder.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Era mencao unica (fria) na passada anterior, hoje reaparece em dia diferente: upgrade pra quente. Mentoria em estrategia digital, Plano Acelerador Nivel 1.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/\n",
  "observacoes": [
   {
    "data": "2026-10-03",
@@ -87,9 +86,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Mentoria 'estrategista digital' vendida com promessa de aulas em vivo de 2-3h e suporte via WhatsApp; nenhuma aula em vivo aconteceu e o suporte parou de responder."
+  },
+  {
+   "data": "2026-10-04",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 369.09,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Era mencao unica (fria) na passada anterior, hoje reaparece em dia diferente: upgrade pra quente. Mentoria em estrategia digital, Plano Acelerador Nivel 1."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-04.md",
+   "data": "2026-10-04",
+   "titulo": "Radar 2026-10-04"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-03.md",

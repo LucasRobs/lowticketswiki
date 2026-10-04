@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-03
-rodadas_vista: 1
+visto_ultimo: 2026-10-04
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Era mencao unica na passada anterior, reaparece hoje em dia diferente: upgrade pra quente. Vendedor Brands Decoded LTDA, garantia anunciada de 30 dias mas sistema aplicou so 7.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/

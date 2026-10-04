@@ -26,8 +26,8 @@ s_replica: 7
 s_saturacao: 6
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-03
-rodadas_vista: 3
+visto_ultimo: 2026-10-04
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: "2026-08-18"
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca, comportamento-infantil]
@@ -131,5 +131,11 @@ O mascote Pipo (polvinho) segue como professor dos videos.
 ## Rodada 2026-10-03
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso de alfabetização que entregou só uma fração do prometido (apenas pronúncia de vogais/consoantes, sem o método de sílabas anunciado).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-dentro-do-prazo-de-7-dias-por-propaganda-enganosa-em-curso-de-alfabetizacao_S8krKFgkHuB_Uf5f/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Era mencao unica na passada anterior, reaparece hoje em dia diferente: upgrade pra quente. Curso de alfabetizacao, conteudo incompleto frente ao anunciado.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-dentro-do-prazo-de-7-dias-por-propaganda-enganosa-em-curso-de-alfabetizacao_S8krKFgkHuB_Uf5f/

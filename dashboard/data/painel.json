@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 191,
-  "angulos": 31,
-  "observacoes": 392,
+  "ofertas": 193,
+  "angulos": 34,
+  "observacoes": 402,
   "dias_radar": 25,
-  "passadas": 35,
+  "passadas": 36,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -565,6 +565,58 @@
    "ultima_obs": "2026-09-23",
    "n_citacoes": 4,
    "resumo": "Serviço de tips/sinais de apostas com promessa de jogos 100% garantidos. Operado por indivíduos com nomes falsos via Telegram/WhatsApp. Prática comum: recebe dica errada, cliente perde (RED). Sinais de fraude clara.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-apostilas-receitas-plagiadas-via-google-drive",
+   "nome": "Apostilas/receitas plagiadas via Google Drive",
+   "classe": "angulo",
+   "nicho": "receitas-e-culinaria",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 13.98,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 13.98,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=apostila%20receitas%20pdf%20barata&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira mencao. Ticket muito baixo, conteudo descrito como plagiado/copiado da internet, entregue por link do Google Drive em vez de material proprio.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -1231,6 +1283,58 @@
    ]
   },
   {
+   "slug": "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
+   "nome": "Curso de Tecnico Agricola/Tecnico em Agricultura",
+   "classe": "angulo",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20tecnico%20agricola%20online&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira mencao. Comprador diz ter recebido curso diferente do anunciado (tecnico em agricultura em vez do especifico comprado).",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-desintoxicacao-telas",
    "nome": "Ângulo — Criança viciada em tela",
    "classe": "angulo",
@@ -1570,6 +1674,58 @@
    "flags": [
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-metodo-med-parabolas-kids",
+   "nome": "Metodo MED / Parabolas Kids",
+   "classe": "angulo",
+   "nicho": "material-pedagogico",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 6.7,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 39.39,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Parabolas%20Kids%20livro%20infantil%20pdf&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira mencao. Dois produtos infantis vendidos juntos pelo mesmo vendedor na Kiwify, entregues como PDF em vez do formato esperado, ticket bem baixo.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -5682,7 +5838,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -5709,27 +5865,26 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Master%20Evolution&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 3,
    "resumo": "Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado de 'requisito técnico'.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6230,12 +6385,67 @@
    ]
   },
   {
+   "slug": "gospel-worship",
+   "nome": "Gospel Worship",
+   "classe": "oferta",
+   "nicho": "espiritualidade-religiao",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "yampi",
+   "gateways": [
+    "yampi"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 37.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 37.9,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gospel%20Worship%20curso&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira mencao. Produto digital gospel/musica que nao entregou acesso, credenciais invalidas no login.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "gtd-academy-mentoria-anderson-seabra",
    "nome": "GTD Academy (Mentoria Anderson Seabra)",
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -6264,27 +6474,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=GTD%20Academy%20Anderson%20Seabra&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
    "resumo": "Mentoria 'estrategista digital' vendida com promessa de aulas em vivo de 2-3h e suporte via WhatsApp; nenhuma aula em vivo aconteceu e o suporte parou de responder.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7979,21 +8188,21 @@
    "score": 3.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 8,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 9,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lumi%20ai&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 20,
+   "n_obs": 9,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 21,
    "resumo": "Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.",
    "flags": [
     "score-provisorio",
@@ -8175,7 +8384,7 @@
    "classe": "oferta",
    "nicho": "marketing-conteudo-viral",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8202,27 +8411,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Maquina%20de%20Viralizacao%20Inteligente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
    "resumo": "Vendido pela Brands Decoded Ltda. Anuncia garantia de 30 dias na página de vendas, mas o sistema de reembolso só aplica 7 dias — mecânica de garantia enganosa que vale vigiar.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8760,21 +8968,21 @@
    "score": 6.1,
    "decisao": "observar",
    "visto_primeiro": "2026-08-21",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "2026-08-18",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://pipoeduca.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=NeuroOctoMusical&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 6,
    "resumo": "Alfabetização infantil pela combinação de letras em sílabas, com um boneco/personagem demonstrando o método no anúncio",
    "flags": []
   },
@@ -9386,6 +9594,61 @@
    "n_citacoes": 3,
    "resumo": "Nome em inglês com sufixo \"Pro\" vendendo ferramenta de criação musical. O comprador esperava aulas explicativas de como usar; recebeu \"só arquivos em word\".",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "mvr-by-daniel-fernandes",
+   "nome": "MVR by Daniel Fernandes",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "yampi",
+   "gateways": [
+    "yampi"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MVR%20Daniel%20Fernandes&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira mencao. Curso online com material desatualizado (de 2021), vendedor sem resposta a cancelamento.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -12350,8 +12613,8 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 24,
-   "novas": 6,
+   "ofertas_vistas": 34,
+   "novas": 11,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -12362,7 +12625,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -12760,6 +13023,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 0826.md",
+   "data": "2026-10-04",
+   "hora": "08:26",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 15 · Coleta: parcial · Achados: 21 ## Quentes Stalkeia.ai — PerfectPay · 3a mencao, comprador relata 3 pagamentos sem acesso ao app ZAP Radar — PerfectPay · 2 reclamacoes…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 0825.md",
    "data": "2026-10-04",
@@ -13537,8 +13817,8 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 5,
-    "angulo": 1
+    "oferta": 7,
+    "angulo": 4
    }
   },
   "observacoes": {
@@ -13565,7 +13845,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 24
+   "2026-10-04": 34
   }
  },
  "analises": [
@@ -13694,6 +13974,24 @@
     "codigo": "vocabulario"
    },
    {
+    "arquivo": "Ofertas/gospel-worship.md",
+    "campo": "checkout",
+    "msg": "checkout 'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/gospel-worship.md",
+    "campo": "gateways_detectados",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/gospel-worship.md",
+    "campo": "ra_plataformas",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/kit-300-aulas-edfisica.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -13760,6 +14058,24 @@
     "codigo": "vocabulario"
    },
    {
+    "arquivo": "Ofertas/mvr-by-daniel-fernandes.md",
+    "campo": "checkout",
+    "msg": "checkout 'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/mvr-by-daniel-fernandes.md",
+    "campo": "gateways_detectados",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/mvr-by-daniel-fernandes.md",
+    "campo": "ra_plataformas",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/parabolas-kids.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -13811,56 +14127,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 14,
    "status-vencido": 1,
-   "vocabulario": 13
+   "vocabulario": 19
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 191
+    "total": 193
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 191
+    "total": 193
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 191
+    "total": 193
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 162,
-    "total": 191
+    "preenchidas": 164,
+    "total": 193
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 123,
-    "total": 191
+    "preenchidas": 124,
+    "total": 193
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 191
+    "total": 193
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 191
+    "total": 193
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 135,
-    "total": 191
+    "preenchidas": 137,
+    "total": 193
    }
   ],
   "fila_enriquecimento": [
@@ -13924,12 +14240,10 @@
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
-   "ebook-master-evolution",
    "fluency-english",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
    "glow-mode",
-   "gtd-academy-mentoria-anderson-seabra",
    "hero-live-shop",
    "hub-boss-rateio-ia",
    "ia-fx-promocional",
@@ -13943,7 +14257,6 @@
    "licao-kids",
    "linflora",
    "little-genius",
-   "maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5",
    "mdr-despertar-2-0",
    "metodo-live-perpetua-tiktok-shop-liveflow-ia",
    "metodo-livre",
@@ -13976,7 +14289,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 614
+   "canonico": 629
   }
  },
  "vocabulario": {
@@ -14023,15 +14336,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "0e19c53f4da02489",
-  "atualizado_em": "2026-10-04T08:27:05-03:00",
-  "ofertas": 191,
-  "angulos": 31,
-  "observacoes": 392,
+  "hash": "1e08067f06283209",
+  "atualizado_em": "2026-10-04T08:27:20-03:00",
+  "ofertas": 193,
+  "angulos": 34,
+  "observacoes": 402,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
-   "hora": "08:25",
+   "hora": "08:26",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

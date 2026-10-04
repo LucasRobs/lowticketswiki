@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Yampi). Primeira mencao. Titulo da reclamacao inclui alerta direto ('cuidado') ao produto, provavel curso de corte de cabelo/barba.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/mago-dos-cortes-editado-pelo-reclame-aqui-cuidado_LhMCVZfu6bQKn_fp/

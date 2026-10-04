@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-22",
-  "visto_ultimo": "2026-10-03",
-  "rodadas_vista": 8,
+  "visto_ultimo": "2026-10-04",
+  "rodadas_vista": 9,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "cakto-pay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-03",
+  "ra_checado": "2026-10-04",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "cakto-pay"
   ]
  },
- "corpo": "# Lumi.ai\n\n## Angulo\nPlataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-09-22 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Historico\n\n## Rodada 2026-09-22\n\n2 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Cobrança recorrente após cancelamento. Cliente cancelou dentro de 7 dias mas continuou sendo cobrado.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway Cakto). Avistada 04h41 e 14h12. Mesma reclamacao de cobranca apos cancelamento (12x R$ 99,90).\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao: cancelou em 29/05 dentro do prazo, cobrancas ate 20/08, resolvido por chargeback.\n\nEvidencia: [[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao antiga (20/08), relida nas passadas 06h00 e 17h00. Nenhuma reclamacao nova de Lumi.ai nesta semana.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de cursos online. Cobrança indevida após cancelamento dentro do prazo legal de arrependimento. Ticket alto (R$ 1.189,57 confirmado). Padrão: fricção de cancelamento - novo ator confirmado em 27/09.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação com IA. Cobrança recorrente dentro do prazo de arrependimento. NOVA - primeira menção.\n\nEvidencia: \n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Cakto). Plataforma de IA com ticket bem acima do padrão low ticket. Reclamante pediu cancelamento dentro do prazo de 7 dias e continuou sendo cobrado — sinal de recorrência disfarçada/difícil de cancelar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n",
+ "corpo": "# Lumi.ai\n\n## Angulo\nPlataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-09-22 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Historico\n\n## Rodada 2026-09-22\n\n2 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Cobrança recorrente após cancelamento. Cliente cancelou dentro de 7 dias mas continuou sendo cobrado.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway Cakto). Avistada 04h41 e 14h12. Mesma reclamacao de cobranca apos cancelamento (12x R$ 99,90).\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao: cancelou em 29/05 dentro do prazo, cobrancas ate 20/08, resolvido por chargeback.\n\nEvidencia: [[2026-09-25 -- 1300]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao antiga (20/08), relida nas passadas 06h00 e 17h00. Nenhuma reclamacao nova de Lumi.ai nesta semana.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de cursos online. Cobrança indevida após cancelamento dentro do prazo legal de arrependimento. Ticket alto (R$ 1.189,57 confirmado). Padrão: fricção de cancelamento - novo ator confirmado em 27/09.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação com IA. Cobrança recorrente dentro do prazo de arrependimento. NOVA - primeira menção.\n\nEvidencia: \n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Cakto). Plataforma de IA com ticket bem acima do padrão low ticket. Reclamante pediu cancelamento dentro do prazo de 7 dias e continuou sendo cobrado — sinal de recorrência disfarçada/difícil de cancelar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reaparece em dia diferente da passada anterior (antes so no mesmo dia 03/10). Cobranca indevida apos cancelamento dentro do prazo de arrependimento.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/cobranca-indevida-apos-cancelamento-dentro-do-prazo-legal-de-arrependimento-na-plataforma__6V948YP9ErQzUms/\n",
  "observacoes": [
   {
    "data": "2026-09-22",
@@ -171,9 +171,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Plataforma de IA com ticket bem acima do padrão low ticket. Reclamante pediu cancelamento dentro do prazo de 7 dias e continuou sendo cobrado — sinal de recorrência disfarçada/difícil de cancelar."
+  },
+  {
+   "data": "2026-10-04",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Reaparece em dia diferente da passada anterior (antes so no mesmo dia 03/10). Cobranca indevida apos cancelamento dentro do prazo de arrependimento."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-04.md",
+   "data": "2026-10-04",
+   "titulo": "Radar 2026-10-04"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-03 -- 1957.md",
