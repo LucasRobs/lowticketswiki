@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-03
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [desconhecido, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-03
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Propaganda enganosa, empresa não responde pedido de reembolso.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso com nome genérico de resultado 'mágico'. Reclamação de produto diferente do anunciado; reaparece em dia diferente da passada anterior.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-09-30
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-30
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-09-30
 
 1 mencao(oes) nesta varredura (gateway PerfectPay). Curso com acesso a comunidade de vendedores e lista de fornecedores NFC. Problema: acesso não liberado após compra (login não funciona). Reembolso processado.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/curso-online-nao-corresponde-ao-anunciado-solicitacao-de-cancelamento-e-reembolso_1m7vKk1v83TN8jpq/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Pacote de curso + comunidade + lista de fornecedores com foco em produtos NFC (provável revenda de acessórios/cartões NFC). Segunda aparição em dia diferente do mesmo ângulo genérico visto na passada anterior.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/curso-online-nao-corresponde-ao-anunciado-solicitacao-de-cancelamento-e-reembolso_1m7vKk1v83TN8jpq/

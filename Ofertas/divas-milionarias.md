@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-09-30
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [kiwify, hotmart-kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-30
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 2 mencao(oes) nesta varredura (gateway Hotmart, Kiwify). Curso/mentoria sobre finanças pessoais. Padrão: cancelamento difícil, falta de suporte, cobrança recorrente travada.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/ | https://www.reclameaqui.com.br/kiwify/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso/mentoria de dinheiro voltado a público feminino. Cliente pede cancelamento sem retorno da empresa.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/quero-cancelar-o-curso-divas-milionarias-e-nao-tenho-retorno_4OqAqrVsB6BMhDuo/

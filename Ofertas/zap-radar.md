@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-03
-rodadas_vista: 11
+visto_ultimo: 2026-10-04
+rodadas_vista: 12
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -147,3 +147,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-aces
 2 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de busca de número de WhatsApp (checkout real é Payt, não PerfectPay nesta amostra). Cobra R$97 upfront e não exibe resultado da busca. Mesmo nicho da Stalkeia, ticket ~2,6x maior.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/
+
+## Rodada 2026-10-04
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). App que promete monitorar WhatsApp de terceiros; pagamento via PerfectPay sem liberação de resultados. Reaparece de novo nesta passada confirmando o mesmo padrão de queixa dos rounds anteriores.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/

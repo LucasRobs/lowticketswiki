@@ -35,8 +35,8 @@
   "s_saturacao": 3,
   "status": "ativa",
   "visto_primeiro": "2026-08-16",
-  "visto_ultimo": "2026-10-03",
-  "rodadas_vista": 11,
+  "visto_ultimo": "2026-10-04",
+  "rodadas_vista": 12,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-03",
+  "ra_checado": "2026-10-04",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -72,7 +72,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# ZAP Radar\n\n## Angulo\nBusca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.\n\n## Funil\nanuncio -> pagina -> checkout PerfectPay R$97 -> resultado da busca nao e exibido.\n\n## Por que funciona\nMesmo nicho da Stalkeia mas com ticket de entrada 2,6x maior. Interessa como referencia de precificacao do nicho, nao como oferta.\n\n## O que copiar / o que evitar\nRegistro de faixa de preco. Nicho com o mesmo problema regulatorio da Stalkeia.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Historico\n\n## Correção 2026-08-21 — checkout é Payt, e há dois domínios\n\nDois domínios com a mesma headline (\"Clone o WhatsApp do seu Parceiro em 5 minutos\"):\n**`whatsradar.com`** e **`zapradar.shop`**. Checkout **Payt**, não PerfectPay.\n\n**Não confundir** com `zapradar.com.br` e `zapradar.alualab.com` — são um CRM de WhatsApp\nlegítimo, produto completamente diferente com nome colidente.\n\n## Rodada 2026-09-22\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que promete resultados de busca mas não entrega acesso. Propaganda enganosa clara. Cobra upfront sem entrega.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que não funciona. R$ 97 upfront, zero acesso. Propaganda enganosa direta.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistado 14h12 e 23h00. Pagamento sem acesso aos resultados das buscas.\n\nEvidencia: [[2026-09-24 -- 1412]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). 'Nao da opcoes para ver o resultado das buscas' - reembolso concedido (reclamacao de 10/08).\n\nEvidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise/prospecção (SaaS). Cobrança sem acesso aos resultados. Persistente de 26/09.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de automação/radar de vendas. Cobrança efetuada sem acesso aos resultados. NOVA - primeira menção.\n\nEvidencia: \n\n## Rodada 2026-09-29\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise/monitoramento. Problema: acesso negado aos resultados após pagamento.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar/\n\n## Rodada 2026-10-03\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de busca de número de WhatsApp (checkout real é Payt, não PerfectPay nesta amostra). Cobra R$97 upfront e não exibe resultado da busca. Mesmo nicho da Stalkeia, ticket ~2,6x maior.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/\n",
+ "corpo": "# ZAP Radar\n\n## Angulo\nBusca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.\n\n## Funil\nanuncio -> pagina -> checkout PerfectPay R$97 -> resultado da busca nao e exibido.\n\n## Por que funciona\nMesmo nicho da Stalkeia mas com ticket de entrada 2,6x maior. Interessa como referencia de precificacao do nicho, nao como oferta.\n\n## O que copiar / o que evitar\nRegistro de faixa de preco. Nicho com o mesmo problema regulatorio da Stalkeia.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Historico\n\n## Correção 2026-08-21 — checkout é Payt, e há dois domínios\n\nDois domínios com a mesma headline (\"Clone o WhatsApp do seu Parceiro em 5 minutos\"):\n**`whatsradar.com`** e **`zapradar.shop`**. Checkout **Payt**, não PerfectPay.\n\n**Não confundir** com `zapradar.com.br` e `zapradar.alualab.com` — são um CRM de WhatsApp\nlegítimo, produto completamente diferente com nome colidente.\n\n## Rodada 2026-09-22\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que promete resultados de busca mas não entrega acesso. Propaganda enganosa clara. Cobra upfront sem entrega.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Rodada 2026-09-23\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise que não funciona. R$ 97 upfront, zero acesso. Propaganda enganosa direta.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistado 14h12 e 23h00. Pagamento sem acesso aos resultados das buscas.\n\nEvidencia: [[2026-09-24 -- 1412]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). 'Nao da opcoes para ver o resultado das buscas' - reembolso concedido (reclamacao de 10/08).\n\nEvidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-27\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise/prospecção (SaaS). Cobrança sem acesso aos resultados. Persistente de 26/09.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de automação/radar de vendas. Cobrança efetuada sem acesso aos resultados. NOVA - primeira menção.\n\nEvidencia: \n\n## Rodada 2026-09-29\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de análise/monitoramento. Problema: acesso negado aos resultados após pagamento.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar/\n\n## Rodada 2026-10-03\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de busca de número de WhatsApp (checkout real é Payt, não PerfectPay nesta amostra). Cobra R$97 upfront e não exibe resultado da busca. Mesmo nicho da Stalkeia, ticket ~2,6x maior.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/\n\n## Rodada 2026-10-04\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App que promete monitorar WhatsApp de terceiros; pagamento via PerfectPay sem liberação de resultados. Reaparece de novo nesta passada confirmando o mesmo padrão de queixa dos rounds anteriores.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/\n",
  "observacoes": [
   {
    "data": "2026-08-16",
@@ -205,9 +205,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. Ferramenta de busca de número de WhatsApp (checkout real é Payt, não PerfectPay nesta amostra). Cobra R$97 upfront e não exibe resultado da busca. Mesmo nicho da Stalkeia, ticket ~2,6x maior."
+  },
+  {
+   "data": "2026-10-04",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. App que promete monitorar WhatsApp de terceiros; pagamento via PerfectPay sem liberação de resultados. Reaparece de novo nesta passada confirmando o mesmo padrão de queixa dos rounds anteriores."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-04 -- 0825.md",
+   "data": "2026-10-04",
+   "titulo": "Passada 2026-10-04 08:25"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-04.md",
+   "data": "2026-10-04",
+   "titulo": "Radar 2026-10-04"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-03 -- 1957.md",

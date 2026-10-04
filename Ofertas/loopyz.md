@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-28
-rodadas_vista: 4
+visto_ultimo: 2026-10-04
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-28
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -108,3 +108,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-
 1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação online. Reclamação sobre cobrança recorrente após cancelamento. ATUALIZADA - já aparecia em 27/09.
 
 Evidencia: 
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta para lives interativas no TikTok. Reclamação de arrependimento (R$ 88,29) confirma que a oferta, já registrada no vault, segue ativa via Cakto.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/

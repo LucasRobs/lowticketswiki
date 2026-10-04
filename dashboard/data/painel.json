@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 186,
-  "angulos": 30,
-  "observacoes": 368,
-  "dias_radar": 24,
-  "passadas": 34,
+  "ofertas": 191,
+  "angulos": 31,
+  "observacoes": 392,
+  "dias_radar": 25,
+  "passadas": 35,
   "analises": 12,
-  "ultima_rodada": "2026-10-03"
+  "ultima_rodada": "2026-10-04"
  },
  "ofertas": [
   {
@@ -1064,7 +1064,8 @@
    "resumo": "Esquema que promete devolver dinheiro assistindo vídeos; cobra duas parcelas via Pix e não paga nada de volta. Ângulo clássico de renda-no-celular, útil pra achar concorrentes na Biblioteca de Anúncios.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1169,7 +1170,8 @@
    "resumo": "Bundle de curso + comunidade + lista de fornecedores pra revenda; elementos clicáveis da plataforma não funcionavam.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1402,6 +1404,58 @@
    ]
   },
   {
+   "slug": "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
+   "nome": "Funil escalonado de 3 cobranças (sem nome)",
+   "classe": "angulo",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 37,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 108.95,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Site de serviços genérico que cobrou em 3 pagamentos sucessivos totalizando R$ 180,90 sem entregar o prometido. Sem nome de marca identificado, mas a mecânica de upsell em cascata vale estudar.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-material-pedagogico",
    "nome": "Material pedagogico e apostilas imprimiveis",
    "classe": "angulo",
@@ -1624,7 +1678,8 @@
    "resumo": "Pacote vendido via link de YouTuber prometendo moeda infinita em jogo mobile (ex.: Simoleons); propaganda enganosa, reembolso só saiu após reclamação formal.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3063,10 +3118,65 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=CapCut%20Pro%20assinatura%20barata&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-08-27",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Kirvano, reclamacao de 23/08/2026 as 15h17 (ID 257168105). Macapa - AP.",
    "flags": [
     "score-provisorio",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "capcut-pro-revenda-de-licenca",
+   "nome": "CapCut Pro (revenda de licença)",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Capcut%20Pro%20licença&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Revenda de licença/acesso 'premium' do CapCut como infoproduto. Comprador não recebeu o acesso prometido; oferta já registrada no vault continua ativa.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -3515,6 +3625,61 @@
    ]
   },
   {
+   "slug": "clube-conecta",
+   "nome": "Clube Conecta",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Clube%20Conecta&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Clube/assinatura 'Conecta' vendido na Kiwify. Primeira menção, motivo do reembolso não detalhado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "clube-da-pedagogia",
    "nome": "Clube da Pedagogia — kit 3.000+ atividades BNCC",
    "classe": "oferta",
@@ -3958,6 +4123,61 @@
    ]
   },
   {
+   "slug": "congresso-humanamente-salvador",
+   "nome": "Congresso Humanamente Salvador",
+   "classe": "oferta",
+   "nicho": "eventos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Congresso%20Humanamente%20Salvador&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Evento presencial com dificuldade de reembolso após cancelamento. Fora do padrão de infoproduto puro (é evento físico), mas vale registrar por rodar no mesmo circuito de checkout.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "cura-da-alma-devocional",
    "nome": "Cura da Alma — devocional diario para traumas e feridas",
    "classe": "oferta",
@@ -4101,21 +4321,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-25",
-   "visto_ultimo": "2026-09-30",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-30",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fornecedores%20NFC&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-30",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 5,
    "resumo": "'Curso + Comunidade + Fornecedores NFC': acesso a comunidade + lista de fornecedores; entrega menor que o anunciado.",
    "flags": [
     "score-provisorio",
@@ -4129,11 +4349,12 @@
    "classe": "oferta",
    "nicho": "dropshipping",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
    "gateways": [
+    "cakto",
     "kiwify"
    ],
    "plataforma_ads": [
@@ -4158,21 +4379,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Raphael%20Mancini%20curso%20loja%20virtual&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 3,
    "resumo": "Curso de loja virtual/dropshipping que exige instalar apps extras não divulgados na venda — cada instalação gera comissão extra pro produtor. Mecânica de monetização escondida vale estudar.",
    "flags": [
     "score-provisorio",
@@ -4573,11 +4794,13 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -4598,28 +4821,27 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Copys%20Validadas&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 5,
    "resumo": "Produtor: Jotape. Desafio de copywriting para anuncios; reembolso negado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4729,6 +4951,61 @@
    "n_citacoes": 4,
    "resumo": "Descoberta na lista da Lastlink (22/08, 17h33). A mecanica mais interessante da rodada, e nao tem nome.",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "desafio-pilates-em-casa",
+   "nome": "Desafio Pilates em Casa",
+   "classe": "oferta",
+   "nicho": "saude-bemestar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Desafio%20Pilates%20em%20Casa&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Desafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -5155,21 +5432,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-30",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-30",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Divas%20Milionarias&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-30",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 7,
    "resumo": "Thais Pereira. Educacao financeira feminina. Compra de 23/09 reclamada em 24/09 - a reclamacao mais recente do dia. Nao consegue cancelar, sem resposta.",
    "flags": [
     "score-provisorio",
@@ -5377,21 +5654,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-25",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Adeus%20CLT&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 7,
    "resumo": "Curso entregue e depois bloqueado sem aviso; suporte nao responde.",
    "flags": [
     "score-provisorio",
@@ -5451,7 +5728,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5515,7 +5793,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -5542,21 +5820,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=FIV%20Isabele%20Moreira&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 4,
    "resumo": "Curso de marketing e vendas com assistentes de IA mal configurados (treinados para nicho errado). Suporte ruim e reembolso negado apesar do defeito.",
    "flags": [
     "score-provisorio",
@@ -5791,7 +6069,7 @@
    "classe": "oferta",
    "nicho": "artesanato-presentes",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -5818,21 +6096,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gifts%20da%20Isa&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 3,
    "resumo": "Curso descrito como mal feito e desorganizado; reembolso dentro do prazo de 7 dias foi prometido mas falhou e a cobrança continuou.",
    "flags": [
     "score-provisorio",
@@ -6005,7 +6283,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6069,11 +6348,13 @@
    "classe": "oferta",
    "nicho": "educacao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -6094,28 +6375,27 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=H2Jobs&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 5,
    "resumo": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6151,21 +6431,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=HAP%202.0&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 6,
    "resumo": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -6400,7 +6680,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -6427,21 +6707,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=IA%20Play%20Academy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 4,
    "resumo": "Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.",
    "flags": [
     "score-provisorio",
@@ -6501,7 +6781,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7272,7 +7553,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7422,21 +7704,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-28",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-28",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-09-28",
-   "n_citacoes": 7,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 9,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -7833,6 +8115,61 @@
    ]
   },
   {
+   "slug": "mago-dos-cortes",
+   "nome": "Mago dos Cortes",
+   "classe": "oferta",
+   "nicho": "ecommerce",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "yampi",
+   "gateways": [
+    "yampi"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mago%20dos%20Cortes&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Produto vendido via Yampi relacionado a 'cortes' (provável ferramenta/template de corte). Trecho da reclamação editado pelo Reclame Aqui sugere acusação grave; sem mais contexto nesta amostra.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5",
    "nome": "Máquina de Viralização Inteligente + Headlines Virais (Content Machine 5.5)",
    "classe": "oferta",
@@ -7884,7 +8221,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8254,21 +8592,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-30",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-30",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gringa%20Turbo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-30",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 7,
    "resumo": "Curso ligado a viagem/turismo. Reembolso nao processado (compra de 08/09). 1 mencao.",
    "flags": [
     "score-provisorio",
@@ -8328,7 +8666,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8715,7 +9054,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8862,21 +9202,21 @@
    "score": 2.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 10,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 11,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
-   "n_obs": 10,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 19,
+   "n_obs": 11,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 21,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -9082,21 +9422,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20do%20Mago&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 6,
    "resumo": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -9159,7 +9499,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10718,7 +11059,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10868,21 +11210,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 11,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 12,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 11,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 20,
+   "n_obs": 12,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 22,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -11219,7 +11561,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11228,7 +11571,7 @@
    "classe": "oferta",
    "nicho": "prompts-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -11255,21 +11598,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thyago%20Gomes%20Prompts&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 3,
    "resumo": "Ângulo novo no radar: venda de prompts de IA como infoproduto. Conta bloqueada pela Kiwify por violação de política, saldo retido até 15/11.",
    "flags": [
     "score-provisorio",
@@ -11828,7 +12171,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11864,21 +12208,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-30",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=YouTube%20dark&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 5,
    "resumo": "Curso sobre YouTube. Problema relatado: reembolso negado, conteúdo incompleto.",
    "flags": [
     "score-provisorio",
@@ -11922,21 +12266,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 11,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 12,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 11,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 19,
+   "n_obs": 12,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 21,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -11996,11 +12340,31 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-04.md",
+   "data": "2026-10-04",
+   "titulo": "Radar 2026-10-04",
+   "ofertas_vistas": 24,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "yampi"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-03.md",
    "data": "2026-10-03",
@@ -12396,6 +12760,42 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 0825.md",
+   "data": "2026-10-04",
+   "hora": "08:25",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "capcut-pro-revenda",
+    "curso-de-loja-virtual-raphael-mancini",
+    "desafio-3-dias-copys-validadas",
+    "divas-milionarias",
+    "e-workflow-adeus-clt",
+    "fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira",
+    "gifts-da-isa",
+    "h2jobs-full",
+    "hap-2-0",
+    "ia-play-academy",
+    "loopyz",
+    "metodo-gringa-turbo",
+    "ms-green-premium",
+    "o-curso-do-mago",
+    "stalkeia-ai",
+    "thyago-gomes-prompts",
+    "youtube-dark-do-peter",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 20 · Coleta: parcial · Achados: 24 ## Quentes stalkeia-ai — familia Stalkeia/Stalkei continua dominando o volume da PerfectPay zap-radar — reapareceu de novo, mesmo padrao…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-03 -- 1957.md",
    "data": "2026-10-03",
@@ -13135,6 +13535,10 @@
    "2026-10-03": {
     "oferta": 17,
     "angulo": 3
+   },
+   "2026-10-04": {
+    "oferta": 5,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -13160,7 +13564,8 @@
    "2026-09-28": 8,
    "2026-09-29": 10,
    "2026-09-30": 13,
-   "2026-10-03": 34
+   "2026-10-03": 34,
+   "2026-10-04": 24
   }
  },
  "analises": [
@@ -13313,6 +13718,24 @@
     "codigo": "vocabulario"
    },
    {
+    "arquivo": "Ofertas/mago-dos-cortes.md",
+    "campo": "checkout",
+    "msg": "checkout 'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/mago-dos-cortes.md",
+    "campo": "gateways_detectados",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/mago-dos-cortes.md",
+    "campo": "ra_plataformas",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/minha-historinha.md",
     "campo": "gateways_detectados",
     "msg": "'cakto-pay' fora do vocabulario de gateway",
@@ -13388,56 +13811,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 14,
    "status-vencido": 1,
-   "vocabulario": 10
+   "vocabulario": 13
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 186
+    "total": 191
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 186
+    "total": 191
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 186
+    "total": 191
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 157,
-    "total": 186
+    "preenchidas": 162,
+    "total": 191
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 123,
-    "total": 186
+    "total": 191
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 186
+    "total": 191
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 186
+    "total": 191
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 130,
-    "total": 186
+    "preenchidas": 135,
+    "total": 191
    }
   ],
   "fila_enriquecimento": [
@@ -13467,8 +13890,11 @@
    "angulo-bonecas-de-papel-imprimivel",
    "angulo-caligrafia-imprimivel",
    "angulo-captchas-google",
+   "angulo-cashback-para-assistir-videos-pix",
    "angulo-cobranca-extra-para-liberar-acesso",
+   "angulo-curso-comunidade-fornecedores-revenda",
    "angulo-material-pronto-para-quem-ensina-danca",
+   "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
    "angulo-produto-digital-instagram",
    "angulo-quiz-retrato-ia",
    "angulo-taxa-sobre-servico-gratuito",
@@ -13495,18 +13921,19 @@
    "curso-de-marketing-e-vendas-com-ia",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
-   "desafio-3-dias-copys-validadas",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
+   "ebook-master-evolution",
    "fluency-english",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
    "glow-mode",
-   "h2jobs-full",
+   "gtd-academy-mentoria-anderson-seabra",
    "hero-live-shop",
    "hub-boss-rateio-ia",
    "ia-fx-promocional",
+   "imersao-tradutor-de-almas-andrea-vermont",
    "indicadores-de-trading",
    "instaunlocked",
    "jornada-do-freelancer-online",
@@ -13514,15 +13941,20 @@
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
    "licao-kids",
+   "linflora",
    "little-genius",
+   "maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5",
    "mdr-despertar-2-0",
+   "metodo-live-perpetua-tiktok-shop-liveflow-ia",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
    "missa-em-atividades",
    "modao-raiz",
+   "moldes-digitais-de-artesanato-rendafini",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
+   "o-truque-da-loto-pro",
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
@@ -13533,14 +13965,18 @@
    "postcloner",
    "protocolo-leite-sem-fim",
    "rpr-recomendacoes-personalizadas-remotas",
+   "shopminer",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
+   "thermafit",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
-   "um-puxa-o-outro"
+   "um-puxa-o-outro",
+   "youclone-guiyouclone",
+   "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 584
+   "canonico": 614
   }
  },
  "vocabulario": {
@@ -13587,22 +14023,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "07b645b6e5f95723",
-  "atualizado_em": "2026-10-03T20:09:41-03:00",
-  "ofertas": 186,
-  "angulos": 30,
-  "observacoes": 368,
-  "ultima_rodada": "2026-10-03",
+  "hash": "0e19c53f4da02489",
+  "atualizado_em": "2026-10-04T08:27:05-03:00",
+  "ofertas": 191,
+  "angulos": 31,
+  "observacoes": 392,
+  "ultima_rodada": "2026-10-04",
   "ultima_passada": {
-   "data": "2026-10-03",
-   "hora": "19:57",
+   "data": "2026-10-04",
+   "hora": "08:25",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "yampi"
    ]
   }
  }

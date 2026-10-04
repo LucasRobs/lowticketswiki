@@ -24,22 +24,22 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-03
-rodadas_vista: 1
+visto_ultimo: 2026-10-04
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/curso-de-loja-virtual-raphael-mancini"
-gateways_detectados: [kiwify]
+gateways_detectados: [kiwify, cakto]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [kiwify]
+ra_plataformas: [kiwify, cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Cakto). Curso de loja virtual que exige instalação de apps extras não informados, cada um gerando comissão ao vendedor (CPA oculto). Reaparece em dia diferente da primeira menção (passada anterior).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-por-omissao-de-custos-adicionais-em-curso-online_sdLWbmNTCfplGLgF/

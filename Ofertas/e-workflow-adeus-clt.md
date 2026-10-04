@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-09-26
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Cakto). Perdeu o acesso ~1 ano depois da compra; suporte mudo.
 
 Evidencia: [[2026-09-26 -- 1700]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Cakto). Infoproduto sobre deixar o emprego CLT. Reclamação de compra feita há quase 1 ano ainda sem resolução, confirmando produto de cauda longa que continua circulando via Cakto.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/mentoria-incompleta-e-ausencia-de-resposta-para-reembolso_w80gibXuDSWBvF6u/

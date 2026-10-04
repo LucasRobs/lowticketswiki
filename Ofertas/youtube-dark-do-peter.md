@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-30
-visto_ultimo: 2026-10-03
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-03
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Curso de automação de canal ('YouTube Dark') que, segundo o reclamante, serve principalmente pra empurrar upsells de outros cursos.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/reembolso-de-curso-youtube-dark-do-peter_ixfo4SZKz4Pa2BlF/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Curso sobre monetização de canais 'dark' no YouTube. Reaparece confirmando continuidade da oferta já vista na passada anterior.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/reembolso-de-curso-youtube-dark-do-peter_ixfo4SZKz4Pa2BlF/

@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-04.md",
+   "data": "2026-10-04",
+   "titulo": "Radar 2026-10-04",
+   "ofertas_vistas": 24,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "yampi"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-04\n\n## Novas\n\n- [[angulo-funil-escalonado-de-3-cobrancas-sem-nome]] — ganhar-dinheiro — R$ 37 + R$ 47 + R$ 96,90 (total R$ 180,90) — Site de serviços genérico que cobrou em 3 pagamentos sucessivos totalizando R$ 180,90 sem entregar o prometido. Sem nome de marca…\n- [[capcut-pro-revenda-de-licenca]] — ferramentas-ia —  — Revenda de licença/acesso 'premium' do CapCut como infoproduto. Comprador não recebeu o acesso prometido; oferta já registrada no vault…\n- [[clube-conecta]] — ganhar-dinheiro —  — Clube/assinatura 'Conecta' vendido na Kiwify. Primeira menção, motivo do reembolso não detalhado.\n- [[desafio-pilates-em-casa]] — saude-bemestar —  — Desafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado…\n- [[congresso-humanamente-salvador]] — eventos —  — Evento presencial com dificuldade de reembolso após cancelamento. Fora do padrão de infoproduto puro (é evento físico), mas vale registrar…\n- [[mago-dos-cortes]] — ecommerce —  — Produto vendido via Yampi relacionado a 'cortes' (provável ferramenta/template de corte). Trecho da reclamação editado pelo Reclame Aqui…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 4\n- [[ms-green-premium]] — ra_reclamacoes atualizado para 3\n- [[curso-comunidade-fornecedores-nfc]] — ra_reclamacoes atualizado para 2\n- [[loopyz]] — ra_reclamacoes atualizado para 2\n- [[e-workflow-adeus-clt]] — ra_reclamacoes atualizado para 1\n- [[curso-de-loja-virtual-raphael-mancini]] — ra_reclamacoes atualizado para 1\n- [[fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira]] — ra_reclamacoes atualizado para 1\n- [[youtube-dark-do-peter]] — ra_reclamacoes atualizado para 1\n- [[hap-2-0]] — ra_reclamacoes atualizado para 2\n- [[divas-milionarias]] — ra_reclamacoes atualizado para 2\n- [[metodo-gringa-turbo]] — ra_reclamacoes atualizado para 1\n- [[ia-play-academy]] — ra_reclamacoes atualizado para 1\n- [[o-curso-do-mago]] — ra_reclamacoes atualizado para 1\n- [[h2jobs-full]] — ra_reclamacoes atualizado para 1\n- [[thyago-gomes-prompts]] — ra_reclamacoes atualizado para 1\n- [[gifts-da-isa]] — ra_reclamacoes atualizado para 1\n- [[desafio-3-dias-copys-validadas]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-04 -- 0825]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 24 achado(s) - Stalkeia, ZAP Radar e FIV de Isabele Moreira seguem quentes; Yampi (rotativo) confirmou perfil fraco para infoproduto.\n"
+  },
+  {
    "arquivo": "Radar/2026-10-03.md",
    "data": "2026-10-03",
    "titulo": "Radar 2026-10-03",
@@ -396,6 +415,42 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 0825.md",
+   "data": "2026-10-04",
+   "hora": "08:25",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "capcut-pro-revenda",
+    "curso-de-loja-virtual-raphael-mancini",
+    "desafio-3-dias-copys-validadas",
+    "divas-milionarias",
+    "e-workflow-adeus-clt",
+    "fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira",
+    "gifts-da-isa",
+    "h2jobs-full",
+    "hap-2-0",
+    "ia-play-academy",
+    "loopyz",
+    "metodo-gringa-turbo",
+    "ms-green-premium",
+    "o-curso-do-mago",
+    "stalkeia-ai",
+    "thyago-gomes-prompts",
+    "youtube-dark-do-peter",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-04]].\n\n# Rodada — 04/10/2026 · 08:25 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, yampi · **Páginas:** 20 · **Coleta:** parcial · **Achados:** 24\n\n## Quentes\n- [[stalkeia-ai]] — familia Stalkeia/Stalkei continua dominando o volume da PerfectPay\n- [[zap-radar]] — reapareceu de novo, mesmo padrao de sempre\n- [[ms-green-premium]] — mais uma aparicao em dia diferente\n- [[fiv-formacao-em-marketing-e-vendas-com-ia-isabele-moreira]] — confirmada em passadas consecutivas (14:50 e 19:57 de 03/10, agora de novo)\n- [[ia-play-academy]] — atraso recorrente no reembolso, segue firme\n\n## Mornas\n- [[loopyz]], [[e-workflow-adeus-clt]], [[curso-de-loja-virtual-raphael-mancini]], [[capcut-pro-revenda]], [[youtube-dark-do-peter]], [[hap-2-0]], [[divas-milionarias]], [[metodo-gringa-turbo]], [[o-curso-do-mago]], [[h2jobs-full]], [[thyago-gomes-prompts]], [[gifts-da-isa]], [[desafio-3-dias-copys-validadas]] — todas reapareceram confirmando que seguem ativas\n\n## Frias (primeira mencao)\n- Clube Conecta, Desafio Pilates em Casa (Kiwify, possivel venda por afiliado indevido), Congresso Humanamente Salvador (evento presencial), Mago dos Cortes (Yampi), funil escalonado de 3 cobrancas sem nome (PerfectPay, R$180,90 total)\n\nLeitura: Yampi (gateway rotativo, nunca varrido antes) confirmou o perfil de e-commerce/fisico descrito no guia — pouco infoproduto, so 37 reclamacoes ativas no total. Kiwify teve a melhor taxa de resposta do WebFetch nesta passada e trouxe o maior volume de marcas conhecidas reaparecendo.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-03 -- 1957.md",
    "data": "2026-10-03",

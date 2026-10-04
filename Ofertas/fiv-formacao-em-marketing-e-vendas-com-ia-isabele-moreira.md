@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-03
-rodadas_vista: 1
+visto_ultimo: 2026-10-04
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-03
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-03
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Segunda reclamação no mesmo dia: assistentes de IA mal configurados pro nicho da cliente e reembolso só saiu com intervenção da Hotmart depois do prazo de garantia já ter 'vencido'.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/curso-de-marketing-e-vendas-com-ia-apresenta-defeito-e-mau-atendimento-cliente-solicita-cancelamento-e-reembolso_DnV_znf_p8R4Sdku/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Formação em marketing e vendas com IA. Confirmada em passadas consecutivas (14:50 e 19:57 de 03/10 e agora), sinal forte de tráfego pago sustentado.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/curso-de-marketing-e-vendas-com-ia-apresenta-defeito-e-mau-atendimento-cliente-solicita-cancelamento-e-reembolso_DnV_znf_p8R4Sdku/

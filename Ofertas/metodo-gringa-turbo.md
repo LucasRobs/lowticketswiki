@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-09-30
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-30
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso/sistema com padrão de nome comum (método + adjetivo). Reclamação: reembolso não processado.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso sobre renda em moeda estrangeira ('gringa'). Reembolso não recebido; reaparece confirmando oferta já conhecida.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-metodo-gringa-turbo_xLfZ92SeJp1PbwA8/
