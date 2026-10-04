@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-09-30
-rodadas_vista: 2
+visto_ultimo: 2026-10-04
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-30
+ra_checado: 2026-10-04
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Eduzz). Mentoria/programa. Problema: falta de acompanhamento, recusa de reembolso proporcional, cobrança integral.
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Mentoria empresarial individual vendida por VPJ Treinamentos Ltda. Cliente reclama de falta de acompanhamento personalizado prometido. Ticket alto, não é low ticket, mas aparece no mesmo gateway.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/falta-de-acompanhamento-e-recusa-de-reembolso-proporcional-na-mentoria-vpj_oohuOBdvFjY8kMlI/

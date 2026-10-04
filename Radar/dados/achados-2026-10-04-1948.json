@@ -1,0 +1,124 @@
+{
+  "data_varredura": "2026-10-04",
+  "gateways": [
+    {"nome": "Eduzz", "slug": "eduzz", "reclamacoes_ativas_total": 1120, "paginas_varridas": 20, "paginas_com_dados": 4}
+  ],
+  "achados": [
+    {
+      "produto": "Mentoria VPJ",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "mentoria-negocios",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 15.000 (alto ticket, fora do perfil low ticket)",
+      "termo_busca": "Mentoria VPJ",
+      "descricao": "Mentoria empresarial individual vendida por VPJ Treinamentos Ltda. Cliente reclama de falta de acompanhamento personalizado prometido. Ticket alto, não é low ticket, mas aparece no mesmo gateway.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/falta-de-acompanhamento-e-recusa-de-reembolso-proporcional-na-mentoria-vpj_oohuOBdvFjY8kMlI/"
+    },
+    {
+      "produto": "Clube da Inteligência Artificial / Publicações Inovadoras CAPES",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "ia-infoproduto",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado (assinatura recorrente)",
+      "termo_busca": "Clube Inteligencia Artificial",
+      "descricao": "Clube de assinatura ligado a 'publicações CAPES' + IA. Cliente cancelou mas continuou recebendo cobranças/emails de cobrança insistentes.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/cobrancas-e-emails-insistentes-apos-cancelamento-de-assinatura_mhY9jf183A92NqJH/"
+    },
+    {
+      "produto": "Tribo do Gain",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "trading-investimentos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Tribo do Gain",
+      "descricao": "Curso/comunidade com promessa de acesso vitalício e indicadores mensais de trading/investimento. Cliente diz que não recebeu o conteúdo prometido após o prazo dos 7 dias.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/cobranca-indevida-apos-cancelamento-e-reembolso-nao-repassado__dtRUHmbEXXmdUdD/"
+    },
+    {
+      "produto": "Quadradinhos da Vovó",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "artesanato-croche",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Quadradinhos da Vovo",
+      "descricao": "Curso de crochê. Cliente só conseguiu acessar no dia da compra; logins seguintes falharam mesmo após resets de senha, sem solução do produtor nem da Eduzz.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/falha-no-acesso-ao-curso-e-ausencia-de-suporte-para-estorno_hWLy5Un8DttE5eKR/"
+    },
+    {
+      "produto": "De Costureira a Engenheira da Costura (Desafio 5 dias) + Clube da Modista",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "artesanato-costura",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 45 (desafio) + R$ 47 (clube mensal) = R$ 92",
+      "termo_busca": "Clube da Modista",
+      "descricao": "Clássica esteira low ticket: desafio de 5 dias por R$45 com upsell para clube de assinatura mensal (Clube da Modista) por R$47. Cliente pede reembolso integral via CDC art. 49.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/dificuldade-para-obter-reembolso-integral-de-cursos-comprados_oMpLc-J6xm1rhIgp/"
+    },
+    {
+      "produto": "Acompanhamento Aline Cintra (produtor Max Madeira)",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "marcenaria-artesanato",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Max Madeira",
+      "descricao": "Acompanhamento/mentoria na área de marcenaria vendido pelo produtor 'Max Madeira'. Reembolso dentro do prazo de 7 dias atrasou além do prometido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/atraso-no-reembolso-dentro-do-prazo-de-arrependimento_g_OxGzFYgfNwfMZT/"
+    },
+    {
+      "produto": "Imersão BROA - A Estratégia Oculta que gera 10 Mil Seguidores por Mês",
+      "tipo": "marca",
+      "gateway": "Eduzz",
+      "nicho": "crescimento-redes-sociais",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Imersao BROA seguidores",
+      "descricao": "Imersão de crescimento de seguidores no Instagram/redes sociais. Reembolso pedido dentro da garantia de 7 dias por não atender expectativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/solicitacao-de-reembolso-dentro-do-prazo-de-garantia-de-7-dias__GO2o_ED06eFh8z7/"
+    },
+    {
+      "produto": "sem nome",
+      "tipo": "angulo",
+      "gateway": "Eduzz",
+      "nicho": "eventos-ingressos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97,50 por ingresso",
+      "termo_busca": "Intensivo The Good Villages",
+      "descricao": "Venda de ingresso para evento presencial (Intensivo The Good Villages, Recife-PE) via Eduzz. Cliente comprou 3x por erro de cadastro de e-mail sem suporte do vendedor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/erro-no-cadastro-de-ingressos-e-falta-de-suporte-para-correcao_3ekgL448ZgFfSDt0/"
+    },
+    {
+      "produto": "sem nome",
+      "tipo": "angulo",
+      "gateway": "Eduzz",
+      "nicho": "cursos-genericos-reembolso",
+      "temperatura": "morna",
+      "mencoes": 11,
+      "faixa_preco": "não informado em geral (uma menção de R$ 1.097,00 em plataforma de assinatura)",
+      "termo_busca": "curso online reembolso Eduzz",
+      "descricao": "Cluster de reclamações sem nome de produto citado: cobrança duplicada, perda de acesso após 1 ano, renovação de assinatura sem autorização (R$1.097), cobrança indevida pós-cancelamento, erro de sistema ao pedir reembolso, estorno não processado. Reflete catálogo antigo e pulverizado de pequenos produtores na Eduzz — sinal de cauda longa, não de uma oferta dominante.",
+      "evidencia_url": "https://www.reclameaqui.com.br/eduzz/renovacao-sem-autorizacao-causa-constrangimento_l4BwnPJXau77xdoB/"
+    }
+  ],
+  "passada": {
+    "hora": "19:48",
+    "gateways": ["eduzz"],
+    "paginas": 20,
+    "coleta": "parcial",
+    "relatorio": "## Mornas\n- Cluster sem-nome 'cursos genéricos reembolso' — Eduzz · 11 menções nas reclamações ativas, nenhum nome de marca se repete, sinal de cauda longa (produtores pequenos/diversos)\n\n## Frias\n- [[tribo-do-gain]] — curso de trading com promessa de acesso vitalício\n- [[clube-da-modista]] — esteira desafio R$45 + clube R$47, clássica estrutura low ticket\n- [[imersao-broa]] — crescimento de seguidores no Instagram\n- [[quadradinhos-da-vovo]] — curso de crochê com problema de acesso\n- Outras marcas (Mentoria VPJ, Clube IA/CAPES, Max Madeira, Intensivo The Good Villages) com 1 menção cada\n\nLeitura: Eduzz tem catálogo ativo de reclamações muito mais enxuto que os demais gateways (só 20 reclamações com dados em 20 páginas varridas, resto veio vazio) — sinal mais lento e mais pulverizado, sem oferta claramente dominante nesta passada.",
+    "resumo": "Eduzz: catálogo diversificado e sinal fraco — nenhuma marca com 2+ menções; destaque pra esteira de costura (desafio+clube) e cluster genérico de reembolso de cursos."
+  }
+}

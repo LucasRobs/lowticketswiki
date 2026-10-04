@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-funil-escalonado-de-3-cobrancas-sem-nome"
-gateways_detectados: []
+gateways_detectados: [eduzz]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: []
+ra_reclamacoes: 11
+ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Venda de ingresso para evento presencial (Intensivo The Good Villages, Recife-PE) via Eduzz. Cliente comprou 3x por erro de cadastro de e-mail sem suporte do vendedor.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/erro-no-cadastro-de-ingressos-e-falta-de-suporte-para-correcao_3ekgL448ZgFfSDt0/

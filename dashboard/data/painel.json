@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 213,
+  "ofertas": 219,
   "angulos": 35,
-  "observacoes": 426,
+  "observacoes": 433,
   "dias_radar": 25,
-  "passadas": 38,
+  "passadas": 39,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -284,6 +284,61 @@
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "acompanhamento-aline-cintra-produtor-max-madeira",
+   "nome": "Acompanhamento Aline Cintra (produtor Max Madeira)",
+   "classe": "oferta",
+   "nicho": "marcenaria-artesanato",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Max%20Madeira&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Acompanhamento/mentoria na área de marcenaria vendido pelo produtor 'Max Madeira'. Reembolso dentro do prazo de 7 dias atrasou além do prometido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -1572,7 +1627,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "eduzz"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -1598,7 +1655,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 11,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -4112,6 +4169,61 @@
    ]
   },
   {
+   "slug": "clube-da-inteligencia-artificial-publicacoes-inovadoras-capes",
+   "nome": "Clube da Inteligência Artificial / Publicações Inovadoras CAPES",
+   "classe": "oferta",
+   "nicho": "ia-infoproduto",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Clube%20Inteligencia%20Artificial&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Clube de assinatura ligado a 'publicações CAPES' + IA. Cliente cancelou mas continuou recebendo cobranças/emails de cobrança insistentes.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "clube-da-pedagogia",
    "nome": "Clube da Pedagogia — kit 3.000+ atividades BNCC",
    "classe": "oferta",
@@ -5107,6 +5219,61 @@
    "resumo": "509 dias no ar. E a maior idade de anuncio ja medida no vault — supera os 123 dias da colecao-caligrafia-cursiva por um fator de quatro. Veiculacao iniciada em 15 de abril de 2025, com tres criativos ativos daquela data e mais seis distribuidos ate…",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
+   "nome": "De Costureira a Engenheira da Costura (Desafio 5 dias) + Clube da Modista",
+   "classe": "oferta",
+   "nicho": "artesanato-costura",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 45,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 68.5,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Clube%20da%20Modista&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Clássica esteira low ticket: desafio de 5 dias por R$45 com upsell para clube de assinatura mensal (Clube da Modista) por R$47. Cliente pede reembolso integral via CDC art. 49.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -7492,6 +7659,61 @@
    ]
   },
   {
+   "slug": "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
+   "nome": "Imersão BROA - A Estratégia Oculta que gera 10 Mil Seguidores por Mês",
+   "classe": "oferta",
+   "nicho": "crescimento-redes-sociais",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Imersao%20BROA%20seguidores&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Imersão de crescimento de seguidores no Instagram/redes sociais. Reembolso pedido dentro da garantia de 7 dias por não atender expectativa.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "imersao-tradutor-de-almas-andrea-vermont",
    "nome": "Imersão Tradutor de Almas (Andrea Vermont)",
    "classe": "oferta",
@@ -9353,21 +9575,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-30",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-30",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mentoria%20VPJ&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-30",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 6,
    "resumo": "VPJ Treinamentos LTDA, R$ 15.000. Promete acompanhamento 24h, entrega 15 dias; recusa reembolso proporcional. Maior ticket ja registrado no vault.",
    "flags": [
     "score-provisorio",
@@ -11593,6 +11815,61 @@
    ]
   },
   {
+   "slug": "quadradinhos-da-vovo",
+   "nome": "Quadradinhos da Vovó",
+   "classe": "oferta",
+   "nicho": "artesanato-croche",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Quadradinhos%20da%20Vovo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Curso de crochê. Cliente só conseguiu acessar no dia da compra; logins seguintes falharam mesmo após resets de senha, sem solução do produtor nem da Eduzz.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "raio-x-enare-farmacia",
    "nome": "Raio-X ENARE Farmácia — Tática Farmacêutica",
    "classe": "oferta",
@@ -13044,6 +13321,61 @@
    ]
   },
   {
+   "slug": "tribo-do-gain",
+   "nome": "Tribo do Gain",
+   "classe": "oferta",
+   "nicho": "trading-investimentos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Tribo%20do%20Gain&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
+   "resumo": "Curso/comunidade com promessa de acesso vitalício e indicadores mensais de trading/investimento. Cliente diz que não recebeu o conteúdo prometido após o prazo dos 7 dias.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "turminha-alfa-kids",
    "nome": "Kit de Alfabetizacao Alfa Kids — 2.750 atividades",
    "classe": "oferta",
@@ -13772,12 +14104,13 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 58,
-   "novas": 32,
+   "ofertas_vistas": 65,
+   "novas": 38,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "monetizze",
@@ -13786,7 +14119,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -14184,6 +14517,22 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 1948.md",
+   "data": "2026-10-04",
+   "hora": "19:48",
+   "gateways": [
+    "eduzz"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "quadradinhos-da-vovo",
+    "tribo-do-gain"
+   ],
+   "resumo": "Gateways: eduzz · Páginas: 20 · Coleta: parcial · Achados: 9 ## Mornas Cluster sem-nome 'cursos genéricos reembolso' — Eduzz · 11 menções nas reclamações ativas, nenhum nome de marca se repete, sinal de cauda longa (produtores…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 1120.md",
    "data": "2026-10-04",
@@ -15020,7 +15369,7 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 27,
+    "oferta": 33,
     "angulo": 5
    }
   },
@@ -15048,7 +15397,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 58
+   "2026-10-04": 65
   }
  },
  "analises": [
@@ -15337,49 +15686,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 213
+    "total": 219
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 213
+    "total": 219
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 213
+    "total": 219
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 184,
-    "total": 213
+    "preenchidas": 190,
+    "total": 219
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 124,
-    "total": 213
+    "preenchidas": 125,
+    "total": 219
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 213
+    "total": 219
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 213
+    "total": 219
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 157,
-    "total": 213
+    "preenchidas": 163,
+    "total": 219
    }
   ],
   "fila_enriquecimento": [
@@ -15489,7 +15838,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 674
+   "canonico": 687
   }
  },
  "vocabulario": {
@@ -15536,22 +15885,18 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d93584e350c3856c",
-  "atualizado_em": "2026-10-04T11:22:14-03:00",
-  "ofertas": 213,
+  "hash": "c5c73fdea813849c",
+  "atualizado_em": "2026-10-04T19:48:44-03:00",
+  "ofertas": 219,
   "angulos": 35,
-  "observacoes": 426,
+  "observacoes": 433,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
-   "hora": "11:20",
+   "hora": "19:48",
    "coleta": "parcial",
    "gateways": [
-    "perfectpay",
-    "cakto-pay",
-    "kiwify",
-    "hotmart",
-    "ticto"
+    "eduzz"
    ]
   }
  }
