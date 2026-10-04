@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Produtora Marcelle Martins. Curso/sistema digital sobre achar fornecedores para revenda/dropshipping; reembolso não processado. Único achado dentro da janela estrita (reclamação às 09:20 de 04/10).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-sistema-de-fornecedores-ocultos_Cc1GBhG8hqVFybz0/

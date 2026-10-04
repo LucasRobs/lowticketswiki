@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 225,
-  "angulos": 35,
-  "observacoes": 440,
+  "ofertas": 228,
+  "angulos": 39,
+  "observacoes": 447,
   "dias_radar": 25,
-  "passadas": 40,
+  "passadas": 41,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -2166,6 +2166,218 @@
    "ultima_obs": "2026-10-04",
    "n_citacoes": 1,
    "resumo": "Serviço de \"seguidores reais e verdadeiros\" para Instagram (500-700 seguidores) por R$87; perfis entregues sem foto/posts e removidos após tentativa de chargeback via Pix.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-assinatura-recorrente-nao-reconhecida-plano-premium",
+   "nome": "sem nome - assinatura recorrente não reconhecida (Plano Premium)",
+   "classe": "angulo",
+   "nicho": "assinatura-saas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 31.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 31.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Assinatura 'Plano Premium' renovada automaticamente e cobrada sem que a cliente reconhecesse ter contratado - padrão clássico de assinatura/order bump escondido.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-chuteiras-via-loja-tk-importes",
+   "nome": "sem nome - chuteiras via loja TK IMPORTES",
+   "classe": "angulo",
+   "nicho": "produto-fisico-fora-do-radar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 585.7,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 585.7,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Vendedora Debora Cristina Soares Santos (loja TK IMPORTES) vendeu chuteiras via Kiwify e sumiu sem entregar; mostra que a Kiwify também processa produto físico de terceiro, não só infoproduto.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-curso-com-instalacao-de-apps-gerando-comissao-para-instrutor",
+   "nome": "sem nome - curso com instalação de apps gerando comissão para instrutor",
+   "classe": "angulo",
+   "nicho": "renda-extra-esquema-app",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 74,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 74,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Produtor Raphael Mancini. Curso exigia instalar apps adicionais não divulgados, cada instalação gerando comissão para o instrutor - mecânica típica de esquema de app-install disfarçado de curso.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
+   "nome": "sem nome - ebook com suporte via WhatsApp não entregue",
+   "classe": "angulo",
+   "nicho": "sem-nicho-claro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "E-book não liberado dentro do prazo prometido (7 dias); vendedor some do WhatsApp e email - padrão clássico de produto digital não entregue.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -5003,6 +5215,61 @@
    ]
   },
   {
+   "slug": "congresso-salvador-humanamente",
+   "nome": "Congresso Salvador Humanamente",
+   "classe": "oferta",
+   "nicho": "evento-presencial",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Congresso%20Salvador%20Humanamente&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "cura-da-alma-devocional",
    "nome": "Cura da Alma — devocional diario para traumas e feridas",
    "classe": "oferta",
@@ -5110,6 +5377,61 @@
    "resumo": "Kirvano, reclamacao lida em 24/08. Compra em 18/06/2026 — 67 dias de venda medidos, a segunda maior idade medida do vault depois de unlovable (149 dias).",
    "flags": [
     "score-provisorio",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "curso-cae-ingles-cambridge",
+   "nome": "Curso CAE (ingles Cambridge)",
+   "classe": "oferta",
+   "nicho": "idiomas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20CAE&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Preparatório para exame CAE de inglês vendido por assinatura parcelada; cliente cobrado mesmo após pedido de cancelamento dentro do prazo, acesso ficou bloqueado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -7386,6 +7708,61 @@
    ]
   },
   {
+   "slug": "gtd-academy-mentoria-estrategista-digital",
+   "nome": "GTD Academy (mentoria Estrategista Digital)",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 369.09,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 369.09,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=GTD%20Academy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Produtor Anderson Pereira Seabra de Andrade. Mentoria de 'estrategista digital' prometia aulas ao vivo e suporte individual que não foram entregues; instrutor some do suporte.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "guia-desintoxicacao-digital",
    "nome": "Guia de Desintoxicação Digital — @vidasemtela",
    "classe": "oferta",
@@ -7487,7 +7864,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Guitar%20Map&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Curso online de violão/guitarra \"Guitar Map\"; comprador reclama de curso incompleto e pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -14440,8 +14817,8 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 72,
-   "novas": 44,
+   "ofertas_vistas": 79,
+   "novas": 51,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -14455,7 +14832,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 6,
+   "n_passadas": 7,
    "leitura": ""
   },
   {
@@ -14853,6 +15230,21 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 1949.md",
+   "data": "2026-10-04",
+   "hora": "19:49",
+   "gateways": [
+    "kiwify"
+   ],
+   "paginas": 9,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "guitar-map"
+   ],
+   "resumo": "Gateways: kiwify · Páginas: 9 · Coleta: parcial · Achados: 16 ## Kiwify - varredura 04/10 Apenas 2 achados caem de fato dentro da janela pedida (11:20-19:49 de hoje): sistema-de-fornecedores-ocultos e guitar-map, ambos marca única, sem…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 1948.md",
    "data": "2026-10-04",
@@ -15728,8 +16120,8 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 39,
-    "angulo": 5
+    "oferta": 42,
+    "angulo": 9
    }
   },
   "observacoes": {
@@ -15756,7 +16148,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 72
+   "2026-10-04": 79
   }
  },
  "analises": [
@@ -16045,49 +16437,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 225
+    "total": 228
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 225
+    "total": 228
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 225
+    "total": 228
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 196,
-    "total": 225
+    "preenchidas": 199,
+    "total": 228
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 128,
-    "total": 225
+    "preenchidas": 129,
+    "total": 228
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 225
+    "total": 228
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 225
+    "total": 228
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 169,
-    "total": 225
+    "preenchidas": 172,
+    "total": 228
    }
   ],
   "fila_enriquecimento": [
@@ -16196,7 +16588,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 700
+   "canonico": 714
   }
  },
  "vocabulario": {
@@ -16243,18 +16635,18 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "a73e4b350836f4d5",
-  "atualizado_em": "2026-10-04T19:50:33-03:00",
-  "ofertas": 225,
-  "angulos": 35,
-  "observacoes": 440,
+  "hash": "c96a858dcc7f128e",
+  "atualizado_em": "2026-10-04T19:51:31-03:00",
+  "ofertas": 228,
+  "angulos": 39,
+  "observacoes": 447,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
-   "hora": "19:48",
+   "hora": "19:49",
    "coleta": "parcial",
    "gateways": [
-    "eduzz"
+    "kiwify"
    ]
   }
  }

@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso de violão/guitarra vendido incompleto; comprador pede reembolso com base no CDC. Dentro da janela estrita (reclamação às 06:42 de 04/10).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/comprei-curso-guitar-map-incompleto-e-quero-reembolso_-S0P2kS5CK8mdzP4/

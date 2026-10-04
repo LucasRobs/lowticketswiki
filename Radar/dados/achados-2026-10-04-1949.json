@@ -1,0 +1,208 @@
+{
+  "data_varredura": "2026-10-04",
+  "gateways": [
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3964, "paginas_varridas": 9}
+  ],
+  "achados": [
+    {
+      "produto": "Sistema de Fornecedores Ocultos",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Fornecedores Ocultos",
+      "descricao": "Produtora Marcelle Martins. Curso/sistema digital sobre achar fornecedores para revenda/dropshipping; reembolso não processado. Único achado dentro da janela estrita (reclamação às 09:20 de 04/10).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-sistema-de-fornecedores-ocultos_Cc1GBhG8hqVFybz0/"
+    },
+    {
+      "produto": "Guitar Map",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "educacao-musical",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Guitar Map",
+      "descricao": "Curso de violão/guitarra vendido incompleto; comprador pede reembolso com base no CDC. Dentro da janela estrita (reclamação às 06:42 de 04/10).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-guitar-map-incompleto-e-quero-reembolso_-S0P2kS5CK8mdzP4/"
+    },
+    {
+      "produto": "GTD Academy (mentoria Estrategista Digital)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-digital",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 369,09",
+      "termo_busca": "GTD Academy",
+      "descricao": "Produtor Anderson Pereira Seabra de Andrade. Mentoria de 'estrategista digital' prometia aulas ao vivo e suporte individual que não foram entregues; instrutor some do suporte.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/"
+    },
+    {
+      "produto": "O Curso do Mago",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "cursos-diversos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Curso do Mago",
+      "descricao": "Curso vendido como algo diferente do anunciado (propaganda enganosa); empresa não responde pedido de reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/"
+    },
+    {
+      "produto": "Método Live Perpétua (TikTok Shop) / LiveFlow IA",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-digital-ecommerce",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Live Perpétua TikTok Shop",
+      "descricao": "Dupla de produtos sobre monetizar TikTok Shop com lives automatizadas por IA; comprador diz que produto não correspondeu ao anunciado e reembolso atrasou.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-nao-correspondente-a-oferta_jng8NEaY4ta-KbXd/"
+    },
+    {
+      "produto": "Método MED / Parabolas Kids",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "educacao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 864,96 + R$ 53,60",
+      "termo_busca": "Método MED",
+      "descricao": "Apostilas de estudo (provável preparatório para medicina) e material infantil 'Parabolas Kids' vendidos juntos; entregues em PDF quando o comprador esperava outro formato.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/produto-incorreto-entregue-e-sem-resposta-da-empresa-para-reembolso_r4ATmncBo1Cnl_3h/"
+    },
+    {
+      "produto": "Curso CAE (ingles Cambridge)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado (parcelado)",
+      "termo_busca": "curso CAE",
+      "descricao": "Preparatório para exame CAE de inglês vendido por assinatura parcelada; cliente cobrado mesmo após pedido de cancelamento dentro do prazo, acesso ficou bloqueado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/cancelamento-de-curso-nao-realizado-e-cobrancas-indevidas-apos-solicitacao_nQ-cLaIP9W_2eiD3/"
+    },
+    {
+      "produto": "Gifts da Isa",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "artesanato-presentes",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Gifts da Isa",
+      "descricao": "Produtora conhecida como Isa. Curso de produção de presentes/lembrancinhas avaliado como mal feito e desorganizado; reembolso demorou mais de um mês e houve cobrança após falha no estorno.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-urgente-para-curso-gifts-da-isa-devido-a-ma-qualidade-e-cobranca-indevida-apos-falha-no-estorno_pgxsu74Ab1-eIh_E/"
+    },
+    {
+      "produto": "sem nome - assinatura recorrente não reconhecida (Plano Premium)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "assinatura-saas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 31,90/mês",
+      "termo_busca": "",
+      "descricao": "Assinatura 'Plano Premium' renovada automaticamente e cobrada sem que a cliente reconhecesse ter contratado - padrão clássico de assinatura/order bump escondido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/cobranca-indevida-de-assinatura-nao-reconhecida-na-kiwify_rmcBZsh1foUm61sq/"
+    },
+    {
+      "produto": "IA Play Academy",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "inteligencia-artificial",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "IA Play Academy",
+      "descricao": "Curso de IA; atraso no reembolso dentro dos 7 dias (caso resolvido pela empresa).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/"
+    },
+    {
+      "produto": "H2Jobs Full / Treinador de Entrevistas",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "emprego-recolocacao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 997 + R$ 197 (R$ 1.194 total)",
+      "termo_busca": "H2Jobs",
+      "descricao": "Par de produtos de recolocação profissional/treino de entrevista de emprego; reembolso de um foi processado, o do maior valor ficou com status 'Falhou' sem resposta do vendedor. Ticket mais alto que o low-ticket típico.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-curso-h2jobs-full-apos-solicitacao-dentro-do-prazo_sxiyM69yrTPc-Vvq/"
+    },
+    {
+      "produto": "Desafio Pilates em Casa",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Desafio Pilates em Casa",
+      "descricao": "Curso adicionado à conta do cliente sem autorização, pela mesma produtora de outro programa de pilates que ele já possuía - sinal de cross-sell/upsell não autorizado na base de clientes.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/"
+    },
+    {
+      "produto": "sem nome - ebook com suporte via WhatsApp não entregue",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "sem-nicho-claro",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "",
+      "descricao": "E-book não liberado dentro do prazo prometido (7 dias); vendedor some do WhatsApp e email - padrão clássico de produto digital não entregue.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/compra-de-e-book-com-suporte-prometido-nao-entregue-e-falta-de-contato_Cq6t-UP9THD6VwS5/"
+    },
+    {
+      "produto": "sem nome - chuteiras via loja TK IMPORTES",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "produto-fisico-fora-do-radar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 585,70",
+      "termo_busca": "",
+      "descricao": "Vendedora Debora Cristina Soares Santos (loja TK IMPORTES) vendeu chuteiras via Kiwify e sumiu sem entregar; mostra que a Kiwify também processa produto físico de terceiro, não só infoproduto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/cliente-nao-recebeu-chuteiras-e-vendedor-se-recusa-a-reembolsar_sh7tmXyw-2PHH9v-/"
+    },
+    {
+      "produto": "Congresso Salvador Humanamente",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "evento-presencial",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Congresso Salvador Humanamente",
+      "descricao": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/reclamacao-sobre-cancelamento-do-congresso-salvador-humanamente-e-dificuldade-de-reembolso_KbdxGUJnvTUuiyAx/"
+    },
+    {
+      "produto": "sem nome - curso com instalação de apps gerando comissão para instrutor",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "renda-extra-esquema-app",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 74,00",
+      "termo_busca": "",
+      "descricao": "Produtor Raphael Mancini. Curso exigia instalar apps adicionais não divulgados, cada instalação gerando comissão para o instrutor - mecânica típica de esquema de app-install disfarçado de curso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-por-omissao-de-custos-adicionais-em-curso-online_sdLWbmNTCfplGLgF/"
+    }
+  ],
+  "passada": {
+    "hora": "19:49",
+    "gateways": ["kiwify"],
+    "paginas": 9,
+    "coleta": "parcial",
+    "relatorio": "## Kiwify - varredura 04/10\n- Apenas 2 achados caem de fato dentro da janela pedida (11:20-19:49 de hoje): [[sistema-de-fornecedores-ocultos]] e [[guitar-map]], ambos marca única, sem repetição.\n- Restante dos achados (GTD Academy, O Curso do Mago, Live Perpétua TikTok Shop, Método MED, CAE, Gifts da Isa, IA Play Academy, H2Jobs, Desafio Pilates, app-install scheme) é de reclamações mais antigas (Há 19h a Há 2 dias), fora da janela estrita, mas vieram do mesmo rastreamento de 9 páginas e ficam registrados para dar contexto de recorrência.\n- 6 das 15 páginas de listagem (2,3,9,12,14 e 15) retornaram '0 de 0 reclamações' em múltiplas tentativas (inclusive variando query string e domínio) - parece bloqueio/cache do próprio site, não limite nosso.\n- Nenhum achado teve 2+ menções confirmadas nesta rodada (todas 'fria'); é leitura de amostra pequena, não de recorrência real.\n- Destaque de mecânica: assinatura 'Plano Premium' cobrada sem reconhecimento e curso com app-install gerando comissão são os dois sinais mais vendáveis para estudar funil.",
+    "resumo": "Varredura Kiwify 04/10: 9 de 15 páginas lidas (6 bloqueadas pelo site), 16 achados registrados mas so 2 realmente dentro da janela horária pedida, todos com menção única."
+  }
+}
