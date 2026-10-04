@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Curso cobrado indevidamente, reclamante nao consegue cancelar.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/fui-cobrado-indevidamente-pelo-curso-app-start-e-nao-consigo-cancelar_09P5M-oNHCyoBOmm/

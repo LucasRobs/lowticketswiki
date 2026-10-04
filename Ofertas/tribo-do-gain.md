@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Primeira aparicao, evidencia fraca: a Eduzz respondeu a reclamacao dizendo nao localizar compra ou cadastro para os dados informados, ou seja, nao ha confirmacao de que a transacao existiu. Mantido como fria/baixa confianca.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/

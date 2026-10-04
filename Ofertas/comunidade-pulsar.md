@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Renovacao nao solicitada cobrada indevidamente.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-solicitei-renovacao-do-curso-comunidade-pulsar-e-fui-cobrada-indevidamente_d677O4FN2eZA-pTH/

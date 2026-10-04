@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Assinatura de comunidade/mentoria com ticket bem acima do padrao low ticket do radar - reclamante quer cancelamento e estorno integral.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/
