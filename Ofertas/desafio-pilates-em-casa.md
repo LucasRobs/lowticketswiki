@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Caso de curso "Desafio Pilates em Casa" que apareceu na conta do comprador sem autorização de compra — padrão de cobrança/curso fantasma não reconhecido pelo titular do cartão.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/

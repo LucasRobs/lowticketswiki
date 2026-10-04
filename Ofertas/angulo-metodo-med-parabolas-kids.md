@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-metodo-med-parabolas-kids"
-gateways_detectados: []
+gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: []
+ra_reclamacoes: 2
+ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+2 mencao(oes) nesta varredura (gateway Kiwify). Dois produtos infantis em PDF do mesmo vendedor: "Método MED" (R$72,08 em 12x) e "Parábolas Kids" (R$6,70 em 8x); comprador pede reembolso de ambos. Segunda menção no mesmo dia.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/produto-incorreto-entregue-e-sem-resposta-da-empresa-para-reembolso_r4ATmncBo1Cnl_3h/

@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/gtd-academy-mentoria-anderson-seabra"
 gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04

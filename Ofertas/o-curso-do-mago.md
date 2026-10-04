@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/o-curso-do-mago"
 gateways_detectados: [desconhecido, kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [desconhecido, kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04

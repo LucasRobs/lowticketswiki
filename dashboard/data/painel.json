@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 193,
-  "angulos": 34,
-  "observacoes": 402,
+  "ofertas": 202,
+  "angulos": 35,
+  "observacoes": 413,
   "dias_radar": 25,
-  "passadas": 36,
+  "passadas": 37,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -1686,7 +1686,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -1712,7 +1714,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -2002,6 +2004,58 @@
    "flags": [
     "sem-longevidade",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-seguidores-reais-para-instagram",
+   "nome": "Seguidores reais para Instagram",
+   "classe": "angulo",
+   "nicho": "redes-sociais-seguidores",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 87,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 87,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=comprar%20seguidores%20Instagram&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Serviço de \"seguidores reais e verdadeiros\" para Instagram (500-700 seguidores) por R$87; perfis entregues sem foto/posts e removidos após tentativa de chargeback via Pix.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -4482,7 +4536,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -5998,6 +6052,61 @@
    ]
   },
   {
+   "slug": "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
+   "nome": "FIV Formação em Marketing e Vendas (Isabele Moreira)",
+   "classe": "oferta",
+   "nicho": "mentoria-marketing",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Isabele%20Moreira%20FIV&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Formação/mentoria de marketing e vendas com IA de Isabele Moreira (\"Isa Moreira\"); reclamação de defeito no produto e mau atendimento, com registro no Procon. Confirmado em dias diferentes.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "fluency-english",
    "nome": "Fluency English",
    "classe": "oferta",
@@ -6050,6 +6159,61 @@
     "checkout-desconhecido",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "formacao-mestre-do-acabamento",
+   "nome": "Formação Mestre do Acabamento",
+   "classe": "oferta",
+   "nicho": "oficio-construcao",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mestre%20do%20Acabamento&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Curso de acabamento em construção civil (\"Formação Mestre do Acabamento\"); reclamação de curso online com conteúdo vazio e suporte ineficaz.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -6256,7 +6420,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -6479,7 +6643,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -6549,6 +6713,61 @@
    "resumo": "\"Método prático baseado no DSM-5-TR para reduzir o vício em celular\"",
    "flags": [
     "sem-longevidade"
+   ]
+  },
+  {
+   "slug": "guitar-map",
+   "nome": "Guitar Map",
+   "classe": "oferta",
+   "nicho": "musica-instrumento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Guitar%20Map&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Curso online de violão/guitarra \"Guitar Map\"; comprador reclama de curso incompleto e pede reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -6921,7 +7140,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -8379,6 +8598,61 @@
    ]
   },
   {
+   "slug": "manual-do-milhao-lasy-ia",
+   "nome": "Manual do Milhão + Lasy IA",
+   "classe": "oferta",
+   "nicho": "inteligencia-artificial",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "monetizze",
+   "gateways": [
+    "monetizze"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Manual%20do%20Milhão%20Lasy%20IA&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5",
    "nome": "Máquina de Viralização Inteligente + Headlines Virais (Content Machine 5.5)",
    "classe": "oferta",
@@ -8828,7 +9102,7 @@
    "classe": "oferta",
    "nicho": "tiktok-shop",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8855,27 +9129,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Live%20Perpetua%20TikTok%20Shop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 2,
    "resumo": "Bundle de dois produtos de automação de live/TikTok Shop vendidos juntos; cliente diz que não correspondeu ao anunciado.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9267,6 +9540,61 @@
    ]
   },
   {
+   "slug": "morovitta",
+   "nome": "Morovitta",
+   "classe": "oferta",
+   "nicho": "saude-suplemento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "monetizze",
+   "gateways": [
+    "monetizze"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Morovitta&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Suplemento/encapsulado \"Morovitta\" vendido em potes via Monetizze; comprador relata demora na entrega e reembolso aprovado mas não recebido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "mounjaro-de-pobre",
    "nome": "Mounjaro de Pobre — Guia Definitivo do Emagrecimento Natural",
    "classe": "oferta",
@@ -9319,6 +9647,61 @@
    "n_citacoes": 1,
    "resumo": "\"A versão pobre do remédio caro.\" Ver angulo-mounjaro-de-pobre — o padrão vale mais que esta oferta específica.",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "movimento-e-o-remedio",
+   "nome": "Movimento é o Remédio",
+   "classe": "oferta",
+   "nicho": "saude-dor-fisica",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Movimento%20é%20o%20Remédio&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Programa \"Movimento é o Remédio - Tratamento individual para romper o ciclo da dor\"; reclamação de demora na análise do pedido de reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -9415,7 +9798,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -9690,7 +10073,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -11327,6 +11710,61 @@
    ]
   },
   {
+   "slug": "sistema-de-fornecedores-ocultos-marcelle-martins",
+   "nome": "Sistema de Fornecedores Ocultos (Marcelle Martins)",
+   "classe": "oferta",
+   "nicho": "dropshipping-fornecedores",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Fornecedores%20Ocultos%20Marcelle%20Martins&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Sistema/curso de \"fornecedores ocultos\" para revenda, de Marcelle Martins; comprador não recebeu o reembolso solicitado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "soulmate-sketcher",
    "nome": "The Soulmate Sketcher",
    "classe": "oferta",
@@ -12275,6 +12713,61 @@
    ]
   },
   {
+   "slug": "velas-artesanais-da-tia-rose",
+   "nome": "Velas artesanais da tia Rose",
+   "classe": "oferta",
+   "nicho": "artesanato",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "monetizze",
+   "gateways": [
+    "monetizze"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Velas%20artesanais%20tia%20Rose&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Curso de velas artesanais anunciado com a instrutora \"tia Rose\", mas o conteúdo entregue era de outra instrutora (\"Cidinha\"); propaganda enganosa sobre quem ensina.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "video-aulas-jantar-chef-luana",
    "nome": "Video Aulas Jantar - Chef Luana",
    "classe": "oferta",
@@ -12494,6 +12987,61 @@
    ]
   },
   {
+   "slug": "youtube-dark-peter",
+   "nome": "YouTube Dark (Peter)",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro-youtube",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=YouTube%20Dark&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Curso \"YouTube Dark\" do produtor \"Peter\", sobre criação de canais faceless no YouTube; solicitação de reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "zap-radar",
    "nome": "ZAP Radar",
    "classe": "oferta",
@@ -12534,7 +13082,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 4,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -12613,19 +13161,20 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 34,
-   "novas": 11,
+   "ofertas_vistas": 45,
+   "novas": 21,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
     "hotmart",
     "kiwify",
+    "monetizze",
     "perfectpay",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -13023,6 +13572,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 0948.md",
+   "data": "2026-10-04",
+   "hora": "09:48",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 15 · Coleta: parcial · Achados: 26 ## Quentes Stalkeia.ai — PerfectPay · 4 reclamacoes distintas so nesta passada, app de espionagem que nao entrega acesso ZAP Radar…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 0826.md",
    "data": "2026-10-04",
@@ -13817,8 +14383,8 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 7,
-    "angulo": 4
+    "oferta": 16,
+    "angulo": 5
    }
   },
   "observacoes": {
@@ -13845,7 +14411,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 34
+   "2026-10-04": 45
   }
  },
  "analises": [
@@ -14134,49 +14700,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 193
+    "total": 202
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 193
+    "total": 202
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 193
+    "total": 202
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 164,
-    "total": 193
+    "preenchidas": 173,
+    "total": 202
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 124,
-    "total": 193
+    "total": 202
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 193
+    "total": 202
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 193
+    "total": 202
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 137,
-    "total": 193
+    "preenchidas": 146,
+    "total": 202
    }
   ],
   "fila_enriquecimento": [
@@ -14258,7 +14824,6 @@
    "linflora",
    "little-genius",
    "mdr-despertar-2-0",
-   "metodo-live-perpetua-tiktok-shop-liveflow-ia",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
@@ -14289,7 +14854,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 629
+   "canonico": 650
   }
  },
  "vocabulario": {
@@ -14336,22 +14901,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "1e08067f06283209",
-  "atualizado_em": "2026-10-04T08:27:20-03:00",
-  "ofertas": 193,
-  "angulos": 34,
-  "observacoes": 402,
+  "hash": "30d52fddd0354107",
+  "atualizado_em": "2026-10-04T09:51:11-03:00",
+  "ofertas": 202,
+  "angulos": 35,
+  "observacoes": 413,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
-   "hora": "08:26",
+   "hora": "09:48",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "monetizze"
    ]
   }
  }
