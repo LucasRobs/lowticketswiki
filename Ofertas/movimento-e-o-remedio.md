@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/movimento-e-o-remedio"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+2 mencao(oes) nesta varredura (gateway Hotmart). Segunda mencao no mesmo dia, reconfirmado em dias diferentes. Programa de exercicios para romper ciclo de dor, reembolso em andamento.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/demora-na-analise-e-solucao-de-pedido-de-reembolso-para-programa-de-exercicios_VLyWZs7tozZo16ch/

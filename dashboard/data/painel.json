@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 202,
+  "ofertas": 213,
   "angulos": 35,
-  "observacoes": 413,
+  "observacoes": 426,
   "dias_radar": 25,
-  "passadas": 37,
+  "passadas": 38,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -396,6 +396,61 @@
    "resumo": "Descoberta na lista da Lastlink (ha 7h): curso \"Agentor\", de Bruno Gabarra, com acesso travado no primeiro video (\"comece aqui\") e suporte sem resposta.",
    "flags": [
     "score-provisorio",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "ai-trader-pro-ia-htaipro-plataforma-traderomm-novadexy",
+   "nome": "AI Trader Pro / IA Htaipro (plataforma TradeRomm Novadexy)",
+   "classe": "oferta",
+   "nicho": "trading-automatizado",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=AI%20Trader%20Pro%20Htaipro&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Duas reclamacoes nesta passada. Curso + IA de trading que direciona para deposito em corretora propria (TradeRomm Novadexy) alem das cobrancas do curso - padrao classico de isca para plataforma de operacao.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -1723,7 +1778,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Parabolas%20Kids%20livro%20infantil%20pdf&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Primeira mencao. Dois produtos infantis vendidos juntos pelo mesmo vendedor na Kiwify, entregues como PDF em vez do formato esperado, ticket bem baixo.",
    "flags": [
     "sem-longevidade",
@@ -2449,6 +2504,63 @@
    ]
   },
   {
+   "slug": "aplicativo-toca-simples",
+   "nome": "Aplicativo Toca Simples",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Toca%20Simples%20app&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. App vendido como solucao simples (segmento nao claro na reclamacao), descrito como diferente do anunciado com recusa de reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "app-do-paizao",
    "nome": "App do Paizão",
    "classe": "oferta",
@@ -2835,6 +2947,61 @@
    "n_citacoes": 3,
    "resumo": "Acervo curado de apostilas, resumos, mapas mentais, simulados e questões para concursos, militares, ENEM e vestibular, organizado por concurso, banca e disciplina. A promessa é economia de tempo de garimpo, não conteúdo exclusivo: \"evitando que o aluno perca…",
    "flags": []
+  },
+  {
+   "slug": "bike-in-casa",
+   "nome": "Bike in Casa",
+   "classe": "oferta",
+   "nicho": "saude-bemestar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
   },
   {
    "slug": "bolos-caseirinhos-saudaveis",
@@ -3780,6 +3947,61 @@
    ]
   },
   {
+   "slug": "chef-luana-livros-de-culinaria",
+   "nome": "Chef Luana (livros de culinaria)",
+   "classe": "oferta",
+   "nicho": "receitas-culinaria",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chef%20Luana%20receitas&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. E-books de culinaria vendidos em PDF; falha pontual de entrega resolvida em menos de uma hora pela produtora.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "cinefy-tv",
    "nome": "Cinefy TV",
    "classe": "oferta",
@@ -4107,6 +4329,61 @@
    "resumo": "584 dias no ar — anuncio iniciado em 30 de janeiro de 2025, ainda ativo. E o registro de longevidade mais alto do vault junto com danca-dos-noivos-online.",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "combo-da-aprovacao-2023-projeto-frida-sobrancelhas-maos-livres",
+   "nome": "Combo da Aprovacao 2023 / Projeto Frida + Sobrancelhas Maos Livres",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Combo%20da%20Aprovacao%20sobrancelhas&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. Curso de estetica/sobrancelhas sem atualizacao desde 2023, acesso cedido por convite do produtor fora do checkout oficial.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -6873,7 +7150,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=HAP%202.0&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -6936,6 +7213,63 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "hi-spy-4-0",
+   "nome": "HI SPY 4.0",
+   "classe": "oferta",
+   "nicho": "espionagem-rastreamento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hi%20Spy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. Assinatura anual de app de espionagem, mesma familia de angulo do Stalkeia mas rodando via Ticto.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -8146,7 +8480,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
    "n_obs": 5,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -8764,6 +9098,61 @@
    ]
   },
   {
+   "slug": "mega-crm",
+   "nome": "MEGA CRM",
+   "classe": "oferta",
+   "nicho": "servicos-empresariais",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mega%20CRM&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "mentoria-caio-martins",
    "nome": "Mentoria Caio Martins",
    "classe": "oferta",
@@ -9097,6 +9486,61 @@
    ]
   },
   {
+   "slug": "metodo-live-perpetua-liveflow-ia",
+   "nome": "Metodo Live Perpetua + LiveFlow IA",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Live%20Perpetua%20LiveFlow%20IA&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Segunda mencao no mesmo dia. Combo de metodo de TikTok Shop ao vivo mais ferramenta de IA (LiveFlow IA), vendidos juntos.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "metodo-live-perpetua-tiktok-shop-liveflow-ia",
    "nome": "Método Live Perpétua (TikTok Shop) + LiveFlow IA",
    "classe": "oferta",
@@ -9157,11 +9601,13 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -9182,28 +9628,27 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Livre&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 4,
    "resumo": "R$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9688,7 +10133,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-04",
    "bump_oculto": false,
@@ -9697,7 +10142,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Movimento%20é%20o%20Remédio&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Programa \"Movimento é o Remédio - Tratamento individual para romper o ciclo da dor\"; reclamação de demora na análise do pedido de reembolso.",
    "flags": [
     "score-provisorio",
@@ -9807,7 +10252,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
    "n_obs": 11,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 21,
+   "n_citacoes": 22,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -10926,6 +11371,61 @@
    ]
   },
   {
+   "slug": "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
+   "nome": "Produtos do produtor Frank/Dr. Henrique (O Som da Memoria e outro)",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Frank%20Henrique%20produtor&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Duas reclamacoes distintas no mesmo produtor nesta passada: 'O Som da Memoria' divulgado por 'Dr Henrique' e outro produto sem nome de 'Frank Henrique', com relato de reincidencia do mesmo problema em compra anterior - sinal de operacao com varios produtos…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "protocolo-de-reprogramacao-neural",
    "nome": "Protocolo de Reprogramação Neural",
    "classe": "oferta",
@@ -10987,7 +11487,7 @@
    "classe": "oferta",
    "nicho": "maternidade",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -11014,27 +11514,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-10-04",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Leite%20Sem%20Fim&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 4,
    "resumo": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11925,7 +12424,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 22,
+   "n_citacoes": 23,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -12204,6 +12703,61 @@
    "resumo": "Aprender 7 idiomas conversando com IA dentro do WhatsApp. Ancoragem de preço em \"menos de R$ 0,11 por dia\" — desvia da comparação com o valor cheio.",
    "flags": [
     "lucro-sem-medicao",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "template-layout-2-0",
+   "nome": "Template Layout 2.0",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Template%20Layout%202.0&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. Template digital com problema de compatibilidade de software, reembolso ja processado.",
+   "flags": [
+    "score-provisorio",
     "sem-longevidade",
     "sem-lp"
    ]
@@ -12825,6 +13379,63 @@
    ]
   },
   {
+   "slug": "white-driver",
+   "nome": "White Driver",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=White%20Driver%20app%20motorista&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "wiapy-foto-com-pet",
    "nome": "Foto com pet gerada por IA (Wiapy)",
    "classe": "oferta",
@@ -13091,7 +13702,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 21,
+   "n_citacoes": 22,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -13161,8 +13772,8 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 45,
-   "novas": 21,
+   "ofertas_vistas": 58,
+   "novas": 32,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -13171,10 +13782,11 @@
     "kiwify",
     "monetizze",
     "perfectpay",
+    "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -13572,6 +14184,31 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 1120.md",
+   "data": "2026-10-04",
+   "hora": "11:20",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-metodo-med-parabolas-kids",
+    "hap-2-0",
+    "loopyz",
+    "movimento-e-o-remedio",
+    "ms-green-premium",
+    "stalkeia-ai",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 15 · Coleta: parcial · Achados: 29 ## Quentes stalkeia-ai (PerfectPay) - 4 reclamacoes novas so nesta passada, continua o app de espionagem mais citado zap-radar…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 0948.md",
    "data": "2026-10-04",
@@ -14383,7 +15020,7 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 16,
+    "oferta": 27,
     "angulo": 5
    }
   },
@@ -14411,7 +15048,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 45
+   "2026-10-04": 58
   }
  },
  "analises": [
@@ -14700,49 +15337,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 202
+    "total": 213
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 202
+    "total": 213
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 202
+    "total": 213
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 173,
-    "total": 202
+    "preenchidas": 184,
+    "total": 213
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 124,
-    "total": 202
+    "total": 213
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 202
+    "total": 213
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 202
+    "total": 213
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 146,
-    "total": 202
+    "preenchidas": 157,
+    "total": 213
    }
   ],
   "fila_enriquecimento": [
@@ -14824,7 +15461,6 @@
    "linflora",
    "little-genius",
    "mdr-despertar-2-0",
-   "metodo-livre",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
    "missa-em-atividades",
@@ -14841,7 +15477,6 @@
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
-   "protocolo-leite-sem-fim",
    "rpr-recomendacoes-personalizadas-remotas",
    "shopminer",
    "tdah-guia-pais-renata",
@@ -14854,7 +15489,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 650
+   "canonico": 674
   }
  },
  "vocabulario": {
@@ -14901,22 +15536,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "30d52fddd0354107",
-  "atualizado_em": "2026-10-04T09:51:11-03:00",
-  "ofertas": 202,
+  "hash": "d93584e350c3856c",
+  "atualizado_em": "2026-10-04T11:22:14-03:00",
+  "ofertas": 213,
   "angulos": 35,
-  "observacoes": 413,
+  "observacoes": 426,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
-   "hora": "09:48",
+   "hora": "11:20",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "monetizze"
+    "ticto"
    ]
   }
  }
