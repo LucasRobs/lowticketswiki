@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-26
-rodadas_vista: 10
+visto_ultimo: 2026-10-05
+rodadas_vista: 11
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 11
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -149,3 +149,9 @@ Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.
 
 Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-05
+
+11 mencao(oes) nesta varredura (gateway PerfectPay). 3 reclamacoes nomeadas em 05/10, as primeiras com ID desde 256618461: 260841477 (app simula a interface do Instagram e inventa conversas), 260836685 (R$ 155,70 em 3 transacoes) e 260834783 (R$ 232,64 em 3 Pix no mesmo dia). Uma quarta (260833211, 'Stalker app', taxas sucessivas) provavelmente e a mesma operacao e nao foi contada. Taxa escalonada: tres cobrancas por compra.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/realizei-3-pagamentos-via-pix-para-e-o-produto-e-propaganda-enganosa_U29fQmXatOKQJ4w8/ (IDs 260841477, 260836685, 260834783)

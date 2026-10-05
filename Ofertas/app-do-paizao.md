@@ -29,7 +29,7 @@ visto_primeiro: 2026-08-21
 visto_ultimo: 2026-10-05
 rodadas_vista: 6
 dias_no_ar: 54
-criativos_ultima: 8
+criativos_ultima: 16
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: 
@@ -141,3 +141,7 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ 
 6 mencao(oes) nesta varredura (gateway Kirvano). Reclamacao nova 260737243 (03/10): assinante mensal ha tres meses, app cai e volta. Confirma recorrencia ativa ha 90 dias.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260737243)
+
+## Medicao 2026-10-05 (rodada diaria, Biblioteca de Anuncios)
+- Busca pelo dominio **"avaliacaogratuitapaizao"**: ~16 anuncios ativos de Carlao Silva, **8 deles iniciados em 03 e 04/10**. O mais antigo ativo hoje e de 18/08; o de 04/08 medido em 27/09 saiu do ar. `dias_no_ar` fica 54 (medicao de 27/09; a oferta esta no ar desde 04/08).
+- `criativos_ultima: 16` e linha de base nova (busca por dominio). A de 27/09 foi a busca larga "paizão" (8 carregados), entao `criativos_delta` fica 0. Oito criativos novos em dois dias e sinal de verba entrando, nao medida de delta.

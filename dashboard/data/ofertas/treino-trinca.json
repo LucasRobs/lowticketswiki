@@ -48,7 +48,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 31,
+  "ra_reclamacoes": 33,
   "ra_plataformas": [
    "lastlink"
   ],
@@ -147,6 +147,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1633.md",
+   "data": "2026-10-05",
+   "titulo": "Passada 2026-10-05 16:33"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-05 -- 0317.md",
