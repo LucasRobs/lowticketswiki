@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-04
-rodadas_vista: 12
+visto_ultimo: 2026-10-05
+rodadas_vista: 13
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -161,3 +161,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-e
 3 mencao(oes) nesta varredura (gateway PerfectPay). App falso de espionagem/monitoramento de WhatsApp e Instagram; cobra em pagamentos sucessivos sem liberar acesso. Continua dominando o volume de queixas da PerfectPay, mesma família de grafias (Stalkea.ai, Stalker AI) de passadas anteriores.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-um-aplicativo-falso-e-enganoso-que-nao-entrega-o-prometido_WZ5LD8PtcACoBJV7/
+
+## Rodada 2026-10-05
+
+3 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram e rastrear celular. Continua dominando o topo das reclamacoes recentes da PerfectPay - 3 mencoes nesta janela curta (varios pix, cobranca sem entrega do resultado), mesmo padrao de creditos pra liberar.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/reembolso-negado-e-produto-nao-funcional-apos-compra-via-perfectpay_cpojyBGrbKt5gfjo/

@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Cakto). E-book de receitas vendido por 'Chef Luana'. Mesma reclamacao (mesma data de compra 13/08) ja tinha aparecido na passada de 04/10 como primeira vez - reconfirma que a oferta/reclamacao ainda esta visivel, upgrade de fria para morna.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/falta-de-acesso-e-resposta-apos-compra-de-livros-de-culinaria_h9xcF_NwGwiJ5Grb/

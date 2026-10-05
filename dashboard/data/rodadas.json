@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-05.md",
+   "data": "2026-10-05",
+   "titulo": "Radar 2026-10-05",
+   "ofertas_vistas": 19,
+   "novas": 3,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "payt",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-05\n\n## Novas\n\n- [[fornecedores-ocultos-fornecedores-nfc]] — marketing-e-faca-como-eu — nao informado — Curso/comunidade de 'fornecedores ocultos' para loja virtual. Mesma familia de oferta aparece com nomes levemente diferentes…\n- [[angulo-upsell-comprar-seguidores-em-curso-de-renda-online]] — marketing-e-faca-como-eu — nao informado — Curso vendido com a promessa de 'nao precisar vender produto nem fazer video', que depois cobra a parte para 'comprar seguidores'. Terceira…\n- [[angulo-arquivos-digitais-diferentes-das-imagens-promocionais]] — produtos-digitais-diversos — nao informado — Reclamacao generica sobre 'arquivos digitais' que nao correspondem as imagens de divulgacao. Sem marca identificavel - padrao classico de…\n\n## Movimento\n\n- [[gtd-academy-mentoria-estrategista-digital]] — ra_reclamacoes atualizado para 1\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 8\n- [[o-truque-da-loto-pro]] — ra_reclamacoes atualizado para 4\n- [[livros-de-culinaria-chef-luana]] — ra_reclamacoes atualizado para 1\n- [[metodo-livre]] — ra_reclamacoes atualizado para 1\n- [[maquina-de-viralizacao-inteligente-content-machine-5-5]] — ra_reclamacoes atualizado para 1\n- [[app-start]] — ra_reclamacoes atualizado para 3\n- [[angulo-metodo-med-parabolas-kids]] — ra_reclamacoes atualizado para 2\n- [[metodo-live-perpetua-tiktok-shop-liveflow-ia]] — ra_reclamacoes atualizado para 1\n- [[o-curso-do-mago]] — ra_reclamacoes atualizado para 2\n- [[h2jobs-full]] — ra_reclamacoes atualizado para 1\n- [[gifts-da-isa]] — ra_reclamacoes atualizado para 3\n- [[template-layout-2-0]] — ra_reclamacoes atualizado para 1\n- [[shopminer]] — ra_reclamacoes atualizado para 1\n- [[thermafit]] — ra_reclamacoes atualizado para 1\n- [[linflora]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-05 -- 0019]] - perfectpay, cakto-pay, kiwify, hotmart, payt - 19 achado(s) - Payt (rotativo) rendeu o achado mais forte - Truque da Loto com upsell de R$623 - enquanto GTD Academy, Fornecedores Ocultos e Stalkeia…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
@@ -419,6 +438,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 0019.md",
+   "data": "2026-10-05",
+   "hora": "00:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 90,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "fornecedores-ocultos-fornecedores-nfc",
+    "livros-de-culinaria-chef-luana",
+    "stalkeia-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-05]].\n\n# Rodada — 05/10/2026 · 00:19 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, payt · **Páginas:** 90 · **Coleta:** parcial · **Achados:** 19\n\n## Quentes\n- [[gtd-academy]] (Kiwify) - reaparece pela 3a vez, mesmo valor R$369,09, agora em 3 gateways diferentes\n- [[fornecedores-ocultos-fornecedores-nfc]] (PerfectPay/Kiwify) - cluster recorrente, varios produtores/clones\n- [[stalkeia-ai]] (PerfectPay) - 3 mencoes na janela curta\n- [[o-truque-da-loto]] (Payt) - novo, mas ja quente: 4 produtos na mesma venda, R$623,24 de upsell\n\n## Mornas\n- [[livros-de-culinaria-chef-luana]] (Cakto) - 2a aparicao, mesma reclamacao da passada de 04/10\n- [[metodo-livre-curso-de-licitacao]] (Hotmart) - 2a aparicao, mesmo valor R$82/mes\n- [[maquina-de-viralizacao-inteligente-content-machine-55]] (Hotmart) - 2a aparicao\n- Angulo renovacao automatica indevida de curso (Hotmart) - 3 reclamacoes diferentes nesta passada\n- Angulo upsell 'comprar seguidores' em curso online (PerfectPay) - 3a vez que o padrao aparece\n\n## Frias (primeira aparicao)\n- Metodo MED + Parabolas Kids (Kiwify)\n- Metodo Live Perpetua - TikTok Shop / LiveFlow Ia (Kiwify)\n- O Curso do Mago (Kiwify)\n- H2Jobs Full (Kiwify)\n- Gifts da Isa (Kiwify)\n- Template Layout 2.0 (Hotmart)\n- ShopMiner (Payt)\n- ThermaFit / Thai Chin (Payt)\n- Loja via Instagram Linflora (Payt)\n- Arquivos digitais diferentes do anunciado (Cakto)\n\nLeitura: janela curta (~2h30 desde a ultima passada, 21:51 -> 00:19). ReclameAqui respondeu de forma muito instavel outra vez - a maioria das paginas 2 em diante voltou '0 de 0' nos 5 gateways, mesmo com retentativa; a cobertura real ficou concentrada em poucas paginas por gateway, por isso coleta parcial em todos. O gateway rotativo desta vez foi Payt (sem varredura desde 03/10), e trouxe o achado mais forte da passada: O Truque da Loto, operacao de apostas com 4 produtos vendidos juntos somando R$623. Hotmart e Cakto reconfirmaram achados ja vistos na passada anterior com os mesmos valores e datas - esperado dada a janela curta, nao indica produto novo, apenas que a mesma reclamacao ainda esta visivel na paginacao.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 2151.md",
    "data": "2026-10-04",

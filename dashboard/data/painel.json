@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 237,
-  "angulos": 42,
-  "observacoes": 459,
-  "dias_radar": 25,
-  "passadas": 43,
+  "ofertas": 238,
+  "angulos": 44,
+  "observacoes": 478,
+  "dias_radar": 26,
+  "passadas": 44,
   "analises": 12,
-  "ultima_rodada": "2026-10-04"
+  "ultima_rodada": "2026-10-05"
  },
  "ofertas": [
   {
@@ -339,7 +339,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -506,7 +507,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -727,6 +729,59 @@
    "ultima_obs": "2026-10-04",
    "n_citacoes": 1,
    "resumo": "Primeira mencao. Ticket muito baixo, conteudo descrito como plagiado/copiado da internet, entregue por link do Google Drive em vez de material proprio.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-arquivos-digitais-diferentes-das-imagens-promocionais",
+   "nome": "Arquivos digitais diferentes das imagens promocionais",
+   "classe": "angulo",
+   "nicho": "produtos-digitais-diversos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=pack%20arquivos%20digitais&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Reclamacao generica sobre 'arquivos digitais' que nao correspondem as imagens de divulgacao. Sem marca identificavel - padrao classico de pack de PDF/imagens vendido como outra coisa.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -1281,7 +1336,8 @@
    "resumo": "Duas reclamacoes sem nome de marca descrevem o mesmo mecanismo: pagamento inicial seguido de cobrancas extras nao anunciadas para liberar acesso ou resultado completo. Mecanica de order bump/upsell pesado, recorrente no radar.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1495,7 +1551,8 @@
    "resumo": "Primeira mencao. Comprador diz ter recebido curso diferente do anunciado (tecnico em agricultura em vez do especifico comprado).",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1547,7 +1604,8 @@
    "resumo": "Duas reclamações sem nome de marca descrevem o mesmo mecanismo: pagamento inicial baixo seguido de cobranças extras para 'comprar seguidores' ou liberar o resultado prometido. Funil de order bump clássico do low ticket agressivo.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1775,7 +1833,8 @@
    "resumo": "Site de serviços genérico que cobrou em 3 pagamentos sucessivos totalizando R$ 180,90 sem entregar o prometido. Sem nome de marca identificado, mas a mecânica de upsell em cascata vale estudar.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1901,7 +1960,7 @@
    "classe": "angulo",
    "nicho": "material-pedagogico",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -1928,21 +1987,21 @@
    "score": 1.9,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Parabolas%20Kids%20livro%20infantil%20pdf&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 4,
    "resumo": "Primeira mencao. Dois produtos infantis vendidos juntos pelo mesmo vendedor na Kiwify, entregues como PDF em vez do formato esperado, ticket bem baixo.",
    "flags": [
     "sem-longevidade",
@@ -2278,7 +2337,8 @@
    "resumo": "Duas reclamações hoje sobre apps de rastreamento de celular que não entregam acesso, nenhuma com nome de marca. Uma delas mostra o padrão clássico de 3 cobranças crescentes (R$27,90 + R$19,90 + R$37,90) para 'liberar' o resultado - mesma mecânica da família…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2330,7 +2390,8 @@
    "resumo": "Serviço de \"seguidores reais e verdadeiros\" para Instagram (500-700 seguidores) por R$87; perfis entregues sem foto/posts e removidos após tentativa de chargeback via Pix.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2382,7 +2443,8 @@
    "resumo": "Assinatura 'Plano Premium' renovada automaticamente e cobrada sem que a cliente reconhecesse ter contratado - padrão clássico de assinatura/order bump escondido.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2434,7 +2496,8 @@
    "resumo": "Vendedora Debora Cristina Soares Santos (loja TK IMPORTES) vendeu chuteiras via Kiwify e sumiu sem entregar; mostra que a Kiwify também processa produto físico de terceiro, não só infoproduto.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2488,7 +2551,8 @@
    "resumo": "Produtor Raphael Mancini. Curso exigia instalar apps adicionais não divulgados, cada instalação gerando comissão para o instrutor - mecânica típica de esquema de app-install disfarçado de curso.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2542,7 +2606,8 @@
    "resumo": "E-book não liberado dentro do prazo prometido (7 dias); vendedor some do WhatsApp e email - padrão clássico de produto digital não entregue.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2936,6 +3001,58 @@
    ]
   },
   {
+   "slug": "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
+   "nome": "Upsell 'comprar seguidores' em curso de renda online",
+   "classe": "angulo",
+   "nicho": "marketing-e-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20ganhar%20dinheiro%20redes%20sociais%20sem%20vender&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso vendido com a promessa de 'nao precisar vender produto nem fazer video', que depois cobra a parte para 'comprar seguidores'. Terceira passada em que esse padrao de upsell aparece na PerfectPay - angulo consistente.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "aplicativo-toca-simples",
    "nome": "Aplicativo Toca Simples",
    "classe": "oferta",
@@ -2989,7 +3106,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3054,7 +3172,7 @@
    "classe": "oferta",
    "nicho": "negocio-online",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -3083,21 +3201,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=App%20Start&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
    "resumo": "Curso/app vendido como assinatura; cobrança anual não autorizada e sem opção funcional de cancelamento.",
    "flags": [
     "score-provisorio",
@@ -3489,7 +3607,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4044,7 +4163,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4490,7 +4610,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4545,7 +4666,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4655,7 +4777,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4710,7 +4833,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4985,7 +5109,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5207,7 +5332,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5318,7 +5444,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5373,7 +5500,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5428,7 +5556,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5594,7 +5723,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5818,7 +5948,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5928,7 +6059,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6093,7 +6225,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6480,7 +6613,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7367,7 +7501,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7474,6 +7609,62 @@
    "ultima_obs": "2026-10-04",
    "n_citacoes": 1,
    "resumo": "Curso de acabamento em construção civil (\"Formação Mestre do Acabamento\"); reclamação de curso online com conteúdo vazio e suporte ineficaz.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "fornecedores-ocultos-fornecedores-nfc",
+   "nome": "Fornecedores Ocultos / Fornecedores NFC",
+   "classe": "oferta",
+   "nicho": "marketing-e-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fornecedores%20ocultos%20loja%20virtual&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
+   "resumo": "Curso/comunidade de 'fornecedores ocultos' para loja virtual. Mesma familia de oferta aparece com nomes levemente diferentes (Curso+Comunidade Fornecedores NFC na PerfectPay, Sistema de Fornecedores Ocultos na Kiwify) e ja foi vista com produtor diferente…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -7679,21 +7870,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gifts%20da%20Isa&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 4,
    "resumo": "Curso descrito como mal feito e desorganizado; reembolso dentro do prazo de 7 dias foi prometido mas falhou e a cobrança continuou.",
    "flags": [
     "score-provisorio",
@@ -7809,7 +8000,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7919,7 +8111,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7974,7 +8167,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8040,7 +8234,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8067,21 +8261,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=GTD%20Academy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Produtor Anderson Pereira Seabra de Andrade. Mentoria de 'estrategista digital' prometia aulas ao vivo e suporte individual que não foram entregues; instrutor some do suporte.",
    "flags": [
     "score-provisorio",
@@ -8196,7 +8390,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8232,21 +8427,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=H2Jobs&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 6,
    "resumo": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -8421,7 +8616,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8695,7 +8891,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9194,7 +9391,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9531,7 +9729,7 @@
    "classe": "oferta",
    "nicho": "golpe-loja-fake-instagram",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -9558,27 +9756,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Linflora&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Loja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG Comércio de Produtos Naturais Ltda.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9699,7 +9896,7 @@
    "classe": "oferta",
    "nicho": "culinaria-receitas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -9726,21 +9923,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chef%20Luana&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
    "resumo": "E-books/livros de culinária vendidos por influenciadora, sem acesso/resposta após compra.",
    "flags": [
     "score-provisorio",
@@ -10245,7 +10442,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10300,7 +10498,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10309,7 +10508,7 @@
    "classe": "oferta",
    "nicho": "ferramenta-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10336,21 +10535,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Content%20Machine&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Dois produtos do mesmo produtor BRANDS DECODED LTDA vendidos na mesma compra (ferramenta de criação de conteúdo viral/headlines). Reclamação por atraso no reembolso e baixa qualidade do produto.",
    "flags": [
     "score-provisorio",
@@ -10521,7 +10720,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10909,7 +11109,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10945,21 +11146,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Live%20Perpetua%20TikTok%20Shop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
    "resumo": "Bundle de dois produtos de automação de live/TikTok Shop vendidos juntos; cliente diz que não correspondeu ao anunciado.",
    "flags": [
     "score-provisorio",
@@ -11000,21 +11201,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Livre&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 5,
    "resumo": "R$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -11408,7 +11609,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11463,7 +11665,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11574,7 +11777,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11904,7 +12108,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11940,21 +12145,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20do%20Mago&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 6,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 7,
    "resumo": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -11969,7 +12174,7 @@
    "classe": "oferta",
    "nicho": "apostas-loteria",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -11998,27 +12203,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Truque%20da%20Loto&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Achado novo e o mais chamativo da passada: funil de 4 produtos amarrados (O Truque da Loto PRO, Lovable.app, Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto) vendendo 'método' de previsão de loteria. Cobrança não autorizada clara, suporte bloqueou…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12681,7 +12885,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -12904,7 +13109,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -13126,7 +13332,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -13695,7 +13902,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ecommerce",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -13722,27 +13929,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13797,7 +14003,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -13852,7 +14059,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -13907,7 +14115,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -14057,21 +14266,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 12,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 13,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 12,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 25,
+   "n_obs": 13,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 27,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -14360,7 +14569,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -14387,21 +14596,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Template%20Layout%202.0&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
    "resumo": "Primeira aparicao. Template digital com problema de compatibilidade de software, reembolso ja processado.",
    "flags": [
     "score-provisorio",
@@ -14415,7 +14624,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -14444,27 +14653,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ThermaFit&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "App/produto de emagrecimento vendido sem liberar acesso nem instruções de uso.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14742,7 +14950,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -15020,7 +15229,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -15134,7 +15344,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -15351,7 +15562,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -15470,6 +15682,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-05.md",
+   "data": "2026-10-05",
+   "titulo": "Radar 2026-10-05",
+   "ofertas_vistas": 19,
+   "novas": 3,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "payt",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
@@ -15888,6 +16119,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 0019.md",
+   "data": "2026-10-05",
+   "hora": "00:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 90,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "fornecedores-ocultos-fornecedores-nfc",
+    "livros-de-culinaria-chef-luana",
+    "stalkeia-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 90 · Coleta: parcial · Achados: 19 ## Quentes gtd-academy (Kiwify) - reaparece pela 3a vez, mesmo valor R$369,09, agora em 3 gateways diferentes…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 2151.md",
    "data": "2026-10-04",
@@ -16833,6 +17085,10 @@
    "2026-10-04": {
     "oferta": 51,
     "angulo": 12
+   },
+   "2026-10-05": {
+    "oferta": 1,
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -16859,7 +17115,8 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 91
+   "2026-10-04": 91,
+   "2026-10-05": 19
   }
  },
  "analises": [
@@ -17220,49 +17477,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 237
+    "total": 238
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 237
+    "total": 238
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 237
+    "total": 238
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 208,
-    "total": 237
+    "preenchidas": 209,
+    "total": 238
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 133,
-    "total": 237
+    "total": 238
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 237
+    "total": 238
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 237
+    "total": 238
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 181,
-    "total": 237
+    "preenchidas": 182,
+    "total": 238
    }
   ],
   "fila_enriquecimento": [
@@ -17287,91 +17544,144 @@
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
    "900-mapas-mentais",
+   "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
+   "ai-trader-pro-ia-htaipro-plataforma-traderomm-novadexy",
+   "angulo-apostilas-receitas-plagiadas-via-google-drive",
    "angulo-assinatura-com-cancelamento-bloqueado",
    "angulo-bonecas-de-papel-imprimivel",
    "angulo-caligrafia-imprimivel",
    "angulo-captchas-google",
    "angulo-cashback-para-assistir-videos-pix",
+   "angulo-cobranca-adicional-pos-venda-em-curso-online-generico",
    "angulo-cobranca-extra-para-liberar-acesso",
    "angulo-curso-comunidade-fornecedores-revenda",
+   "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
+   "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
+   "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
    "angulo-produto-digital-instagram",
    "angulo-quiz-retrato-ia",
+   "angulo-rastreador-de-celular-generico",
+   "angulo-seguidores-reais-para-instagram",
+   "angulo-sem-nome-assinatura-recorrente-nao-reconhecida-plano-premium",
+   "angulo-sem-nome-chuteiras-via-loja-tk-importes",
+   "angulo-sem-nome-curso-com-instalacao-de-apps-gerando-comissao-para-instrutor",
+   "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
+   "aplicativo-toca-simples",
    "appluna-net",
    "autismo-para-pais-lacerda",
+   "bike-in-casa",
    "bonecas-papel-maria-criativa",
    "boss-ia-trade",
    "brumdance-3em1",
    "caderno-de-professor",
    "cae-course",
    "cantigas-da-bailarina",
+   "capcut-pro-revenda-de-licenca",
    "captchas-no-google",
    "carteira-nacional-do-estudante-digital",
    "casinha-dos-sonhos",
+   "chama-gemea",
+   "chef-luana-livros-de-culinaria",
+   "clube-conecta",
+   "clube-da-inteligencia-artificial-publicacoes-inovadoras-capes",
    "clube-da-pedagogia",
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
+   "combo-da-aprovacao-2023-projeto-frida-sobrancelhas-maos-livres",
    "comunidade-influencers-ia-ascensao",
    "comunidade-knights",
    "comunidade-mvz",
+   "comunidade-pulsar",
    "comunidade-renda-em-dolar",
+   "comunidade-subido",
+   "congresso-humanamente-salvador",
+   "congresso-salvador-humanamente",
+   "curso-cae-ingles-cambridge",
    "curso-de-marketing-e-vendas-com-ia",
+   "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
+   "curso-raphael-mancini",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
+   "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
+   "desafio-pilates-em-casa",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
+   "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
    "fluency-english",
+   "formacao-mestre-do-acabamento",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
    "glow-mode",
+   "gold-card-tv",
+   "gospel-worship",
+   "gtd-academy-anderson-seabra",
+   "guitar-map",
    "hero-live-shop",
+   "hi-spy-4-0",
    "hub-boss-rateio-ia",
    "ia-fx-promocional",
+   "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
    "imersao-tradutor-de-almas-andrea-vermont",
    "indicadores-de-trading",
    "instaunlocked",
    "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
+   "kit-hevovix",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
    "licao-kids",
-   "linflora",
    "little-genius",
+   "mago-dos-cortes",
+   "manual-do-milhao-lasy-ia",
    "mdr-despertar-2-0",
+   "mega-crm",
+   "metodo-live-perpetua-liveflow-ia",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
    "missa-em-atividades",
    "modao-raiz",
    "moldes-digitais-de-artesanato-rendafini",
+   "moldes-para-artesanato-rendafini",
+   "morovitta",
+   "movimento-e-o-remedio",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
-   "o-truque-da-loto-pro",
+   "mvr-by-daniel-fernandes",
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "placar-exato",
    "play-videos-premiados",
+   "poptv",
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
+   "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
+   "quadradinhos-da-vovo",
    "rpr-recomendacoes-personalizadas-remotas",
-   "shopminer",
+   "shoppro",
+   "sistema-b2drop",
+   "sistema-de-fornecedores-ocultos-marcelle-martins",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
-   "thermafit",
+   "tribo-do-gain",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
    "um-puxa-o-outro",
+   "velas-artesanais-da-tia-rose",
+   "white-driver",
    "youclone-guiyouclone",
+   "youtube-dark-peter",
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 738
+   "canonico": 760
   }
  },
  "vocabulario": {
@@ -17418,22 +17728,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d8d321f57a7de0be",
-  "atualizado_em": "2026-10-04T21:52:45-03:00",
-  "ofertas": 237,
-  "angulos": 42,
-  "observacoes": 459,
-  "ultima_rodada": "2026-10-04",
+  "hash": "afc7a78c0dfc59a9",
+  "atualizado_em": "2026-10-05T00:21:42-03:00",
+  "ofertas": 238,
+  "angulos": 44,
+  "observacoes": 478,
+  "ultima_rodada": "2026-10-05",
   "ultima_passada": {
-   "data": "2026-10-04",
-   "hora": "21:51",
+   "data": "2026-10-05",
+   "hora": "00:19",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "payt"
    ]
   }
  }

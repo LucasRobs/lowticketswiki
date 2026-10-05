@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-04
-rodadas_vista: 2
+visto_ultimo: 2026-10-05
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, com propaganda enganosa citada explicitamente pelo reclamante. Curso de licitacoes publicas descrito como raso e sem suporte.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Curso de 'como ganhar dinheiro com licitacoes publicas', cobranca mensal de R$82. Mesmo titulo e valor ja vistos na passada de 04/10 - segunda aparicao, upgrade para morna.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/

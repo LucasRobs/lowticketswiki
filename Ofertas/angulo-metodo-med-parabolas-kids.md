@@ -24,10 +24,10 @@ s_ticket: 6
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 2 mencao(oes) nesta varredura (gateway Kiwify). Dois produtos infantis em PDF do mesmo vendedor: "Método MED" (R$72,08 em 12x) e "Parábolas Kids" (R$6,70 em 8x); comprador pede reembolso de ambos. Segunda menção no mesmo dia.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/produto-incorreto-entregue-e-sem-resposta-da-empresa-para-reembolso_r4ATmncBo1Cnl_3h/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mesma reclamacao cita dois produtos do mesmo vendedor Kiwify entregues incorretos: 'Metodo MED' (R$72,08) e 'Parabolas Kids' (R$6,70). Combo de baixo ticket vendido junto, primeira aparicao.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/produto-incorreto-entregue-e-sem-resposta-da-empresa-para-reembolso_r4ATmncBo1Cnl_3h/

@@ -62,7 +62,8 @@
   "decisao": "padrao",
   "flags": [
    "sem-longevidade",
-   "sem-lp"
+   "sem-lp",
+   "status-vencido"
   ],
   "gateways": []
  },

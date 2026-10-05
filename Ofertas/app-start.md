@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-start"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Curso cobrado indevidamente, reclamante nao consegue cancelar.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/fui-cobrado-indevidamente-pelo-curso-app-start-e-nao-consigo-cancelar_09P5M-oNHCyoBOmm/
+
+## Rodada 2026-10-05
+
+3 mencao(oes) nesta varredura (gateway Hotmart). Tres reclamacoes diferentes nesta mesma passada sobre cobranca/renovacao automatica nao autorizada de cursos (App Start, Comunidade Pulsar, curso de Isabela Schonorr) - padrao recorrente de assinatura recorrente sem aviso claro no checkout.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/fui-cobrado-indevidamente-pelo-curso-app-start-e-nao-consigo-cancelar_09P5M-oNHCyoBOmm/

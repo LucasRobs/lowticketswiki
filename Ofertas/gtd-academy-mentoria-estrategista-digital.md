@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria de 'Estratégia Digital' do produtor Anderson Pereira Seabra de Andrade. Mesmo valor (R$369,09) e mesmo produtor da reclamação registrada na passada anterior via Cakto - agora aparece também na Kiwify, confirmando operação multi-gateway. Reclama de aulas e suporte prometidos e não entregues.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-por-omissao-de-custos-adicionais-em-curso-online_sdLWbmNTCfplGLgF/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria de estrategista digital (Anderson Pereira Seabra de Andrade). Reaparece pela 3a vez em rodadas recentes, agora via Kiwify, com o mesmo valor R$369,09 ja visto em Cakto e PerfectPay - forte sinal de operacao preparada para rodar em varias pontes de pagamento.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/
