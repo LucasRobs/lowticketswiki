@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 245,
   "angulos": 51,
-  "observacoes": 520,
+  "observacoes": 525,
   "dias_radar": 26,
-  "passadas": 48,
+  "passadas": 49,
   "analises": 12,
   "ultima_rodada": "2026-10-05"
  },
@@ -5027,7 +5027,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chef%20Luana%20receitas&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Primeira aparicao. E-books de culinaria vendidos em PDF; falha pontual de entrega resolvida em menos de uma hora pela produtora.",
    "flags": [
     "score-provisorio",
@@ -5872,7 +5872,7 @@
    "classe": "oferta",
    "nicho": "evento-presencial",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -5899,27 +5899,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Congresso%20Salvador%20Humanamente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7079,7 +7078,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Desafio%20Pilates%20em%20Casa&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Desafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.",
    "flags": [
     "score-provisorio",
@@ -8135,7 +8134,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fornecedores%20ocultos%20loja%20virtual&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Curso/comunidade de 'fornecedores ocultos' para loja virtual. Mesma familia de oferta aparece com nomes levemente diferentes (Curso+Comunidade Fornecedores NFC na PerfectPay, Sistema de Fornecedores Ocultos na Kiwify) e ja foi vista com produtor diferente…",
    "flags": [
     "score-provisorio",
@@ -8426,7 +8425,7 @@
    "classe": "oferta",
    "nicho": "streaming-iptv",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "braip",
@@ -8453,27 +8452,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gold%20Card%20TV&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Serviço de streaming/IPTV, falta de suporte e atraso no reembolso.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8856,7 +8854,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Guitar%20Map&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Curso online de violão/guitarra \"Guitar Map\"; comprador reclama de curso incompleto e pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -8911,7 +8909,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=H2Jobs&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -9300,7 +9298,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=IA%20Play%20Academy&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.",
    "flags": [
     "score-provisorio",
@@ -9814,7 +9812,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "braip",
@@ -9841,27 +9839,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hevovix&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Produto de encapsulado/saúde, não recebido após pagamento via Pix. Reclamação removida da página, nome confirmado só pela URL.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10463,7 +10460,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
    "n_obs": 6,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 13,
+   "n_citacoes": 14,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -12735,7 +12732,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20do%20Mago&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -13471,7 +13468,7 @@
    "classe": "oferta",
    "nicho": "streaming-iptv",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "braip",
@@ -13498,27 +13495,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=POPTV&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Serviço de streaming/IPTV operado por VSHP Serviços LTDA, estorno não respondido.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14755,7 +14751,7 @@
    "classe": "oferta",
    "nicho": "ecommerce-dropshipping",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "braip",
@@ -14782,27 +14778,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=B2Drop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 2,
    "resumo": "Sistema de dropshipping/assinatura, reembolso não recebido. Reclamação removida, nome confirmado só pelo título/URL.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15022,7 +15017,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 13,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 27,
+   "n_citacoes": 28,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -16425,11 +16420,12 @@
    "arquivo": "Radar/2026-10-05.md",
    "data": "2026-10-05",
    "titulo": "Radar 2026-10-05",
-   "ofertas_vistas": 61,
+   "ofertas_vistas": 66,
    "novas": 17,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "eduzz",
     "hotmart",
@@ -16441,7 +16437,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -16862,6 +16858,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1458.md",
+   "data": "2026-10-05",
+   "hora": "14:58",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "chef-luana-livros-de-culinaria",
+    "desafio-pilates-em-casa",
+    "fornecedores-ocultos-fornecedores-nfc",
+    "guitar-map",
+    "h2jobs-full",
+    "ia-play-academy",
+    "loopyz",
+    "o-curso-do-mago",
+    "stalkeia-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 15 · Coleta: parcial · Achados: 23 ## Quentes stalkeia-ai (PerfectPay) - reconfirmado via dominio stalkeia.com, 4 pix loopyz (Cakto) - reconfirmado, direito de…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 1115.md",
    "data": "2026-10-05",
@@ -17927,7 +17950,7 @@
    "2026-09-30": 13,
    "2026-10-03": 34,
    "2026-10-04": 91,
-   "2026-10-05": 61
+   "2026-10-05": 66
   }
  },
  "analises": [
@@ -18434,7 +18457,6 @@
    "comunidade-mvz",
    "comunidade-renda-em-dolar",
    "congresso-humanamente-salvador",
-   "congresso-salvador-humanamente",
    "curso-de-marketing-e-vendas-com-ia",
    "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
    "curso-raphael-mancini",
@@ -18450,7 +18472,6 @@
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
    "glow-mode",
-   "gold-card-tv",
    "gtd-academy-anderson-seabra",
    "hero-live-shop",
    "hub-boss-rateio-ia",
@@ -18461,7 +18482,6 @@
    "instaunlocked",
    "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
-   "kit-hevovix",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
    "licao-kids",
@@ -18482,7 +18502,6 @@
    "pequenas-estilistas",
    "placar-exato",
    "play-videos-premiados",
-   "poptv",
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
@@ -18490,7 +18509,6 @@
    "quadradinhos-da-vovo",
    "rpr-recomendacoes-personalizadas-remotas",
    "shoppro",
-   "sistema-b2drop",
    "sistema-de-fornecedores-ocultos-marcelle-martins",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
@@ -18502,7 +18520,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 816
+   "canonico": 821
   }
  },
  "vocabulario": {
@@ -18549,22 +18567,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "7be5910c4783e8ab",
-  "atualizado_em": "2026-10-05T11:21:04-03:00",
+  "hash": "107af6bd0646b513",
+  "atualizado_em": "2026-10-05T14:59:45-03:00",
   "ofertas": 245,
   "angulos": 51,
-  "observacoes": 520,
+  "observacoes": 525,
   "ultima_rodada": "2026-10-05",
   "ultima_passada": {
    "data": "2026-10-05",
-   "hora": "11:15",
+   "hora": "14:58",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "braip"
    ]
   }
  }

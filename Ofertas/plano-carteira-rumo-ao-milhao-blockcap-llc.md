@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Vendido por Blockcap LLC. Assinatura original em 06/2025, renovacao automatica nao autorizada cobrada em 06/2026 - mesmo padrao de assinatura-trap ja visto em Comunidade Subido/Pulsar/App Start.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/renovacao-automatica-nao-autorizada-de-assinatura_5LAdgFztcLeREx4k/
