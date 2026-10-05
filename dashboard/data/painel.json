@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 186,
+  "ofertas": 188,
   "angulos": 25,
-  "observacoes": 340,
+  "observacoes": 344,
   "dias_radar": 22,
-  "passadas": 20,
+  "passadas": 21,
   "analises": 12,
   "ultima_rodada": "2026-10-05"
  },
@@ -2189,7 +2189,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
    "n_obs": 6,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 10,
+   "n_citacoes": 11,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -2369,7 +2369,7 @@
    "classe": "oferta",
    "nicho": "artesanato",
    "sub_nicho": "velas-artesanais",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2398,21 +2398,21 @@
    "score": 5.5,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-09-27",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
    "dias_no_ar": 102,
    "criativos_ultima": 8,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-27",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://artesanatoemvelas.com.br",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Ateliê%20das%20Velas&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-27",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
    "resumo": "Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).",
    "flags": [
     "score-provisorio"
@@ -6069,6 +6069,61 @@
    ]
   },
   {
+   "slug": "formula-youtube-viral",
+   "nome": "Fórmula YouTube Viral",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 15.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 26.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fórmula%20youtube%20viral&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de YouTube viral a R$ 37,90 com bump 'Pack Edicao Suprema 2.0' de R$ 15,90 na mesma compra (25/09); reembolso pedido dentro do prazo e marcado como 'falhou' (260849003). A busca pelo nome na Biblioteca so devolve um operador em ingles, sem relacao.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "forro-do-zero-pe-descalco",
    "nome": "Forro do Zero — Pe Descalco",
    "classe": "oferta",
@@ -6177,6 +6232,61 @@
     "score-provisorio",
     "checkout-desconhecido",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "frequencia-de-cura-divida-instituto-cristao-online",
+   "nome": "Frequência de Cura Dívida (Instituto Cristão Online)",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 48,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 48,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=frequência%20de%20cura&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de 'frequencia' para cura de dividas do Instituto Cristao Online, R$ 48 na PerfectPay, entregue pela Perfect Academy; compra de 02/10 sem acesso (260840591). Na Biblioteca o produtor nao aparece pelo termo, mas 'frequencia de cura' devolve uma coorte de…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -10809,21 +10919,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 10,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 11,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 8,
+   "ra_reclamacoes": 11,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-05",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 10,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 17,
+   "n_obs": 11,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 19,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -11091,7 +11201,7 @@
    "dias_no_ar": 58,
    "criativos_ultima": 230,
    "criativos_delta": 100,
-   "ra_reclamacoes": 31,
+   "ra_reclamacoes": 33,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-05",
    "bump_oculto": false,
@@ -11100,7 +11210,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
    "n_obs": 6,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 12,
+   "n_citacoes": 13,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
    "flags": []
   },
@@ -11719,11 +11829,12 @@
    "arquivo": "Radar/2026-10-05.md",
    "data": "2026-10-05",
    "titulo": "Radar 2026-10-05",
-   "ofertas_vistas": 18,
-   "novas": 12,
-   "retornaram": 0,
+   "ofertas_vistas": 22,
+   "novas": 14,
+   "retornaram": 1,
    "sumiram": 0,
    "fontes": [
+    "cakto",
     "eduzz",
     "hotmart",
     "kirvano",
@@ -11732,12 +11843,13 @@
     "lowify",
     "monetizze",
     "payt",
+    "perfectpay",
     "ticto",
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "leitura": "Primeira rodada desde 02/10; as passadas 6x/dia nao gravaram nada no intervalo. Sinal forte so no treino-trinca: 14 reclamacoes com ID novo em tres dias (17 para 31) e a busca 'treino trinca' na Biblioteca foi de ~130 para ~230 resultados. zap-radar ganhou 3 e coramaflix-corama-tv 2. As 12 estreias tem uma mencao cada; so as Casinhas de Natal tem anuncio medido (desde 23/09)."
+   "n_passadas": 2,
+   "leitura": "Complemento das 16h33 a rodada das 03:17. Duas leituras no mesmo dia: treino-trinca ganhou mais 2 IDs novos (31 para 33) e stalkeia-ai 3 (8 para 11), ambos de 05/10. Na Biblioteca, atelie-das-velas foi medido em ~33 anuncios e 131 dias e voltou de esfriando; app-do-paizao tem 8 anuncios novos em 03-04/10. Estreias: Frequencia de Cura Divida e Formula YouTube Viral, uma mencao cada."
   },
   {
    "arquivo": "Radar/2026-10-02.md",
@@ -12095,6 +12207,28 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1633.md",
+   "data": "2026-10-05",
+   "hora": "16:33",
+   "gateways": [
+    "perfectpay",
+    "cakto",
+    "kiwify",
+    "hotmart",
+    "lastlink"
+   ],
+   "paginas": 5,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "atelie-das-velas",
+    "stalkeia-ai",
+    "treino-trinca"
+   ],
+   "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, lastlink · Páginas: 5 · Coleta: parcial · Achados: 6 ## Quentes treino-trinca — Lastlink · 2 IDs novos hoje (31 → 33); acesso travado ate comprar o proximo degrau stalkeia-ai — PerfectPay · 3…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 0317.md",
    "data": "2026-10-05",
@@ -12611,7 +12745,7 @@
     "angulo": 0
    },
    "2026-10-05": {
-    "oferta": 12,
+    "oferta": 14,
     "angulo": 0
    }
   },
@@ -12636,7 +12770,7 @@
    "2026-09-26": 15,
    "2026-09-27": 16,
    "2026-10-02": 12,
-   "2026-10-05": 18
+   "2026-10-05": 22
   }
  },
  "analises": [
@@ -12804,49 +12938,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 186
+    "total": 188
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 30,
-    "total": 186
+    "total": 188
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 186
+    "total": 188
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 157,
-    "total": 186
+    "preenchidas": 159,
+    "total": 188
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 125,
-    "total": 186
+    "preenchidas": 127,
+    "total": 188
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 186
+    "total": 188
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 106,
-    "total": 186
+    "total": 188
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 130,
-    "total": 186
+    "preenchidas": 132,
+    "total": 188
    }
   ],
   "fila_enriquecimento": [
@@ -12942,7 +13076,7 @@
    "um-puxa-o-outro"
   ],
   "estilos_frontmatter": {
-   "canonico": 551
+   "canonico": 557
   }
  },
  "vocabulario": {
@@ -12989,27 +13123,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "086c3e84f38a5aaa",
-  "atualizado_em": "2026-10-05T03:19:54-03:00",
-  "ofertas": 186,
+  "hash": "27331ef448a90d95",
+  "atualizado_em": "2026-10-05T16:33:57-03:00",
+  "ofertas": 188,
   "angulos": 25,
-  "observacoes": 340,
+  "observacoes": 344,
   "ultima_rodada": "2026-10-05",
   "ultima_passada": {
    "data": "2026-10-05",
-   "hora": "03:17",
-   "coleta": "ok",
+   "hora": "16:33",
+   "coleta": "parcial",
    "gateways": [
+    "perfectpay",
+    "cakto",
     "kiwify",
     "hotmart",
-    "ticto",
-    "lastlink",
-    "kirvano",
-    "payt",
-    "wiapy",
-    "lowify",
-    "eduzz",
-    "monetizze"
+    "lastlink"
    ]
   }
  }

@@ -33,10 +33,10 @@
   "s_lucro": 8,
   "s_replica": 5,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-09-27",
-  "visto_ultimo": "2026-09-27",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-05",
+  "rodadas_vista": 2,
   "dias_no_ar": 102,
   "criativos_ultima": 8,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-27",
+  "ra_checado": "2026-10-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kiwify"
   ]
  },
- "corpo": "# Ateliê das Velas\n\n## Angulo\nCurso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-reembolsaram-e-ainda-emitiram-nf-sete-dias-apos-o-pedido-de-reembolso_Y_9QL4A3bIOBJIKA/\n\n## Historico\n\n## Medicao 2026-09-27 (rodada diaria, Biblioteca de Anuncios)\n- Busca exata \"ateliê das velas\": ~8 anuncios ativos, anunciante **Carol a artesã**, LP `artesanatoemvelas.com.br`; o mais antigo carregado comecou em **17/06/2026** → `dias_no_ar: 102` (limite inferior).\n- `s_lucro` 8 (90+ dias, mas sem serie de criativos para provar que ainda sobe → nao 9). `s_replica` 5 (curso em video com habilidade manual real). `s_saturacao` segue 0 (sentinela): a busca foi por marca, nao pelo angulo \"velas artesanais\".\n- Reclamacao ID 260154795 (27/09 00h54): compra em 20/09 por R$ 47,18, \"vendendo subprodutos indisponiveis\" — ha escada dentro da area de membros.\n",
+ "corpo": "# Ateliê das Velas\n\n## Angulo\nCurso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-reembolsaram-e-ainda-emitiram-nf-sete-dias-apos-o-pedido-de-reembolso_Y_9QL4A3bIOBJIKA/\n\n## Historico\n\n## Medicao 2026-09-27 (rodada diaria, Biblioteca de Anuncios)\n- Busca exata \"ateliê das velas\": ~8 anuncios ativos, anunciante **Carol a artesã**, LP `artesanatoemvelas.com.br`; o mais antigo carregado comecou em **17/06/2026** → `dias_no_ar: 102` (limite inferior).\n- `s_lucro` 8 (90+ dias, mas sem serie de criativos para provar que ainda sobe → nao 9). `s_replica` 5 (curso em video com habilidade manual real). `s_saturacao` segue 0 (sentinela): a busca foi por marca, nao pelo angulo \"velas artesanais\".\n- Reclamacao ID 260154795 (27/09 00h54): compra em 20/09 por R$ 47,18, \"vendendo subprodutos indisponiveis\" — ha escada dentro da area de membros.\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Avistada na Biblioteca, nao no RA. Busca 'Carol a artesã': ~33 anuncios ativos, o mais antigo carregado de 27/05/2026 (131 dias) e criativos novos em 17/09 e 26/09. Na busca 'velas artesanais' (~1.100 resultados, quase todos fornecedores de insumo) aparece um anuncio dela com inicio em 16/07/2024, nao confirmado. Concorrencia em pt-BR no infoproduto: Haromalita (Metodo Velas Aromaticas, desde 17/12/2025, '+4000 alunas'); 'curso de velas' e dominado por operadores em espanhol.\n\nEvidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%22Carol%20a%20artes%C3%A3%22&search_type=keyword_unordered&media_type=all\n",
  "observacoes": [
   {
    "data": "2026-09-27",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias)."
+  },
+  {
+   "data": "2026-10-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 47,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Avistada na Biblioteca, nao no RA. Busca 'Carol a artesã': ~33 anuncios ativos, o mais antigo carregado de 27/05/2026 (131 dias) e criativos novos em 17/09 e 26/09. Na busca 'velas artesanais' (~1.100 resultados, quase todos fornecedores de insumo) aparece um anuncio dela com inicio em 16/07/2024, nao confirmado. Concorrencia em pt-BR no infoproduto: Haromalita (Metodo Velas Aromaticas, desde 17/12/2025, '+4000 alunas'); 'curso de velas' e dominado por operadores em espanhol."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1633.md",
+   "data": "2026-10-05",
+   "titulo": "Passada 2026-10-05 16:33"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-05.md",
+   "data": "2026-10-05",
+   "titulo": "Radar 2026-10-05"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-09-27.md",

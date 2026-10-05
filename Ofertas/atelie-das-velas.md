@@ -24,10 +24,10 @@ s_ticket: 6
 s_lucro: 8
 s_replica: 5
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-09-27
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 102
 criativos_ultima: 8
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -90,3 +90,9 @@ views:
 - Busca exata "ateliê das velas": ~8 anuncios ativos, anunciante **Carol a artesã**, LP `artesanatoemvelas.com.br`; o mais antigo carregado comecou em **17/06/2026** → `dias_no_ar: 102` (limite inferior).
 - `s_lucro` 8 (90+ dias, mas sem serie de criativos para provar que ainda sobe → nao 9). `s_replica` 5 (curso em video com habilidade manual real). `s_saturacao` segue 0 (sentinela): a busca foi por marca, nao pelo angulo "velas artesanais".
 - Reclamacao ID 260154795 (27/09 00h54): compra em 20/09 por R$ 47,18, "vendendo subprodutos indisponiveis" — ha escada dentro da area de membros.
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Avistada na Biblioteca, nao no RA. Busca 'Carol a artesã': ~33 anuncios ativos, o mais antigo carregado de 27/05/2026 (131 dias) e criativos novos em 17/09 e 26/09. Na busca 'velas artesanais' (~1.100 resultados, quase todos fornecedores de insumo) aparece um anuncio dela com inicio em 16/07/2024, nao confirmado. Concorrencia em pt-BR no infoproduto: Haromalita (Metodo Velas Aromaticas, desde 17/12/2025, '+4000 alunas'); 'curso de velas' e dominado por operadores em espanhol.
+
+Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%22Carol%20a%20artes%C3%A3%22&search_type=keyword_unordered&media_type=all
