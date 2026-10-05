@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-27",
-  "visto_ultimo": "2026-09-27",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-05",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "kirvano"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-27",
+  "ra_checado": "2026-10-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kirvano"
   ]
  },
- "corpo": "# Livros de Enoque\n\n## Angulo\nKit '3 livros de Enoque' nao entregue. ID 260126307 (26/09).\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260126307)\n\n## Historico\n",
+ "corpo": "# Livros de Enoque\n\n## Angulo\nKit '3 livros de Enoque' nao entregue. ID 260126307 (26/09).\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260126307)\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway Kirvano). Reclamacao nova 260703717 (03/10): kit '3 livros de Enoque' anunciado como fisico + PDF; o PDF chegou, o fisico nao.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260703717)\n",
  "observacoes": [
   {
    "data": "2026-09-27",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Kit '3 livros de Enoque' nao entregue. ID 260126307 (26/09)."
+  },
+  {
+   "data": "2026-10-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. Reclamacao nova 260703717 (03/10): kit '3 livros de Enoque' anunciado como fisico + PDF; o PDF chegou, o fisico nao."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-05 -- 0317.md",
+   "data": "2026-10-05",
+   "titulo": "Passada 2026-10-05 03:17"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-05.md",
+   "data": "2026-10-05",
+   "titulo": "Radar 2026-10-05"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-09-27.md",

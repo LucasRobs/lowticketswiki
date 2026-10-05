@@ -24,10 +24,10 @@ s_ticket: 4
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-02
-visto_ultimo: 2026-10-02
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/100-projetos-de-parquinho"
 gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-02
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+2 mencao(oes) nesta varredura (gateway Wiapy). Segunda reclamacao, 260750091 (03/10), pedido de reembolso sem detalhe de conteudo.
+
+Evidencia: https://www.reclameaqui.com.br/wiapy/lista-reclamacoes/ (ID 260750091)

@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-02
-rodadas_vista: 5
+visto_ultimo: 2026-10-05
+rodadas_vista: 6
 dias_no_ar: 54
 criativos_ultima: 8
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-02
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -135,3 +135,9 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ 
 5 mencao(oes) nesta varredura (gateway Kirvano). Duas reclamacoes com ID novo em 01/10: 260569507 (mensal de teste R$ 47,90; o botao 'reembolse aqui' gerou cobranca extra de R$ 284,90, segundo o comprador) e 260553823 (cobranca continua apos cancelamento pedido em 29/07).
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260569507)
+
+## Rodada 2026-10-05
+
+6 mencao(oes) nesta varredura (gateway Kirvano). Reclamacao nova 260737243 (03/10): assinante mensal ha tres meses, app cai e volta. Confirma recorrencia ativa ha 90 dias.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260737243)

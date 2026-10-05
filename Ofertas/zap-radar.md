@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-02
-rodadas_vista: 8
+visto_ultimo: 2026-10-05
+rodadas_vista: 9
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 8
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-02
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -129,3 +129,9 @@ Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclam
 5 mencao(oes) nesta varredura (gateway Payt). Reclamacao nova 260598927 (01/10) na Payt: app comprado no cartao nao entrega o prometido. Primeira vez que a oferta aparece no RA da Payt (antes so PerfectPay).
 
 Evidencia: https://www.reclameaqui.com.br/payt/lista-reclamacoes/ (ID 260598927)
+
+## Rodada 2026-10-05
+
+8 mencao(oes) nesta varredura (gateway Payt). 3 reclamacoes novas em 04/10. Uma descreve cinco Pix diferentes, um por etapa, sem liberar nada (260770355); outra diz que qualquer numero consultado devolve as mesmas fotos e mensagens (260761095).
+
+Evidencia: https://www.reclameaqui.com.br/payt/lista-reclamacoes/ (IDs 260782901, 260770355, 260761095)

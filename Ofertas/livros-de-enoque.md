@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-09-27
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/livros-de-enoque"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+2 mencao(oes) nesta varredura (gateway Kirvano). Reclamacao nova 260703717 (03/10): kit '3 livros de Enoque' anunciado como fisico + PDF; o PDF chegou, o fisico nao.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260703717)

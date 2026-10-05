@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-10-02
+atualizado: 2026-10-05
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,33 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-10-02 (rodada diaria)
+## Leitura atual — 2026-10-05 (rodada diaria)
+
+Passada: [[2026-10-05 -- 0317]] · nota do dia: [[2026-10-05]].
+
+**211 notas · 186 ofertas · 25 ângulos · 12 novas hoje · 18 vistas hoje · status: 85 nova · 40 ativa · 41 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Três dias de novo sem passada.** Entre 02/10 e 05/10 as passadas 6x/dia não gravaram nada em `Radar/rodadas/`. É o segundo buraco seguido (o primeiro foi de 27/09 a 02/10). A rodada diária virou, na prática, a única fonte de dados do vault. Ela também rodou às 03h, e não às 23h30.
+
+**Instrumento.** Os dois caminhos de 02/10 continuam funcionando: a lista do RA abre no navegador interno, o clique no número da página troca a lista e o corpo de cada reclamação abre por `fetch` com ID e carimbo. Foram 35 páginas em 10 gateways (Kiwify, Hotmart, Ticto, Lastlink, Kirvano, Payt, Wiapy, Lowify, Eduzz, Monetizze), cerca de 150 corpos, quase todos de 02 a 04/10. A Biblioteca de Anúncios abriu sem aprovação para duas consultas. A URL com `www.reclameaqui.com.br/<slug>/` sem `/empresa/` devolve 404, então o caminho que funciona é `/empresa/<slug>/lista-reclamacoes/`.
+
+**Sinal novo real: sim, mas só em uma nota.** [[treino-trinca]] ganhou **14 reclamações com ID novo** na Lastlink em três dias (260647273 a 260781237, todas acima de 260606589) e foi de 17 para **31**. Uma 15ª reclamação repetia o texto de outra e não foi contada. Elas mostram dois produtos novos na escada: a **"Comunidade Trinca Elite" de R$ 237,78**, oferecida logo depois do desafio de R$ 37 com a promessa de "abater" a primeira compra (260735427), e a variante **"Treino Trinca Pink"** (260705171). A busca "treino trinca" na Biblioteca, idêntica à de 02/10, foi de **~130 para ~230 resultados**. Das 29 primeiras carregadas, 28 são de Pedro Lotz, com início entre 22/08 e 30/09. Pela primeira vez o vault tem um `criativos_delta` medido com a mesma busca (+100). `dias_no_ar` foi para 58, que continua sendo limite inferior. O score fica em **6,60**, porque `s_lucro` continua 8 (a faixa 9-10 pede 90 dias) e o `s_replica: 6` segura o resto. Dá para afirmar que está escalando. Não dá para afirmar que é replicável.
+
+**O resto é pouco.** [[zap-radar]] teve 3 reclamações novas (5 → 8). Uma descreve **cinco Pix diferentes, um por etapa**, sem liberar nada (260770355), o que é a forma mais explícita da "taxa para liberar" já registrada. [[coramaflix-corama-tv]] teve 2 (1 → 3), as duas repetindo a cobrança depois da assinatura. [[app-do-paizao]] teve 1 (5 → 6), de uma assinante mensal há três meses, o que confirma recorrência ativa desde julho. [[100-projetos-de-parquinho]] e [[livros-de-enoque]] tiveram a segunda reclamação cada. Em [[chatgpt-privado]] não houve nenhuma nomeada. Há duas sobre "acesso compartilhado de ChatGPT" na Kirvano sem nome de vendedor, e elas **não** foram contadas.
+
+**Estreias: 12, e só uma com anúncio medido.** O **Kit +80 Casinhas de Natal para Imprimir** (Wiapy) tem 2 anúncios de Denis Sah no ar desde **23/09**. É a versão sazonal do cluster de papel/imprimível ([[kit-mundinho-de-papel]], [[bonecas-papel-maria-criativa]]), com prazo de validade até dezembro. Se for replicar, a janela é agora. O **App Mão Verde** (Kiwify) fatia jardinagem em microprodutos: app de R$ 37 + SOS Fungos R$ 14,90 + Segredo da Floração R$ 9,90 + Adeus Mato R$ 9,90, os quatro comprados no mesmo dia. É a escada de bumps baratos num nicho que o vault não tinha. As outras dez têm uma menção cada e nenhuma medição: Lucrando com Frutas, Lipo Intestinal Feminina, UltraCut (Kiwify), 500 Receitas Lowcarb (que a compradora descreve como gerado por IA), Bíblia 3D (Wiapy), Atleta Híbrido de Victor Pareto (Lastlink, com a mesma escada de desafio do Trinca), Bike in Casa (Ticto, "teste grátis" cobrado), ClipShort.Ai (Kirvano, R$ 84,99), Beto IA e Dieta das 3 Fases (Payt).
+
+**Mecânica de funil.** O que se repetiu nesta rodada foi a **escada pós-desafio no fitness**: Trinca (R$ 37 → 220/237,78 → 997), Atleta Híbrido e uma reclamação de R$ 19,90 na Lastlink em que a vendedora oferece "a proposta por 200 reais" em vídeo depois do pagamento (260659639). Na Hotmart apareceu outra família, de ticket alto: **renovação anual automática não autorizada** (Comunidade Subido R$ 1.345, Comunidade Pulsar R$ 595, App Start). Não é low ticket e ficou sem nota. Na Kiwify, um produto de "valor único" de R$ 37 virou mensalidade (260740937). É o mesmo padrão de preço que muda depois da compra que a leitura de 02/10 descreveu.
+
+**Status (decaimento à mão, só nos 10 gateways varridos e só em notas vindas do RA).** **10 estreias de 27/09** completaram a segunda rodada sem reaparecer e foram para `esfriando`: 100.000 manuais técnicos, Ateliê das Velas, Beautifycursos, Desafio Jejum 5 em 7, Descobrindo o Porquê da Fé, Doramas Hot Vitalício, Luke ZAP, Manual do Shihtzu, Método Corpo Definido e Protocolo Natural da Diabetes. **4 estreias de 02/10** (Achados da Ellen, Date Nights Cristão, SerBene, Seu Curso Viral) passaram de `nova` para `ativa`. Gerachat e White Driver foram relidas na Ticto pelos mesmos IDs de antes e não se movem. Notas de dança, parentalidade e infantil não foram tocadas.
+
+**Cuidados.** Três dias de buraco lidos numa noite inflam o "dia" do mesmo jeito que em 02/10. As 14 reclamações do Trinca medem acumulado de 02 a 04/10, não um dia só. Os ~230 resultados da Biblioteca contam anúncios que casam com o termo, e não criativos distintos. O delta de +100 é a comparação mais honesta disponível, mas não é a contagem de criativos que o `Schema.md` pede. A Ateliê das Velas foi para `esfriando` por ausência no RA, embora tenha anúncio medido de 102 dias. Esse decaimento mede a lista de reclamações, não o anúncio. As dívidas continuam as mesmas: **73 notas presas em `nova`** e 13 violações do teto de `s_lucro`.
+
+**Autocrítica.** Doze estreias de uma menção cada é volume, não descoberta. Dez delas devem estar em `esfriando` daqui a duas rodadas. A consulta que mais rendeu na rodada foi repetir uma busca antiga na Biblioteca, e não abrir mais páginas do RA. A próxima rodada deveria gastar menos em estreias e mais em repetir as buscas de 27/09 e 02/10 ("paizão", "ChatGPT anual", "velas artesanais") para ter `criativos_delta` com o mesmo termo.
+
+---
+
+## Leitura anterior — 2026-10-02 (rodada diaria)
 
 Passada: [[2026-10-02 -- 0102]] · nota do dia: [[2026-10-02]].
 
@@ -73,18 +99,6 @@ As passadas agendadas de 24, 25 e 26/09 gravaram só no Projeto Claude. Em 27/09
 **O que vale replicar continua no mesmo cluster.** As únicas estreias com entregável em arquivo foram [[900-mapas-mentais]] e [[caderno-de-professor]], e o crochê voltou em [[angulo-artesanato-moldes-pdf]] — todos encostados no material pedagógico/imprimível, o cluster com escala medida ([[2026-09-26 -- ofertas-escaladas]]).
 
 **Cuidados com os números.** A listagem "ativas" do Reclame Aqui não é cronológica: a passada de 25/09 17h leu reclamações de julho e agosto, e várias ofertas "persistentes" são a mesma reclamação relida ([[lumi-ai]] não teve reclamação nova desde 20/08). Nenhuma das 41 notas novas tem `dias_no_ar` ou criativos medidos, então `s_lucro` ficou no piso conservador e `s_replica`/`s_saturacao` em 0 (sentinela). 15 notas estão com `checkout: desconhecido` porque a passada de Kiwify/Hotmart não separou os dois. A passada de 26/09 22h15 não coletou nada.
-
----
-
-## Leitura anterior — 2026-09-11 · parentalidade, TEA e TDAH (rodada dirigida)
-
-**Rodada dirigida: 7 novas ofertas, 3 revisitadas e 10 snapshots.** Relatório: [[2026-09-11]].
-
-Prioridades por aderência: [[31-segredos-pais-tdah]] para TDAH e escola; [[tdah-tod-paula-frati]] para conflitos familiares; [[autismo-para-pais-lacerda]] para organização parental; [[meu-filho-e-unico-horleana]] e [[parentalidade-atipica-sarah-hayden]] para TEA + TDAH.
-
-[[tea-sem-crise]] tem quatro anúncios ativos observados, pelo menos três vídeos distintos e anúncio desde 12/08; frente capturada em R$71. Os dois kits Só Escola responderam nesta consulta, por R$47 (TDAH) e R$37 (autismo). Não são manuais de parentalidade.
-
-A Biblioteca de Anúncios funcionou nesta rodada. Ainda faltam métricas de tráfego para a maioria das ofertas; lucro não foi medido. **Scores e decisões automáticas nas Bases abaixo continuam provisórios quando faltam dados.** As outras ofertas não foram reclassificadas por falta de cobertura.
 
 ---
 
