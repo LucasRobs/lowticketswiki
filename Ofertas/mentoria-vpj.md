@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-04
-rodadas_vista: 3
+visto_ultimo: 2026-10-05
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/eduzz/
 1 mencao(oes) nesta varredura (gateway Eduzz). Mentoria empresarial individual vendida por VPJ Treinamentos Ltda. Cliente reclama de falta de acompanhamento personalizado prometido. Ticket alto, não é low ticket, mas aparece no mesmo gateway.
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/falta-de-acompanhamento-e-recusa-de-reembolso-proporcional-na-mentoria-vpj_oohuOBdvFjY8kMlI/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Reconfirmado, falta de acompanhamento e recusa de reembolso proporcional.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/eduzz/lista-reclamacoes/?pagina=1

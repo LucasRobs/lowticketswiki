@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Eduzz). Primeira aparicao, evidencia fraca: a Eduzz respondeu a reclamacao dizendo nao localizar compra ou cadastro para os dados informados, ou seja, nao ha confirmacao de que a transacao existiu. Mantido como fria/baixa confianca.
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Reconfirmado (evidencia ainda fraca): curso online nao correspondeu as promessas de acesso vitalicio, reembolso perdido por prazo.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/cobranca-e-propaganda-enganosa-em-curso-online_SJTfkKj_MUjJ2s9m/
