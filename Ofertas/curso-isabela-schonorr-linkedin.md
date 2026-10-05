@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). 2a aparição - cancelamento e estorno solicitado.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/solicito-cancelamento-e-estorno-do-curso-isabela-schonorr_F5imp0Art8q2I8xs/

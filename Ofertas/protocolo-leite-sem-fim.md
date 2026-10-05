@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-04
-rodadas_vista: 2
+visto_ultimo: 2026-10-05
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Ticto). Primeira aparicao no radar (gateway Ticto, maior intervalo sem varredura). Protocolo de amamentacao vendido pela produtora Momento Materno, propaganda enganosa citada explicitamente, resolvido com reembolso.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente (última vez Ticto varrido 04/10) - vendedor Momento Materno, propaganda enganosa sobre protocolo de aumento de leite materno.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/

@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 2 mencao(oes) nesta varredura (gateway Hotmart). Segunda mencao no mesmo dia, reconfirmado em dias diferentes. Programa de exercicios para romper ciclo de dor, reembolso em andamento.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/demora-na-analise-e-solucao-de-pedido-de-reembolso-para-programa-de-exercicios_VLyWZs7tozZo16ch/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado com nome - era tratado como ângulo sem marca na rodada anterior (programa de exercícios/dor lombar), agora confirmado.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/demora-na-analise-e-solucao-de-pedido-de-reembolso-para-programa-de-exercicios_VLyWZs7tozZo16ch/

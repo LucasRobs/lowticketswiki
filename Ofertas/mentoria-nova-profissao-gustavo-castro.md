@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado em dia diferente - produtor Gustavo de Castro, produto digital hospedado na Cakto, sem valor informado.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-produto-digital-e-falta-de-atendimento_PyKKpa8n4z7IKKK-/
