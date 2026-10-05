@@ -31,10 +31,10 @@
   "s_lucro": 3,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-04",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-05",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "monetizze"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-04",
+  "ra_checado": "2026-10-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -65,14 +65,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "monetizze"
   ]
  },
- "corpo": "# Manual do Milhão + Lasy IA\n\n## Angulo\nDois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.\n\n## Funil\nanuncio -> pagina -> checkout monetizze -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/\n\n## Historico\n",
+ "corpo": "# Manual do Milhão + Lasy IA\n\n## Angulo\nDois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.\n\n## Funil\nanuncio -> pagina -> checkout monetizze -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway Monetizze). Curso 'Manual do Milhão' vendido em bundle com a ferramenta de IA 'Lasy IA', sem nota fiscal. Duas reclamações distintas no mesmo dia (uma citando o vendedor 'RP Consultoria Treinamento e Educação'), indício de clone/reclamação coordenada. Primeira aparição no radar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -85,9 +84,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta."
+  },
+  {
+   "data": "2026-10-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. Curso 'Manual do Milhão' vendido em bundle com a ferramenta de IA 'Lasy IA', sem nota fiscal. Duas reclamações distintas no mesmo dia (uma citando o vendedor 'RP Consultoria Treinamento e Educação'), indício de clone/reclamação coordenada. Primeira aparição no radar."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-05.md",
+   "data": "2026-10-05",
+   "titulo": "Radar 2026-10-05"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-04.md",

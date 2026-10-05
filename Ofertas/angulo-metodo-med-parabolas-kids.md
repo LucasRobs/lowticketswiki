@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-metodo-med-parabolas-kids"
-gateways_detectados: [kiwify]
+gateways_detectados: [kiwify, cakto]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [kiwify]
+ra_plataformas: [kiwify, cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar

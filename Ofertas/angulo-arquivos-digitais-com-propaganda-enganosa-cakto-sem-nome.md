@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-arquivos-digitais-com-propaganda-enganosa-cakto-sem-nome"
-gateways_detectados: []
+gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Cakto). Compra de 'vários arquivos' cujo conteúdo entregue não correspondia às imagens promocionais. Ângulo recorrente no gateway, sem marca confirmada.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/propaganda-enganosa-e-falta-de-suporte-em-compra-de-arquivos-digitais_HswKGBdf8ajvXtOL/

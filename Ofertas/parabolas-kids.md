@@ -24,22 +24,22 @@ s_ticket: 4
 s_lucro: 7
 s_replica: 9
 s_saturacao: 6
-status: morta
+status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-08-21
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/parabolas-kids"
-gateways_detectados: [kiwify]
+gateways_detectados: [kiwify, cakto]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [kiwify]
+ra_plataformas: [kiwify, cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-21
+ra_checado: 2026-10-05
 veredito: replicar
 prioridade: 2
 tags: [oferta, lowticket, marca, comportamento-infantil]
@@ -118,3 +118,9 @@ Checkouts distintos, parcelamentos distintos, ancoragens distintas. Nao e espelh
 redirect: sao **dois funis vivos rodando em paralelo**, o que so se faz com verba e
 intencao de medir. Confirma `s_lucro: 7` sem depender da Biblioteca de Anuncios.
 Garantia divergente tambem: 30 dias num, 7 dias no outro.
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Cakto). Material infantil/religioso vendido digitalmente, entregue em PDF quando a compradora não queria esse formato. Mesma reclamante do Método MED. Primeira aparição.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/produto-incorreto-entregue-e-sem-resposta-da-empresa-para-reembolso_r4ATmncBo1Cnl_3h/

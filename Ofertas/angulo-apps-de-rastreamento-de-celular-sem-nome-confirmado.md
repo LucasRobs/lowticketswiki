@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado"
-gateways_detectados: []
+gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: []
+ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Duas reclamações de rastreador de celular/informações de rastreamento pagas via Pix e não entregues. Mesmo cluster do Stalkeia/ZAP Radar, sem marca confirmada no texto.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-as-informacoes-do-rastreador-de-celular-que-paguei-e-quero-reembolso_82D8rZKfOAc1VDK4/
