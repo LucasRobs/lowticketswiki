@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-04
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria de 'Estratégia Digital' do produtor Anderson Pereira Seabra de Andrade. Mesmo valor (R$369,09) e mesmo produtor da reclamação registrada na passada anterior via Cakto - agora aparece também na Kiwify, confirmando operação multi-gateway. Reclama de aulas e suporte prometidos e não entregues.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-por-omissao-de-custos-adicionais-em-curso-online_sdLWbmNTCfplGLgF/

@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 231,
-  "angulos": 41,
-  "observacoes": 452,
+  "ofertas": 237,
+  "angulos": 42,
+  "observacoes": 459,
   "dias_radar": 25,
-  "passadas": 42,
+  "passadas": 43,
   "analises": 12,
   "ultima_rodada": "2026-10-04"
  },
@@ -1493,6 +1493,58 @@
    "ultima_obs": "2026-10-04",
    "n_citacoes": 1,
    "resumo": "Primeira mencao. Comprador diz ter recebido curso diferente do anunciado (tecnico em agricultura em vez do especifico comprado).",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
+   "nome": "Curso online com upsell 'pague para liberar/funcionar'",
+   "classe": "angulo",
+   "nicho": "ganhar-dinheiro-redes-sociais",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 3,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 50,
+   "s_ticket": 6,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.25,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20ganhar%20dinheiro%20redes%20sociais&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Duas reclamações sem nome de marca descrevem o mesmo mecanismo: pagamento inicial baixo seguido de cobranças extras para 'comprar seguidores' ou liberar o resultado prometido. Funil de order bump clássico do low ticket agressivo.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -5592,7 +5644,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fornecedores%20NFC&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "'Curso + Comunidade + Fornecedores NFC': acesso a comunidade + lista de fornecedores; entrega menor que o anunciado.",
    "flags": [
     "score-provisorio",
@@ -5650,7 +5702,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Raphael%20Mancini%20curso%20loja%20virtual&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Curso de loja virtual/dropshipping que exige instalar apps extras não divulgados na venda — cada instalação gera comissão extra pro produtor. Mecânica de monetização escondida vale estudar.",
    "flags": [
     "score-provisorio",
@@ -7706,6 +7758,61 @@
    ]
   },
   {
+   "slug": "gold-card-tv",
+   "nome": "Gold Card TV",
+   "classe": "oferta",
+   "nicho": "streaming-iptv",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "braip",
+   "gateways": [
+    "braip"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gold%20Card%20TV&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Serviço de streaming/IPTV, falta de suporte e atraso no reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "google-captcha-tw",
    "nome": "Google Captcha (TW Empreendimentos Digitais)",
    "classe": "oferta",
@@ -8528,7 +8635,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=IA%20Play%20Academy&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Curso vendido via Kiwify sobre IA; reembolso dentro do prazo de 7 dias não foi processado no tempo prometido.",
    "flags": [
     "score-provisorio",
@@ -9036,6 +9143,61 @@
    ]
   },
   {
+   "slug": "kit-hevovix",
+   "nome": "Kit Hevovix",
+   "classe": "oferta",
+   "nicho": "saude-estetica",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "braip",
+   "gateways": [
+    "braip"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hevovix&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Produto de encapsulado/saúde, não recebido após pagamento via Pix. Reclamação removida da página, nome confirmado só pela URL.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "kit-mundinho-de-papel",
    "nome": "Kit Mundinho de Papel",
    "classe": "oferta",
@@ -9532,6 +9694,61 @@
    ]
   },
   {
+   "slug": "livros-de-culinaria-chef-luana",
+   "nome": "Livros de Culinária (Chef Luana)",
+   "classe": "oferta",
+   "nicho": "culinaria-receitas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chef%20Luana&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "E-books/livros de culinária vendidos por influenciadora, sem acesso/resposta após compra.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "loopyz",
    "nome": "Loopyz",
    "classe": "oferta",
@@ -9580,7 +9797,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
    "n_obs": 5,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 11,
+   "n_citacoes": 12,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -9855,7 +10072,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lumi%20ai&search_type=keyword_unordered&media_type=all",
    "n_obs": 9,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 22,
+   "n_citacoes": 23,
    "resumo": "Plataforma de pagamento eletrônico. Cliente contrata por R$ 1.189,57 (12x), percebe que não atende necessidades, cobra para cancelamento dentro do prazo.",
    "flags": [
     "score-provisorio",
@@ -10080,6 +10297,61 @@
    "ultima_obs": "2026-10-04",
    "n_citacoes": 1,
    "resumo": "Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "maquina-de-viralizacao-inteligente-content-machine-5-5",
+   "nome": "Máquina de Viralização Inteligente / Content Machine 5.5",
+   "classe": "oferta",
+   "nicho": "ferramenta-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 97,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 167.3,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Content%20Machine&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Dois produtos do mesmo produtor BRANDS DECODED LTDA vendidos na mesma compra (ferramenta de criação de conteúdo viral/headlines). Reclamação por atraso no reembolso e baixa qualidade do produto.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -11131,7 +11403,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=rendafini%20moldes&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Primeira aparicao. Produto digital de moldes de artesanato vendido por 'rendafini'; comprador recebeu conteudo diferente do anunciado na oferta. Reembolso total foi aprovado pela PerfectPay. Classico low ticket de artesanato/PDF.",
    "flags": [
     "score-provisorio",
@@ -11407,7 +11679,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MS%20Green%20Premium&search_type=keyword_unordered&media_type=all",
    "n_obs": 11,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 23,
+   "n_citacoes": 24,
    "resumo": "Suplemento (provavel emagrecimento/saude), formato fisico — entrega logistica, nao digital.",
    "flags": [
     "score-provisorio",
@@ -12355,6 +12627,61 @@
     "sem-longevidade",
     "checkout-desconhecido",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "poptv",
+   "nome": "POPTV",
+   "classe": "oferta",
+   "nicho": "streaming-iptv",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "braip",
+   "gateways": [
+    "braip"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 147,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 147,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=POPTV&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Serviço de streaming/IPTV operado por VSHP Serviços LTDA, estorno não respondido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -13474,6 +13801,61 @@
    ]
   },
   {
+   "slug": "sistema-b2drop",
+   "nome": "Sistema B2Drop",
+   "classe": "oferta",
+   "nicho": "ecommerce-dropshipping",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "braip",
+   "gateways": [
+    "braip"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-04",
+   "visto_ultimo": "2026-10-04",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-04",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=B2Drop&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-04",
+   "n_citacoes": 1,
+   "resumo": "Sistema de dropshipping/assinatura, reembolso não recebido. Reclamação removida, nome confirmado só pelo título/URL.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "sistema-de-fornecedores-ocultos-marcelle-martins",
    "nome": "Sistema de Fornecedores Ocultos (Marcelle Martins)",
    "classe": "oferta",
@@ -13689,7 +14071,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 24,
+   "n_citacoes": 25,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -15022,7 +15404,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-10-04",
-   "n_citacoes": 23,
+   "n_citacoes": 24,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -15092,11 +15474,12 @@
    "arquivo": "Radar/2026-10-04.md",
    "data": "2026-10-04",
    "titulo": "Radar 2026-10-04",
-   "ofertas_vistas": 84,
-   "novas": 56,
+   "ofertas_vistas": 91,
+   "novas": 63,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "eduzz",
     "hotmart",
@@ -15107,7 +15490,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 8,
+   "n_passadas": 9,
    "leitura": ""
   },
   {
@@ -15505,6 +15888,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-04 -- 2151.md",
+   "data": "2026-10-04",
+   "hora": "21:51",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 80,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "curso-comunidade-fornecedores-nfc",
+    "curso-de-loja-virtual-raphael-mancini",
+    "ia-play-academy",
+    "loopyz",
+    "lumi-ai",
+    "moldes-para-artesanato-rendafini",
+    "ms-green-premium",
+    "stalkeia-ai",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 80 · Coleta: parcial · Achados: 20 ## Quentes stalkeia-ai (PerfectPay) - segue o achado mais recorrente, 3 mencoes na janela curta zap-radar (PerfectPay) - 2 mencoes…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-04 -- 1953.md",
    "data": "2026-10-04",
@@ -16421,8 +16831,8 @@
     "angulo": 3
    },
    "2026-10-04": {
-    "oferta": 45,
-    "angulo": 11
+    "oferta": 51,
+    "angulo": 12
    }
   },
   "observacoes": {
@@ -16449,7 +16859,7 @@
    "2026-09-29": 10,
    "2026-09-30": 13,
    "2026-10-03": 34,
-   "2026-10-04": 84
+   "2026-10-04": 91
   }
  },
  "analises": [
@@ -16578,6 +16988,24 @@
     "codigo": "vocabulario"
    },
    {
+    "arquivo": "Ofertas/gold-card-tv.md",
+    "campo": "checkout",
+    "msg": "checkout 'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/gold-card-tv.md",
+    "campo": "gateways_detectados",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/gold-card-tv.md",
+    "campo": "ra_plataformas",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/gospel-worship.md",
     "campo": "checkout",
     "msg": "checkout 'yampi' fora do vocabulario de gateway",
@@ -16600,6 +17028,24 @@
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
     "codigo": "regra-s_lucro"
+   },
+   {
+    "arquivo": "Ofertas/kit-hevovix.md",
+    "campo": "checkout",
+    "msg": "checkout 'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/kit-hevovix.md",
+    "campo": "gateways_detectados",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/kit-hevovix.md",
+    "campo": "ra_plataformas",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
    },
    {
     "arquivo": "Ofertas/lowify-app-historias.md",
@@ -16686,6 +17132,24 @@
     "codigo": "regra-s_lucro"
    },
    {
+    "arquivo": "Ofertas/poptv.md",
+    "campo": "checkout",
+    "msg": "checkout 'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/poptv.md",
+    "campo": "gateways_detectados",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/poptv.md",
+    "campo": "ra_plataformas",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/protocolo-de-reprogramacao-neural.md",
     "campo": "gateways_detectados",
     "msg": "'cakto-pay' fora do vocabulario de gateway",
@@ -16710,6 +17174,24 @@
     "codigo": "regra-s_lucro"
    },
    {
+    "arquivo": "Ofertas/sistema-b2drop.md",
+    "campo": "checkout",
+    "msg": "checkout 'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/sistema-b2drop.md",
+    "campo": "gateways_detectados",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/sistema-b2drop.md",
+    "campo": "ra_plataformas",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/stalkeia-ai.md",
     "campo": "s_lucro",
     "msg": "s_lucro 8 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -16731,56 +17213,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 14,
    "status-vencido": 1,
-   "vocabulario": 19
+   "vocabulario": 31
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 231
+    "total": 237
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 231
+    "total": 237
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 231
+    "total": 237
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 202,
-    "total": 231
+    "preenchidas": 208,
+    "total": 237
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 131,
-    "total": 231
+    "preenchidas": 133,
+    "total": 237
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 231
+    "total": 237
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 231
+    "total": 237
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 175,
-    "total": 231
+    "preenchidas": 181,
+    "total": 237
    }
   ],
   "fila_enriquecimento": [
@@ -16889,7 +17371,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 724
+   "canonico": 738
   }
  },
  "vocabulario": {
@@ -16936,22 +17418,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "616c4c0aebd2f4ce",
-  "atualizado_em": "2026-10-04T19:54:33-03:00",
-  "ofertas": 231,
-  "angulos": 41,
-  "observacoes": 452,
+  "hash": "d8d321f57a7de0be",
+  "atualizado_em": "2026-10-04T21:52:45-03:00",
+  "ofertas": 237,
+  "angulos": 42,
+  "observacoes": 459,
   "ultima_rodada": "2026-10-04",
   "ultima_passada": {
    "data": "2026-10-04",
-   "hora": "19:53",
+   "hora": "21:51",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "braip"
    ]
   }
  }
