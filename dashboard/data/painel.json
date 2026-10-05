@@ -346,7 +346,7 @@
    "classe": "oferta",
    "nicho": "material-pedagogico",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -392,8 +392,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2178,7 +2177,7 @@
    "visto_ultimo": "2026-10-05",
    "rodadas_vista": 6,
    "dias_no_ar": 54,
-   "criativos_ultima": 8,
+   "criativos_ultima": 16,
    "criativos_delta": 0,
    "ra_reclamacoes": 6,
    "ra_primeira_reclamacao": "2026-08-20",
@@ -2258,7 +2257,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -2304,8 +2303,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2394,14 +2392,14 @@
    "s_ticket": 6,
    "s_lucro": 8,
    "s_replica": 5,
-   "s_saturacao": 0,
-   "score": 5.5,
-   "decisao": "descartar",
+   "s_saturacao": 6,
+   "score": 6.4,
+   "decisao": "observar",
    "visto_primeiro": "2026-09-27",
    "visto_ultimo": "2026-10-05",
    "rodadas_vista": 2,
-   "dias_no_ar": 102,
-   "criativos_ultima": 8,
+   "dias_no_ar": 131,
+   "criativos_ultima": 33,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
@@ -2409,14 +2407,12 @@
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://artesanatoemvelas.com.br",
-   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Ateliê%20das%20Velas&search_type=keyword_unordered&media_type=all",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%22Carol%20a%20artes%C3%A3%22&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
    "n_citacoes": 3,
    "resumo": "Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).",
-   "flags": [
-    "score-provisorio"
-   ]
+   "flags": []
   },
   {
    "slug": "atleta-hibrido-victor-pareto",
@@ -2479,7 +2475,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-de-operacao",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -3030,7 +3026,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-trading",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -3076,8 +3072,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -3141,7 +3136,7 @@
    "classe": "oferta",
    "nicho": "material-pedagogico",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -3187,8 +3182,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -3530,7 +3524,7 @@
    "classe": "oferta",
    "nicho": "renda-celular-cashback",
    "sub_nicho": "cashback-pix",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "descartar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -4190,7 +4184,7 @@
    "classe": "oferta",
    "nicho": "educacao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -4236,8 +4230,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4469,7 +4462,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -4515,8 +4508,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6405,7 +6397,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -6451,8 +6443,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6733,7 +6724,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6779,8 +6770,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6840,7 +6830,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6886,8 +6876,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7283,7 +7272,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -7329,8 +7318,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8113,7 +8101,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -8161,8 +8149,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8284,7 +8271,7 @@
    "classe": "oferta",
    "nicho": "desenvolvimento-pessoal",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8330,8 +8317,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8340,7 +8326,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "mentorias-high-ticket",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8451,7 +8437,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "mentoria-profissional",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8563,7 +8549,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -8609,8 +8595,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8948,7 +8933,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -8994,8 +8979,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9390,7 +9374,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -9436,8 +9420,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9446,7 +9429,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -9492,8 +9475,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10558,7 +10540,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -10604,8 +10586,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11497,7 +11478,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -11543,8 +11524,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11608,7 +11588,7 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "cursos-culinarios",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -11849,7 +11829,7 @@
    ],
    "duracao_min": 0,
    "n_passadas": 2,
-   "leitura": "Complemento das 16h33 a rodada das 03:17. Duas leituras no mesmo dia: treino-trinca ganhou mais 2 IDs novos (31 para 33) e stalkeia-ai 3 (8 para 11), ambos de 05/10. Na Biblioteca, atelie-das-velas foi medido em ~33 anuncios e 131 dias e voltou de esfriando; app-do-paizao tem 8 anuncios novos em 03-04/10. Estreias: Frequencia de Cura Divida e Formula YouTube Viral, uma mencao cada."
+   "leitura": "Primeira rodada desde 02/10; as passadas 6x/dia nao gravaram nada no intervalo. Sinal forte so no treino-trinca: 14 reclamacoes com ID novo em tres dias (17 para 31) e a busca 'treino trinca' na Biblioteca foi de ~130 para ~230 resultados. zap-radar ganhou 3 e coramaflix-corama-tv 2. As 12 estreias tem uma mencao cada; so as Casinhas de Natal tem anuncio medido (desde 23/09). Complemento das 16h33 a rodada das…"
   },
   {
    "arquivo": "Radar/2026-10-02.md",
@@ -12973,7 +12953,7 @@
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
-    "preenchidas": 106,
+    "preenchidas": 107,
     "total": 188
    },
    {
@@ -13004,7 +12984,6 @@
    "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
-   "900-mapas-mentais",
    "academia-do-jejum",
    "aerobico-ritmado",
    "angulo-assinatura-com-cancelamento-bloqueado",
@@ -13015,13 +12994,10 @@
    "angulo-quiz-retrato-ia",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
-   "appluna-net",
    "autismo-para-pais-lacerda",
    "bolos-caseirinhos-saudaveis",
    "bonecas-papel-maria-criativa",
-   "boss-ia-trade",
    "brumdance-3em1",
-   "caderno-de-professor",
    "cae-course",
    "cantigas-da-bailarina",
    "casinha-dos-sonhos",
@@ -13029,8 +13005,6 @@
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
    "comunidade-influencers-ia-ascensao",
-   "comunidade-mvz",
-   "curso-comunidade-fornecedores-nfc",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-3-dias-copys-validadas",
@@ -13040,40 +13014,28 @@
    "fluency-english",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
-   "glow-mode",
    "h2jobs-full",
    "hap-2-0",
-   "ia-fx-promocional",
-   "instaunlocked",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
-   "knights-club",
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
-   "luna-ia",
-   "mdr-despertar-2-0",
-   "metodo-atlas",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "missa-em-atividades",
-   "modao-raiz",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
    "o-curso-do-mago",
-   "pack-produtos-validados-sistema-billion",
-   "painel-elite",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
-   "rpr-recomendacoes-personalizadas-remotas",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
-   "tutu-da-ju-assinatura",
-   "um-puxa-o-outro"
+   "tutu-da-ju-assinatura"
   ],
   "estilos_frontmatter": {
    "canonico": 557
@@ -13123,8 +13085,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "27331ef448a90d95",
-  "atualizado_em": "2026-10-05T16:33:57-03:00",
+  "hash": "c91ebae04adcded1",
+  "atualizado_em": "2026-10-05T16:36:33-03:00",
   "ofertas": 188,
   "angulos": 25,
   "observacoes": 344,

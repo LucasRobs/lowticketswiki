@@ -10,7 +10,7 @@ pais: BR
 plataforma_ads: [meta]
 checkout: kiwify
 url_pagina: "https://artesanatoemvelas.com.br"
-url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Ateliê%20das%20Velas&search_type=keyword_unordered&media_type=all"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%22Carol%20a%20artes%C3%A3%22&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 47
 ticket_bump: 0
@@ -23,13 +23,13 @@ tem_recorrencia: false
 s_ticket: 6
 s_lucro: 8
 s_replica: 5
-s_saturacao: 0
+s_saturacao: 6
 status: ativa
 visto_primeiro: 2026-09-27
 visto_ultimo: 2026-10-05
 rodadas_vista: 2
-dias_no_ar: 102
-criativos_ultima: 8
+dias_no_ar: 131
+criativos_ultima: 33
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/atelie-das-velas"
@@ -96,3 +96,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Kiwify). Avistada na Biblioteca, nao no RA. Busca 'Carol a artesã': ~33 anuncios ativos, o mais antigo carregado de 27/05/2026 (131 dias) e criativos novos em 17/09 e 26/09. Na busca 'velas artesanais' (~1.100 resultados, quase todos fornecedores de insumo) aparece um anuncio dela com inicio em 16/07/2024, nao confirmado. Concorrencia em pt-BR no infoproduto: Haromalita (Metodo Velas Aromaticas, desde 17/12/2025, '+4000 alunas'); 'curso de velas' e dominado por operadores em espanhol.
 
 Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%22Carol%20a%20artes%C3%A3%22&search_type=keyword_unordered&media_type=all
+
+## Medicao 2026-10-05 (rodada diaria, Biblioteca de Anuncios)
+- Busca pelo anunciante **"Carol a artesã"**: ~33 resultados, 26 carregados (Carol a artesã / Carol Artesã), inicios entre **27/05/2026** e **26/09/2026** → `dias_no_ar: 131` (limite inferior; o anuncio de 17/06 medido em 27/09 continua ativo). `criativos_ultima: 33` e linha de base nova: a busca de 27/09 foi por "Ateliê das Velas" (~8), entao **nao ha `criativos_delta` honesto** — fica 0.
+- Na busca larga "velas artesanais" um anuncio dela aparece com inicio em **16/07/2024**. Pode ser agrupamento de criativo ("4 ads use this creative"); nao foi usado como `dias_no_ar`.
+- `s_saturacao` 0 (sentinela) → **6**: "velas artesanais" devolve ~1.100 resultados, mas quase todos sao fornecedores de insumo (RPK Parafinas, Lojao das Velas, Vaporo) e lojas de vela pronta. Infoproduto em pt-BR visivel: Carol e **Haromalita** (Metodo Velas Aromaticas, desde 17/12/2025, "+4000 alunas"). "curso de velas" e dominado por operadores em espanhol (Inspira Velas Artesanales desde 09/10/2025, Angelyc's Workshop). So a primeira leva carregou.
+- `s_lucro` fica **8**: 131 dias medidos, mas a faixa 9-10 pede criativos subindo e a serie comparavel comeca hoje. Score 5,50 → **6,40** (observar). Status: estava `esfriando` por ausencia no RA; a Biblioteca mostra a oferta viva.
