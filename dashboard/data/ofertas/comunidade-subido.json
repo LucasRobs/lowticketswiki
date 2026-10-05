@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-04",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-05",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-04",
+  "ra_checado": "2026-10-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -65,14 +65,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "hotmart"
   ]
  },
- "corpo": "# Comunidade Subido\n\n## Angulo\nAssinatura de comunidade cobrada automaticamente; comprador não conseguiu cancelar nem pelo produtor nem pelo suporte Hotmart.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Assinatura de comunidade/mentoria com ticket bem acima do padrao low ticket do radar - reclamante quer cancelamento e estorno integral.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/\n",
+ "corpo": "# Comunidade Subido\n\n## Angulo\nAssinatura de comunidade cobrada automaticamente; comprador não conseguiu cancelar nem pelo produtor nem pelo suporte Hotmart.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Assinatura de comunidade/mentoria com ticket bem acima do padrao low ticket do radar - reclamante quer cancelamento e estorno integral.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Já tracked no vault; renovação automática de assinatura cobrada sem autorização, ticket alto (R$1.345,64) — reforça o ângulo de renovação indevida que já era recorrente no Hotmart.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-o-cancelamento-da-assinatura-comunidade-subido-e-estorno-de-r-134564_fOySBbDDfnn9cQQd/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -85,9 +84,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Assinatura de comunidade cobrada automaticamente; comprador não conseguiu cancelar nem pelo produtor nem pelo suporte Hotmart."
+  },
+  {
+   "data": "2026-10-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 1345.64,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Já tracked no vault; renovação automática de assinatura cobrada sem autorização, ticket alto (R$1.345,64) — reforça o ângulo de renovação indevida que já era recorrente no Hotmart."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-05.md",
+   "data": "2026-10-05",
+   "titulo": "Radar 2026-10-05"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-04 -- 1945.md",

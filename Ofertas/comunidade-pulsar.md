@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, achado so pelo titulo. Renovacao nao solicitada cobrada indevidamente.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-solicitei-renovacao-do-curso-comunidade-pulsar-e-fui-cobrada-indevidamente_d677O4FN2eZA-pTH/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Já tracked no vault; produtora Dra Juliana Franco, renovação automática cobrada por dois anos consecutivos sem consentimento explícito.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/nao-solicitei-renovacao-do-curso-comunidade-pulsar-e-fui-cobrada-indevidamente_d677O4FN2eZA-pTH/

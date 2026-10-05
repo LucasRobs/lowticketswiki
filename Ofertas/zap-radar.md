@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-04
-rodadas_vista: 12
+visto_ultimo: 2026-10-05
+rodadas_vista: 13
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 5
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -153,3 +153,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do
 2 mencao(oes) nesta varredura (gateway PerfectPay). App que promete monitorar WhatsApp de terceiros; pagamento via PerfectPay sem liberação de resultados. Reaparece de novo nesta passada confirmando o mesmo padrão de queixa dos rounds anteriores.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar_OoS-eZ01DAQS7Dyn/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App de rastreamento/busca por WhatsApp (whatsradar.com). Já tracked no vault; reconfirmado com valor exato R$97,09 nesta passada.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/

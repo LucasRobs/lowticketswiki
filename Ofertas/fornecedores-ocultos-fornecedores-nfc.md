@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/fornecedores-ocultos-fornecedores-nfc"
-gateways_detectados: [perfectpay]
+gateways_detectados: [perfectpay, perfectpay-kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [perfectpay]
+ra_plataformas: [perfectpay, perfectpay-kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+2 mencao(oes) nesta varredura (gateway PerfectPay, Kiwify). Cluster recorrente de cursos de dropshipping com 'lista de fornecedores ocultos'. Nesta passada: variante com produtora Marcelle Martins (Kiwify) e variante 'Curso + Comunidade + Fornecedores NFC' sem produtor identificado (PerfectPay). Mesmo padrão de oferta, múltiplos produtores/gateways — sinal de operação grande e replicada.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-sistema-de-fornecedores-ocultos_Cc1GBhG8hqVFybz0/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-04
-rodadas_vista: 2
+visto_ultimo: 2026-10-05
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Academia de cursos de IA. Atraso recorrente no reembolso; segue aparecendo passada após passada, sinal de tráfego constante.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso sobre ferramentas de IA. Já tracked no vault; reclamação de atraso no reembolso dentro do prazo de 7 dias.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-do-curso-ia-play-academy_kwHqjUxG9beuP-SL/

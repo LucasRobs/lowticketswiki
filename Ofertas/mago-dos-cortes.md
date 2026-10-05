@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Yampi). Primeira mencao. Titulo da reclamacao inclui alerta direto ('cuidado') ao produto, provavel curso de corte de cabelo/barba.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/mago-dos-cortes-editado-pelo-reclame-aqui-cuidado_LhMCVZfu6bQKn_fp/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Yampi). Curso de corte de cabelo/barbearia, ticket de entrada bem baixo (R$19,90). Título da reclamação já vem com aviso 'cuidado' de outro consumidor.
 
 Evidencia: https://www.reclameaqui.com.br/yampi/mago-dos-cortes-editado-pelo-reclame-aqui-cuidado_LhMCVZfu6bQKn_fp/

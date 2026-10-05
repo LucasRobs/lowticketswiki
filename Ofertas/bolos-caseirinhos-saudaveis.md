@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-04
-rodadas_vista: 2
+visto_ultimo: 2026-10-05
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Hotmart). Mesma professora de dois cursos de receitas/alimentação saudável; comprador relata cobrança não autorizada de um segundo curso parcelado, com falha no suporte da plataforma.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/cobranca-indevida-de-curso-nao-solicitado-e-falha-no-suporte-da-plataforma_ke3_YvNdxCHUuE_f/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Dois produtos da mesma 'professora' (receitas saudáveis + 'academia' de alimentação) cobrados em sequência, o segundo adicionado à fatura sem detalhamento claro de autorização.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/demora-na-analise-e-solucao-de-pedido-de-reembolso-para-programa-de-exercicios_VLyWZs7tozZo16ch/
