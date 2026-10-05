@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado: renovação automática da assinatura em 11/08/2026 sem autorização clara, cliente pede recusa de reembolso revertida. Produtor não identificado na reclamação.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/renovacao-automatica-e-recusa-de-reembolso-dentro-do-prazo-de-garantia_oTYTA3eN79-i3hqr/

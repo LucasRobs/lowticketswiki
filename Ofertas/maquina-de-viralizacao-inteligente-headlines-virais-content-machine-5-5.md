@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-04
-rodadas_vista: 2
+visto_ultimo: 2026-10-05
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-04
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Era mencao unica na passada anterior, reaparece hoje em dia diferente: upgrade pra quente. Vendedor Brands Decoded LTDA, garantia anunciada de 30 dias mas sistema aplicou so 7.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/
+
+## Rodada 2026-10-05
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado com detalhe novo: produtor BRANDS DECODED LTDA, duas transações no mesmo dia (23/07) somando R$334,60 — Máquina de Viralização R$237,60 + Headlines Virais/Content Machine 5.5 R$97. Reclamação por divergência na garantia anunciada.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/

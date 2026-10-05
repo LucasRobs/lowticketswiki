@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 245,
-  "angulos": 51,
-  "observacoes": 525,
+  "ofertas": 246,
+  "angulos": 53,
+  "observacoes": 529,
   "dias_radar": 26,
-  "passadas": 49,
+  "passadas": 50,
   "analises": 12,
   "ultima_rodada": "2026-10-05"
  },
@@ -835,6 +835,58 @@
    "ultima_obs": "2026-10-05",
    "n_citacoes": 1,
    "resumo": "Duas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-arquivos-digitais-com-fotos-divergentes-do-anunciado",
+   "nome": "Arquivos digitais com fotos divergentes do anunciado",
+   "classe": "angulo",
+   "nicho": "artesanato-e-pdf",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=receitas%20de%20artesanato%20pdf&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Propaganda enganosa: comprador recebeu arquivos que não correspondiam às fotos de produtos prontos mostradas no anúncio. Sem nome de marca, perfil típico de PDF/molde vendido na Cakto.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -1930,6 +1982,58 @@
    "ultima_obs": "2026-08-21",
    "n_citacoes": 8,
    "resumo": "O padrão estrutural mais valioso desta rodada.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
+   "nome": "Ebook/produto digital com erro de acesso (sem nome)",
+   "classe": "angulo",
+   "nicho": "material-pedagogico",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ebook%20digital%20não%20acessa&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Erro de acesso a ebook comprado na Kiwify, sem nome de produto revelado no texto.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -5018,7 +5122,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-05",
    "bump_oculto": false,
@@ -5027,7 +5131,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chef%20Luana%20receitas&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Primeira aparicao. E-books de culinaria vendidos em PDF; falha pontual de entrega resolvida em menos de uma hora pela produtora.",
    "flags": [
     "score-provisorio",
@@ -5913,7 +6017,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Congresso%20Salvador%20Humanamente&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
    "flags": [
     "score-provisorio",
@@ -6303,7 +6407,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20de%20Xadrez%20Luis%20Paulo%20Supi&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Curso de xadrez com renovação automática de assinatura não autorizada.",
    "flags": [
     "score-provisorio",
@@ -7078,7 +7182,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Desafio%20Pilates%20em%20Casa&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Desafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.",
    "flags": [
     "score-provisorio",
@@ -8909,7 +9013,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=H2Jobs&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -8965,7 +9069,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=HAP%202.0&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -10236,7 +10340,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Linflora&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Loja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG Comércio de Produtos Naturais Ltda.",
    "flags": [
     "score-provisorio",
@@ -10460,7 +10564,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
    "n_obs": 6,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 14,
+   "n_citacoes": 15,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -11054,21 +11158,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Maquina%20de%20Viralizacao%20Inteligente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 4,
    "resumo": "Vendido pela Brands Decoded Ltda. Anuncia garantia de 30 dias na página de vendas, mas o sistema de reembolso só aplica 7 dias — mecânica de garantia enganosa que vale vigiar.",
    "flags": [
     "score-provisorio",
@@ -11678,7 +11782,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Live%20Perpetua%20TikTok%20Shop&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Bundle de dois produtos de automação de live/TikTok Shop vendidos juntos; cliente diz que não correspondeu ao anunciado.",
    "flags": [
     "score-provisorio",
@@ -12732,7 +12836,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20do%20Mago&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -13345,7 +13449,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Blockcap%20Rumo%20ao%20Milhão&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Plano de 'carteira de investimentos/cripto' com renovação automática não autorizada mais de um ano após a compra original.",
    "flags": [
     "score-provisorio",
@@ -13901,6 +14005,61 @@
    "ultima_obs": "2026-10-05",
    "n_citacoes": 5,
    "resumo": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "protocolo-testosterona-2-0",
+   "nome": "Protocolo Testosterona 2.0",
+   "classe": "oferta",
+   "nicho": "saude-emagrecimento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Protocolo%20Testosterona&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Estreia nesta passada. Curso vendido como completo mas reclamante diz que faltam aulas ('CURSO ESTÁ INCOMPLETO'). Reembolso processado no mesmo dia pela Kiwify.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -14681,7 +14840,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.",
    "flags": [
     "score-provisorio",
@@ -15017,7 +15176,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 13,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 28,
+   "n_citacoes": 29,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -15404,7 +15563,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ThermaFit&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "App/produto de emagrecimento vendido sem liberar acesso nem instruções de uso.",
    "flags": [
     "score-provisorio",
@@ -16350,7 +16509,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 13,
    "ultima_obs": "2026-10-05",
-   "n_citacoes": 25,
+   "n_citacoes": 26,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -16420,8 +16579,8 @@
    "arquivo": "Radar/2026-10-05.md",
    "data": "2026-10-05",
    "titulo": "Radar 2026-10-05",
-   "ofertas_vistas": 66,
-   "novas": 17,
+   "ofertas_vistas": 70,
+   "novas": 20,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -16437,7 +16596,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 6,
+   "n_passadas": 7,
    "leitura": ""
   },
   {
@@ -16858,6 +17017,40 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1714.md",
+   "data": "2026-10-05",
+   "hora": "17:14",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "chef-luana-livros-de-culinaria",
+    "congresso-salvador-humanamente",
+    "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
+    "desafio-pilates-em-casa",
+    "h2jobs-full",
+    "hap-2-0",
+    "linflora",
+    "loopyz",
+    "maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5",
+    "metodo-live-perpetua-tiktok-shop-liveflow-ia",
+    "o-curso-do-mago",
+    "plano-carteira-rumo-ao-milhao-blockcap-llc",
+    "shopminer",
+    "stalkeia-ai",
+    "thermafit",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 15 · Coleta: parcial · Achados: 21 ## Quentes stalkeia-ai (PerfectPay) - reconfirmado, 4 pix pro dominio stalkeia.com zap-radar (PerfectPay) - reconfirmado, R$97,09, agora…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 1458.md",
    "data": "2026-10-05",
@@ -17921,8 +18114,8 @@
     "angulo": 12
    },
    "2026-10-05": {
-    "oferta": 8,
-    "angulo": 9
+    "oferta": 9,
+    "angulo": 11
    }
   },
   "observacoes": {
@@ -17950,7 +18143,7 @@
    "2026-09-30": 13,
    "2026-10-03": 34,
    "2026-10-04": 91,
-   "2026-10-05": 66
+   "2026-10-05": 70
   }
  },
  "analises": [
@@ -18341,49 +18534,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 245
+    "total": 246
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 245
+    "total": 246
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 245
+    "total": 246
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 216,
-    "total": 245
+    "preenchidas": 217,
+    "total": 246
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 135,
-    "total": 245
+    "total": 246
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 245
+    "total": 246
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 245
+    "total": 246
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 189,
-    "total": 245
+    "preenchidas": 190,
+    "total": 246
    }
   ],
   "fila_enriquecimento": [
@@ -18520,7 +18713,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 821
+   "canonico": 828
   }
  },
  "vocabulario": {
@@ -18567,22 +18760,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "107af6bd0646b513",
-  "atualizado_em": "2026-10-05T14:59:45-03:00",
-  "ofertas": 245,
-  "angulos": 51,
-  "observacoes": 525,
+  "hash": "5fe5772eb7e4c115",
+  "atualizado_em": "2026-10-05T17:20:54-03:00",
+  "ofertas": 246,
+  "angulos": 53,
+  "observacoes": 529,
   "ultima_rodada": "2026-10-05",
   "ultima_passada": {
    "data": "2026-10-05",
-   "hora": "14:58",
+   "hora": "17:14",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "payt"
    ]
   }
  }

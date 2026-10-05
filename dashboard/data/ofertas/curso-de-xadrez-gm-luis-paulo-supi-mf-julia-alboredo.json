@@ -71,7 +71,7 @@
    "hotmart"
   ]
  },
- "corpo": "# Curso de Xadrez (GM Luis Paulo Supi / MF Julia Alboredo)\n\n## Angulo\nCurso de xadrez com renovação automática de assinatura não autorizada.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/renovacao-automatica-nao-autorizada-de-assinatura_5LAdgFztcLeREx4k/\n\n## Historico\n",
+ "corpo": "# Curso de Xadrez (GM Luis Paulo Supi / MF Julia Alboredo)\n\n## Angulo\nCurso de xadrez com renovação automática de assinatura não autorizada.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/renovacao-automatica-nao-autorizada-de-assinatura_5LAdgFztcLeREx4k/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado: renovação automática da assinatura em 11/08/2026 sem autorização clara, cliente pede recusa de reembolso revertida. Produtor não identificado na reclamação.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/renovacao-automatica-e-recusa-de-reembolso-dentro-do-prazo-de-garantia_oTYTA3eN79-i3hqr/\n",
  "observacoes": [
   {
    "data": "2026-10-05",
@@ -87,6 +87,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1714.md",
+   "data": "2026-10-05",
+   "titulo": "Passada 2026-10-05 17:14"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",
