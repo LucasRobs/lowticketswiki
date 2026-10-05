@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-02
-rodadas_vista: 5
+visto_ultimo: 2026-10-05
+rodadas_vista: 6
 dias_no_ar: 50
 criativos_ultima: 91
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 17
+ra_reclamacoes: 31
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-02
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -138,3 +138,9 @@ Evidencia: https://www.reclameaqui.com.br/lastlink/quero-o-reembolso-do-programa
 17 mencao(oes) nesta varredura (gateway Lastlink). Cinco reclamacoes com ID novo em 01/10 (260567113, 260574045, 260577145, 260603667, 260606589), todas acima do maior ID de 27/09 (260143667). A 260606589 mostra a escada inteira: Desafio R$ 37 + programa R$ 220 + Plano Trinca/TF 1.000 R$ 997. Biblioteca em 02/10, busca 'treino trinca': ~130 resultados, so Pedro Lotz, mais antigo carregado 17/08, criativos novos ate 26/09 (busca diferente da de 27/09, nao serve para delta).
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (ID 260606589)
+
+## Rodada 2026-10-05
+
+31 mencao(oes) nesta varredura (gateway Lastlink). 14 reclamacoes com ID novo entre 02 e 04/10 nomeando o produto (260647273 a 260781237, todas acima de 260606589). Aparece a variante 'Treino Trinca Pink' (260705171) e o upsell 'Comunidade Trinca Elite' de R$ 237,78 que 'abate' a primeira compra (260735427). Biblioteca: busca 'treino trinca' foi de ~130 (02/10) para ~230 resultados, criativos novos ate 30/09.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (IDs 260781237, 260775619, 260765001, 260749927, 260735427, 260730863, 260715579, 260713755, 260713585, 260711997, 260705171, 260701265, 260654909, 260647273)

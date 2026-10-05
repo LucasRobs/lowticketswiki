@@ -64,7 +64,8 @@
   "decisao": "descartar",
   "flags": [
    "score-provisorio",
-   "sem-lp"
+   "sem-lp",
+   "status-vencido"
   ],
   "gateways": [
    "kiwify"

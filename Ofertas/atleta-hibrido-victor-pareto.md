@@ -1,16 +1,16 @@
 ---
 tipo: oferta
 classe: oferta
-slug: coramaflix-corama-tv
-nome: "Coramaflix (Corama TV)"
-nicho: streaming-e-acesso
+slug: atleta-hibrido-victor-pareto
+nome: "Atleta Híbrido (Victor Pareto)"
+nicho: saude-estetica-fitness
 sub_nicho: 
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
-checkout: lowify
+checkout: lastlink
 url_pagina: 
-url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Coramaflix&search_type=keyword_unordered&media_type=all"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=victor%20pareto%20atleta%20hibrido&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0
@@ -18,26 +18,26 @@ ticket_upsell: 0
 ticket_medio_est: 0
 margem_est: 0.8
 modelo: [direct]
-formato_entrega: [app]
+formato_entrega: []
 tem_recorrencia: false
 s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: ativa
-visto_primeiro: 2026-10-02
+status: nova
+visto_primeiro: 2026-10-05
 visto_ultimo: 2026-10-05
-rodadas_vista: 2
+rodadas_vista: 1
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta: "Ativos/coramaflix-corama-tv"
-gateways_detectados: [lowify]
+ativos_pasta: "Ativos/atleta-hibrido-victor-pareto"
+gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
-ra_plataformas: [lowify]
+ra_reclamacoes: 1
+ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar
@@ -45,13 +45,13 @@ prioridade: 0
 tags: [oferta, lowticket, marca]
 ---
 
-# Coramaflix (Corama TV)
+# Atleta Híbrido (Victor Pareto)
 
 ## Angulo
-App de doramas por mensalidade que cobra taxa extra por episodio depois do pagamento (260537633, 01/10). E o 'coramafix' que ficou como sinal fraco em 27/09. Na mesma lista da Lowify: Aura Play (novelinhas, 28/09) e 'Plano VIP de Minisseries' vitalicio a R$ 25,89 (28/09), mesmo cluster de streaming de micro-drama.
+Desafio de treino que precisa de compras adicionais para funcionar (260710615, 03/10). Mesmo gateway e mesma escada do Treino Trinca: desafio de entrada e programa vendido depois.
 
 ## Funil
-anuncio -> pagina -> checkout lowify -> ver evidencia.
+anuncio -> pagina -> checkout lastlink -> ver evidencia.
 
 ## Por que funciona
 <!-- preencher com leitura humana -->
@@ -60,11 +60,11 @@ anuncio -> pagina -> checkout lowify -> ver evidencia.
 <!-- preencher com leitura humana -->
 
 ## Estado dos dados
-- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-02 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
+- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
 - **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.
 - **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
 
-Evidencia: https://www.reclameaqui.com.br/lowify-tecnologia/lista-reclamacoes/ (ID 260537633)
+Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (ID 260710615)
 
 ## Historico
 ```base
@@ -85,9 +85,3 @@ views:
       - property: note.data
         direction: DESC
 ```
-
-## Rodada 2026-10-05
-
-3 mencao(oes) nesta varredura (gateway Lowify). Duas reclamacoes novas (260652007 e 260723745, 02 e 03/10) repetem a mecanica: depois da assinatura, o app exige outras compras para liberar o conteudo.
-
-Evidencia: https://www.reclameaqui.com.br/lowify-tecnologia/lista-reclamacoes/ (IDs 260652007, 260723745)

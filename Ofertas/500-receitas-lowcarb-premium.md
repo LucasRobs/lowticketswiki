@@ -1,16 +1,16 @@
 ---
 tipo: oferta
 classe: oferta
-slug: coramaflix-corama-tv
-nome: "Coramaflix (Corama TV)"
-nicho: streaming-e-acesso
+slug: 500-receitas-lowcarb-premium
+nome: "500 Receitas Lowcarb Premium"
+nicho: emagrecimento
 sub_nicho: 
 idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
-checkout: lowify
+checkout: wiapy
 url_pagina: 
-url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Coramaflix&search_type=keyword_unordered&media_type=all"
+url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=500%20receitas%20lowcarb&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
 ticket_bump: 0
@@ -18,26 +18,26 @@ ticket_upsell: 0
 ticket_medio_est: 0
 margem_est: 0.8
 modelo: [direct]
-formato_entrega: [app]
+formato_entrega: []
 tem_recorrencia: false
 s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: ativa
-visto_primeiro: 2026-10-02
+status: nova
+visto_primeiro: 2026-10-05
 visto_ultimo: 2026-10-05
-rodadas_vista: 2
+rodadas_vista: 1
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta: "Ativos/coramaflix-corama-tv"
-gateways_detectados: [lowify]
+ativos_pasta: "Ativos/500-receitas-lowcarb-premium"
+gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
-ra_plataformas: [lowify]
+ra_reclamacoes: 1
+ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar
@@ -45,13 +45,13 @@ prioridade: 0
 tags: [oferta, lowticket, marca]
 ---
 
-# Coramaflix (Corama TV)
+# 500 Receitas Lowcarb Premium
 
 ## Angulo
-App de doramas por mensalidade que cobra taxa extra por episodio depois do pagamento (260537633, 01/10). E o 'coramafix' que ficou como sinal fraco em 27/09. Na mesma lista da Lowify: Aura Play (novelinhas, 28/09) e 'Plano VIP de Minisseries' vitalicio a R$ 25,89 (28/09), mesmo cluster de streaming de micro-drama.
+Ebook de receitas low carb; a compradora diz que o conteudo foi gerado por IA, com bolo de chocolate levando alho e cebola (260763527, 04/10).
 
 ## Funil
-anuncio -> pagina -> checkout lowify -> ver evidencia.
+anuncio -> pagina -> checkout wiapy -> ver evidencia.
 
 ## Por que funciona
 <!-- preencher com leitura humana -->
@@ -60,11 +60,11 @@ anuncio -> pagina -> checkout lowify -> ver evidencia.
 <!-- preencher com leitura humana -->
 
 ## Estado dos dados
-- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-02 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
+- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
 - **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.
 - **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
 
-Evidencia: https://www.reclameaqui.com.br/lowify-tecnologia/lista-reclamacoes/ (ID 260537633)
+Evidencia: https://www.reclameaqui.com.br/wiapy/lista-reclamacoes/ (ID 260763527)
 
 ## Historico
 ```base
@@ -85,9 +85,3 @@ views:
       - property: note.data
         direction: DESC
 ```
-
-## Rodada 2026-10-05
-
-3 mencao(oes) nesta varredura (gateway Lowify). Duas reclamacoes novas (260652007 e 260723745, 02 e 03/10) repetem a mecanica: depois da assinatura, o app exige outras compras para liberar o conteudo.
-
-Evidencia: https://www.reclameaqui.com.br/lowify-tecnologia/lista-reclamacoes/ (IDs 260652007, 260723745)
