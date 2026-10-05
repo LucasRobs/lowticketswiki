@@ -16,7 +16,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -457,7 +457,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -502,8 +502,7 @@
    "resumo": "Perfil de achadinhos (comenta 'eu quero' e recebe o link) que vende 'Treinamento da Ellen' (R$ 67, vendedor Lucas Caiafa) e o 'Grupo dos Achados da Ellen 3' por assinatura em Pix automatico (R$ 49,90). Duas reclamacoes em 01/10 (260601503, 260601331)…",
    "flags": [
     "score-provisorio",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2370,7 +2369,7 @@
    "classe": "oferta",
    "nicho": "artesanato",
    "sub_nicho": "velas-artesanais",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2647,7 +2646,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -4691,7 +4690,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -4737,8 +4736,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5078,7 +5076,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -5245,7 +5243,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -5854,7 +5852,7 @@
    "classe": "oferta",
    "nicho": "streaming-e-acesso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -6866,16 +6864,16 @@
    "ticket_upsell": 0,
    "ticket_medio_est": 0,
    "s_ticket": 0,
-   "s_lucro": 2,
+   "s_lucro": 3,
    "s_replica": 0,
    "s_saturacao": 0,
-   "score": 0.7,
+   "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
    "visto_ultimo": "2026-10-05",
    "rodadas_vista": 1,
-   "dias_no_ar": 0,
-   "criativos_ultima": 0,
+   "dias_no_ar": 12,
+   "criativos_ultima": 2,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
@@ -6890,7 +6888,6 @@
    "resumo": "Kit digital de +80 casinhas de Natal para imprimir, recortar e montar. Na Biblioteca, o anunciante Denis Sah esta no ar desde 23/09 com 2 anuncios. A reclamacao 260786429 (04/10) diz que o arquivo chega mas faltam instrucoes e partes. Produto sazonal do…",
    "flags": [
     "score-provisorio",
-    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -7894,7 +7891,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -8120,7 +8117,7 @@
    "classe": "oferta",
    "nicho": "pet",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -8512,7 +8509,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -9947,7 +9944,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -10562,7 +10559,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10608,8 +10605,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10618,7 +10614,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10664,8 +10660,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11093,9 +11088,9 @@
    "visto_primeiro": "2026-08-16",
    "visto_ultimo": "2026-10-05",
    "rodadas_vista": 6,
-   "dias_no_ar": 50,
-   "criativos_ultima": 91,
-   "criativos_delta": 0,
+   "dias_no_ar": 58,
+   "criativos_ultima": 230,
+   "criativos_delta": 100,
    "ra_reclamacoes": 31,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-05",
@@ -12808,13 +12803,13 @@
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
-    "preenchidas": 62,
+    "preenchidas": 63,
     "total": 186
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
-    "preenchidas": 29,
+    "preenchidas": 30,
     "total": 186
    },
    {
@@ -12877,7 +12872,6 @@
    "31-segredos-pais-tdah",
    "900-mapas-mentais",
    "academia-do-jejum",
-   "achados-da-ellen",
    "aerobico-ritmado",
    "angulo-assinatura-com-cancelamento-bloqueado",
    "angulo-bonecas-de-papel-imprimivel",
@@ -12905,7 +12899,6 @@
    "curso-comunidade-fornecedores-nfc",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
-   "date-nights-cristao",
    "desafio-3-dias-copys-validadas",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
@@ -12942,8 +12935,6 @@
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "rpr-recomendacoes-personalizadas-remotas",
-   "serbene",
-   "seu-curso-viral-em-1-dia-scv",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
@@ -12998,8 +12989,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "1eac3dd42f7238d7",
-  "atualizado_em": "2026-10-05T03:18:43-03:00",
+  "hash": "086c3e84f38a5aaa",
+  "atualizado_em": "2026-10-05T03:19:54-03:00",
   "ofertas": 186,
   "angulos": 25,
   "observacoes": 340,

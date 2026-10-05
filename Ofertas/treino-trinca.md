@@ -28,9 +28,9 @@ status: ativa
 visto_primeiro: 2026-08-16
 visto_ultimo: 2026-10-05
 rodadas_vista: 6
-dias_no_ar: 50
-criativos_ultima: 91
-criativos_delta: 0
+dias_no_ar: 58
+criativos_ultima: 230
+criativos_delta: 100
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
@@ -144,3 +144,7 @@ Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (ID 260606
 31 mencao(oes) nesta varredura (gateway Lastlink). 14 reclamacoes com ID novo entre 02 e 04/10 nomeando o produto (260647273 a 260781237, todas acima de 260606589). Aparece a variante 'Treino Trinca Pink' (260705171) e o upsell 'Comunidade Trinca Elite' de R$ 237,78 que 'abate' a primeira compra (260735427). Biblioteca: busca 'treino trinca' foi de ~130 (02/10) para ~230 resultados, criativos novos ate 30/09.
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (IDs 260781237, 260775619, 260765001, 260749927, 260735427, 260730863, 260715579, 260713755, 260713585, 260711997, 260705171, 260701265, 260654909, 260647273)
+
+## Medicao 2026-10-05 (rodada diaria, Biblioteca de Anuncios)
+
+Mesma busca de 02/10 ("treino trinca", ativos, BR): **~230 resultados contra ~130**. Das 29 primeiras carregadas, 28 sao de Pedro Lotz, com inicios entre 22/08 e 30/09. `criativos_ultima: 230` e `criativos_delta: 100` comparam com os ~130 da mesma busca em 02/10, e nao com os 91 gravados em 27/09, que vinham de outra busca. `dias_no_ar: 58` conta a partir de 08/08, o anuncio mais antigo medido em 27/09, e continua sendo limite inferior. `s_lucro` continua 8: esta na faixa de 45-90 dias, e a faixa 9-10 pede 90 dias ou mais.

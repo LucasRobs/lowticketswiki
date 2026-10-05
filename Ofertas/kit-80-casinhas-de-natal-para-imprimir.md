@@ -21,15 +21,15 @@ modelo: [direct]
 formato_entrega: []
 tem_recorrencia: false
 s_ticket: 0
-s_lucro: 2
+s_lucro: 3
 s_replica: 0
 s_saturacao: 0
 status: nova
 visto_primeiro: 2026-10-05
 visto_ultimo: 2026-10-05
 rodadas_vista: 1
-dias_no_ar: 0
-criativos_ultima: 0
+dias_no_ar: 12
+criativos_ultima: 2
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/kit-80-casinhas-de-natal-para-imprimir"
@@ -85,3 +85,7 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Medicao 2026-10-05 (Biblioteca de Anuncios)
+
+A busca "casinhas de natal" devolve ~110 resultados, quase todos de decoracao fisica e tecido. O infoproduto aparece em **Denis Sah**: 2 anuncios com o mesmo criativo, no ar desde **23/09** (12 dias). O texto diz "+80 modelos, arquivos prontos para imprimir, 100% digital". `s_lucro: 3` corresponde a faixa de 7-20 dias com poucos criativos. Ha um irmao provavel na Ateliê Lulu Arts (`site.acmprodutosdigitais.com`, desde 21/09), que nao foi aberto. Encosta no cluster de papel/imprimivel ([[kit-mundinho-de-papel]], [[bonecas-papel-maria-criativa]]). E a versao sazonal desse cluster, com prazo de validade ate dezembro.
