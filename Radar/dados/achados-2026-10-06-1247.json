@@ -1,0 +1,19 @@
+{
+  "data_varredura": "2026-10-06",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 16},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 16},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3963, "paginas_varridas": 16},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5647, "paginas_varridas": 16},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 490, "paginas_varridas": 30}
+  ],
+  "achados": [],
+  "passada": {
+    "hora": "12:47",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 94,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- nenhum\n\n## Mornas\n- nenhuma\n\n## Frias\n- nenhum achado novo\n\nLeitura: janela de ~2h19 (ultima passada 10:28, esta 12:47). ReclameAqui manteve a mesma instabilidade das passadas anteriores: na maioria das paginas pedidas (perfectpay, cakto-pay, kiwify, hotmart: 16 cada; braip, rotativo, 30), so um punhado respondeu com dados reais - o resto voltou '0 de 0'. E as paginas que responderam trouxeram exatamente as mesmas reclamacoes ja catalogadas no vault hoje, com as mesmas URLs (IA do Futuro, Evoluft, H2Jobs Full, O Curso do MAGO, Desafio Pilates em Casa, Sistema B2Drop, Kit Hevovix, POPTV, Gold Card TV, alem de Stalkea AI, Stalke.ai, Boss IA Trade, ZAP RADAR, HAP 2.0, Direct Line, Frequencia DaVinci - todas ja registradas). Nenhuma reclamacao nova confirmada nesta passada, por isso achados ficou vazio. Esta e a terceira passada consecutiva hoje (08:24/08:25, 10:28, agora 12:47) com o mesmo padrao de paginacao retornando resultados identicos e antigos - sinal de que a listagem do ReclameAqui pode estar servindo cache estagnado para este agente ha pelo menos ~4h20, nao necessariamente de queda real no volume de reclamacoes.",
+    "resumo": "Sem achado novo - ReclameAqui repetiu as mesmas reclamacoes de passadas anteriores pela 3a vez consecutiva hoje, sinal de possivel cache estagnado na listagem."
+  }
+}
