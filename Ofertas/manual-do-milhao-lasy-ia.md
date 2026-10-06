@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-05
 
 2 mencao(oes) nesta varredura (gateway Monetizze). Curso 'Manual do Milhão' vendido em bundle com a ferramenta de IA 'Lasy IA', sem nota fiscal. Duas reclamações distintas no mesmo dia (uma citando o vendedor 'RP Consultoria Treinamento e Educação'), indício de clone/reclamação coordenada. Primeira aparição no radar.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/
+
+## Rodada 2026-10-06
+
+2 mencao(oes) nesta varredura (gateway Monetizze). Combo vendido pela RP Consultoria Treinamento e Educação: curso 'Manual do Milhão' junto com acesso à ferramenta de IA 'Lasy IA'. Duas reclamações com texto idêntico nesta passada, ambas dizendo que o produto não funciona.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/

@@ -31,10 +31,10 @@
   "s_lucro": 3,
   "s_replica": 3,
   "s_saturacao": 5,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-09-22",
-  "visto_ultimo": "2026-09-22",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-06",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-22",
+  "ra_checado": "2026-10-06",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -65,14 +65,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "perfectpay"
   ]
  },
- "corpo": "# BOSS IA TRADE\n\n## Angulo\nApp de \"IA de trading\" — promete operar/automatizar trades. Nicho de trading + IA, mesmo cluster de Luna IA e Trendy IA vistos em rodadas anteriores no Projeto Claude (não capturadas como notas individuais ainda).\n\n## Funil\nanuncio -> app -> cliente relata que app nao funciona, pede reembolso via Pix.\n\n## Por que funciona\nAinda nao avaliado — captura de hoje veio so do Reclame Aqui (Etapa 3), sem Biblioteca de Anuncios.\n\n## O que copiar / o que evitar\nRegistrar e observar. Nicho de trading tem risco regulatorio (CVM) — atencao no s_replica se confirmado.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout (PerfectPay), 2 mencoes em amostra parcial (15 paginas) de 22/09.\n- **Faltando:** dias no ar, criativos, ticket, pagina de vendas — nenhuma Etapa 1 (Biblioteca de Anuncios) rodou nesta captura. `s_lucro` no teto 6 conforme regra do Scoring.md (sem dias_no_ar).\n- **Nota de metodo:** esta captura usou a skill sincronizada `radar-low-ticket` (WebFetch por pagina, sem extracao de URL individual por reclamacao) — mais leve que o pipeline padrao do vault (`_meta/Pipeline.md`). Contagem de mencoes e estimativa por titulo, nao deduplicada por ID de reclamacao.\n\n## Historico\n",
+ "corpo": "# BOSS IA TRADE\n\n## Angulo\nApp de \"IA de trading\" — promete operar/automatizar trades. Nicho de trading + IA, mesmo cluster de Luna IA e Trendy IA vistos em rodadas anteriores no Projeto Claude (não capturadas como notas individuais ainda).\n\n## Funil\nanuncio -> app -> cliente relata que app nao funciona, pede reembolso via Pix.\n\n## Por que funciona\nAinda nao avaliado — captura de hoje veio so do Reclame Aqui (Etapa 3), sem Biblioteca de Anuncios.\n\n## O que copiar / o que evitar\nRegistrar e observar. Nicho de trading tem risco regulatorio (CVM) — atencao no s_replica se confirmado.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout (PerfectPay), 2 mencoes em amostra parcial (15 paginas) de 22/09.\n- **Faltando:** dias no ar, criativos, ticket, pagina de vendas — nenhuma Etapa 1 (Biblioteca de Anuncios) rodou nesta captura. `s_lucro` no teto 6 conforme regra do Scoring.md (sem dias_no_ar).\n- **Nota de metodo:** esta captura usou a skill sincronizada `radar-low-ticket` (WebFetch por pagina, sem extracao de URL individual por reclamacao) — mais leve que o pipeline padrao do vault (`_meta/Pipeline.md`). Contagem de mencoes e estimativa por titulo, nao deduplicada por ID de reclamacao.\n\n## Historico\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). App/curso de IA para trade. Comprador diz que pagou e nunca recebeu acesso ao produto; exige estorno. Compra registrada em 05/10/2026, estreia nesta passada.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-acesso-ao-produto-boss-ia-trade-e-exijo-estorno_MIbjua942zruM42N/\n",
  "observacoes": [
   {
    "data": "2026-09-22",
@@ -85,9 +84,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Estreia no vault. App de \"IA de trading\", 2 mencoes em PerfectPay — reclamacoes de app que nao funciona."
+  },
+  {
+   "data": "2026-10-06",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. App/curso de IA para trade. Comprador diz que pagou e nunca recebeu acesso ao produto; exige estorno. Compra registrada em 05/10/2026, estreia nesta passada."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-06.md",
+   "data": "2026-10-06",
+   "titulo": "Radar 2026-10-06"
+  },
   {
    "tipo": "analise",
    "arquivo": "Analises/2026-09-27 -- novidades-22-a-26-09.md",

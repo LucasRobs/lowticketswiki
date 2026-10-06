@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 248,
-  "angulos": 55,
-  "observacoes": 550,
+  "ofertas": 249,
+  "angulos": 58,
+  "observacoes": 556,
   "dias_radar": 27,
-  "passadas": 51,
+  "passadas": 52,
   "analises": 12,
   "ultima_rodada": "2026-10-06"
  },
@@ -1931,6 +1931,58 @@
    ]
   },
   {
+   "slug": "angulo-curso-de-velas-artesanais-persona-tia-rose",
+   "nome": "Curso de velas artesanais (persona 'Tia Rose')",
+   "classe": "angulo",
+   "nicho": "artesanato",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20velas%20artesanais&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Curso de velas artesanais anunciado no Instagram com a persona 'Tia Rose', mas entregue por outra instrutora (identificada como Cidinha) em vídeos curtos de baixa qualidade. Mesma mecânica de persona de vendas divergente da entrega vista em outros cursos de…",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
    "nome": "Curso online com upsell 'pague para liberar/funcionar'",
    "classe": "angulo",
@@ -2266,6 +2318,58 @@
    ]
   },
   {
+   "slug": "angulo-guia-digital-de-100-receitas-para-pets",
+   "nome": "Guia digital de 100 receitas para pets",
+   "classe": "angulo",
+   "nicho": "pets",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 30.89,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 30.89,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=receitas%20para%20pets%20guia%20digital&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Guia digital de receitas caseiras para pets vendido por anúncio patrocinado, R$30,89. Comprador recebeu material incompleto e de baixa qualidade, sem nome de vendedor identificado.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-material-pedagogico",
    "nome": "Material pedagogico e apostilas imprimiveis",
    "classe": "angulo",
@@ -2545,6 +2649,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-pacote-de-seguidores-para-instagram",
+   "nome": "Pacote de seguidores para Instagram",
+   "classe": "angulo",
+   "nicho": "redes-sociais-engajamento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 87,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 87,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=seguidores%20Instagram%20reais&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Venda de pacote de 500-700 'seguidores reais e brasileiros' para Instagram por R$87. Comprador diz não ter recebido nada. Ângulo clássico de growth-hacking/redes sociais.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -4316,7 +4472,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-trading",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -4343,27 +4499,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-22",
-   "visto_ultimo": "2026-09-22",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-22",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=BOSS%20IA%20TRADE&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-22",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "App de \"IA de trading\" — promete operar/automatizar trades. Nicho de trading + IA, mesmo cluster de Luna IA e Trendy IA vistos em rodadas anteriores no Projeto Claude (não capturadas como notas individuais ainda).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7640,6 +7795,63 @@
    "resumo": "A ponte entre PDF e video sem pagar o custo de uma area de membros. O produto e um PDF interativo com mais de 90 \"palavras\" (movimentos); cada verbete tem um QR Code que abre um video curto do movimento. O comprador imprime e coloca num fichario. Nao ha…",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "direct-line-app",
+   "nome": "Direct Line (app)",
+   "classe": "oferta",
+   "nicho": "app-assinatura",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -11278,21 +11490,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Manual%20do%20Milhão%20Lasy%20IA&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.",
    "flags": [
     "score-provisorio",
@@ -16814,19 +17026,20 @@
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
-   "ofertas_vistas": 21,
-   "novas": 4,
+   "ofertas_vistas": 27,
+   "novas": 8,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
     "hotmart",
     "kiwify",
+    "monetizze",
     "perfectpay",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -17271,6 +17484,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 0050.md",
+   "data": "2026-10-06",
+   "hora": "00:50",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 15 · Coleta: parcial · Achados: 6 ## Novidades desta passada Boss IA Trade (PerfectPay) - estreia, app/curso de trade com IA Manual do Milhao / Lasy IA (Monetizze) - 2…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 0019.md",
    "data": "2026-10-06",
@@ -18389,8 +18619,8 @@
     "angulo": 11
    },
    "2026-10-06": {
-    "oferta": 2,
-    "angulo": 2
+    "oferta": 3,
+    "angulo": 5
    }
   },
   "observacoes": {
@@ -18419,7 +18649,7 @@
    "2026-10-03": 34,
    "2026-10-04": 91,
    "2026-10-05": 70,
-   "2026-10-06": 21
+   "2026-10-06": 27
   }
  },
  "analises": [
@@ -18822,49 +19052,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 248
+    "total": 249
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 248
+    "total": 249
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 248
+    "total": 249
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 219,
-    "total": 248
+    "preenchidas": 220,
+    "total": 249
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 135,
-    "total": 248
+    "total": 249
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 248
+    "total": 249
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 248
+    "total": 249
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 192,
-    "total": 248
+    "preenchidas": 193,
+    "total": 249
    }
   ],
   "fila_enriquecimento": [
@@ -18930,7 +19160,6 @@
    "autismo-para-pais-lacerda",
    "bike-in-casa",
    "bonecas-papel-maria-criativa",
-   "boss-ia-trade",
    "brumdance-3em1",
    "caderno-de-professor",
    "cae-course",
@@ -19019,7 +19248,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 853
+   "canonico": 863
   }
  },
  "vocabulario": {
@@ -19066,22 +19295,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "a288fd9206bae890",
-  "atualizado_em": "2026-10-06T00:20:50-03:00",
-  "ofertas": 248,
-  "angulos": 55,
-  "observacoes": 550,
+  "hash": "00a14d6f8cb0031f",
+  "atualizado_em": "2026-10-06T00:56:52-03:00",
+  "ofertas": 249,
+  "angulos": 58,
+  "observacoes": 556,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {
    "data": "2026-10-06",
-   "hora": "00:19",
+   "hora": "00:50",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "monetizze"
    ]
   }
  }

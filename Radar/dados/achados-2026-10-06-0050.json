@@ -1,0 +1,92 @@
+{
+  "data_varredura": "2026-10-06",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 15},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3963, "paginas_varridas": 15},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5647, "paginas_varridas": 15},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 243, "paginas_varridas": 15}
+  ],
+  "achados": [
+    {
+      "produto": "Boss IA Trade",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "trade-investimentos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Boss IA Trade",
+      "descricao": "App/curso de IA para trade. Comprador diz que pagou e nunca recebeu acesso ao produto; exige estorno. Compra registrada em 05/10/2026, estreia nesta passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-acesso-ao-produto-boss-ia-trade-e-exijo-estorno_MIbjua942zruM42N/"
+    },
+    {
+      "produto": "Manual do Milhão / Lasy IA",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "renda-extra-ia",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "não informado",
+      "termo_busca": "Manual do Milhao Lasy IA",
+      "descricao": "Combo vendido pela RP Consultoria Treinamento e Educação: curso 'Manual do Milhão' junto com acesso à ferramenta de IA 'Lasy IA'. Duas reclamações com texto idêntico nesta passada, ambas dizendo que o produto não funciona.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Direct Line app",
+      "descricao": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/"
+    },
+    {
+      "produto": "Curso de velas artesanais (persona 'Tia Rose')",
+      "tipo": "angulo",
+      "gateway": "Monetizze",
+      "nicho": "artesanato",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "curso velas artesanais",
+      "descricao": "Curso de velas artesanais anunciado no Instagram com a persona 'Tia Rose', mas entregue por outra instrutora (identificada como Cidinha) em vídeos curtos de baixa qualidade. Mesma mecânica de persona de vendas divergente da entrega vista em outros cursos de artesanato/culinária do radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/propaganda-enganosa-sobre-curso-de-velas-artesanais-cliente-solicita-reembolso_14i1P_-QQbJyFHtr/"
+    },
+    {
+      "produto": "Pacote de seguidores para Instagram",
+      "tipo": "angulo",
+      "gateway": "Monetizze",
+      "nicho": "redes-sociais-engajamento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 87",
+      "termo_busca": "seguidores Instagram reais",
+      "descricao": "Venda de pacote de 500-700 'seguidores reais e brasileiros' para Instagram por R$87. Comprador diz não ter recebido nada. Ângulo clássico de growth-hacking/redes sociais.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/"
+    },
+    {
+      "produto": "Guia digital de 100 receitas para pets",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "pets",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 30,89",
+      "termo_busca": "receitas para pets guia digital",
+      "descricao": "Guia digital de receitas caseiras para pets vendido por anúncio patrocinado, R$30,89. Comprador recebeu material incompleto e de baixa qualidade, sem nome de vendedor identificado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-um-guia-digital-de-receitas-e-fui-enganado_OWfj_A-XikafwrHE/"
+    }
+  ],
+  "passada": {
+    "hora": "00:50",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "monetizze"],
+    "paginas": 15,
+    "coleta": "parcial",
+    "relatorio": "## Novidades desta passada\n- Boss IA Trade (PerfectPay) - estreia, app/curso de trade com IA\n- Manual do Milhao / Lasy IA (Monetizze) - 2 reclamacoes identicas, combo curso + ferramenta de IA que nao funciona\n- Direct Line (Cakto) - app por assinatura com bugs\n\n## Angulos novos\n- Curso de velas artesanais com persona fake 'Tia Rose' (Monetizze)\n- Pacote de seguidores Instagram R$87 (Monetizze)\n- Guia digital de receitas para pets R$30,89 (Cakto)\n\nLeitura: janela de apenas ~31min desde a ultima passada (06/10 00:19 -> 06/10 00:50), entao o topo das listagens de PerfectPay, Kiwify e Hotmart repetiu majoritariamente os mesmos achados ja registrados na rodada anterior (Stalkeia.ai, Zap Radar, IA do Futuro, Evoluft, H2Jobs Full, O Curso do Mago, Desafio Pilates em Casa, Congresso Salvador Humanamente, HAP 2.0) - nao foram re-contados aqui para nao inflar mencao/temperatura sem reclamacao nova confirmada. Gateway rotativo foi Monetizze, escolhido por estar ha mais tempo sem varredura (ultima vez 05/10 07:18). Instabilidade usual do ReclameAqui: das 15 paginas pedidas por gateway, a maioria voltou '0 de 0' por rate-limit, cobertura real concentrada em 2-4 paginas por gateway.",
+    "resumo": "Janela curta de 31min: 3 marcas novas (Boss IA Trade, Manual do Milhao/Lasy IA, Direct Line) e 3 angulos novos (velas artesanais com persona fake, seguidores Instagram, receitas pets); cluster quente da rodada anterior segue intacto."
+  }
+}

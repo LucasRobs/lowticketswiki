@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: []
 checkout: perfectpay
-url_pagina: ""
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=BOSS%20IA%20TRADE&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 3
 s_saturacao: 5
-status: nova
+status: ativa
 visto_primeiro: 2026-09-22
-visto_ultimo: 2026-09-22
-rodadas_vista: 1
+visto_ultimo: 2026-10-06
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,8 +38,8 @@ bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
-ra_primeira_reclamacao:
-ra_checado: 2026-09-22
+ra_primeira_reclamacao: 
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -83,3 +83,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App/curso de IA para trade. Comprador diz que pagou e nunca recebeu acesso ao produto; exige estorno. Compra registrada em 05/10/2026, estreia nesta passada.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-acesso-ao-produto-boss-ia-trade-e-exijo-estorno_MIbjua942zruM42N/
