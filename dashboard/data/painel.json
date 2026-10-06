@@ -2,7 +2,7 @@
  "esquema": 1,
  "totais": {
   "ofertas": 252,
-  "angulos": 59,
+  "angulos": 60,
   "observacoes": 568,
   "dias_radar": 27,
   "passadas": 54,
@@ -850,8 +850,7 @@
    "prioridade": 0,
    "checkout": "desconhecido",
    "gateways": [
-    "perfectpay",
-    "ticto"
+    "perfectpay"
    ],
    "plataforma_ads": [
     "meta"
@@ -873,20 +872,20 @@
    "score": 1.85,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=rastreador%20celular&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-06",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
    "n_citacoes": 2,
    "resumo": "Duas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto.",
    "flags": [
@@ -1819,6 +1818,60 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-curso-de-bateria-online-sem-nome",
+   "nome": "Curso de bateria online (sem nome)",
+   "classe": "angulo",
+   "nicho": "cursos-de-musica",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20bateria%20online&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 0,
+   "resumo": "Curso de bateria online vendido via Ticto, sem marca/vendedor identificado no texto da reclamação. Comprador pagou e, 4 dias depois, ainda não tinha recebido credenciais de acesso nem confirmação por e-mail.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -18878,7 +18931,7 @@
    },
    "2026-10-06": {
     "oferta": 6,
-    "angulo": 6
+    "angulo": 7
    }
   },
   "observacoes": {
@@ -19504,7 +19557,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 879
+   "canonico": 880
   }
  },
  "vocabulario": {
@@ -19551,10 +19604,10 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c0a04352b7ac95f6",
-  "atualizado_em": "2026-10-06T08:26:42-03:00",
+  "hash": "3ea22d610f7fa837",
+  "atualizado_em": "2026-10-06T08:29:09-03:00",
   "ofertas": 252,
-  "angulos": 59,
+  "angulos": 60,
   "observacoes": 568,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {

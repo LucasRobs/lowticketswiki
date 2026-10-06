@@ -26,20 +26,20 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-06
-rodadas_vista: 2
+visto_ultimo: 2026-10-05
+rodadas_vista: 1
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado"
-gateways_detectados: [perfectpay, ticto]
+gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [perfectpay, ticto]
+ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -92,8 +92,3 @@ views:
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-as-informacoes-do-rastreador-de-celular-que-paguei-e-quero-reembolso_82D8rZKfOAc1VDK4/
 
-## Rodada 2026-10-06
-
-1 mencao(oes) nesta varredura (gateway Ticto). Curso de bateria online vendido via Ticto. Comprador pagou e 4 dias depois ainda nao recebeu credenciais de acesso nem confirmacao por e-mail; sem resposta da empresa.
-
-Evidencia: https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/

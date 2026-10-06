@@ -1,13 +1,13 @@
 ---
 tipo: observacao
 data: 2026-10-06
-slug: angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado
-oferta: "[[angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado]]"
+slug: angulo-curso-de-bateria-online-sem-nome
+oferta: "[[angulo-curso-de-bateria-online-sem-nome]]"
 criativos_ativos: 0
 dias_no_ar: 0
 ticket_frente: 0
 preco_mudou: false
-angulo_novo: false
+angulo_novo: true
 fonte: reclame-aqui
 ra_reclamacoes: 1
 criativos_novos: 0

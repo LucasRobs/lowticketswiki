@@ -33,26 +33,24 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-05",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-05",
+  "rodadas_vista": 1,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado",
   "gateways_detectados": [
-   "perfectpay",
-   "ticto"
+   "perfectpay"
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 2,
   "ra_plataformas": [
-   "perfectpay",
-   "ticto"
+   "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -69,11 +67,10 @@
    "sem-lp"
   ],
   "gateways": [
-   "perfectpay",
-   "ticto"
+   "perfectpay"
   ]
  },
- "corpo": "# Apps de rastreamento de celular (sem nome confirmado)\n\n## Angulo\nDuas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fiz-varios-pagamentos-e-nao-recebi-o-servico-de-rastreamento_qSmcZT9snGfN4-CL/\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Duas reclamações de rastreador de celular/informações de rastreamento pagas via Pix e não entregues. Mesmo cluster do Stalkeia/ZAP Radar, sem marca confirmada no texto.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-as-informacoes-do-rastreador-de-celular-que-paguei-e-quero-reembolso_82D8rZKfOAc1VDK4/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Ticto). Curso de bateria online vendido via Ticto. Comprador pagou e 4 dias depois ainda nao recebeu credenciais de acesso nem confirmacao por e-mail; sem resposta da empresa.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/\n",
+ "corpo": "# Apps de rastreamento de celular (sem nome confirmado)\n\n## Angulo\nDuas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fiz-varios-pagamentos-e-nao-recebi-o-servico-de-rastreamento_qSmcZT9snGfN4-CL/\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Duas reclamações de rastreador de celular/informações de rastreamento pagas via Pix e não entregues. Mesmo cluster do Stalkeia/ZAP Radar, sem marca confirmada no texto.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-as-informacoes-do-rastreador-de-celular-que-paguei-e-quero-reembolso_82D8rZKfOAc1VDK4/\n",
  "observacoes": [
   {
    "data": "2026-10-05",
@@ -86,18 +83,6 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Duas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto."
-  },
-  {
-   "data": "2026-10-06",
-   "fonte": "reclame-aqui",
-   "ra_reclamacoes": 1,
-   "criativos_ativos": 0,
-   "criativos_novos": 0,
-   "dias_no_ar": 0,
-   "ticket_frente": 0,
-   "preco_mudou": false,
-   "angulo_novo": false,
-   "texto": "1 mencao(oes) na varredura de hoje. Curso de bateria online vendido via Ticto. Comprador pagou e 4 dias depois ainda nao recebeu credenciais de acesso nem confirmacao por e-mail; sem resposta da empresa."
   }
  ],
  "citacoes": [
