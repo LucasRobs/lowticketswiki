@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pila
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso de pilates adicionado à conta da cliente sem compra autorizada por ela (mesma professora de programa que ela já possuía). Ângulo de venda/upsell não consentido.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado mais uma vez - curso adicionado sem compra, pedido de cancelamento.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/

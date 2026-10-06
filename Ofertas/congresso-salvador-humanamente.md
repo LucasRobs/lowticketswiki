@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Evento presencial (19-20/09/2026) cancelado, comprador sem confirmacao de reembolso. Fora do perfil tipico low-ticket digital, mas mostra o mesmo gateway processando ticket de evento.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/reclamacao-sobre-cancelamento-do-congresso-salvador-humanamente-e-dificuldade-de-reembolso_KbdxGUJnvTUuiyAx/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado mais uma vez - cancelamento do congresso e dificuldade de reembolso.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/reclamacao-sobre-cancelamento-do-congresso-salvador-humanamente-e-dificuldade-de-reembolso_KbdxGUJnvTUuiyAx/

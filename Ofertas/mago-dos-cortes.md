@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/yampi/mago-dos-cortes-editado-pelo-rec
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Yampi). Curso de corte de cabelo/barbearia, ticket de entrada bem baixo (R$19,90). Título da reclamação já vem com aviso 'cuidado' de outro consumidor.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/mago-dos-cortes-editado-pelo-reclame-aqui-cuidado_LhMCVZfu6bQKn_fp/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Yampi). Curso/produto de corte de cabelo e barba vendido via anuncio no Facebook. Terceiro dia diferente de aparicao (04, 05 e agora 06/10) - sobe para quente. Reembolso negado pelo Mercado Pago mesmo dentro do prazo legal.
 
 Evidencia: https://www.reclameaqui.com.br/yampi/mago-dos-cortes-editado-pelo-reclame-aqui-cuidado_LhMCVZfu6bQKn_fp/

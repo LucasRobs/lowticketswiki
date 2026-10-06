@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-05
-rodadas_vista: 1
+visto_ultimo: 2026-10-06
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/mvr-daniel-fernandes"
-gateways_detectados: [hotmart]
+gateways_detectados: [hotmart, yampi]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [hotmart]
+ra_plataformas: [hotmart, yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Yampi). Curso vendido como atualizado mas com aulas de 2021. Terceiro dia diferente de aparicao (visto antes via Yampi 04/10 e Hotmart 05/10, agora de novo via Yampi) - multi-gateway, sobe para quente. Vendedor para de responder apos a venda.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/

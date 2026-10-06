@@ -33,26 +33,28 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-05",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-06",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/mvr-daniel-fernandes",
   "gateways_detectados": [
-   "hotmart"
+   "hotmart",
+   "yampi"
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 1,
   "ra_plataformas": [
-   "hotmart"
+   "hotmart",
+   "yampi"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-06",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -70,10 +72,11 @@
    "sem-lp"
   ],
   "gateways": [
-   "hotmart"
+   "hotmart",
+   "yampi"
   ]
  },
- "corpo": "# MVR (Daniel Fernandes)\n\n## Angulo\nCurso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-cancelar-e-obter-reembolso-de-curso-online-na-hotmart_EP9saAQVaeaVrpfC/\n\n## Historico\n",
+ "corpo": "# MVR (Daniel Fernandes)\n\n## Angulo\nCurso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-cancelar-e-obter-reembolso-de-curso-online-na-hotmart_EP9saAQVaeaVrpfC/\n\n## Historico\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Yampi). Curso vendido como atualizado mas com aulas de 2021. Terceiro dia diferente de aparicao (visto antes via Yampi 04/10 e Hotmart 05/10, agora de novo via Yampi) - multi-gateway, sobe para quente. Vendedor para de responder apos a venda.\n\nEvidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/\n",
  "observacoes": [
   {
    "data": "2026-10-05",
@@ -86,9 +89,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Curso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp."
+  },
+  {
+   "data": "2026-10-06",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Curso vendido como atualizado mas com aulas de 2021. Terceiro dia diferente de aparicao (visto antes via Yampi 04/10 e Hotmart 05/10, agora de novo via Yampi) - multi-gateway, sobe para quente. Vendedor para de responder apos a venda."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-06.md",
+   "data": "2026-10-06",
+   "titulo": "Radar 2026-10-06"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",

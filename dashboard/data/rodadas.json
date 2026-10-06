@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-06.md",
+   "data": "2026-10-06",
+   "titulo": "Radar 2026-10-06",
+   "ofertas_vistas": 21,
+   "novas": 4,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "yampi"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-06\n\n## Novas\n\n- [[angulo-apps-de-rastreamento-sem-nome-camadas-r-85-70]] — espionagem-rastreamento — R$ 85,70 (R$27,90 + R$19,90 + R$37,90 em camadas) — Duas reclamacoes novas de apps de rastreamento sem marca. Uma repete EXATAMENTE a mesma mecanica de 3 cobrancas crescentes…\n- [[ia-do-futuro]] — ia-generativa —  — Estreia no radar. Produto digital ligado a IA, reembolso solicitado dia 30/09 e nao processado ate o prazo de 07/10.\n- [[evoluft-programa-de-exercicios]] — saude-fitness —  — Estreia no radar. Programa de exercicios vendido como 'Evoluft'; comprador nunca recebeu acesso, link nao abre, propaganda enganosa citada…\n- [[angulo-apostilas-genericas-plagiadas-yampi-sem-nome]] — infoproduto-generico — R$ 13,98 — Apostilas/materiais de estudo genericos com conteudo copiado da internet, vendedor com contato falso. Segundo dia diferente de aparicao -…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 5\n- [[loopyz]] — ra_reclamacoes atualizado para 2\n- [[chef-luana-livros-de-culinaria]] — ra_reclamacoes atualizado para 2\n- [[mentoria-nova-profissao-gustavo-castro]] — ra_reclamacoes atualizado para 1\n- [[h2jobs-full]] — ra_reclamacoes atualizado para 1\n- [[o-curso-do-mago]] — ra_reclamacoes atualizado para 2\n- [[desafio-pilates-em-casa]] — ra_reclamacoes atualizado para 1\n- [[congresso-salvador-humanamente]] — ra_reclamacoes atualizado para 1\n- [[metodo-live-perpetua-tiktok-shop-liveflow-ia]] — ra_reclamacoes atualizado para 1\n- [[hap-2-0]] — ra_reclamacoes atualizado para 2\n- [[movimento-e-o-remedio]] — ra_reclamacoes atualizado para 2\n- [[maquina-de-viralizacao-inteligente-headlines-virais-content-machine-5-5]] — ra_reclamacoes atualizado para 1\n- [[template-layout-2-0]] — ra_reclamacoes atualizado para 1\n- [[metodo-livre]] — ra_reclamacoes atualizado para 1\n- [[mago-dos-cortes]] — ra_reclamacoes atualizado para 1\n- [[mvr-daniel-fernandes]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-06 -- 0019]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 21 achado(s) - Janela de 7h sem lacuna: reconfirmacao pesada do catalogo quente de PerfectPay/Cakto/Kiwify/Hotmart, Yampi (rotativo) trouxe 4 ofertas que…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-05.md",
    "data": "2026-10-05",
    "titulo": "Radar 2026-10-05",
@@ -443,6 +462,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 0019.md",
+   "data": "2026-10-06",
+   "hora": "00:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-06]].\n\n# Rodada — 06/10/2026 · 00:19 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, yampi · **Páginas:** 15 · **Coleta:** parcial · **Achados:** 21\n\n## Quentes\n- Stalkeia.ai (PerfectPay) - reconfirmado, 4 pix pro dominio stalkeia.com\n- Zap Radar (PerfectPay) - reconfirmado\n- Apps de rastreamento sem nome R$85,70 (PerfectPay) - mesma mecanica de camadas de rodada anterior, reaparece\n- Loopyz (Cakto) - reconfirmado\n- Chef Luana Livros de Culinaria (Cakto) - reconfirmado\n- H2Jobs Full (Kiwify) - reconfirmado\n- O Curso do Mago (Kiwify) - reconfirmado\n- Desafio Pilates em Casa (Kiwify) - reconfirmado\n- Congresso Salvador Humanamente (Kiwify) - reconfirmado\n- Metodo Live Perpetua TikTok Shop / LiveFlow IA (Kiwify) - reconfirmado\n- HAP 2.0 (Hotmart) - reconfirmado\n- Programa Movimento e o Remedio (Hotmart) - reconfirmado\n- Maquina de Viralizacao Inteligente / Content Machine 5.5 (Hotmart) - reconfirmado, preco do bundle bate exato\n- Template Layout 2.0 (Hotmart) - 3o dia diferente, sobe pra quente\n- Metodo Livre (Hotmart) - 4o dia diferente, sobe pra quente\n- Mago dos Cortes (Yampi) - 3o dia diferente, sobe pra quente\n- MVR Daniel Fernandes (Yampi/Hotmart) - 3o dia diferente e multi-gateway, sobe pra quente\n\n## Mornas\n- Mentoria Nova Profissao Gustavo Castro (Cakto) - 2o dia diferente\n- Apostilas genericas plagiadas (Yampi, sem nome) - 2o dia diferente\n\n## Frias (estreias desta passada)\n- IA do Futuro (Kiwify) - reembolso nao processado\n- Evoluft programa de exercicios (Kiwify) - propaganda enganosa, link de acesso quebrado\n\nLeitura: janela de ~7h desde a ultima passada (05/10 17:14 -> 06/10 00:19). Gateway rotativo foi Yampi, escolhido por estar ha mais tempo sem varredura (ultima vez 05/10 03:49). Mesma instabilidade de sempre do ReclameAqui - na maioria dos 5 gateways a maior parte das paginas 2+ voltou vazia mesmo cobrindo 15 paginas cada, cobertura real concentrada em 1-3 paginas por gateway (exceto Yampi, catalogo pequeno de 37 reclamacoes totais, praticamente coberto por completo). Nenhum nome genuinamente novo de peso, mas quatro ofertas ja trackeadas (Template Layout 2.0, Metodo Livre, Mago dos Cortes, MVR Daniel Fernandes) cruzaram a barreira de 3+ dias distintos de reaparicao nesta passada, subindo todas para quente - sinal de que seguem sustentando trafego pago continuo.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 1714.md",
    "data": "2026-10-05",

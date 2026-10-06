@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-05
-rodadas_vista: 13
+visto_ultimo: 2026-10-06
+rodadas_vista: 14
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -167,3 +167,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-um-aplicativo-falso
 3 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram e rastrear celular. Continua dominando o topo das reclamacoes recentes da PerfectPay - 3 mencoes nesta janela curta (varios pix, cobranca sem entrega do resultado), mesmo padrao de creditos pra liberar.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/reembolso-negado-e-produto-nao-funcional-apos-compra-via-perfectpay_cpojyBGrbKt5gfjo/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram/celular. Reconfirmado mais uma vez via PerfectPay, 4 pix pro dominio stalkeia.com. Grafias: Stalkea.ai, Stalkeia.com.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fiz-4-pix-para-app-que-e-editado-pelo-reclame-aqui_GbZOb-kvBPPM7FLa/

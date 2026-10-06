@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-05
-rodadas_vista: 3
+visto_ultimo: 2026-10-06
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [desconhecido, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-c
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso/plataforma de renda ('H2Jobs Full') com reembolso nao processado dentro do prazo. Nome vazou direto no titulo da reclamacao.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-curso-h2jobs-full-apos-solicitacao-dentro-do-prazo_sxiyM69yrTPc-Vvq/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado mais uma vez - order bump pesado (treinador de entrevistas) sustentando CPA alto.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-curso-h2jobs-full-apos-solicitacao-dentro-do-prazo_sxiyM69yrTPc-Vvq/

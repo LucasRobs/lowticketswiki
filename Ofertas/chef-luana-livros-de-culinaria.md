@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado, 5a+ aparição - falta de acesso após compra de livros de culinária.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/falta-de-acesso-e-resposta-apos-compra-de-livros-de-culinaria_h9xcF_NwGwiJ5Grb/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Cakto). Livros/ebooks de culinaria vendidos via Cakto. Reconfirmado - falta de acesso e resposta apos a compra.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/falta-de-acesso-e-resposta-apos-compra-de-livros-de-culinaria_h9xcF_NwGwiJ5Grb/

@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 246,
-  "angulos": 53,
-  "observacoes": 529,
-  "dias_radar": 26,
-  "passadas": 50,
+  "ofertas": 248,
+  "angulos": 55,
+  "observacoes": 550,
+  "dias_radar": 27,
+  "passadas": 51,
   "analises": 12,
-  "ultima_rodada": "2026-10-05"
+  "ultima_rodada": "2026-10-06"
  },
  "ofertas": [
   {
@@ -730,6 +730,59 @@
    "resumo": "Venda de apostilas digitais genéricas com receitas/conteúdo copiado da internet, sem valor comercial real. Ticket de entrada muito baixo.",
    "flags": [
     "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-apostilas-genericas-plagiadas-yampi-sem-nome",
+   "nome": "Apostilas genericas plagiadas (Yampi, sem nome)",
+   "classe": "angulo",
+   "nicho": "infoproduto-generico",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 13.98,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 13.98,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=apostilas%20digitais&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Apostilas/materiais de estudo genericos com conteudo copiado da internet, vendedor com contato falso. Segundo dia diferente de aparicao - sobe para morna.",
+   "flags": [
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -837,6 +890,61 @@
    "resumo": "Duas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto.",
    "flags": [
     "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-apps-de-rastreamento-sem-nome-camadas-r-85-70",
+   "nome": "Apps de rastreamento sem nome (camadas R$85,70)",
+   "classe": "angulo",
+   "nicho": "espionagem-rastreamento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 19.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 52.8,
+   "s_ticket": 6,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.25,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=rastrear%20localizacao%20celular&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Duas reclamacoes novas de apps de rastreamento sem marca. Uma repete EXATAMENTE a mesma mecanica de 3 cobrancas crescentes (27,90+19,90+37,90=85,70) ja vista em rodada anterior - mesmo funil, sinal forte de trafego pago continuo. Nenhuma marca identificada…",
+   "flags": [
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -889,7 +997,8 @@
    "resumo": "Propaganda enganosa: comprador recebeu arquivos que não correspondiam às fotos de produtos prontos mostradas no anúncio. Sem nome de marca, perfil típico de PDF/molde vendido na Cakto.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -943,7 +1052,8 @@
    "resumo": "Compra de 'arquivos digitais' que não correspondem ao anunciado, sem nome de produto identificável.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -995,7 +1105,8 @@
    "resumo": "Reconfirmado - discrepância entre imagens promocionais e arquivos entregues, sem nome de produto.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1047,7 +1158,8 @@
    "resumo": "Reclamacao generica sobre 'arquivos digitais' que nao correspondem as imagens de divulgacao. Sem marca identificavel - padrao classico de pack de PDF/imagens vendido como outra coisa.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2036,7 +2148,8 @@
    "resumo": "Erro de acesso a ebook comprado na Kiwify, sem nome de produto revelado no texto.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2706,7 +2819,8 @@
    "resumo": "Padrão que já vinha aparecendo em passadas anteriores (3ª+ vez) e nesta rodada apareceu em pelo menos 5 reclamações distintas no Hotmart: Comunidade Subido, Comunidade Pulsar, Curso de Xadrez, Plano Carteira Rumo ao Milhão e o combo Bolos Caseirinhos/Academia…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2758,7 +2872,8 @@
    "resumo": "Mais dois casos de renovação automática não autorizada nesta passada (além de Comunidade Subido e Comunidade Pulsar, já tracked separadamente). Padrão recorrente e quente em várias passadas seguidas.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2810,7 +2925,8 @@
    "resumo": "Serviço de venda de seguidores 'reais' para Instagram (500-700 seguidores BR), não entregue. Ângulo novo no radar, vale buscar na Biblioteca de Anúncios pelo termo genérico.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3521,7 +3637,8 @@
    "resumo": "Curso vendido com a promessa de 'nao precisar vender produto nem fazer video', que depois cobra a parte para 'comprar seguidores'. Terceira passada em que esse padrao de upsell aparece na PerfectPay - angulo consistente.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5117,21 +5234,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chef%20Luana%20receitas&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 5,
    "resumo": "Primeira aparicao. E-books de culinaria vendidos em PDF; falha pontual de entrega resolvida em menos de uma hora pela produtora.",
    "flags": [
     "score-provisorio",
@@ -6003,21 +6120,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Congresso%20Salvador%20Humanamente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 4,
    "resumo": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
    "flags": [
     "score-provisorio",
@@ -6412,7 +6529,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6467,7 +6585,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -7168,21 +7287,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Desafio%20Pilates%20em%20Casa&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 5,
    "resumo": "Desafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.",
    "flags": [
     "score-provisorio",
@@ -7913,6 +8032,61 @@
    ]
   },
   {
+   "slug": "evoluft-programa-de-exercicios",
+   "nome": "Evoluft (programa de exercicios)",
+   "classe": "oferta",
+   "nicho": "saude-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Evoluft&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Estreia no radar. Programa de exercicios vendido como 'Evoluft'; comprador nunca recebeu acesso, link nao abre, propaganda enganosa citada explicitamente.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "fabrica-de-low-ticket",
    "nome": "Fabrica de Low Ticket",
    "classe": "oferta",
@@ -8243,7 +8417,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8999,21 +9174,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=H2Jobs&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 8,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 9,
    "resumo": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -9055,21 +9230,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=HAP%202.0&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 10,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 11,
    "resumo": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -9297,6 +9472,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "ia-do-futuro",
+   "nome": "IA do Futuro",
+   "classe": "oferta",
+   "nicho": "ia-generativa",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=IA%20do%20Futuro&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Estreia no radar. Produto digital ligado a IA, reembolso solicitado dia 30/09 e nao processado ate o prazo de 07/10.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -10550,21 +10780,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 6,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 7,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 6,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 15,
+   "n_obs": 7,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 16,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -10993,21 +11223,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mago%20dos%20Cortes&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "Produto vendido via Yampi relacionado a 'cortes' (provável ferramenta/template de corte). Trecho da reclamação editado pelo Reclame Aqui sugere acusação grave; sem mais contexto nesta amostra.",
    "flags": [
     "score-provisorio",
@@ -11158,21 +11388,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Maquina%20de%20Viralizacao%20Inteligente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 5,
    "resumo": "Vendido pela Brands Decoded Ltda. Anuncia garantia de 30 dias na página de vendas, mas o sistema de reembolso só aplica 7 dias — mecânica de garantia enganosa que vale vigiar.",
    "flags": [
     "score-provisorio",
@@ -11408,7 +11638,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -11435,21 +11665,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Nova%20Profissão%20Gustavo%20Castro&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
    "resumo": "Mentoria de recolocação profissional vendida com uma ferramenta de IA bundled chamada 'Converza IA'. Suporte e canais de contato fora do ar; primeira aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -11768,21 +11998,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Live%20Perpetua%20TikTok%20Shop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 5,
    "resumo": "Bundle de dois produtos de automação de live/TikTok Shop vendidos juntos; cliente diz que não correspondeu ao anunciado.",
    "flags": [
     "score-provisorio",
@@ -11823,21 +12053,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Livre&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 5,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 6,
    "resumo": "R$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -12379,21 +12609,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Movimento%20é%20o%20Remédio&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 5,
    "resumo": "Programa \"Movimento é o Remédio - Tratamento individual para romper o ciclo da dor\"; reclamação de demora na análise do pedido de reembolso.",
    "flags": [
     "score-provisorio",
@@ -12738,12 +12968,13 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
    "gateways": [
-    "hotmart"
+    "hotmart",
+    "yampi"
    ],
    "plataforma_ads": [
     "meta"
@@ -12767,21 +12998,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MVR%20Daniel%20Fernandes&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
    "resumo": "Curso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp.",
    "flags": [
     "score-provisorio",
@@ -12822,21 +13053,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20do%20Mago&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 9,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 10,
    "resumo": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -13454,7 +13685,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -13785,7 +14017,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -14063,7 +14296,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -14679,7 +14913,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -15162,21 +15397,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 13,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 14,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 13,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 29,
+   "n_obs": 14,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 30,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -15492,21 +15727,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Template%20Layout%202.0&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 4,
    "resumo": "Primeira aparicao. Template digital com problema de compatibilidade de software, reembolso ja processado.",
    "flags": [
     "score-provisorio",
@@ -16495,21 +16730,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 13,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 14,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 13,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 26,
+   "n_obs": 14,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 27,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -16575,6 +16810,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-06.md",
+   "data": "2026-10-06",
+   "titulo": "Radar 2026-10-06",
+   "ofertas_vistas": 21,
+   "novas": 4,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "yampi"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-05.md",
    "data": "2026-10-05",
@@ -17017,6 +17271,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 0019.md",
+   "data": "2026-10-06",
+   "hora": "00:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 15 · Coleta: parcial · Achados: 21 ## Quentes Stalkeia.ai (PerfectPay) - reconfirmado, 4 pix pro dominio stalkeia.com Zap Radar (PerfectPay) - reconfirmado Apps de…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 1714.md",
    "data": "2026-10-05",
@@ -18116,6 +18387,10 @@
    "2026-10-05": {
     "oferta": 9,
     "angulo": 11
+   },
+   "2026-10-06": {
+    "oferta": 2,
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -18143,7 +18418,8 @@
    "2026-09-30": 13,
    "2026-10-03": 34,
    "2026-10-04": 91,
-   "2026-10-05": 70
+   "2026-10-05": 70,
+   "2026-10-06": 21
   }
  },
  "analises": [
@@ -18422,6 +18698,18 @@
     "codigo": "vocabulario"
    },
    {
+    "arquivo": "Ofertas/mvr-daniel-fernandes.md",
+    "campo": "gateways_detectados",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/mvr-daniel-fernandes.md",
+    "campo": "ra_plataformas",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/parabolas-kids.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -18527,56 +18815,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 14,
    "status-vencido": 1,
-   "vocabulario": 36
+   "vocabulario": 38
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 246
+    "total": 248
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 246
+    "total": 248
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 246
+    "total": 248
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 217,
-    "total": 246
+    "preenchidas": 219,
+    "total": 248
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 135,
-    "total": 246
+    "total": 248
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 246
+    "total": 248
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 246
+    "total": 248
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 190,
-    "total": 246
+    "preenchidas": 192,
+    "total": 248
    }
   ],
   "fila_enriquecimento": [
@@ -18603,7 +18891,13 @@
    "900-mapas-mentais",
    "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
+   "angulo-apostilas-genericas-com-conteudo-copiado-yampi-sem-nome",
    "angulo-apostilas-receitas-plagiadas-via-google-drive",
+   "angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado",
+   "angulo-arquivos-digitais-com-fotos-divergentes-do-anunciado",
+   "angulo-arquivos-digitais-com-propaganda-enganosa-cakto-sem-nome",
+   "angulo-arquivos-digitais-com-propaganda-enganosa-sem-nome",
+   "angulo-arquivos-digitais-diferentes-das-imagens-promocionais",
    "angulo-assinatura-com-cancelamento-bloqueado",
    "angulo-bonecas-de-papel-imprimivel",
    "angulo-caligrafia-imprimivel",
@@ -18614,12 +18908,16 @@
    "angulo-curso-comunidade-fornecedores-revenda",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
+   "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
    "angulo-produto-digital-instagram",
    "angulo-quiz-retrato-ia",
    "angulo-rastreador-de-celular-generico",
+   "angulo-renovacao-automatica-indevida-de-assinatura-curso",
+   "angulo-renovacao-automatica-indevida-hotmart",
+   "angulo-seguidores-para-instagram-sem-marca",
    "angulo-seguidores-reais-para-instagram",
    "angulo-sem-nome-assinatura-recorrente-nao-reconhecida-plano-premium",
    "angulo-sem-nome-chuteiras-via-loja-tk-importes",
@@ -18627,6 +18925,7 @@
    "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
+   "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
    "appluna-net",
    "autismo-para-pais-lacerda",
    "bike-in-casa",
@@ -18651,6 +18950,8 @@
    "comunidade-renda-em-dolar",
    "congresso-humanamente-salvador",
    "curso-de-marketing-e-vendas-com-ia",
+   "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
+   "curso-isabela-schonorr-linkedin",
    "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
    "curso-raphael-mancini",
    "cursos-gratis-online",
@@ -18662,6 +18963,7 @@
    "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
    "fluency-english",
    "formacao-mestre-do-acabamento",
+   "fornecedores-ocultos-fornecedores-nfc",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
    "glow-mode",
@@ -18694,13 +18996,17 @@
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "placar-exato",
+   "plano-carteira-rumo-ao-milhao-blockcap-llc",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
+   "portovian",
    "postcloner",
    "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
+   "protocolo-testosterona-2-0",
    "quadradinhos-da-vovo",
    "rpr-recomendacoes-personalizadas-remotas",
+   "sala-de-jogos-keep-live",
    "shoppro",
    "sistema-de-fornecedores-ocultos-marcelle-martins",
    "tdah-guia-pais-renata",
@@ -18713,7 +19019,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 828
+   "canonico": 853
   }
  },
  "vocabulario": {
@@ -18760,22 +19066,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "5fe5772eb7e4c115",
-  "atualizado_em": "2026-10-05T17:20:54-03:00",
-  "ofertas": 246,
-  "angulos": 53,
-  "observacoes": 529,
-  "ultima_rodada": "2026-10-05",
+  "hash": "a288fd9206bae890",
+  "atualizado_em": "2026-10-06T00:20:50-03:00",
+  "ofertas": 248,
+  "angulos": 55,
+  "observacoes": 550,
+  "ultima_rodada": "2026-10-06",
   "ultima_passada": {
-   "data": "2026-10-05",
-   "hora": "17:14",
+   "data": "2026-10-06",
+   "hora": "00:19",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "yampi"
    ]
   }
  }

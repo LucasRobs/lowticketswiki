@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-05
-rodadas_vista: 1
+visto_ultimo: 2026-10-06
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado em dia diferente - produtor Gustavo de Castro, produto digital hospedado na Cakto, sem valor informado.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-produto-digital-e-falta-de-atendimento_PyKKpa8n4z7IKKK-/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Cakto). Mentoria de recolocacao profissional com IA bundled ('Converza IA'). Segunda aparicao (dia diferente de 05/10) - sobe para morna. Links de suporte fora do ar.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-mentoria-e-solicitar-reembolso-por-problemas-no-suporte_Lh1LuHe1uyn013LR/

@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-05
-rodadas_vista: 6
+visto_ultimo: 2026-10-06
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -118,5 +118,11 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrepe
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta para lives interativas no TikTok. Já tracked no vault; reconfirmado nesta passada com valor R$88,29.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado mais uma vez via Cakto - direito de arrependimento solicitado.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/

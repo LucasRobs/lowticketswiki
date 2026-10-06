@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-05
-rodadas_vista: 3
+visto_ultimo: 2026-10-06
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-n
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Dois produtos de monetizacao de live/TikTok Shop ('Metodo Live Perpetua' e 'LiveFlow Ia') comprados juntos, reclamados como muito diferentes do prometido. Nicho de lives interativas aparece de novo, agora com vies de IA.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-nao-correspondente-a-oferta_jng8NEaY4ta-KbXd/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Bundle de curso de live perpetua no TikTok Shop + ferramenta de IA LiveFlow. Reconfirmado mais uma vez.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-nao-correspondente-a-oferta_jng8NEaY4ta-KbXd/

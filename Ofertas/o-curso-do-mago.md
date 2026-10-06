@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-05
-rodadas_vista: 4
+visto_ultimo: 2026-10-06
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [desconhecido, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corre
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso que 'nao correspondia ao anunciado'; sem mais detalhes do conteudo. Nome de marca direto no titulo, primeira aparicao.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado - propaganda enganosa citada explicitamente, nao corresponde ao anunciado.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/

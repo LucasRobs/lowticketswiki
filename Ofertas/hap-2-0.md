@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-05
-rodadas_vista: 4
+visto_ultimo: 2026-10-06
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-ree
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Curso corporativo vendido com acesso 'gotejado': só o módulo introdutório é liberado, resto programado para 7 dias depois, dificultando o reembolso dentro do prazo legal.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado mais uma vez - dificuldade de reembolso e acesso limitado.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/

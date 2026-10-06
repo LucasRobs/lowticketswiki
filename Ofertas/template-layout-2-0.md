@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/atraso-no-reembolso-e-produto-
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Produto de templates/layouts vendido com 'incompatibilidade de software' e baixa qualidade segundo o reclamante. Primeira aparicao.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/atraso-no-reembolso-e-produto-de-baixa-qualidade_nbpCFDBG-bSTgzg_/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Templates digitais com baixa qualidade/incompatibilidade de software. Terceiro dia diferente de aparicao (04, 05 e agora 06/10) - sobe para quente.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/atraso-no-reembolso-e-produto-de-baixa-qualidade_nbpCFDBG-bSTgzg_/

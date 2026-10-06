@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-03",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-06",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-06",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "hotmart"
   ]
  },
- "corpo": "# Máquina de Viralização Inteligente + Headlines Virais (Content Machine 5.5)\n\n## Angulo\nVendido pela Brands Decoded Ltda. Anuncia garantia de 30 dias na página de vendas, mas o sistema de reembolso só aplica 7 dias — mecânica de garantia enganosa que vale vigiar.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Era mencao unica na passada anterior, reaparece hoje em dia diferente: upgrade pra quente. Vendedor Brands Decoded LTDA, garantia anunciada de 30 dias mas sistema aplicou so 7.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado com detalhe novo: produtor BRANDS DECODED LTDA, duas transações no mesmo dia (23/07) somando R$334,60 — Máquina de Viralização R$237,60 + Headlines Virais/Content Machine 5.5 R$97. Reclamação por divergência na garantia anunciada.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/\n",
+ "corpo": "# Máquina de Viralização Inteligente + Headlines Virais (Content Machine 5.5)\n\n## Angulo\nVendido pela Brands Decoded Ltda. Anuncia garantia de 30 dias na página de vendas, mas o sistema de reembolso só aplica 7 dias — mecânica de garantia enganosa que vale vigiar.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Era mencao unica na passada anterior, reaparece hoje em dia diferente: upgrade pra quente. Vendedor Brands Decoded LTDA, garantia anunciada de 30 dias mas sistema aplicou so 7.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado com detalhe novo: produtor BRANDS DECODED LTDA, duas transações no mesmo dia (23/07) somando R$334,60 — Máquina de Viralização R$237,60 + Headlines Virais/Content Machine 5.5 R$97. Reclamação por divergência na garantia anunciada.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/negativa-de-reembolso-com-divergencia-na-garantia-anunciada_GAyYo8ib6It46I89/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Produtor BRANDS DECODED LTDA. Reconfirmado com preco exato do bundle batendo com rodada anterior (R$334,60) - dois produtos vendidos juntos na mesma compra.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/renovacao-automatica-nao-autorizada-de-assinatura_5LAdgFztcLeREx4k/\n",
  "observacoes": [
   {
    "data": "2026-10-03",
@@ -108,9 +108,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reconfirmado com detalhe novo: produtor BRANDS DECODED LTDA, duas transações no mesmo dia (23/07) somando R$334,60 — Máquina de Viralização R$237,60 + Headlines Virais/Content Machine 5.5 R$97. Reclamação por divergência na garantia anunciada."
+  },
+  {
+   "data": "2026-10-06",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Produtor BRANDS DECODED LTDA. Reconfirmado com preco exato do bundle batendo com rodada anterior (R$334,60) - dois produtos vendidos juntos na mesma compra."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-06.md",
+   "data": "2026-10-06",
+   "titulo": "Radar 2026-10-06"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-05 -- 1714.md",
