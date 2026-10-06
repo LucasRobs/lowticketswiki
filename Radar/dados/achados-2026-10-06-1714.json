@@ -1,0 +1,20 @@
+{
+  "data_varredura": "2026-10-06",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 4},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 3},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3962, "paginas_varridas": 3},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5646, "paginas_varridas": 3},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 37, "paginas_varridas": 3}
+  ],
+  "achados": [],
+  "passada": {
+    "hora": "17:14",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 16,
+    "coleta": "parcial",
+    "origem": "tarefa agendada",
+    "relatorio": "## Quentes\n- nenhum\n\n## Mornas\n- nenhuma\n\n## Frias\n- nenhuma\n\nLeitura: falha sistemica de paginacao do ReclameAqui confirmada pela 6a passada automatica consecutiva (~9h: 08:24, 08:25, 10:28, 12:47, 14:53, agora 17:14) — pagina 1 de todos os 5 gateways responde normalmente, pagina 2 em diante volta '0 de 0 reclamacoes' sem excecao (testado ate pagina 5 na perfectpay). Dado o padrao ja confirmado em passadas anteriores, parei de insistir em paginas vazias e abri as 5 reclamacoes de pagina 1 de cada gateway (25 no total) em busca de nome novo. Resultado: as unicas com nome de produto identificavel ja estavam no vault com a mesma URL de evidencia (Guia digital de 100 receitas para pets/Cakto, Portovian/Yampi, MVR by Daniel Fernandes/Yampi) — ou seja, pagina 1 nao trouxe nenhuma reclamacao genuinamente nova desde a passada das 14:53 (2h21 de janela). Nenhum achado novo nesta rodada.",
+    "resumo": "Sem achado novo — pagina 1 repetiu o que ja estava no vault; paginacao do ReclameAqui segue bloqueada ha ~9h (6 passadas seguidas)."
+  }
+}

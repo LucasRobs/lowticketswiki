@@ -5,7 +5,7 @@
   "angulos": 60,
   "observacoes": 572,
   "dias_radar": 27,
-  "passadas": 57,
+  "passadas": 58,
   "analises": 12,
   "ultima_rodada": "2026-10-06"
  },
@@ -17535,7 +17535,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 7,
+   "n_passadas": 8,
    "leitura": ""
   },
   {
@@ -17980,6 +17980,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 1714.md",
+   "data": "2026-10-06",
+   "hora": "17:14",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 16 · Coleta: parcial · Achados: 0 ## Quentes nenhum ## Mornas nenhuma ## Frias nenhuma Leitura: falha sistemica de paginacao do ReclameAqui confirmada pela 6a passada…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 1453.md",
    "data": "2026-10-06",
@@ -19883,22 +19900,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "6d1d03f925484efe",
-  "atualizado_em": "2026-10-06T14:54:24-03:00",
+  "hash": "22189375f2ae15fe",
+  "atualizado_em": "2026-10-06T17:17:42-03:00",
   "ofertas": 256,
   "angulos": 60,
   "observacoes": 572,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {
    "data": "2026-10-06",
-   "hora": "14:53",
+   "hora": "17:14",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "yampi"
    ]
   }
  }
