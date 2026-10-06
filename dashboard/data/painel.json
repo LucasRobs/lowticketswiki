@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 253,
+  "ofertas": 256,
   "angulos": 60,
-  "observacoes": 569,
+  "observacoes": 572,
   "dias_radar": 27,
-  "passadas": 56,
+  "passadas": 57,
   "analises": 12,
   "ultima_rodada": "2026-10-06"
  },
@@ -4188,6 +4188,61 @@
    ]
   },
   {
+   "slug": "atlas-das-patologias",
+   "nome": "Atlas das Patologias",
+   "classe": "oferta",
+   "nicho": "saude",
+   "sub_nicho": "livro-digital",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Atlas%20das%20Patologias&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
+   "resumo": "Livro/apostila digital sobre patologias vendido via Payt. Compra em 23/09, pedido de reembolso negado inicialmente e só processado em 06/10 após reclamação. Sem valor citado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "auks-bot",
    "nome": "AUKS VIP / AUKS BOT",
    "classe": "oferta",
@@ -8242,6 +8297,61 @@
    ]
   },
   {
+   "slug": "dossie-do-emagrecimento",
+   "nome": "Dossiê do Emagrecimento",
+   "classe": "oferta",
+   "nicho": "saude-emagrecimento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Dossiê%20do%20Emagrecimento&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
+   "resumo": "Infoproduto digital de emagrecimento vendido via Payt. Comprador pediu estorno dentro do prazo de arrependimento (7 dias); Payt processou via Pix no dia seguinte. Reclamação de hoje (06/10), sem valor citado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "e-workflow-adeus-clt",
    "nome": "e-Workflow Adeus CLT",
    "classe": "oferta",
@@ -9400,6 +9510,61 @@
    "ultima_obs": "2026-10-05",
    "n_citacoes": 2,
    "resumo": "Produtor Anderson Pereira Seabra de Andrade. Mentoria de 'estrategista digital' prometia aulas ao vivo e suporte individual que não foram entregues; instrutor some do suporte.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "guia-de-financas-gabriela-vitorino",
+   "nome": "Guia de Finanças (Gabriela Vitorino)",
+   "classe": "oferta",
+   "nicho": "financas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gabriela%20Vitorino&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
+   "resumo": "Curso de finanças com recorrência vendido pela produtora Gabriela Vitorino via Payt. Comprador tentou cancelar via chargeback após cartão comprometido, mas assinatura renovou em outro cartão — sinal de upsell/recorrência mal exposta no checkout.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -17354,8 +17519,8 @@
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
-   "ofertas_vistas": 40,
-   "novas": 13,
+   "ofertas_vistas": 43,
+   "novas": 16,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -17364,12 +17529,13 @@
     "hotmart",
     "kiwify",
     "monetizze",
+    "payt",
     "perfectpay",
     "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 6,
+   "n_passadas": 7,
    "leitura": ""
   },
   {
@@ -17814,6 +17980,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 1453.md",
+   "data": "2026-10-06",
+   "hora": "14:53",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 44,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "atlas-das-patologias",
+    "dossie-do-emagrecimento",
+    "guia-de-financas-gabriela-vitorino"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 44 · Coleta: parcial · Achados: 3 ## Quentes nenhum ## Mornas nenhuma ## Frias dossie-do-emagrecimento — Payt · ebook de emagrecimento, 1 menção hoje atlas-das-patologias …"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 1247.md",
    "data": "2026-10-06",
@@ -19022,7 +19209,7 @@
     "angulo": 11
    },
    "2026-10-06": {
-    "oferta": 7,
+    "oferta": 10,
     "angulo": 7
    }
   },
@@ -19052,7 +19239,7 @@
    "2026-10-03": 34,
    "2026-10-04": 91,
    "2026-10-05": 70,
-   "2026-10-06": 40
+   "2026-10-06": 43
   }
  },
  "analises": [
@@ -19455,49 +19642,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 253
+    "total": 256
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 253
+    "total": 256
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 253
+    "total": 256
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 224,
-    "total": 253
+    "preenchidas": 227,
+    "total": 256
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 136,
-    "total": 253
+    "total": 256
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 253
+    "total": 256
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 253
+    "total": 256
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 197,
-    "total": 253
+    "preenchidas": 200,
+    "total": 256
    }
   ],
   "fila_enriquecimento": [
@@ -19649,7 +19836,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 882
+   "canonico": 888
   }
  },
  "vocabulario": {
@@ -19696,22 +19883,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "b0d6a55fef472126",
-  "atualizado_em": "2026-10-06T12:47:48-03:00",
-  "ofertas": 253,
+  "hash": "6d1d03f925484efe",
+  "atualizado_em": "2026-10-06T14:54:24-03:00",
+  "ofertas": 256,
   "angulos": 60,
-  "observacoes": 569,
+  "observacoes": 572,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {
    "data": "2026-10-06",
-   "hora": "12:47",
+   "hora": "14:53",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "payt"
    ]
   }
  }

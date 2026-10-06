@@ -1,0 +1,57 @@
+{
+  "data_varredura": "2026-10-06",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 15},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3963, "paginas_varridas": 3},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5646, "paginas_varridas": 3},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 3508, "paginas_varridas": 8}
+  ],
+  "achados": [
+    {
+      "produto": "Dossiê do Emagrecimento",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "saude-emagrecimento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Dossiê do Emagrecimento",
+      "descricao": "Infoproduto digital de emagrecimento vendido via Payt. Comprador pediu estorno dentro do prazo de arrependimento (7 dias); Payt processou via Pix no dia seguinte. Reclamação de hoje (06/10), sem valor citado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-o-estorno-do-dossie-do-emagrecimento-por-arrependimento_vPoBdNpsghuLq8pR/"
+    },
+    {
+      "produto": "Atlas das Patologias",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "saude",
+      "sub_nicho": "livro-digital",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Atlas das Patologias",
+      "descricao": "Livro/apostila digital sobre patologias vendido via Payt. Compra em 23/09, pedido de reembolso negado inicialmente e só processado em 06/10 após reclamação. Sem valor citado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/solicitei-reembolso-de-livro-atlas-das-patologias-e-me-negaram_04JITQ3tInkRCJNW/"
+    },
+    {
+      "produto": "Guia de Finanças (Gabriela Vitorino)",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "financas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Gabriela Vitorino",
+      "descricao": "Curso de finanças com recorrência vendido pela produtora Gabriela Vitorino via Payt. Comprador tentou cancelar via chargeback após cartão comprometido, mas assinatura renovou em outro cartão — sinal de upsell/recorrência mal exposta no checkout.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-cancelar-assinatura-de-curso-da-gabriela-vitorino_3iUkOY7mRxYPHPzp/"
+    }
+  ],
+  "passada": {
+    "hora": "14:53",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 44,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- nenhum\n\n## Mornas\n- nenhuma\n\n## Frias\n- [[dossie-do-emagrecimento]] — Payt · ebook de emagrecimento, 1 menção hoje\n- [[atlas-das-patologias]] — Payt · livro digital sobre patologias, 1 menção hoje\n- [[guia-de-financas-gabriela-vitorino]] — Payt · curso recorrente de Gabriela Vitorino, cobrança continuou após troca de cartão\n\nLeitura: confirmada falha sistêmica de paginação do ReclameAqui — em 44 páginas pedidas (perfectpay e cakto-pay: 15 cada; kiwify e hotmart: 3 cada; payt: 8), só a página 1 de cada gateway respondeu com dados reais (mais uma página 14 isolada na perfectpay); todo o resto voltou '0 de 0'. Mesmo padrão relatado nas passadas 08:24/08:25, 10:28 e 12:47 de hoje — já são 5 passadas consecutivas (~6h30) com o mesmo sintoma, aponta para bloqueio/cache persistente contra este agente, não queda real de volume. Nas páginas que responderam, os nomes já conhecidos se repetiram (Stalkea AI, Stalke.ai, Boss IA Trade, Direct Line, Frequência DaVinci, IA do Futuro, Evoluft, ZAP RADAR) sem achado novo neles. Os únicos nomes inéditos vieram da Payt, gateway rotativo desta passada (o que estava há mais tempo sem varredura: última vez em 05/10 17:14): Dossiê do Emagrecimento, Atlas das Patologias e o curso recorrente de Gabriela Vitorino — os três com menção única, datados de hoje.",
+    "resumo": "ReclameAqui bloqueando paginação além da página 1 pelo 5º ciclo seguido hoje; 3 achados novos (frios) só na Payt, nada novo nos 4 gateways fixos."
+  }
+}
