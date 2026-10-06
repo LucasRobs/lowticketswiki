@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 251,
-  "angulos": 58,
-  "observacoes": 560,
+  "ofertas": 252,
+  "angulos": 59,
+  "observacoes": 568,
   "dias_radar": 27,
-  "passadas": 53,
+  "passadas": 54,
   "analises": 12,
   "ultima_rodada": "2026-10-06"
  },
@@ -488,21 +488,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=AI%20Trader%20Pro%20Htaipro&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "Duas reclamacoes nesta passada. Curso + IA de trading que direciona para deposito em corretora propria (TradeRomm Novadexy) alem das cobrancas do curso - padrao classico de isca para plataforma de operacao.",
    "flags": [
     "score-provisorio",
@@ -2601,6 +2601,60 @@
    ]
   },
   {
+   "slug": "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
+   "nome": "Novo App Avaliador (ganhos com criptomoedas via IA)",
+   "classe": "angulo",
+   "nicho": "renda-no-celular-e-cashback-pix",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 49,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 49,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20avaliador%20ganhar%20criptomoeda%20ia&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "App vendido por anúncio prometendo ganhos com criptomoedas via IA; comprador pagou R$49 de entrada e depois uma taxa adicional pra liberar acesso, sem conseguir usar o app. Mecânica clássica de order bump/trava de saque.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
    "nome": "Pacote de jogo com moeda infinita (indicação de YouTuber)",
    "classe": "angulo",
@@ -3834,21 +3888,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Toca%20Simples%20app&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "Primeira aparicao. App vendido como solucao simples (segmento nao claro na reclamacao), descrito como diferente do anunciado com recusa de reembolso.",
    "flags": [
     "score-provisorio",
@@ -4514,7 +4568,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=BOSS%20IA%20TRADE&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-06",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "App de \"IA de trading\" — promete operar/automatizar trades. Nicho de trading + IA, mesmo cluster de Luna IA e Trendy IA vistos em rodadas anteriores no Projeto Claude (não capturadas como notas individuais ainda).",
    "flags": [
     "score-provisorio",
@@ -9612,21 +9666,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hi%20Spy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "Primeira aparicao. Assinatura anual de app de espionagem, mesma familia de angulo do Stalkeia mas rodando via Ticto.",
    "flags": [
     "score-provisorio",
@@ -11767,21 +11821,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mega%20CRM&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 3,
    "resumo": "Primeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.",
    "flags": [
     "score-provisorio",
@@ -14457,6 +14511,61 @@
    ]
   },
   {
+   "slug": "protocolo-3s",
+   "nome": "Protocolo 3S",
+   "classe": "oferta",
+   "nicho": "saude-estetica-e-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 101,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 101,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Protocolo%203S&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Infoproduto de protocolo de saúde/estética vendido pelo produtor João Veloso Quantana; Ticto recusou cancelamento/reembolso dentro do prazo legal de 7 dias segundo o reclamante.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "protocolo-de-reprogramacao-neural",
    "nome": "Protocolo de Reprogramação Neural",
    "classe": "oferta",
@@ -14545,21 +14654,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Leite%20Sem%20Fim&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 5,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 6,
    "resumo": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
    "flags": [
     "score-provisorio",
@@ -16777,21 +16886,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=White%20Driver%20app%20motorista&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 4,
    "resumo": "Primeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.",
    "flags": [
     "score-provisorio",
@@ -17137,8 +17246,8 @@
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
-   "ofertas_vistas": 31,
-   "novas": 10,
+   "ofertas_vistas": 39,
+   "novas": 12,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -17151,7 +17260,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -17596,6 +17705,26 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 0825.md",
+   "data": "2026-10-06",
+   "hora": "08:25",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "boss-ia-trade",
+    "white-driver"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 15 · Coleta: parcial · Achados: 11 ## Quentes nenhum achado com 4+ mencoes nesta passada ## Mornas boss-ia-trade - PerfectPay - 2a mencao no mesmo dia, app de trade com IA…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 0824.md",
    "data": "2026-10-06",
@@ -18748,8 +18877,8 @@
     "angulo": 11
    },
    "2026-10-06": {
-    "oferta": 5,
-    "angulo": 5
+    "oferta": 6,
+    "angulo": 6
    }
   },
   "observacoes": {
@@ -18778,7 +18907,7 @@
    "2026-10-03": 34,
    "2026-10-04": 91,
    "2026-10-05": 70,
-   "2026-10-06": 31
+   "2026-10-06": 39
   }
  },
  "analises": [
@@ -19181,49 +19310,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 251
+    "total": 252
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 251
+    "total": 252
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 251
+    "total": 252
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 222,
-    "total": 251
+    "preenchidas": 223,
+    "total": 252
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 135,
-    "total": 251
+    "preenchidas": 136,
+    "total": 252
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 251
+    "total": 252
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 251
+    "total": 252
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 195,
-    "total": 251
+    "preenchidas": 196,
+    "total": 252
    }
   ],
   "fila_enriquecimento": [
@@ -19375,7 +19504,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 869
+   "canonico": 879
   }
  },
  "vocabulario": {
@@ -19422,15 +19551,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "43583b1b508fb89c",
-  "atualizado_em": "2026-10-06T08:25:21-03:00",
-  "ofertas": 251,
-  "angulos": 58,
-  "observacoes": 560,
+  "hash": "c0a04352b7ac95f6",
+  "atualizado_em": "2026-10-06T08:26:42-03:00",
+  "ofertas": 252,
+  "angulos": 59,
+  "observacoes": 568,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {
    "data": "2026-10-06",
-   "hora": "08:24",
+   "hora": "08:25",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

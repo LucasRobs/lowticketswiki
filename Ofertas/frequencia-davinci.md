@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Cakto). Reclamação com corpo de texto não disponível para extração — só o título entregou o nome. Provável produto de frequência/vibração (áudio ou método). Vale reabrir em rodada futura para confirmar nicho e produtor.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/cakto-pay-frequencia-davinci_kfL7NFXQh6am5yEi/

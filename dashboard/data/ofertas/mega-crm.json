@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-06",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "ticto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-06",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "ticto"
   ]
  },
- "corpo": "# MEGA CRM\n\n## Angulo\nPrimeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado - vendedor identificado como 'David', reembolso processado rápido (3 dias), baixa prioridade de golpe mas segue sendo venda ativa.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n",
+ "corpo": "# MEGA CRM\n\n## Angulo\nPrimeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado - vendedor identificado como 'David', reembolso processado rápido (3 dias), baixa prioridade de golpe mas segue sendo venda ativa.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Ticto). Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -96,9 +96,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reconfirmado - vendedor identificado como 'David', reembolso processado rápido (3 dias), baixa prioridade de golpe mas segue sendo venda ativa."
+  },
+  {
+   "data": "2026-10-06",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-06.md",
+   "data": "2026-10-06",
+   "titulo": "Radar 2026-10-06"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",

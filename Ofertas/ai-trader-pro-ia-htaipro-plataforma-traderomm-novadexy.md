@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/ai-trader-pro-ia-htaipro-plataforma-traderomm-novadexy"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 2 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente, 2 reclamações nesta rodada - curso/IA de trading, R$37 por reclamação.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-urgente-do-curso-ai-trader-pro_fneupJFV32Wq84CR/
+
+## Rodada 2026-10-06
+
+3 mencao(oes) nesta varredura (gateway Ticto). Curso/plataforma de investimento com IA, vendido como 'AI Trader Pro' e também referido como 'IA Htaipro'. Três reclamações distintas espalhadas por ~2 meses (10/07, e datas de ~1 e ~2 meses atrás) alegando que os requisitos de depósito/saque foram omitidos na propaganda — sinal de oferta sustentada, não pico único.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-de-compra-do-curso-ai-trader-pro-e-ia-htaipro-devido-a-proposta-editado-pelo-reclame-aqui_HCiX0ChN9IdARMIV/

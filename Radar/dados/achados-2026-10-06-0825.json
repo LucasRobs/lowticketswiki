@@ -1,0 +1,152 @@
+{
+  "data_varredura": "2026-10-06",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 15},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3963, "paginas_varridas": 15},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5647, "paginas_varridas": 15},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 440, "paginas_varridas": 20}
+  ],
+  "achados": [
+    {
+      "produto": "Boss IA Trade",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "trading-e-robos",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "não informado",
+      "termo_busca": "Boss IA Trade",
+      "descricao": "App/curso de trade com IA. Apareceu como estreia na rodada das 00:50 de hoje e teve nova reclamação de não-entrega de acesso às 03h20, mesmo dia — sinal de campanha ativa, não evento isolado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-acesso-ao-produto-boss-ia-trade-e-exijo-estorno_MIbjua942zruM42N/"
+    },
+    {
+      "produto": "Guia digital de 100 Receitas para Pets",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "receitas-e-culinaria",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "R$ 30,89",
+      "termo_busca": "receitas para pets",
+      "descricao": "E-book/guia de receitas para pets vendido como anúncio patrocinado; comprador alega conteúdo incompleto e diferente do anunciado. Mesmo valor (R$30,89) e mesmo ângulo já visto na rodada anterior de hoje — reforça que é oferta rodando, não caso isolado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-um-guia-digital-de-receitas-e-fui-enganado_OWfj_A-XikafwrHE/"
+    },
+    {
+      "produto": "Frequência DaVinci",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espiritualidade-e-religiao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Frequência DaVinci",
+      "descricao": "Reclamação com corpo de texto não disponível para extração — só o título entregou o nome. Provável produto de frequência/vibração (áudio ou método). Vale reabrir em rodada futura para confirmar nicho e produtor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cakto-pay-frequencia-davinci_kfL7NFXQh6am5yEi/"
+    },
+    {
+      "produto": "Protocolo Leite Sem Fim",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-estetica-e-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Protocolo Leite Sem Fim",
+      "descricao": "Infoproduto de lactação/amamentação vendido pela produtora 'Momento Materno' com garantia de reembolso de 30 dias. Comprador relata e-mails de suporte do produtor inválidos; Ticto reembolsou após intervenção.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/"
+    },
+    {
+      "produto": "AI Trader Pro / IA Htaipro",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "trading-e-robos",
+      "temperatura": "morna",
+      "mencoes": 3,
+      "faixa_preco": "R$ 37",
+      "termo_busca": "AI Trader Pro",
+      "descricao": "Curso/plataforma de investimento com IA, vendido como 'AI Trader Pro' e também referido como 'IA Htaipro'. Três reclamações distintas espalhadas por ~2 meses (10/07, e datas de ~1 e ~2 meses atrás) alegando que os requisitos de depósito/saque foram omitidos na propaganda — sinal de oferta sustentada, não pico único.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-de-compra-do-curso-ai-trader-pro-e-ia-htaipro-devido-a-proposta-editado-pelo-reclame-aqui_HCiX0ChN9IdARMIV/"
+    },
+    {
+      "produto": "Novo App Avaliador (ganhos com criptomoedas via IA)",
+      "tipo": "angulo",
+      "gateway": "Ticto",
+      "nicho": "renda-no-celular-e-cashback-pix",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49 + taxa adicional",
+      "termo_busca": "app avaliador ganhar criptomoeda ia",
+      "descricao": "App vendido por anúncio prometendo ganhos com criptomoedas via IA; comprador pagou R$49 de entrada e depois uma taxa adicional pra liberar acesso, sem conseguir usar o app. Mecânica clássica de order bump/trava de saque.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/reclamacao-sobre-novo-app-avaliador-promessa-de-ganhos-com-criptomoedas-e-falha-no-acesso_CW7Ln62hcJiuxn40/"
+    },
+    {
+      "produto": "Aplicativo Toca Simples",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Toca Simples",
+      "descricao": "App vendido como diferente do que foi anunciado; vendedor real não identificado na reclamação (só a Ticto aparece, como processadora). Nicho incerto — vale reabrir se reaparecer.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/aplicativo-toca-simples-diferente-do-anunciado-e-recusa-de-reembolso_qChFICEgfM3tYdbe/"
+    },
+    {
+      "produto": "White Driver",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "renda-no-celular-e-cashback-pix",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "não informado",
+      "termo_busca": "White Driver app",
+      "descricao": "App de mobilidade estilo Uber vendido como oportunidade de trabalho/renda extra para motorista; duas reclamações de datas próximas (início de julho) alegando que o app não funciona após o pagamento via Pix, sem suporte da produtora.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/"
+    },
+    {
+      "produto": "HI SPY 4.0",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "espionagem-e-rastreamento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "HI SPY",
+      "descricao": "Possível clone/variante da família de apps de espionagem (nome lembra 'Stalkeia'/'Stalker'), aqui rodando via Ticto em vez de PerfectPay — reforça que esse nicho multiplica marca e gateway. Só uma reclamação até agora, vale monitorar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/"
+    },
+    {
+      "produto": "MEGA CRM",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "marketing-e-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "MEGA CRM",
+      "descricao": "Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/"
+    },
+    {
+      "produto": "Protocolo 3S",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-estetica-e-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 101",
+      "termo_busca": "Protocolo 3S",
+      "descricao": "Infoproduto de protocolo de saúde/estética vendido pelo produtor João Veloso Quantana; Ticto recusou cancelamento/reembolso dentro do prazo legal de 7 dias segundo o reclamante.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/ticto-recusa-cancelamento-de-reembolso-de-infoproduto-protocolo-3s-dentro-do-prazo-legal_G2aWyQ2gpCo_n6BE/"
+    }
+  ],
+  "passada": {
+    "hora": "08:25",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 15,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- nenhum achado com 4+ mencoes nesta passada\n\n## Mornas\n- [[boss-ia-trade]] - PerfectPay - 2a mencao no mesmo dia, app de trade com IA\n- [[guia-digital-de-100-receitas-para-pets]] - Cakto - angulo repetido da rodada anterior, mesmo preco R$30,89\n- [[ai-trader-pro-ia-htaipro]] - Ticto - curso de trade com IA, 3 reclamacoes espalhadas por ~2 meses\n- [[white-driver]] - Ticto - app de renda/mobilidade tipo Uber, nao funciona apos pagamento Pix\n\n## Frias (novas, vale monitorar)\n- Frequencia DaVinci (Cakto), Protocolo Leite Sem Fim (Ticto, nicho saude/lactacao), Novo App Avaliador cripto+IA (Ticto), Toca Simples (Ticto), HI SPY 4.0 (Ticto, possivel clone da familia Stalkeia rodando em gateway diferente), MEGA CRM (Ticto), Protocolo 3S (Ticto, R$101)\n\nLeitura: PerfectPay, Cakto, Kiwify e Hotmart sofreram forte instabilidade do ReclameAqui - de 15 paginas pedidas em cada, so 2 a 5 responderam com dados reais (resto veio '0 de 0', inclusive em segunda tentativa nas mesmas paginas). Ticto, escolhido como rotativo por estar ha mais tempo sem varredura (ultima vez 05/10 09:48), respondeu bem (18 de 20 paginas) e cobriu quase 2 meses de historico, o que explica a maior parte dos achados novos desta passada. Em PerfectPay/Kiwify/Hotmart os topos de listagem repetiram majoritariamente achados ja registrados nas rodadas anteriores (Stalkeia.ai, Zap Radar, Direct Line, HAP 2.0, IA do Futuro, Evoluft, H2Jobs Full, O Curso do Mago, Desafio Pilates em Casa, Congresso Salvador Humanamente) - nao recontados aqui para nao inflar mencao/temperatura sem reclamacao nova confirmada.",
+    "resumo": "Instabilidade pesada no ReclameAqui limitou PerfectPay/Cakto/Kiwify/Hotmart a poucas paginas, mas o rotativo Ticto rendeu bem e trouxe 9 achados novos, com trading-com-IA (Boss IA Trade, AI Trader Pro) como cluster mais forte."
+  }
+}

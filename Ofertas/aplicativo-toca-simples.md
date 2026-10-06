@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente - app de música totalmente diferente do anunciado, poucas músicas e funcionalidades limitadas.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/aplicativo-toca-simples-diferente-do-anunciado-e-recusa-de-reembolso_qChFICEgfM3tYdbe/
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Ticto). App vendido como diferente do que foi anunciado; vendedor real não identificado na reclamação (só a Ticto aparece, como processadora). Nicho incerto — vale reabrir se reaparecer.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/aplicativo-toca-simples-diferente-do-anunciado-e-recusa-de-reembolso_qChFICEgfM3tYdbe/
