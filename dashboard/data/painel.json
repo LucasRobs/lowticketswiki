@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 252,
+  "ofertas": 253,
   "angulos": 60,
-  "observacoes": 568,
+  "observacoes": 569,
   "dias_radar": 27,
-  "passadas": 54,
+  "passadas": 55,
   "analises": 12,
   "ultima_rodada": "2026-10-06"
  },
@@ -10016,6 +10016,61 @@
    ]
   },
   {
+   "slug": "iara-shoppe-360",
+   "nome": "Iara Shoppe 360",
+   "classe": "oferta",
+   "nicho": "ecommerce-dropshipping",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Iara%20Shoppe&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
+   "resumo": "Curso sobre venda/operacao de loja na Shopee. Produtor identificado como Icaro Dias. Comprador diz nao ter recebido acesso ao curso adquirido via Eduzz e pede reembolso integral. Primeira aparicao no vault.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
    "nome": "Imersão BROA - A Estratégia Oculta que gera 10 Mil Seguidores por Mês",
    "classe": "oferta",
@@ -17299,12 +17354,13 @@
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
-   "ofertas_vistas": 39,
-   "novas": 12,
+   "ofertas_vistas": 40,
+   "novas": 13,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "monetizze",
@@ -17313,7 +17369,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -17758,6 +17814,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 1028.md",
+   "data": "2026-10-06",
+   "hora": "10:28",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "iara-shoppe-360"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 15 · Coleta: parcial · Achados: 1 ## Quentes nenhum achado novo com 4+ mencoes nesta passada ## Mornas nenhuma novidade - topos de listagem de PerfectPay, Cakto e Hotmart…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 0825.md",
    "data": "2026-10-06",
@@ -18930,7 +19005,7 @@
     "angulo": 11
    },
    "2026-10-06": {
-    "oferta": 6,
+    "oferta": 7,
     "angulo": 7
    }
   },
@@ -18960,7 +19035,7 @@
    "2026-10-03": 34,
    "2026-10-04": 91,
    "2026-10-05": 70,
-   "2026-10-06": 39
+   "2026-10-06": 40
   }
  },
  "analises": [
@@ -19363,49 +19438,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 252
+    "total": 253
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 252
+    "total": 253
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 252
+    "total": 253
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 223,
-    "total": 252
+    "preenchidas": 224,
+    "total": 253
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 136,
-    "total": 252
+    "total": 253
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 252
+    "total": 253
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 252
+    "total": 253
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 196,
-    "total": 252
+    "preenchidas": 197,
+    "total": 253
    }
   ],
   "fila_enriquecimento": [
@@ -19557,7 +19632,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 880
+   "canonico": 882
   }
  },
  "vocabulario": {
@@ -19604,22 +19679,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "3ea22d610f7fa837",
-  "atualizado_em": "2026-10-06T08:29:09-03:00",
-  "ofertas": 252,
+  "hash": "33f11a22d28ee688",
+  "atualizado_em": "2026-10-06T10:29:41-03:00",
+  "ofertas": 253,
   "angulos": 60,
-  "observacoes": 568,
+  "observacoes": 569,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {
    "data": "2026-10-06",
-   "hora": "08:25",
+   "hora": "10:28",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto"
+    "eduzz"
    ]
   }
  }
