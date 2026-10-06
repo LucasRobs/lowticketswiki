@@ -1,0 +1,116 @@
+{
+  "data_varredura": "2026-10-06",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 15},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3964, "paginas_varridas": 15},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5647, "paginas_varridas": 15},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10571, "paginas_varridas": 15}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 19-98",
+      "termo_busca": "Stalkeia",
+      "descricao": "Reconfirmado nesta passada sob as grafias Stalkea AI e Stalke.ai: reembolso de assinatura e pedido de cancelamento. Mesma familia ja trackeada (Stalkeia.ai/Stalkeia.com), app de espionar WhatsApp/Instagram.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-do-stalkea-ai-isso-e-editado-pelo-reclame-aqui_K_z-J_QVzLzuaMMc/"
+    },
+    {
+      "produto": "Boss IA Trade",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "trading-automatizado",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Boss IA Trade",
+      "descricao": "2a reclamacao sobre o mesmo app/curso de trade com IA (estreou na passada anterior de 00:50). Comprador diz que nao recebeu acesso ao produto e chama de 'pura enganacao'; vendedor some do suporte.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-acesso-ao-produto-boss-ia-trade-e-exijo-estorno_MIbjua942zruM42N/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "2a reclamacao sobre o app por assinatura Direct Line (estreou as 00:50). Usuario quer cancelar a assinatura por insatisfacao com o app.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/"
+    },
+    {
+      "produto": "Bike in Casa",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-bemestar",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "Bike in Casa assinatura",
+      "descricao": "Assinatura de bike indoor com periodo de teste de 30 dias. Duas reclamacoes em dias diferentes (04/10 e 05/10) pedindo cancelamento/reembolso, ambas dizendo que a plataforma nao oferece opcao de cancelar - mecanica de assinatura recorrente dificil de sair, sinal de order bump/retencao forcada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/"
+    },
+    {
+      "produto": "Frequencia DaVinci",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "saude-bemestar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Frequencia DaVinci",
+      "descricao": "Estreia. Produto de audio/frequencia terapeutica vendido por assinatura via Cakto. Reclamacao de falta de contato/resposta da empresa, sem mais detalhes do problema.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/cakto-pay-frequencia-davinci_kfL7NFXQh6am5yEi/"
+    },
+    {
+      "produto": "sem nome",
+      "tipo": "angulo",
+      "gateway": "Ticto",
+      "nicho": "cursos-de-musica",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso de bateria online",
+      "descricao": "Curso de bateria online vendido via Ticto. Comprador pagou e 4 dias depois ainda nao recebeu credenciais de acesso nem confirmacao por e-mail; sem resposta da empresa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/"
+    },
+    {
+      "produto": "Mentoria Thiago Lobos",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Thiago Lobos mentoria",
+      "descricao": "Estreia. Mentoria parcelada; aluno relata que os primeiros dias foram so slides/conversa, depois pediram para gravar videos promovendo produtos que nao existem. Reembolso negado e nome enviado ao SPC/SERASA - pratica predatoria a observar, ticket mais alto que o low ticket tipico.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-a-devolucao-da-primeira-parcela-e-a-exclusao-do-meu-nome-do-spcserasa_1jlhwqELYQOHxjmO/"
+    },
+    {
+      "produto": "100 Receitas para Pets",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "receitas-e-culinaria",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 30,89",
+      "termo_busca": "guia de receitas para pets",
+      "descricao": "Reconfirmado em dia diferente (05/10 e 06/10) com preco identico de R$30,89: guia digital de receitas para pets vendido por anuncio patrocinado, comprador diz que o conteudo nao existe/e incompleto - propaganda enganosa confirmada duas vezes.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-um-guia-digital-de-receitas-e-fui-enganado_OWfj_A-XikafwrHE/"
+    }
+  ],
+  "passada": {
+    "hora": "08:24",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 15,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- Stalkeia.ai (PerfectPay) - reconfirmado sob Stalkea AI / Stalke.ai\n- Bike in Casa (Ticto) - 2 reclamacoes em dias diferentes, mecanica de cancelamento bloqueado\n- 100 Receitas para Pets (Cakto) - preco identico confirmado em dois dias\n\n## Mornas\n- Boss IA Trade (PerfectPay) - 2a reclamacao, ainda nao sem acesso\n- Direct Line app (Cakto) - 2a reclamacao, cancelamento por insatisfacao\n\n## Frias (estreias)\n- Frequencia DaVinci (Cakto) - produto de audio/frequencia terapeutica\n- Curso de bateria sem nome (Ticto) - angulo, acesso nao liberado\n- Mentoria Thiago Lobos (Hotmart) - mentoria parcelada com pratica predatoria (videos de produto inexistente), negativacao no SPC/SERASA\n\nLeitura: janela de ~7h34min desde a ultima passada completa (06/10 00:50 -> 06/10 08:24), com Ticto como gateway rotativo (escolhido por estar ha mais tempo sem varredura, ultima vez 05/10 09:48, entao a janela real do Ticto foi de ~22h36min e cobriu de sobra, chegando a reclamacoes de mais de 1 mes atras sem rate-limit). Mesma instabilidade usual do ReclameAqui nos quatro gateways fixos: das 15 paginas pedidas por gateway, so a pagina 1 (e eventualmente uma pagina isolada no meio) voltaram com reclamacoes reais, o resto voltou '0 de 0' - cobertura real concentrada na pagina 1 de cada gateway fixo. O Ticto, ao contrario, paginou normalmente sem rate-limit e cobriu as 15 paginas com conteudo real.",
+    "resumo": "Janela de ~7h30 nos 4 gateways fixos + Ticto como rotativo; achados dominados por reconfirmacoes (Stalkeia.ai, Boss IA Trade, Direct Line, guia de receitas pets) e duas estreias de baixo sinal (Frequencia DaVinci, curso de bateria sem nome) mais um alerta de mentoria com pratica predatoria (Thiago Lobos)."
+  }
+}

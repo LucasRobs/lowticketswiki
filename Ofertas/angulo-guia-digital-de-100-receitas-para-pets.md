@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-guia-digital-de-100-receitas-para-pets"
-gateways_detectados: []
+gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: []
+ra_reclamacoes: 2
+ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-06
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-06
+
+2 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado em dia diferente (05/10 e 06/10) com preco identico de R$30,89: guia digital de receitas para pets vendido por anuncio patrocinado, comprador diz que o conteudo nao existe/e incompleto - propaganda enganosa confirmada duas vezes.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/comprei-um-guia-digital-de-receitas-e-fui-enganado_OWfj_A-XikafwrHE/

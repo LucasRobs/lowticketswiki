@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 249,
+  "ofertas": 251,
   "angulos": 58,
-  "observacoes": 556,
+  "observacoes": 560,
   "dias_radar": 27,
-  "passadas": 52,
+  "passadas": 53,
   "analises": 12,
   "ultima_rodada": "2026-10-06"
  },
@@ -845,12 +845,13 @@
    "classe": "angulo",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
    "gateways": [
-    "perfectpay"
+    "perfectpay",
+    "ticto"
    ],
    "plataforma_ads": [
     "meta"
@@ -872,26 +873,25 @@
    "score": 1.85,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=rastreador%20celular&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
    "resumo": "Duas reclamações de 'rastreador de celular' pago via Pix sem entrega das informações/acesso. Pode ser o mesmo cluster do Stalkeia/ZAP Radar, mas sem nome de marca confirmado no texto.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2327,7 +2327,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "cakto"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2353,7 +2355,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-06",
    "bump_oculto": false,
@@ -4305,7 +4307,7 @@
    "classe": "oferta",
    "nicho": "saude-bemestar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -4332,27 +4334,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-06",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 2,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8745,6 +8746,61 @@
    ]
   },
   {
+   "slug": "frequencia-davinci",
+   "nome": "Frequencia DaVinci",
+   "classe": "oferta",
+   "nicho": "saude-bemestar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Frequencia%20DaVinci&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Estreia. Produto de audio/frequencia terapeutica vendido por assinatura via Cakto. Reclamacao de falta de contato/resposta da empresa, sem mais detalhes do problema.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "gestor-ia",
    "nome": "Gestor IA",
    "classe": "oferta",
@@ -11950,6 +12006,61 @@
    "ultima_obs": "2026-09-25",
    "n_citacoes": 6,
    "resumo": "Mentoria que promete suporte hands-on mas não entrega. Email inacessível, suporte via WhatsApp sem resposta. Mecânica: cobra tudo na frente, suporte não responsivo após venda.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "mentoria-thiago-lobos",
+   "nome": "Mentoria Thiago Lobos",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-06",
+   "visto_ultimo": "2026-10-06",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-06",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Lobos%20mentoria&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-06",
+   "n_citacoes": 1,
+   "resumo": "Estreia. Mentoria parcelada; aluno relata que os primeiros dias foram so slides/conversa, depois pediram para gravar videos promovendo produtos que nao existem. Reembolso negado e nome enviado ao SPC/SERASA - pratica predatoria a observar, ticket mais alto…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -17026,8 +17137,8 @@
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
-   "ofertas_vistas": 27,
-   "novas": 8,
+   "ofertas_vistas": 31,
+   "novas": 10,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -17036,10 +17147,11 @@
     "kiwify",
     "monetizze",
     "perfectpay",
+    "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -17484,6 +17596,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-06 -- 0824.md",
+   "data": "2026-10-06",
+   "hora": "08:24",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 15 · Coleta: parcial · Achados: 8 ## Quentes Stalkeia.ai (PerfectPay) - reconfirmado sob Stalkea AI / Stalke.ai Bike in Casa (Ticto) - 2 reclamacoes em dias diferentes…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 0050.md",
    "data": "2026-10-06",
@@ -18619,7 +18748,7 @@
     "angulo": 11
    },
    "2026-10-06": {
-    "oferta": 3,
+    "oferta": 5,
     "angulo": 5
    }
   },
@@ -18649,7 +18778,7 @@
    "2026-10-03": 34,
    "2026-10-04": 91,
    "2026-10-05": 70,
-   "2026-10-06": 27
+   "2026-10-06": 31
   }
  },
  "analises": [
@@ -19052,49 +19181,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 249
+    "total": 251
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 249
+    "total": 251
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 249
+    "total": 251
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 220,
-    "total": 249
+    "preenchidas": 222,
+    "total": 251
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 135,
-    "total": 249
+    "total": 251
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 249
+    "total": 251
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 249
+    "total": 251
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 193,
-    "total": 249
+    "preenchidas": 195,
+    "total": 251
    }
   ],
   "fila_enriquecimento": [
@@ -19123,7 +19252,6 @@
    "aerobico-ritmado",
    "angulo-apostilas-genericas-com-conteudo-copiado-yampi-sem-nome",
    "angulo-apostilas-receitas-plagiadas-via-google-drive",
-   "angulo-apps-de-rastreamento-de-celular-sem-nome-confirmado",
    "angulo-arquivos-digitais-com-fotos-divergentes-do-anunciado",
    "angulo-arquivos-digitais-com-propaganda-enganosa-cakto-sem-nome",
    "angulo-arquivos-digitais-com-propaganda-enganosa-sem-nome",
@@ -19158,7 +19286,6 @@
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
    "appluna-net",
    "autismo-para-pais-lacerda",
-   "bike-in-casa",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "caderno-de-professor",
@@ -19248,7 +19375,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 863
+   "canonico": 869
   }
  },
  "vocabulario": {
@@ -19295,22 +19422,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "00a14d6f8cb0031f",
-  "atualizado_em": "2026-10-06T00:56:52-03:00",
-  "ofertas": 249,
+  "hash": "43583b1b508fb89c",
+  "atualizado_em": "2026-10-06T08:25:21-03:00",
+  "ofertas": 251,
   "angulos": 58,
-  "observacoes": 556,
+  "observacoes": 560,
   "ultima_rodada": "2026-10-06",
   "ultima_passada": {
    "data": "2026-10-06",
-   "hora": "00:50",
+   "hora": "08:24",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "monetizze"
+    "ticto"
    ]
   }
  }

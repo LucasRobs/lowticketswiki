@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-06
+
+1 mencao(oes) nesta varredura (gateway Cakto). 2a reclamacao sobre o app por assinatura Direct Line (estreou as 00:50). Usuario quer cancelar a assinatura por insatisfacao com o app.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/
