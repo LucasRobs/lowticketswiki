@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 256,
+  "ofertas": 258,
   "angulos": 60,
-  "observacoes": 572,
-  "dias_radar": 27,
-  "passadas": 58,
+  "observacoes": 574,
+  "dias_radar": 28,
+  "passadas": 59,
   "analises": 12,
-  "ultima_rodada": "2026-10-06"
+  "ultima_rodada": "2026-10-07"
  },
  "ofertas": [
   {
@@ -783,7 +783,8 @@
    "resumo": "Apostilas/materiais de estudo genericos com conteudo copiado da internet, vendedor com contato falso. Segundo dia diferente de aparicao - sobe para morna.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -944,7 +945,8 @@
    "resumo": "Duas reclamacoes novas de apps de rastreamento sem marca. Uma repete EXATAMENTE a mesma mecanica de 3 cobrancas crescentes (27,90+19,90+37,90=85,70) ja vista em rodada anterior - mesmo funil, sinal forte de trafego pago continuo. Nenhuma marca identificada…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -1871,7 +1873,8 @@
    "resumo": "Curso de bateria online vendido via Ticto, sem marca/vendedor identificado no texto da reclamação. Comprador pagou e, 4 dias depois, ainda não tinha recebido credenciais de acesso nem confirmação por e-mail.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2032,7 +2035,8 @@
    "resumo": "Curso de velas artesanais anunciado no Instagram com a persona 'Tia Rose', mas entregue por outra instrutora (identificada como Cidinha) em vídeos curtos de baixa qualidade. Mesma mecânica de persona de vendas divergente da entrega vista em outros cursos de…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2421,7 +2425,8 @@
    "resumo": "Guia digital de receitas caseiras para pets vendido por anúncio patrocinado, R$30,89. Comprador recebeu material incompleto e de baixa qualidade, sem nome de vendedor identificado.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2704,7 +2709,8 @@
    "resumo": "App vendido por anúncio prometendo ganhos com criptomoedas via IA; comprador pagou R$49 de entrada e depois uma taxa adicional pra liberar acesso, sem conseguir usar o app. Mecânica clássica de order bump/trava de saque.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2809,7 +2815,8 @@
    "resumo": "Venda de pacote de 500-700 'seguidores reais e brasileiros' para Instagram por R$87. Comprador diz não ter recebido nada. Ângulo clássico de growth-hacking/redes sociais.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4239,7 +4246,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8014,7 +8022,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8348,7 +8357,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8513,7 +8523,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9014,7 +9025,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9568,7 +9580,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10066,7 +10079,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10232,7 +10246,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -12172,6 +12187,61 @@
    ]
   },
   {
+   "slug": "mentoria-do-thiago-lobos",
+   "nome": "Mentoria do Thiago Lobos",
+   "classe": "oferta",
+   "nicho": "mentoria-comunidade",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Lobos%20mentoria&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 1,
+   "resumo": "Reaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e gerando atrito pós-venda.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "mentoria-mulheres-cristas-saradas",
    "nome": "Mentoria para Mulheres Cristas — Saradas para Sarar",
    "classe": "oferta",
@@ -12386,12 +12456,13 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Lobos%20mentoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-06",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Estreia. Mentoria parcelada; aluno relata que os primeiros dias foram so slides/conversa, depois pediram para gravar videos promovendo produtos que nao existem. Reembolso negado e nome enviado ao SPC/SERASA - pratica predatoria a observar, ticket mais alto…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -13840,6 +13911,61 @@
    ]
   },
   {
+   "slug": "orientacao-farmaceutica-na-pratica-2-0",
+   "nome": "Orientação Farmacêutica na Prática 2.0",
+   "classe": "oferta",
+   "nicho": "educacao-continuada-saude",
+   "sub_nicho": "farmacia",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 189.71,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 189.71,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Orientação%20Farmacêutica%20na%20Prática&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 1,
+   "resumo": "Curso/mentoria de atualização prática para farmacêuticos, vendido via Hotmart. Reclamante pagou R$189,71 e cobra conteúdo/suporte prometido. Menção única nesta varredura.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "pack-produtos-validados-sistema-billion",
    "nome": "Pack Produtos Validados Sistema Billion",
    "classe": "oferta",
@@ -14835,7 +14961,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -17516,6 +17643,25 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-10-07.md",
+   "data": "2026-10-07",
+   "titulo": "Radar 2026-10-07",
+   "ofertas_vistas": 2,
+   "novas": 2,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "monetizze",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
+  {
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
@@ -17980,6 +18126,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-07 -- 1348.md",
+   "data": "2026-10-07",
+   "hora": "13:48",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "mentoria-thiago-lobos"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 2 ## Quentes nenhum ## Mornas mentoria-thiago-lobos — Hotmart · reapareceu em nova reclamacao ## Frias…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 1714.md",
    "data": "2026-10-06",
@@ -19228,6 +19393,10 @@
    "2026-10-06": {
     "oferta": 10,
     "angulo": 7
+   },
+   "2026-10-07": {
+    "oferta": 2,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -19256,7 +19425,8 @@
    "2026-10-03": 34,
    "2026-10-04": 91,
    "2026-10-05": 70,
-   "2026-10-06": 43
+   "2026-10-06": 43,
+   "2026-10-07": 2
   }
  },
  "analises": [
@@ -19659,49 +19829,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 256
+    "total": 258
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 256
+    "total": 258
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 256
+    "total": 258
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 227,
-    "total": 256
+    "preenchidas": 229,
+    "total": 258
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 136,
-    "total": 256
+    "preenchidas": 137,
+    "total": 258
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 256
+    "total": 258
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 256
+    "total": 258
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 200,
-    "total": 256
+    "preenchidas": 202,
+    "total": 258
    }
   ],
   "fila_enriquecimento": [
@@ -19729,7 +19899,9 @@
    "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
    "angulo-apostilas-genericas-com-conteudo-copiado-yampi-sem-nome",
+   "angulo-apostilas-genericas-plagiadas-yampi-sem-nome",
    "angulo-apostilas-receitas-plagiadas-via-google-drive",
+   "angulo-apps-de-rastreamento-sem-nome-camadas-r-85-70",
    "angulo-arquivos-digitais-com-fotos-divergentes-do-anunciado",
    "angulo-arquivos-digitais-com-propaganda-enganosa-cakto-sem-nome",
    "angulo-arquivos-digitais-com-propaganda-enganosa-sem-nome",
@@ -19742,12 +19914,17 @@
    "angulo-cobranca-adicional-pos-venda-em-curso-online-generico",
    "angulo-cobranca-extra-para-liberar-acesso",
    "angulo-curso-comunidade-fornecedores-revenda",
+   "angulo-curso-de-bateria-online-sem-nome",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
+   "angulo-curso-de-velas-artesanais-persona-tia-rose",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
+   "angulo-guia-digital-de-100-receitas-para-pets",
    "angulo-material-pronto-para-quem-ensina-danca",
+   "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
    "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
+   "angulo-pacote-de-seguidores-para-instagram",
    "angulo-produto-digital-instagram",
    "angulo-quiz-retrato-ia",
    "angulo-rastreador-de-celular-generico",
@@ -19763,6 +19940,7 @@
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
    "appluna-net",
+   "atlas-das-patologias",
    "autismo-para-pais-lacerda",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
@@ -19793,18 +19971,25 @@
    "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
+   "direct-line-app",
    "do-rabisco-a-letra-bonita",
+   "dossie-do-emagrecimento",
+   "evoluft-programa-de-exercicios",
    "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
    "fluency-english",
    "formacao-mestre-do-acabamento",
    "fornecedores-ocultos-fornecedores-nfc",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
+   "frequencia-davinci",
    "glow-mode",
    "gtd-academy-anderson-seabra",
+   "guia-de-financas-gabriela-vitorino",
    "hero-live-shop",
    "hub-boss-rateio-ia",
+   "ia-do-futuro",
    "ia-fx-promocional",
+   "iara-shoppe-360",
    "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
    "imersao-tradutor-de-almas-andrea-vermont",
    "indicadores-de-trading",
@@ -19816,6 +20001,7 @@
    "licao-kids",
    "little-genius",
    "mdr-despertar-2-0",
+   "mentoria-thiago-lobos",
    "metodo-live-perpetua-liveflow-ia",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
@@ -19837,6 +20023,7 @@
    "portovian",
    "postcloner",
    "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
+   "protocolo-3s",
    "protocolo-testosterona-2-0",
    "quadradinhos-da-vovo",
    "rpr-recomendacoes-personalizadas-remotas",
@@ -19853,7 +20040,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 888
+   "canonico": 892
   }
  },
  "vocabulario": {
@@ -19900,22 +20087,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "22189375f2ae15fe",
-  "atualizado_em": "2026-10-06T17:17:42-03:00",
-  "ofertas": 256,
+  "hash": "60cc285df7f80fa3",
+  "atualizado_em": "2026-10-07T13:51:02-03:00",
+  "ofertas": 258,
   "angulos": 60,
-  "observacoes": 572,
-  "ultima_rodada": "2026-10-06",
+  "observacoes": 574,
+  "ultima_rodada": "2026-10-07",
   "ultima_passada": {
-   "data": "2026-10-06",
-   "hora": "17:14",
+   "data": "2026-10-07",
+   "hora": "13:48",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "monetizze"
    ]
   }
  }

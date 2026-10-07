@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-07.md",
+   "data": "2026-10-07",
+   "titulo": "Radar 2026-10-07",
+   "ofertas_vistas": 2,
+   "novas": 2,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "monetizze",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-07\n\n## Novas\n\n- [[orientacao-farmaceutica-na-pratica-2-0]] — educacao-continuada-saude — R$ 189,71 — Curso/mentoria de atualização prática para farmacêuticos, vendido via Hotmart. Reclamante pagou R$189,71 e cobra conteúdo/suporte…\n- [[mentoria-do-thiago-lobos]] — mentoria-comunidade —  — Reaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e…\n\n## Movimento\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-07 -- 1348]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 2 achado(s) - Pagina 2+ do ReclameAqui segue fora do ar (7a passada seguida); so pagina 1 dos 5 gateways + monetizze (rotativo) rendeu. 2 achados: 1…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-06.md",
    "data": "2026-10-06",
    "titulo": "Radar 2026-10-06",
@@ -466,6 +485,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-07 -- 1348.md",
+   "data": "2026-10-07",
+   "hora": "13:48",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "mentoria-thiago-lobos"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-07]].\n\n# Rodada — 07/10/2026 · 13:48 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, monetizze · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 2\n\n## Quentes\n- nenhum\n\n## Mornas\n- [[mentoria-thiago-lobos]] — Hotmart · reapareceu em nova reclamacao\n\n## Frias\n- [[orientacao-farmaceutica-na-pratica-20]] — Hotmart · achado novo, mencao unica\n\nLeitura: falha sistemica de paginacao do ReclameAqui confirmada pela 7a passada automatica consecutiva, agora cobrindo ~21h (ultima rodada boa-fe: 06/10 17:14; antes 08:24, 08:25, 10:28, 12:47, 14:53). Pagina 1 responde normalmente em todos os gateways testados (perfectpay, cakto-pay, kiwify, hotmart, monetizze); pagina 2 em diante devolve '0 de 0 reclamacoes' sem excecao, inclusive em monetizze (gateway rotativo desta passada, nao testado nas ultimas rodadas). Abertas 11 reclamacoes de pagina 1 (perfectpay x2, cakto-pay x2, kiwify x2, hotmart x5) buscando nome fora do titulo. Quase todas as marcas identificaveis (Stalkea/Stalkeia/Stalker AI, Boss IA Trade, Direct Line, Frequencia DaVinci, Manual do Milhao/Lasy IA, guia digital de receitas, IA do Futuro) ja estavam no vault. 'Pages' no Hotmart e a ferramenta de hospedagem de pagina da propria Hotmart, nao oferta de terceiro — ignorado. Dois achados novos: curso de atualizacao farmaceutica inedito (mencao unica) e reaparicao da Mentoria do Thiago Lobos em reclamacao nova.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-06 -- 1714.md",
    "data": "2026-10-06",
