@@ -24,7 +24,7 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: morta
 visto_primeiro: 2026-10-07
 visto_ultimo: 2026-10-07
 rodadas_vista: 1
@@ -36,16 +36,18 @@ ativos_pasta: "Ativos/mentoria-do-thiago-lobos"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 0
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-07
-veredito: observar
+veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
 ---
 
 # Mentoria do Thiago Lobos
+
+> **DUPLICATA — corrigido manualmente.** Esta nota nasceu de um erro de nomenclatura da rodada 2026-10-07 13:48 ("Mentoria do Thiago Lobos" em vez de "Mentoria Thiago Lobos"), o que impediu o merge automatico. A mencao e a evidencia desta reclamacao foram incorporadas a [[mentoria-thiago-lobos]]. Nao conte esta nota nas estatisticas — mantida apenas porque este ambiente nao pode apagar arquivos.
 
 ## Angulo
 Reaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e gerando atrito pós-venda.

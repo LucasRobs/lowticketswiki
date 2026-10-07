@@ -31,7 +31,7 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "morta",
   "visto_primeiro": "2026-10-07",
   "visto_ultimo": "2026-10-07",
   "rodadas_vista": 1,
@@ -45,13 +45,13 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 0,
   "ra_plataformas": [
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
   "ra_checado": "2026-10-07",
-  "veredito": "observar",
+  "veredito": "descartar",
   "prioridade": 0,
   "tags": [
    "oferta",
@@ -71,21 +71,8 @@
    "hotmart"
   ]
  },
- "corpo": "# Mentoria do Thiago Lobos\n\n## Angulo\nReaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e gerando atrito pós-venda.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-cobranca-indevida-da-pages-e-quero-estorno_fR8DvfLnBkBVRnGq/\n\n## Historico\n",
- "observacoes": [
-  {
-   "data": "2026-10-07",
-   "fonte": "reclame-aqui",
-   "ra_reclamacoes": 1,
-   "criativos_ativos": 0,
-   "criativos_novos": 0,
-   "dias_no_ar": 0,
-   "ticket_frente": 0,
-   "preco_mudou": false,
-   "angulo_novo": true,
-   "texto": "Primeira vez vista. Reaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e gerando atrito pós-venda."
-  }
- ],
+ "corpo": "# Mentoria do Thiago Lobos\n\n> **DUPLICATA — corrigido manualmente.** Esta nota nasceu de um erro de nomenclatura da rodada 2026-10-07 13:48 (\"Mentoria do Thiago Lobos\" em vez de \"Mentoria Thiago Lobos\"), o que impediu o merge automatico. A mencao e a evidencia desta reclamacao foram incorporadas a [[mentoria-thiago-lobos]]. Nao conte esta nota nas estatisticas — mantida apenas porque este ambiente nao pode apagar arquivos.\n\n## Angulo\nReaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e gerando atrito pós-venda.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-cobranca-indevida-da-pages-e-quero-estorno_fR8DvfLnBkBVRnGq/\n\n## Historico\n",
+ "observacoes": [],
  "citacoes": [
   {
    "tipo": "radar",

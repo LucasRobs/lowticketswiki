@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: nova
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-06
-rodadas_vista: 1
+visto_ultimo: 2026-10-07
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mentoria-thiago-lobos"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-07
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -60,7 +60,7 @@ anuncio -> pagina -> checkout hotmart -> ver evidencia.
 <!-- preencher com leitura humana -->
 
 ## Estado dos dados
-- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-06 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
+- **Confirmado:** existencia, 2 mencao(oes) nas varreduras de 2026-10-06 e 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas). Reclamacao de 2026-10-07 (publicada 05/10) confirma que a oferta segue ativa e gerando atrito pos-venda: https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-cobranca-indevida-da-pages-e-quero-estorno_fR8DvfLnBkBVRnGq/
 - **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.
 - **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
 

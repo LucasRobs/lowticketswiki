@@ -12192,8 +12192,8 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "nova",
-   "veredito": "observar",
+   "status": "morta",
+   "veredito": "descartar",
    "prioridade": 0,
    "checkout": "hotmart",
    "gateways": [
@@ -12224,15 +12224,15 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 0,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-07",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Lobos%20mentoria&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-07",
+   "n_obs": 0,
+   "ultima_obs": "",
    "n_citacoes": 1,
    "resumo": "Reaparece em nova reclamação (publicada 05/10/2026) sobre cobrança indevida referente à mentoria — reforça que a oferta segue ativa e gerando atrito pós-venda.",
    "flags": [
@@ -12442,21 +12442,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-07",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Thiago%20Lobos%20mentoria&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 3,
    "resumo": "Estreia. Mentoria parcelada; aluno relata que os primeiros dias foram so slides/conversa, depois pediram para gravar videos promovendo produtos que nao existem. Reembolso negado e nome enviado ao SPC/SERASA - pratica predatoria a observar, ticket mais alto…",
    "flags": [
     "score-provisorio",
@@ -13957,7 +13957,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Orientação%20Farmacêutica%20na%20Prática&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-07",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Curso/mentoria de atualização prática para farmacêuticos, vendido via Hotmart. Reclamante pagou R$189,71 e cobra conteúdo/suporte prometido. Menção única nesta varredura.",
    "flags": [
     "score-provisorio",
@@ -17647,8 +17647,8 @@
    "data": "2026-10-07",
    "titulo": "Radar 2026-10-07",
    "ofertas_vistas": 2,
-   "novas": 2,
-   "retornaram": 0,
+   "novas": 1,
+   "retornaram": 1,
    "sumiram": 0,
    "fontes": [
     "cakto",
@@ -18141,7 +18141,8 @@
    "coleta": "parcial",
    "origem": "tarefa agendada",
    "ofertas": [
-    "mentoria-thiago-lobos"
+    "mentoria-thiago-lobos",
+    "orientacao-farmaceutica-na-pratica-2-0"
    ],
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 2 ## Quentes nenhum ## Mornas mentoria-thiago-lobos — Hotmart · reapareceu em nova reclamacao ## Frias…"
   },
@@ -19870,7 +19871,7 @@
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 202,
+    "preenchidas": 201,
     "total": 258
    }
   ],
@@ -20087,8 +20088,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "60cc285df7f80fa3",
-  "atualizado_em": "2026-10-07T13:51:02-03:00",
+  "hash": "028ff1b5e140305e",
+  "atualizado_em": "2026-10-07T13:53:15-03:00",
   "ofertas": 258,
   "angulos": 60,
   "observacoes": 574,
