@@ -5,7 +5,7 @@
   "angulos": 67,
   "observacoes": 610,
   "dias_radar": 29,
-  "passadas": 66,
+  "passadas": 67,
   "analises": 12,
   "ultima_rodada": "2026-10-08"
  },
@@ -18634,7 +18634,7 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 6,
+   "n_passadas": 7,
    "leitura": ""
   },
   {
@@ -19122,6 +19122,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1719.md",
+   "data": "2026-10-08",
+   "hora": "17:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 20 · Coleta: parcial · Achados: 0 ## Sem achados novos Passada tecnicamente valida mas sem nenhum dado novo -- o travamento do ReclameAqui relatado na rodada anterior…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 1442.md",
    "data": "2026-10-08",
@@ -21235,22 +21252,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "e9d255d1ae0a5953",
-  "atualizado_em": "2026-10-08T14:53:58-03:00",
+  "hash": "342dd5eeef3713a6",
+  "atualizado_em": "2026-10-08T17:19:23-03:00",
   "ofertas": 269,
   "angulos": 67,
   "observacoes": 610,
   "ultima_rodada": "2026-10-08",
   "ultima_passada": {
    "data": "2026-10-08",
-   "hora": "14:42",
+   "hora": "17:19",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto"
+    "eduzz"
    ]
   }
  }
