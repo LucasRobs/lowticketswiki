@@ -1,0 +1,97 @@
+{
+ "slug": "mac-bruno-aguiar-3-0",
+ "arquivo": "Ofertas/mac-bruno-aguiar-3-0.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "mac-bruno-aguiar-3-0",
+  "nome": "MAC BRUNO AGUIAR 3.0",
+  "nicho": "a-identificar",
+  "sub_nicho": "",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "ticto",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MAC%20Bruno%20Aguiar&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 299.49,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 299.49,
+  "margem_est": 0.8,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [],
+  "tem_recorrencia": false,
+  "s_ticket": 10,
+  "s_lucro": 2,
+  "s_replica": 0,
+  "s_saturacao": 0,
+  "status": "nova",
+  "visto_primeiro": "2026-10-08",
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/mac-bruno-aguiar-3-0",
+  "gateways_detectados": [
+   "ticto"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [
+   "ticto"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-10-08",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 2.7,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "ticto"
+  ]
+ },
+ "corpo": "# MAC BRUNO AGUIAR 3.0\n\n## Angulo\nAchado novo no vault. 'Venda casada' citada explicitamente pelo reclamante (produto + algo amarrado na venda) -- sinal de order bump forcado. Vendedor nao identificado na reclamacao, so na propria Ticto como plataforma.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/erro-no-sistema-de-reembolso-e-venda-casada-em-curso-online_RgOtOuzorjgh5a5I/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 299.49,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira vez vista. Achado novo no vault. 'Venda casada' citada explicitamente pelo reclamante (produto + algo amarrado na venda) -- sinal de order bump forcado. Vendedor nao identificado na reclamacao, so na propria Ticto como plataforma."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  }
+ ]
+}

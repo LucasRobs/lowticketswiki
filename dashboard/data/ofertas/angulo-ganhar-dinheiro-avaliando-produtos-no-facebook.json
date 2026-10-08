@@ -31,22 +31,26 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-07",
-  "visto_ultimo": "2026-10-07",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/angulo-ganhar-dinheiro-avaliando-produtos-no-facebook",
-  "gateways_detectados": [],
+  "gateways_detectados": [
+   "perfectpay"
+  ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
-  "ra_plataformas": [],
+  "ra_reclamacoes": 2,
+  "ra_plataformas": [
+   "perfectpay"
+  ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-07",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -60,12 +64,13 @@
   "decisao": "padrao",
   "flags": [
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
-  "gateways": []
+  "gateways": [
+   "perfectpay"
+  ]
  },
- "corpo": "# Ganhar dinheiro avaliando produtos no Facebook\n\n## Angulo\nAchado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/\n\n## Historico\n",
+ "corpo": "# Ganhar dinheiro avaliando produtos no Facebook\n\n## Angulo\nAchado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/\n\n## Historico\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Mecanica classica de 'tarefa paga que nao entrega': licenca de R$48 para 'trabalhar no Facebook dando notas pra produtos'. 2ª rodada em dia diferente (07/10 e agora 08/10).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/\n",
  "observacoes": [
   {
    "data": "2026-10-07",
@@ -78,9 +83,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Achado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega)."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 48,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. Mecanica classica de 'tarefa paga que nao entrega': licenca de R$48 para 'trabalhar no Facebook dando notas pra produtos'. 2ª rodada em dia diferente (07/10 e agora 08/10)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1442.md",
+   "data": "2026-10-08",
+   "titulo": "Passada 2026-10-08 14:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-07.md",

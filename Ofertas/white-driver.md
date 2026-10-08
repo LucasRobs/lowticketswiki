@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-06
-rodadas_vista: 3
+visto_ultimo: 2026-10-08
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/white-driver"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 4
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-whit
 ## Rodada 2026-10-06
 
 2 mencao(oes) nesta varredura (gateway Ticto). App de mobilidade estilo Uber vendido como oportunidade de trabalho/renda extra para motorista; duas reclamações de datas próximas (início de julho) alegando que o app não funciona após o pagamento via Pix, sem suporte da produtora.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/
+
+## Rodada 2026-10-08
+
+4 mencao(oes) nesta varredura (gateway Ticto). App de 'mobilidade' vendido como renda extra para motoristas, comprador diz que não funciona após pagar via Pix. 4ª rodada (04/10, 06/10, 08/10) com a mesma reclamação ainda no ar.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/

@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 5,
   "ra_plataformas": [
    "ticto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "ticto"
   ]
  },
- "corpo": "# AI Trader Pro / IA Htaipro (plataforma TradeRomm Novadexy)\n\n## Angulo\nDuas reclamacoes nesta passada. Curso + IA de trading que direciona para deposito em corretora propria (TradeRomm Novadexy) alem das cobrancas do curso - padrao classico de isca para plataforma de operacao.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-de-compra-do-curso-ai-trader-pro-e-ia-htaipro-devido-a-proposta-editado-pelo-reclame-aqui_HCiX0ChN9IdARMIV/\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente, 2 reclamações nesta rodada - curso/IA de trading, R$37 por reclamação.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-urgente-do-curso-ai-trader-pro_fneupJFV32Wq84CR/\n\n## Rodada 2026-10-06\n\n3 mencao(oes) nesta varredura (gateway Ticto). Curso/plataforma de investimento com IA, vendido como 'AI Trader Pro' e também referido como 'IA Htaipro'. Três reclamações distintas espalhadas por ~2 meses (10/07, e datas de ~1 e ~2 meses atrás) alegando que os requisitos de depósito/saque foram omitidos na propaganda — sinal de oferta sustentada, não pico único.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-de-compra-do-curso-ai-trader-pro-e-ia-htaipro-devido-a-proposta-editado-pelo-reclame-aqui_HCiX0ChN9IdARMIV/\n",
+ "corpo": "# AI Trader Pro / IA Htaipro (plataforma TradeRomm Novadexy)\n\n## Angulo\nDuas reclamacoes nesta passada. Curso + IA de trading que direciona para deposito em corretora propria (TradeRomm Novadexy) alem das cobrancas do curso - padrao classico de isca para plataforma de operacao.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-de-compra-do-curso-ai-trader-pro-e-ia-htaipro-devido-a-proposta-editado-pelo-reclame-aqui_HCiX0ChN9IdARMIV/\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente, 2 reclamações nesta rodada - curso/IA de trading, R$37 por reclamação.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-urgente-do-curso-ai-trader-pro_fneupJFV32Wq84CR/\n\n## Rodada 2026-10-06\n\n3 mencao(oes) nesta varredura (gateway Ticto). Curso/plataforma de investimento com IA, vendido como 'AI Trader Pro' e também referido como 'IA Htaipro'. Três reclamações distintas espalhadas por ~2 meses (10/07, e datas de ~1 e ~2 meses atrás) alegando que os requisitos de depósito/saque foram omitidos na propaganda — sinal de oferta sustentada, não pico único.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-reembolso-de-compra-do-curso-ai-trader-pro-e-ia-htaipro-devido-a-proposta-editado-pelo-reclame-aqui_HCiX0ChN9IdARMIV/\n\n## Rodada 2026-10-08\n\n5 mencao(oes) nesta varredura (gateway Ticto). Combo curso + robo de trading automatizado. 4ª/5ª rodada (04/10, 06/10, agora 08/10) e desta vez com reclamação NOVA e distinta (URL inédita, texto: 'Curso AI Trader Pro é [editado]! Quero meu dinheiro de volta'), não é reaparição da mesma reclamação -- volume real de queixas crescendo.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/curso-ai-trader-pro-e-editado-pelo-reclame-aqui-quero-meu-dinheiro-de-volta_zu00WnVfbc80a0KH/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -108,9 +108,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "3 mencao(oes) na varredura de hoje. Curso/plataforma de investimento com IA, vendido como 'AI Trader Pro' e também referido como 'IA Htaipro'. Três reclamações distintas espalhadas por ~2 meses (10/07, e datas de ~1 e ~2 meses atrás) alegando que os requisitos de depósito/saque foram omitidos na propaganda — sinal de oferta sustentada, não pico único."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "5 mencao(oes) na varredura de hoje. Combo curso + robo de trading automatizado. 4ª/5ª rodada (04/10, 06/10, agora 08/10) e desta vez com reclamação NOVA e distinta (URL inédita, texto: 'Curso AI Trader Pro é [editado]! Quero meu dinheiro de volta'), não é reaparição da mesma reclamação -- volume real de queixas crescendo."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1442.md",
+   "data": "2026-10-08",
+   "titulo": "Passada 2026-10-08 14:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-06.md",

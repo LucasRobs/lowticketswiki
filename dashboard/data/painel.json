@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 267,
-  "angulos": 63,
-  "observacoes": 593,
+  "ofertas": 269,
+  "angulos": 67,
+  "observacoes": 610,
   "dias_radar": 29,
-  "passadas": 65,
+  "passadas": 66,
   "analises": 12,
   "ultima_rodada": "2026-10-08"
  },
@@ -599,21 +599,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=AI%20Trader%20Pro%20Htaipro&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 3,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 5,
    "resumo": "Duas reclamacoes nesta passada. Curso + IA de trading que direciona para deposito em corretora propria (TradeRomm Novadexy) alem das cobrancas do curso - padrao classico de isca para plataforma de operacao.",
    "flags": [
     "score-provisorio",
@@ -786,6 +786,60 @@
    "n_citacoes": 1,
    "resumo": "Ofertas confirmadas: Kit Alfabetização \"Destravar a Leitura\" (R$ 9, Hotmart), metodo-neuromusical (Kiwify), Curso Alfabetiza Kids (Kiwify).",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-aplicativo-de-controle-financeiro-para-motoristas-de-app-sem-nome",
+   "nome": "Aplicativo de controle financeiro para motoristas de app (sem nome)",
+   "classe": "angulo",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=planilha%20controle%20financeiro%20motorista%20de%20aplicativo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Angulo novo. 'Aplicativo de controle financeiro (planilha)' vendido para motoristas de app, reclamante diz que o produto nao existe/nao funciona e suporte inoperante.",
+   "flags": [
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -2019,22 +2073,126 @@
    "score": 1.5,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-07",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 3,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20bateria%20online&search_type=keyword_unordered&media_type=all",
+   "n_obs": 3,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 3,
+   "resumo": "Curso de bateria online vendido via Ticto, sem marca/vendedor identificado no texto da reclamação. Comprador pagou e, 4 dias depois, ainda não tinha recebido credenciais de acesso nem confirmação por e-mail.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-curso-de-bordado-sem-nome",
+   "nome": "Curso de bordado (sem nome)",
+   "classe": "angulo",
+   "nicho": "artesanato",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-07",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
-   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20bateria%20online&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-07",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20bordado%20online&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
    "n_citacoes": 1,
-   "resumo": "Curso de bateria online vendido via Ticto, sem marca/vendedor identificado no texto da reclamação. Comprador pagou e, 4 dias depois, ainda não tinha recebido credenciais de acesso nem confirmação por e-mail.",
+   "resumo": "Angulo novo. Curso de bordado vendido via Ticto, comprador diz que nao recebeu o produto; marca nao identificada (trecho editado pelo Reclame Aqui).",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-curso-de-musica-com-propaganda-enganosa-sem-nome",
+   "nome": "Curso de música com propaganda enganosa (sem nome)",
+   "classe": "angulo",
+   "nicho": "cursos-de-musica",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20musica%20online%20repertorio&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Angulo novo, distinto do curso de bateria ja conhecido. Curso de musica com repertorio variado em varios estilos, reclamante cita 'propaganda enganosa' explicitamente e diz que reembolso prometido pela empresa nao foi recebido.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -2543,11 +2701,13 @@
    "classe": "angulo",
    "nicho": "renda-celular-cashback-pix",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "perfectpay"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2568,26 +2728,25 @@
    "score": 1.9,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-07",
-   "visto_ultimo": "2026-10-07",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-07",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ganhar%20dinheiro%20avaliando%20produtos&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-07",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 3,
    "resumo": "Achado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2927,6 +3086,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-pacote-de-figurinha-virtual-sem-nome",
+   "nome": "Pacote de figurinha virtual (sem nome)",
+   "classe": "angulo",
+   "nicho": "colecionaveis-digitais",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 19.99,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 19.99,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=pacote%20de%20figurinhas%20virtuais&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Angulo novo. Pacote de figurinha virtual por R$19,99, comprador nao recebeu e-mail com orientacoes de uso/acesso e pede reembolso.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -4216,21 +4427,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Toca%20Simples%20app&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 3,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 5,
    "resumo": "Primeira aparicao. App vendido como solucao simples (segmento nao claro na reclamacao), descrito como diferente do anunciado com recusa de reembolso.",
    "flags": [
     "score-provisorio",
@@ -4631,6 +4842,61 @@
    ]
   },
   {
+   "slug": "aula-magnetica-com-obs",
+   "nome": "Aula Magnética Com OBS",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 38,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 38,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Aula%20Magnetica%20OBS&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo no vault. Curso de R$38 via Pix, comprador pede devolucao por insatisfacao com material e falta de suporte. Provavel curso de uso do software OBS para criacao de conteudo/lives.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "autismo-para-pais-lacerda",
    "nome": "Autismo para Pais — Rodolfo Lacerda",
    "classe": "oferta",
@@ -4772,21 +5038,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-07",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-07",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-07",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 6,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
@@ -4800,7 +5066,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -4827,27 +5093,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-07",
-   "visto_ultimo": "2026-10-07",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-07",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Body%20Piercer%20Extreme%20curso&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-07",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 3,
    "resumo": "Curso 'Body Piercer extreme' da produtora Bianca, reclamacao de acesso a certificado. Compra original de 2022 segundo o reclamante -- sinal fraco, pode nao refletir campanha ativa hoje. Achado novo, mencao unica.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10276,21 +10541,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hi%20Spy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 3,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 5,
    "resumo": "Primeira aparicao. Assinatura anual de app de espionagem, mesma familia de angulo do Stalkeia mas rodando via Ticto.",
    "flags": [
     "score-provisorio",
@@ -12178,6 +12443,61 @@
    ]
   },
   {
+   "slug": "mac-bruno-aguiar-3-0",
+   "nome": "MAC BRUNO AGUIAR 3.0",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 299.49,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 299.49,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MAC%20Bruno%20Aguiar&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo no vault. 'Venda casada' citada explicitamente pelo reclamante (produto + algo amarrado na venda) -- sinal de order bump forcado. Vendedor nao identificado na reclamacao, so na propria Ticto como plataforma.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "magias-amorosas-hoodoo",
    "nome": "Magias Amorosas - Hoodoo",
    "classe": "oferta",
@@ -12542,21 +12862,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mega%20CRM&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 3,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 5,
    "resumo": "Primeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.",
    "flags": [
     "score-provisorio",
@@ -15403,7 +15723,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -15430,27 +15750,26 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Frank%20Henrique%20produtor&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 3,
    "resumo": "Duas reclamacoes distintas no mesmo produtor nesta passada: 'O Som da Memoria' divulgado por 'Dr Henrique' e outro produto sem nome de 'Frank Henrique', com relato de reincidencia do mesmo problema em compra anterior - sinal de operacao com varios produtos…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15598,21 +15917,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Leite%20Sem%20Fim&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 6,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 8,
    "resumo": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
    "flags": [
     "score-provisorio",
@@ -17940,21 +18259,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=White%20Driver%20app%20motorista&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 6,
    "resumo": "Primeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.",
    "flags": [
     "score-provisorio",
@@ -18300,8 +18619,8 @@
    "arquivo": "Radar/2026-10-08.md",
    "data": "2026-10-08",
    "titulo": "Radar 2026-10-08",
-   "ofertas_vistas": 12,
-   "novas": 7,
+   "ofertas_vistas": 29,
+   "novas": 13,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -18311,10 +18630,11 @@
     "kiwify",
     "monetizze",
     "payt",
-    "perfectpay"
+    "perfectpay",
+    "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -18802,6 +19122,35 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1442.md",
+   "data": "2026-10-08",
+   "hora": "14:42",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 19,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "ai-trader-pro-ia-htaipro-plataforma-traderomm-novadexy",
+    "angulo-curso-de-bateria-online-sem-nome",
+    "angulo-ganhar-dinheiro-avaliando-produtos-no-facebook",
+    "aplicativo-toca-simples",
+    "bike-in-casa",
+    "body-piercer-extreme",
+    "hi-spy-4-0",
+    "mega-crm",
+    "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
+    "protocolo-leite-sem-fim",
+    "white-driver"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 19 · Coleta: parcial · Achados: 17 ## Quentes protocolo-leite-sem-fim -- Ticto, 'propaganda enganosa e suporte inexistente', 5ª rodada (24/09 a 08/10), oferta sustentada ha…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 1115.md",
    "data": "2026-10-08",
@@ -20193,8 +20542,8 @@
     "angulo": 2
    },
    "2026-10-08": {
-    "oferta": 6,
-    "angulo": 1
+    "oferta": 8,
+    "angulo": 5
    }
   },
   "observacoes": {
@@ -20225,7 +20574,7 @@
    "2026-10-05": 70,
    "2026-10-06": 43,
    "2026-10-07": 9,
-   "2026-10-08": 12
+   "2026-10-08": 29
   }
  },
  "analises": [
@@ -20628,49 +20977,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 267
+    "total": 269
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 267
+    "total": 269
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 267
+    "total": 269
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 238,
-    "total": 267
+    "preenchidas": 240,
+    "total": 269
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 139,
-    "total": 267
+    "preenchidas": 141,
+    "total": 269
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 267
+    "total": 269
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 267
+    "total": 269
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 210,
-    "total": 267
+    "preenchidas": 212,
+    "total": 269
    }
   ],
   "fila_enriquecimento": [
@@ -20720,7 +21069,6 @@
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
-   "angulo-ganhar-dinheiro-avaliando-produtos-no-facebook",
    "angulo-guia-digital-de-100-receitas-para-pets",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
@@ -20743,7 +21091,6 @@
    "appluna-net",
    "atlas-das-patologias",
    "autismo-para-pais-lacerda",
-   "body-piercer-extreme",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "caderno-de-professor",
@@ -20824,7 +21171,6 @@
    "portal-shakti-club",
    "portovian",
    "postcloner",
-   "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
    "protocolo-3s",
    "protocolo-testosterona-2-0",
    "quadradinhos-da-vovo",
@@ -20842,7 +21188,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 923
+   "canonico": 946
   }
  },
  "vocabulario": {
@@ -20889,22 +21235,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "b842730f59c75917",
-  "atualizado_em": "2026-10-08T11:18:18-03:00",
-  "ofertas": 267,
-  "angulos": 63,
-  "observacoes": 593,
+  "hash": "e9d255d1ae0a5953",
+  "atualizado_em": "2026-10-08T14:53:58-03:00",
+  "ofertas": 269,
+  "angulos": 67,
+  "observacoes": 610,
   "ultima_rodada": "2026-10-08",
   "ultima_passada": {
    "data": "2026-10-08",
-   "hora": "11:15",
+   "hora": "14:42",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "monetizze"
+    "ticto"
    ]
   }
  }

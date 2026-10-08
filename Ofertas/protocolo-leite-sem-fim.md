@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-06
-rodadas_vista: 4
+visto_ultimo: 2026-10-08
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/protocolo-leite-sem-fim"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 5
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-in
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Ticto). Infoproduto de lactação/amamentação vendido pela produtora 'Momento Materno' com garantia de reembolso de 30 dias. Comprador relata e-mails de suporte do produtor inválidos; Ticto reembolsou após intervenção.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/
+
+## Rodada 2026-10-08
+
+5 mencao(oes) nesta varredura (gateway Ticto). Produtora Momento Materno. Reclamação explicita 'propaganda enganosa e suporte inexistente', garantia de 30 dias não cumprida. 5ª rodada em que aparece (24/09, 04/10, 05/10, 06/10, agora 08/10) -- oferta sustentada há mais de 2 semanas.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/

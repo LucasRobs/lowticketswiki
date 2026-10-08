@@ -24,22 +24,22 @@ s_ticket: 6
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-07
-visto_ultimo: 2026-10-07
-rodadas_vista: 1
+visto_ultimo: 2026-10-08
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-ganhar-dinheiro-avaliando-produtos-no-facebook"
-gateways_detectados: []
+gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: []
+ra_reclamacoes: 2
+ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-07
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-08
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Mecanica classica de 'tarefa paga que nao entrega': licenca de R$48 para 'trabalhar no Facebook dando notas pra produtos'. 2ª rodada em dia diferente (07/10 e agora 08/10).
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/

@@ -35,8 +35,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 2,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "ticto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "ticto"
   ]
  },
- "corpo": "# White Driver\n\n## Angulo\nPrimeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente - app de mobilidade tipo Uber pra motorista, parou de funcionar após pagamento via Pix.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n\n## Rodada 2026-10-06\n\n2 mencao(oes) nesta varredura (gateway Ticto). App de mobilidade estilo Uber vendido como oportunidade de trabalho/renda extra para motorista; duas reclamações de datas próximas (início de julho) alegando que o app não funciona após o pagamento via Pix, sem suporte da produtora.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n",
+ "corpo": "# White Driver\n\n## Angulo\nPrimeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente - app de mobilidade tipo Uber pra motorista, parou de funcionar após pagamento via Pix.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n\n## Rodada 2026-10-06\n\n2 mencao(oes) nesta varredura (gateway Ticto). App de mobilidade estilo Uber vendido como oportunidade de trabalho/renda extra para motorista; duas reclamações de datas próximas (início de julho) alegando que o app não funciona após o pagamento via Pix, sem suporte da produtora.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n\n## Rodada 2026-10-08\n\n4 mencao(oes) nesta varredura (gateway Ticto). App de 'mobilidade' vendido como renda extra para motoristas, comprador diz que não funciona após pagar via Pix. 4ª rodada (04/10, 06/10, 08/10) com a mesma reclamação ainda no ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -110,9 +110,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. App de mobilidade estilo Uber vendido como oportunidade de trabalho/renda extra para motorista; duas reclamações de datas próximas (início de julho) alegando que o app não funciona após o pagamento via Pix, sem suporte da produtora."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. App de 'mobilidade' vendido como renda extra para motoristas, comprador diz que não funciona após pagar via Pix. 4ª rodada (04/10, 06/10, 08/10) com a mesma reclamação ainda no ar."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1442.md",
+   "data": "2026-10-08",
+   "titulo": "Passada 2026-10-08 14:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-06 -- 0825.md",

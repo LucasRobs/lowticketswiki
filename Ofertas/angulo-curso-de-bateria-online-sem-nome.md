@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-07
-rodadas_vista: 2
+visto_ultimo: 2026-10-08
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/angulo-curso-de-bateria-online-sem-nome"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-07
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-ba
 ## Rodada 2026-10-07
 
 1 mencao(oes) nesta varredura (gateway Ticto). Curso de bateria online sem marca identificada, comprado 30/09 com reclamacao de falta de acesso. Segunda rodada em que esse angulo aparece (06/10 e agora).
+
+Evidencia: https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/
+
+## Rodada 2026-10-08
+
+3 mencao(oes) nesta varredura (gateway Ticto). Curso de bateria sem marca identificada, comprador sem acesso. 3ª rodada (06/10, 07/10, agora 08/10) com a mesma reclamacao.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/

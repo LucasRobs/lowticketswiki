@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-06
-rodadas_vista: 3
+visto_ultimo: 2026-10-08
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/hi-spy-4-0"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 4
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Ticto). Possível clone/variante da família de apps de espionagem (nome lembra 'Stalkeia'/'Stalker'), aqui rodando via Ticto em vez de PerfectPay — reforça que esse nicho multiplica marca e gateway. Só uma reclamação até agora, vale monitorar.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/
+
+## Rodada 2026-10-08
+
+4 mencao(oes) nesta varredura (gateway Ticto). App de espionagem/rastreamento, mesma familia de ofertas 'Stalkeia' do nicho. 4ª rodada (04/10, 06/10, 08/10) com a mesma reclamação ainda visível.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/

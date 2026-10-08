@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "ticto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "ticto"
   ]
  },
- "corpo": "# MEGA CRM\n\n## Angulo\nPrimeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado - vendedor identificado como 'David', reembolso processado rápido (3 dias), baixa prioridade de golpe mas segue sendo venda ativa.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Ticto). Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n",
+ "corpo": "# MEGA CRM\n\n## Angulo\nPrimeira aparicao. CRM vendido como infoproduto, vendedor identificado apenas como 'David', sem suporte apos a compra.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado - vendedor identificado como 'David', reembolso processado rápido (3 dias), baixa prioridade de golpe mas segue sendo venda ativa.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Ticto). Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n\n## Rodada 2026-10-08\n\n4 mencao(oes) nesta varredura (gateway Ticto). Ferramenta de CRM vendida via Ticto. 4ª rodada em que aparece (04/10, 06/10, agora 08/10), mesma reclamação ainda no ar -- sinal de oferta ativa e pouco contestada.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -108,9 +108,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. Ferramenta de CRM vendida via Ticto. 4ª rodada em que aparece (04/10, 06/10, agora 08/10), mesma reclamação ainda no ar -- sinal de oferta ativa e pouco contestada."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1442.md",
+   "data": "2026-10-08",
+   "titulo": "Passada 2026-10-08 14:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-06.md",

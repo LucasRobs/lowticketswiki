@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-06
-rodadas_vista: 3
+visto_ultimo: 2026-10-08
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mega-crm"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 4
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Ticto). Ferramenta de CRM/vendas vendida por infoprodutor (cliente cita 'David' como referência pessoal). Ticto respondeu que atua só como processadora, acesso é liberado pelo vendedor.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/
+
+## Rodada 2026-10-08
+
+4 mencao(oes) nesta varredura (gateway Ticto). Ferramenta de CRM vendida via Ticto. 4ª rodada em que aparece (04/10, 06/10, agora 08/10), mesma reclamação ainda no ar -- sinal de oferta ativa e pouco contestada.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/minha-experiencia-com-o-mega-crm_QvKJum1ERqDVMjBT/
