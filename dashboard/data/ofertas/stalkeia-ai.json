@@ -35,8 +35,8 @@
   "s_saturacao": 3,
   "status": "ativa",
   "visto_primeiro": "2026-08-16",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 11,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 12,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": true,
   "upsell_oculto": false,
-  "ra_reclamacoes": 11,
+  "ra_reclamacoes": 15,
   "ra_plataformas": [
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 1,
   "tags": [
@@ -72,7 +72,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Stalkeia.ai\n\n## Angulo\nApp que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.\n\n## Funil\nanuncio -> promessa de 'teste gratuito' -> coleta de dados -> primeiro pagamento R$29,90-37 -> segunda cobranca de R$19,90 em creditos para 'liberar o resultado'.\n\n## Por que funciona\nA mecanica de credito e o produto: o primeiro pagamento nao entrega nada, so habilita a proxima cobranca. E o que sustenta CPA alto no front.\n\n## O que copiar / o que evitar\nCopiar: a estrutura de creditos escalonados. Evitar: o nicho inteiro - espionagem de terceiros e o que mais gera reembolso forcado e derrubada de conta de anuncio.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (5 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Historico\n\n## Correção 2026-08-21 — página de vendas e camada de firewall\n\nCandidato forte: **`stalkea.ai`** (\"a maior ferramenta de stalker do Brasil\"), SPA em JS.\nMarcado como **incerto** — o WebFetch só pega a casca da página.\n\nO achado que importa: existe um subdomínio **`up.stalkeia.website/firewall`**, página de\nproteção/redirecionamento antes do funil. É infraestrutura para **esconder o destino real\nda moderação de anúncios** do Meta. Sinal de operação madura e de que o criativo não\npoderia ser aprovado apontando direto para a oferta.\n\n## Rodada 2026-08-22 — sexta reclamacao, e a escada em numeros\n\nReclamacao de 17/08/2026 (ID 256618461), posterior a varredura de 16/08 — conta como nova.\n`ra_reclamacoes` 5 -> 6.\n\nO comprador registra o valor exato: **dois PIX, R\\$ 56,96 + R\\$ 37,00 = R\\$ 93,96**. O vault\ntinha `ticket_frente: 37` e `ticket_bump: 19`, somando 56. Os numeros reais nao batem com\nessa decomposicao — ha um degrau a mais ou um preco diferente do registrado.\n`ticket_medio_est` vai de 60 para 75, entre a frente conhecida e o topo observado.\n\nVale notar que a PerfectPay reembolsou em ~9 horas. Reembolso rapido em gateway grande\nreduz o custo de reclamar, o que **infla** a contagem em relacao a gateways lentos — e mais\num motivo para nao comparar `ra_reclamacoes` entre plataformas diferentes.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem_bsQiiX5mms5RNOcb/\n\n## Rodada 2026-08-23\n\nPerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista. Volume estavel e alto - a unica oferta do vault presente em todas as rodadas desde 16/08.\n\n## Rodada 2026-08-24\n\nPerfectPay. URL da reclamacao de hoje e identica a citada na nota de 22/08 (bsQiiX5mms5RNOcb) — a lista nao girou em dois dias. ra_reclamacoes mantido em 7: o 8 de ontem seria contagem dupla.\n\n## Rodada 2026-09-22\n\n8 mencao(oes) nesta varredura (gateway PerfectPay). App fake de espionar WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai, Stalkeia.com. Múltiplos gateways (confirmado em Mangofy também). Cobra créditos extras após venda para liberar resultados falsos.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Rodada 2026-09-23\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada nas passadas 04h41, 14h12 e 23h00. Grafias Stalkea.ai / StalkeaAI. Cobrancas duplicadas, R$ 47-152 por transacao, nao entrega.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Detalhe novo: cobrancas sucessivas na mesma compra - R$ 47, R$ 37,90, R$ 67,90 - cada funcao nova cobra taxa extra.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-10-05\n\n11 mencao(oes) nesta varredura (gateway PerfectPay). 3 reclamacoes nomeadas em 05/10, as primeiras com ID desde 256618461: 260841477 (app simula a interface do Instagram e inventa conversas), 260836685 (R$ 155,70 em 3 transacoes) e 260834783 (R$ 232,64 em 3 Pix no mesmo dia). Uma quarta (260833211, 'Stalker app', taxas sucessivas) provavelmente e a mesma operacao e nao foi contada. Taxa escalonada: tres cobrancas por compra.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/realizei-3-pagamentos-via-pix-para-e-o-produto-e-propaganda-enganosa_U29fQmXatOKQJ4w8/ (IDs 260841477, 260836685, 260834783)\n",
+ "corpo": "# Stalkeia.ai\n\n## Angulo\nApp que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.\n\n## Funil\nanuncio -> promessa de 'teste gratuito' -> coleta de dados -> primeiro pagamento R$29,90-37 -> segunda cobranca de R$19,90 em creditos para 'liberar o resultado'.\n\n## Por que funciona\nA mecanica de credito e o produto: o primeiro pagamento nao entrega nada, so habilita a proxima cobranca. E o que sustenta CPA alto no front.\n\n## O que copiar / o que evitar\nCopiar: a estrutura de creditos escalonados. Evitar: o nicho inteiro - espionagem de terceiros e o que mais gera reembolso forcado e derrubada de conta de anuncio.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (5 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Historico\n\n## Correção 2026-08-21 — página de vendas e camada de firewall\n\nCandidato forte: **`stalkea.ai`** (\"a maior ferramenta de stalker do Brasil\"), SPA em JS.\nMarcado como **incerto** — o WebFetch só pega a casca da página.\n\nO achado que importa: existe um subdomínio **`up.stalkeia.website/firewall`**, página de\nproteção/redirecionamento antes do funil. É infraestrutura para **esconder o destino real\nda moderação de anúncios** do Meta. Sinal de operação madura e de que o criativo não\npoderia ser aprovado apontando direto para a oferta.\n\n## Rodada 2026-08-22 — sexta reclamacao, e a escada em numeros\n\nReclamacao de 17/08/2026 (ID 256618461), posterior a varredura de 16/08 — conta como nova.\n`ra_reclamacoes` 5 -> 6.\n\nO comprador registra o valor exato: **dois PIX, R\\$ 56,96 + R\\$ 37,00 = R\\$ 93,96**. O vault\ntinha `ticket_frente: 37` e `ticket_bump: 19`, somando 56. Os numeros reais nao batem com\nessa decomposicao — ha um degrau a mais ou um preco diferente do registrado.\n`ticket_medio_est` vai de 60 para 75, entre a frente conhecida e o topo observado.\n\nVale notar que a PerfectPay reembolsou em ~9 horas. Reembolso rapido em gateway grande\nreduz o custo de reclamar, o que **infla** a contagem em relacao a gateways lentos — e mais\num motivo para nao comparar `ra_reclamacoes` entre plataformas diferentes.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem_bsQiiX5mms5RNOcb/\n\n## Rodada 2026-08-23\n\nPerfectPay, ha 8h: setima reclamacao acumulada, quarta rodada consecutiva vista. Volume estavel e alto - a unica oferta do vault presente em todas as rodadas desde 16/08.\n\n## Rodada 2026-08-24\n\nPerfectPay. URL da reclamacao de hoje e identica a citada na nota de 22/08 (bsQiiX5mms5RNOcb) — a lista nao girou em dois dias. ra_reclamacoes mantido em 7: o 8 de ontem seria contagem dupla.\n\n## Rodada 2026-09-22\n\n8 mencao(oes) nesta varredura (gateway PerfectPay). App fake de espionar WhatsApp/Instagram. Variações: Stalkeia.ai, Stalkea.ai, Stalkeia.com. Múltiplos gateways (confirmado em Mangofy também). Cobra créditos extras após venda para liberar resultados falsos.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-nao-entrega-de-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Rodada 2026-09-23\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkeia.com. Não entrega o prometido, carregamento lento. Cobra créditos extras.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-solicitacao-de-reembolso-por-aplicativo-de-espionagem-falso_zoL2pFAm1VieYFOp/\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Avistada nas passadas 04h41, 14h12 e 23h00. Grafias Stalkea.ai / StalkeaAI. Cobrancas duplicadas, R$ 47-152 por transacao, nao entrega.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Detalhe novo: cobrancas sucessivas na mesma compra - R$ 47, R$ 37,90, R$ 67,90 - cada funcao nova cobra taxa extra.\n\nEvidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-26\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Listada como ainda ativa na passada das 06h00.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-10-05\n\n11 mencao(oes) nesta varredura (gateway PerfectPay). 3 reclamacoes nomeadas em 05/10, as primeiras com ID desde 256618461: 260841477 (app simula a interface do Instagram e inventa conversas), 260836685 (R$ 155,70 em 3 transacoes) e 260834783 (R$ 232,64 em 3 Pix no mesmo dia). Uma quarta (260833211, 'Stalker app', taxas sucessivas) provavelmente e a mesma operacao e nao foi contada. Taxa escalonada: tres cobrancas por compra.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/realizei-3-pagamentos-via-pix-para-e-o-produto-e-propaganda-enganosa_U29fQmXatOKQJ4w8/ (IDs 260841477, 260836685, 260834783)\n\n## Rodada 2026-10-08\n\n15 mencao(oes) nesta varredura (gateway PerfectPay). 4 reclamacoes com ID novo em 07-08/10: 261105725 e 261102589 ('Stalkea AI - Acesso Completo 2.0'), 261061359 e 261044525 ('Stalkeia.com', R$ 47,90 e R$ 39,90). Aparece um nome de produto novo, 'Acesso Completo 2.0'.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261105725, 261102589, 261061359, 261044525)\n",
  "observacoes": [
   {
    "data": "2026-08-16",
@@ -205,9 +205,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "11 mencao(oes) na varredura de hoje. 3 reclamacoes nomeadas em 05/10, as primeiras com ID desde 256618461: 260841477 (app simula a interface do Instagram e inventa conversas), 260836685 (R$ 155,70 em 3 transacoes) e 260834783 (R$ 232,64 em 3 Pix no mesmo dia). Uma quarta (260833211, 'Stalker app', taxas sucessivas) provavelmente e a mesma operacao e nao foi contada. Taxa escalonada: tres cobrancas por compra."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 15,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 39.9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "15 mencao(oes) na varredura de hoje. 4 reclamacoes com ID novo em 07-08/10: 261105725 e 261102589 ('Stalkea AI - Acesso Completo 2.0'), 261061359 e 261044525 ('Stalkeia.com', R$ 47,90 e R$ 39,90). Aparece um nome de produto novo, 'Acesso Completo 2.0'."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0309.md",
+   "data": "2026-10-08",
+   "titulo": "Passada 2026-10-08 03:09"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-05 -- 1633.md",

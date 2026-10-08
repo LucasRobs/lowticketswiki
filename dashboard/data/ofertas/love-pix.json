@@ -33,10 +33,10 @@
   "s_lucro": 3,
   "s_replica": 2,
   "s_saturacao": 2,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-08-22",
-  "visto_ultimo": "2026-08-24",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 4,
   "dias_no_ar": 6,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": true,
   "upsell_oculto": true,
-  "ra_reclamacoes": 2,
+  "ra_reclamacoes": 3,
   "ra_plataformas": [
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "2026-08-17",
-  "ra_checado": "2026-08-24",
+  "ra_checado": "2026-10-08",
   "veredito": "descartar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Love Pix\n\n**A escada de taxas inteira num paragrafo.** R$ 25,90 na entrada, depois mais R$ 10, depois\nmais R$ 10 — \"totalizando 56 reais\" para liberar um saque que nunca chega. Esse e o\nmecanismo que o `Pipeline.md` chama de \"taxa pra liberar\", e e a razao pela qual o nicho\nde cashback/PIX continua produzindo reclamacao: o comprador ja pagou tres vezes quando\npercebe.\n\nRegistrada pela anatomia, nao pela oportunidade. Os dois upsells sao **pos-compra e\nocultos** — nao aparecem no checkout, aparecem depois, dentro do app, cada um com um\npretexto novo. Um Brute Mode na pagina de vendas nunca acharia: eles nao estao no DOM.\n\n## Funil\nanuncio -> pagina -> checkout PerfectPay R$ 25,90 -> app -> pedido de taxa 1 (R$ 10) ->\npedido de taxa 2 (R$ 10) -> saque nao liberado.\n\n## Por que nao replicar\nO ticket medio de R$ 56 so existe porque o produto nao entrega. Tirar a fraude tira a\nescada. `s_replica: 2` e teto, nao estimativa.\n\n## Estado dos dados\n- **Confirmado:** valores 25,90 / +10 / +10, gateway PerfectPay, reclamacao 17/08/2026\n  (ID 256617879), saque nao pago.\n- **Faltando:** pagina, criativos, dias no ar, se ha mais degraus na escada.\n\nParente proximo de [[cashnopix]] e [[lottoapp]] — mesmo nicho, mesma mecanica, mesmo\nveredito.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/aplicativo-love-pix-cobra-taxas-sucessivas-e-nao-realiza-o-pagamento-prometido_eiuEX2eJfSf-ipos/\n\n## Historico\n\n## Rodada 2026-08-23\n\nPerfectPay, ha 9h: a escada de taxas aparece completa e literal - \"primeiro pediu 25,90 depois pediu mais 10 reais e depois pediu mais 10 reais\". Confirma ticket_medio_est de 56 sem precisar de Brute Mode. 6 dias desde a primeira reclamacao.\n\n## Rodada 2026-08-24\n\nPerfectPay, mesma reclamacao com a escada 25,90 + 10 + 10. Sem alteracao.\n",
+ "corpo": "# Love Pix\n\n**A escada de taxas inteira num paragrafo.** R$ 25,90 na entrada, depois mais R$ 10, depois\nmais R$ 10 — \"totalizando 56 reais\" para liberar um saque que nunca chega. Esse e o\nmecanismo que o `Pipeline.md` chama de \"taxa pra liberar\", e e a razao pela qual o nicho\nde cashback/PIX continua produzindo reclamacao: o comprador ja pagou tres vezes quando\npercebe.\n\nRegistrada pela anatomia, nao pela oportunidade. Os dois upsells sao **pos-compra e\nocultos** — nao aparecem no checkout, aparecem depois, dentro do app, cada um com um\npretexto novo. Um Brute Mode na pagina de vendas nunca acharia: eles nao estao no DOM.\n\n## Funil\nanuncio -> pagina -> checkout PerfectPay R$ 25,90 -> app -> pedido de taxa 1 (R$ 10) ->\npedido de taxa 2 (R$ 10) -> saque nao liberado.\n\n## Por que nao replicar\nO ticket medio de R$ 56 so existe porque o produto nao entrega. Tirar a fraude tira a\nescada. `s_replica: 2` e teto, nao estimativa.\n\n## Estado dos dados\n- **Confirmado:** valores 25,90 / +10 / +10, gateway PerfectPay, reclamacao 17/08/2026\n  (ID 256617879), saque nao pago.\n- **Faltando:** pagina, criativos, dias no ar, se ha mais degraus na escada.\n\nParente proximo de [[cashnopix]] e [[lottoapp]] — mesmo nicho, mesma mecanica, mesmo\nveredito.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/aplicativo-love-pix-cobra-taxas-sucessivas-e-nao-realiza-o-pagamento-prometido_eiuEX2eJfSf-ipos/\n\n## Historico\n\n## Rodada 2026-08-23\n\nPerfectPay, ha 9h: a escada de taxas aparece completa e literal - \"primeiro pediu 25,90 depois pediu mais 10 reais e depois pediu mais 10 reais\". Confirma ticket_medio_est de 56 sem precisar de Brute Mode. 6 dias desde a primeira reclamacao.\n\n## Rodada 2026-08-24\n\nPerfectPay, mesma reclamacao com a escada 25,90 + 10 + 10. Sem alteracao.\n\n## Rodada 2026-10-08\n\n3 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261093573, 07/10): 'entrei no love pix me pediram um Pix de 20,00 e quando paguei o site sumiu'. Primeira mencao desde 24/08. Volta de esfriando.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261093573)\n",
  "observacoes": [
   {
    "data": "2026-08-22",
@@ -108,9 +108,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "PerfectPay, mesma reclamacao com a escada 25,90 + 10 + 10. Sem alteracao."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 20,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "3 mencao(oes) na varredura de hoje. 1 reclamacao com ID novo (261093573, 07/10): 'entrei no love pix me pediram um Pix de 20,00 e quando paguei o site sumiu'. Primeira mencao desde 24/08. Volta de esfriando."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-08-28.md",

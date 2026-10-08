@@ -26,20 +26,20 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-05
-rodadas_vista: 6
+visto_ultimo: 2026-10-08
+rodadas_vista: 7
 dias_no_ar: 54
-criativos_ultima: 16
-criativos_delta: 0
+criativos_ultima: 19
+criativos_delta: 3
 unfunnelizer_capturado: false
 ativos_pasta: 
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 10
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-05
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -145,3 +145,13 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ 
 ## Medicao 2026-10-05 (rodada diaria, Biblioteca de Anuncios)
 - Busca pelo dominio **"avaliacaogratuitapaizao"**: ~16 anuncios ativos de Carlao Silva, **8 deles iniciados em 03 e 04/10**. O mais antigo ativo hoje e de 18/08; o de 04/08 medido em 27/09 saiu do ar. `dias_no_ar` fica 54 (medicao de 27/09; a oferta esta no ar desde 04/08).
 - `criativos_ultima: 16` e linha de base nova (busca por dominio). A de 27/09 foi a busca larga "paizão" (8 carregados), entao `criativos_delta` fica 0. Oito criativos novos em dois dias e sinal de verba entrando, nao medida de delta.
+
+## Rodada 2026-10-08
+
+10 mencao(oes) nesta varredura (gateway Kirvano). 4 reclamacoes com ID novo em 06-07/10: 261071069, 261028367, 261000395, 260990099. A 261028367 da a escada cobrada: frente de R$ 49 e, sem autorizacao segundo a compradora, mais R$ 283 e 6x R$ 86 (o 'reembolse aqui' de R$ 284,90 de 02/10 reaparece com outro valor). Biblioteca, mesma busca de 05/10: ~19 anuncios de Carlao Silva (eram ~16), TODOS iniciados em 05 e 07/10 — o lote de 03-04/10 e o de 18/08 sairam do ar. Rotacao completa de criativo em 3 dias.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 261071069, 261028367, 261000395, 260990099)
+
+## Biblioteca 2026-10-08
+
+Mesma busca "avaliacaogratuitapaizao" de 05/10: ~19 anuncios de Carlao Silva (eram ~16, delta +3), **todos** iniciados em 05/10 (7) e 07/10 (12). O lote de 03-04/10 e o anuncio de 18/08 sairam do ar: rotacao completa de criativo em tres dias. `dias_no_ar` mantido em 54 como idade da operacao (anuncios desde 04/08), nao do criativo ativo mais antigo.

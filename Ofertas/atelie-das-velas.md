@@ -29,8 +29,8 @@ visto_primeiro: 2026-09-27
 visto_ultimo: 2026-10-05
 rodadas_vista: 2
 dias_no_ar: 131
-criativos_ultima: 33
-criativos_delta: 0
+criativos_ultima: 21
+criativos_delta: -12
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/atelie-das-velas"
 gateways_detectados: [kiwify]
@@ -102,3 +102,7 @@ Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=al
 - Na busca larga "velas artesanais" um anuncio dela aparece com inicio em **16/07/2024**. Pode ser agrupamento de criativo ("4 ads use this creative"); nao foi usado como `dias_no_ar`.
 - `s_saturacao` 0 (sentinela) → **6**: "velas artesanais" devolve ~1.100 resultados, mas quase todos sao fornecedores de insumo (RPK Parafinas, Lojao das Velas, Vaporo) e lojas de vela pronta. Infoproduto em pt-BR visivel: Carol e **Haromalita** (Metodo Velas Aromaticas, desde 17/12/2025, "+4000 alunas"). "curso de velas" e dominado por operadores em espanhol (Inspira Velas Artesanales desde 09/10/2025, Angelyc's Workshop). So a primeira leva carregou.
 - `s_lucro` fica **8**: 131 dias medidos, mas a faixa 9-10 pede criativos subindo e a serie comparavel comeca hoje. Score 5,50 → **6,40** (observar). Status: estava `esfriando` por ausencia no RA; a Biblioteca mostra a oferta viva.
+
+## Biblioteca 2026-10-08
+
+Mesma busca "Carol a artesã" de 05/10: ~21 resultados (eram ~33, delta -12); 17 de Carol a artesã/Carol Artesã. Mais antigo carregado de 12/06 (o de 27/05 saiu), criativo novo em 06/10. `dias_no_ar` mantido em 131 (idade da operacao).

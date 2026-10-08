@@ -2,6 +2,28 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08",
+   "ofertas_vistas": 18,
+   "novas": 5,
+   "retornaram": 4,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-08\n\n## Novas\n\n- [[pilates-na-parede-lastlink]] — saude-estetica-fitness —  — Plano de 21 dias de pilates na parede vendido por anuncio no Instagram, entregue num app que so lista o nome dos exercicios, sem video. 3…\n- [[malu-sua-assistente]] — ferramentas-ia — R$ 37,90 + R$ 24 (API) — Assistente para postar na loja da Shopee, R$ 37,90 no Pix; depois da compra pede mais R$ 24 'da API' para funcionar. 2 reclamacoes…\n- [[100-modelos-de-biscoitos-natalinos]] — gastronomia —  — Pacote de 4 PDFs de modelos de biscoitos decorados de Natal; a compradora recebeu 16 modelos e o resto em branco (261013199, 07/10)…\n- [[desafio-hiit-dance]] — danca — R$ 37 — Desafio de danca/HIIT a R$ 37 na Lastlink, compra de 05/10 nao entregue (260939505). Mesmo preco de entrada do Treino Trinca, no nicho de…\n- [[horinha-da-leitura]] — material-pedagogico —  — Videos curtos de alfabetizacao e matematica para criancas; a compradora diz que sao 6 videos de 2 minutos com 3 palavras cada (261031525…\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 41\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 10\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 15\n- [[zap-radar]] — ra_reclamacoes atualizado para 10\n- [[chatgpt-privado]] — ra_reclamacoes atualizado para 6\n- [[bike-in-casa]] — ra_reclamacoes atualizado para 3\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 2\n- [[gerachat]] — ra_reclamacoes atualizado para 1\n- [[white-driver]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[mdr-despertar-2-0]] — desenvolvimento-pessoal — reapareceu (2 mencao(oes))\n- [[mentoria-caio-martins]] — mentorias — reapareceu (2 mencao(oes))\n- [[pack-produtos-validados-sistema-billion]] — ganhar-dinheiro — reapareceu (2 mencao(oes))\n- [[love-pix]] — renda-celular-cashback — reapareceu (3 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nPrimeira rodada desde 05/10; as passadas 6x/dia seguem sem gravar. Sinal real nas mesmas tres notas: [[treino-trinca]] 33 → 41 (a assinatura Trinca Elite renova automatico), [[app-do-paizao]] 6 → 10 com escada R$ 49 + 283 + 6x 86 e rotacao completa dos anuncios em 05-07/10, [[stalkeia-ai]] 11 → 15. Quatro notas de PerfectPay/Cakto voltaram de esfriando com uma reclamacao cada; cinco estreias, duas com mais de uma mencao (Pilates na Parede, Malu).\n\n## Passadas do dia\n- [[2026-10-08 -- 0309]] - kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy - 18 achado(s) - rodada diaria — 8 gateways (incl. PerfectPay/Cakto), 33 paginas, ~175 corpos com ID + 4 buscas repetidas na Biblioteca; Trinca 33 → 41…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-05.md",
    "data": "2026-10-05",
    "titulo": "Radar 2026-10-05",
@@ -383,6 +405,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0309.md",
+   "data": "2026-10-08",
+   "hora": "03:09",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy"
+   ],
+   "paginas": 33,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "bike-in-casa",
+    "chatgpt-privado",
+    "stalkeia-ai",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-08]].\n\n# Rodada — 08/10/2026 · 03:09 Fortaleza\n\n**Gateways:** kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy · **Páginas:** 33 · **Coleta:** ok · **Achados:** 18\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 8 IDs novos (33 → 41); Trinca Elite renova automatico; Biblioteca ~210 (era ~230)\n- [[app-do-paizao]] — Kirvano · 4 IDs novos (6 → 10); escada R$ 49 + 283 + 6x 86; 19 anuncios, todos de 05-07/10\n- [[stalkeia-ai]] — PerfectPay · 4 IDs novos (11 → 15)\n\n## Mornas\n- [[zap-radar]] 8 → 10 · [[bike-in-casa]] 1 → 3 · [[chatgpt-privado]] 5 → 6\n- Estreias: Pilates na Parede (Lastlink, 3), Malu - Sua Assistente (Wiapy, 2)\n- Retornos: MDR Despertar, Mentoria Caio Martins, Pack Produtos Validados, Love Pix\n\nLeitura: o sinal continua concentrado nas mesmas tres notas; a escada recorrente apareceu no Trinca (renovacao do Elite).\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 1633.md",
    "data": "2026-10-05",

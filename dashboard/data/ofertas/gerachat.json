@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-27",
-  "visto_ultimo": "2026-10-02",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "ticto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-02",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "ticto"
   ]
  },
- "corpo": "# Gerachat\n\n## Angulo\nAssinatura de automacao de atendimento (chat); suporte precario e sistema diz que o comprador nao pagou. ID 260132115 (26/09).\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/quero-reembolso-do-gerachat-pois-nao-consigo-usar-e-fui-cobrado-indevidamente_mmm029crYY0g1eR0/\n\n## Historico\n\n## Rodada 2026-10-02\n\n1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 260132115 (26/09) continua na primeira pagina da Ticto. Sem reclamacao nova.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/lista-reclamacoes/ (ID 260132115)\n",
+ "corpo": "# Gerachat\n\n## Angulo\nAssinatura de automacao de atendimento (chat); suporte precario e sistema diz que o comprador nao pagou. ID 260132115 (26/09).\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/quero-reembolso-do-gerachat-pois-nao-consigo-usar-e-fui-cobrado-indevidamente_mmm029crYY0g1eR0/\n\n## Historico\n\n## Rodada 2026-10-02\n\n1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 260132115 (26/09) continua na primeira pagina da Ticto. Sem reclamacao nova.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/lista-reclamacoes/ (ID 260132115)\n\n## Rodada 2026-10-08\n\n1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 260132115 (26/09) relida na Ticto. Sem ID novo, contagem nao move.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 260132115, relida)\n",
  "observacoes": [
   {
    "data": "2026-09-27",
@@ -96,9 +96,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Avistamento: a mesma reclamacao 260132115 (26/09) continua na primeira pagina da Ticto. Sem reclamacao nova."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Avistamento: a mesma reclamacao 260132115 (26/09) relida na Ticto. Sem ID novo, contagem nao move."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-02.md",

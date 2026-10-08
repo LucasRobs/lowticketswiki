@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-10-05
+atualizado: 2026-10-08
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,34 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-10-05 (rodada diaria, complemento das 16h33)
+## Leitura atual — 2026-10-08 (rodada diaria)
+
+Passada: [[2026-10-08 -- 0309]] · nota do dia: [[2026-10-08]].
+
+**218 notas · 193 ofertas · 25 ângulos · 5 novas hoje · 18 vistas hoje · status: 62 nova · 45 ativa · 66 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Três dias de novo sem passada.** Entre 05/10 e 08/10 as passadas 6x/dia não gravaram nada em `Radar/rodadas/`. É o terceiro buraco seguido. A tarefa das 23h30 rodou às 03h09. Esta rodada cobriu numa passada só os oito gateways que em 05/10 tinham ficado divididos entre duas: Kiwify, Hotmart, Ticto, Lastlink, Kirvano, **PerfectPay, Cakto** e Wiapy. Foram 33 páginas e cerca de 175 corpos com ID e carimbo, quase todos de 06 e 07/10. As 3 a 5 páginas por gateway voltam só cerca de um dia e meio. **O intervalo entre a tarde de 05/10 e a manhã de 06/10 não foi lido**, e o que entrou nele pode ter ficado de fora. Payt, Lowify, Eduzz e Monetizze não foram varridos. A Biblioteca abriu sem aprovação. Desta vez ela foi usada só para **repetir as quatro buscas** que a autocrítica de 05/10 pediu.
+
+**Sinal novo real: sim, de novo concentrado nas mesmas três notas.**
+- [[treino-trinca]] ganhou **8 IDs novos** (261097585 a 260965163, todos acima de 260842051) e foi de 33 para **41**. Uma reclamação muda a leitura do funil. A 261087345 descreve a **renovação automática da assinatura Trinca Elite** em 06/10. O degrau de R$ 237,78 que 05/10 viu como upsell é **recorrente**. Outra reclamação nomeia um "kit Trinca Force" (260965163), mais um produto na escada. Na Biblioteca, com a mesma busca, o número foi de **~230 para ~210 (−20)**. Os 29 anúncios carregados continuam todos de Pedro Lotz, com criativos novos em 03 e 04/10. As reclamações estão acelerando enquanto o número de anúncios encolhe um pouco. É o primeiro delta negativo medido nessa nota. Score: **6,60**, sem mudança.
+- [[app-do-paizao]] teve **4 IDs novos** e foi de 6 para **10**. A 261028367 mostra a escada cobrada: **R$ 49 + R$ 283 + 6x R$ 86**. É a segunda vez em uma semana que aparece um valor alto perto de R$ 284 depois da frente, o que torna menos provável que o relato de 02/10 tenha sido um caso isolado. Na Biblioteca, com o mesmo domínio: **~19 anúncios (+3), todos iniciados em 05 e 07/10**. O lote de 03-04/10 e o anúncio de 18/08 saíram do ar. É **rotação completa de criativos em três dias**, uma mecânica de mídia que o vault ainda não tinha medido. Score: **5,75** (o `s_replica: 3` segura).
+- [[stalkeia-ai]] teve **4 IDs novos** e foi de 11 para **15**. Apareceu o nome "Acesso Completo 2.0", e os preços de entrada vão de R$ 39,90 a R$ 47,90. [[zap-radar]] foi de 8 para 10, também na PerfectPay e também com cobrança extra para liberar o acesso.
+
+**Retornos: 4, todos fracos.** [[mdr-despertar-2-0]], [[mentoria-caio-martins]], [[pack-produtos-validados-sistema-billion]] (Cakto) e [[love-pix]] (PerfectPay) voltaram de `esfriando` com **uma reclamação nova cada**. A mais informativa é a do Billion: numa única compra de 13/09 aparece a escada inteira, Pack R$ 97,28 + Sistema R$ 247,71 + Sistema GLOBAL R$ 597,99 = **R$ 942,98**. A do Love Pix é a primeira menção desde 24/08 e mostra a mesma "taxa de R$ 20" de agosto. São retornos pela regra, mas não indicam um dono que voltou a escalar. Gerachat e White Driver foram relidas pelos mesmos IDs (avistamento, contagem parada).
+
+**Estreias: 5, e duas com mais de uma menção.** **Pilates na Parede** (Lastlink) tem **3 reclamações num dia**. É um plano de 21 dias vendido no Instagram, entregue num app que só lista o nome dos exercícios. Mesmo gateway e mesma família de desafio fitness do Trinca. **Malu, Sua Assistente** (Wiapy, R$ 37,90) é uma assistente de postagem para lojistas da Shopee que, depois da compra, cobra **mais R$ 24 "da API"**, outra taxa para liberar, fora do nicho de espionagem. As outras três têm uma menção cada: **+100 Modelos de Biscoitos Natalinos** (Wiapy), **Desafio Hiit Dance** (Lastlink, R$ 37, nicho de dança) e **Horinha da Leitura** (Kirvano, vídeos de alfabetização).
+
+**Mecânica de funil.** O cluster de **Natal na Wiapy** ganhou corpo. Em três dias apareceram o Kit +80 Casinhas, os Biscoitos Natalinos e um presépio de papelão comprado pelo Facebook (260984353, sem nota). O ticket é de R$ 20 a R$ 40, o imprimível é de entrega imediata e a validade acaba em dezembro. Também se repetiu a **frente barata que vira assinatura**: Trinca Elite (renovação), Bike in Casa (+2, "teste grátis" sem canal de cancelamento, de 1 para 3), Comunidade Subido na Hotmart e mais duas renovações na Kiwify e na Lastlink. Ficaram sem nota por ter só uma menção e nenhuma medição: Pack Achadinhos Virais (Kiwify, R$ 29), FVV (Kiwify), Dólar Hub (Cakto, R$ 88,98), Octuz AI e Nexus Focuz (Cakto), Kit Orça Pintor (Wiapy, R$ 37,90, que encosta no [[angulo-eletricista-orcamento-app]]) e uma "licença para trabalhar no Facebook dando notas" a R$ 48 na PerfectPay (renda por tarefas com taxa).
+
+**Status (decaimento à mão, só nos 8 gateways varridos, só em notas vindas do RA, sem ângulos, dança, infantil ou multi-gateway).** **11 estreias de 05/10** passaram de `nova` para `ativa` (uma rodada de ausência é cobertura). **3 `ativa`** de 02/10 que não apareceram em 05/10 nem hoje foram para `esfriando`: Achados da Ellen, SerBene e Seu Curso Viral. **10 `ativa`** de PerfectPay/Cakto vistas pela última vez até 26/09 completaram a segunda rodada sem aparecer e foram para `esfriando`: Caderno de Professor, Comunidade MVZ, E-Workflow, Knights Club, Lumi AI, Luna IA, MS Green Premium, Painel Elite, RB Operações e Trendy IA. Somando os 4 retornos e o Bike in Casa (`nova` → `ativa` pelo sync), são **29 mudanças de status**. Beto IA e Dieta das 3 Fases (Payt) ficaram em `nova` porque a Payt não foi varrida. Isso explica parte das **57 notas** que o `--verificar` ainda acusa.
+
+**Cuidados.** Os três deltas da Biblioteca (Trinca −20, Paizão +3, Ateliê das Velas ~33 → **~21, −12**) agora são comparáveis, porque vêm da mesma busca. Mas contam anúncios que casam com o termo, não criativos distintos, e só carregam os primeiros ~30. O Ateliê perdeu o anúncio de 27/05, e o mais antigo carregado é de 12/06. O `dias_no_ar` das três notas **foi mantido** como idade da operação, embora o criativo ativo mais antigo agora seja mais novo (no Paizão, de dois dias). Se o contrato quer "idade do anúncio mais antigo ativo", o Paizão iria para 3 dias e perderia o insumo de longevidade. Isso não foi feito sem decisão explícita. As 8 reclamações do Trinca medem cerca de dois dias, não um.
+
+**Autocrítica.** A pendência de 05/10 foi paga: as quatro buscas foram repetidas com o mesmo termo, e pela primeira vez o vault tem uma série de três pontos (Trinca 130 → 230 → 210). O resultado é menos animador do que a narrativa das últimas leituras sugeria. Duas das três ofertas mais fortes estão com **anúncios estáveis ou em queda** enquanto as reclamações sobem, o que é compatível com uma operação madura colhendo a base, e não com uma operação escalando. As cinco estreias foram escolhidas com mais rigor (cerca de dez candidatas de uma menção ficaram de fora), mas ainda são cinco notas sem nenhuma medição.
+
+---
+
+## Leitura anterior — 2026-10-05 (rodada diaria, complemento das 16h33)
 
 Passada: [[2026-10-05 -- 1633]] · nota do dia: [[2026-10-05]].
 
@@ -90,28 +117,6 @@ Passada: [[2026-10-02 -- 0102]] · nota do dia: [[2026-10-02]].
 **Cuidados.** Ler cinco dias de buraco numa noite só infla o "sinal do dia". As 5 reclamações do Treino Trinca e as 4 do ChatGPT Privado são de 01/10, mas foram vistas pela primeira vez hoje porque ninguém olhou antes. Isso mede acumulado, não aceleração. A estreia "Date Nights" usa o nome que o comprador escreveu, e o nome comercial pode ser outro. **73 notas continuam `nova` depois da estreia** (o aviso do `--verificar`), e 13 notas violam o teto de `s_lucro` sem insumo de longevidade. As duas dívidas são as mesmas de 27/09.
 
 **Autocrítica.** O resumo da passada saiu primeiro com "7 novas, 3 retornos". Eram 6 novas e zero retornos, porque as três notas com ID novo já estavam `ativa`. Foi corrigido antes do commit do Painel. É o mesmo vício de 31/08: narrar antes de computar.
-
----
-
-## Leitura anterior — 2026-09-27 (rodada diaria)
-
-Passada: [[2026-09-27 -- 0113]] · nota do dia: [[2026-09-27]].
-
-**193 notas · 168 ofertas · 25 ângulos · 14 novas hoje · 16 vistas hoje · status: 87 nova · 36 ativa · 25 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60)**
-
-**O instrumento mudou nesta rodada.** O WebFetch leva 403 no Reclame Aqui, mas o navegador interno abre a lista e os corpos sem pedir aprovação, e a Biblioteca de Anúncios também abriu sem aprovação. Com isso a rodada cobriu os dez gateways que as passadas 6x/dia não varrem (Kiwify, Hotmart, Ticto, Eduzz, Monetizze, Lastlink, Wiapy, Payt, Kirvano, Lowify), cerca de 50 corpos lidos com ID. Ainda é só a primeira página (5 por gateway, carimbos de 23 a 27/09): o `?pagina=2` volta vazio porque a lista é montada no cliente. Hubla não tem página no RA com os slugs tentados. Os slugs que funcionam são `kirvano-pagamentos` e `lowify-tecnologia`.
-
-**Sinal novo real: dois retornos, os dois com longevidade medida.** [[treino-trinca]] ganhou duas reclamações com ID novo na Lastlink (260142269 e 260143667, contra o maior anterior de 256520497), e uma delas mostra a escada cobrada: **R$ 110 + 67 + 37**. Na Biblioteca são **~91 anúncios ativos** de Pedro Lotz, o mais antigo carregado de 08/08, e criativos novos todo dia entre 17 e 23/09. É a primeira vez que o vault mede escala nessa nota. [[app-do-paizao]] teve uma reclamação nova (260146503) que descreve a mecânica: frente de R$ 47 e, depois da compra, um vídeo vendendo 12x R$ 19 com a promessa de "devolver os 47". Os anúncios de Carlão Silva estão no ar desde 04/08.
-
-**A correção honesta vem junto.** O `s_lucro: 9` do Treino Trinca era palpite e caiu para **8** agora que foi medido (50 dias é limite inferior, e 9-10 pede 90+). O score foi de 6,95 para **6,60**. A nota que o Painel de 29/08 chamou de "teto das ofertas reais" continua abaixo do corte, agora por medição e não por chute. O Paizão subiu de `s_lucro` 5 para 7, mas o `s_replica: 3` o mantém em 5,75.
-
-**Estreias: 14, e só uma com longevidade.** O **Ateliê das Velas** (Kiwify, R$ 47, curso de velas artesanais) tem anúncios desde **17/06, 102 dias**, e vende subprodutos dentro da área de membros. Encosta no cluster de artesanato de [[angulo-artesanato-moldes-pdf]]. Aparece como "descartar" (5,50) só porque `s_saturacao` segue em 0, a sentinela. É a primeira candidata a uma busca pelo ângulo "velas artesanais" na Biblioteca. As outras 13 são uma menção cada, sem medição. A Wiapy confirma que é o gateway do ticket de R$ 10-20: +100.000 Manuais Técnicos a R$ 17, Doramas Hot Vitalício (mesmo cluster de [[angulo-streaming-doramas-turcas]]), Manual do Shihtzu e Descobrindo o Porquê da Fé. Em IA/automação há ChatGPT Privado (Kirvano, que exige e-mail novo todo mês), Gerachat e Luke ZAP (Ticto): é a saída travada de PerfectPay/Cakto em outro gateway.
-
-**Mecânica de funil que se repetiu fora de PerfectPay/Cakto: a venda depois da venda.** Paizão (vídeo pós-compra com 12x R$ 19), Beautifycursos (vídeo pós-pagamento diz que "só esse curso não dá resultado" e vende o segundo), Protocolo Natural da Diabetes (R$ 18,50 + "desconto de 50%" + mais cursos na mesma compra) e Treino Trinca (três cobranças). Nenhuma dessas escadas aparece na LP. Continuam sendo o campo `ticket_upsell` que só a Etapa 2 captura.
-
-**Status.** Seis estreias de 24/09 vindas do RA de Monetizze, Kiwify, Eduzz e Ticto passaram de `nova` para `ativa` (uma rodada de ausência na primeira página é cobertura, não esfriamento). As notas de dança, parentalidade e infantil desses mesmos gateways **não** foram decaídas: vieram da Biblioteca, e a primeira página do RA não é instrumento para elas. **73 notas continuam `nova` depois da estreia.** É dívida do contrato, e não se paga sem uma passada de manutenção pela Biblioteca.
-
-**Cuidados.** `dias_no_ar` de Treino Trinca e Paizão é limite inferior: só a primeira leva de anúncios carregou (30 de ~91; 8 numa busca larga por "paizão"). Os `criativos_ultima` também são contagens parciais e não servem de base para `criativos_delta` sem repetir a mesma busca. Nenhuma das 14 estreias teve LP aberta.
 
 ---
 

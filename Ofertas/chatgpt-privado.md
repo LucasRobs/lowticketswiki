@@ -26,20 +26,20 @@ s_replica: 2
 s_saturacao: 2
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-10-02
-rodadas_vista: 2
+visto_ultimo: 2026-10-08
+rodadas_vista: 3
 dias_no_ar: 0
-criativos_ultima: 0
-criativos_delta: 0
+criativos_ultima: 130
+criativos_delta: 10
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/chatgpt-privado"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-02
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,3 +95,13 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ 
 ## Medicao 2026-10-02
 - Reclame Aqui (Kirvano), 01/10: 260547439 ("ChatGPT Infinity (privado) acesso anual"), 260547549, 260552799 (Infinity Apps, R$ 145,89), 260562241 (anual que vira Pix automatico mensal). Provaveis, nao contadas: 260549007 (R$ 97, 1 ano), 260539297 (vendedor Gabriel de Jesus, entrega ChatGPT Go).
 - Biblioteca, busca "chatgpt plus anual": ~120 anuncios, os carregados todos iniciados entre 27 e 30/09, varios anunciantes (AgenciaDesign, Eu andrade, Daniela Gomes) a R$ 21,90. Coorte nova e lotada: `s_saturacao: 2`. Revenda de acesso a servico de terceiro: `s_replica: 2`.
+
+## Rodada 2026-10-08
+
+6 mencao(oes) nesta varredura (gateway Kirvano). 1 reclamacao nomeada com ID novo (261094669, 'chat gbt privado', compra 01/10). Uma segunda (261003817, 'Chat Gpt Plus Privado anual' do produtor 'gabriel jesus') pode ser outro revendedor e NAO foi contada. Biblioteca, mesma busca de 02 e 05/10: ~130 (eram ~120), AgenciaDesign com criativo novo em 05/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261094669)
+
+## Biblioteca 2026-10-08
+
+Mesma busca "chatgpt plus anual" de 02 e 05/10: ~130 resultados (eram ~120, delta +10; conta a coorte inteira, nao so este vendedor). AgenciaDesign com criativo novo em 05/10.
