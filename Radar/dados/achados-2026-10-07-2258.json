@@ -1,0 +1,68 @@
+{
+  "data_varredura": "2026-10-07",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288102, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18884, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50464, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78444, "paginas_varridas": 1},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10631, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Bike in Casa",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-bemestar",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "desconhecida",
+      "termo_busca": "Bike in Casa assinatura",
+      "descricao": "Reaparece pela terceira varredura em dias diferentes (04/10, 06/10, 07/10). Duas reclamacoes nesta passada pedindo cancelamento/reembolso da assinatura de bike indoor dentro do periodo de teste; mecanica de assinatura recorrente dificil de cancelar continua o padrao ja visto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/quero-cancelar-minha-compra-do-bike-in-casa-e-pedir-reembolso_lmbt8XwzPjBUpeSr/"
+    },
+    {
+      "produto": "50 Guias para Cuidado da Bike",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "cursos-de-oficio",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecida",
+      "termo_busca": "guia cuidado da bike",
+      "descricao": "Achado novo, mencao unica. Comprador diz nao ter recebido as 50 guias de cuidado da bicicleta e nao conseguir contato com a empresa. Vendedor/produtor nao identificado na reclamacao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-as-50-guias-para-cuidado-da-minha-bike-e-nao-consigo-contato-com-a-empresa_tXtUdHmAUKM2IpQ1/"
+    },
+    {
+      "produto": "Ganhar dinheiro avaliando produtos no Facebook",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 48",
+      "termo_busca": "ganhar dinheiro avaliando produtos",
+      "descricao": "Achado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/"
+    },
+    {
+      "produto": "Loopzy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecida",
+      "termo_busca": "Loopzy",
+      "descricao": "Achado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/"
+    }
+  ],
+  "passada": {
+    "hora": "22:58",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[bike-in-casa]] -- Ticto · terceira aparicao em dias diferentes (04/10, 06/10, 07/10), assinatura recorrente dificil de cancelar\n\n## Mornas\n- nenhum\n\n## Frias\n- [[50-guias-para-cuidado-da-bike]] -- Cakto · achado novo, guia de manutencao de bike nao entregue\n- [[loopzy]] -- Cakto · achado novo, produto nao identificado, reembolso negado\n- angulo \"ganhar dinheiro avaliando produtos no Facebook\" -- PerfectPay · achado novo, R$48, mecanica classica do nicho renda-no-celular\n\nLeitura: falha sistemica de paginacao do ReclameAqui confirmada novamente (pelo menos a 9a passada automatica consecutiva afetada, desde 06/10 17:14). Testada de novo agora as 22:58: pagina 1 responde normalmente (perfectpay, cakto-pay, kiwify, hotmart, ticto, todos com titulo+url ok), mas pagina 2 e 3 via ?pagina=N devolvem '0 de 0 reclamacoes' e a variante /pagina/2 devolve 404 -- nao e so um parametro de query quebrado, a rota alternativa tambem falha. Coleta desta passada ficou limitada a 5 reclamacoes por gateway (25 no total), todas de pagina 1, sem profundidade historica. Dentro desse limite, abertas 10 das 25 reclamacoes priorizando as que pareciam ter nome de produto. Bike in Casa reaparece pela 3a vez em dias diferentes (quente). Tres achados frios novos: Loopzy (nome confirmado, categoria desconhecida), guia de cuidado de bike (produto nao entregue) e um angulo classico de renda-no-celular via Facebook (R$48). Descartados por serem genericos demais ou sem produto identificavel: reclamacoes de conta/senha da Kiwify, assinatura nao identificada da Hotmart, ferramenta Pages da propria Hotmart (nao e oferta de terceiro), produto fisico quebrado na PerfectPay, e uma mencao ambigua a 'formula maquina de resultado' que nao deu pra confirmar como nome real de produto.",
+    "resumo": "Paginacao do ReclameAqui continua quebrada havendo pelo menos 9 passadas seguidas afetadas; coleta limitada a pagina 1 de 5 gateways (25 reclamacoes). Bike in Casa reaparece quente; 3 achados frios novos (Loopzy, guia de bike, angulo renda-Facebook)."
+  }
+}

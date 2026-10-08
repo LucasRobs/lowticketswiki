@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 258,
-  "angulos": 60,
-  "observacoes": 574,
+  "ofertas": 260,
+  "angulos": 61,
+  "observacoes": 578,
   "dias_radar": 28,
-  "passadas": 59,
+  "passadas": 60,
   "analises": 12,
   "ultima_rodada": "2026-10-07"
  },
@@ -173,6 +173,61 @@
     "score-provisorio",
     "sem-longevidade",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "50-guias-para-cuidado-da-bike",
+   "nome": "50 Guias para Cuidado da Bike",
+   "classe": "oferta",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=guia%20cuidado%20da%20bike&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 2,
+   "resumo": "Achado novo, mencao unica. Comprador diz nao ter recebido as 50 guias de cuidado da bicicleta e nao conseguir contato com a empresa. Vendedor/produtor nao identificado na reclamacao.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -2375,6 +2430,58 @@
    ]
   },
   {
+   "slug": "angulo-ganhar-dinheiro-avaliando-produtos-no-facebook",
+   "nome": "Ganhar dinheiro avaliando produtos no Facebook",
+   "classe": "angulo",
+   "nicho": "renda-celular-cashback-pix",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 48,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 48,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ganhar%20dinheiro%20avaliando%20produtos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 1,
+   "resumo": "Achado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-guia-digital-de-100-receitas-para-pets",
    "nome": "Guia digital de 100 receitas para pets",
    "classe": "angulo",
@@ -4504,21 +4611,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-07",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 4,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
@@ -11411,6 +11518,61 @@
    ]
   },
   {
+   "slug": "loopzy",
+   "nome": "Loopzy",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopzy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 2,
+   "resumo": "Achado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "lottoapp",
    "nome": "LottoApp / LotteApp PRO",
    "classe": "oferta",
@@ -17646,8 +17808,8 @@
    "arquivo": "Radar/2026-10-07.md",
    "data": "2026-10-07",
    "titulo": "Radar 2026-10-07",
-   "ofertas_vistas": 2,
-   "novas": 1,
+   "ofertas_vistas": 6,
+   "novas": 4,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -17655,10 +17817,11 @@
     "hotmart",
     "kiwify",
     "monetizze",
-    "perfectpay"
+    "perfectpay",
+    "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -18126,6 +18289,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-07 -- 2258.md",
+   "data": "2026-10-07",
+   "hora": "22:58",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "50-guias-para-cuidado-da-bike",
+    "bike-in-casa",
+    "loopzy"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 1 · Coleta: parcial · Achados: 4 ## Quentes bike-in-casa -- Ticto · terceira aparicao em dias diferentes (04/10, 06/10, 07/10), assinatura recorrente dificil de cancelar ##…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-07 -- 1348.md",
    "data": "2026-10-07",
@@ -19396,8 +19580,8 @@
     "angulo": 7
    },
    "2026-10-07": {
-    "oferta": 2,
-    "angulo": 0
+    "oferta": 4,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -19427,7 +19611,7 @@
    "2026-10-04": 91,
    "2026-10-05": 70,
    "2026-10-06": 43,
-   "2026-10-07": 2
+   "2026-10-07": 6
   }
  },
  "analises": [
@@ -19830,49 +20014,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 258
+    "total": 260
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 258
+    "total": 260
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 258
+    "total": 260
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 229,
-    "total": 258
+    "preenchidas": 231,
+    "total": 260
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 137,
-    "total": 258
+    "total": 260
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 258
+    "total": 260
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 258
+    "total": 260
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 201,
-    "total": 258
+    "preenchidas": 203,
+    "total": 260
    }
   ],
   "fila_enriquecimento": [
@@ -20041,7 +20225,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 892
+   "canonico": 899
   }
  },
  "vocabulario": {
@@ -20088,22 +20272,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "028ff1b5e140305e",
-  "atualizado_em": "2026-10-07T13:53:15-03:00",
-  "ofertas": 258,
-  "angulos": 60,
-  "observacoes": 574,
+  "hash": "d10457c92a415146",
+  "atualizado_em": "2026-10-07T22:59:22-03:00",
+  "ofertas": 260,
+  "angulos": 61,
+  "observacoes": 578,
   "ultima_rodada": "2026-10-07",
   "ultima_passada": {
    "data": "2026-10-07",
-   "hora": "13:48",
+   "hora": "22:58",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "monetizze"
+    "ticto"
    ]
   }
  }
