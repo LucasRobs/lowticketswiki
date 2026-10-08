@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-07
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Curso de atualizacao farmaceutica; reclamante cita 'equipe da Sarah Faria' como produtora. Reapareceu em reclamacao nova no dia seguinte ao primeiro achado (07/10 -> 07/10 noite) -- sinal de que a campanha ainda roda, nao foi pico isolado.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-cobranca-indevida-da-pages-e-quero-estorno_fR8DvfLnBkBVRnGq/

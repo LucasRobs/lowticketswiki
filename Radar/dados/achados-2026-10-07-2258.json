@@ -15,46 +15,70 @@
       "nicho": "saude-bemestar",
       "temperatura": "quente",
       "mencoes": 2,
-      "faixa_preco": "desconhecida",
-      "termo_busca": "Bike in Casa assinatura",
-      "descricao": "Reaparece pela terceira varredura em dias diferentes (04/10, 06/10, 07/10). Duas reclamacoes nesta passada pedindo cancelamento/reembolso da assinatura de bike indoor dentro do periodo de teste; mecanica de assinatura recorrente dificil de cancelar continua o padrao ja visto.",
-      "evidencia_url": "https://www.reclameaqui.com.br/ticto/quero-cancelar-minha-compra-do-bike-in-casa-e-pedir-reembolso_lmbt8XwzPjBUpeSr/"
+      "faixa_preco": "nao informado (assinatura, teste gratis 30 dias)",
+      "termo_busca": "Bike in Casa",
+      "descricao": "Assinatura de bike ergometrica/app fitness em casa com teste gratis de 30 dias e cobranca automatica na renovacao. Duas reclamacoes nesta mesma pagina (cancelamento dentro do prazo de teste e reembolso). Terceira rodada seguida em que aparece (04/10, 06/10, 07/10) -- sinal de campanha ainda ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/"
     },
     {
-      "produto": "50 Guias para Cuidado da Bike",
+      "produto": "Orientação Farmacêutica na Prática 2.0",
       "tipo": "marca",
-      "gateway": "Cakto",
-      "nicho": "cursos-de-oficio",
-      "temperatura": "fria",
+      "gateway": "Hotmart",
+      "nicho": "educacao-continuada-saude",
+      "temperatura": "morna",
       "mencoes": 1,
-      "faixa_preco": "desconhecida",
-      "termo_busca": "guia cuidado da bike",
-      "descricao": "Achado novo, mencao unica. Comprador diz nao ter recebido as 50 guias de cuidado da bicicleta e nao conseguir contato com a empresa. Vendedor/produtor nao identificado na reclamacao.",
-      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-as-50-guias-para-cuidado-da-minha-bike-e-nao-consigo-contato-com-a-empresa_tXtUdHmAUKM2IpQ1/"
+      "faixa_preco": "R$ 189,71 (parcelado)",
+      "termo_busca": "Orientação Farmacêutica na Prática",
+      "descricao": "Curso de atualizacao farmaceutica; reclamante cita 'equipe da Sarah Faria' como produtora. Reapareceu em reclamacao nova no dia seguinte ao primeiro achado (07/10 -> 07/10 noite) -- sinal de que a campanha ainda roda, nao foi pico isolado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-cobranca-indevida-da-pages-e-quero-estorno_fR8DvfLnBkBVRnGq/"
     },
     {
-      "produto": "Ganhar dinheiro avaliando produtos no Facebook",
+      "produto": "Curso de bateria online (sem nome)",
       "tipo": "angulo",
-      "gateway": "PerfectPay",
-      "nicho": "renda-celular-cashback-pix",
-      "temperatura": "fria",
+      "gateway": "Ticto",
+      "nicho": "cursos-de-musica",
+      "temperatura": "morna",
       "mencoes": 1,
-      "faixa_preco": "R$ 48",
-      "termo_busca": "ganhar dinheiro avaliando produtos",
-      "descricao": "Achado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).",
-      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/"
+      "faixa_preco": "nao informado",
+      "termo_busca": "curso de bateria online",
+      "descricao": "Curso de bateria online sem marca identificada, comprado 30/09 com reclamacao de falta de acesso. Segunda rodada em que esse angulo aparece (06/10 e agora).",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/"
     },
     {
       "produto": "Loopzy",
       "tipo": "marca",
       "gateway": "Cakto",
-      "nicho": "a-identificar",
+      "nicho": "nao-classificado",
       "temperatura": "fria",
       "mencoes": 1,
-      "faixa_preco": "desconhecida",
+      "faixa_preco": "nao informado",
       "termo_busca": "Loopzy",
-      "descricao": "Achado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).",
+      "descricao": "Nome 'Loopzy' citado em reclamacao de reembolso nao resolvido pela Cakto; texto nao deixa claro se e nome de produto, app ou loja. Achado novo, mencao unica -- vale confirmar na Biblioteca de Anuncios antes de priorizar.",
       "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/"
+    },
+    {
+      "produto": "50 guias digitais de cuidado com a bike (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "cuidados-bike",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "guias cuidados bike",
+      "descricao": "Pacote de 50 guias digitais (PDF) sobre manutencao/cuidado de bicicleta, reclamacao de nao recebimento e falta de contato com o vendedor. Ticket baixo, formato e-book. Achado novo, mencao unica.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-as-50-guias-para-cuidado-da-minha-bike-e-nao-consigo-contato-com-a-empresa_tXtUdHmAUKM2IpQ1/"
+    },
+    {
+      "produto": "Body Piercer Extreme",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "cursos-de-oficio",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Body Piercer Extreme curso",
+      "descricao": "Curso 'Body Piercer extreme' da produtora Bianca, reclamacao de acesso a certificado. Compra original de 2022 segundo o reclamante -- sinal fraco, pode nao refletir campanha ativa hoje. Achado novo, mencao unica.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-consigo-acessar-meu-certificado-do-curso-de-body-piercer_HGITxKYtI67tq64C/"
     }
   ],
   "passada": {
@@ -62,7 +86,7 @@
     "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
     "paginas": 1,
     "coleta": "parcial",
-    "relatorio": "## Quentes\n- [[bike-in-casa]] -- Ticto · terceira aparicao em dias diferentes (04/10, 06/10, 07/10), assinatura recorrente dificil de cancelar\n\n## Mornas\n- nenhum\n\n## Frias\n- [[50-guias-para-cuidado-da-bike]] -- Cakto · achado novo, guia de manutencao de bike nao entregue\n- [[loopzy]] -- Cakto · achado novo, produto nao identificado, reembolso negado\n- angulo \"ganhar dinheiro avaliando produtos no Facebook\" -- PerfectPay · achado novo, R$48, mecanica classica do nicho renda-no-celular\n\nLeitura: falha sistemica de paginacao do ReclameAqui confirmada novamente (pelo menos a 9a passada automatica consecutiva afetada, desde 06/10 17:14). Testada de novo agora as 22:58: pagina 1 responde normalmente (perfectpay, cakto-pay, kiwify, hotmart, ticto, todos com titulo+url ok), mas pagina 2 e 3 via ?pagina=N devolvem '0 de 0 reclamacoes' e a variante /pagina/2 devolve 404 -- nao e so um parametro de query quebrado, a rota alternativa tambem falha. Coleta desta passada ficou limitada a 5 reclamacoes por gateway (25 no total), todas de pagina 1, sem profundidade historica. Dentro desse limite, abertas 10 das 25 reclamacoes priorizando as que pareciam ter nome de produto. Bike in Casa reaparece pela 3a vez em dias diferentes (quente). Tres achados frios novos: Loopzy (nome confirmado, categoria desconhecida), guia de cuidado de bike (produto nao entregue) e um angulo classico de renda-no-celular via Facebook (R$48). Descartados por serem genericos demais ou sem produto identificavel: reclamacoes de conta/senha da Kiwify, assinatura nao identificada da Hotmart, ferramenta Pages da propria Hotmart (nao e oferta de terceiro), produto fisico quebrado na PerfectPay, e uma mencao ambigua a 'formula maquina de resultado' que nao deu pra confirmar como nome real de produto.",
-    "resumo": "Paginacao do ReclameAqui continua quebrada havendo pelo menos 9 passadas seguidas afetadas; coleta limitada a pagina 1 de 5 gateways (25 reclamacoes). Bike in Casa reaparece quente; 3 achados frios novos (Loopzy, guia de bike, angulo renda-Facebook)."
+    "relatorio": "## Quentes\n- [[bike-in-casa]] -- Ticto · 2 reclamacoes na mesma pagina, 3a rodada seguida\n\n## Mornas\n- [[orientacao-farmaceutica-na-pratica-2-0]] -- Hotmart · reapareceu no dia seguinte ao 1o achado\n- [[angulo-curso-de-bateria-online-sem-nome]] -- Ticto · 2a rodada em que aparece\n\n## Frias\n- Loopzy -- Cakto · achado novo, mencao unica, nome ambiguo\n- guias de cuidado de bike (angulo) -- Cakto · achado novo, mencao unica\n- Body Piercer Extreme -- Ticto · achado novo, compra de 2022, sinal fraco\n\nLeitura: falha sistemica de paginacao do ReclameAqui confirmada e persistente -- pagina 1 responde normalmente nos 5 gateways testados (perfectpay, cakto-pay, kiwify, hotmart, ticto), pagina 2 em diante continua devolvendo '0 de 0 reclamacoes' sem excecao (testado tambem com URL alternativa /pagina/2/, que da 404). Essa e a 9a passada automatica consecutiva limitada a pagina 1, janela coberta ~9h (desde 07/10 13:48). Com apenas 5 reclamacoes por gateway disponiveis, boa parte repete achados ja no vault (bike-in-casa, orientacao-farmaceutica, curso-de-bateria); tres achados novos e fracos (Loopzy, guias de bike, Body Piercer) vieram do que sobrou. Enquanto a paginacao nao for restaurada, o radar so consegue confirmar reaparicao de achados existentes, nao descobrir volume novo.",
+    "resumo": "Pagina 1 ok em 5 gateways, pagina 2+ ainda bloqueada (9a passada seguida); bike-in-casa quente, 3 achados novos fracos."
   }
 }

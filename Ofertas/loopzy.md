@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-07
+
+1 mencao(oes) nesta varredura (gateway Cakto). Nome 'Loopzy' citado em reclamacao de reembolso nao resolvido pela Cakto; texto nao deixa claro se e nome de produto, app ou loja. Achado novo, mencao unica -- vale confirmar na Biblioteca de Anuncios antes de priorizar.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/

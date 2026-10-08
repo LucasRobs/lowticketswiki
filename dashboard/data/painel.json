@@ -1,9 +1,9 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 260,
-  "angulos": 61,
-  "observacoes": 578,
+  "ofertas": 261,
+  "angulos": 62,
+  "observacoes": 581,
   "dias_radar": 28,
   "passadas": 60,
   "analises": 12,
@@ -620,6 +620,58 @@
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido"
+   ]
+  },
+  {
+   "slug": "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
+   "nome": "50 guias digitais de cuidado com a bike (sem nome)",
+   "classe": "angulo",
+   "nicho": "cuidados-bike",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=guias%20cuidados%20bike&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 1,
+   "resumo": "Pacote de 50 guias digitais (PDF) sobre manutencao/cuidado de bicicleta, reclamacao de nao recebimento e falta de contato com o vendedor. Ticket baixo, formato e-book. Achado novo, mencao unica.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -1883,7 +1935,7 @@
    "classe": "angulo",
    "nicho": "cursos-de-musica",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -1910,26 +1962,25 @@
    "score": 1.5,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-07",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20bateria%20online&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 0,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 1,
    "resumo": "Curso de bateria online vendido via Ticto, sem marca/vendedor identificado no texto da reclamação. Comprador pagou e, 4 dias depois, ainda não tinha recebido credenciais de acesso nem confirmação por e-mail.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4627,6 +4678,61 @@
    "ultima_obs": "2026-10-07",
    "n_citacoes": 4,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "body-piercer-extreme",
+   "nome": "Body Piercer Extreme",
+   "classe": "oferta",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-07",
+   "visto_ultimo": "2026-10-07",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-07",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Body%20Piercer%20Extreme%20curso&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-07",
+   "n_citacoes": 1,
+   "resumo": "Curso 'Body Piercer extreme' da produtora Bianca, reclamacao de acesso a certificado. Compra original de 2022 segundo o reclamante -- sinal fraco, pode nao refletir campanha ativa hoje. Achado novo, mencao unica.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -17808,8 +17914,8 @@
    "arquivo": "Radar/2026-10-07.md",
    "data": "2026-10-07",
    "titulo": "Radar 2026-10-07",
-   "ofertas_vistas": 6,
-   "novas": 4,
+   "ofertas_vistas": 9,
+   "novas": 6,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -19580,8 +19686,8 @@
     "angulo": 7
    },
    "2026-10-07": {
-    "oferta": 4,
-    "angulo": 1
+    "oferta": 5,
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -19611,7 +19717,7 @@
    "2026-10-04": 91,
    "2026-10-05": 70,
    "2026-10-06": 43,
-   "2026-10-07": 6
+   "2026-10-07": 9
   }
  },
  "analises": [
@@ -20014,49 +20120,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 260
+    "total": 261
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 260
+    "total": 261
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 260
+    "total": 261
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 231,
-    "total": 260
+    "preenchidas": 232,
+    "total": 261
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 137,
-    "total": 260
+    "total": 261
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 260
+    "total": 261
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 260
+    "total": 261
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 203,
-    "total": 260
+    "preenchidas": 204,
+    "total": 261
    }
   ],
   "fila_enriquecimento": [
@@ -20099,7 +20205,6 @@
    "angulo-cobranca-adicional-pos-venda-em-curso-online-generico",
    "angulo-cobranca-extra-para-liberar-acesso",
    "angulo-curso-comunidade-fornecedores-revenda",
-   "angulo-curso-de-bateria-online-sem-nome",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
    "angulo-curso-de-velas-artesanais-persona-tia-rose",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
@@ -20225,7 +20330,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 899
+   "canonico": 904
   }
  },
  "vocabulario": {
@@ -20272,11 +20377,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d10457c92a415146",
-  "atualizado_em": "2026-10-07T22:59:22-03:00",
-  "ofertas": 260,
-  "angulos": 61,
-  "observacoes": 578,
+  "hash": "c0904098c6a5203f",
+  "atualizado_em": "2026-10-07T22:59:40-03:00",
+  "ofertas": 261,
+  "angulos": 62,
+  "observacoes": 581,
   "ultima_rodada": "2026-10-07",
   "ultima_passada": {
    "data": "2026-10-07",
