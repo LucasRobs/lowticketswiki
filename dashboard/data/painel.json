@@ -346,7 +346,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -392,8 +392,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -512,7 +511,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2233,8 +2232,8 @@
    "visto_ultimo": "2026-10-08",
    "rodadas_vista": 7,
    "dias_no_ar": 54,
-   "criativos_ultima": 16,
-   "criativos_delta": 0,
+   "criativos_ultima": 19,
+   "criativos_delta": 3,
    "ra_reclamacoes": 10,
    "ra_primeira_reclamacao": "2026-08-20",
    "ra_checado": "2026-10-08",
@@ -2256,7 +2255,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2304,8 +2303,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2456,8 +2454,8 @@
    "visto_ultimo": "2026-10-05",
    "rodadas_vista": 2,
    "dias_no_ar": 131,
-   "criativos_ultima": 33,
-   "criativos_delta": 0,
+   "criativos_ultima": 21,
+   "criativos_delta": -12,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-05",
@@ -2477,7 +2475,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "lastlink",
@@ -2523,8 +2521,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2811,7 +2808,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -2857,8 +2854,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -3196,7 +3192,7 @@
    "classe": "oferta",
    "nicho": "material-pedagogico",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -3835,8 +3831,8 @@
    "visto_ultimo": "2026-10-08",
    "rodadas_vista": 3,
    "dias_no_ar": 0,
-   "criativos_ultima": 0,
-   "criativos_delta": 0,
+   "criativos_ultima": 130,
+   "criativos_delta": 10,
    "ra_reclamacoes": 6,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-08",
@@ -3914,7 +3910,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -3960,8 +3956,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4245,7 +4240,7 @@
    "classe": "oferta",
    "nicho": "educacao",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -6018,7 +6013,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -6183,7 +6178,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -6229,8 +6224,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6350,7 +6344,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6396,8 +6390,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7116,7 +7109,7 @@
    "classe": "oferta",
    "nicho": "artesanato",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -7161,8 +7154,7 @@
    "resumo": "Kit digital de +80 casinhas de Natal para imprimir, recortar e montar. Na Biblioteca, o anunciante Denis Sah esta no ar desde 23/09 com 2 anuncios. A reclamacao 260786429 (04/10) diz que o arquivo chega mas faltam instrucoes e partes. Produto sazonal do…",
    "flags": [
     "score-provisorio",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7447,7 +7439,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -7611,7 +7603,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -7657,8 +7649,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8110,7 +8101,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8156,8 +8147,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8223,7 +8213,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-pagamento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8278,7 +8268,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -9331,7 +9321,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "suplemento-emagrecimento",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -9661,7 +9651,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -10492,7 +10482,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -10939,7 +10929,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10994,7 +10984,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -11469,8 +11459,8 @@
    "visto_ultimo": "2026-10-08",
    "rodadas_vista": 7,
    "dias_no_ar": 58,
-   "criativos_ultima": 230,
-   "criativos_delta": 100,
+   "criativos_ultima": 210,
+   "criativos_delta": -20,
    "ra_reclamacoes": 41,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-08",
@@ -11545,7 +11535,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -11712,7 +11702,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -11758,8 +11748,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13267,7 +13256,7 @@
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
-    "preenchidas": 30,
+    "preenchidas": 31,
     "total": 193
    },
    {
@@ -13328,7 +13317,6 @@
    "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
-   "500-receitas-lowcarb-premium",
    "academia-do-jejum",
    "aerobico-ritmado",
    "angulo-assinatura-com-cancelamento-bloqueado",
@@ -13339,18 +13327,14 @@
    "angulo-quiz-retrato-ia",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
-   "app-mao-verde",
-   "atleta-hibrido-victor-pareto",
    "autismo-para-pais-lacerda",
    "beto-ia",
-   "biblia-3d",
    "bolos-caseirinhos-saudaveis",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "cae-course",
    "cantigas-da-bailarina",
    "casinha-dos-sonhos",
-   "clipshort-ai",
    "clube-da-pedagogia",
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
@@ -13363,20 +13347,15 @@
    "dieta-das-3-fases",
    "do-rabisco-a-letra-bonita",
    "fluency-english",
-   "formula-youtube-viral",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
-   "frequencia-de-cura-divida-instituto-cristao-online",
    "h2jobs-full",
    "hap-2-0",
-   "kit-80-casinhas-de-natal-para-imprimir",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
    "licao-kids",
-   "lipo-intestinal-feminina",
    "little-genius",
-   "lucrando-com-frutas",
    "metodo-livre",
    "meu-filho-e-unico-horleana",
    "missa-em-atividades",
@@ -13391,8 +13370,7 @@
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
-   "tutu-da-ju-assinatura",
-   "ultracut-ultraprompt"
+   "tutu-da-ju-assinatura"
   ],
   "estilos_frontmatter": {
    "canonico": 580
@@ -13442,8 +13420,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d176c07466f69645",
-  "atualizado_em": "2026-10-08T03:10:35-03:00",
+  "hash": "51bff7f72845f5b6",
+  "atualizado_em": "2026-10-08T03:11:40-03:00",
   "ofertas": 193,
   "angulos": 25,
   "observacoes": 362,

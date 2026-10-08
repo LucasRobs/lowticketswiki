@@ -29,8 +29,8 @@ visto_primeiro: 2026-08-16
 visto_ultimo: 2026-10-08
 rodadas_vista: 7
 dias_no_ar: 58
-criativos_ultima: 230
-criativos_delta: 100
+criativos_ultima: 210
+criativos_delta: -20
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
@@ -154,3 +154,7 @@ Mesma busca de 02/10 ("treino trinca", ativos, BR): **~230 resultados contra ~13
 41 mencao(oes) nesta varredura (gateway Lastlink). 8 reclamacoes com ID novo em 06-07/10, todas acima de 260842051 (maior de 05/10): 261097585, 261092767 (desafio R$ 37), 261088161, 261087345, 261079447, 261048213 (link do treino volta para a avaliacao), 261017573 (desafio de 28 dias nao entregue) e 260965163. Duas mostram degraus novos: 261087345 descreve RENOVACAO AUTOMATICA da assinatura Trinca Elite em 06/10 (o degrau de R$ 237,78 e recorrente) e 260965163 nomeia um 'kit Trinca Force'. Biblioteca, mesma busca de 02 e 05/10: ~210 resultados (eram ~230), 29 de 29 carregados de Pedro Lotz, mais antigo carregado 22/08, criativos novos em 03 e 04/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261097585, 261092767, 261088161, 261087345, 261079447, 261048213, 261017573, 260965163)
+
+## Biblioteca 2026-10-08
+
+Mesma busca "treino trinca" de 02 e 05/10: ~210 resultados (eram ~230, delta -20). 29 de 29 carregados de Pedro Lotz, o mais antigo carregado de 22/08, criativos novos em 03 e 04/10. `dias_no_ar` mantido em 58 (limite inferior; o anuncio de 08/08 nao apareceu na leva carregada, mas so 29 de ~210 carregaram).

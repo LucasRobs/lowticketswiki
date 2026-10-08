@@ -29,8 +29,8 @@ visto_primeiro: 2026-09-27
 visto_ultimo: 2026-10-08
 rodadas_vista: 3
 dias_no_ar: 0
-criativos_ultima: 0
-criativos_delta: 0
+criativos_ultima: 130
+criativos_delta: 10
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/chatgpt-privado"
 gateways_detectados: [kirvano]
@@ -101,3 +101,7 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ 
 6 mencao(oes) nesta varredura (gateway Kirvano). 1 reclamacao nomeada com ID novo (261094669, 'chat gbt privado', compra 01/10). Uma segunda (261003817, 'Chat Gpt Plus Privado anual' do produtor 'gabriel jesus') pode ser outro revendedor e NAO foi contada. Biblioteca, mesma busca de 02 e 05/10: ~130 (eram ~120), AgenciaDesign com criativo novo em 05/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261094669)
+
+## Biblioteca 2026-10-08
+
+Mesma busca "chatgpt plus anual" de 02 e 05/10: ~130 resultados (eram ~120, delta +10; conta a coorte inteira, nao so este vendedor). AgenciaDesign com criativo novo em 05/10.
