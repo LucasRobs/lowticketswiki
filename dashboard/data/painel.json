@@ -5,7 +5,7 @@
   "angulos": 63,
   "observacoes": 592,
   "dias_radar": 29,
-  "passadas": 63,
+  "passadas": 64,
   "analises": 12,
   "ultima_rodada": "2026-10-08"
  },
@@ -18313,7 +18313,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -18801,6 +18801,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0944.md",
+   "data": "2026-10-08",
+   "hora": "09:44",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 5,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 5 · Coleta: parcial · Achados: 0 ## Quentes (nenhum) ## Mornas (nenhum) ## Frias (nenhum -- pagina 1 repetiu integralmente os mesmos 5 titulos/URLs da passada das 07:45 em…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0745.md",
    "data": "2026-10-08",
@@ -20849,22 +20866,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "a31143deee6bdcc6",
-  "atualizado_em": "2026-10-08T07:46:32-03:00",
+  "hash": "c9a98baed3d224e1",
+  "atualizado_em": "2026-10-08T09:45:22-03:00",
   "ofertas": 267,
   "angulos": 63,
   "observacoes": 592,
   "ultima_rodada": "2026-10-08",
   "ultima_passada": {
    "data": "2026-10-08",
-   "hora": "07:45",
+   "hora": "09:44",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "yampi"
    ]
   }
  }
