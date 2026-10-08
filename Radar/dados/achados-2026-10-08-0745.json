@@ -1,0 +1,68 @@
+{
+  "data_varredura": "2026-10-08",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4022, "paginas_varridas": 3},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 2},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3962, "paginas_varridas": 5},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5644, "paginas_varridas": 3},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 3}
+  ],
+  "achados": [
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97",
+      "termo_busca": "ZapRadar",
+      "descricao": "App de rastreio/espionagem de WhatsApp ja catalogado no vault (14+ rodadas desde 16/08, multi-gateway PerfectPay+Payt). Nova reclamacao direta na Payt em 08/10: usuario nao consegue abrir o app, login sempre 'incorreto', alega propaganda enganosa. Confirma que a oferta segue ativa e com acesso quebrado/credencial que nao funciona.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/"
+    },
+    {
+      "produto": "A Renda da Fortuna",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "parcelado (12x e 5x citados, valor editado pelo RA)",
+      "termo_busca": "Renda da Fortuna",
+      "descricao": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa de dinheiro, mas vendedor nao identificado -- vale confirmar pagina antes de priorizar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/"
+    },
+    {
+      "produto": "Oblivium Digital (vendedor; produto nao identificado)",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "parcelado em 4x no cartao (valor nao informado)",
+      "termo_busca": "Oblivium Digital",
+      "descricao": "Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas (4x no cartao) continuam sendo cobradas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/"
+    },
+    {
+      "produto": "sem nome (guia digital de cuidados com bicicleta)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "guia de cuidados com bicicleta",
+      "descricao": "Achado novo, mencao unica. Produto descrito como '50 guias para cuidado da bike' (PDF/guia digital), produtor nao identificado -- so a Cakto como gateway. Comprador diz que nao recebeu o material e nao conseguiu contato. Angulo de nicho (ciclismo/manutencao) que nao se encaixa nas categorias ja mapeadas; vale observar se repete antes de abrir nicho proprio.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-as-50-guias-para-cuidado-da-minha-bike-e-nao-consigo-contato-com-a-empresa_tXtUdHmAUKM2IpQ1/"
+    }
+  ],
+  "passada": {
+    "hora": "07:45",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 5,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[zap-radar]] -- Payt, nova reclamacao direta (login/acesso quebrado) confirma oferta ainda ativa em 08/10\n\n## Mornas\n(nenhum)\n\n## Frias\n- [[a-identificar]] A Renda da Fortuna -- pacote parcelado, nome parcial, vendedor nao identificado\n- Oblivium Digital -- vendedor novo, produto nao identificado, parcelamento 4x travado\n- guia de cuidados com bicicleta -- angulo novo fora da taxonomia atual\n\nLeitura: bug sistemico de paginacao do ReclameAqui (documentado desde 06/10 17:14, agora com ~38h de persistencia) continua identico -- pagina 1 responde em todos os 5 gateways testados (perfectpay, cakto-pay, kiwify, hotmart, payt), mas pagina 2+ devolve '0 de 0 reclamacoes' sem excecao nesta passada (testado pagina 2 e 3 em perfectpay/hotmart/payt, pagina 2 em cakto, paginas 2 e 5 em kiwify -- todas vazias). Dos 5 itens de pagina 1 por gateway (25 no total), 3 marcas ja catalogadas (Loopzy, Sinfonia Oculta, Formato Criativo de Conteudo) reapareceram com a MESMA url de evidencia das passadas anteriores de hoje -- confirma que o topo da listagem esta parado, sem reclamacao nova entrando, nao so a paginacao profunda quebrada. O gateway rotativo desta passada (Payt, sem varredura desde 06/10 14:53) rendeu os 3 achados novos -- todos de pagina 1, concentrados no mesmo gateway, o que sugere que so a rotacao do gateway (nao a profundidade) esta trazendo achado novo enquanto o bug persistir.",
+    "resumo": "Payt (rotativo) rendeu 3 achados novos de pagina 1 -- A Renda da Fortuna, Oblivium Digital, guia de bike -- e ZAP Radar reconfirmado ativo; bug de paginacao do ReclameAqui chega a ~38h sem sinal de melhora."
+  }
+}

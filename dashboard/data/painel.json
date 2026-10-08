@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 265,
-  "angulos": 62,
-  "observacoes": 588,
+  "ofertas": 267,
+  "angulos": 63,
+  "observacoes": 592,
   "dias_radar": 29,
-  "passadas": 62,
+  "passadas": 63,
   "analises": 12,
   "ultima_rodada": "2026-10-08"
  },
@@ -285,6 +285,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "a-renda-da-fortuna",
+   "nome": "A Renda da Fortuna",
+   "classe": "oferta",
+   "nicho": "renda-celular-cashback-pix",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Renda%20da%20Fortuna&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -3629,6 +3684,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-guia-digital-de-cuidados-com-bicicleta",
+   "nome": "sem nome (guia digital de cuidados com bicicleta)",
+   "classe": "angulo",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=guia%20de%20cuidados%20com%20bicicleta&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo, mencao unica. Produto descrito como '50 guias para cuidado da bike' (PDF/guia digital), produtor nao identificado -- so a Cakto como gateway. Comprador diz que nao recebeu o material e nao conseguiu contato. Angulo de nicho (ciclismo/manutencao)…",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -14236,6 +14343,61 @@
    ]
   },
   {
+   "slug": "oblivium-digital-vendedor-produto-nao-identificado",
+   "nome": "Oblivium Digital (vendedor; produto nao identificado)",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 4,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 4,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "operax",
    "nome": "Operax",
    "classe": "oferta",
@@ -18054,21 +18216,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 14,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 15,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 14,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 27,
+   "n_obs": 15,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 29,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -18138,8 +18300,8 @@
    "arquivo": "Radar/2026-10-08.md",
    "data": "2026-10-08",
    "titulo": "Radar 2026-10-08",
-   "ofertas_vistas": 7,
-   "novas": 4,
+   "ofertas_vistas": 11,
+   "novas": 7,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -18147,10 +18309,11 @@
     "eduzz",
     "hotmart",
     "kiwify",
+    "payt",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -18638,6 +18801,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0745.md",
+   "data": "2026-10-08",
+   "hora": "07:45",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 5,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 5 · Coleta: parcial · Achados: 4 ## Quentes zap-radar -- Payt, nova reclamacao direta (login/acesso quebrado) confirma oferta ainda ativa em 08/10 ## Mornas (nenhum) ##…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0341.md",
    "data": "2026-10-08",
@@ -19971,8 +20153,8 @@
     "angulo": 2
    },
    "2026-10-08": {
-    "oferta": 4,
-    "angulo": 0
+    "oferta": 6,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -20003,7 +20185,7 @@
    "2026-10-05": 70,
    "2026-10-06": 43,
    "2026-10-07": 9,
-   "2026-10-08": 7
+   "2026-10-08": 11
   }
  },
  "analises": [
@@ -20406,49 +20588,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 265
+    "total": 267
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 265
+    "total": 267
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 265
+    "total": 267
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 236,
-    "total": 265
+    "preenchidas": 238,
+    "total": 267
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 138,
-    "total": 265
+    "preenchidas": 139,
+    "total": 267
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 265
+    "total": 267
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 265
+    "total": 267
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 208,
-    "total": 265
+    "preenchidas": 210,
+    "total": 267
    }
   ],
   "fila_enriquecimento": [
@@ -20620,7 +20802,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 915
+   "canonico": 922
   }
  },
  "vocabulario": {
@@ -20667,22 +20849,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "e2a829c2d45ad55e",
-  "atualizado_em": "2026-10-08T03:49:16-03:00",
-  "ofertas": 265,
-  "angulos": 62,
-  "observacoes": 588,
+  "hash": "a31143deee6bdcc6",
+  "atualizado_em": "2026-10-08T07:46:32-03:00",
+  "ofertas": 267,
+  "angulos": 63,
+  "observacoes": 592,
   "ultima_rodada": "2026-10-08",
   "ultima_passada": {
    "data": "2026-10-08",
-   "hora": "03:41",
+   "hora": "07:45",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "payt"
    ]
   }
  }

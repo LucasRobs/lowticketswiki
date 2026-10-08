@@ -26,20 +26,20 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-06
-rodadas_vista: 14
+visto_ultimo: 2026-10-08
+rodadas_vista: 15
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/zap-radar"
-gateways_detectados: [perfectpay]
+gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 5
-ra_plataformas: [perfectpay]
+ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -165,3 +165,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do
 1 mencao(oes) nesta varredura (gateway PerfectPay). App de rastreamento/espionagem. Reconfirmado via PerfectPay (ja tambem visto no Payt), operacao multi-gateway continua ativa.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/
+
+## Rodada 2026-10-08
+
+1 mencao(oes) nesta varredura (gateway Payt). App de rastreio/espionagem de WhatsApp ja catalogado no vault (14+ rodadas desde 16/08, multi-gateway PerfectPay+Payt). Nova reclamacao direta na Payt em 08/10: usuario nao consegue abrir o app, login sempre 'incorreto', alega propaganda enganosa. Confirma que a oferta segue ativa e com acesso quebrado/credencial que nao funciona.
+
+Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
