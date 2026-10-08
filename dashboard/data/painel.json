@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 261,
+  "ofertas": 265,
   "angulos": 62,
-  "observacoes": 581,
-  "dias_radar": 28,
-  "passadas": 60,
+  "observacoes": 588,
+  "dias_radar": 29,
+  "passadas": 61,
   "analises": 12,
-  "ultima_rodada": "2026-10-07"
+  "ultima_rodada": "2026-10-08"
  },
  "ofertas": [
   {
@@ -227,7 +227,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -671,7 +672,8 @@
    "resumo": "Pacote de 50 guias digitais (PDF) sobre manutencao/cuidado de bicicleta, reclamacao de nao recebimento e falta de contato com o vendedor. Ticket baixo, formato e-book. Achado novo, mencao unica.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2529,7 +2531,8 @@
    "resumo": "Achado novo, mencao unica. Comprador pagou R$48 por uma 'licenca pra trabalhar no Facebook dando notas pra produtos' e nao recebeu acesso. Mecanica classica do nicho renda-no-celular (tarefa paga que nao entrega).",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4736,7 +4739,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -9018,6 +9022,61 @@
    ]
   },
   {
+   "slug": "formato-criativo-de-conteudo",
+   "nome": "Formato Criativo de Conteudo",
+   "classe": "oferta",
+   "nicho": "marketing-criacao-conteudo",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formato%20Criativo%20de%20Conteudo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "fornecedores-ocultos-fornecedores-nfc",
    "nome": "Fornecedores Ocultos / Fornecedores NFC",
    "classe": "oferta",
@@ -10413,7 +10472,7 @@
    "classe": "oferta",
    "nicho": "ecommerce-dropshipping",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -10440,27 +10499,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Iara%20Shoppe&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 4,
    "resumo": "Curso sobre venda/operacao de loja na Shopee. Produtor identificado como Icaro Dias. Comprador diz nao ter recebido acesso ao curso adquirido via Eduzz e pede reembolso integral. Primeira aparicao no vault.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11629,7 +11687,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -11656,21 +11714,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-07",
-   "visto_ultimo": "2026-10-07",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-07",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopzy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-07",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 4,
    "resumo": "Achado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).",
    "flags": [
     "score-provisorio",
@@ -13676,6 +13734,61 @@
    ]
   },
   {
+   "slug": "mp28-cursos-de-motociclismo",
+   "nome": "MP28 (cursos de motociclismo)",
+   "classe": "oferta",
+   "nicho": "mobilidade-transito",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MP28%20motociclismo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo. Cluster de 3 cursos vendidos juntos por um mesmo produtor de motociclismo -- 'MP28 Seguranca Avancada', 'MP28 Estrada Segura' e 'Rotina e Habitos do Piloto'. Comprador pede cancelamento e reembolso dos tres; produtor nao identificado na…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "ms-green-premium",
    "nome": "MS GREEN PREMIUM",
    "classe": "oferta",
@@ -14230,7 +14343,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -16240,6 +16354,61 @@
    ]
   },
   {
+   "slug": "sinfonia-oculta",
+   "nome": "Sinfonia Oculta",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 289,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 289,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sinfonia%20Oculta&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "sistema-b2drop",
    "nome": "Sistema B2Drop",
    "classe": "oferta",
@@ -17162,21 +17331,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Tribo%20do%20Gain&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 5,
    "resumo": "Curso/comunidade com promessa de acesso vitalício e indicadores mensais de trading/investimento. Cliente diz que não recebeu o conteúdo prometido após o prazo dos 7 dias.",
    "flags": [
     "score-provisorio",
@@ -17456,6 +17625,61 @@
    "ultima_obs": "2026-10-05",
    "n_citacoes": 2,
    "resumo": "Curso de velas artesanais anunciado com a instrutora \"tia Rose\", mas o conteúdo entregue era de outra instrutora (\"Cidinha\"); propaganda enganosa sobre quem ensina.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "vevetfit",
+   "nome": "VevetFit",
+   "classe": "oferta",
+   "nicho": "saude-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VevetFit&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -17910,6 +18134,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08",
+   "ofertas_vistas": 7,
+   "novas": 4,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kiwify",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-07.md",
    "data": "2026-10-07",
@@ -18395,6 +18638,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0018.md",
+   "data": "2026-10-08",
+   "hora": "00:18",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "iara-shoppe-360",
+    "loopzy",
+    "tribo-do-gain"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 16 · Coleta: parcial · Achados: 7 ## Quentes tribo-do-gain -- Eduzz · 3a aparicao em dias diferentes (04/10, 05/10, 08/10), sobe para quente por recorrencia mesmo com…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-07 -- 2258.md",
    "data": "2026-10-07",
@@ -19688,6 +19952,10 @@
    "2026-10-07": {
     "oferta": 5,
     "angulo": 2
+   },
+   "2026-10-08": {
+    "oferta": 4,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -19717,7 +19985,8 @@
    "2026-10-04": 91,
    "2026-10-05": 70,
    "2026-10-06": 43,
-   "2026-10-07": 9
+   "2026-10-07": 9,
+   "2026-10-08": 7
   }
  },
  "analises": [
@@ -20120,49 +20389,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 261
+    "total": 265
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 261
+    "total": 265
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 261
+    "total": 265
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 232,
-    "total": 261
+    "preenchidas": 236,
+    "total": 265
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 137,
-    "total": 261
+    "preenchidas": 138,
+    "total": 265
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 261
+    "total": 265
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 261
+    "total": 265
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 204,
-    "total": 261
+    "preenchidas": 208,
+    "total": 265
    }
   ],
   "fila_enriquecimento": [
@@ -20186,9 +20455,11 @@
    "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
+   "50-guias-para-cuidado-da-bike",
    "900-mapas-mentais",
    "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
+   "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
    "angulo-apostilas-genericas-com-conteudo-copiado-yampi-sem-nome",
    "angulo-apostilas-genericas-plagiadas-yampi-sem-nome",
    "angulo-apostilas-receitas-plagiadas-via-google-drive",
@@ -20210,6 +20481,7 @@
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
+   "angulo-ganhar-dinheiro-avaliando-produtos-no-facebook",
    "angulo-guia-digital-de-100-receitas-para-pets",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
@@ -20232,6 +20504,7 @@
    "appluna-net",
    "atlas-das-patologias",
    "autismo-para-pais-lacerda",
+   "body-piercer-extreme",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "caderno-de-professor",
@@ -20279,7 +20552,6 @@
    "hub-boss-rateio-ia",
    "ia-do-futuro",
    "ia-fx-promocional",
-   "iara-shoppe-360",
    "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
    "imersao-tradutor-de-almas-andrea-vermont",
    "indicadores-de-trading",
@@ -20302,6 +20574,7 @@
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
+   "orientacao-farmaceutica-na-pratica-2-0",
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
@@ -20330,7 +20603,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 904
+   "canonico": 915
   }
  },
  "vocabulario": {
@@ -20377,22 +20650,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c0904098c6a5203f",
-  "atualizado_em": "2026-10-07T22:59:40-03:00",
-  "ofertas": 261,
+  "hash": "859507625d407d31",
+  "atualizado_em": "2026-10-08T00:18:49-03:00",
+  "ofertas": 265,
   "angulos": 62,
-  "observacoes": 581,
-  "ultima_rodada": "2026-10-07",
+  "observacoes": 588,
+  "ultima_rodada": "2026-10-08",
   "ultima_passada": {
-   "data": "2026-10-07",
-   "hora": "22:58",
+   "data": "2026-10-08",
+   "hora": "00:18",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto"
+    "eduzz"
    ]
   }
  }

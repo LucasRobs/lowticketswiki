@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08",
+   "ofertas_vistas": 7,
+   "novas": 4,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kiwify",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-08\n\n## Novas\n\n- [[formato-criativo-de-conteudo]] — marketing-criacao-conteudo — nao informado — Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela --…\n- [[sinfonia-oculta]] — a-identificar — R$ 289,00 — Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou…\n- [[vevetfit]] — saude-fitness — nao informado — Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem…\n- [[mp28-cursos-de-motociclismo]] — mobilidade-transito — nao informado — Achado novo. Cluster de 3 cursos vendidos juntos por um mesmo produtor de motociclismo -- 'MP28 Seguranca Avancada', 'MP28 Estrada Segura'…\n\n## Movimento\n\n- [[loopzy]] — ra_reclamacoes atualizado para 2\n- [[tribo-do-gain]] — ra_reclamacoes atualizado para 3\n- [[iara-shoppe-360]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-08 -- 0018]] - perfectpay, cakto-pay, kiwify, hotmart, eduzz - 7 achado(s) - Tribo do Gain sobe a quente (3a aparicao em dias diferentes); 4 marcas novas (Formato Criativo de Conteudo, Sinfonia Oculta, VevetFit…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-07.md",
    "data": "2026-10-07",
    "titulo": "Radar 2026-10-07",
@@ -486,6 +505,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0018.md",
+   "data": "2026-10-08",
+   "hora": "00:18",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "iara-shoppe-360",
+    "loopzy",
+    "tribo-do-gain"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-08]].\n\n# Rodada — 08/10/2026 · 00:18 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, eduzz · **Páginas:** 16 · **Coleta:** parcial · **Achados:** 7\n\n## Quentes\n- [[tribo-do-gain]] -- Eduzz · 3a aparicao em dias diferentes (04/10, 05/10, 08/10), sobe para quente por recorrencia mesmo com evidencia de compra ainda fraca\n\n## Mornas\n- [[loopzy]] -- Cakto · 2a aparicao (07/10, 08/10), nome do vendedor agora confirmado explicitamente na reclamacao\n- [[iara-shoppe-360]] -- Eduzz · reconfirmado em dia diferente (06/10, 08/10)\n\n## Frias\n- Formato Criativo de Conteudo -- Hotmart · novo, produtora Hanah Frank citada mas comprador diz que quem ensina e o namorado dela\n- Sinfonia Oculta -- Hotmart · novo, atipico (reclamacao de compra nao concluida, R$289)\n- VevetFit -- Hotmart · novo, assinatura fitness com renovacao automatica nao avisada\n- MP28 (cursos de motociclismo) -- Eduzz · novo, cluster de 3 cursos do mesmo produtor\n\nLeitura: falha sistemica de paginacao do ReclameAqui persiste, agora confirmada por pelo menos 11 passadas automaticas consecutivas desde 06/10 17:14 (~31h). Testada de novo as 00:18: pagina 1 responde normalmente em todos os gateways (perfectpay, cakto-pay, kiwify, hotmart, eduzz); pagina 2 quase sempre devolve '0 de 0 reclamacoes', com uma unica excecao (eduzz pagina 3 respondeu com dados reais numa tentativa, mas a pagina 2 do mesmo gateway falhou antes e depois) -- sinal de que a falha e intermitente/por cache do lado do ReclameAqui, nao um bloqueio fixo. Coleta ficou limitada a pagina 1 de perfectpay/cakto-pay/kiwify/hotmart mais paginas 1 e 3 de eduzz (rotativo, escolhido por estar ha mais tempo sem varredura desde 06/10 10:28). Dentro desse limite, abertas 12 reclamacoes priorizando nome de produto. Maior achado da passada: Tribo do Gain confirma 3a aparicao em dias diferentes e sobe pra quente. Quatro achados novos (Formato Criativo de Conteudo, Sinfonia Oculta, VevetFit, MP28), todos com evidencia de mencao unica. Descartados por serem genericos ou sem nome identificavel: reclamacoes de senha/conta da Kiwify, saque bloqueado da propria Cakto/Kiwify (sao vendedores reclamando da plataforma, nao compradores), reembolso de assinatura sem nome (Kiwify x2), e duas reclamacoes de cobranca indevida na Eduzz sem produto citado.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-07 -- 2258.md",
    "data": "2026-10-07",

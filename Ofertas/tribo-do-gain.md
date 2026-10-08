@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-08
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/tribo-do-gain"
 gateways_detectados: [eduzz]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/eduzz/propaganda-enganosa-e-falta-de-s
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Eduzz). Reconfirmado (evidencia ainda fraca): curso online nao correspondeu as promessas de acesso vitalicio, reembolso perdido por prazo.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/cobranca-e-propaganda-enganosa-em-curso-online_SJTfkKj_MUjJ2s9m/
+
+## Rodada 2026-10-08
+
+3 mencao(oes) nesta varredura (gateway Eduzz). Terceira aparicao em dias diferentes (04/10, 05/10, agora 08/10) -- sobe para quente por recorrencia, embora a evidencia de compra continue fraca: em mais de uma reclamacao a Eduzz responde que nao localiza a transacao no sistema. Comunidade/curso de trading com promessa de acesso vitalicio.
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/cobranca-e-propaganda-enganosa-em-curso-online_SJTfkKj_MUjJ2s9m/

@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 3,
   "ra_plataformas": [
    "eduzz"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "eduzz"
   ]
  },
- "corpo": "# Tribo do Gain\n\n## Angulo\nCurso/comunidade com promessa de acesso vitalício e indicadores mensais de trading/investimento. Cliente diz que não recebeu o conteúdo prometido após o prazo dos 7 dias.\n\n## Funil\nanuncio -> pagina -> checkout eduzz -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/cobranca-indevida-apos-cancelamento-e-reembolso-nao-repassado__dtRUHmbEXXmdUdD/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Primeira aparicao, evidencia fraca: a Eduzz respondeu a reclamacao dizendo nao localizar compra ou cadastro para os dados informados, ou seja, nao ha confirmacao de que a transacao existiu. Mantido como fria/baixa confianca.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Reconfirmado (evidencia ainda fraca): curso online nao correspondeu as promessas de acesso vitalicio, reembolso perdido por prazo.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/cobranca-e-propaganda-enganosa-em-curso-online_SJTfkKj_MUjJ2s9m/\n",
+ "corpo": "# Tribo do Gain\n\n## Angulo\nCurso/comunidade com promessa de acesso vitalício e indicadores mensais de trading/investimento. Cliente diz que não recebeu o conteúdo prometido após o prazo dos 7 dias.\n\n## Funil\nanuncio -> pagina -> checkout eduzz -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/cobranca-indevida-apos-cancelamento-e-reembolso-nao-repassado__dtRUHmbEXXmdUdD/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Primeira aparicao, evidencia fraca: a Eduzz respondeu a reclamacao dizendo nao localizar compra ou cadastro para os dados informados, ou seja, nao ha confirmacao de que a transacao existiu. Mantido como fria/baixa confianca.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/propaganda-enganosa-e-falta-de-suporte-em-mentoria-online_Ci9E4KRpGcToqMDS/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Reconfirmado (evidencia ainda fraca): curso online nao correspondeu as promessas de acesso vitalicio, reembolso perdido por prazo.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/cobranca-e-propaganda-enganosa-em-curso-online_SJTfkKj_MUjJ2s9m/\n\n## Rodada 2026-10-08\n\n3 mencao(oes) nesta varredura (gateway Eduzz). Terceira aparicao em dias diferentes (04/10, 05/10, agora 08/10) -- sobe para quente por recorrencia, embora a evidencia de compra continue fraca: em mais de uma reclamacao a Eduzz responde que nao localiza a transacao no sistema. Comunidade/curso de trading com promessa de acesso vitalicio.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/cobranca-e-propaganda-enganosa-em-curso-online_SJTfkKj_MUjJ2s9m/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reconfirmado (evidencia ainda fraca): curso online nao correspondeu as promessas de acesso vitalicio, reembolso perdido por prazo."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "3 mencao(oes) na varredura de hoje. Terceira aparicao em dias diferentes (04/10, 05/10, agora 08/10) -- sobe para quente por recorrencia, embora a evidencia de compra continue fraca: em mais de uma reclamacao a Eduzz responde que nao localiza a transacao no sistema. Comunidade/curso de trading com promessa de acesso vitalicio."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0018.md",
+   "data": "2026-10-08",
+   "titulo": "Passada 2026-10-08 00:18"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",
