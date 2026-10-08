@@ -17,8 +17,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-08\n\n## Novas\n\n- [[formato-criativo-de-conteudo]] — marketing-criacao-conteudo — nao informado — Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela --…\n- [[sinfonia-oculta]] — a-identificar — R$ 289,00 — Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou…\n- [[vevetfit]] — saude-fitness — nao informado — Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem…\n- [[mp28-cursos-de-motociclismo]] — mobilidade-transito — nao informado — Achado novo. Cluster de 3 cursos vendidos juntos por um mesmo produtor de motociclismo -- 'MP28 Seguranca Avancada', 'MP28 Estrada Segura'…\n\n## Movimento\n\n- [[loopzy]] — ra_reclamacoes atualizado para 2\n- [[tribo-do-gain]] — ra_reclamacoes atualizado para 3\n- [[iara-shoppe-360]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-08 -- 0018]] - perfectpay, cakto-pay, kiwify, hotmart, eduzz - 7 achado(s) - Tribo do Gain sobe a quente (3a aparicao em dias diferentes); 4 marcas novas (Formato Criativo de Conteudo, Sinfonia Oculta, VevetFit…\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-08\n\n## Novas\n\n- [[formato-criativo-de-conteudo]] — marketing-criacao-conteudo — nao informado — Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela --…\n- [[sinfonia-oculta]] — a-identificar — R$ 289,00 — Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou…\n- [[vevetfit]] — saude-fitness — nao informado — Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem…\n- [[mp28-cursos-de-motociclismo]] — mobilidade-transito — nao informado — Achado novo. Cluster de 3 cursos vendidos juntos por um mesmo produtor de motociclismo -- 'MP28 Seguranca Avancada', 'MP28 Estrada Segura'…\n\n## Movimento\n\n- [[loopzy]] — ra_reclamacoes atualizado para 2\n- [[tribo-do-gain]] — ra_reclamacoes atualizado para 3\n- [[iara-shoppe-360]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-08 -- 0018]] - perfectpay, cakto-pay, kiwify, hotmart, eduzz - 7 achado(s) - Tribo do Gain sobe a quente (3a aparicao em dias diferentes); 4 marcas novas (Formato Criativo de Conteudo, Sinfonia Oculta, VevetFit…\n- [[2026-10-08 -- 0341]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 0 achado(s) - Zero achados novos; bug de paginacao do ReclameAqui persiste ha 34h+ e pode estar servindo cache antigo em vez de lista viva.\n"
   },
   {
    "arquivo": "Radar/2026-10-07.md",
@@ -505,6 +505,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0341.md",
+   "data": "2026-10-08",
+   "hora": "03:41",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-08]].\n\n# Rodada — 08/10/2026 · 03:41 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, braip · **Páginas:** 20 · **Coleta:** parcial · **Achados:** 0\n\n## Quentes\n(nenhum -- sem achado novo nesta passada)\n\n## Mornas\n(nenhum)\n\n## Frias\n(nenhum)\n\nLeitura: zero achados novos. A falha sistemica de paginacao do ReclameAqui (ja documentada desde 06/10 17:14, ~34h atras) persiste e piorou de diagnostico: pagina 1 respondeu em todos os 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, braip), mas pagina 2+ devolveu '0 de 0 reclamacoes' quase sempre -- com exceção da Braip, cujas paginas 2, 3 e 11 responderam com dados. Ao abrir as 14 reclamacoes mais promissoras (nomes diretos no titulo: Sistema B2Drop, POPTV, Gold Card TV, Kit Hevovix, 'Entendimento', mais variacoes genericas de PerfectPay/Kiwify/Hotmart), todas as que tinham nome de produto ja estavam no vault com a MESMA URL de evidencia e mesma data (B2Drop, POPTV e Gold Card TV vistos pela 1a vez em 04-05/10; Kit Hevovix idem; angulo 'licenca pra trabalhar no Facebook' visto em 07/10). Ou seja: quando a Braip 'funciona' em paginas profundas, ela parece devolver um snapshot antigo/cacheado (reclamacoes de agosto/inicio de outubro), nao a lista viva atual -- hipotese nova a validar nas proximas passadas (comparar data da reclamacao capturada vs data da passada). Nas paginas 1 de PerfectPay/Kiwify/Hotmart que responderam, as reclamacoes mais recentes (07/10, fim da tarde/noite) tambem ja tinham sido capturadas em passadas anteriores no mesmo dia -- sinal de que, nessa janela de ~3h20 desde a ultima passada (00:18), nao chegou reclamacao nova nova no topo da lista. Nenhum achado novo foi gravado para nao inflar contagem de mencoes/rodadas com dados ja conhecidos.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0018.md",
    "data": "2026-10-08",

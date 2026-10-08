@@ -1,0 +1,19 @@
+{
+  "data_varredura": "2026-10-08",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4024, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4844, "paginas_varridas": 5},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3962, "paginas_varridas": 5},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5646, "paginas_varridas": 5},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 490, "paginas_varridas": 20}
+  ],
+  "achados": [],
+  "passada": {
+    "hora": "03:41",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 20,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n(nenhum -- sem achado novo nesta passada)\n\n## Mornas\n(nenhum)\n\n## Frias\n(nenhum)\n\nLeitura: zero achados novos. A falha sistemica de paginacao do ReclameAqui (ja documentada desde 06/10 17:14, ~34h atras) persiste e piorou de diagnostico: pagina 1 respondeu em todos os 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, braip), mas pagina 2+ devolveu '0 de 0 reclamacoes' quase sempre -- com exceção da Braip, cujas paginas 2, 3 e 11 responderam com dados. Ao abrir as 14 reclamacoes mais promissoras (nomes diretos no titulo: Sistema B2Drop, POPTV, Gold Card TV, Kit Hevovix, 'Entendimento', mais variacoes genericas de PerfectPay/Kiwify/Hotmart), todas as que tinham nome de produto ja estavam no vault com a MESMA URL de evidencia e mesma data (B2Drop, POPTV e Gold Card TV vistos pela 1a vez em 04-05/10; Kit Hevovix idem; angulo 'licenca pra trabalhar no Facebook' visto em 07/10). Ou seja: quando a Braip 'funciona' em paginas profundas, ela parece devolver um snapshot antigo/cacheado (reclamacoes de agosto/inicio de outubro), nao a lista viva atual -- hipotese nova a validar nas proximas passadas (comparar data da reclamacao capturada vs data da passada). Nas paginas 1 de PerfectPay/Kiwify/Hotmart que responderam, as reclamacoes mais recentes (07/10, fim da tarde/noite) tambem ja tinham sido capturadas em passadas anteriores no mesmo dia -- sinal de que, nessa janela de ~3h20 desde a ultima passada (00:18), nao chegou reclamacao nova nova no topo da lista. Nenhum achado novo foi gravado para nao inflar contagem de mencoes/rodadas com dados ja conhecidos.",
+    "resumo": "Zero achados novos; bug de paginacao do ReclameAqui persiste ha 34h+ e pode estar servindo cache antigo em vez de lista viva."
+  }
+}

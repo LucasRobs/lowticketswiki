@@ -5,7 +5,7 @@
   "angulos": 62,
   "observacoes": 588,
   "dias_radar": 29,
-  "passadas": 61,
+  "passadas": 62,
   "analises": 12,
   "ultima_rodada": "2026-10-08"
  },
@@ -18150,7 +18150,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -18638,6 +18638,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0341.md",
+   "data": "2026-10-08",
+   "hora": "03:41",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 20 · Coleta: parcial · Achados: 0 ## Quentes (nenhum -- sem achado novo nesta passada) ## Mornas (nenhum) ## Frias (nenhum) Leitura: zero achados novos. A falha sistemica…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0018.md",
    "data": "2026-10-08",
@@ -20650,22 +20667,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "859507625d407d31",
-  "atualizado_em": "2026-10-08T00:18:49-03:00",
+  "hash": "e2a829c2d45ad55e",
+  "atualizado_em": "2026-10-08T03:49:16-03:00",
   "ofertas": 265,
   "angulos": 62,
   "observacoes": 588,
   "ultima_rodada": "2026-10-08",
   "ultima_passada": {
    "data": "2026-10-08",
-   "hora": "00:18",
+   "hora": "03:41",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "braip"
    ]
   }
  }
