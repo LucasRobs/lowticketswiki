@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-09-23
-visto_ultimo: 2026-09-25
-rodadas_vista: 3
+visto_ultimo: 2026-10-08
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mentoria-caio-martins"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-25
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway Cakto). Reembolso dentro do prazo nao processado (reclamacoes de 04-10/08).
 
 Evidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-08
+
+2 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo (261080435, 07/10): 'curso do Caio Martins', reembolso so por e-mail que nao responde. Volta de esfriando.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261080435)

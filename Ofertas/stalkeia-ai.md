@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-05
-rodadas_vista: 11
+visto_ultimo: 2026-10-08
+rodadas_vista: 12
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 11
+ra_reclamacoes: 15
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -155,3 +155,9 @@ Evidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclam
 11 mencao(oes) nesta varredura (gateway PerfectPay). 3 reclamacoes nomeadas em 05/10, as primeiras com ID desde 256618461: 260841477 (app simula a interface do Instagram e inventa conversas), 260836685 (R$ 155,70 em 3 transacoes) e 260834783 (R$ 232,64 em 3 Pix no mesmo dia). Uma quarta (260833211, 'Stalker app', taxas sucessivas) provavelmente e a mesma operacao e nao foi contada. Taxa escalonada: tres cobrancas por compra.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/realizei-3-pagamentos-via-pix-para-e-o-produto-e-propaganda-enganosa_U29fQmXatOKQJ4w8/ (IDs 260841477, 260836685, 260834783)
+
+## Rodada 2026-10-08
+
+15 mencao(oes) nesta varredura (gateway PerfectPay). 4 reclamacoes com ID novo em 07-08/10: 261105725 e 261102589 ('Stalkea AI - Acesso Completo 2.0'), 261061359 e 261044525 ('Stalkeia.com', R$ 47,90 e R$ 39,90). Aparece um nome de produto novo, 'Acesso Completo 2.0'.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261105725, 261102589, 261061359, 261044525)

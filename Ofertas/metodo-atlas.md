@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-26
-visto_ultimo: 2026-09-26
-rodadas_vista: 1
+visto_ultimo: 2026-10-08
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/metodo-atlas"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-26
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-08
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261106243, 08/10): curso/ebook nao entregue, numero de suporte inexistente.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261106243)

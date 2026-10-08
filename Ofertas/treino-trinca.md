@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-05
-rodadas_vista: 6
+visto_ultimo: 2026-10-08
+rodadas_vista: 7
 dias_no_ar: 58
 criativos_ultima: 230
 criativos_delta: 100
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 33
+ra_reclamacoes: 41
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -148,3 +148,9 @@ Evidencia: https://www.reclameaqui.com.br/lastlink/lista-reclamacoes/ (IDs 26078
 ## Medicao 2026-10-05 (rodada diaria, Biblioteca de Anuncios)
 
 Mesma busca de 02/10 ("treino trinca", ativos, BR): **~230 resultados contra ~130**. Das 29 primeiras carregadas, 28 sao de Pedro Lotz, com inicios entre 22/08 e 30/09. `criativos_ultima: 230` e `criativos_delta: 100` comparam com os ~130 da mesma busca em 02/10, e nao com os 91 gravados em 27/09, que vinham de outra busca. `dias_no_ar: 58` conta a partir de 08/08, o anuncio mais antigo medido em 27/09, e continua sendo limite inferior. `s_lucro` continua 8: esta na faixa de 45-90 dias, e a faixa 9-10 pede 90 dias ou mais.
+
+## Rodada 2026-10-08
+
+41 mencao(oes) nesta varredura (gateway Lastlink). 8 reclamacoes com ID novo em 06-07/10, todas acima de 260842051 (maior de 05/10): 261097585, 261092767 (desafio R$ 37), 261088161, 261087345, 261079447, 261048213 (link do treino volta para a avaliacao), 261017573 (desafio de 28 dias nao entregue) e 260965163. Duas mostram degraus novos: 261087345 descreve RENOVACAO AUTOMATICA da assinatura Trinca Elite em 06/10 (o degrau de R$ 237,78 e recorrente) e 260965163 nomeia um 'kit Trinca Force'. Biblioteca, mesma busca de 02 e 05/10: ~210 resultados (eram ~230), 29 de 29 carregados de Pedro Lotz, mais antigo carregado 22/08, criativos novos em 03 e 04/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261097585, 261092767, 261088161, 261087345, 261079447, 261048213, 261017573, 260965163)

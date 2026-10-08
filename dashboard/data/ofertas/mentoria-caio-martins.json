@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-09-23",
-  "visto_ultimo": "2026-09-25",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-08",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-25",
+  "ra_checado": "2026-10-08",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "cakto"
   ]
  },
- "corpo": "# Mentoria Caio Martins\n\n## Angulo\nMentoria de alto valor com suporte fantasma. Cliente não conseguiu contato após compra, reembolso não processado dentro do prazo de 7 dias. Padrão: CPA alto, desaparece depois.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-23 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-nao-atendida-dentro-do-prazo-legal-mentoria-caio-martins-cakto-pay_k6rCdLrOGjPx4EY8/\n\n## Historico\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway Cakto). Avistada 04h41 e 14h12. Suporte fantasma, reembolso retido. Mesmas reclamacoes de 22-23/09.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reembolso dentro do prazo nao processado (reclamacoes de 04-10/08).\n\nEvidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n",
+ "corpo": "# Mentoria Caio Martins\n\n## Angulo\nMentoria de alto valor com suporte fantasma. Cliente não conseguiu contato após compra, reembolso não processado dentro do prazo de 7 dias. Padrão: CPA alto, desaparece depois.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-23 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-de-reembolso-nao-atendida-dentro-do-prazo-legal-mentoria-caio-martins-cakto-pay_k6rCdLrOGjPx4EY8/\n\n## Historico\n\n## Rodada 2026-09-24\n\n1 mencao(oes) nesta varredura (gateway Cakto). Avistada 04h41 e 14h12. Suporte fantasma, reembolso retido. Mesmas reclamacoes de 22-23/09.\n\nEvidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-09-25\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reembolso dentro do prazo nao processado (reclamacoes de 04-10/08).\n\nEvidencia: [[2026-09-25 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo (261080435, 07/10): 'curso do Caio Martins', reembolso so por e-mail que nao responde. Volta de esfriando.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261080435)\n",
  "observacoes": [
   {
    "data": "2026-09-23",
@@ -108,9 +108,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reembolso dentro do prazo nao processado (reclamacoes de 04-10/08)."
+  },
+  {
+   "data": "2026-10-08",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. 1 reclamacao com ID novo (261080435, 07/10): 'curso do Caio Martins', reembolso so por e-mail que nao responde. Volta de esfriando."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-08.md",
+   "data": "2026-10-08",
+   "titulo": "Radar 2026-10-08"
+  },
   {
    "tipo": "analise",
    "arquivo": "Analises/2026-09-27 -- novidades-22-a-26-09.md",

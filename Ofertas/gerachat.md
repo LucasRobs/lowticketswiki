@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-10-02
-rodadas_vista: 2
+visto_ultimo: 2026-10-08
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-02
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 260132115 (26/09) continua na primeira pagina da Ticto. Sem reclamacao nova.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/lista-reclamacoes/ (ID 260132115)
+
+## Rodada 2026-10-08
+
+1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 260132115 (26/09) relida na Ticto. Sem ID novo, contagem nao move.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 260132115, relida)
