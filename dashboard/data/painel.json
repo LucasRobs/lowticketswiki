@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 267,
   "angulos": 63,
-  "observacoes": 592,
+  "observacoes": 593,
   "dias_radar": 29,
-  "passadas": 64,
+  "passadas": 65,
   "analises": 12,
   "ultima_rodada": "2026-10-08"
  },
@@ -9166,7 +9166,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-08",
    "bump_oculto": false,
@@ -9175,7 +9175,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formato%20Criativo%20de%20Conteudo&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-08",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -11835,7 +11835,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopzy&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-08",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Achado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).",
    "flags": [
     "score-provisorio",
@@ -12321,21 +12321,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Manual%20do%20Milhão%20Lasy%20IA&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 3,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 5,
    "resumo": "Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.",
    "flags": [
     "score-provisorio",
@@ -16553,7 +16553,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-08",
    "bump_oculto": false,
@@ -16562,7 +16562,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sinfonia%20Oculta&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-08",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.",
    "flags": [
     "score-provisorio",
@@ -18300,7 +18300,7 @@
    "arquivo": "Radar/2026-10-08.md",
    "data": "2026-10-08",
    "titulo": "Radar 2026-10-08",
-   "ofertas_vistas": 11,
+   "ofertas_vistas": 12,
    "novas": 7,
    "retornaram": 0,
    "sumiram": 0,
@@ -18309,11 +18309,12 @@
     "eduzz",
     "hotmart",
     "kiwify",
+    "monetizze",
     "payt",
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -18801,6 +18802,28 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 1115.md",
+   "data": "2026-10-08",
+   "hora": "11:15",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "formato-criativo-de-conteudo",
+    "loopzy",
+    "manual-do-milhao-lasy-ia",
+    "sinfonia-oculta"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 4 ## Quentes loopzy -- Cakto, reclamacao de reembolso sem solucao, 2a aparicao em dia diferente (07/10 e 08/10) manual-do-milhao-lasy-ia…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0944.md",
    "data": "2026-10-08",
@@ -20202,7 +20225,7 @@
    "2026-10-05": 70,
    "2026-10-06": 43,
    "2026-10-07": 9,
-   "2026-10-08": 11
+   "2026-10-08": 12
   }
  },
  "analises": [
@@ -20819,7 +20842,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 922
+   "canonico": 923
   }
  },
  "vocabulario": {
@@ -20866,22 +20889,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c9a98baed3d224e1",
-  "atualizado_em": "2026-10-08T09:45:22-03:00",
+  "hash": "b842730f59c75917",
+  "atualizado_em": "2026-10-08T11:18:18-03:00",
   "ofertas": 267,
   "angulos": 63,
-  "observacoes": 592,
+  "observacoes": 593,
   "ultima_rodada": "2026-10-08",
   "ultima_passada": {
    "data": "2026-10-08",
-   "hora": "09:44",
+   "hora": "11:15",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "monetizze"
    ]
   }
  }

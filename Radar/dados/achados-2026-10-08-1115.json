@@ -1,0 +1,68 @@
+{
+  "data_varredura": "2026-10-08",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 287224, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18884, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50464, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 1},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 64194, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Loopzy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "Loopzy",
+      "descricao": "Reclamação de reembolso não resolvido via Cakto. 2ª aparição em dia diferente (07/10 e 08/10), confirma oferta ainda ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/"
+    },
+    {
+      "produto": "Manual do Milhão + Lasy IA",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "inteligencia-artificial",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "Manual do Milhao Lasy IA",
+      "descricao": "Combo curso + ferramenta de IA vendido pela RP Consultoria Treinamento e Educação via Monetizze. Nova reclamação distinta (URL diferente das anteriores) soma à recorrência que já vinha de 04/10, 05/10, 06/10 e 07/10 — operação sustentada há pelo menos 5 dias.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_s--U7ZLmNrTbJmuT/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "R$ 289",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Comprador não conseguiu finalizar compra do produto Sinfonia Oculta (R$ 289) via Hotmart. 2ª menção no mesmo dia (09:44 e 11:15), ainda sem confirmar recorrência em dia diferente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "Formato Criativo de Conteúdo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Comprador pede reembolso do curso Formato Criativo de Conteúdo via Hotmart. 2ª/3ª menção no mesmo dia, ainda sem confirmar recorrência em dia diferente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    }
+  ],
+  "passada": {
+    "hora": "11:15",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "monetizze"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[loopzy]] -- Cakto, reclamacao de reembolso sem solucao, 2a aparicao em dia diferente (07/10 e 08/10)\n- [[manual-do-milhao-lasy-ia]] -- Monetizze, nova reclamacao distinta (URL inedita) soma a recorrencia que ja ia de 04/10 a 07/10, operacao sustentada ha pelo menos 5 dias\n\n## Mornas\n- [[sinfonia-oculta]] -- Hotmart, R$ 289, 2a mencao no mesmo dia (09:44 e 11:15)\n- [[formato-criativo-de-conteudo]] -- Hotmart, 2a/3a mencao no mesmo dia\n\n## Frias\n(nenhum achado novo sem precedente nesta passada)\n\nLeitura: a paginacao profunda do ReclameAqui (quebrada desde 06/10 17:14, ~44h de persistencia) continua travada, mas a pagina 1 voltou a responder com conteudo fresco -- deixou de ser um espelho congelado e identico a passada anterior (09:44), como acontecia desde a ultima rodada. Paginas 2 e 3 testadas nos 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, monetizze) devolveram 0 de 0 reclamacoes sem excecao. Coleta desta passada ficou limitada a pagina 1 de cada gateway (25 titulos no total, sem abertura de reclamacoes individuais porque nenhum titulo trazia palavra-chave prioritaria nova). Gateway rotativo Monetizze escolhido por estar ha mais tempo sem varredura (ultimo uso: 06/10 03:41 nas rodadas recentes).",
+    "resumo": "Pagina 1 do ReclameAqui voltou a responder (nao mais congelada), mas paginas 2+ continuam 0 de 0 nos 5 gateways testados -- degradacao de paginacao profunda persiste ha ~44h; 4 achados, todos recorrentes."
+  }
+}

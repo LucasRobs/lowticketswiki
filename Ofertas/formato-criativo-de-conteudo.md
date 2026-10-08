@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/formato-criativo-de-conteudo"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-08
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-08
+
+2 mencao(oes) nesta varredura (gateway Hotmart). Comprador pede reembolso do curso Formato Criativo de Conteúdo via Hotmart. 2ª/3ª menção no mesmo dia, ainda sem confirmar recorrência em dia diferente.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/

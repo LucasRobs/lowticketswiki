@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/sinfonia-oculta"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-08
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-08
+
+2 mencao(oes) nesta varredura (gateway Hotmart). Comprador não conseguiu finalizar compra do produto Sinfonia Oculta (R$ 289) via Hotmart. 2ª menção no mesmo dia (09:44 e 11:15), ainda sem confirmar recorrência em dia diferente.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/
