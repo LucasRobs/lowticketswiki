@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-06
-rodadas_vista: 7
+visto_ultimo: 2026-10-09
+rodadas_vista: 8
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-09
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -126,3 +126,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrepe
 1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado mais uma vez via Cakto - direito de arrependimento solicitado.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/
+
+## Rodada 2026-10-09
+
+1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta de lives interativas no TikTok, ja confirmada no vault (slug loopyz) com reconfirmacoes em varios dias desde 09/2026. Esta e uma evidencia_url nova (reclamacao de cancelamento/reembolso datada de 12/08/2026, pagina profunda do gateway), nao a mesma ja registrada - soma ao historico sustentado da oferta.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/

@@ -2,10 +2,10 @@
  "esquema": 1,
  "totais": {
   "ofertas": 272,
-  "angulos": 68,
-  "observacoes": 620,
+  "angulos": 69,
+  "observacoes": 622,
   "dias_radar": 30,
-  "passadas": 68,
+  "passadas": 69,
   "analises": 12,
   "ultima_rodada": "2026-10-09"
  },
@@ -4005,6 +4005,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-licenca-para-trabalhar-no-facebook",
+   "nome": "sem nome - licenca para trabalhar no Facebook",
+   "classe": "angulo",
+   "nicho": "emprego-e-renda-falsa",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 48,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 48,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-09",
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-09",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=licenca%20para%20trabalhar%20pelo%20facebook&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 1,
+   "resumo": "Golpe de 'licenca'/cadastro pago para supostamente trabalhar no Facebook (moderacao, gestao de paginas) sem acesso liberado depois do pagamento. Ticket de entrada baixo (R$48). Angulo distinto do golpe de 'ganhar dinheiro avaliando produtos' ja tracked no…",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -12146,21 +12198,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-09",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 7,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 16,
+   "n_obs": 8,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 18,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -17447,7 +17499,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TCS%20Spy&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-09",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -18849,8 +18901,8 @@
    "arquivo": "Radar/2026-10-09.md",
    "data": "2026-10-09",
    "titulo": "Radar 2026-10-09",
-   "ofertas_vistas": 10,
-   "novas": 4,
+   "ofertas_vistas": 12,
+   "novas": 5,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -18861,7 +18913,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -19394,6 +19446,26 @@
     "vevetfit"
    ],
    "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, braip · Páginas: 17 · Coleta: parcial · Achados: 10 ## Quentes sistema-b2drop — Braip · 3ª aparição em dias distintos, operação de dropshipping sustentada formato-criativo-de-conteudo — Hotmart…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-10-09 -- 1758.md",
+   "data": "2026-10-09",
+   "hora": "17:58",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 54,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "loopyz",
+    "tcs-spy"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 54 · Coleta: parcial · Achados: 4 ## Quentes loopyz - Cakto - nova evidencia de cancelamento (R$88,29), soma ao historico sustentado multi-dias ## Mornas (nenhuma nesta…"
   },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 1719.md",
@@ -20837,7 +20909,7 @@
    },
    "2026-10-09": {
     "oferta": 3,
-    "angulo": 1
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -20869,7 +20941,7 @@
    "2026-10-06": 43,
    "2026-10-07": 9,
    "2026-10-08": 29,
-   "2026-10-09": 10
+   "2026-10-09": 12
   }
  },
  "analises": [
@@ -21492,7 +21564,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 960
+   "canonico": 963
   }
  },
  "vocabulario": {
@@ -21539,11 +21611,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "83d4b9d57ff8ccc8",
-  "atualizado_em": "2026-10-09T18:06:02-03:00",
+  "hash": "49f30b8f5489d36a",
+  "atualizado_em": "2026-10-09T18:06:38-03:00",
   "ofertas": 272,
-  "angulos": 68,
-  "observacoes": 620,
+  "angulos": 69,
+  "observacoes": 622,
   "ultima_rodada": "2026-10-09",
   "ultima_passada": {
    "data": "2026-10-09",

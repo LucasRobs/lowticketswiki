@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-09
+
+1 mencao(oes) nesta varredura (gateway Cakto). App de monitoramento/espionagem vendido como assinatura mensal (TCS Spy - MENSAL) via Cakto. Produtor nao identificado na reclamacao. Primeira aparicao no vault.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/

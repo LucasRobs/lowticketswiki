@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-09
+
+1 mencao(oes) nesta varredura (gateway Cakto). Comunidade/mentoria paga via Cakto ('APENAS FLOW ULTRA' sugere upsell de nivel dentro da comunidade). Produtor nao identificado na reclamacao. Primeira aparicao no vault.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/
