@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-08
-rodadas_vista: 1
+visto_ultimo: 2026-10-09
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-09
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-08
 
 2 mencao(oes) nesta varredura (gateway Hotmart). Comprador não conseguiu finalizar compra do produto Sinfonia Oculta (R$ 289) via Hotmart. 2ª menção no mesmo dia (09:44 e 11:15), ainda sem confirmar recorrência em dia diferente.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/
+
+## Rodada 2026-10-09
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Produto de ticket alto (R$289) na Hotmart; nicho ainda não identificado pois a reclamação é de falha na compra (não chegou a converter), não de insatisfação com o conteúdo. Repetiu no dia seguinte da 1ª aparição.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/

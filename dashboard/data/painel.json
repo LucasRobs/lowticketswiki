@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 269,
-  "angulos": 67,
-  "observacoes": 610,
-  "dias_radar": 29,
-  "passadas": 67,
+  "ofertas": 272,
+  "angulos": 68,
+  "observacoes": 620,
+  "dias_radar": 30,
+  "passadas": 68,
   "analises": 12,
-  "ultima_rodada": "2026-10-08"
+  "ultima_rodada": "2026-10-09"
  },
  "ofertas": [
   {
@@ -339,7 +339,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -840,7 +841,8 @@
    "resumo": "Angulo novo. 'Aplicativo de controle financeiro (planilha)' vendido para motoristas de app, reclamante diz que o produto nao existe/nao funciona e suporte inoperante.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2143,7 +2145,8 @@
    "resumo": "Angulo novo. Curso de bordado vendido via Ticto, comprador diz que nao recebeu o produto; marca nao identificada (trecho editado pelo Reclame Aqui).",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2195,7 +2198,8 @@
    "resumo": "Angulo novo, distinto do curso de bateria ja conhecido. Curso de musica com repertorio variado em varios estilos, reclamante cita 'propaganda enganosa' explicitamente e diz que reembolso prometido pela empresa nao foi recebido.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -2805,6 +2809,58 @@
    ]
   },
   {
+   "slug": "angulo-licenca-para-trabalhar-avaliando-produtos-sem-marca",
+   "nome": "licença para trabalhar avaliando produtos (sem marca)",
+   "classe": "angulo",
+   "nicho": "renda-celular-cashback",
+   "sub_nicho": "ganhar-avaliando-produtos",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 48,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 48,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-09",
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-09",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ganhar%20dinheiro%20avaliando%20produtos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 1,
+   "resumo": "Variante do clássico 'ganhe avaliando produtos', embalada como vaga/licença de trabalho remoto ('licença para trabalhar no Facebook dando notas a produtos'). Sem marca capturada nesta reclamação.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-material-pedagogico",
    "nome": "Material pedagogico e apostilas imprimiveis",
    "classe": "angulo",
@@ -3137,7 +3193,8 @@
    "resumo": "Angulo novo. Pacote de figurinha virtual por R$19,99, comprador nao recebeu e-mail com orientacoes de uso/acesso e pede reembolso.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3946,7 +4003,8 @@
    "resumo": "Achado novo, mencao unica. Produto descrito como '50 guias para cuidado da bike' (PDF/guia digital), produtor nao identificado -- so a Cakto como gateway. Comprador diz que nao recebeu o material e nao conseguiu contato. Angulo de nicho (ciclismo/manutencao)…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4674,6 +4732,61 @@
    ]
   },
   {
+   "slug": "arsenal-lucrativo",
+   "nome": "Arsenal Lucrativo",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-09",
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-09",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Arsenal%20Lucrativo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 1,
+   "resumo": "Comunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "atlas-das-patologias",
    "nome": "Atlas das Patologias",
    "classe": "oferta",
@@ -4893,7 +5006,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6730,7 +6844,7 @@
    "classe": "oferta",
    "nicho": "educacao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -6757,27 +6871,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-09-26",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-26",
+   "ra_checado": "2026-10-09",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Comunidade%20MVZ&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-26",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 5,
    "resumo": "R$ 149,73. Reembolso em 7 dias jogado entre Cakto e produtor; resolvido com estorno.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9399,7 +9512,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -9426,21 +9539,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-09",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formato%20Criativo%20de%20Conteudo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 4,
    "resumo": "Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -12170,7 +12283,7 @@
    "classe": "oferta",
    "nicho": "renda-celular-cashback",
    "sub_nicho": "taxa-para-liberar",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "descartar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -12199,21 +12312,21 @@
    "score": 2.95,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-22",
-   "visto_ultimo": "2026-08-24",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 4,
    "dias_no_ar": 6,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "2026-08-17",
-   "ra_checado": "2026-08-24",
+   "ra_checado": "2026-10-09",
    "bump_oculto": true,
    "upsell_oculto": true,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Love%20Pix&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-08-24",
-   "n_citacoes": 3,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 5,
    "resumo": "A escada de taxas inteira num paragrafo. R$ 25,90 na entrada, depois mais R$ 10, depois mais R$ 10 — \"totalizando 56 reais\" para liberar um saque que nunca chega. Esse e o mecanismo que o Pipeline.md chama de \"taxa pra liberar\", e e a razao pela qual o nicho…",
    "flags": [
     "sem-lp"
@@ -12494,7 +12607,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -14212,7 +14326,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -14550,6 +14665,63 @@
    ]
   },
   {
+   "slug": "natflix-fitness",
+   "nome": "Natflix Fitness",
+   "classe": "oferta",
+   "nicho": "saude-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 79.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 79.9,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-09",
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-09",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Natflix%20Fitness&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 1,
+   "resumo": "App/catálogo de treinos com nome que remete a streaming ('Natflix'). Reembolso pedido no mesmo dia da compra, aprovado pela Hotmart em 20/09. 1ª aparição no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "o-curso-do-mago",
    "nome": "O Curso do MAGO",
    "classe": "oferta",
@@ -14714,7 +14886,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -16840,7 +17013,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -16867,21 +17040,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-09",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sinfonia%20Oculta&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 4,
    "resumo": "Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.",
    "flags": [
     "score-provisorio",
@@ -16922,21 +17095,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-09",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=B2Drop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 4,
    "resumo": "Sistema de dropshipping/assinatura, reembolso não recebido. Reclamação removida, nome confirmado só pelo título/URL.",
    "flags": [
     "score-provisorio",
@@ -17219,6 +17392,63 @@
    "ultima_obs": "2026-09-29",
    "n_citacoes": 7,
    "resumo": "App de rastreamento/espionagem. Promete informações detalhadas mas entrega apenas dados genéricos. Possível grafia alternativa de Stalkeia.ai ou nome paralelo da mesma operação. Padrão: propaganda enganosa.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "tcs-spy",
+   "nome": "TCS Spy",
+   "classe": "oferta",
+   "nicho": "espionagem-rastreamento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 120.89,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 120.89,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-09",
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-09",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TCS%20Spy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 1,
+   "resumo": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -18118,7 +18348,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -18145,21 +18375,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-09",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-09",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VevetFit&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-09",
+   "n_citacoes": 3,
    "resumo": "Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).",
    "flags": [
     "score-provisorio",
@@ -18615,6 +18845,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-09.md",
+   "data": "2026-10-09",
+   "titulo": "Radar 2026-10-09",
+   "ofertas_vistas": 10,
+   "novas": 4,
+   "retornaram": 1,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-08.md",
    "data": "2026-10-08",
@@ -19122,6 +19371,30 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-09 -- 1804.md",
+   "data": "2026-10-09",
+   "hora": "18:04",
+   "gateways": [
+    "perfectpay",
+    "cakto",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 17,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "comunidade-mvz",
+    "formato-criativo-de-conteudo",
+    "love-pix",
+    "sinfonia-oculta",
+    "sistema-b2drop",
+    "vevetfit"
+   ],
+   "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, braip · Páginas: 17 · Coleta: parcial · Achados: 10 ## Quentes sistema-b2drop — Braip · 3ª aparição em dias distintos, operação de dropshipping sustentada formato-criativo-de-conteudo — Hotmart…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 1719.md",
    "data": "2026-10-08",
@@ -20561,6 +20834,10 @@
    "2026-10-08": {
     "oferta": 8,
     "angulo": 5
+   },
+   "2026-10-09": {
+    "oferta": 3,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -20591,7 +20868,8 @@
    "2026-10-05": 70,
    "2026-10-06": 43,
    "2026-10-07": 9,
-   "2026-10-08": 29
+   "2026-10-08": 29,
+   "2026-10-09": 10
   }
  },
  "analises": [
@@ -20994,49 +21272,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 269
+    "total": 272
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 269
+    "total": 272
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 269
+    "total": 272
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 240,
-    "total": 269
+    "preenchidas": 243,
+    "total": 272
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 141,
-    "total": 269
+    "preenchidas": 143,
+    "total": 272
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 269
+    "total": 272
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 269
+    "total": 272
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 212,
-    "total": 269
+    "preenchidas": 215,
+    "total": 272
    }
   ],
   "fila_enriquecimento": [
@@ -21062,9 +21340,11 @@
    "31-segredos-pais-tdah",
    "50-guias-para-cuidado-da-bike",
    "900-mapas-mentais",
+   "a-renda-da-fortuna",
    "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
    "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
+   "angulo-aplicativo-de-controle-financeiro-para-motoristas-de-app-sem-nome",
    "angulo-apostilas-genericas-com-conteudo-copiado-yampi-sem-nome",
    "angulo-apostilas-genericas-plagiadas-yampi-sem-nome",
    "angulo-apostilas-receitas-plagiadas-via-google-drive",
@@ -21081,6 +21361,8 @@
    "angulo-cobranca-adicional-pos-venda-em-curso-online-generico",
    "angulo-cobranca-extra-para-liberar-acesso",
    "angulo-curso-comunidade-fornecedores-revenda",
+   "angulo-curso-de-bordado-sem-nome",
+   "angulo-curso-de-musica-com-propaganda-enganosa-sem-nome",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
    "angulo-curso-de-velas-artesanais-persona-tia-rose",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
@@ -21089,6 +21371,7 @@
    "angulo-guia-digital-de-100-receitas-para-pets",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
+   "angulo-pacote-de-figurinha-virtual-sem-nome",
    "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
    "angulo-pacote-de-seguidores-para-instagram",
    "angulo-produto-digital-instagram",
@@ -21102,11 +21385,13 @@
    "angulo-sem-nome-chuteiras-via-loja-tk-importes",
    "angulo-sem-nome-curso-com-instalacao-de-apps-gerando-comissao-para-instrutor",
    "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
+   "angulo-sem-nome-guia-digital-de-cuidados-com-bicicleta",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
    "appluna-net",
    "atlas-das-patologias",
+   "aula-magnetica-com-obs",
    "autismo-para-pais-lacerda",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
@@ -21124,7 +21409,6 @@
    "combo-10-cursos-danca-do-ventre",
    "combo-da-aprovacao-2023-projeto-frida-sobrancelhas-maos-livres",
    "comunidade-influencers-ia-ascensao",
-   "comunidade-mvz",
    "comunidade-renda-em-dolar",
    "congresso-humanamente-salvador",
    "curso-de-marketing-e-vendas-com-ia",
@@ -21165,6 +21449,7 @@
    "laboratorio-de-influencers-ia",
    "licao-kids",
    "little-genius",
+   "mac-bruno-aguiar-3-0",
    "mdr-despertar-2-0",
    "mentoria-thiago-lobos",
    "metodo-live-perpetua-liveflow-ia",
@@ -21175,8 +21460,10 @@
    "moldes-digitais-de-artesanato-rendafini",
    "moldes-para-artesanato-rendafini",
    "movimentos-de-adoracao",
+   "mp28-cursos-de-motociclismo",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
+   "oblivium-digital-vendedor-produto-nao-identificado",
    "orientacao-farmaceutica-na-pratica-2-0",
    "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
@@ -21205,7 +21492,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 946
+   "canonico": 960
   }
  },
  "vocabulario": {
@@ -21252,22 +21539,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "342dd5eeef3713a6",
-  "atualizado_em": "2026-10-08T17:19:23-03:00",
-  "ofertas": 269,
-  "angulos": 67,
-  "observacoes": 610,
-  "ultima_rodada": "2026-10-08",
+  "hash": "83d4b9d57ff8ccc8",
+  "atualizado_em": "2026-10-09T18:06:02-03:00",
+  "ofertas": 272,
+  "angulos": 68,
+  "observacoes": 620,
+  "ultima_rodada": "2026-10-09",
   "ultima_passada": {
-   "data": "2026-10-08",
-   "hora": "17:19",
+   "data": "2026-10-09",
+   "hora": "18:04",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto-pay",
+    "cakto",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "braip"
    ]
   }
  }

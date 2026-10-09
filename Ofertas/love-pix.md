@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: perfectpay
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Love%20Pix&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 25.9
@@ -24,22 +24,22 @@ s_ticket: 5
 s_lucro: 3
 s_replica: 2
 s_saturacao: 2
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-24
-rodadas_vista: 3
+visto_ultimo: 2026-10-09
+rodadas_vista: 4
 dias_no_ar: 6
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta:
+ativos_pasta: 
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: true
 ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
-ra_primeira_reclamacao: 2026-08-17
-ra_checado: 2026-08-24
+ra_primeira_reclamacao: "2026-08-17"
+ra_checado: 2026-10-09
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, escada-de-taxas]
@@ -102,3 +102,9 @@ PerfectPay, ha 9h: a escada de taxas aparece completa e literal - "primeiro pedi
 ## Rodada 2026-08-24
 
 PerfectPay, mesma reclamacao com a escada 25,90 + 10 + 10. Sem alteracao.
+
+## Rodada 2026-10-09
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App/site de 'renda via Pix' que some após o pagamento (reclamante: pagou R$20, site desapareceu). Reaparece no radar após ~7 semanas de silêncio (última vez 24/08) — pode ser nova onda de verba na mesma oferta ou clone usando o mesmo nome.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/pix-e-o-site-desapareceu_hQOaX2EiqBj3UQHc/

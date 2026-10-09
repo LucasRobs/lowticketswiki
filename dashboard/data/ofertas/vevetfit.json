@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-08",
-  "visto_ultimo": "2026-10-08",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-09",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-08",
+  "ra_checado": "2026-10-09",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "hotmart"
   ]
  },
- "corpo": "# VevetFit\n\n## Angulo\nAchado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/\n\n## Historico\n",
+ "corpo": "# VevetFit\n\n## Angulo\nAchado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso fitness anual com renovação automática contestada (compra ago/2025, cobranças seguiram até out/2026). Repetiu no dia seguinte da 1ª aparição no radar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/\n",
  "observacoes": [
   {
    "data": "2026-10-08",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto)."
+  },
+  {
+   "data": "2026-10-09",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Curso fitness anual com renovação automática contestada (compra ago/2025, cobranças seguiram até out/2026). Repetiu no dia seguinte da 1ª aparição no radar."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-09 -- 1804.md",
+   "data": "2026-10-09",
+   "titulo": "Passada 2026-10-09 18:04"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-09.md",
+   "data": "2026-10-09",
+   "titulo": "Radar 2026-10-09"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-08.md",

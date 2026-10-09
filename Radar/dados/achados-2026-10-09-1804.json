@@ -1,0 +1,141 @@
+{
+  "data_varredura": "2026-10-09",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288102, "paginas_varridas": 4},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 3},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50464, "paginas_varridas": 3},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 4},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 42144, "paginas_varridas": 3}
+  ],
+  "achados": [
+    {
+      "produto": "Sistema B2Drop",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "B2Drop",
+      "descricao": "Curso/sistema de dropshipping nacional vendido por Gilson Vaz da Costa via Braip. Reclamação de não-reembolso de assinatura (compra em 18/09). 3ª aparição no radar, em dias distintos (05/10 e agora 09/10) — operação sustentada, não pontual.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assinatura-do-sistema-b2drop_lri1CUtfg9MUm7ro/"
+    },
+    {
+      "produto": "Comunidade MVZ",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "educacao",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Comunidade MVZ",
+      "descricao": "Curso/comunidade sobre operar a loja 'TT Shop', vendido via Cakto. Reclamação por garantia não cumprida (compra 02/10). Reaparece após ~13 dias sem registro no radar (última vez 26/09).",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/"
+    },
+    {
+      "produto": "Formato Criativo de Conteudo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Curso de criação de conteúdo associado a Hanah Frank (aulas dadas pelo namorado dela, segundo o reclamante). Pedido de reembolso. Repetiu no dia seguinte da 1ª aparição (08/10 -> 09/10) — sinal de tráfego ainda ativo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "VevetFit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "VevetFit",
+      "descricao": "Curso fitness anual com renovação automática contestada (compra ago/2025, cobranças seguiram até out/2026). Repetiu no dia seguinte da 1ª aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Produto de ticket alto (R$289) na Hotmart; nicho ainda não identificado pois a reclamação é de falha na compra (não chegou a converter), não de insatisfação com o conteúdo. Repetiu no dia seguinte da 1ª aparição.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "Love Pix",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "renda-celular-cashback",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 20",
+      "termo_busca": "Love Pix",
+      "descricao": "App/site de 'renda via Pix' que some após o pagamento (reclamante: pagou R$20, site desapareceu). Reaparece no radar após ~7 semanas de silêncio (última vez 24/08) — pode ser nova onda de verba na mesma oferta ou clone usando o mesmo nome.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/pix-e-o-site-desapareceu_hQOaX2EiqBj3UQHc/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mês",
+      "termo_busca": "TCS Spy",
+      "descricao": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Arsenal Lucrativo",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "não informado",
+      "termo_busca": "Arsenal Lucrativo",
+      "descricao": "Comunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/"
+    },
+    {
+      "produto": "Natflix Fitness",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 79,90",
+      "termo_busca": "Natflix Fitness",
+      "descricao": "App/catálogo de treinos com nome que remete a streaming ('Natflix'). Reembolso pedido no mesmo dia da compra, aprovado pela Hotmart em 20/09. 1ª aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/reembolso-nao-realizado_MgZ5OmIsDjuB1_E2/"
+    },
+    {
+      "produto": "licença para trabalhar avaliando produtos (sem marca)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "renda-celular-cashback",
+      "sub_nicho": "ganhar-avaliando-produtos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 48",
+      "termo_busca": "ganhar dinheiro avaliando produtos",
+      "descricao": "Variante do clássico 'ganhe avaliando produtos', embalada como vaga/licença de trabalho remoto ('licença para trabalhar no Facebook dando notas a produtos'). Sem marca capturada nesta reclamação.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-licenca-para-trabalhar-no-facebook-e-nao-recebi-acesso_SjRnw3sciDBftCQg/"
+    }
+  ],
+  "passada": {
+    "hora": "18:04",
+    "gateways": ["perfectpay", "cakto", "kiwify", "hotmart", "braip"],
+    "paginas": 17,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[sistema-b2drop]] — Braip · 3ª aparição em dias distintos, operação de dropshipping sustentada\n- [[formato-criativo-de-conteudo]] — Hotmart · repetiu no dia seguinte, Hanah Frank\n- [[vevetfit]] — Hotmart · repetiu no dia seguinte, recorrência contestada\n- [[sinfonia-oculta]] — Hotmart · repetiu no dia seguinte, ticket alto (R$289)\n- [[love-pix]] — PerfectPay · voltou após ~7 semanas de silêncio\n\n## Mornas\n- [[comunidade-mvz]] — Cakto · reapareceu após ~13 dias\n\n## Frias (novas)\n- TCS Spy — Cakto · espionagem, assinatura mensal R$120,89\n- Arsenal Lucrativo — Cakto · comunidade de 'lucro'/tráfego\n- Natflix Fitness — Hotmart · app de treino, R$79,90\n- Ângulo 'avaliar produtos' embalado como vaga de emprego — PerfectPay, R$48\n\nLeitura: a paginação do ReclameAqui quebrou de forma sistêmica — página 1 responde normal em todos os 5 gateways, mas página 2+ devolve 0 de 0 em toda tentativa (testado com cache-bust pra descartar cache do fetch). Isso é uma evolução do travamento já registrado nas rodadas de 08/10 (14:42 e 17:19): lá o feed ficava congelado mas pelo menos abria; agora a navegação além da 1ª página simplesmente não carrega. Cobertura desta passada ficou limitada a ~5 reclamações por gateway (as mais recentes), sem alcançar o buraco de ~24h40min desde a última rodada (08/10 17:19).",
+    "resumo": "Paginação do ReclameAqui quebrada (só página 1 responde em todos os gateways); 10 achados via page 1 — 5 quentes (3 recorrentes de dias anteriores), 4 novos, 1 ângulo."
+  }
+}
