@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-24",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-10-10",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-10",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "kiwify"
   ]
  },
- "corpo": "# O Curso do MAGO\n\n## Angulo\nProduto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Propaganda enganosa, empresa não responde pedido de reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso com nome genérico de resultado 'mágico'. Reclamação de produto diferente do anunciado; reaparece em dia diferente da passada anterior.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso que 'nao correspondia ao anunciado'; sem mais detalhes do conteudo. Nome de marca direto no titulo, primeira aparicao.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado - propaganda enganosa citada explicitamente, nao corresponde ao anunciado.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n",
+ "corpo": "# O Curso do MAGO\n\n## Angulo\nProduto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Propaganda enganosa, empresa não responde pedido de reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso com nome genérico de resultado 'mágico'. Reclamação de produto diferente do anunciado; reaparece em dia diferente da passada anterior.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso que 'nao correspondia ao anunciado'; sem mais detalhes do conteudo. Nome de marca direto no titulo, primeira aparicao.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado - propaganda enganosa citada explicitamente, nao corresponde ao anunciado.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Achado novo no vault, tambem recuperado de reclamacao antiga (19/08/2026). Propaganda enganosa -- reclamante diz que o curso nao corresponde ao anunciado; produtor nao identificado.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/\n",
  "observacoes": [
   {
    "data": "2026-09-24",
@@ -135,9 +135,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reconfirmado - propaganda enganosa citada explicitamente, nao corresponde ao anunciado."
+  },
+  {
+   "data": "2026-10-10",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Achado novo no vault, tambem recuperado de reclamacao antiga (19/08/2026). Propaganda enganosa -- reclamante diz que o curso nao corresponde ao anunciado; produtor nao identificado."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-10.md",
+   "data": "2026-10-10",
+   "titulo": "Radar 2026-10-10"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-06.md",

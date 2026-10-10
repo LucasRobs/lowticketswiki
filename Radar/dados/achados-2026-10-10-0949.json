@@ -1,0 +1,150 @@
+{
+  "data_varredura": "2026-10-10",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288171, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 15},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 15},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 15},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 37, "paginas_varridas": 15}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "nao informado nesta passada",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionagem de WhatsApp/redes sociais. Tres reclamacoes nesta passada (grafias 'Stalkeia' e 'STALKEA APP'). Repete pela 4a rodada seguida no vault, sempre por propaganda enganosa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do-app-stalkeia_n4cG4M9Agu_uGags/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mes",
+      "termo_busca": "TCS Spy",
+      "descricao": "Mesma reclamacao da rodada das 08:07 (assinatura mensal de espionagem, reembolso negado pela recorrencia). Reaparece pela 2a rodada seguida.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289,00",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Mesma reclamacao ja registrada; reaparece pelo 4o dia/rodada seguido no Hotmart com o mesmo ticket de R$289.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "Formato Criativo de Conteudo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Mesma reclamacao ja registrada, Hanah Frank citada como apresentadora do curso. Reaparece pelo 4o dia/rodada seguido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "Implementacao (mentor Gabriel Sampaio)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "mentoria-marketing",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 164,08/parcela (12x, total R$ 1.968,96)",
+      "termo_busca": "Implementacao Gabriel Sampaio",
+      "descricao": "Mesma reclamacao da rodada das 08:07, reaparece na nova passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/"
+    },
+    {
+      "produto": "Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-influencer",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 210,00 (parcelado no cartao)",
+      "termo_busca": "Influ Lab",
+      "descricao": "Mesma reclamacao da rodada das 08:07, reaparece pela 2a rodada seguida (curso de marketing para influenciadores sem acesso ao conteudo).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "H2Jobs Full",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "recolocacao-profissional",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 997,00 (curso) + R$ 197,00 (upsell 'Treinador de entrevistas')",
+      "termo_busca": "H2Jobs",
+      "descricao": "Achado novo no vault, recuperado de uma reclamacao antiga (19/08/2026) por uma pagina fora de ordem da paginacao quebrada do RA. Curso de recolocacao profissional com order bump 'Treinador de entrevistas' (R$197); so o upsell foi reembolsado, o curso principal nao -- mecanica classica de monetizar o order bump e travar o produto caro.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-curso-h2jobs-full-apos-solicitacao-dentro-do-prazo_sxiyM69yrTPc-Vvq/"
+    },
+    {
+      "produto": "O Curso do Mago",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Curso do Mago",
+      "descricao": "Achado novo no vault, tambem recuperado de reclamacao antiga (19/08/2026). Propaganda enganosa -- reclamante diz que o curso nao corresponde ao anunciado; produtor nao identificado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/curso-o-curso-do-mago-nao-corresponde-ao-anunciado-e-empresa-nao-responde-o-reembolso_HHl2oG4Qm1N3F7FP/"
+    },
+    {
+      "produto": "HAP 2.0 - Hierarquia e Arquitetura de Processos",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "gestao-produtividade",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "HAP 2.0",
+      "descricao": "Achado novo no vault, reclamacao antiga (11/08/2026) recuperada pela paginacao quebrada. Curso de gestao/arquitetura de processos; dificuldade de reembolso e acesso limitado apos a compra.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/"
+    },
+    {
+      "produto": "Desafio Pilates em Casa",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Desafio Pilates em Casa",
+      "descricao": "Achado novo: reclamante diz que o curso foi adicionado a conta da Kiwify sem compra -- sinal de possivel cadastro indevido ou clone de checkout, nao so de insatisfacao com o produto."
+    },
+    {
+      "produto": "Congresso Salvador Humanamente",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "evento-mentoria-presencial",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Congresso Humanamente",
+      "descricao": "Achado novo: evento/congresso presencial vendido via Kiwify, reclamacao de cancelamento e dificuldade de reembolso. Sem nome de produtor nem valor na listagem."
+    }
+  ],
+  "passada": {
+    "hora": "09:49",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 15,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay -- 3 mencoes nesta passada, 4a rodada seguida\n- [[tcs-spy]] -- Cakto -- repete, assinatura R$120,89/mes\n- [[sinfonia-oculta]] -- Hotmart -- 4o dia seguido, R$289\n- [[formato-criativo-de-conteudo]] -- Hotmart -- 4o dia seguido, Hanah Frank\n- [[implementacao-mentor-gabriel-sampaio]] -- Kiwify -- repete, R$1.968,96 total\n\n## Mornas\n- [[influ-lab]] -- Kiwify -- 2a rodada seguida, R$210\n\n## Frias (novas)\n- H2Jobs Full -- Kiwify, curso R$997 + upsell R$197 (so upsell reembolsado)\n- O Curso do Mago -- Kiwify, propaganda enganosa\n- HAP 2.0 -- Hotmart, curso de gestao de processos\n- Desafio Pilates em Casa -- Kiwify, curso adicionado sem compra (possivel clone/cadastro indevido)\n- Congresso Salvador Humanamente -- Kiwify, evento presencial, cancelamento\n\nLeitura: buraco desta passada foi curto (1h42, de 08:07 a 09:49), mas a paginacao do RA continua quebrada -- de 75 tentativas de pagina em 5 gateways (perfectpay, cakto, kiwify, hotmart, yampi), so pagina 1 carregou de forma confiavel em todos; paginas 2-6 vieram 100% vazias e so acertos esparsos apareceram em paginas aleatorias (7,8,9,10) da Kiwify e Hotmart. Boa parte do que a pagina 1 trouxe e reconfirmacao de ofertas ja mapeadas (Stalkeia, TCS Spy, Sinfonia Oculta, Formato Criativo de Conteudo, Implementacao, Influ Lab), o que e sinal de continuidade de veiculacao. Os achados novos (H2Jobs Full, Curso do Mago, HAP 2.0) vieram de reclamacoes antigas (agosto/2026) resgatadas por paginas fora de ordem -- nao sao sinal de trafego novo, so preenchem lacuna do catalogo. Yampi (gateway rotativo desta vez) trouxe majoritariamente reclamacoes de e-commerce fisico fora do escopo de infoproduto, e os poucos itens relevantes ja estavam com meses de idade.",
+    "resumo": "Janela curta (1h42) coberta majoritariamente por reconfirmacao de 5 ofertas ja mapeadas (Stalkeia, TCS Spy, Sinfonia Oculta, Formato Criativo de Conteudo, Implementacao); 5 achados novos entraram no catalogo via paginas antigas resgatadas pela paginacao quebrada do RA, que persiste ha dias."
+  }
+}

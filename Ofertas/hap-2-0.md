@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-06
-rodadas_vista: 5
+visto_ultimo: 2026-10-10
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-ree
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado mais uma vez - dificuldade de reembolso e acesso limitado.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Achado novo no vault, reclamacao antiga (11/08/2026) recuperada pela paginacao quebrada. Curso de gestao/arquitetura de processos; dificuldade de reembolso e acesso limitado apos a compra.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/

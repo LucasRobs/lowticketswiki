@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-24",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-10-10",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-10",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "hotmart"
   ]
  },
- "corpo": "# HAP 2.0\n\n## Angulo\nHierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Conteúdo principal só libera 7 dias após a compra — o que trava o pedido de reembolso justamente dentro da janela de garantia. Mecânica de retenção vale notar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso/produto digital 'HAP 2.0'. Reclamação de acesso limitado e dificuldade de reembolso confirma que a oferta segue rodando.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso corporativo vendido com acesso 'gotejado': só o módulo introdutório é liberado, resto programado para 7 dias depois, dificultando o reembolso dentro do prazo legal.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado mais uma vez - dificuldade de reembolso e acesso limitado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n",
+ "corpo": "# HAP 2.0\n\n## Angulo\nHierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Conteúdo principal só libera 7 dias após a compra — o que trava o pedido de reembolso justamente dentro da janela de garantia. Mecânica de retenção vale notar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso/produto digital 'HAP 2.0'. Reclamação de acesso limitado e dificuldade de reembolso confirma que a oferta segue rodando.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso corporativo vendido com acesso 'gotejado': só o módulo introdutório é liberado, resto programado para 7 dias depois, dificultando o reembolso dentro do prazo legal.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reconfirmado mais uma vez - dificuldade de reembolso e acesso limitado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Achado novo no vault, reclamacao antiga (11/08/2026) recuperada pela paginacao quebrada. Curso de gestao/arquitetura de processos; dificuldade de reembolso e acesso limitado apos a compra.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/\n",
  "observacoes": [
   {
    "data": "2026-09-24",
@@ -135,9 +135,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reconfirmado mais uma vez - dificuldade de reembolso e acesso limitado."
+  },
+  {
+   "data": "2026-10-10",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Achado novo no vault, reclamacao antiga (11/08/2026) recuperada pela paginacao quebrada. Curso de gestao/arquitetura de processos; dificuldade de reembolso e acesso limitado apos a compra."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-10.md",
+   "data": "2026-10-10",
+   "titulo": "Radar 2026-10-10"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-06.md",

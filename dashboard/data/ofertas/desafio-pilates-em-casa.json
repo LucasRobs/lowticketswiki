@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-10",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-10",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kiwify"
   ]
  },
- "corpo": "# Desafio Pilates em Casa\n\n## Angulo\nDesafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Caso de curso \"Desafio Pilates em Casa\" que apareceu na conta do comprador sem autorização de compra — padrão de cobrança/curso fantasma não reconhecido pelo titular do cartão.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso de pilates adicionado à conta da cliente sem compra autorizada por ela (mesma professora de programa que ela já possuía). Ângulo de venda/upsell não consentido.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado mais uma vez - curso adicionado sem compra, pedido de cancelamento.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n",
+ "corpo": "# Desafio Pilates em Casa\n\n## Angulo\nDesafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Caso de curso \"Desafio Pilates em Casa\" que apareceu na conta do comprador sem autorização de compra — padrão de cobrança/curso fantasma não reconhecido pelo titular do cartão.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso de pilates adicionado à conta da cliente sem compra autorizada por ela (mesma professora de programa que ela já possuía). Ângulo de venda/upsell não consentido.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado mais uma vez - curso adicionado sem compra, pedido de cancelamento.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/curso-nao-comprado-desafio-pilates-em-casa-adicionado-a-plataforma-e-solicitacao-de-cancelamento-e-reembolso_cXfoQlNLAOjpgng9/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Achado novo: reclamante diz que o curso foi adicionado a conta da Kiwify sem compra -- sinal de possivel cadastro indevido ou clone de checkout, nao so de insatisfacao com o produto.\n\nEvidencia:\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -108,9 +108,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Reconfirmado mais uma vez - curso adicionado sem compra, pedido de cancelamento."
+  },
+  {
+   "data": "2026-10-10",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Achado novo: reclamante diz que o curso foi adicionado a conta da Kiwify sem compra -- sinal de possivel cadastro indevido ou clone de checkout, nao so de insatisfacao com o produto."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-10.md",
+   "data": "2026-10-10",
+   "titulo": "Radar 2026-10-10"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-06.md",

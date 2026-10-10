@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 277,
   "angulos": 71,
-  "observacoes": 638,
+  "observacoes": 643,
   "dias_radar": 31,
-  "passadas": 71,
+  "passadas": 72,
   "analises": 12,
   "ultima_rodada": "2026-10-10"
  },
@@ -7305,21 +7305,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Congresso%20Salvador%20Humanamente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 5,
    "resumo": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
    "flags": [
     "score-provisorio",
@@ -8472,21 +8472,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Desafio%20Pilates%20em%20Casa&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 5,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 6,
    "resumo": "Desafio de pilates online. Comprador diz que o curso foi adicionado à plataforma sem compra reconhecida, sugerindo venda por afiliado indevido ou vazamento de acesso.",
    "flags": [
     "score-provisorio",
@@ -9765,7 +9765,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formato%20Criativo%20de%20Conteudo&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -10696,21 +10696,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=H2Jobs&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 9,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 10,
    "resumo": "R$ 997 + upsell R$ 197. Escada de preco e reembolso retido. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -10752,21 +10752,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=HAP%202.0&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 11,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 12,
    "resumo": "Hierarquia e Arquitetura de Processos. Libera conteudo aos poucos (7 dias) para passar do prazo de arrependimento - trava anti-reembolso por design. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -11377,7 +11377,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gabriel%20Sampaio%20Implementação&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Curso/mentoria de ticket alto chamado 'Implementação', vendido por Gabriel Sampaio. Reclamante menciona que a compra também passou pela Hotmart, sugerindo venda multi-gateway. Primeira aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -11488,7 +11488,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Influ%20Lab&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Curso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.",
    "flags": [
     "score-provisorio",
@@ -15132,21 +15132,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Curso%20do%20Mago&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 10,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 11,
    "resumo": "Produto diferente do anunciado. 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -17432,7 +17432,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sinfonia%20Oculta&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.",
    "flags": [
     "score-provisorio",
@@ -17712,7 +17712,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 15,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 33,
+   "n_citacoes": 34,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -17825,7 +17825,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TCS%20Spy&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -19281,7 +19281,7 @@
    "arquivo": "Radar/2026-10-10.md",
    "data": "2026-10-10",
    "titulo": "Radar 2026-10-10",
-   "ofertas_vistas": 16,
+   "ofertas_vistas": 21,
    "novas": 7,
    "retornaram": 0,
    "sumiram": 0,
@@ -19290,10 +19290,11 @@
     "hotmart",
     "kiwify",
     "payt",
-    "perfectpay"
+    "perfectpay",
+    "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -19822,6 +19823,30 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-10 -- 0949.md",
+   "data": "2026-10-10",
+   "hora": "09:49",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "formato-criativo-de-conteudo",
+    "implementacao-mentor-gabriel-sampaio",
+    "influ-lab",
+    "sinfonia-oculta",
+    "stalkeia-ai",
+    "tcs-spy"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 15 · Coleta: parcial · Achados: 11 ## Quentes stalkeia-ai -- PerfectPay -- 3 mencoes nesta passada, 4a rodada seguida tcs-spy -- Cakto -- repete, assinatura R$120,89/mes…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-10 -- 0807.md",
    "data": "2026-10-10",
@@ -21394,7 +21419,7 @@
    "2026-10-07": 9,
    "2026-10-08": 29,
    "2026-10-09": 12,
-   "2026-10-10": 16
+   "2026-10-10": 21
   }
  },
  "analises": [
@@ -22018,7 +22043,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 986
+   "canonico": 991
   }
  },
  "vocabulario": {
@@ -22065,22 +22090,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "18b662d1d79392d9",
-  "atualizado_em": "2026-10-10T08:08:41-03:00",
+  "hash": "4b10d6bb6c64d889",
+  "atualizado_em": "2026-10-10T09:50:26-03:00",
   "ofertas": 277,
   "angulos": 71,
-  "observacoes": 638,
+  "observacoes": 643,
   "ultima_rodada": "2026-10-10",
   "ultima_passada": {
    "data": "2026-10-10",
-   "hora": "08:07",
+   "hora": "09:49",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto",
+    "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "yampi"
    ]
   }
  }

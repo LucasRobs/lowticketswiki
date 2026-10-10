@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-06
-rodadas_vista: 4
+visto_ultimo: 2026-10-10
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [desconhecido, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-c
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Reconfirmado mais uma vez - order bump pesado (treinador de entrevistas) sustentando CPA alto.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-curso-h2jobs-full-apos-solicitacao-dentro-do-prazo_sxiyM69yrTPc-Vvq/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Achado novo no vault, recuperado de uma reclamacao antiga (19/08/2026) por uma pagina fora de ordem da paginacao quebrada do RA. Curso de recolocacao profissional com order bump 'Treinador de entrevistas' (R$197); so o upsell foi reembolsado, o curso principal nao -- mecanica classica de monetizar o order bump e travar o produto caro.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso-nao-processado-para-curso-h2jobs-full-apos-solicitacao-dentro-do-prazo_sxiyM69yrTPc-Vvq/
