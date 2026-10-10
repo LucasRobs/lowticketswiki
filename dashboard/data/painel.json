@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 274,
-  "angulos": 69,
-  "observacoes": 627,
+  "ofertas": 277,
+  "angulos": 71,
+  "observacoes": 638,
   "dias_radar": 31,
-  "passadas": 70,
+  "passadas": 71,
   "analises": 12,
   "ultima_rodada": "2026-10-10"
  },
@@ -293,7 +293,7 @@
    "classe": "oferta",
    "nicho": "renda-celular-cashback-pix",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -320,27 +320,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Renda%20da%20Fortuna&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 3,
    "resumo": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2754,6 +2753,58 @@
    ]
   },
   {
+   "slug": "angulo-golpe-de-taxa-para-liberar-pagamento-emprestimo",
+   "nome": "Golpe de taxa para liberar pagamento/emprestimo",
+   "classe": "angulo",
+   "nicho": "golpe-taxa-liberacao",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=taxa%20para%20liberar%20pagamento%20emprestimo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Reclamante pagou taxas repetidas para supostamente liberar um recebimento/emprestimo que nunca veio; nome original foi editado pelo RA. Padrao classico de golpe de taxa antecipada.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-guia-digital-de-100-receitas-para-pets",
    "nome": "Guia digital de 100 receitas para pets",
    "classe": "angulo",
@@ -3143,6 +3194,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-oblivium-digital-produto-nao-identificado",
+   "nome": "Oblivium Digital (produto nao identificado)",
+   "classe": "angulo",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 4,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 4,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Vendedor identificado como 'Oblivium Digital', mas o produto em si nao foi nomeado pelo reclamante. Pedido de cancelamento ignorado pelo vendedor.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -4832,7 +4935,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Arsenal%20Lucrativo&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Comunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -9561,6 +9664,61 @@
    ]
   },
   {
+   "slug": "formando-creators",
+   "nome": "Formando Creators",
+   "classe": "oferta",
+   "nicho": "marketing-criacao-conteudo",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 37.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 37.9,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formando%20Creators&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Curso/comunidade de criadores de conteudo com cobranca recorrente mensal; reclamante diz nao ter acesso apesar da cobranca continuar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "formato-criativo-de-conteudo",
    "nome": "Formato Criativo de Conteudo",
    "classe": "oferta",
@@ -9593,21 +9751,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formato%20Criativo%20de%20Conteudo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 6,
    "resumo": "Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -11219,7 +11377,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gabriel%20Sampaio%20Implementação&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Curso/mentoria de ticket alto chamado 'Implementação', vendido por Gabriel Sampaio. Reclamante menciona que a compra também passou pela Hotmart, sugerindo venda multi-gateway. Primeira aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -12000,6 +12158,61 @@
    ]
   },
   {
+   "slug": "laticinios-do-bem-mentor-marcelo-horta",
+   "nome": "Laticinios do Bem (mentor Marcelo Horta)",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Laticinios%20do%20Bem%20Marcelo%20Horta&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Curso/mentoria sobre producao artesanal de laticinios, mentor citado Marcelo Horta. Cobranca de parcela contestada no cartao.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "licao-kids",
    "nome": "Licao Kids — loja de atividades imprimiveis",
    "classe": "oferta",
@@ -12310,21 +12523,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 8,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 9,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 18,
+   "n_obs": 9,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 20,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -17205,21 +17418,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sinfonia%20Oculta&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 6,
    "resumo": "Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.",
    "flags": [
     "score-provisorio",
@@ -17499,7 +17712,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 15,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 32,
+   "n_citacoes": 33,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -17612,7 +17825,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TCS%20Spy&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -18620,6 +18833,61 @@
    ]
   },
   {
+   "slug": "viver-de-youtube",
+   "nome": "Viver de Youtube",
+   "classe": "oferta",
+   "nicho": "marketing-criacao-conteudo",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Viver%20de%20Youtube&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Curso novo no radar sobre monetizacao no YouTube. Cobranca no cartao contestada apos pedido de cancelamento.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "white-driver",
    "nome": "White Driver",
    "classe": "oferta",
@@ -18733,7 +19001,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18760,27 +19028,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-03",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-03",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=YouClone&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 3,
    "resumo": "Ferramenta/curso de 'clonagem' vendido por afiliado no Instagram (@guiyouclone) via Cakto. Produto nunca entregue, vendedor inacessível por e-mail e Instagram.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18930,21 +19197,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 15,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 16,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 15,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 29,
+   "n_obs": 16,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 31,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -19014,8 +19281,8 @@
    "arquivo": "Radar/2026-10-10.md",
    "data": "2026-10-10",
    "titulo": "Radar 2026-10-10",
-   "ofertas_vistas": 5,
-   "novas": 2,
+   "ofertas_vistas": 16,
+   "novas": 7,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -19026,7 +19293,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -19555,6 +19822,34 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-10 -- 0807.md",
+   "data": "2026-10-10",
+   "hora": "08:07",
+   "gateways": [
+    "perfectpay",
+    "cakto",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 20,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "a-renda-da-fortuna",
+    "arsenal-lucrativo",
+    "formato-criativo-de-conteudo",
+    "implementacao-mentor-gabriel-sampaio",
+    "loopyz",
+    "sinfonia-oculta",
+    "stalkeia-ai",
+    "tcs-spy",
+    "youclone-guiyouclone",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, payt · Páginas: 20 · Coleta: parcial · Achados: 16 ## Quentes stalkeia-ai -- PerfectPay/Cakto-family -- 2 mencoes nesta passada, propaganda enganosa tcs-spy -- Cakto -- assinatura mensal…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-10 -- 0805.md",
    "data": "2026-10-10",
@@ -21065,8 +21360,8 @@
     "angulo": 2
    },
    "2026-10-10": {
-    "oferta": 2,
-    "angulo": 0
+    "oferta": 5,
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -21099,7 +21394,7 @@
    "2026-10-07": 9,
    "2026-10-08": 29,
    "2026-10-09": 12,
-   "2026-10-10": 5
+   "2026-10-10": 16
   }
  },
  "analises": [
@@ -21502,49 +21797,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 274
+    "total": 277
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 274
+    "total": 277
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 274
+    "total": 277
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 245,
-    "total": 274
+    "preenchidas": 248,
+    "total": 277
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 145,
-    "total": 274
+    "preenchidas": 146,
+    "total": 277
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 274
+    "total": 277
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 274
+    "total": 277
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 217,
-    "total": 274
+    "preenchidas": 220,
+    "total": 277
    }
   ],
   "fila_enriquecimento": [
@@ -21570,7 +21865,6 @@
    "31-segredos-pais-tdah",
    "50-guias-para-cuidado-da-bike",
    "900-mapas-mentais",
-   "a-renda-da-fortuna",
    "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
    "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
@@ -21720,12 +22014,11 @@
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
    "um-puxa-o-outro",
-   "youclone-guiyouclone",
    "youtube-dark-peter",
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 970
+   "canonico": 986
   }
  },
  "vocabulario": {
@@ -21772,19 +22065,19 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "ee9030c24166c9b4",
-  "atualizado_em": "2026-10-10T08:06:36-03:00",
-  "ofertas": 274,
-  "angulos": 69,
-  "observacoes": 627,
+  "hash": "18b662d1d79392d9",
+  "atualizado_em": "2026-10-10T08:08:41-03:00",
+  "ofertas": 277,
+  "angulos": 71,
+  "observacoes": 638,
   "ultima_rodada": "2026-10-10",
   "ultima_passada": {
    "data": "2026-10-10",
-   "hora": "08:05",
+   "hora": "08:07",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto-pay",
+    "cakto",
     "kiwify",
     "hotmart",
     "payt"

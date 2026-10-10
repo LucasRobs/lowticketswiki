@@ -1,0 +1,212 @@
+{
+  "data_varredura": "2026-10-10",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288171, "paginas_varridas": 20},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 20},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 20},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 20},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 20}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "nao informado nesta passada",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionagem de WhatsApp/redes sociais. Duas reclamações nesta passada (uma citando 'Stalkeia App', outra 'STALKEA APP'). Ja registrado no vault com grafias Stalkea.ai, Stalker AI; segue ativo e reclamado por propaganda enganosa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do-app-stalkeia_n4cG4M9Agu_uGags/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mes",
+      "termo_busca": "TCS Spy",
+      "descricao": "Plano 'TCS Spy - MENSAL', assinatura recorrente de espionagem/rastreamento. Ja registrado no vault; reaparece em dia distinto, reembolso negado pela recorrencia.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "YouClone (@guiyouclone)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "YouClone",
+      "descricao": "Produto vendido via pagina de Instagram @guiyouclone, entrega nao realizada segundo reclamante. Ja registrado no vault; reaparece em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/produto-nao-recebido-e-falta-de-contato-com-o-vendedor-youclone_7GXqc5L5yuqMtTPv/"
+    },
+    {
+      "produto": "Loopyz Live",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "lives-interativas",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 88,29 (Pix)",
+      "termo_busca": "Loopyz",
+      "descricao": "Ferramenta de lives/engajamento, entrega via 'Cakto Members'. Vendedor mascarado no RA. Ja registrado no vault (slug loopyz); reaparece em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/"
+    },
+    {
+      "produto": "Arsenal Lucrativo (Comunidade - Flow Ultra)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Arsenal Lucrativo",
+      "descricao": "Comunidade de 'ganhar dinheiro'/trafego, cobranca recorrente de assinatura que o consumidor diz nao conseguir cancelar. Ja registrado no vault; reaparece em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289,00",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Reaparece pelo 2o dia seguido (ja citado na rodada de 09/10, ticket R$289). Nesta reclamacao o consumidor nem conseguiu concluir a compra via Pix.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "Formato Criativo de Conteudo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Reaparece pelo 2o dia seguido. Vendedora citada: Hanah Frank (curso conduzido, segundo a reclamante, pelo namorado dela, nao identificado).",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97 (ticket ja conhecido)",
+      "termo_busca": "WhatsRadar",
+      "descricao": "App de rastreamento/busca no WhatsApp; reclamante nao conseguiu abrir o app apos a compra, pede estorno por propaganda enganosa. Ja registrado no vault.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/"
+    },
+    {
+      "produto": "A Renda da Fortuna",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado (valores ocultados pelo reclamante)",
+      "termo_busca": "Renda da Fortuna",
+      "descricao": "Pacote de 'renda extra', parcelado em 12x e 5x conforme reclamante. Vendedor nao identificado. Ja registrado no vault; reaparece em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/"
+    },
+    {
+      "produto": "Implementacao (mentor Gabriel Sampaio)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "mentoria-marketing",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 164,08/parcela (12x, total R$ 1.968,96)",
+      "termo_busca": "Implementacao Gabriel Sampaio",
+      "descricao": "Mentoria/curso 'Implementacao', mentor citado Gabriel Sampaio. Reclamante pede estorno das parcelas restantes. Ja registrado no vault; reaparece em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/"
+    },
+    {
+      "produto": "Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-influencer",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 210,00 (parcelado no cartao)",
+      "termo_busca": "Influ Lab",
+      "descricao": "Curso novo no radar (sem nota previa no vault). Reclamante diz nao ter acessado o conteudo apos a compra via Kiwify.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "Viver de Youtube",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Viver de Youtube",
+      "descricao": "Curso novo no radar sobre monetizacao no YouTube. Cobranca no cartao contestada apos pedido de cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/cobranca-apos-cancelamento-do-curso-viver-de-youtube-na-fatura-do-cartao_inygZFHsWukwJmvt/"
+    },
+    {
+      "produto": "Formando Creators",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 37,90/mes (debito automatico)",
+      "termo_busca": "Formando Creators",
+      "descricao": "Curso/comunidade de criadores de conteudo com cobranca recorrente mensal; reclamante diz nao ter acesso apesar da cobranca continuar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/cobranca-indevida-de-curso-em-debito-automatico-sem-acesso_aczphIOMIwFm0uYe/"
+    },
+    {
+      "produto": "Laticinios do Bem (mentor Marcelo Horta)",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado (parcelado)",
+      "termo_busca": "Laticinios do Bem Marcelo Horta",
+      "descricao": "Curso/mentoria sobre producao artesanal de laticinios, mentor citado Marcelo Horta. Cobranca de parcela contestada no cartao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/curso-nao-aparece-no-aplicativo-apos-cobranca-no-cartao_Yv8bRjWhetOsIPuQ/"
+    },
+    {
+      "produto": "Oblivium Digital (produto nao identificado)",
+      "tipo": "angulo",
+      "gateway": "Payt",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "parcelado em 4x",
+      "termo_busca": "Oblivium Digital",
+      "descricao": "Vendedor identificado como 'Oblivium Digital', mas o produto em si nao foi nomeado pelo reclamante. Pedido de cancelamento ignorado pelo vendedor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/"
+    },
+    {
+      "produto": "Golpe de taxa para liberar pagamento/emprestimo",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "golpe-taxa-liberacao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "taxa para liberar pagamento emprestimo",
+      "descricao": "Reclamante pagou taxas repetidas para supostamente liberar um recebimento/emprestimo que nunca veio; nome original foi editado pelo RA. Padrao classico de golpe de taxa antecipada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/cobrancas-indevidas-e-editado-pelo-reclame-aqui-de-falsos-emprestimos_Jx5OuzmGD0GwttCG/"
+    }
+  ],
+  "passada": {
+    "hora": "08:07",
+    "gateways": ["perfectpay", "cakto", "kiwify", "hotmart", "payt"],
+    "paginas": 20,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay/Cakto-family -- 2 mencoes nesta passada, propaganda enganosa\n- [[tcs-spy]] -- Cakto -- assinatura mensal R$120,89 contestada\n- [[youclone-guiyouclone]] -- Cakto -- produto vendido via Instagram, sem entrega\n- [[loopyz]] -- Cakto -- R$88,29, vendedor mascarado\n- [[arsenal-lucrativo]] -- Cakto -- assinatura recorrente contestada\n- [[sinfonia-oculta]] -- Hotmart -- 2o dia seguido, R$289\n- [[formato-criativo-de-conteudo]] -- Hotmart -- 2o dia seguido, Hanah Frank\n- [[zap-radar]] -- Payt -- propaganda enganosa, app nao abre\n- [[a-renda-da-fortuna]] -- Payt -- pacote parcelado, valores ocultados\n- [[implementacao-mentor-gabriel-sampaio]] -- Kiwify -- mentoria R$1.968,96 total\n\n## Frias (novas)\n- Influ Lab -- Kiwify, curso nao entregue, R$210\n- Viver de Youtube -- Kiwify, curso de monetizacao\n- Formando Creators -- Hotmart, R$37,90/mes debito automatico\n- Laticinios do Bem (Marcelo Horta) -- Hotmart, mentoria/curso agro\n- Oblivium Digital -- Payt, vendedor identificado, produto sem nome\n- Angulo golpe de taxa para liberar emprestimo/pagamento -- PerfectPay\n\nLeitura: a paginacao quebrada do ReclameAqui (ja flagrada nas rodadas de 08-09/10) continua: de ~55 tentativas de pagina em 5 gateways, menos de 20% carregaram conteudo (so pagina 1 respondeu de forma confiavel; paginas 2+ quase sempre devolveram 0 de 0, com acertos esparsos e aparentemente aleatorios em paginas aleatorias como 9, 14, 19, 20). Cobertura efetiva ficou bem abaixo do buraco de ~14h desde a ultima rodada (09/10 18:04), mas tudo que foi lido e integralmente reconfirmacao de ofertas ja mapeadas no vault (10 das 16 achados sao repeats em dia distinto), o que e sinal forte de continuidade de veiculacao.",
+    "resumo": "Paginacao do RA segue quebrada (so ~20% das paginas carregam); apesar disso, 10 ofertas ja conhecidas reapareceram em dia distinto (Stalkeia, TCS Spy, YouClone, Loopyz, Arsenal Lucrativo, Sinfonia Oculta, Formato Criativo de Conteudo, ZAP Radar, A Renda da Fortuna, Implementacao) e 5 achados novos entraram no radar."
+  }
+}

@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-08
-rodadas_vista: 15
+visto_ultimo: 2026-10-10
+rodadas_vista: 16
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 5
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -169,5 +169,11 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do
 ## Rodada 2026-10-08
 
 1 mencao(oes) nesta varredura (gateway Payt). App de rastreio/espionagem de WhatsApp ja catalogado no vault (14+ rodadas desde 16/08, multi-gateway PerfectPay+Payt). Nova reclamacao direta na Payt em 08/10: usuario nao consegue abrir o app, login sempre 'incorreto', alega propaganda enganosa. Confirma que a oferta segue ativa e com acesso quebrado/credencial que nao funciona.
+
+Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Payt). App de rastreamento/busca no WhatsApp; reclamante nao conseguiu abrir o app apos a compra, pede estorno por propaganda enganosa. Ja registrado no vault.
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/

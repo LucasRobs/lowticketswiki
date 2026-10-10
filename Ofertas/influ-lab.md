@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso novo no radar (sem nota previa no vault). Reclamante diz nao ter acessado o conteudo apos a compra via Kiwify.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/

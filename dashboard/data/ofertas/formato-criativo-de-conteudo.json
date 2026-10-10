@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-08",
-  "visto_ultimo": "2026-10-09",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-10",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-09",
+  "ra_checado": "2026-10-10",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "hotmart"
   ]
  },
- "corpo": "# Formato Criativo de Conteudo\n\n## Angulo\nAchado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n\n## Historico\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Hotmart). Comprador pede reembolso do curso Formato Criativo de Conteúdo via Hotmart. 2ª/3ª menção no mesmo dia, ainda sem confirmar recorrência em dia diferente.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso de criação de conteúdo associado a Hanah Frank (aulas dadas pelo namorado dela, segundo o reclamante). Pedido de reembolso. Repetiu no dia seguinte da 1ª aparição (08/10 -> 09/10) — sinal de tráfego ainda ativo.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n",
+ "corpo": "# Formato Criativo de Conteudo\n\n## Angulo\nAchado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n\n## Historico\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Hotmart). Comprador pede reembolso do curso Formato Criativo de Conteúdo via Hotmart. 2ª/3ª menção no mesmo dia, ainda sem confirmar recorrência em dia diferente.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso de criação de conteúdo associado a Hanah Frank (aulas dadas pelo namorado dela, segundo o reclamante). Pedido de reembolso. Repetiu no dia seguinte da 1ª aparição (08/10 -> 09/10) — sinal de tráfego ainda ativo.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reaparece pelo 2o dia seguido. Vendedora citada: Hanah Frank (curso conduzido, segundo a reclamante, pelo namorado dela, nao identificado).\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/\n",
  "observacoes": [
   {
    "data": "2026-10-08",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Curso de criação de conteúdo associado a Hanah Frank (aulas dadas pelo namorado dela, segundo o reclamante). Pedido de reembolso. Repetiu no dia seguinte da 1ª aparição (08/10 -> 09/10) — sinal de tráfego ainda ativo."
+  },
+  {
+   "data": "2026-10-10",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Reaparece pelo 2o dia seguido. Vendedora citada: Hanah Frank (curso conduzido, segundo a reclamante, pelo namorado dela, nao identificado)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-10 -- 0807.md",
+   "data": "2026-10-10",
+   "titulo": "Passada 2026-10-10 08:07"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-10.md",
+   "data": "2026-10-10",
+   "titulo": "Radar 2026-10-10"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-09 -- 1804.md",

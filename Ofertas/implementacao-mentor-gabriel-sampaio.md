@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria/curso 'Implementacao', mentor citado Gabriel Sampaio. Reclamante pede estorno das parcelas restantes. Ja registrado no vault; reaparece em dia distinto.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/
