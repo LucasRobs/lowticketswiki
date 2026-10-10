@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 272,
+  "ofertas": 274,
   "angulos": 69,
-  "observacoes": 622,
-  "dias_radar": 30,
-  "passadas": 69,
+  "observacoes": 627,
+  "dias_radar": 31,
+  "passadas": 70,
   "analises": 12,
-  "ultima_rodada": "2026-10-09"
+  "ultima_rodada": "2026-10-10"
  },
  "ofertas": [
   {
@@ -2857,7 +2857,8 @@
    "resumo": "Variante do clássico 'ganhe avaliando produtos', embalada como vaga/licença de trabalho remoto ('licença para trabalhar no Facebook dando notas a produtos'). Sem marca capturada nesta reclamação.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4056,7 +4057,8 @@
    "resumo": "Golpe de 'licenca'/cadastro pago para supostamente trabalhar no Facebook (moderacao, gestao de paginas) sem acesso liberado depois do pagamento. Ticket de entrada baixo (R$48). Angulo distinto do golpe de 'ganhar dinheiro avaliando produtos' ja tracked no…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4789,7 +4791,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -4816,21 +4818,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-09",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Arsenal%20Lucrativo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 3,
    "resumo": "Comunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -11171,6 +11173,61 @@
    ]
   },
   {
+   "slug": "implementacao-mentor-gabriel-sampaio",
+   "nome": "Implementação (mentor Gabriel Sampaio)",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 12,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 990.48,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gabriel%20Sampaio%20Implementação&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Curso/mentoria de ticket alto chamado 'Implementação', vendido por Gabriel Sampaio. Reclamante menciona que a compra também passou pela Hotmart, sugerindo venda multi-gateway. Primeira aparição no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "indicadores-de-trading",
    "nome": "Indicadores de trading",
    "classe": "oferta",
@@ -11224,6 +11281,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "influ-lab",
+   "nome": "Influ Lab",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 210,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 210,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Influ%20Lab&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Curso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -14770,7 +14882,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -17372,21 +17485,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 14,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 15,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 14,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 30,
+   "n_obs": 15,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 32,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -17456,7 +17569,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -17485,21 +17598,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-09",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TCS%20Spy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 4,
    "resumo": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -18898,6 +19011,25 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-10-10.md",
+   "data": "2026-10-10",
+   "titulo": "Radar 2026-10-10",
+   "ofertas_vistas": 5,
+   "novas": 2,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "payt",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
+  {
    "arquivo": "Radar/2026-10-09.md",
    "data": "2026-10-09",
    "titulo": "Radar 2026-10-09",
@@ -19423,6 +19555,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-10 -- 0805.md",
+   "data": "2026-10-10",
+   "hora": "08:05",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "arsenal-lucrativo",
+    "stalkeia-ai",
+    "tcs-spy"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 1 · Coleta: parcial · Achados: 5 ## Quentes stalkeia-ai — PerfectPay · 3 reclamações novas hoje, maior volume sustentado do radar ## Mornas tcs-spy — Cakto · repetiu de…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-09 -- 1804.md",
    "data": "2026-10-09",
@@ -20910,6 +21063,10 @@
    "2026-10-09": {
     "oferta": 3,
     "angulo": 2
+   },
+   "2026-10-10": {
+    "oferta": 2,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -20941,7 +21098,8 @@
    "2026-10-06": 43,
    "2026-10-07": 9,
    "2026-10-08": 29,
-   "2026-10-09": 12
+   "2026-10-09": 12,
+   "2026-10-10": 5
   }
  },
  "analises": [
@@ -21344,49 +21502,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 272
+    "total": 274
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 272
+    "total": 274
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 272
+    "total": 274
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 243,
-    "total": 272
+    "preenchidas": 245,
+    "total": 274
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 143,
-    "total": 272
+    "preenchidas": 145,
+    "total": 274
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 272
+    "total": 274
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 272
+    "total": 274
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 215,
-    "total": 272
+    "preenchidas": 217,
+    "total": 274
    }
   ],
   "fila_enriquecimento": [
@@ -21441,6 +21599,7 @@
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
    "angulo-guia-digital-de-100-receitas-para-pets",
+   "angulo-licenca-para-trabalhar-avaliando-produtos-sem-marca",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
    "angulo-pacote-de-figurinha-virtual-sem-nome",
@@ -21458,6 +21617,7 @@
    "angulo-sem-nome-curso-com-instalacao-de-apps-gerando-comissao-para-instrutor",
    "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
    "angulo-sem-nome-guia-digital-de-cuidados-com-bicicleta",
+   "angulo-sem-nome-licenca-para-trabalhar-no-facebook",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
@@ -21535,6 +21695,7 @@
    "mp28-cursos-de-motociclismo",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
+   "natflix-fitness",
    "oblivium-digital-vendedor-produto-nao-identificado",
    "orientacao-farmaceutica-na-pratica-2-0",
    "pack-produtos-validados-sistema-billion",
@@ -21564,7 +21725,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 963
+   "canonico": 970
   }
  },
  "vocabulario": {
@@ -21611,22 +21772,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "49f30b8f5489d36a",
-  "atualizado_em": "2026-10-09T18:06:38-03:00",
-  "ofertas": 272,
+  "hash": "ee9030c24166c9b4",
+  "atualizado_em": "2026-10-10T08:06:36-03:00",
+  "ofertas": 274,
   "angulos": 69,
-  "observacoes": 622,
-  "ultima_rodada": "2026-10-09",
+  "observacoes": 627,
+  "ultima_rodada": "2026-10-10",
   "ultima_passada": {
-   "data": "2026-10-09",
-   "hora": "18:04",
+   "data": "2026-10-10",
+   "hora": "08:05",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto",
+    "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "payt"
    ]
   }
  }

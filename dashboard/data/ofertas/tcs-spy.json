@@ -33,10 +33,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-09",
-  "visto_ultimo": "2026-10-09",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-10",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-09",
+  "ra_checado": "2026-10-10",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "cakto"
   ]
  },
- "corpo": "# TCS Spy\n\n## Angulo\nApp de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-09 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). App de monitoramento/espionagem vendido como assinatura mensal (TCS Spy - MENSAL) via Cakto. Produtor nao identificado na reclamacao. Primeira aparicao no vault.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/\n",
+ "corpo": "# TCS Spy\n\n## Angulo\nApp de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-09 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). App de monitoramento/espionagem vendido como assinatura mensal (TCS Spy - MENSAL) via Cakto. Produtor nao identificado na reclamacao. Primeira aparicao no vault.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Cakto). App de espionagem por assinatura mensal. Repetiu na rodada de hoje depois de aparecer pela primeira vez ontem (09/10) — 2 dias distintos, sinal de tráfego contínuo.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/\n",
  "observacoes": [
   {
    "data": "2026-10-09",
@@ -86,9 +86,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar."
+  },
+  {
+   "data": "2026-10-10",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 120.89,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. App de espionagem por assinatura mensal. Repetiu na rodada de hoje depois de aparecer pela primeira vez ontem (09/10) — 2 dias distintos, sinal de tráfego contínuo."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-10 -- 0805.md",
+   "data": "2026-10-10",
+   "titulo": "Passada 2026-10-10 08:05"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-10.md",
+   "data": "2026-10-10",
+   "titulo": "Radar 2026-10-10"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-09 -- 1758.md",

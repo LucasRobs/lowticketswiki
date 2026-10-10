@@ -1,0 +1,80 @@
+{
+  "data_varredura": "2026-10-10",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288171, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 1},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "nao informado nesta passada",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkea APP. 3 reclamações novas publicadas hoje (10/10) só na primeira página da PerfectPay — oferta com o maior volume sustentado do radar (134+ menções no histórico do vault).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do-app-stalkeia_n4cG4M9Agu_uGags/"
+    },
+    {
+      "produto": "Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 210 (parcelado no cartão)",
+      "termo_busca": "Influ Lab",
+      "descricao": "Curso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "Implementação (mentor Gabriel Sampaio)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 1.968,96 (12x de R$ 164,08)",
+      "termo_busca": "Gabriel Sampaio Implementação",
+      "descricao": "Curso/mentoria de ticket alto chamado 'Implementação', vendido por Gabriel Sampaio. Reclamante menciona que a compra também passou pela Hotmart, sugerindo venda multi-gateway. Primeira aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mês (assinatura)",
+      "termo_busca": "TCS Spy",
+      "descricao": "App de espionagem por assinatura mensal. Repetiu na rodada de hoje depois de aparecer pela primeira vez ontem (09/10) — 2 dias distintos, sinal de tráfego contínuo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Arsenal Lucrativo",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado nesta passada",
+      "termo_busca": "Arsenal Lucrativo",
+      "descricao": "Comunidade paga de 'lucro'/tráfego, variante citada como 'Arsenal Lucrativo - Apenas Flow Ultra'. Repetiu na rodada de hoje depois de aparecer ontem (09/10) — 2 dias distintos.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/"
+    }
+  ],
+  "passada": {
+    "hora": "08:05",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] — PerfectPay · 3 reclamações novas hoje, maior volume sustentado do radar\n\n## Mornas\n- [[tcs-spy]] — Cakto · repetiu de ontem (09/10), 2 dias distintos\n- [[arsenal-lucrativo]] — Cakto · repetiu de ontem (09/10), 2 dias distintos\n\n## Frias (novas)\n- Influ Lab — Kiwify, curso de influenciador, R$ 210\n- Implementação (Gabriel Sampaio) — Kiwify, mentoria R$ 1.968,96, também vendida via Hotmart\n\nLeitura: o travamento de paginação do ReclameAqui (registrado desde 08/10) continua — página 1 responde, página 2+ sempre devolve 0 de 0, testado em perfectpay, cakto-pay, kiwify, hotmart e payt com variações de URL (cache-bust, sem query string, path /pagina/2/). NOVO: a página 1 de Hotmart e Payt está devolvendo exatamente as mesmas 5 reclamações já capturadas nas rodadas de 08/10 e 09/10 (Natflix Fitness, VevetFit, Formato Criativo de Conteúdo, Sinfonia Oculta, ZapRadar, A Renda da Fortuna, Oblivium Digital) — o feed dessas duas empresas parece congelado, não só a paginação. Por isso não foram reportados como achados novos (seria contar a mesma reclamação duas vezes). PerfectPay, Cakto e Kiwify responderam com conteúdo fresco (reclamações publicadas hoje). Cobertura efetiva desta passada: ~5 reclamações por gateway em 3 dos 5 gateways (perfectpay, cakto-pay, kiwify), 0 reclamações novas em hotmart e payt.",
+    "resumo": "Site com paginação quebrada há 2 dias e agora também servindo página 1 em cache para Hotmart/Payt; coleta real ficou restrita a PerfectPay+Cakto+Kiwify, achados novos: Influ Lab e curso de Gabriel Sampaio."
+  }
+}

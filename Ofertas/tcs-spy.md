@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-09
-visto_ultimo: 2026-10-09
-rodadas_vista: 1
+visto_ultimo: 2026-10-10
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-09
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-09
 
 1 mencao(oes) nesta varredura (gateway Cakto). App de monitoramento/espionagem vendido como assinatura mensal (TCS Spy - MENSAL) via Cakto. Produtor nao identificado na reclamacao. Primeira aparicao no vault.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Cakto). App de espionagem por assinatura mensal. Repetiu na rodada de hoje depois de aparecer pela primeira vez ontem (09/10) — 2 dias distintos, sinal de tráfego contínuo.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/

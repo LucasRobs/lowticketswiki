@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-09
-visto_ultimo: 2026-10-09
-rodadas_vista: 1
+visto_ultimo: 2026-10-10
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-09
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-09
 
 1 mencao(oes) nesta varredura (gateway Cakto). Comunidade/mentoria paga via Cakto ('APENAS FLOW ULTRA' sugere upsell de nivel dentro da comunidade). Produtor nao identificado na reclamacao. Primeira aparicao no vault.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Cakto). Comunidade paga de 'lucro'/tráfego, variante citada como 'Arsenal Lucrativo - Apenas Flow Ultra'. Repetiu na rodada de hoje depois de aparecer ontem (09/10) — 2 dias distintos.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/
