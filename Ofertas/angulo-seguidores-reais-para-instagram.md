@@ -24,22 +24,22 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-10
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-seguidores-reais-para-instagram"
-gateways_detectados: []
+gateways_detectados: [monetizze]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Monetizze). Angulo de venda de pacote de seguidores reais para Instagram, R$87. Reconfirma angulo ja mapeado.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/

@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-06
-rodadas_vista: 1
+visto_ultimo: 2026-10-10
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-curso-de-velas-artesanais-persona-tia-rose"
-gateways_detectados: []
+gateways_detectados: [monetizze]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Monetizze). Curso de artesanato (velas) vendido com persona fictícia 'tia Rose'. Reconfirma em dia distinto.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/propaganda-enganosa-sobre-curso-de-velas-artesanais-cliente-solicita-reembolso_14i1P_-QQbJyFHtr/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-10
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Monetizze). Produto físico (suplemento, '5 potes') vendido via Monetizze, não entregue. Primeira aparição; é produto físico, não infoproduto, mas processa pelo mesmo gateway.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/produto-monetizze-morovitta_psxd2BxBWkebmgvh/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/encapsulado vendido em kit de 5 potes. Reconfirma em dia distinto do mapeamento anterior.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/produto-monetizze-morovitta_psxd2BxBWkebmgvh/

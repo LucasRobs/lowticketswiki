@@ -1,0 +1,200 @@
+{
+  "data_varredura": "2026-10-10",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288171, "paginas_varridas": 15},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 15},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 15},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 15},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 64194, "paginas_varridas": 15}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. 3 reclamacoes na pagina 1 do PerfectPay hoje (10/10), grafias Stalkeia e Stalkea no titulo e no corpo. Mantem maior volume sustentado do radar, rodada seguida apos rodada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do-app-stalkeia_n4cG4M9Agu_uGags/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mes",
+      "termo_busca": "TCS Spy",
+      "descricao": "App de espionagem por assinatura mensal R$120,89, contestada por reembolso. Repete em dias distintos desde 08/10, sinal de cobranca recorrente nao cancelada facilmente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Arsenal Lucrativo",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Arsenal Lucrativo",
+      "descricao": "Comunidade/curso 'Arsenal Lucrativo - Flow Ultra'. Ate agora so tinha aparecido via Cakto; hoje aparece tambem em reclamacao listada na pagina da Kiwify, confirmando operacao multi-gateway (sinal de escala e de precaucao contra derrubada).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprem-um-produto-e-nao-foi-o-que-eu-esperava_FYXVyQ2B2YI1TM0e/"
+    },
+    {
+      "produto": "Implementação (mentor Gabriel Sampaio)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 164,08/parcela (total R$ 1.968,96)",
+      "termo_busca": "Gabriel Sampaio Implementação",
+      "descricao": "Mentoria de alto ticket parcelada (12x R$164,08). Nova reclamacao hoje (10/10) reconfirma mesma mecanica de parcelamento ja mapeada em rodadas anteriores.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicitacao-de-reembolso-de-curso-dentro-do-prazo-de-7-dias-com-pedido-de-intervencao-da-kiwify_9uv7XkF6Eaj94KRA/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "nao-classificado",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Reconfirma por mais um dia seguido (5o+), R$289. Reclamacao de hoje e sobre dificuldade de concluir a compra, nao de reembolso -- primeira vez que aparece esse angulo distinto para o mesmo produto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "Formato Criativo de Conteúdo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Formato Criativo de Conteúdo",
+      "descricao": "Curso da produtora Hanah Frank, reconfirmado por mais um dia seguido (5o+). Mesma reclamacao-padrao de pedido de reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "Manual do Milhão + Lasy IA",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "inteligencia-artificial",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "Manual do Milhão",
+      "descricao": "Combo curso + ferramenta de IA vendidos casados ('Manual do Milhão' + 'Lasy'). 2 reclamacoes idênticas na mesma pagina hoje (30/09, publicadas quase juntas), reforcando volume de trafego simultaneo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/"
+    },
+    {
+      "produto": "Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 210",
+      "termo_busca": "Influ Lab",
+      "descricao": "Curso de influenciador/marketing, R$210. 3a rodada seguida aparecendo no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "HAP 2.0",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "nao-classificado",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "HAP 2.0",
+      "descricao": "Curso de gestao de processos. Reconfirma pela 2a rodada seguida.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/"
+    },
+    {
+      "produto": "Morovitta",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "saude-suplemento",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Morovitta",
+      "descricao": "Suplemento/encapsulado vendido em kit de 5 potes. Reconfirma em dia distinto do mapeamento anterior.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/produto-monetizze-morovitta_psxd2BxBWkebmgvh/"
+    },
+    {
+      "produto": "Chama Gêmea",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "espiritualidade-autoconhecimento",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Chama Gêmea",
+      "descricao": "Curso de espiritualidade/relacionamento (tema 'chama gemea'). Reconfirma em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/compra-desconhecida-de-curso-no-aplicativo_bbKGkBLpa1Ml9gON/"
+    },
+    {
+      "produto": "Método Livre",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "nao-classificado",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 82/mes (12x)",
+      "termo_busca": "Método Livre",
+      "descricao": "Curso sobre licitacoes publicas, cobranca recorrente R$82 por 12 meses. Reconfirma em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/"
+    },
+    {
+      "produto": "Curso de velas artesanais (persona 'Tia Rose')",
+      "tipo": "angulo",
+      "gateway": "Monetizze",
+      "nicho": "artesanato",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso velas artesanais",
+      "descricao": "Curso de artesanato (velas) vendido com persona fictícia 'tia Rose'. Reconfirma em dia distinto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/propaganda-enganosa-sobre-curso-de-velas-artesanais-cliente-solicita-reembolso_14i1P_-QQbJyFHtr/"
+    },
+    {
+      "produto": "Seguidores reais para Instagram",
+      "tipo": "angulo",
+      "gateway": "Monetizze",
+      "nicho": "redes-sociais-crescimento",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 87",
+      "termo_busca": "seguidores reais Instagram",
+      "descricao": "Angulo de venda de pacote de seguidores reais para Instagram, R$87. Reconfirma angulo ja mapeado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/"
+    },
+    {
+      "produto": "Guia de Brigadeiros Perfeitos",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "receitas-culinaria",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Guia de Brigadeiros Perfeitos",
+      "descricao": "Ebook de receitas de brigadeiro. Primeira aparicao no radar, mencao unica.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/erro-de-acesso-ao-ebook-comprado-na-plataforma-kiwify_ak624VEET_0caShz/"
+    }
+  ],
+  "passada": {
+    "hora": "11:21",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "monetizze"],
+    "paginas": 15,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- Stalkeia.ai -- PerfectPay -- 3 mencoes hoje, grafias Stalkeia/Stalkea, maior volume sustentado do radar\n- TCS Spy -- Cakto -- assinatura R$120,89/mes, repete em dia distinto\n- Arsenal Lucrativo -- Kiwify -- NOVO: ate agora so via Cakto, hoje aparece tambem na Kiwify (multi-gateway)\n- Implementacao (Gabriel Sampaio) -- Kiwify -- mentoria parcelada, R$1.968,96 total, repete\n- Sinfonia Oculta -- Hotmart -- repete, R$289, hoje com angulo de 'nao consigo comprar'\n- Formato Criativo de Conteudo -- Hotmart -- repete, Hanah Frank\n- Manual do Milhao + Lasy IA -- Monetizze -- 2 reclamacoes quase simultaneas\n\n## Mornas\n- Influ Lab -- Kiwify -- 3a rodada seguida, R$210\n- HAP 2.0 -- Hotmart -- repete\n- Morovitta -- Monetizze -- suplemento, repete\n- Chama Gemea -- Hotmart -- curso espiritualidade, repete\n- Metodo Livre -- Hotmart -- curso de licitacoes, R$82/mes, repete\n- Curso de velas artesanais (Tia Rose) -- Monetizze -- angulo, repete\n- Seguidores reais para Instagram -- Monetizze -- angulo, R$87, repete\n\n## Frias (novas)\n- Guia de Brigadeiros Perfeitos -- Kiwify, ebook de receitas\n\nLeitura: buraco curto desde a ultima passada (09:49, ~1h30), e a paginacao do ReclameAqui continua quebrada -- de 63 tentativas de pagina em 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, monetizze), so a pagina 1 carregou de forma confiavel em todos; paginas 2+ vieram majoritariamente vazias, com acertos esparsos e aleatorios (kiwify p5/7/8, hotmart p8, monetizze p3/8). Cakto-pay foi o unico gateway 100% travado alem da pagina 1 (14 tentativas, zero conteudo). Quase tudo que apareceu e reconfirmacao do catalogo ja mapeado no vault -- 14 dos 15 achados ja tinham nota propria -- o que e bom sinal de continuidade de veiculacao, mas o destaque real da passada e Arsenal Lucrativo aparecendo pela primeira vez tambem na Kiwify (ate aqui so Cakto), confirmando operacao multi-gateway.",
+    "resumo": "Passada curta (1h30) dominada por reconfirmacoes; destaque e Arsenal Lucrativo migrando para multi-gateway (Cakto+Kiwify)."
+  }
+}

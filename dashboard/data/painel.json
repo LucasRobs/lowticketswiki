@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 277,
+  "ofertas": 278,
   "angulos": 71,
-  "observacoes": 643,
+  "observacoes": 650,
   "dias_radar": 31,
-  "passadas": 72,
+  "passadas": 73,
   "analises": 12,
   "ultima_rodada": "2026-10-10"
  },
@@ -2316,11 +2316,13 @@
    "classe": "angulo",
    "nicho": "artesanato",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "monetizze"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2341,26 +2343,25 @@
    "score": 0.7,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20velas%20artesanais&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 2,
    "resumo": "Curso de velas artesanais anunciado no Instagram com a persona 'Tia Rose', mas entregue por outra instrutora (identificada como Cidinha) em vídeos curtos de baixa qualidade. Mesma mecânica de persona de vendas divergente da entrega vista em outros cursos de…",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -3795,11 +3796,13 @@
    "classe": "angulo",
    "nicho": "redes-sociais-seguidores",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "monetizze"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -3820,26 +3823,25 @@
    "score": 2.3,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=comprar%20seguidores%20Instagram&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 2,
    "resumo": "Serviço de \"seguidores reais e verdadeiros\" para Instagram (500-700 seguidores) por R$87; perfis entregues sem foto/posts e removidos após tentativa de chargeback via Pix.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4899,7 +4901,8 @@
    "prioridade": 0,
    "checkout": "cakto",
    "gateways": [
-    "cakto"
+    "cakto",
+    "kiwify"
    ],
    "plataforma_ads": [
     "meta"
@@ -6365,21 +6368,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Chama%20Gêmea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 4,
    "resumo": "Curso de espiritualidade/relacionamento (tema 'chama gêmea'); comprador identificou cobrança de curso no app que afirma nunca ter adquirido.",
    "flags": [
     "score-provisorio",
@@ -10498,6 +10501,61 @@
    ]
   },
   {
+   "slug": "guia-de-brigadeiros-perfeitos",
+   "nome": "Guia de Brigadeiros Perfeitos",
+   "classe": "oferta",
+   "nicho": "receitas-culinaria",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Guia%20de%20Brigadeiros%20Perfeitos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "Ebook de receitas de brigadeiro. Primeira aparicao no radar, mencao unica.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "guia-de-financas-gabriela-vitorino",
    "nome": "Guia de Finanças (Gabriela Vitorino)",
    "classe": "oferta",
@@ -13132,21 +13190,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Manual%20do%20Milhão%20Lasy%20IA&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 5,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 6,
    "resumo": "Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.",
    "flags": [
     "score-provisorio",
@@ -14018,21 +14076,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Livre&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 6,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 7,
    "resumo": "R$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
@@ -14463,21 +14521,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Morovitta&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 3,
    "resumo": "Suplemento/encapsulado \"Morovitta\" vendido em potes via Monetizze; comprador relata demora na entrega e reembolso aprovado mas não recebido.",
    "flags": [
     "score-provisorio",
@@ -19281,20 +19339,21 @@
    "arquivo": "Radar/2026-10-10.md",
    "data": "2026-10-10",
    "titulo": "Radar 2026-10-10",
-   "ofertas_vistas": 21,
-   "novas": 7,
+   "ofertas_vistas": 28,
+   "novas": 8,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
     "hotmart",
     "kiwify",
+    "monetizze",
     "payt",
     "perfectpay",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -19823,6 +19882,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-10 -- 1121.md",
+   "data": "2026-10-10",
+   "hora": "11:21",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 15,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 15 · Coleta: parcial · Achados: 15 ## Quentes Stalkeia.ai -- PerfectPay -- 3 mencoes hoje, grafias Stalkeia/Stalkea, maior volume sustentado do radar TCS Spy -- Cakto…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-10 -- 0949.md",
    "data": "2026-10-10",
@@ -21385,7 +21461,7 @@
     "angulo": 2
    },
    "2026-10-10": {
-    "oferta": 5,
+    "oferta": 6,
     "angulo": 2
    }
   },
@@ -21419,7 +21495,7 @@
    "2026-10-07": 9,
    "2026-10-08": 29,
    "2026-10-09": 12,
-   "2026-10-10": 21
+   "2026-10-10": 28
   }
  },
  "analises": [
@@ -21822,49 +21898,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 277
+    "total": 278
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 277
+    "total": 278
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 277
+    "total": 278
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 248,
-    "total": 277
+    "preenchidas": 249,
+    "total": 278
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 146,
-    "total": 277
+    "total": 278
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 277
+    "total": 278
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 277
+    "total": 278
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 220,
-    "total": 277
+    "preenchidas": 221,
+    "total": 278
    }
   ],
   "fila_enriquecimento": [
@@ -21913,7 +21989,6 @@
    "angulo-curso-de-bordado-sem-nome",
    "angulo-curso-de-musica-com-propaganda-enganosa-sem-nome",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
-   "angulo-curso-de-velas-artesanais-persona-tia-rose",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
@@ -21930,7 +22005,6 @@
    "angulo-renovacao-automatica-indevida-de-assinatura-curso",
    "angulo-renovacao-automatica-indevida-hotmart",
    "angulo-seguidores-para-instagram-sem-marca",
-   "angulo-seguidores-reais-para-instagram",
    "angulo-sem-nome-assinatura-recorrente-nao-reconhecida-plano-premium",
    "angulo-sem-nome-chuteiras-via-loja-tk-importes",
    "angulo-sem-nome-curso-com-instalacao-de-apps-gerando-comissao-para-instrutor",
@@ -22043,7 +22117,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 991
+   "canonico": 999
   }
  },
  "vocabulario": {
@@ -22090,22 +22164,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "4b10d6bb6c64d889",
-  "atualizado_em": "2026-10-10T09:50:26-03:00",
-  "ofertas": 277,
+  "hash": "b519982c2174acf9",
+  "atualizado_em": "2026-10-10T11:22:20-03:00",
+  "ofertas": 278,
   "angulos": 71,
-  "observacoes": 643,
+  "observacoes": 650,
   "ultima_rodada": "2026-10-10",
   "ultima_passada": {
    "data": "2026-10-10",
-   "hora": "09:49",
+   "hora": "11:21",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "monetizze"
    ]
   }
  }

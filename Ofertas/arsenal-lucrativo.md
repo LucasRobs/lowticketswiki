@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/arsenal-lucrativo"
-gateways_detectados: [cakto]
+gateways_detectados: [cakto, kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [cakto]
+ra_plataformas: [cakto, kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-10
 veredito: observar

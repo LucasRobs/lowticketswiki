@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-06
-rodadas_vista: 4
+visto_ultimo: 2026-10-10
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Curso de 'como ganhar dinheiro com licitacoes publicas', assinatura mensal cara. Quarto dia diferente de aparicao no radar - confirma trafego pago sustentado.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Curso sobre licitacoes publicas, cobranca recorrente R$82 por 12 meses. Reconfirma em dia distinto.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/
