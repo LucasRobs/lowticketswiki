@@ -1,0 +1,200 @@
+{
+  "data_varredura": "2026-10-10",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288171, "paginas_varridas": 16},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 16},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 10},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 10},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10631, "paginas_varridas": 10}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalkeia",
+      "descricao": "App falso de espionar WhatsApp/Instagram. Continua o maior volume do radar: 3 reclamacoes novas em poucas horas nesta passada, grafias Stalkeia/Stalkea/STALKEA APP.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do-app-stalkeia_n4cG4M9Agu_uGags/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mes",
+      "termo_busca": "TCS Spy",
+      "descricao": "Assinatura mensal de app de espionagem. Nova reclamacao de reembolso nao recebido, repete ha varias rodadas seguidas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Produto de nicho espiritual/oculto. Reclamacao de hoje repete o angulo 'nao consigo comprar' ja visto na passada anterior.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "Formato Criativo de Conteudo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Curso de criacao de conteudo de Hanah Frank. Reclamacao de reembolso repete mais uma rodada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "HAP 2.0",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "servicos-empresariais",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "HAP 2.0",
+      "descricao": "Reclamacao de dificuldade de reembolso e acesso limitado, repete rodada apos rodada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/"
+    },
+    {
+      "produto": "Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 210",
+      "termo_busca": "Influ Lab",
+      "descricao": "Curso de marketing de influencer. Nova reclamacao de reembolso, ja e a 4a+ rodada seguida com mencao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "HI SPY 4.0",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido (assinatura anual)",
+      "termo_busca": "HI SPY",
+      "descricao": "NOVO: app de espionagem com assinatura anual, achado pela primeira vez no radar. Mesma familia de nicho de Stalkeia/TCS Spy mas marca diferente, confirmando que o ticket de espionagem roda em multiplos gateways com marcas distintas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/"
+    },
+    {
+      "produto": "Laboratorio de Influencers IA / Comunidade Influencers IA AF Ascensao / +120 Prompts Ultra-realista",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "ferramentas-de-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 19,90 a R$ 297/ano",
+      "termo_busca": "laboratorio influencers ia",
+      "descricao": "NOVO: familia de produtos de treinamento para 'virar influencer com IA' vendidos em cadeia (produto de entrada R$19,90 + upsells de R$197/ano e R$297/ano) na mesma compra -- funil de order bump agressivo no nicho de IA/influencer.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/falta-de-acesso-aos-produtos-digitais-comprados-e-sem-retorno-do-suporte-para-reembolso_Mh-4HOUwcWCNgL70/"
+    },
+    {
+      "produto": "Metodo Live Perpetua - Tiktok Shop / LiveFlow Ia",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "lives-interativas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "live perpetua tiktok shop",
+      "descricao": "NOVO: metodo de monetizar lives no TikTok Shop vendido junto com uma ferramenta de IA (LiveFlow Ia) na mesma compra. Angulo de lives interativas em expansao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-nao-correspondente-a-oferta_jng8NEaY4ta-KbXd/"
+    },
+    {
+      "produto": "Fluency Route",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Fluency Route",
+      "descricao": "NOVO: curso de idiomas/fluencia, reclamacao de perda de acesso apos mudanca de plataforma.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/sem-acesso-ao-curso-apos-mudanca-de-plataforma-e-suporte-inexistente_LZcGCmVi6TywiFQO/"
+    },
+    {
+      "produto": "Bike in Casa",
+      "tipo": "angulo",
+      "gateway": "Ticto",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "assinatura (teste 30 dias)",
+      "termo_busca": "bike in casa",
+      "descricao": "NOVO: assinatura de app/equipamento de bike indoor com mecanica de teste de 30 dias dificil de cancelar -- 2 reclamacoes distintas na mesma passada sobre cancelamento/reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/"
+    },
+    {
+      "produto": "Curso de bateria (sem nome de marca)",
+      "tipo": "angulo",
+      "gateway": "Ticto",
+      "nicho": "cursos-de-musica",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "curso de bateria online",
+      "descricao": "NOVO angulo: curso online de bateria (musica), reclamacao de nao recebimento de acesso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-recebi-acesso-ao-curso-de-bateria-que-paguei_LBuxcDPukrXfH4R6/"
+    },
+    {
+      "produto": "Body Piercer Extreme",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "cursos-de-oficio",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Body Piercer Extreme",
+      "descricao": "NOVO: curso de body piercing da produtora Bianca, reclamacao de nao conseguir acessar certificado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-consigo-acessar-meu-certificado-do-curso-de-body-piercer_HGITxKYtI67tq64C/"
+    },
+    {
+      "produto": "Rendafini (moldes para artesanato)",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "artesanato-e-pdf",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Rendafini",
+      "descricao": "NOVO: vendedor de moldes/apostilas de artesanato digital, reclamacao de propaganda enganosa sem detalhar produto exato.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-produto-diferente-do-anunciado_jjLpOuVfvIgnRQ1D/"
+    },
+    {
+      "produto": "Protocolo Leite Sem Fim",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "garantia de 30 dias",
+      "termo_busca": "Protocolo Leite Sem Fim",
+      "descricao": "NOVO: protocolo de producao de leite (provavelmente materno/lactacao), reclamacao de propaganda enganosa e suporte inexistente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/"
+    }
+  ],
+  "passada": {
+    "hora": "14:47",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 16,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- Stalkeia.ai -- PerfectPay -- 3 mencoes novas, continua maior volume\n- TCS Spy -- Cakto -- repete, R$120,89/mes\n- Sinfonia Oculta -- Hotmart -- repete, angulo 'nao consigo comprar'\n- Formato Criativo de Conteudo -- Hotmart -- repete, Hanah Frank\n- Influ Lab -- Kiwify -- 4a+ rodada seguida, R$210\n\n## Mornas\n- HAP 2.0 -- Hotmart -- repete\n- Bike in Casa -- Ticto -- 2 reclamacoes na passada, mecanica de teste de 30 dias dificil de cancelar\n\n## Frias (novas)\n- HI SPY 4.0 -- Ticto -- novo app de espionagem, assinatura anual\n- Laboratorio de Influencers IA + upsells -- Kiwify -- funil de IA/influencer em cadeia (R$19,90 a R$297/ano)\n- Metodo Live Perpetua Tiktok Shop / LiveFlow Ia -- Kiwify -- live interativa + ferramenta de IA\n- Fluency Route -- Kiwify -- curso de idiomas\n- Curso de bateria (angulo) -- Ticto\n- Body Piercer Extreme -- Ticto -- curso de Bianca\n- Rendafini -- PerfectPay -- moldes de artesanato\n- Protocolo Leite Sem Fim -- Ticto -- produto de saude/lactacao\n\nLeitura: buraco de ~3h20 desde a ultima passada (11:21). Paginacao do ReclameAqui continua quebrada em PerfectPay, Cakto, Kiwify e Hotmart -- de 52 tentativas de pagina nesses 4 gateways, so 7 carregaram conteudo real (quase sempre so a pagina 1, com acertos esparsos em paginas aleatorias). O Ticto, usado como gateway rotativo (estava sem varredura desde 08/10), respondeu bem e abriu uma janela de ~1 mes, trazendo o maior lote de achados novos da passada. Destaque: HI SPY 4.0 confirma que o nicho de espionagem roda com marcas distintas em gateways diferentes, e o cluster de produtos de IA/influencer na Kiwify mostra um funil de order bump bem estruturado.",
+    "resumo": "Ticto (gateway rotativo) rendeu 8 achados novos; Stalkeia.ai continua dominando a PerfectPay."
+  }
+}

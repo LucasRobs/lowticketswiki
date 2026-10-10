@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 278,
-  "angulos": 71,
-  "observacoes": 650,
+  "ofertas": 280,
+  "angulos": 72,
+  "observacoes": 659,
   "dias_radar": 31,
-  "passadas": 73,
+  "passadas": 74,
   "analises": 12,
   "ultima_rodada": "2026-10-10"
  },
@@ -16,11 +16,13 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -41,28 +43,27 @@
    "score": 1.1,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-09-24",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-24",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=prompts%20ultra%20realista&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-24",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 4,
    "resumo": "'+120 Prompts Ultra-realista N' - e-book de prompts de IA a R$ 19,90. Entrada tipica de funil; 1 mencao. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2090,6 +2091,58 @@
    "ultima_obs": "2026-10-08",
    "n_citacoes": 3,
    "resumo": "Curso de bateria online vendido via Ticto, sem marca/vendedor identificado no texto da reclamação. Comprador pagou e, 4 dias depois, ainda não tinha recebido credenciais de acesso nem confirmação por e-mail.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-curso-de-bateria-sem-nome-de-marca",
+   "nome": "Curso de bateria (sem nome de marca)",
+   "classe": "angulo",
+   "nicho": "cursos-de-musica",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20de%20bateria%20online&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "NOVO angulo: curso online de bateria (musica), reclamacao de nao recebimento de acesso.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -5312,21 +5365,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 6,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 7,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
@@ -5367,21 +5420,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-07",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Body%20Piercer%20Extreme%20curso&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 4,
    "resumo": "Curso 'Body Piercer extreme' da produtora Bianca, reclamacao de acesso a certificado. Compra original de 2022 segundo o reclamante -- sinal fraco, pode nao refletir campanha ativa hoje. Achado novo, mencao unica.",
    "flags": [
     "score-provisorio",
@@ -9611,6 +9664,61 @@
    ]
   },
   {
+   "slug": "fluency-route",
+   "nome": "Fluency Route",
+   "classe": "oferta",
+   "nicho": "idiomas",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Fluency%20Route&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "NOVO: curso de idiomas/fluencia, reclamacao de perda de acesso apos mudanca de plataforma.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "formacao-mestre-do-acabamento",
    "nome": "Formação Mestre do Acabamento",
    "classe": "oferta",
@@ -10924,21 +11032,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Hi%20Spy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 5,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 6,
    "resumo": "Primeira aparicao. Assinatura anual de app de espionagem, mesma familia de angulo do Stalkeia mas rodando via Ticto.",
    "flags": [
     "score-provisorio",
@@ -14021,21 +14129,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Live%20Perpetua%20TikTok%20Shop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 5,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 6,
    "resumo": "Bundle de dois produtos de automação de live/TikTok Shop vendidos juntos; cliente diz que não correspondeu ao anunciado.",
    "flags": [
     "score-provisorio",
@@ -16526,21 +16634,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Leite%20Sem%20Fim&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 8,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 9,
    "resumo": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
    "flags": [
     "score-provisorio",
@@ -16821,6 +16929,61 @@
    "ultima_obs": "2026-09-26",
    "n_citacoes": 5,
    "resumo": "R$ 49,90. Pedido de cancelamento dentro dos 7 dias sem resposta (reclamacao de 25/08). Nicho nao informado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "rendafini-moldes-para-artesanato",
+   "nome": "Rendafini (moldes para artesanato)",
+   "classe": "oferta",
+   "nicho": "artesanato-e-pdf",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-10",
+   "visto_ultimo": "2026-10-10",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-10",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Rendafini&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-10",
+   "n_citacoes": 1,
+   "resumo": "NOVO: vendedor de moldes/apostilas de artesanato digital, reclamacao de propaganda enganosa sem detalhar produto exato.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -19339,8 +19502,8 @@
    "arquivo": "Radar/2026-10-10.md",
    "data": "2026-10-10",
    "titulo": "Radar 2026-10-10",
-   "ofertas_vistas": 28,
-   "novas": 8,
+   "ofertas_vistas": 37,
+   "novas": 11,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -19350,10 +19513,11 @@
     "monetizze",
     "payt",
     "perfectpay",
+    "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -19882,6 +20046,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-10 -- 1447.md",
+   "data": "2026-10-10",
+   "hora": "14:47",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 16,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 16 · Coleta: parcial · Achados: 15 ## Quentes Stalkeia.ai -- PerfectPay -- 3 mencoes novas, continua maior volume TCS Spy -- Cakto -- repete, R$120,89/mes Sinfonia Oculta…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-10 -- 1121.md",
    "data": "2026-10-10",
@@ -21461,8 +21642,8 @@
     "angulo": 2
    },
    "2026-10-10": {
-    "oferta": 6,
-    "angulo": 2
+    "oferta": 8,
+    "angulo": 3
    }
   },
   "observacoes": {
@@ -21495,7 +21676,7 @@
    "2026-10-07": 9,
    "2026-10-08": 29,
    "2026-10-09": 12,
-   "2026-10-10": 28
+   "2026-10-10": 37
   }
  },
  "analises": [
@@ -21898,49 +22079,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 59,
-    "total": 278
+    "total": 280
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 25,
-    "total": 278
+    "total": 280
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 69,
-    "total": 278
+    "total": 280
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 249,
-    "total": 278
+    "preenchidas": 251,
+    "total": 280
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 146,
-    "total": 278
+    "total": 280
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 112,
-    "total": 278
+    "total": 280
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 105,
-    "total": 278
+    "total": 280
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 221,
-    "total": 278
+    "preenchidas": 223,
+    "total": 280
    }
   ],
   "fila_enriquecimento": [
@@ -21961,7 +22142,6 @@
    "soulmate-sketcher"
   ],
   "status_vencido": [
-   "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
    "50-guias-para-cuidado-da-bike",
@@ -22117,7 +22297,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 999
+   "canonico": 1011
   }
  },
  "vocabulario": {
@@ -22164,22 +22344,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "b519982c2174acf9",
-  "atualizado_em": "2026-10-10T11:22:20-03:00",
-  "ofertas": 278,
-  "angulos": 71,
-  "observacoes": 650,
+  "hash": "798adfd796c2c3d7",
+  "atualizado_em": "2026-10-10T14:49:07-03:00",
+  "ofertas": 280,
+  "angulos": 72,
+  "observacoes": 659,
   "ultima_rodada": "2026-10-10",
   "ultima_passada": {
    "data": "2026-10-10",
-   "hora": "11:21",
+   "hora": "14:47",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "monetizze"
+    "ticto"
    ]
   }
  }

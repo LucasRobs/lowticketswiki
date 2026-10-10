@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-06
-rodadas_vista: 4
+visto_ultimo: 2026-10-10
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-n
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Bundle de curso de live perpetua no TikTok Shop + ferramenta de IA LiveFlow. Reconfirmado mais uma vez.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-nao-correspondente-a-oferta_jng8NEaY4ta-KbXd/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Kiwify). NOVO: metodo de monetizar lives no TikTok Shop vendido junto com uma ferramenta de IA (LiveFlow Ia) na mesma compra. Angulo de lives interativas em expansao.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/atraso-no-reembolso-de-compra-nao-correspondente-a-oferta_jng8NEaY4ta-KbXd/

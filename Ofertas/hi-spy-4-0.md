@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-08
-rodadas_vista: 4
+visto_ultimo: 2026-10-10
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8
 ## Rodada 2026-10-08
 
 4 mencao(oes) nesta varredura (gateway Ticto). App de espionagem/rastreamento, mesma familia de ofertas 'Stalkeia' do nicho. 4ª rodada (04/10, 06/10, 08/10) com a mesma reclamação ainda visível.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Ticto). NOVO: app de espionagem com assinatura anual, achado pela primeira vez no radar. Mesma familia de nicho de Stalkeia/TCS Spy mas marca diferente, confirmando que o ticket de espionagem roda em multiplos gateways com marcas distintas.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-07
-visto_ultimo: 2026-10-08
-rodadas_vista: 2
+visto_ultimo: 2026-10-10
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-08
 
 2 mencao(oes) nesta varredura (gateway Ticto). Curso de Body Piercer da produtora Bianca, reclamacao de acesso a certificado. 2ª rodada em dia diferente (07/10 e agora 08/10).
+
+Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-acessar-meu-certificado-do-curso-de-body-piercer_HGITxKYtI67tq64C/
+
+## Rodada 2026-10-10
+
+1 mencao(oes) nesta varredura (gateway Ticto). NOVO: curso de body piercing da produtora Bianca, reclamacao de nao conseguir acessar certificado.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-acessar-meu-certificado-do-curso-de-body-piercer_HGITxKYtI67tq64C/

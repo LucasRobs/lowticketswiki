@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-08
-rodadas_vista: 4
+visto_ultimo: 2026-10-10
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-10
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/quero-cancelar-minha-compra-do-b
 ## Rodada 2026-10-08
 
 4 mencao(oes) nesta varredura (gateway Ticto). Assinatura de treino indoor com periodo de teste dificil de cancelar. 4ª rodada em dias diferentes (04/10, 06/10, 07/10, agora 08/10) -- mecanica de retencao forcada continua sem correcao.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/
+
+## Rodada 2026-10-10
+
+2 mencao(oes) nesta varredura (gateway Ticto). NOVO: assinatura de app/equipamento de bike indoor com mecanica de teste de 30 dias dificil de cancelar -- 2 reclamacoes distintas na mesma passada sobre cancelamento/reembolso.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/
