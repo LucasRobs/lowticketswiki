@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 2
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-10-08
-rodadas_vista: 3
+visto_ultimo: 2026-10-11
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 130
 criativos_delta: 10
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/chatgpt-privado"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 8
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-11
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -105,3 +105,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 ## Biblioteca 2026-10-08
 
 Mesma busca "chatgpt plus anual" de 02 e 05/10: ~130 resultados (eram ~120, delta +10; conta a coorte inteira, nao so este vendedor). AgenciaDesign com criativo novo em 05/10.
+
+## Rodada 2026-10-11
+
+8 mencao(oes) nesta varredura (gateway Kirvano). 2 reclamacoes com ID novo: 261270415 (link do TikTok, 'ChatGPT privado') e 261140941 ('CHAT GPT PRIVADO', Kirvano). O mesmo vendedor (Infinity Apps) aparece em mais duas por SuperGrok anual (261308765, 261222951), nao contadas. 261357215 (ChatGPT Plus anual, vendedor sem nome) tambem nao contada.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 261270415, 261140941)

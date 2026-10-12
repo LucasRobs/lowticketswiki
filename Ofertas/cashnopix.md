@@ -24,10 +24,10 @@ s_ticket: 7
 s_lucro: 8
 s_replica: 3
 s_saturacao: 3
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-09-25
-rodadas_vista: 6
+visto_ultimo: 2026-10-11
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/cashnopix"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-25
+ra_checado: 2026-10-11
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -118,3 +118,9 @@ Evidencia: [[2026-09-24 -- 0441]] (rodada agendada; sem URL individual de reclam
 1 mencao(oes) nesta varredura (gateway PerfectPay). Cobra Pix para liberar saque.
 
 Evidencia: [[2026-09-25 -- 0600]] (rodada agendada; sem URL individual de reclamacao)
+
+## Rodada 2026-10-11
+
+6 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo: 261290357 (titulo 'cash no pi', pagou e nao recebeu nada).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261290357)

@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-08
-rodadas_vista: 7
+visto_ultimo: 2026-10-11
+rodadas_vista: 8
 dias_no_ar: 58
 criativos_ultima: 210
 criativos_delta: -20
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 41
+ra_reclamacoes: 50
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-11
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -158,3 +158,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 ## Biblioteca 2026-10-08
 
 Mesma busca "treino trinca" de 02 e 05/10: ~210 resultados (eram ~230, delta -20). 29 de 29 carregados de Pedro Lotz, o mais antigo carregado de 22/08, criativos novos em 03 e 04/10. `dias_no_ar` mantido em 58 (limite inferior; o anuncio de 08/08 nao apareceu na leva carregada, mas so 29 de ~210 carregaram).
+
+## Rodada 2026-10-11
+
+50 mencao(oes) nesta varredura (gateway Lastlink). 9 reclamacoes com ID novo de 08 a 10/10, todas acima de 261097585: 261330709, 261306163 (Treino Trinca Elite comprado em 06/10), 261296101 (treino de academia vendido como treino em casa), 261295355 ('venda casada', varios upgrades no checkout de R$ 37), 261294381, 261272641, 261271003 (R$ 37 em 29/08), 261199391 e 261267369 (kit sorteado em live do Lotz, R$ 997, nao entregue). Biblioteca, mesma busca 'treino trinca': ~160 resultados (eram ~210 em 08/10 e ~230 em 05/10); nenhum criativo carregado iniciado depois de 05/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261330709, 261306163, 261296101, 261295355, 261294381, 261272641, 261271003, 261199391, 261267369)

@@ -1,14 +1,14 @@
 {
  "esquema": 1,
- "hash": "51bff7f72845f5b6",
- "atualizado_em": "2026-10-08T03:11:40-03:00",
- "ofertas": 193,
+ "hash": "2c6f97714c90cb4b",
+ "atualizado_em": "2026-10-11T23:07:11-03:00",
+ "ofertas": 203,
  "angulos": 25,
- "observacoes": 362,
- "ultima_rodada": "2026-10-08",
+ "observacoes": 383,
+ "ultima_rodada": "2026-10-11",
  "ultima_passada": {
-  "data": "2026-10-08",
-  "hora": "03:09",
+  "data": "2026-10-11",
+  "hora": "23:05",
   "coleta": "ok",
   "gateways": [
    "kiwify",
@@ -18,7 +18,10 @@
    "kirvano",
    "perfectpay",
    "cakto",
-   "wiapy"
+   "wiapy",
+   "payt",
+   "eduzz",
+   "monetizze"
   ]
  }
 }
