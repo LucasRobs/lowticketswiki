@@ -71,7 +71,7 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -117,8 +117,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -127,7 +126,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -347,7 +346,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -2313,7 +2312,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -2533,7 +2532,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "lastlink",
@@ -2810,7 +2809,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -2856,8 +2855,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -2866,7 +2864,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -4023,7 +4021,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -4851,7 +4849,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -5736,7 +5734,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -5782,8 +5780,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6292,7 +6289,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -6513,7 +6510,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -7830,7 +7827,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -7997,7 +7994,7 @@
    "classe": "oferta",
    "nicho": "religioso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -8328,7 +8325,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12212,7 +12209,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12674,7 +12671,7 @@
    ],
    "duracao_min": 0,
    "n_passadas": 1,
-   "leitura": "Primeira rodada com a lista completa do RA: a API de busca do proprio site devolveu ~650 reclamacoes de 11 gateways com ID desde 08/10 03h, sem o limite de 5 linhas. Sinal real e grande na espionagem: zap-radar 10 → 26 (12 na Payt) e stalkeia-ai 15 → 28. treino-trinca 41 → 50 com a Biblioteca caindo pela terceira vez (~230 → ~210 → ~160); app-do-paizao 10 → 15 com plano anual de R$ 289,99. Onze estreias, todas com…"
+   "leitura": "Primeira rodada com a lista completa do RA: a API de busca do proprio site devolveu ~650 reclamacoes de 11 gateways com ID desde 08/10 03h, sem o limite de 5 linhas. Sinal real e grande na espionagem: zap-radar 10 → 26 (12 na Payt) e stalkeia-ai 15 → 28. treino-trinca 41 → 50 com a Biblioteca caindo pela terceira vez (~230 → ~210 → ~160); app-do-paizao 10 → 15 com plano anual de R$ 289,99. Dez estreias, todas com 3+…"
   },
   {
    "arquivo": "Radar/2026-10-08.md",
@@ -13942,7 +13939,6 @@
    "cura-da-alma-devocional"
   ],
   "status_vencido": [
-   "100-modelos-de-biscoitos-natalinos",
    "120-prompts-ultra-realista",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
@@ -13957,7 +13953,6 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "autismo-para-pais-lacerda",
-   "beto-ia",
    "bolos-caseirinhos-saudaveis",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
@@ -13974,7 +13969,6 @@
    "desafio-hiit-dance",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
-   "dieta-das-3-fases",
    "do-rabisco-a-letra-bonita",
    "fluency-english",
    "forro-do-zero-pe-descalco",
@@ -14051,8 +14045,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "2c6f97714c90cb4b",
-  "atualizado_em": "2026-10-11T23:07:11-03:00",
+  "hash": "9c9cfd674ffa8bf7",
+  "atualizado_em": "2026-10-11T23:08:10-03:00",
   "ofertas": 203,
   "angulos": 25,
   "observacoes": 383,
