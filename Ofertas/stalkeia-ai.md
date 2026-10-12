@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 15
+ra_reclamacoes: 28
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-10
@@ -189,3 +189,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 3 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, Stalkea APP. 3 reclamações novas publicadas hoje (10/10) só na primeira página da PerfectPay — oferta com o maior volume sustentado do radar (134+ menções no histórico do vault).
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do-app-stalkeia_n4cG4M9Agu_uGags/
+
+## Rodada 2026-10-11
+
+28 mencao(oes) nesta varredura (gateway PerfectPay). 13 reclamacoes com ID novo de 08 a 11/10, todas acima de 261105725: 261382501, 261382373, 261347677, 261293029, 261292483, 261292285, 261288369, 261253637 ('Acesso Completo 2.0'), 261204241, 261147273 (stalkeia.website), 261144399, 261114367 (taxas extras para liberar) e 261110827. Maior volume da nota desde a estreia.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (13 IDs de 261110827 a 261382501)

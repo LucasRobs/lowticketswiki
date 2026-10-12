@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: perfectpay
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=AUKS%20bot&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 4
 s_saturacao: 3
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-27
-visto_ultimo: 2026-08-29
-rodadas_vista: 3
+visto_ultimo: 2026-10-11
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/auks-bot"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
-ra_primeira_reclamacao: 2026-08-27
-ra_checado: 2026-08-29
+ra_primeira_reclamacao: "2026-08-27"
+ra_checado: 2026-10-11
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -61,3 +61,9 @@ A escada VIP + BOT e a mesma anatomia de degrau que o vault ja cataloga em [[low
 **Vale como leitura de mecanica, nao como candidata.**
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/reembolso-do-auks-vip_aMKkycg16hzPqlS4/
+
+## Rodada 2026-10-11
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo: 261376847 ('produto da Auks Company', propaganda enganosa). Primeira mencao desde 29/08.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261376847)

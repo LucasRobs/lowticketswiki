@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/loopyz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-10
@@ -138,3 +138,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancel
 1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta de lives/engajamento, entrega via 'Cakto Members'. Vendedor mascarado no RA. Ja registrado no vault (slug loopyz); reaparece em dia distinto.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/
+
+## Rodada 2026-10-11
+
+3 mencao(oes) nesta varredura (gateway Cakto). 2 reclamacoes com ID novo na Cakto (261213595 e 261161015, reembolso negado dentro do prazo). Primeira mencao desde 21/08.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261213595, 261161015)

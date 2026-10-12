@@ -25,7 +25,9 @@
   "modelo": [
    "direct"
   ],
-  "formato_entrega": [],
+  "formato_entrega": [
+   "app"
+  ],
   "tem_recorrencia": false,
   "s_ticket": 0,
   "s_lucro": 2,
@@ -45,7 +47,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 11,
   "ra_plataformas": [
    "payt"
   ],
@@ -71,7 +73,7 @@
    "payt"
   ]
  },
- "corpo": "# ShopMiner\n\n## Angulo\nFerramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-pois-o-aplicativo-nao-cumpre-o-prometido_fPPuZWKCyL9FUzp3/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Payt). Ferramenta/app vendida via Payt, aplicativo nao cumpriu o prometido. Nome de produto incomum nesse gateway - Payt costuma ser overflow de operacoes que saem de outros gateways, vale checar se roda tambem em PerfectPay/Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-pois-o-aplicativo-nao-cumpre-o-prometido_fPPuZWKCyL9FUzp3/\n",
+ "corpo": "# ShopMiner\n\n## Angulo\nFerramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.\n\nApp que 'minera' produtos de e-commerce e gera imagens e videos deles, vendido em live com plano vitalicio de R$ 297 (261213933). 11 reclamacoes na Payt em 08-11/10 (261378247 a 261112515), quase todas 'nao gera videos / nao funciona'. Nao aparece na Biblioteca pelo nome: o canal e a live.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-pois-o-aplicativo-nao-cumpre-o-prometido_fPPuZWKCyL9FUzp3/\n\n- **Confirmado:** existencia, 11 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261378247, 261371209, 261356113, 261303597, 261293905, 261248881, 261213933, 261148849, 261148545, 261134853, 261112515)\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Payt). Ferramenta/app vendida via Payt, aplicativo nao cumpriu o prometido. Nome de produto incomum nesse gateway - Payt costuma ser overflow de operacoes que saem de outros gateways, vale checar se roda tambem em PerfectPay/Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-pois-o-aplicativo-nao-cumpre-o-prometido_fPPuZWKCyL9FUzp3/\n",
  "observacoes": [
   {
    "data": "2026-10-03",
@@ -96,9 +98,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Ferramenta/app vendida via Payt, aplicativo nao cumpriu o prometido. Nome de produto incomum nesse gateway - Payt costuma ser overflow de operacoes que saem de outros gateways, vale checar se roda tambem em PerfectPay/Cakto."
+  },
+  {
+   "data": "2026-10-11",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 11,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 5,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira vez vista. App que 'minera' produtos de e-commerce e gera imagens e videos deles, vendido em live com plano vitalicio de R$ 297 (261213933). 11 reclamacoes na Payt em 08-11/10 (261378247 a 261112515), quase todas 'nao gera videos / nao funciona'. Nao aparece na Biblioteca pelo nome: o canal e a live."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-11.md",
+   "data": "2026-10-11",
+   "titulo": "Radar 2026-10-11"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-05 -- 1714.md",

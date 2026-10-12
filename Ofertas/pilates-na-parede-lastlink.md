@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-08
-rodadas_vista: 1
+visto_ultimo: 2026-10-11
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/pilates-na-parede-lastlink"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 8
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-11
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-11
+
+8 mencao(oes) nesta varredura (gateway Lastlink). 5 reclamacoes com ID novo de 08 a 11/10: 261367533 ('desafio de pilates na parede', R$ 27 no Pix, recebeu so fotos), 261253781 (anuncio no Instagram prometia videos), 261218941, 261209591 (LP desafiopilates.com/q/simple, quiz, campanha 'PreEscala') e 261160501. Funil de quiz + desafio de 21 dias, mesmo gateway do Trinca.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261367533, 261253781, 261218941, 261209591, 261160501)

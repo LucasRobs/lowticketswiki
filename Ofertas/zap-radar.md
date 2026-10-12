@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 26
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-10
@@ -191,3 +191,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 1 mencao(oes) nesta varredura (gateway Payt). App de rastreamento/busca no WhatsApp; reclamante nao conseguiu abrir o app apos a compra, pede estorno por propaganda enganosa. Ja registrado no vault.
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+
+## Rodada 2026-10-11
+
+26 mencao(oes) nesta varredura (gateway Payt). 16 reclamacoes com ID novo de 08 a 11/10: 12 na Payt (261365841 R$ 137, 261361005 R$ 97 + cobranca para abrir as mensagens, 261345285, 261336883, 261329737, 261290247, 261263781, 261254081, 261228271, 261226587, 261223171, 261191197 com varias cobrancas no cartao) e 4 na PerfectPay (261240537 'Zap Radar / WhatsSpy', 261202867, 261202463, 261107973). O volume migrou para a Payt. Biblioteca 'zap radar': nenhum anuncio da operacao (so ruido de outros anunciantes).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (12 IDs) + perfectpay (4 IDs)

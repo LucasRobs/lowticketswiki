@@ -36,7 +36,7 @@ ativos_pasta:
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: true
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-08-17"
 ra_checado: 2026-10-09
@@ -114,3 +114,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 1 mencao(oes) nesta varredura (gateway PerfectPay). App/site de 'renda via Pix' que some após o pagamento (reclamante: pagou R$20, site desapareceu). Reaparece no radar após ~7 semanas de silêncio (última vez 24/08) — pode ser nova onda de verba na mesma oferta ou clone usando o mesmo nome.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/pix-e-o-site-desapareceu_hQOaX2EiqBj3UQHc/
+
+## Rodada 2026-10-11
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo: 261189277 (R$ 19,90, sem acesso, oferecem outros sites que tambem precisam ser pagos).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261189277)
