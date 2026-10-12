@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-10-12.md",
    "data": "2026-10-12",
    "titulo": "Radar 2026-10-12",
-   "ofertas_vistas": 5,
-   "novas": 3,
+   "ofertas_vistas": 11,
+   "novas": 9,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -17,8 +17,8 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-12\n\n## Novas\n\n- [[escola-de-personagem]] — nao-classificado — desconhecido — Curso vendido como 'Escola de Personagem'; comprador relata modulos e aulas bloqueados apos a compra, sem acesso ao conteudo. Sem mais…\n- [[orlando-estrategico]] — ganhar-dinheiro — desconhecido — Nome ('Orlando Estrategico') citado dentro do corpo de uma reclamacao de reembolso recusado na Kiwify ('seu reembolso falhou'); pode ser…\n- [[angulo-nome-nao-capturado-ebook-de-curriculo]] — emprego-carreira — desconhecido — Angulo novo no radar: ebook/modelo de currículo vendido como infoproduto na Hotmart. Reclamacao e so de reembolso, sem nome de marca…\n\n## Movimento\n\n- [[fornece-up]] — ra_reclamacoes atualizado para 8\n- [[gold-card-tv]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-12 -- 0352]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 5 achado(s) - Rodada parada: 9 reclamacoes novas no total, GoldcardTv (Braip) e o unico achado com repeticao em dias diferentes.\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-12\n\n## Novas\n\n- [[escola-de-personagem]] — nao-classificado — desconhecido — Curso vendido como 'Escola de Personagem'; comprador relata modulos e aulas bloqueados apos a compra, sem acesso ao conteudo. Sem mais…\n- [[orlando-estrategico]] — ganhar-dinheiro — desconhecido — Nome ('Orlando Estrategico') citado dentro do corpo de uma reclamacao de reembolso recusado na Kiwify ('seu reembolso falhou'); pode ser…\n- [[angulo-nome-nao-capturado-ebook-de-curriculo]] — emprego-carreira — desconhecido — Angulo novo no radar: ebook/modelo de currículo vendido como infoproduto na Hotmart. Reclamacao e so de reembolso, sem nome de marca…\n- [[angulo-esquema-de-avaliacao-de-produtos-renda-extra]] — ganhar-dinheiro — nao informado — Anuncio em redes sociais promete renda extra avaliando produtos/empresas; comprador paga e nao recebe acesso nem produto. Angulo classico…\n- [[pva-primeira-venda-automatica]] — ganhar-dinheiro — nao informado (order bump 3000 Produtos Ocultos) — Infoproduto de metodo de vendas automaticas com order bump PVA-OB-ORG '3000 Produtos Ocultos'. Possivel mesma familia do 'Primeira Venda em…\n- [[angulo-ebook-modelo-de-curriculo]] — infoproduto-generico — nao informado — Reembolso pedido para ebook/modelo de currículo vendido na Hotmart; sem nome de marca ou produtor citado no corpo.\n- [[protocolo-zero-barriga-40-club-40-sem-barriga]] — emagrecimento — R$ 297 (produto) / R$ 497-616,82 (upsell cobrado) — Protocolo de emagrecimento para 40+ por R$ 297. Cliente foi cobrado automaticamente por produto relacionado (CLUB 40 SEM BARRIGA) de R$…\n- [[vonixx-curso-de-estofamento-automotivo]] — cursos-de-oficio — nao informado — Curso de estofamento/tapecaria automotiva vendido pela marca Vonixx (fabricante conhecido de produtos de limpeza automotiva). Duas…\n- [[angulo-suplemento-nao-identificado]] — saude-estetica-fitness — nao informado — Reclamacao generica de suplemento nao recebido e falta de resposta da Braip; sem nome de produto no corpo.\n\n## Movimento\n\n- [[fornece-up]] — ra_reclamacoes atualizado para 8\n- [[gold-card-tv]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-12 -- 0352]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 5 achado(s) - Rodada parada: 9 reclamacoes novas no total, GoldcardTv (Braip) e o unico achado com repeticao em dias diferentes.\n- [[2026-10-12 -- 0400]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 7 achado(s) - passada curta -- Fornece Up segue quente na PerfectPay, Vonixx (curso automotivo) estreia na Braip, achado de upsell forcado na Kiwify…\n"
   },
   {
    "arquivo": "Radar/2026-10-11.md",
@@ -634,6 +634,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-12 -- 0400.md",
+   "data": "2026-10-12",
+   "hora": "04:00",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 10,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-12]].\n\n# Rodada — 12/10/2026 · 04:00 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, braip · **Páginas:** 10 · **Coleta:** parcial · **Achados:** 7\n\n## Quentes\n- Fornece Up -- PerfectPay · recorrente (debutou ontem 23:05 com 8 IDs, +1 hoje); assinatura de fornecedores R$ 289-315 em 12x\n\n## Mornas\n- Vonixx (curso de estofamento automotivo) -- Braip · 2 reclamacoes em 24h, grafias Vonixx/vonix/Onix\n\n## Frias / angulos\n- Esquema de avaliacao de produtos (renda extra) -- PerfectPay\n- PVA - Primeira Venda Automatica + order bump '3000 Produtos Ocultos' -- Cakto\n- Ebook/modelo de curriculo -- Hotmart\n- PROTOCOLO ZERO BARRIGA 40+ / CLUB 40 SEM BARRIGA -- Kiwify, upsell cobrado sem compra (R$616,82)\n- Suplemento nao identificado -- Braip\n\nLeitura: a paginacao classica por ?pagina=N do RA continua quebrada em todos os gateways testados (so a pagina 1 renderiza). A API iosearch/companyComplains funcionou bem para PerfectPay (offset 0 e 10 consistentes, cobrindo de 11/10 15:28 a 12/10 02:26) mas devolveu lotes antigos (22/09) em offsets >0 para Cakto e Hotmart, e tambem devolveu so dados de 22/09 no offset 0 para Kiwify -- usei a listagem normal (pagina 1, 5 itens) para Kiwify e Braip como alternativa. Profundidade efetiva ficou bem abaixo do minimo de 15 paginas pedido; a janela de ~4h45 desde a ultima passada (23:05 de ontem) foi coberta por completo mesmo assim, exceto Kiwify e Braip, limitados aos 5 itens mais recentes de cada.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-12 -- 0352.md",
    "data": "2026-10-12",

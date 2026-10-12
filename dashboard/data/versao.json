@@ -1,15 +1,15 @@
 {
  "esquema": 1,
- "hash": "df3fbb068afa2dd2",
- "atualizado_em": "2026-10-12T03:53:13-03:00",
- "ofertas": 328,
- "angulos": 73,
- "observacoes": 748,
+ "hash": "12affc0a0cccc28b",
+ "atualizado_em": "2026-10-12T04:02:12-03:00",
+ "ofertas": 331,
+ "angulos": 76,
+ "observacoes": 754,
  "ultima_rodada": "2026-10-12",
  "ultima_passada": {
   "data": "2026-10-12",
-  "hora": "03:52",
-  "coleta": "ok",
+  "hora": "04:00",
+  "coleta": "parcial",
   "gateways": [
    "perfectpay",
    "cakto-pay",

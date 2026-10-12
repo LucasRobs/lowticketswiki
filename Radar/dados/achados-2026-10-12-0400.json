@@ -1,0 +1,104 @@
+{
+  "data_varredura": "2026-10-12",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 4},
+    {"nome": "Cakto", "slug": "cakto-pay", "paginas_varridas": 2},
+    {"nome": "Kiwify", "slug": "kiwify", "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "paginas_varridas": 2},
+    {"nome": "Braip", "slug": "braip", "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Fornece Up",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289,99-315,54 em 12x",
+      "termo_busca": "Fornece Up",
+      "descricao": "Assinatura de plataforma de fornecedores para revenda, parcelada em 12x. Debutou na rodada de ontem (23:05) com 8 reclamacoes na PerfectPay; hoje mais 1 pedido de cancelamento e reembolso integral de R$ 315,54 invocando direito de arrependimento. Recorrente em dias diferentes.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-cancelar-minha-compra-e-ser-reembolsado-em-r-31554_liRRdrRGZL9uTLus/"
+    },
+    {
+      "produto": "Esquema de avaliacao de produtos (renda extra)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "avaliar produtos ganhar dinheiro",
+      "descricao": "Anuncio em redes sociais promete renda extra avaliando produtos/empresas; comprador paga e nao recebe acesso nem produto. Angulo classico de renda passiva falsa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-meu-produto-apos-cair-em-editado-pelo-reclame-aqui-de-avaliacao_GJiLlBrbJUXnlofL/"
+    },
+    {
+      "produto": "PVA - Primeira Venda Automatica",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado (order bump 3000 Produtos Ocultos)",
+      "termo_busca": "Primeira Venda Automatica",
+      "descricao": "Infoproduto de metodo de vendas automaticas com order bump PVA-OB-ORG '3000 Produtos Ocultos'. Possivel mesma familia do 'Primeira Venda em 24h 4.0' visto em rodadas anteriores na Cakto. Reembolso negado pela plataforma, cliente redirecionado ao produtor sem resposta.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-do-pva-e-3000-produtos-ocultos-dentro-do-prazo_iS3cCPv29tMfDtPQ/"
+    },
+    {
+      "produto": "Ebook/modelo de currículo",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "infoproduto-generico",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "modelo de currículo digital",
+      "descricao": "Reembolso pedido para ebook/modelo de currículo vendido na Hotmart; sem nome de marca ou produtor citado no corpo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/reembolso-pra-ja_UH-rABiirzYdkEIz/"
+    },
+    {
+      "produto": "PROTOCOLO ZERO BARRIGA 40+ / CLUB 40 SEM BARRIGA",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "emagrecimento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 297 (produto) / R$ 497-616,82 (upsell cobrado)",
+      "termo_busca": "Zero Barriga 40",
+      "descricao": "Protocolo de emagrecimento para 40+ por R$ 297. Cliente foi cobrado automaticamente por produto relacionado (CLUB 40 SEM BARRIGA) de R$ 616,82 sem ter comprado -- oferta anunciada era R$ 497. Mecanica de cross-sell/cobranca adicional agressiva.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/fui-cobrado-indevidamente-por-um-curso-que-nao-comprei_NrmR2fomdyvjlZgJ/"
+    },
+    {
+      "produto": "Vonixx - curso de estofamento automotivo",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "cursos-de-oficio",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Vonixx curso estofados",
+      "descricao": "Curso de estofamento/tapecaria automotiva vendido pela marca Vonixx (fabricante conhecido de produtos de limpeza automotiva). Duas reclamacoes nas ultimas 24h (grafias Vonixx/vonix/Onix) sobre conteudo diferente do anunciado e demora no reembolso dentro do prazo de 7 dias.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-fui-reembolsado-pelo-curso-da-vonixx-dentro-do-prazo_N4X7wUU0F-gcVEZz/"
+    },
+    {
+      "produto": "Suplemento nao identificado",
+      "tipo": "angulo",
+      "gateway": "Braip",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "suplemento nutra reembolso",
+      "descricao": "Reclamacao generica de suplemento nao recebido e falta de resposta da Braip; sem nome de produto no corpo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-meu-suplemento-e-nao-tenho-resposta-da-braip_dY1DfYmQ-7AU5zwN/"
+    }
+  ],
+  "passada": {
+    "hora": "04:00",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 10,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- Fornece Up -- PerfectPay · recorrente (debutou ontem 23:05 com 8 IDs, +1 hoje); assinatura de fornecedores R$ 289-315 em 12x\n\n## Mornas\n- Vonixx (curso de estofamento automotivo) -- Braip · 2 reclamacoes em 24h, grafias Vonixx/vonix/Onix\n\n## Frias / angulos\n- Esquema de avaliacao de produtos (renda extra) -- PerfectPay\n- PVA - Primeira Venda Automatica + order bump '3000 Produtos Ocultos' -- Cakto\n- Ebook/modelo de curriculo -- Hotmart\n- PROTOCOLO ZERO BARRIGA 40+ / CLUB 40 SEM BARRIGA -- Kiwify, upsell cobrado sem compra (R$616,82)\n- Suplemento nao identificado -- Braip\n\nLeitura: a paginacao classica por ?pagina=N do RA continua quebrada em todos os gateways testados (so a pagina 1 renderiza). A API iosearch/companyComplains funcionou bem para PerfectPay (offset 0 e 10 consistentes, cobrindo de 11/10 15:28 a 12/10 02:26) mas devolveu lotes antigos (22/09) em offsets >0 para Cakto e Hotmart, e tambem devolveu so dados de 22/09 no offset 0 para Kiwify -- usei a listagem normal (pagina 1, 5 itens) para Kiwify e Braip como alternativa. Profundidade efetiva ficou bem abaixo do minimo de 15 paginas pedido; a janela de ~4h45 desde a ultima passada (23:05 de ontem) foi coberta por completo mesmo assim, exceto Kiwify e Braip, limitados aos 5 itens mais recentes de cada.",
+    "resumo": "passada curta -- Fornece Up segue quente na PerfectPay, Vonixx (curso automotivo) estreia na Braip, achado de upsell forcado na Kiwify (Zero Barriga 40+); coleta parcial por quebra de paginacao no RA"
+  }
+}

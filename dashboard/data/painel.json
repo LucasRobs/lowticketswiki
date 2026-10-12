@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 328,
-  "angulos": 73,
-  "observacoes": 748,
+  "ofertas": 331,
+  "angulos": 76,
+  "observacoes": 754,
   "dias_radar": 34,
-  "passadas": 81,
+  "passadas": 82,
   "analises": 12,
   "ultima_rodada": "2026-10-12"
  },
@@ -2861,6 +2861,58 @@
    ]
   },
   {
+   "slug": "angulo-ebook-modelo-de-curriculo",
+   "nome": "Ebook/modelo de currículo",
+   "classe": "angulo",
+   "nicho": "infoproduto-generico",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=modelo%20de%20currículo%20digital&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Reembolso pedido para ebook/modelo de currículo vendido na Hotmart; sem nome de marca ou produtor citado no corpo.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
    "nome": "Ebook/produto digital com erro de acesso (sem nome)",
    "classe": "angulo",
@@ -2965,6 +3017,58 @@
    "ultima_obs": "2026-08-16",
    "n_citacoes": 5,
    "resumo": "Ferramenta de orcamento para eletricista autonomo, empacotada com materiais imprimiveis. Vende utilidade profissional, nao curso.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-esquema-de-avaliacao-de-produtos-renda-extra",
+   "nome": "Esquema de avaliacao de produtos (renda extra)",
+   "classe": "angulo",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=avaliar%20produtos%20ganhar%20dinheiro&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Anuncio em redes sociais promete renda extra avaliando produtos/empresas; comprador paga e nao recebe acesso nem produto. Angulo classico de renda passiva falsa.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -4657,6 +4761,58 @@
    "ultima_obs": "2026-08-27",
    "n_citacoes": 5,
    "resumo": "Acesso vitalicio a catalogo de novelas turcas, doramas, mini dramas e desenhos classicos. Ticket de R$10 a R$20.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-suplemento-nao-identificado",
+   "nome": "Suplemento nao identificado",
+   "classe": "angulo",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=suplemento%20nutra%20reembolso&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Reclamacao generica de suplemento nao recebido e falta de resposta da Braip; sem nome de produto no corpo.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -18979,6 +19135,61 @@
    ]
   },
   {
+   "slug": "protocolo-zero-barriga-40-club-40-sem-barriga",
+   "nome": "PROTOCOLO ZERO BARRIGA 40+ / CLUB 40 SEM BARRIGA",
+   "classe": "oferta",
+   "nicho": "emagrecimento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 297,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 456.91,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Zero%20Barriga%2040&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Protocolo de emagrecimento para 40+ por R$ 297. Cliente foi cobrado automaticamente por produto relacionado (CLUB 40 SEM BARRIGA) de R$ 616,82 sem ter comprado -- oferta anunciada era R$ 497. Mecanica de cross-sell/cobranca adicional agressiva.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "publion",
    "nome": "PubliOn",
    "classe": "oferta",
@@ -19030,6 +19241,61 @@
    "n_citacoes": 3,
    "resumo": "Plataforma de tarefas com saldo minimo para saque. R$62,80 de entrada.",
    "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "pva-primeira-venda-automatica",
+   "nome": "PVA - Primeira Venda Automatica",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 3000,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 3000,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Primeira%20Venda%20Automatica&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Infoproduto de metodo de vendas automaticas com order bump PVA-OB-ORG '3000 Produtos Ocultos'. Possivel mesma familia do 'Primeira Venda em 24h 4.0' visto em rodadas anteriores na Cakto. Reembolso negado pela plataforma, cliente redirecionado ao produtor sem…",
+   "flags": [
+    "score-provisorio",
     "sem-longevidade",
     "sem-lp"
    ]
@@ -21827,6 +22093,61 @@
    ]
   },
   {
+   "slug": "vonixx-curso-de-estofamento-automotivo",
+   "nome": "Vonixx - curso de estofamento automotivo",
+   "classe": "oferta",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "braip",
+   "gateways": [
+    "braip"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Vonixx%20curso%20estofados&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Curso de estofamento/tapecaria automotiva vendido pela marca Vonixx (fabricante conhecido de produtos de limpeza automotiva). Duas reclamacoes nas ultimas 24h (grafias Vonixx/vonix/Onix) sobre conteudo diferente do anunciado e demora no reembolso dentro do…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "white-driver",
    "nome": "White Driver",
    "classe": "oferta",
@@ -22220,8 +22541,8 @@
    "arquivo": "Radar/2026-10-12.md",
    "data": "2026-10-12",
    "titulo": "Radar 2026-10-12",
-   "ofertas_vistas": 5,
-   "novas": 3,
+   "ofertas_vistas": 11,
+   "novas": 9,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -22232,7 +22553,7 @@
     "perfectpay"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -22849,6 +23170,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-12 -- 0400.md",
+   "data": "2026-10-12",
+   "hora": "04:00",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 10,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 10 · Coleta: parcial · Achados: 7 ## Quentes Fornece Up -- PerfectPay · recorrente (debutou ontem 23:05 com 8 IDs, +1 hoje); assinatura de fornecedores R$ 289-315 em 12x ##…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-12 -- 0352.md",
    "data": "2026-10-12",
@@ -24640,8 +24978,8 @@
     "angulo": 0
    },
    "2026-10-12": {
-    "oferta": 2,
-    "angulo": 1
+    "oferta": 5,
+    "angulo": 4
    }
   },
   "observacoes": {
@@ -24677,7 +25015,7 @@
    "2026-10-09": 12,
    "2026-10-10": 37,
    "2026-10-11": 21,
-   "2026-10-12": 5
+   "2026-10-12": 11
   }
  },
  "analises": [
@@ -25062,61 +25400,79 @@
     "campo": "s_lucro",
     "msg": "s_lucro 8 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
     "codigo": "regra-s_lucro"
+   },
+   {
+    "arquivo": "Ofertas/vonixx-curso-de-estofamento-automotivo.md",
+    "campo": "checkout",
+    "msg": "checkout 'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/vonixx-curso-de-estofamento-automotivo.md",
+    "campo": "gateways_detectados",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/vonixx-curso-de-estofamento-automotivo.md",
+    "campo": "ra_plataformas",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
    }
   ],
   "resumo_avisos": {
    "regra-s_lucro": 13,
    "status-vencido": 1,
-   "vocabulario": 38
+   "vocabulario": 41
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 328
+    "total": 331
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 328
+    "total": 331
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 328
+    "total": 331
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 299,
-    "total": 328
+    "preenchidas": 302,
+    "total": 331
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 170,
-    "total": 328
+    "preenchidas": 172,
+    "total": 331
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 328
+    "total": 331
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 328
+    "total": 331
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 271,
-    "total": 328
+    "preenchidas": 274,
+    "total": 331
    }
   ],
   "fila_enriquecimento": [
@@ -25300,7 +25656,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1149
+   "canonico": 1161
   }
  },
  "vocabulario": {
@@ -25347,16 +25703,16 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "df3fbb068afa2dd2",
-  "atualizado_em": "2026-10-12T03:53:13-03:00",
-  "ofertas": 328,
-  "angulos": 73,
-  "observacoes": 748,
+  "hash": "12affc0a0cccc28b",
+  "atualizado_em": "2026-10-12T04:02:12-03:00",
+  "ofertas": 331,
+  "angulos": 76,
+  "observacoes": 754,
   "ultima_rodada": "2026-10-12",
   "ultima_passada": {
    "data": "2026-10-12",
-   "hora": "03:52",
-   "coleta": "ok",
+   "hora": "04:00",
+   "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
