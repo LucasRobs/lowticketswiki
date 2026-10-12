@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-12",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "braip"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-12",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "braip"
   ]
  },
- "corpo": "# Gold Card TV\n\n## Angulo\nServiço de streaming/IPTV, falta de suporte e atraso no reembolso.\n\n## Funil\nanuncio -> pagina -> checkout braip -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Braip). Outro servico de acesso/streaming de TV vendido via Braip, mesmo perfil de queixa do POPTV (falta de suporte, atraso no reembolso).\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n",
+ "corpo": "# Gold Card TV\n\n## Angulo\nServiço de streaming/IPTV, falta de suporte e atraso no reembolso.\n\n## Funil\nanuncio -> pagina -> checkout braip -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Braip). Outro servico de acesso/streaming de TV vendido via Braip, mesmo perfil de queixa do POPTV (falta de suporte, atraso no reembolso).\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Rodada 2026-10-12\n\n2 mencao(oes) nesta varredura (gateway Braip). App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso.\n\nEvidencia: https://www.reclameaqui.com.br/braip/nao-recebi-estorno-do-goldcardtv-e-ja-se-passaram-8-dias-uteis_W1SlFHKR1Oa6w-s8/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -96,9 +96,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Outro servico de acesso/streaming de TV vendido via Braip, mesmo perfil de queixa do POPTV (falta de suporte, atraso no reembolso)."
+  },
+  {
+   "data": "2026-10-12",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-12.md",
+   "data": "2026-10-12",
+   "titulo": "Radar 2026-10-12"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",

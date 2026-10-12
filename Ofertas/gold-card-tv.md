@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-12
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/gold-card-tv"
 gateways_detectados: [braip]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [braip]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-12
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Braip). Outro servico de acesso/streaming de TV vendido via Braip, mesmo perfil de queixa do POPTV (falta de suporte, atraso no reembolso).
 
 Evidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/
+
+## Rodada 2026-10-12
+
+2 mencao(oes) nesta varredura (gateway Braip). App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso.
+
+Evidencia: https://www.reclameaqui.com.br/braip/nao-recebi-estorno-do-goldcardtv-e-ja-se-passaram-8-dias-uteis_W1SlFHKR1Oa6w-s8/

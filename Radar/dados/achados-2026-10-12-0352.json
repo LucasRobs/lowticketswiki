@@ -1,0 +1,80 @@
+{
+  "data_varredura": "2026-10-12",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4022, "paginas_varridas": 4},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4843, "paginas_varridas": 4},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 3960, "paginas_varridas": 4},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5636, "paginas_varridas": 4},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 490, "paginas_varridas": 4}
+  ],
+  "achados": [
+    {
+      "produto": "Fornece Up",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 315,54 (parcelado em 12x)",
+      "termo_busca": "Fornece Up",
+      "descricao": "Plataforma de fornecedores por assinatura parcelada (ja mapeada como estreia na rodada anterior, 8 mencoes). Nova reclamacao no mesmo padrao: cancelamento/reembolso dentro do prazo de 7 dias, produtor sem resposta. Continua ativa poucas horas depois da ultima passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-cancelar-minha-compra-e-ser-reembolsado-em-r-31554_liRRdrRGZL9uTLus/"
+    },
+    {
+      "produto": "GoldcardTv",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "desconhecido (pago via Pix)",
+      "termo_busca": "Goldcard",
+      "descricao": "App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-estorno-do-goldcardtv-e-ja-se-passaram-8-dias-uteis_W1SlFHKR1Oa6w-s8/"
+    },
+    {
+      "produto": "Escola de Personagem",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "nao-classificado",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Escola de Personagem",
+      "descricao": "Curso vendido como 'Escola de Personagem'; comprador relata modulos e aulas bloqueados apos a compra, sem acesso ao conteudo. Sem mais contexto sobre o tema do curso (personagem/desenho/dublagem nao confirmado).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-escola-de-personagem-e-quero-reembolso_M5yT5_VoE5O4qvi0/"
+    },
+    {
+      "produto": "Orlando Estrategico",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "Orlando Estrategico",
+      "descricao": "Nome ('Orlando Estrategico') citado dentro do corpo de uma reclamacao de reembolso recusado na Kiwify ('seu reembolso falhou'); pode ser nome do curso ou do produtor -- precisa confirmar na proxima passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/quero-meu-dinheiro_rWijIxWfKf6XcUd6/"
+    },
+    {
+      "produto": "(nome nao capturado) -- ebook de currículo",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "emprego-carreira",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "desconhecido",
+      "termo_busca": "ebook de currículo",
+      "descricao": "Angulo novo no radar: ebook/modelo de currículo vendido como infoproduto na Hotmart. Reclamacao e so de reembolso, sem nome de marca. Primeira vez que o nicho de emprego/carreira aparece nesta varredura.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/reembolso-pra-ja_UH-rABiirzYdkEIz/"
+    }
+  ],
+  "passada": {
+    "hora": "03:52",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 4,
+    "coleta": "ok",
+    "relatorio": "## Quentes\n- [[fornece-up]] -- PerfectPay -- continua ativa horas depois da rodada anterior, mesmo padrao de reembolso\n- [[goldcardtv]] -- Braip -- GoldcardTv, streaming/IPTV, 2 mencoes em dias diferentes (01/10 e 09/10)\n\n## Mornas\n(nenhuma)\n\n## Frias (novas)\n- [[escola-de-personagem]] -- Kiwify -- curso com modulos bloqueados pos-compra\n- [[orlando-estrategico]] -- Kiwify -- nome citado em reclamacao de reembolso recusado, origem (curso ou produtor) incerta\n- angulo ebook de curriculo -- Hotmart -- primeiro sinal do nicho emprego-carreira\n\nLeitura: buraco de 4h37 desde a ultima passada (23:05 de 11/10) nos 4 gateways fixos, cobertos via API de busca do RA (iosearch, blocos de 10, buscada do navegador interno -- o WebFetch direto na API devolveu cache desatualizado para Kiwify/Cakto/Braip, so a chamada feita de dentro da aba teve dado fresco). Volume baixissimo nessa janela curta: so 6 reclamacoes novas nos 4 fixos e 3 na Braip (gateway rotativo, parada desde 09/10 18h04, a mais atrasada do grupo). Nenhuma bateu nas palavras-chave prioritarias (propaganda enganosa, produto diferente, nao funciona, cobranca adicional); a maioria e pedido de reembolso generico sem nome.",
+    "resumo": "Rodada parada: 9 reclamacoes novas no total, GoldcardTv (Braip) e o unico achado com repeticao em dias diferentes."
+  }
+}

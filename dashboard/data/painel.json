@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 326,
-  "angulos": 72,
-  "observacoes": 743,
-  "dias_radar": 33,
-  "passadas": 80,
+  "ofertas": 328,
+  "angulos": 73,
+  "observacoes": 748,
+  "dias_radar": 34,
+  "passadas": 81,
   "analises": 12,
-  "ultima_rodada": "2026-10-11"
+  "ultima_rodada": "2026-10-12"
  },
  "ofertas": [
   {
@@ -3471,6 +3471,58 @@
    ]
   },
   {
+   "slug": "angulo-nome-nao-capturado-ebook-de-curriculo",
+   "nome": "(nome nao capturado) -- ebook de currículo",
+   "classe": "angulo",
+   "nicho": "emprego-carreira",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ebook%20de%20currículo&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 1,
+   "resumo": "Angulo novo no radar: ebook/modelo de currículo vendido como infoproduto na Hotmart. Reclamacao e so de reembolso, sem nome de marca. Primeira vez que o nicho de emprego/carreira aparece nesta varredura.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
    "nome": "Novo App Avaliador (ganhos com criptomoedas via IA)",
    "classe": "angulo",
@@ -5049,7 +5101,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -6598,7 +6651,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -10600,6 +10654,61 @@
    ]
   },
   {
+   "slug": "escola-de-personagem",
+   "nome": "Escola de Personagem",
+   "classe": "oferta",
+   "nicho": "nao-classificado",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Escola%20de%20Personagem&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 2,
+   "resumo": "Curso vendido como 'Escola de Personagem'; comprador relata modulos e aulas bloqueados apos a compra, sem acesso ao conteudo. Sem mais contexto sobre o tema do curso (personagem/desenho/dublagem nao confirmado).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "evoluft-programa-de-exercicios",
    "nome": "Evoluft (programa de exercicios)",
    "classe": "oferta",
@@ -11160,7 +11269,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -11187,21 +11296,21 @@
    "score": 2.15,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-12",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 3,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -11742,21 +11851,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-12",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gold%20Card%20TV&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 3,
    "resumo": "Serviço de streaming/IPTV, falta de suporte e atraso no reembolso.",
    "flags": [
     "score-provisorio",
@@ -13314,7 +13423,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -17537,6 +17647,61 @@
    ]
   },
   {
+   "slug": "orlando-estrategico",
+   "nome": "Orlando Estrategico",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-12",
+   "visto_ultimo": "2026-10-12",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-12",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Orlando%20Estrategico&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-12",
+   "n_citacoes": 2,
+   "resumo": "Nome ('Orlando Estrategico') citado dentro do corpo de uma reclamacao de reembolso recusado na Kiwify ('seu reembolso falhou'); pode ser nome do curso ou do produtor -- precisa confirmar na proxima passada.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "pack-produtos-validados-sistema-billion",
    "nome": "Pack Produtos Validados Sistema Billion",
    "classe": "oferta",
@@ -19090,7 +19255,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -19147,7 +19313,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -20766,7 +20933,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -20876,7 +21044,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -21597,7 +21766,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -22046,6 +22216,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-12.md",
+   "data": "2026-10-12",
+   "titulo": "Radar 2026-10-12",
+   "ofertas_vistas": 5,
+   "novas": 3,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-11.md",
    "data": "2026-10-11",
@@ -22660,6 +22849,27 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-12 -- 0352.md",
+   "data": "2026-10-12",
+   "hora": "03:52",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 4,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "escola-de-personagem",
+    "fornece-up",
+    "orlando-estrategico"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 4 · Coleta: ok · Achados: 5 ## Quentes fornece-up -- PerfectPay -- continua ativa horas depois da rodada anterior, mesmo padrao de reembolso goldcardtv -- Braip …"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-11 -- 2305.md",
    "data": "2026-10-11",
@@ -24428,6 +24638,10 @@
    "2026-10-11": {
     "oferta": 9,
     "angulo": 0
+   },
+   "2026-10-12": {
+    "oferta": 2,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -24462,7 +24676,8 @@
    "2026-10-08": 44,
    "2026-10-09": 12,
    "2026-10-10": 37,
-   "2026-10-11": 21
+   "2026-10-11": 21,
+   "2026-10-12": 5
   }
  },
  "analises": [
@@ -24859,49 +25074,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 326
+    "total": 328
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 326
+    "total": 328
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 326
+    "total": 328
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 297,
-    "total": 326
+    "preenchidas": 299,
+    "total": 328
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 170,
-    "total": 326
+    "total": 328
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 326
+    "total": 328
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 326
+    "total": 328
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 269,
-    "total": 326
+    "preenchidas": 271,
+    "total": 328
    }
   ],
   "fila_enriquecimento": [
@@ -24976,6 +25191,7 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
+   "app-direct-line",
    "atlas-das-patologias",
    "aula-magnetica-com-obs",
    "autismo-para-pais-lacerda",
@@ -24983,6 +25199,7 @@
    "brumdance-3em1",
    "cae-course",
    "cantigas-da-bailarina",
+   "cao360",
    "capcut-pro-revenda-de-licenca",
    "captchas-no-google",
    "casinha-dos-sonhos",
@@ -25030,6 +25247,7 @@
    "implementacao-mentor-gabriel-sampaio",
    "indicadores-de-trading",
    "influ-lab",
+   "irryss",
    "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
@@ -25064,20 +25282,25 @@
    "protocolo-3s",
    "protocolo-testosterona-2-0",
    "quadradinhos-da-vovo",
+   "receitas-sem-pensar",
+   "renda-fortuna",
    "rendafini-moldes-para-artesanato",
    "sala-de-jogos-keep-live",
    "shoppro",
    "sistema-de-fornecedores-ocultos-marcelle-martins",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
+   "thermafit-app",
+   "tokscale-ia",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
+   "viva-de-martelinho-de-ouro",
    "viver-de-youtube",
    "youtube-dark-peter",
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1141
+   "canonico": 1149
   }
  },
  "vocabulario": {
@@ -25124,28 +25347,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "ae6cfc1354e8f5ff",
-  "atualizado_em": "2026-10-12T00:12:32-03:00",
-  "ofertas": 326,
-  "angulos": 72,
-  "observacoes": 743,
-  "ultima_rodada": "2026-10-11",
+  "hash": "df3fbb068afa2dd2",
+  "atualizado_em": "2026-10-12T03:53:13-03:00",
+  "ofertas": 328,
+  "angulos": 73,
+  "observacoes": 748,
+  "ultima_rodada": "2026-10-12",
   "ultima_passada": {
-   "data": "2026-10-11",
-   "hora": "23:05",
+   "data": "2026-10-12",
+   "hora": "03:52",
    "coleta": "ok",
    "gateways": [
+    "perfectpay",
+    "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto",
-    "lastlink",
-    "kirvano",
-    "perfectpay",
-    "cakto",
-    "wiapy",
-    "payt",
-    "eduzz",
-    "monetizze"
+    "braip"
    ]
   }
  }
