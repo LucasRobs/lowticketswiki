@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 2
 status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-10-08
-rodadas_vista: 4
+visto_ultimo: 2026-10-11
+rodadas_vista: 5
 dias_no_ar: 6
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: true
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-08-17"
-ra_checado: 2026-10-08
+ra_checado: 2026-10-11
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, escada-de-taxas]
@@ -108,3 +108,9 @@ PerfectPay, mesma reclamacao com a escada 25,90 + 10 + 10. Sem alteracao.
 3 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261093573, 07/10): 'entrei no love pix me pediram um Pix de 20,00 e quando paguei o site sumiu'. Primeira mencao desde 24/08. Volta de esfriando.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261093573)
+
+## Rodada 2026-10-11
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo: 261189277 (R$ 19,90, sem acesso, oferecem outros sites que tambem precisam ser pagos).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261189277)

@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-10-08
+atualizado: 2026-10-11
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,41 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-10-08 (rodada diaria)
+## Leitura atual — 2026-10-11 (rodada diaria)
+
+Passada: [[2026-10-11 -- 2305]] · nota do dia: [[2026-10-11]].
+
+**228 notas · 203 ofertas · 25 ângulos · 10 novas hoje · 21 vistas hoje · status: 67 nova · 40 ativa · 77 esfriando · 44 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Três dias de novo sem passada, mas desta vez nada se perdeu.** É o quarto buraco seguido das passadas 6x/dia: nada em `Radar/rodadas/` entre 08/10 e hoje. A tarefa das 23h30 rodou às 23h05. O que mudou foi o instrumento. A paginação por clique do RA parou de responder hoje (o site migrou para outra pilha e `?pagina=2` continua vazio). No lugar dela, **a API de busca que o próprio site usa** (`iosearch.reclameaqui.com.br/.../companyComplains/10/<offset>?company=<id>`) respondeu do navegador interno com a lista completa: ID, data, título, empresa e o começo do corpo, em blocos de 10, até a data que se quiser. Foram **~650 reclamações de 11 gateways** (Kiwify, Hotmart, Ticto, Lastlink, Kirvano, PerfectPay, Cakto, Wiapy, Payt, Eduzz, Monetizze), cobrindo **tudo desde 08/10 03h**, sem o limite de 5 linhas e sem o buraco de leitura que 08/10 admitiu. Lowify e Hubla ficaram de fora porque o slug da empresa não foi achado. A Biblioteca abriu sem aprovação para três buscas.
+
+**Sinal novo real: sim, e o maior desde que o vault existe.** Pela primeira vez a contagem não é limitada pela janela de leitura, então os números abaixo medem volume e não sorte.
+- [[zap-radar]] teve **16 IDs novos e foi de 10 para 26**. São 12 na Payt e 4 na PerfectPay. O volume **mudou de gateway**: em 08/10 o sinal estava na PerfectPay. Os corpos repetem a mecânica (R$ 97 a R$ 137, depois outra cobrança para abrir as mensagens). Uma reclamação da PerfectPay nomeia "Zap Radar / WhatsSpy", e há mais duas de "Whats Spy" não contadas. Na Biblioteca, "zap radar" não devolve nenhum anúncio da operação. Score **5,00**.
+- [[stalkeia-ai]] teve **13 IDs novos e foi de 15 para 28**, todos na PerfectPay. É a nota com mais reclamações de oferta de frente barata no vault. O `s_lucro: 8` continua sem insumo de longevidade e segue na lista de violações. Score **5,85**.
+- [[treino-trinca]] teve **9 IDs novos e foi de 41 para 50**. Uma das reclamações descreve "venda casada": vários upgrades dentro do checkout de R$ 37. Outra é um **kit de R$ 997 sorteado numa live do Lotz** e não entregue. Na Biblioteca, com a mesma busca, foram **~160 resultados (eram ~210 em 08/10 e ~230 em 05/10)**, e nenhum criativo carregado começou depois de 05/10. É a **terceira queda seguida**, enquanto as reclamações continuam subindo. Score **6,60**, sem mudança.
+- [[app-do-paizao]] teve **5 IDs novos e foi de 10 para 15**. A escada ficou clara: frente de ~R$ 50, depois **plano anual de R$ 289,99 em 12x** no cartão. Na Biblioteca foram **~11 anúncios (eram ~19)**, todos começados entre 05 e 09/10. É a segunda rotação completa de criativos em uma semana. Score **5,75**.
+- Mornas: [[pilates-na-parede-lastlink]] de 3 para **8** (LP de quiz `desafiopilates.com/q/simple`, campanha com "PreEscala" no nome, R$ 27); [[chatgpt-privado]] de 6 para 8; [[malu-sua-assistente]] de 2 para **6**, agora em **três gateways** (Wiapy, Cakto e PerfectPay).
+
+**Estreias: 10, todas com 3 menções ou mais.** É a resposta à autocrítica de 05/10 ("doze estreias de uma menção é volume, não descoberta"). Com a lista completa, o corte de 3 menções vira possível. Cerca de 15 candidatas com duas menções ficaram de fora (Escola de Personagens, Biblioteca Digital TM, Spygram, BicarbonaApp, Ritual do Número Mestre, Sambox, SpinMaster, Fusion Ads, Anunciaê...).
+- **ShopMiner** (Payt, **11**): app que "minera" produtos e gera imagem e vídeo deles, vendido **em live** com plano vitalício de R$ 297 (5x R$ 65,76). Não aparece na Biblioteca pelo nome, porque o canal é a live.
+- **Fornece Up** (PerfectPay, **8**): lista de fornecedores por assinatura em 12x. Quase todas as reclamações têm o mesmo texto ("não consigo cancelar"). O volume vem do cancelamento travado.
+- **TokScale IA** (Payt, 6): vídeos com IA para TikTok Shop, assinatura. Forma um cluster com o ShopMiner: **ferramenta de vídeo de produto para quem vende em marketplace**, 17 reclamações somadas em três dias, todas na Payt.
+- **App Direct Line** (Cakto, 5) e **Irryss** (Payt, 4): apps por assinatura em que o botão de reembolso existe mas não estorna. Nenhum dos corpos diz o que os apps fazem, e por isso o nicho ficou `nao-classificado`.
+- Com 3 cada: **Receitas Sem Pensar** (Payt, app de nutricionista que cobra à parte as marmitas que motivaram a compra), **Renda Fortuna** (Payt, 12x), **Thermafit App** (Payt, R$ 47), **Cão360** (Payt e Cakto, R$ 97, "frequência canina") e **Viva de Martelinho de Ouro** (Hotmart, curso de ofício).
+
+**Retornos: 3, fracos.** [[loopyz]] (Cakto, de `morta`, 2 IDs), [[auks-bot]] e [[cashnopix]] (PerfectPay, de `esfriando`, 1 ID cada). [[love-pix]] teve +1, mas já estava `ativa`. Nenhum desses retornos indica um dono que voltou a escalar.
+
+**Mecânica de funil.** Três padrões se repetiram em várias notas sem relação entre si. (1) **O preço real está depois da frente**: o anual parcelado do Paizão, as marmitas pagas à parte do Receitas Sem Pensar, os upgrades no checkout do Trinca, a API cobrada da Malu, a segunda cobrança do Zap Radar. (2) **A garantia anunciada que não funciona** é o que gera a reclamação: Fornece Up, Direct Line, Irryss, TokScale. O comprador não reclama do produto, reclama de não conseguir sair. (3) **A Payt virou o gateway com mais sinal**: 123 reclamações em três dias, seis das dez estreias e o deslocamento do Zap Radar. Até 05/10 ela era varrida como gateway secundário.
+
+**Status (decaimento à mão, só nos 11 gateways varridos, só em notas vindas do RA, sem ângulos, dança, infantil, material pedagógico, multi-gateway ou nota com anúncio medido).** **13 `ativa`** vistas pela última vez em 02 ou 05/10 completaram a segunda rodada sem aparecer e foram para `esfriando`, entre elas App Mão Verde, Atleta Híbrido, Bíblia 3D, ClipShort, Date Nights Cristão, Fórmula YouTube Viral, Livros de Enoque e UltraCut. **3 `nova`** passaram para `ativa` (Biscoitos Natalinos, Beto IA, Dieta das 3 Fases). O sync tirou Pilates e Malu de `nova`, e houve 3 retornos. No total foram **21 mudanças de status**. O [[atelie-das-velas]] e o Kit +80 Casinhas ficaram de fora, mesmo ausentes do RA, porque o insumo deles é anúncio e não reclamação.
+
+**Cuidados.** (1) A API devolve o corpo cortado em ~120 caracteres. Preço e mecânica saíram de **10 corpos abertos por fetch**, não de todos. As contagens dependem de o nome do produto aparecer no título ou no começo do corpo, então são **limite inferior**. (2) O volume de uma rodada com lista completa **não é comparável** com as de 5 linhas. Parte do salto do Zap Radar e da Stalkeia é instrumento, não mercado. A comparação honesta começa na próxima rodada que usar a mesma API. (3) O kit de R$ 997 do Lotz entrou na conta do Trinca porque é o mesmo operador, mas é outro produto. (4) Score não mudou em nenhuma nota com ID novo, porque `s_lucro` pede longevidade e o RA só deu volume. Zap Radar e Stalkeia passam de 20 reclamações, o que pela tabela da Etapa 3 vale +2, mas a Stalkeia já está acima do teto sem insumo. Nenhuma nota foi rescorada. O ShopMiner tem `s_ticket: 10` por causa dos R$ 297, e isso é o sync lendo o preço, não uma avaliação.
+
+**Autocrítica.** A rodada rendeu mais que as quatro anteriores somadas, e quase todo o ganho veio de **um instrumento achado por acaso** depois que o clique de paginação falhou, não de método. Ela também gastou o tempo que deveria ir para a Biblioteca: só três buscas, e nenhuma para as estreias com volume (TokScale, Fornece Up, Pilates). O próximo passo óbvio é usar a mesma API nas **páginas de produtor** (Etapa 3b), onde ela deve entregar `ra_primeira_reclamacao` e destravar o `s_lucro` que o vault nunca conseguiu medir. Também falta registrar o procedimento num adendo do `Pipeline.md` antes que ele se perca como se perdeu o clique de 02/10.
+
+---
+
+## Leitura anterior — 2026-10-08 (rodada diaria)
 
 Passada: [[2026-10-08 -- 0309]] · nota do dia: [[2026-10-08]].
 
@@ -90,33 +124,6 @@ Passada: [[2026-10-05 -- 0317]] · nota do dia: [[2026-10-05]].
 **Cuidados.** Três dias de buraco lidos numa noite inflam o "dia" do mesmo jeito que em 02/10. As 14 reclamações do Trinca medem acumulado de 02 a 04/10, não um dia só. Os ~230 resultados da Biblioteca contam anúncios que casam com o termo, e não criativos distintos. O delta de +100 é a comparação mais honesta disponível, mas não é a contagem de criativos que o `Schema.md` pede. A Ateliê das Velas foi para `esfriando` por ausência no RA, embora tenha anúncio medido de 102 dias. Esse decaimento mede a lista de reclamações, não o anúncio. As dívidas continuam as mesmas: **73 notas presas em `nova`** e 13 violações do teto de `s_lucro`.
 
 **Autocrítica.** Doze estreias de uma menção cada é volume, não descoberta. Dez delas devem estar em `esfriando` daqui a duas rodadas. A consulta que mais rendeu na rodada foi repetir uma busca antiga na Biblioteca, e não abrir mais páginas do RA. A próxima rodada deveria gastar menos em estreias e mais em repetir as buscas de 27/09 e 02/10 ("paizão", "ChatGPT anual", "velas artesanais") para ter `criativos_delta` com o mesmo termo.
-
----
-
-## Leitura anterior — 2026-10-02 (rodada diaria)
-
-Passada: [[2026-10-02 -- 0102]] · nota do dia: [[2026-10-02]].
-
-**199 notas · 174 ofertas · 25 ângulos · 6 novas hoje · 12 vistas hoje · status: 79 nova · 44 ativa · 31 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
-
-**Cinco dias sem nada gravado.** A rodada anterior foi a de 27/09. Entre 27/09 e 02/10 as passadas 6x/dia não deixaram nenhuma nota em `Radar/rodadas/`, nem passada vazia. Ou não rodaram, ou gravaram só na fila do Projeto Claude. O buraco aparece no dashboard como ausência, não como "sem-coleta". Antes de culpar o mercado por qualquer silêncio nesse intervalo, alguém precisa olhar a fila.
-
-**O instrumento melhorou de novo.** Em 27/09 o `?pagina=2` voltava vazio. Hoje, clicar no número da página dentro do navegador interno troca a lista, e o corpo de cada reclamação abre por `fetch` na mesma origem, com ID e carimbo. Foram 26 páginas em 10 gateways (Kiwify, Hotmart, Ticto, Eduzz, Monetizze, Lastlink, Wiapy, Payt, Kirvano, Lowify), cerca de 150 corpos lidos, quase todos de 30/09 e 01/10. A Biblioteca de Anúncios abriu sem aprovação para 5 consultas. Ressalva: o Meta anunciou pausa de anúncios políticos no Brasil de 2 a 5/10. Não afeta infoproduto, mas pode deixar a Biblioteca mais ruidosa nesses dias.
-
-**Sinal novo real: sim, concentrado em três notas que já existiam.** Todas tinham `status: ativa`, então não contam como "retorno".
-- [[treino-trinca]] ganhou **5 reclamações com ID novo** num dia (260567113 a 260606589, todas acima de 260143667), de 12 para **17**. Uma delas mostra a escada inteira: Desafio **R$ 37 → programa R$ 220 → Plano Trinca/TF 1.000 R$ 997**. O degrau de R$ 997 não aparecia em nenhuma leitura anterior. `ticket_upsell` passou de 37 para 220, e o `ticket_medio_est` ficou como estava porque a taxa de aceitação não é conhecida. A busca "treino trinca" na Biblioteca dá ~130 anúncios, só de Pedro Lotz, com criativos novos até 26/09. A busca de 27/09 foi outra, então não há `criativos_delta` honesto. Score continua **6,60**.
-- [[chatgpt-privado]] saiu de 1 para **5**: quatro reclamações em 01/10 nomeiam o produto ou o vendedor (Infinity Apps), e há mais duas prováveis que não foram contadas. A mecânica se repete: o "anual" vira Pix automático mensal. A Biblioteca mostra o que está por trás: **~120 anúncios de "ChatGPT anual", todos iniciados entre 27 e 30/09, vários anunciantes a R$ 21,90.** É uma coorte que nasceu na semana do buraco. Com medição, `s_saturacao` foi para 2 e `s_replica` para 2 (revenda de acesso de terceiro), e o score ficou em **3,00**. Mostra onde há verba, não o que copiar.
-- [[app-do-paizao]] subiu de 3 para **5**. A reclamação 260569507 descreve uma mecânica nova: o comprador apertou o botão "reembolse aqui" e caiu uma cobrança de **R$ 284,90**. Se o relato estiver certo, é upsell de um clique disfarçado de reembolso. Ainda é um relato só.
-
-**Estreias: 6, e uma com longevidade medida.** O **Achados da Ellen** (Kiwify) é um perfil de achadinhos ("comenta eu quero") com anúncio ativo desde **01/08 (62 dias)**. O perfil vende um treinamento de R$ 67 e um grupo por assinatura em Pix automático de R$ 49,90. Foi medido com `s_lucro: 6`, não 7, porque o anúncio vende o achadinho e não a oferta. Score **3,70**, provisório (`s_replica` e `s_saturacao` seguem na sentinela). O **Date Nights Cristão** (Payt, R$ 42, 2 reclamações) encosta no cluster religioso/casal e não tem anúncio ativo com o nome exato. Também estrearam **Coramaflix** (Lowify), que cobra taxa por episódio depois da mensalidade e era o "coramafix" que ficou como sinal fraco em 27/09; **+100 Projetos de Parquinho** (Wiapy, R$ 25,90), PLR de marcenaria com um irmão na Lowify; **SerBene** (Hotmart), R$ 9,90 que vira R$ 59,90 no terceiro mês; e **Seu Curso Viral em 1 Dia** (Kiwify, R$ 47 + 27).
-
-**Mecânica de funil: o preço que muda depois da compra.** SerBene (9,90 → 59,90), ChatGPT "anual" que vira mensal, o Pix automático do grupo da Ellen, a taxa por episódio da Coramaflix e o botão de reembolso do Paizão são a mesma família. O ticket de frente é isca e o valor real está numa cobrança recorrente ou escondida, que a LP não mostra. É o mesmo campo que 27/09 chamou de "venda depois da venda", agora no lado da recorrência. Na Wiapy apareceu outra variante: um checkout com **quatro produtos extras** oferecidos na compra (260571759), ou seja, bump múltiplo em ticket de R$ 20-30.
-
-**Status (decaimento à mão, só nos 10 gateways varridos hoje e só em notas vindas do RA).** **11 estreias de 27/09** que não reapareceram passaram de `nova` para `ativa` (uma rodada de ausência é cobertura). **6 estreias de 24/09** (carteira do estudante, comunidade renda em dólar, divas milionárias, mentoria VPJ, método gringa turbo, protocolo leite sem fim) estão na segunda rodada sem aparecer e foram para `esfriando`. Gerachat e White Driver foram **avistadas**: a mesma reclamação relida na primeira página da Ticto. Atualizaram `visto_ultimo` sem mover a contagem. As notas de dança, parentalidade e infantil desses gateways **não** foram tocadas, porque vieram da Biblioteca e a lista do RA não as mede. As `esfriando` de agosto também ficaram como estavam: a conta de rodadas por gateway desde então dá 5 ou 6, e não dá para afirmar 7.
-
-**Cuidados.** Ler cinco dias de buraco numa noite só infla o "sinal do dia". As 5 reclamações do Treino Trinca e as 4 do ChatGPT Privado são de 01/10, mas foram vistas pela primeira vez hoje porque ninguém olhou antes. Isso mede acumulado, não aceleração. A estreia "Date Nights" usa o nome que o comprador escreveu, e o nome comercial pode ser outro. **73 notas continuam `nova` depois da estreia** (o aviso do `--verificar`), e 13 notas violam o teto de `s_lucro` sem insumo de longevidade. As duas dívidas são as mesmas de 27/09.
-
-**Autocrítica.** O resumo da passada saiu primeiro com "7 novas, 3 retornos". Eram 6 novas e zero retornos, porque as três notas com ID novo já estavam `ativa`. Foi corrigido antes do commit do Painel. É o mesmo vício de 31/08: narrar antes de computar.
 
 ---
 

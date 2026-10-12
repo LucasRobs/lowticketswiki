@@ -431,3 +431,27 @@ deixariam o repositório no meio do caminho.
 **Mac desligado na hora da passada.** A tarefa agendada guarda o JSON da passada no Projeto
 Claude (`claude/fila/achados-AAAA-MM-DD-HHMM.json`) e a próxima passada com o Mac ligado grava a
 fila no vault antes de minerar. Nada se perde; só chega atrasado ao dashboard.
+
+---
+
+## Adendo — a lista completa do RA pela API de busca (2026-10-11)
+
+Em 11/10 o clique de paginação do RA (o caminho de 02/10) parou de trocar a lista, e `?pagina=2`
+continua voltando vazio. O que funcionou foi a API que o próprio site chama, buscada **de dentro da
+aba do navegador interno** aberta em `reclameaqui.com.br` (mesma origem, sem aprovação extra):
+
+1. ID da empresa: no HTML de `/empresa/<slug>/lista-reclamacoes/`, o `identifier` do bloco
+   `#organization` do JSON-LD (Kirvano é `kirvano-pagamentos`, Cakto é `cakto-pay`; Lowify e Hubla
+   não foram achados).
+2. `https://iosearch.reclameaqui.com.br/raichu-io-site-search-v1/query/companyComplains/10/<offset>?company=<id>`
+   devolve 10 reclamações por chamada, da mais recente para trás, com `legacyId` (o ID estável),
+   `created`, `title`, `companyName` e o começo do corpo. **Tamanho 50 volta vazio; usar 10, com
+   ~1,5 s entre chamadas** (rajada sem pausa derruba o fetch por alguns segundos).
+3. Paginar até `created` ficar anterior à rodada anterior. O corpo vem cortado em ~120 caracteres:
+   para preço e mecânica, abrir `https://www.reclameaqui.com.br/<slug-empresa>/<url>/` por fetch e
+   ler `reviewBody` no JSON-LD `schema-json-ld-pilot`.
+
+Consequência: a regra de 24/08 ("cada gateway rende no máximo 5 sinais por rodada") deixa de valer
+enquanto a API responder. A rodada lê **tudo** desde a anterior (~650 reclamações em 3 dias, 11
+gateways), e estreia passa a poder exigir 3+ menções. Contagens de rodadas feitas com a lista de 5
+linhas **não são comparáveis** com as feitas pela API.

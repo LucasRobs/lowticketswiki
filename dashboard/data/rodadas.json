@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-11.md",
+   "data": "2026-10-11",
+   "titulo": "Radar 2026-10-11",
+   "ofertas_vistas": 21,
+   "novas": 10,
+   "retornaram": 3,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-11\n\n## Novas\n\n- [[shopminer]] — ferramentas-ia — R$ 297 vitalicio (5x R$ 65,76) — App que 'minera' produtos de e-commerce e gera imagens e videos deles, vendido em live com plano vitalicio de R$ 297 (261213933). 11…\n- [[fornece-up]] — ganhar-dinheiro — assinatura em 12x — Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo…\n- [[tokscale-ia]] — ferramentas-ia — assinatura — Plataforma de videos com IA para TikTok Shop, vendida como assinatura (261202955, contratada em 25/09). 6 reclamacoes na Payt em 08-11/10…\n- [[app-direct-line]] — nao-classificado — assinatura (plano Pro) — Aplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em…\n- [[irryss]] — nao-classificado —  — App em app.irryss.com com botao de reembolso no proprio site que desconecta o comprador e nao estorna. 4 reclamacoes na Payt em 08-10/10…\n- [[receitas-sem-pensar]] — emagrecimento —  — App de receitas da nutricionista Renata Brugnera. 3 reclamacoes na Payt em 10-11/10 (261356291, 261343035, 261315463); a 261343035 descreve…\n- [[renda-fortuna]] — ganhar-dinheiro — 12x no cartao — Programa de renda de Daniela Rezende, comprado em 08/10 em 12x no cartao; suporte so por WhatsApp, sem resposta. 3 reclamacoes na Payt em…\n- [[thermafit-app]] — saude-estetica-fitness — R$ 47 — App de treino (pacote 'therma fit tai chi') a R$ 47 no cartao. 3 reclamacoes na Payt em 08-10/10 (261308255, 261216691, 261112765): acesso…\n- [[cao360]] — pet — R$ 97 — Protocolos/curso para caes ('frequencia canina'), R$ 97 no Pix (261289513). 3 reclamacoes em 08-11/10, em dois gateways: Payt (261364237…\n- [[viva-de-martelinho-de-ouro]] — cursos-de-oficio —  — Curso de martelinho de ouro (Elisio Martelinho) com 10 modulos liberados aos poucos; alunos reclamam no grupo de WhatsApp que o conteudo e…\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 50\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 15\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[zap-radar]] — ra_reclamacoes atualizado para 26\n- [[chatgpt-privado]] — ra_reclamacoes atualizado para 8\n- [[pilates-na-parede-lastlink]] — ra_reclamacoes atualizado para 8\n- [[malu-sua-assistente]] — ra_reclamacoes atualizado para 6\n- [[love-pix]] — ra_reclamacoes atualizado para 4\n\n## Retornaram\n\n- [[loopyz]] — lives-interativas — reapareceu (3 mencao(oes))\n- [[auks-bot]] — trading-automatizado — reapareceu (2 mencao(oes))\n- [[cashnopix]] — renda-celular-cashback — reapareceu (6 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nPrimeira rodada com a lista completa do RA: a API de busca do proprio site devolveu ~650 reclamacoes de 11 gateways com ID desde 08/10 03h, sem o limite de 5 linhas. Sinal real e grande na espionagem: [[zap-radar]] 10 → 26 (12 na Payt) e [[stalkeia-ai]] 15 → 28. [[treino-trinca]] 41 → 50 com a Biblioteca caindo pela terceira vez (~230 → ~210 → ~160); [[app-do-paizao]] 10 → 15 com plano anual de R$ 289,99. Dez estreias, todas com 3+ mencoes; a Payt concentra seis delas (ShopMiner com 11).\n\n## Passadas do dia\n- [[2026-10-11 -- 2305]] - kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, eduzz, monetizze - 21 achado(s) - rodada diaria — 11 gateways via API do RA (~650 reclamacoes desde 08/10 03h), 3 buscas na Biblioteca; 10 estreias com 3+ mencoes, Zap Radar…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-08.md",
    "data": "2026-10-08",
    "titulo": "Radar 2026-10-08",
@@ -405,6 +430,37 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-11 -- 2305.md",
+   "data": "2026-10-11",
+   "hora": "23:05",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 70,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "chatgpt-privado",
+    "malu-sua-assistente",
+    "pilates-na-parede-lastlink",
+    "stalkeia-ai",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-11]].\n\n# Rodada — 11/10/2026 · 23:05 Fortaleza\n\n**Gateways:** kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, eduzz, monetizze · **Páginas:** 70 · **Coleta:** ok · **Achados:** 21\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 9 IDs novos (41 → 50); Biblioteca ~210 → ~160, terceira queda seguida\n- [[stalkeia-ai]] — PerfectPay · 13 IDs novos (15 → 28)\n- [[zap-radar]] — Payt + PerfectPay · 16 IDs novos (10 → 26), 12 na Payt\n- [[app-do-paizao]] — Kirvano · 5 IDs novos (10 → 15); plano anual R$ 289,99 em 12x; Biblioteca ~19 → ~11, criativos de 05-09/10\n- Estreias com volume: ShopMiner (Payt, 11), Fornece Up (PerfectPay, 8)\n\n## Mornas\n- [[pilates-na-parede-lastlink]] 3 → 8 · [[chatgpt-privado]] 6 → 8 · [[malu-sua-assistente]] 2 → 6 (Wiapy + Cakto + PerfectPay)\n- Estreias: TokScale IA (6), App Direct Line (5), Irryss (4), Receitas Sem Pensar, Renda Fortuna, Thermafit, Cao360, Viva de Martelinho de Ouro (3 cada)\n- Retornos: Loopyz, Auks, Cash no Pix, Love Pix (1-2 IDs cada)\n\nLeitura: instrumento novo — a API de busca do RA devolve a lista completa com ID desde a ultima rodada, sem paginar por clique; ~650 reclamacoes de 11 gateways lidas. O volume da espionagem dobrou e a Payt virou o gateway com mais sinal.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0309.md",
    "data": "2026-10-08",

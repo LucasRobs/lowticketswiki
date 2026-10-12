@@ -1,0 +1,99 @@
+{
+ "slug": "thermafit-app",
+ "arquivo": "Ofertas/thermafit-app.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "oferta",
+  "slug": "thermafit-app",
+  "nome": "Thermafit App",
+  "nicho": "saude-estetica-fitness",
+  "sub_nicho": "",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "payt",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=thermafit&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 47,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 47,
+  "margem_est": 0.8,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [
+   "app"
+  ],
+  "tem_recorrencia": false,
+  "s_ticket": 6,
+  "s_lucro": 3,
+  "s_replica": 0,
+  "s_saturacao": 0,
+  "status": "nova",
+  "visto_primeiro": "2026-10-11",
+  "visto_ultimo": "2026-10-11",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/thermafit-app",
+  "gateways_detectados": [
+   "payt"
+  ],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 3,
+  "ra_plataformas": [
+   "payt"
+  ],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-10-11",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "marca"
+  ]
+ },
+ "calc": {
+  "score": 2.25,
+  "decisao": "descartar",
+  "flags": [
+   "score-provisorio",
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": [
+   "payt"
+  ]
+ },
+ "corpo": "# Thermafit App\n\n## Angulo\nApp de treino (pacote 'therma fit tai chi') a R$ 47 no cartao. 3 reclamacoes na Payt em 08-10/10 (261308255, 261216691, 261112765): acesso ao app chega mas as aulas nao liberam.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261308255, 261216691, 261112765)\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-10-11",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 47,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira vez vista. App de treino (pacote 'therma fit tai chi') a R$ 47 no cartao. 3 reclamacoes na Payt em 08-10/10 (261308255, 261216691, 261112765): acesso ao app chega mas as aulas nao liberam."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-11.md",
+   "data": "2026-10-11",
+   "titulo": "Radar 2026-10-11"
+  }
+ ]
+}

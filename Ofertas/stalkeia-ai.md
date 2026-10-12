@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-08
-rodadas_vista: 12
+visto_ultimo: 2026-10-11
+rodadas_vista: 13
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 15
+ra_reclamacoes: 28
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-11
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -161,3 +161,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/realizei-3-pagamentos-via-p
 15 mencao(oes) nesta varredura (gateway PerfectPay). 4 reclamacoes com ID novo em 07-08/10: 261105725 e 261102589 ('Stalkea AI - Acesso Completo 2.0'), 261061359 e 261044525 ('Stalkeia.com', R$ 47,90 e R$ 39,90). Aparece um nome de produto novo, 'Acesso Completo 2.0'.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261105725, 261102589, 261061359, 261044525)
+
+## Rodada 2026-10-11
+
+28 mencao(oes) nesta varredura (gateway PerfectPay). 13 reclamacoes com ID novo de 08 a 11/10, todas acima de 261105725: 261382501, 261382373, 261347677, 261293029, 261292483, 261292285, 261288369, 261253637 ('Acesso Completo 2.0'), 261204241, 261147273 (stalkeia.website), 261144399, 261114367 (taxas extras para liberar) e 261110827. Maior volume da nota desde a estreia.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (13 IDs de 261110827 a 261382501)
