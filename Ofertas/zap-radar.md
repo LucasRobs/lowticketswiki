@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 10
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-10
@@ -142,6 +142,12 @@ Evidencia:
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-acesso-aos-resultados-no-zap-radar/
 
+## Rodada 2026-10-02
+
+5 mencao(oes) nesta varredura (gateway Payt). Reclamacao nova 260598927 (01/10) na Payt: app comprado no cartao nao entrega o prometido. Primeira vez que a oferta aparece no RA da Payt (antes so PerfectPay).
+
+Evidencia: https://www.reclameaqui.com.br/payt/lista-reclamacoes/ (ID 260598927)
+
 ## Rodada 2026-10-03
 
 2 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de busca de número de WhatsApp (checkout real é Payt, não PerfectPay nesta amostra). Cobra R$97 upfront e não exibe resultado da busca. Mesmo nicho da Stalkeia, ticket ~2,6x maior.
@@ -160,6 +166,10 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/pagamento-efetuado-sem-aces
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do-produto-zap-radar-cobrado-pela-perfect-pay_rBXZmMzd8LiU2oqK/
 
+8 mencao(oes) nesta varredura (gateway Payt). 3 reclamacoes novas em 04/10. Uma descreve cinco Pix diferentes, um por etapa, sem liberar nada (260770355); outra diz que qualquer numero consultado devolve as mesmas fotos e mensagens (260761095).
+
+Evidencia: https://www.reclameaqui.com.br/payt/lista-reclamacoes/ (IDs 260782901, 260770355, 260761095)
+
 ## Rodada 2026-10-06
 
 1 mencao(oes) nesta varredura (gateway PerfectPay). App de rastreamento/espionagem. Reconfirmado via PerfectPay (ja tambem visto no Payt), operacao multi-gateway continua ativa.
@@ -171,6 +181,10 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicitacao-de-reembolso-do
 1 mencao(oes) nesta varredura (gateway Payt). App de rastreio/espionagem de WhatsApp ja catalogado no vault (14+ rodadas desde 16/08, multi-gateway PerfectPay+Payt). Nova reclamacao direta na Payt em 08/10: usuario nao consegue abrir o app, login sempre 'incorreto', alega propaganda enganosa. Confirma que a oferta segue ativa e com acesso quebrado/credencial que nao funciona.
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+
+10 mencao(oes) nesta varredura (gateway PerfectPay). 2 reclamacoes com ID novo em 07/10 na PerfectPay: 261048565 (acesso nao liberado) e 261039867 (cobraram mais para entregar o produto). Mesma taxa para liberar.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261048565, 261039867)
 
 ## Rodada 2026-10-10
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "autismo",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7947497200133453,
+  "scale": 0.20022580427024222,
   "close": false
 }

@@ -36,7 +36,7 @@ ativos_pasta:
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: true
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-08-17"
 ra_checado: 2026-10-09
@@ -102,6 +102,12 @@ PerfectPay, ha 9h: a escada de taxas aparece completa e literal - "primeiro pedi
 ## Rodada 2026-08-24
 
 PerfectPay, mesma reclamacao com a escada 25,90 + 10 + 10. Sem alteracao.
+
+## Rodada 2026-10-08
+
+3 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261093573, 07/10): 'entrei no love pix me pediram um Pix de 20,00 e quando paguei o site sumiu'. Primeira mencao desde 24/08. Volta de esfriando.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261093573)
 
 ## Rodada 2026-10-09
 

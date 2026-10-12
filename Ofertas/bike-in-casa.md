@@ -50,6 +50,8 @@ tags: [oferta, lowticket, marca]
 ## Angulo
 Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.
 
+Programa de bike em casa com 'teste gratis de 30 dias' que cobra na entrada (260771721, 04/10).
+
 ## Funil
 anuncio -> pagina -> checkout ticto -> ver evidencia.
 
@@ -65,6 +67,12 @@ anuncio -> pagina -> checkout ticto -> ver evidencia.
 - **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/solicitacao-de-cancelamento-de-assinatura-e-reembolso-de-bike-in-casa_wagDYadhO7DBU-a2/
+
+- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
+- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.
+- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/lista-reclamacoes/ (ID 260771721)
 
 ## Historico
 ```base
@@ -103,6 +111,10 @@ Evidencia: https://www.reclameaqui.com.br/ticto/quero-cancelar-minha-compra-do-b
 4 mencao(oes) nesta varredura (gateway Ticto). Assinatura de treino indoor com periodo de teste dificil de cancelar. 4ª rodada em dias diferentes (04/10, 06/10, 07/10, agora 08/10) -- mecanica de retencao forcada continua sem correcao.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/
+
+3 mencao(oes) nesta varredura (gateway Ticto). 2 reclamacoes com ID novo: 260851589 (05/10) e 260927591 (06/10), as duas sobre nao haver canal de cancelamento dentro do 'teste gratis de 30 dias'. Mesma mecanica da estreia.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (IDs 260851589, 260927591)
 
 ## Rodada 2026-10-10
 

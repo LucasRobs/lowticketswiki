@@ -50,6 +50,8 @@ tags: [oferta, lowticket, marca]
 ## Angulo
 Primeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.
 
+Sistema white-label de mobilidade tipo Uber, R$ 119,99 (31/08); app nunca publicado na Play Store. ID 259882399.
+
 ## Funil
 anuncio -> pagina -> checkout ticto -> ver evidencia.
 
@@ -65,6 +67,12 @@ anuncio -> pagina -> checkout ticto -> ver evidencia.
 - **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/
+
+- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
+- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.
+- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-usar-meu-sistema-de-mobilidade-urbana-e-a-empresa-nao-me-da-suporte_dKemuBUNLElyrZXu/
 
 ## Historico
 ```base
@@ -86,6 +94,12 @@ views:
         direction: DESC
 ```
 
+## Rodada 2026-10-02
+
+1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 259882399 (23/09) continua listada na Ticto. Sem reclamacao nova.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/lista-reclamacoes/ (ID 259882399)
+
 ## Rodada 2026-10-05
 
 1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente - app de mobilidade tipo Uber pra motorista, parou de funcionar após pagamento via Pix.
@@ -103,3 +117,7 @@ Evidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-whit
 4 mencao(oes) nesta varredura (gateway Ticto). App de 'mobilidade' vendido como renda extra para motoristas, comprador diz que não funciona após pagar via Pix. 4ª rodada (04/10, 06/10, 08/10) com a mesma reclamação ainda no ar.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/compra-de-app-de-mobilidade-white-driver-nao-funciona-apos-pagamento-via-pix-e-falta-de-suporte-da-ticto_CKsMNdGgJyWSe6L9/
+
+1 mencao(oes) nesta varredura (gateway Ticto). Avistamento: a mesma reclamacao 259882399 (23/09) relida na Ticto. Sem ID novo, contagem nao move.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 259882399, relida)

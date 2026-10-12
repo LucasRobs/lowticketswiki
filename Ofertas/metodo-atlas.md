@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/metodo-atlas"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-03
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-o-curso-meto
 1 mencao(oes) nesta varredura (gateway PerfectPay). Infoproduto genérico com propaganda enganosa e sem suporte para reembolso.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-falta-de-suporte-para-reembolso-do-metodo-atlas_9G1np4holmXkyTbX/
+
+## Rodada 2026-10-08
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261106243, 08/10): curso/ebook nao entregue, numero de suporte inexistente.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261106243)

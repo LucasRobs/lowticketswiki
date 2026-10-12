@@ -1,15 +1,181 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 280,
+  "ofertas": 317,
   "angulos": 72,
-  "observacoes": 659,
-  "dias_radar": 31,
-  "passadas": 74,
+  "observacoes": 722,
+  "dias_radar": 32,
+  "passadas": 79,
   "analises": 12,
   "ultima_rodada": "2026-10-10"
  },
  "ofertas": [
+  {
+   "slug": "100-000-manuais-tecnicos",
+   "nome": "+100.000 Manuais Técnicos",
+   "classe": "oferta",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 17,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 17,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=100.000%20manuais%20técnicos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Pacote de manuais tecnicos em volume (PLR), R$ 17 via Pix. ID 260078715 (25/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "100-modelos-de-biscoitos-natalinos",
+   "nome": "+100 Modelos de Biscoitos Natalinos",
+   "classe": "oferta",
+   "nicho": "gastronomia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=biscoitos%20natalinos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Pacote de 4 PDFs de modelos de biscoitos decorados de Natal; a compradora recebeu 16 modelos e o resto em branco (261013199, 07/10). Segunda oferta natalina da Wiapy em tres dias, ao lado do Kit +80 Casinhas de Natal e de um presepio de papelao (260984353).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "100-projetos-de-parquinho",
+   "nome": "+100 Projetos de Parquinho",
+   "classe": "oferta",
+   "nicho": "cursos-de-oficio",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 25.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 25.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=100%20projetos%20de%20parquinho&search_type=keyword_unordered&media_type=all",
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
+   "resumo": "Pacote de projetos de marcenaria infantil em PDF, R$ 25,90 no Pix (260567601, 01/10). Na Lowify aparece o mesmo formato: 'Modelos de Arquitetura Infantil + 100 projetos de carrinhos de madeira' (260207349, 28/09). PLR de marcenaria em gateways de ticket baixo.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
   {
    "slug": "120-prompts-ultra-realista",
    "nome": "120 Prompts Ultra-realista",
@@ -233,12 +399,67 @@
    ]
   },
   {
+   "slug": "500-receitas-lowcarb-premium",
+   "nome": "500 Receitas Lowcarb Premium",
+   "classe": "oferta",
+   "nicho": "emagrecimento",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=500%20receitas%20lowcarb&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Ebook de receitas low carb; a compradora diz que o conteudo foi gerado por IA, com bolo de chocolate levando alho e cebola (260763527, 04/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "900-mapas-mentais",
    "nome": "900 Mapas Mentais",
    "classe": "oferta",
    "nicho": "material-pedagogico",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -284,8 +505,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -396,6 +616,60 @@
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "achados-da-ellen",
+   "nome": "Achados da Ellen",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": true,
+   "moeda": "BRL",
+   "ticket_frente": 67,
+   "ticket_bump": 0,
+   "ticket_upsell": 49.9,
+   "ticket_medio_est": 117,
+   "s_ticket": 8,
+   "s_lucro": 6,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 3.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 62,
+   "criativos_ultima": 2,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Achados%20da%20Ellen&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Perfil de achadinhos (comenta 'eu quero' e recebe o link) que vende 'Treinamento da Ellen' (R$ 67, vendedor Lucas Caiafa) e o 'Grupo dos Achados da Ellen 3' por assinatura em Pix automatico (R$ 49,90). Duas reclamacoes em 01/10 (260601503, 260601331)…",
+   "flags": [
+    "score-provisorio",
     "sem-lp"
    ]
   },
@@ -4725,7 +4999,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "fitness-paternidade",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 1,
    "checkout": "kirvano",
@@ -4744,34 +5018,91 @@
    ],
    "recorrente": true,
    "moeda": "BRL",
-   "ticket_frente": 50,
+   "ticket_frente": 47,
    "ticket_bump": 0,
-   "ticket_upsell": 250,
+   "ticket_upsell": 228,
    "ticket_medio_est": 120,
    "s_ticket": 9,
-   "s_lucro": 5,
+   "s_lucro": 7,
    "s_replica": 3,
    "s_saturacao": 4,
-   "score": 5.05,
+   "score": 5.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-21",
-   "visto_ultimo": "2026-08-23",
-   "rodadas_vista": 3,
-   "dias_no_ar": 0,
-   "criativos_ultima": 0,
-   "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 7,
+   "dias_no_ar": 54,
+   "criativos_ultima": 19,
+   "criativos_delta": 3,
+   "ra_reclamacoes": 10,
    "ra_primeira_reclamacao": "2026-08-20",
-   "ra_checado": "2026-08-23",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-08-23",
-   "n_citacoes": 4,
+   "n_obs": 7,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 13,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "app-mao-verde",
+   "nome": "App Mão Verde",
+   "classe": "oferta",
+   "nicho": "nao-classificado",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 9.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 23.45,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20mao%20verde&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Jardinagem fatiada em microprodutos: APP Mao Verde R$ 37, SOS Fungos R$ 14,90, Segredo da Floracao R$ 9,90 e Adeus Mato R$ 9,90, todos comprados no mesmo dia (260758569, 01/10). Escada de bumps de R$ 9,90-14,90.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -4838,7 +5169,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -4884,8 +5215,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5000,6 +5330,59 @@
    ]
   },
   {
+   "slug": "atelie-das-velas",
+   "nome": "Ateliê das Velas",
+   "classe": "oferta",
+   "nicho": "artesanato",
+   "sub_nicho": "velas-artesanais",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "vsl"
+   ],
+   "formato_entrega": [
+    "curso"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 47,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 47,
+   "s_ticket": 6,
+   "s_lucro": 8,
+   "s_replica": 5,
+   "s_saturacao": 6,
+   "score": 6.4,
+   "decisao": "observar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
+   "dias_no_ar": 131,
+   "criativos_ultima": 21,
+   "criativos_delta": -12,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "https://artesanatoemvelas.com.br",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=%22Carol%20a%20artes%C3%A3%22&search_type=keyword_unordered&media_type=all",
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
+   "resumo": "Curso de velas artesanais (Carol a artesa, artesanatoemvelas.com.br), R$ 47,18 com subprodutos vendidos dentro. ID 260154795 (27/09). Biblioteca de Anuncios: ~8 anuncios ativos, o mais antigo de 17/06 (102 dias).",
+   "flags": []
+  },
+  {
    "slug": "atlas-das-patologias",
    "nome": "Atlas das Patologias",
    "classe": "oferta",
@@ -5056,12 +5439,67 @@
    ]
   },
   {
+   "slug": "atleta-hibrido-victor-pareto",
+   "nome": "Atleta Híbrido (Victor Pareto)",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "lastlink",
+   "gateways": [
+    "lastlink"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=victor%20pareto%20atleta%20hibrido&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Desafio de treino que precisa de compras adicionais para funcionar (260710615, 03/10). Mesmo gateway e mesma escada do Treino Trinca: desafio de entrada e programa vendido depois.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "auks-bot",
    "nome": "AUKS VIP / AUKS BOT",
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-de-operacao",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -5279,6 +5717,172 @@
    ]
   },
   {
+   "slug": "beautifycursos",
+   "nome": "Beautifycursos",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 143,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 143,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Beautifycursos&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Cursos de estetica; depois do pagamento um video diz que o curso sozinho nao da resultado e vende o complemento (2 cursos, R$ 286,90). ID 260146113 (26/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "beto-ia",
+   "nome": "Beto IA",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=beto%20ia&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Assinatura de IA na Payt sem suporte nem canal de cancelamento (260760577, 04/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "biblia-3d",
+   "nome": "Bíblia 3D",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=biblia%203d&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Arquivos digitais de Biblia 3D que abrem mas nao baixam (260739897, 03/10). Cluster religioso + imprimivel.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "biblioteca-do-concurseiro",
    "nome": "Biblioteca do Concurseiro",
    "classe": "oferta",
@@ -5377,9 +5981,9 @@
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
+   "n_obs": 6,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 7,
+   "n_citacoes": 9,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
@@ -5669,7 +6273,7 @@
    "classe": "oferta",
    "nicho": "material-pedagogico",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -5715,8 +6319,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6115,7 +6718,7 @@
    "classe": "oferta",
    "nicho": "servicos-empresariais",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "descartar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -6161,8 +6764,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6171,7 +6773,7 @@
    "classe": "oferta",
    "nicho": "renda-celular-cashback",
    "sub_nicho": "cashback-pix",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "descartar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6444,6 +7046,60 @@
    ]
   },
   {
+   "slug": "chatgpt-privado",
+   "nome": "ChatGPT Privado",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kirvano",
+   "gateways": [
+    "kirvano"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 97,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 97,
+   "s_ticket": 7,
+   "s_lucro": 2,
+   "s_replica": 2,
+   "s_saturacao": 2,
+   "score": 3.0,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 3,
+   "dias_no_ar": 0,
+   "criativos_ultima": 130,
+   "criativos_delta": 10,
+   "ra_reclamacoes": 6,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ChatGPT%20Privado&search_type=keyword_unordered&media_type=all",
+   "n_obs": 3,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 6,
+   "resumo": "Revenda de acesso ao ChatGPT que exige criar e-mail novo todo mes para continuar usando. ID 260135435 (26/09).",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "chef-luana-livros-de-culinaria",
    "nome": "Chef Luana (livros de culinaria)",
    "classe": "oferta",
@@ -6551,6 +7207,61 @@
    "resumo": "Acesso a catalogo de series/filmes. Familia de marcas na mesma operacao Lowify: Cinefy TV, CineShort, Bleff.App, Reliquia Games.",
    "flags": [
     "sem-longevidade"
+   ]
+  },
+  {
+   "slug": "clipshort-ai",
+   "nome": "ClipShort.Ai",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kirvano",
+   "gateways": [
+    "kirvano"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 84.99,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 84.99,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=clipshort&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Ferramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -7167,7 +7878,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -7213,8 +7924,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7377,6 +8087,63 @@
    "ultima_obs": "2026-10-10",
    "n_citacoes": 5,
    "resumo": "Ingresso de evento presencial (set/2026) cancelado sem reembolso nem comunicação oficial - Kiwify também processa ticketing de evento físico.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "coramaflix-corama-tv",
+   "nome": "Coramaflix (Corama TV)",
+   "classe": "oferta",
+   "nicho": "streaming-e-acesso",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "lowify",
+   "gateways": [
+    "lowify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Coramaflix&search_type=keyword_unordered&media_type=all",
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
+   "resumo": "App de doramas por mensalidade que cobra taxa extra por episodio depois do pagamento (260537633, 01/10). E o 'coramafix' que ficou como sinal fraco em 27/09. Na mesma lista da Lowify: Aura Play (novelinhas, 28/09) e 'Plano VIP de Minisseries' vitalicio a R$…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -8108,6 +8875,61 @@
    ]
   },
   {
+   "slug": "date-nights-cristao",
+   "nome": "Date Nights Cristão",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 42,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 42,
+   "s_ticket": 6,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.25,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Date%20Nights%20Cristão&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Kit digital de encontros para casais cristaos, R$ 42 em 2x R$ 21 (compra de 21/09). Duas reclamacoes em 01/10 (260597223, 260601271): conteudo menor que o anunciado e vendedor sem resposta. Biblioteca: busca exata sem anuncio ativo em 02/10.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
    "nome": "De Costureira a Engenheira da Costura (Desafio 5 dias) + Clube da Modista",
    "classe": "oferta",
@@ -8496,6 +9318,117 @@
    ]
   },
   {
+   "slug": "desafio-hiit-dance",
+   "nome": "Desafio Hiit Dance",
+   "classe": "oferta",
+   "nicho": "danca",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "lastlink",
+   "gateways": [
+    "lastlink"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 37,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 37,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=desafio%20hiit%20dance&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Desafio de danca/HIIT a R$ 37 na Lastlink, compra de 05/10 nao entregue (260939505). Mesmo preco de entrada do Treino Trinca, no nicho de danca.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "desafio-jejum-5-em-7",
+   "nome": "Desafio Jejum 5 em 7",
+   "classe": "oferta",
+   "nicho": "emagrecimento",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Desafio%20Jejum%205%20em%207&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Desafio de jejum; comprador relata ligacoes de varios numeros depois da compra (remarketing por telefone). ID 260149309 (26/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "desafio-pilates-em-casa",
    "nome": "Desafio Pilates em Casa",
    "classe": "oferta",
@@ -8659,6 +9592,61 @@
    "n_citacoes": 3,
    "resumo": "R$ 100 para \"desbanir\" um numero bloqueado pelo WhatsApp. Tres meses depois, sem entrega.",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "descobrindo-o-porque-da-fe",
+   "nome": "Descobrindo o Porquê da Fé",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Descobrindo%20o%20porquê%20da%20fé&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Curso religioso de entrada; reclamacao diz que tem pouca Biblia. ID 260025487 (25/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -8880,6 +9868,62 @@
    "n_citacoes": 2,
    "resumo": "A ponte entre PDF e video sem pagar o custo de uma area de membros. O produto e um PDF interativo com mais de 90 \"palavras\" (movimentos); cada verbete tem um QR Code que abre um video curto do movimento. O comprador imprime e coloca num fichario. Nao ha…",
    "flags": [
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "dieta-das-3-fases",
+   "nome": "Dieta das 3 Fases",
+   "classe": "oferta",
+   "nicho": "emagrecimento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=dieta%20das%203%20fases&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de dieta vendido junto com um pack de pre e probiotico natural na mesma compra (260767655, 28/09), sem canal de cancelamento.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
     "status-vencido"
    ]
   },
@@ -9221,6 +10265,63 @@
    ]
   },
   {
+   "slug": "doramas-hot-vitalicio",
+   "nome": "Doramas Hot Vitalício",
+   "classe": "oferta",
+   "nicho": "streaming-e-acesso",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 54,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 54,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Doramas%20Hot&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Acesso vitalicio a doramas por app, 5x R$ 10,78 no cartao (19/09); app nao abre e suporte inexistente. Mesmo cluster de angulo-streaming-doramas-turcas. ID 260059283.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "dossie-do-emagrecimento",
    "nome": "Dossiê do Emagrecimento",
    "classe": "oferta",
@@ -9282,7 +10383,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -9885,6 +10986,61 @@
    ]
   },
   {
+   "slug": "formula-youtube-viral",
+   "nome": "Fórmula YouTube Viral",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 15.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 26.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=fórmula%20youtube%20viral&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de YouTube viral a R$ 37,90 com bump 'Pack Edicao Suprema 2.0' de R$ 15,90 na mesma compra (25/09); reembolso pedido dentro do prazo e marcado como 'falhou' (260849003). A busca pelo nome na Biblioteca so devolve um operador em ingles, sem relacao.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "fornecedores-ocultos-fornecedores-nfc",
    "nome": "Fornecedores Ocultos / Fornecedores NFC",
    "classe": "oferta",
@@ -10110,6 +11266,116 @@
    ]
   },
   {
+   "slug": "frequencia-de-cura-divida-instituto-cristao-online",
+   "nome": "Frequência de Cura Dívida (Instituto Cristão Online)",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 48,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 48,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=frequência%20de%20cura&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de 'frequencia' para cura de dividas do Instituto Cristao Online, R$ 48 na PerfectPay, entregue pela Perfect Academy; compra de 02/10 sem acesso (260840591). Na Biblioteca o produtor nao aparece pelo termo, mas 'frequencia de cura' devolve uma coorte de…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "gerachat",
+   "nome": "Gerachat",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 3,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gerachat&search_type=keyword_unordered&media_type=all",
+   "n_obs": 3,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 3,
+   "resumo": "Assinatura de automacao de atendimento (chat); suporte precario e sistema diz que o comprador nao pagou. ID 260132115 (26/09).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "gestor-ia",
    "nome": "Gestor IA",
    "classe": "oferta",
@@ -10225,7 +11491,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -10271,8 +11537,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11107,6 +12372,62 @@
    ]
   },
   {
+   "slug": "horinha-da-leitura",
+   "nome": "Horinha da Leitura",
+   "classe": "oferta",
+   "nicho": "material-pedagogico",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kirvano",
+   "gateways": [
+    "kirvano"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=horinha%20da%20leitura&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Videos curtos de alfabetizacao e matematica para criancas; a compradora diz que sao 6 videos de 2 minutos com 3 palavras cada (261031525, 07/10). A crianca engaja, o volume e que nao entrega.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
    "slug": "hub-boss-rateio-ia",
    "nome": "Hub Boss (Rateio IA)",
    "classe": "oferta",
@@ -11224,7 +12545,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -11270,8 +12591,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11719,7 +13039,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -11765,8 +13085,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11880,6 +13199,60 @@
    "flags": [
     "lucro-sem-medicao",
     "sem-longevidade"
+   ]
+  },
+  {
+   "slug": "kit-80-casinhas-de-natal-para-imprimir",
+   "nome": "Kit +80 Casinhas de Natal para Imprimir",
+   "classe": "oferta",
+   "nicho": "artesanato",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 12,
+   "criativos_ultima": 2,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=casinhas%20de%20natal&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Kit digital de +80 casinhas de Natal para imprimir, recortar e montar. Na Biblioteca, o anunciante Denis Sah esta no ar desde 23/09 com 2 anuncios. A reclamacao 260786429 (04/10) diz que o arquivo chega mas faltam instrucoes e partes. Produto sazonal do…",
+   "flags": [
+    "score-provisorio",
+    "sem-lp"
    ]
   },
   {
@@ -12488,6 +13861,61 @@
    ]
   },
   {
+   "slug": "lipo-intestinal-feminina",
+   "nome": "Lipo Intestinal Feminina",
+   "classe": "oferta",
+   "nicho": "emagrecimento",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lipo%20intestinal%20feminina&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de emagrecimento vendido por video de divulgacao; compradora diz que o conteudo nao bate com o anuncio e o reembolso 'falhou' (260776427, 04/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "little-genius",
    "nome": "Little Genius — Kit de 235+ atividades educativas",
    "classe": "oferta",
@@ -12648,6 +14076,61 @@
    "ultima_obs": "2026-10-05",
    "n_citacoes": 3,
    "resumo": "E-books/livros de culinária vendidos por influenciadora, sem acesso/resposta após compra.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "livros-de-enoque",
+   "nome": "Livros de Enoque",
+   "classe": "oferta",
+   "nicho": "religioso",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kirvano",
+   "gateways": [
+    "kirvano"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 2,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=livros%20de%20Enoque&search_type=keyword_unordered&media_type=all",
+   "n_obs": 2,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 3,
+   "resumo": "Kit '3 livros de Enoque' nao entregue. ID 260126307 (26/09).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -12860,16 +14343,16 @@
    "dias_no_ar": 6,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "2026-08-17",
    "ra_checado": "2026-10-09",
    "bump_oculto": true,
    "upsell_oculto": true,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Love%20Pix&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
+   "n_obs": 5,
    "ultima_obs": "2026-10-09",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "A escada de taxas inteira num paragrafo. R$ 25,90 na entrada, depois mais R$ 10, depois mais R$ 10 — \"totalizando 56 reais\" para liberar um saque que nunca chega. Esse e o mecanismo que o Pipeline.md chama de \"taxa pra liberar\", e e a razao pela qual o nicho…",
    "flags": [
     "sem-lp"
@@ -12986,12 +14469,124 @@
    ]
   },
   {
+   "slug": "lucrando-com-frutas",
+   "nome": "Lucrando com Frutas",
+   "classe": "oferta",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 29.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 29.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=lucrando%20com%20frutas&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Curso de renda com venda de frutas, R$ 29,90 no Pix, vendedor Mateus Lemos (260772951, 04/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "luke-zap",
+   "nome": "Luke ZAP",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Luke%20ZAP&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "App de WhatsApp instavel, comprado em 23/09; reembolso sem resposta. ID 260146751.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "lumi-ai",
    "nome": "Lumi.ai",
    "classe": "oferta",
    "nicho": "ferramentas-de-pagamento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -13266,6 +14861,62 @@
    ]
   },
   {
+   "slug": "malu-sua-assistente",
+   "nome": "Malu - Sua Assistente",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 24,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 30.95,
+   "s_ticket": 4,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.85,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 2,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Malu%20sua%20assistente&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Assistente para postar na loja da Shopee, R$ 37,90 no Pix; depois da compra pede mais R$ 24 'da API' para funcionar. 2 reclamacoes: 260944511 (compra 14/09) e 261076971 (07/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
    "slug": "manual-do-milhao-lasy-ia",
    "nome": "Manual do Milhão + Lasy IA",
    "classe": "oferta",
@@ -13314,6 +14965,63 @@
    "ultima_obs": "2026-10-10",
    "n_citacoes": 6,
    "resumo": "Dois produtos vendidos juntos — \"Manual do Milhão\" e \"Lasy IA\" — comprador exige estorno alegando que não funcionam; reclamação publicada em duplicidade (2x), sinal de frustração alta.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "manual-do-shihtzu",
+   "nome": "Manual do Shihtzu",
+   "classe": "oferta",
+   "nicho": "pet",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "wiapy",
+   "gateways": [
+    "wiapy"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Manual%20do%20Shihtzu&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "App/manual de raca de cachorro, comprado em 22/09. ID 260008777 (24/09).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -13436,7 +15144,7 @@
    "classe": "oferta",
    "nicho": "desenvolvimento-pessoal",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -13463,27 +15171,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-25",
-   "visto_ultimo": "2026-09-25",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-25",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MDR%20Despertar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-25",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 4,
    "resumo": "Curso/mentoria de R$ 397,99; entrega nao corresponde ao anunciado.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13574,21 +15281,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-23",
-   "visto_ultimo": "2026-09-25",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-25",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Mentoria%20Caio%20Martins&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-09-25",
-   "n_citacoes": 10,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 11,
    "resumo": "Mentoria de alto valor com suporte fantasma. Cliente não conseguiu contato após compra, reembolso não processado dentro do prazo de 7 dias. Padrão: CPA alto, desaparece depois.",
    "flags": [
     "score-provisorio",
@@ -13768,7 +15475,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "mentoria-profissional",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -13968,17 +15675,72 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-03",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Atlas&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-03",
-   "n_citacoes": 7,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 8,
    "resumo": "'Metodo comprovado de rentabilidade' que entrega conteudo generico/desatualizado (~22/09). Visto de novo as 13h00.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "metodo-corpo-definido",
+   "nome": "Método Corpo Definido",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 98,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 98,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Método%20Corpo%20Definido&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Programa fitness vendido como plano trimestral, R$ 98,50 (30/08). ID 260136143.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -14434,7 +16196,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -14480,8 +16242,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14879,7 +16640,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "suplemento-emagrecimento",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -15552,7 +17313,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -15579,27 +17340,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-25",
-   "visto_ultimo": "2026-09-25",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-25",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sistema%20Billion&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-09-25",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 4,
    "resumo": "'Pack de Produtos Validados + Sistema Billion' - Felipe Braz (Grupokrivo). Botao de reembolso nao funciona; produtor inacessivel.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15931,6 +17691,64 @@
    "n_citacoes": 2,
    "resumo": "pay.hotmart.com/Q107143997G · R$ 27,90 (ancorado em R$ 369) · garantia 7 dias · 19 dias no ar.",
    "flags": [
+    "status-vencido"
+   ]
+  },
+  {
+   "slug": "pilates-na-parede-lastlink",
+   "nome": "Pilates na Parede (Lastlink)",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "lastlink",
+   "gateways": [
+    "lastlink"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-08",
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-08",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=pilates%20na%20parede&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 1,
+   "resumo": "Plano de 21 dias de pilates na parede vendido por anuncio no Instagram, entregue num app que so lista o nome dos exercicios, sem video. 3 reclamacoes em 07/10 (261065049, 261022679, 261011291). Mesmo gateway e mesma familia de desafio fitness do Treino Trinca.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
     "status-vencido"
    ]
   },
@@ -16657,6 +18475,61 @@
    ]
   },
   {
+   "slug": "protocolo-natural-da-diabetes",
+   "nome": "Protocolo Natural da Diabetes",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "payt",
+   "gateways": [
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 18,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 18,
+   "s_ticket": 2,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.1,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-09-27",
+   "visto_ultimo": "2026-09-27",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-09-27",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Protocolo%20Natural%20da%20Diabetes&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-09-27",
+   "n_citacoes": 1,
+   "resumo": "Protocolo de saude a R$ 18,50 com oferta 'desconto de 50%' e mais cursos na mesma compra (3 itens em 26/09). Nicho regulado. ID 260149739.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "protocolo-testosterona-2-0",
    "nome": "Protocolo Testosterona 2.0",
    "classe": "oferta",
@@ -16886,7 +18759,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -17278,7 +19151,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -17324,8 +19197,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17436,6 +19308,116 @@
    "n_citacoes": 1,
    "resumo": "Tripwire puro. R$ 9,99 no Pix para entrar, e a oferta seguinte aparece no fim do conteúdo — R$ 29,99. A reclamação de 20/08/2026 descreve a mecânica inteira sem querer: o comprador achou que tinha comprado o curso completo, recebeu 7 questões, e no final foi…",
    "flags": [
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "serbene",
+   "nome": "SerBene",
+   "classe": "oferta",
+   "nicho": "nao-classificado",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 9.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 34.9,
+   "s_ticket": 4,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.5,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=SerBene&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Assinatura vendida a R$ 9,90 que passa a cobrar R$ 59,90 a partir do terceiro mes (260608075, 01/10). Isca de preco na assinatura; o que o pacote entrega nao foi capturado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "seu-curso-viral-em-1-dia-scv",
+   "nome": "Seu Curso Viral em 1 Dia (SCV)",
+   "classe": "oferta",
+   "nicho": "marketing-digital",
+   "sub_nicho": "",
+   "status": "esfriando",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 47,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 60.5,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-02",
+   "visto_ultimo": "2026-10-02",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-02",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Seu%20Curso%20Viral%20em%201%20Dia&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-02",
+   "n_citacoes": 1,
+   "resumo": "Curso de criar e vender curso rapido, R$ 47 mais modulo de automacao de Direct a R$ 27 na mesma compra (29/09). Reclamacao 260572339: comprador ja tinha o curso e o modulo vendido estava vazio.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -17924,16 +19906,16 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 8,
+   "ra_reclamacoes": 15,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-10",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 15,
+   "n_obs": 16,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 34,
+   "n_citacoes": 37,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -18446,7 +20428,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "treino-em-casa",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 3,
    "checkout": "hotmart",
@@ -18468,35 +20450,32 @@
    "moeda": "BRL",
    "ticket_frente": 37,
    "ticket_bump": 0,
-   "ticket_upsell": 37,
+   "ticket_upsell": 220,
    "ticket_medio_est": 74,
    "s_ticket": 7,
-   "s_lucro": 9,
+   "s_lucro": 8,
    "s_replica": 6,
    "s_saturacao": 4,
-   "score": 6.95,
+   "score": 6.6,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-08-22",
-   "rodadas_vista": 3,
-   "dias_no_ar": 0,
-   "criativos_ultima": 0,
-   "criativos_delta": 0,
-   "ra_reclamacoes": 10,
+   "visto_ultimo": "2026-10-08",
+   "rodadas_vista": 7,
+   "dias_no_ar": 58,
+   "criativos_ultima": 210,
+   "criativos_delta": -20,
+   "ra_reclamacoes": 41,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-08-22",
+   "ra_checado": "2026-10-08",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://treinotrinca.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-08-22",
-   "n_citacoes": 6,
+   "n_obs": 7,
+   "ultima_obs": "2026-10-08",
+   "n_citacoes": 15,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
-   "flags": [
-    "lucro-sem-medicao",
-    "sem-longevidade"
-   ]
+   "flags": []
   },
   {
    "slug": "trendly",
@@ -18559,7 +20538,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -18776,12 +20755,67 @@
    ]
   },
   {
+   "slug": "ultracut-ultraprompt",
+   "nome": "UltraCut UltraPrompt",
+   "classe": "oferta",
+   "nicho": "ferramentas-ia",
+   "sub_nicho": "",
+   "status": "ativa",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 78.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 78.9,
+   "s_ticket": 8,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.3,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-05",
+   "visto_ultimo": "2026-10-05",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-05",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ultracut&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-05",
+   "n_citacoes": 1,
+   "resumo": "Ferramenta UltraCut/UltraPrompt, R$ 78,90, vendedor A.S Tecnologia (260782297, 04/10).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "um-puxa-o-outro",
    "nome": "Um Puxa O Outro",
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18827,8 +20861,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19002,7 +21035,7 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "cursos-culinarios",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -19155,9 +21188,9 @@
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=White%20Driver%20app%20motorista&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
+   "n_obs": 6,
    "ultima_obs": "2026-10-08",
-   "n_citacoes": 6,
+   "n_citacoes": 8,
    "resumo": "Primeira aparicao. App vendido como acesso a corridas/mobilidade para motorista de aplicativo, perda de acesso logo apos pagamento via Pix.",
    "flags": [
     "score-provisorio",
@@ -19423,16 +21456,16 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 5,
+   "ra_reclamacoes": 10,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-10",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 16,
+   "n_obs": 17,
    "ultima_obs": "2026-10-10",
-   "n_citacoes": 31,
+   "n_citacoes": 35,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -19555,11 +21588,14 @@
     "monetizze",
     "payt",
     "perfectpay",
-    "ticto"
+    "ticto",
+    "kirvano",
+    "lastlink",
+    "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 7,
-   "leitura": ""
+   "n_passadas": 8,
+   "leitura": "Primeira rodada desde 05/10; as passadas 6x/dia seguem sem gravar. Sinal real nas mesmas tres notas: treino-trinca 33 → 41 (a assinatura Trinca Elite renova automatico), app-do-paizao 6 → 10 com escada R$ 49 + 283 + 6x 86 e rotacao completa dos anuncios em 05-07/10, stalkeia-ai 11 → 15. Quatro notas de PerfectPay/Cakto voltaram de esfriando com uma reclamacao cada; cinco estreias, duas com mais de uma mencao…"
   },
   {
    "arquivo": "Radar/2026-10-07.md",
@@ -19622,11 +21658,15 @@
     "payt",
     "perfectpay",
     "ticto",
-    "yampi"
+    "yampi",
+    "kirvano",
+    "lastlink",
+    "lowify",
+    "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 7,
-   "leitura": ""
+   "n_passadas": 9,
+   "leitura": "Primeira rodada desde 02/10; as passadas 6x/dia nao gravaram nada no intervalo. Sinal forte so no treino-trinca: 14 reclamacoes com ID novo em tres dias (17 para 31) e a busca 'treino trinca' na Biblioteca foi de ~130 para ~230 resultados. zap-radar ganhou 3 e coramaflix-corama-tv 2. As 12 estreias tem uma mencao cada; so as Casinhas de Natal tem anuncio medido (desde 23/09). Complemento das 16h33 a rodada das…"
   },
   {
    "arquivo": "Radar/2026-10-04.md",
@@ -19670,6 +21710,30 @@
    "duracao_min": 0,
    "n_passadas": 2,
    "leitura": ""
+  },
+  {
+   "arquivo": "Radar/2026-10-02.md",
+   "data": "2026-10-02",
+   "titulo": "Radar 2026-10-02",
+   "ofertas_vistas": 12,
+   "novas": 6,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "lowify",
+    "monetizze",
+    "payt",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": "Primeira rodada desde 27/09; as passadas 6x/dia nao gravaram nada no vault nesse intervalo. A paginacao do Reclame Aqui voltou a funcionar pelo navegador interno (clique no numero da pagina), e a rodada leu ~150 corpos com ID em 10 gateways. Sinal novo real e concentrado: treino-trinca com 5 reclamacoes novas e a escada ate R$ 997, chatgpt-privado com 4 e uma coorte de anuncios de ChatGPT anual iniciada em 27-30/09…"
   },
   {
    "arquivo": "Radar/2026-09-30.md",
@@ -19732,11 +21796,21 @@
    "sumiram": 0,
    "fontes": [
     "cakto-pay",
-    "perfectpay"
+    "perfectpay",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "lowify",
+    "monetizze",
+    "payt",
+    "ticto",
+    "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
-   "leitura": ""
+   "n_passadas": 6,
+   "leitura": "Primeira rodada em que o navegador interno abriu o Reclame Aqui (WebFetch devolve 403) e a Biblioteca de Anuncios sem pedir aprovacao: 10 gateways fora de PerfectPay/Cakto, ~50 corpos lidos com ID. Sinal novo real em duas ofertas antigas: treino-trinca ganhou 2 reclamacoes com ID novo e ~91 anuncios ativos desde 08/08, e app-do-paizao ganhou 1 com a mecanica de upsell pos-compra e anuncios desde 04/08. Das 14…"
   },
   {
    "arquivo": "Radar/2026-09-26.md",
@@ -20319,6 +22393,33 @@
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 20 · Coleta: parcial · Achados: 0 ## Quentes (nenhum -- sem achado novo nesta passada) ## Mornas (nenhum) ## Frias (nenhum) Leitura: zero achados novos. A falha sistemica…"
   },
   {
+   "arquivo": "Radar/rodadas/2026-10-08 -- 0309.md",
+   "data": "2026-10-08",
+   "hora": "03:09",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy"
+   ],
+   "paginas": 33,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "bike-in-casa",
+    "chatgpt-privado",
+    "stalkeia-ai",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy · Páginas: 33 · Coleta: ok · Achados: 18 ## Quentes treino-trinca — Lastlink · 8 IDs novos (33 → 41); Trinca Elite renova automatico; Biblioteca ~210 (era ~230)…"
+  },
+  {
    "arquivo": "Radar/rodadas/2026-10-08 -- 0018.md",
    "data": "2026-10-08",
    "hora": "00:18",
@@ -20560,6 +22661,28 @@
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 15 · Coleta: parcial · Achados: 21 ## Quentes stalkeia-ai (PerfectPay) - reconfirmado, 4 pix pro dominio stalkeia.com zap-radar (PerfectPay) - reconfirmado, R$97,09, agora…"
   },
   {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 1633.md",
+   "data": "2026-10-05",
+   "hora": "16:33",
+   "gateways": [
+    "perfectpay",
+    "cakto",
+    "kiwify",
+    "hotmart",
+    "lastlink"
+   ],
+   "paginas": 5,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "atelie-das-velas",
+    "stalkeia-ai",
+    "treino-trinca"
+   ],
+   "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, lastlink · Páginas: 5 · Coleta: parcial · Achados: 6 ## Quentes treino-trinca — Lastlink · 2 IDs novos hoje (31 → 33); acesso travado ate comprar o proximo degrau stalkeia-ai — PerfectPay · 3…"
+  },
+  {
    "arquivo": "Radar/rodadas/2026-10-05 -- 1458.md",
    "data": "2026-10-05",
    "hora": "14:58",
@@ -20653,6 +22776,36 @@
    "origem": "tarefa agendada",
    "ofertas": [],
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 16 · Coleta: parcial · Achados: 31 ## Quentes Stalkeia.ai (PerfectPay) - reaparece, cluster de apps de rastreamento ZAP Radar (PerfectPay) - reconfirmado R$97,09 Loopyz…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-10-05 -- 0317.md",
+   "data": "2026-10-05",
+   "hora": "03:17",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "payt",
+    "wiapy",
+    "lowify",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 35,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "100-projetos-de-parquinho",
+    "app-do-paizao",
+    "chatgpt-privado",
+    "coramaflix-corama-tv",
+    "livros-de-enoque",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, lastlink, kirvano, payt, wiapy, lowify, eduzz, monetizze · Páginas: 35 · Coleta: ok · Achados: 18 ## Quentes treino-trinca — Lastlink · 14 reclamacoes com ID novo em 02-04/10 (17 → 31); Biblioteca 'treino…"
   },
   {
    "arquivo": "Radar/rodadas/2026-10-05 -- 0019.md",
@@ -20926,6 +23079,33 @@
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 30 · Coleta: parcial · Achados: 15 ## Quentes stalkeia-ai — 7 mencoes, familia Stalkeia/Stalkea/Stalker segue sendo o maior volume do radar zap-radar — confirmado R$97,09…"
   },
   {
+   "arquivo": "Radar/rodadas/2026-10-02 -- 0102.md",
+   "data": "2026-10-02",
+   "hora": "01:02",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "lastlink",
+    "wiapy",
+    "payt",
+    "kirvano",
+    "lowify"
+   ],
+   "paginas": 26,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "chatgpt-privado",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify · Páginas: 26 · Coleta: ok · Achados: 12 ## Quentes treino-trinca — Lastlink · 5 reclamacoes com ID novo em 01/10; escada R$ 37 + 220 + 997 (Plano…"
+  },
+  {
    "arquivo": "Radar/rodadas/2026-09-30 -- 2000.md",
    "data": "2026-09-30",
    "hora": "20:00",
@@ -21171,6 +23351,31 @@
    "origem": "tarefa agendada",
    "ofertas": [],
    "resumo": "Gateways: perfectpay, cakto · Páginas: 3 · Coleta: parcial · Achados: 0 ## Status Coleta severamente limitada: apenas 3 páginas tiveram conteúdo (PerfectPay pág. 1, Cakto pág. 1 e 6). Demais páginas retornaram \"0 de 0 reclamações\". Total…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-09-27 -- 0113.md",
+   "data": "2026-09-27",
+   "hora": "01:13",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "lastlink",
+    "wiapy",
+    "payt",
+    "kirvano",
+    "lowify"
+   ],
+   "paginas": 10,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "treino-trinca"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, eduzz, monetizze, lastlink, wiapy, payt, kirvano, lowify · Páginas: 10 · Coleta: ok · Achados: 16 ## Quentes treino-trinca — Lastlink · 2 reclamacoes novas (IDs 260142269, 260143667) com a escada R$…"
   },
   {
    "arquivo": "Radar/rodadas/2026-09-27 -- 0015.md",
@@ -21598,7 +23803,7 @@
     "angulo": 1
    },
    "2026-09-27": {
-    "oferta": 3,
+    "oferta": 16,
     "angulo": 0
    },
    "2026-09-28": {
@@ -21613,6 +23818,10 @@
     "oferta": 5,
     "angulo": 2
    },
+   "2026-10-02": {
+    "oferta": 6,
+    "angulo": 0
+   },
    "2026-10-03": {
     "oferta": 17,
     "angulo": 3
@@ -21622,7 +23831,7 @@
     "angulo": 12
    },
    "2026-10-05": {
-    "oferta": 9,
+    "oferta": 22,
     "angulo": 11
    },
    "2026-10-06": {
@@ -21634,7 +23843,7 @@
     "angulo": 2
    },
    "2026-10-08": {
-    "oferta": 8,
+    "oferta": 13,
     "angulo": 5
    },
    "2026-10-09": {
@@ -21665,16 +23874,17 @@
    "2026-09-24": 27,
    "2026-09-25": 25,
    "2026-09-26": 15,
-   "2026-09-27": 9,
+   "2026-09-27": 25,
    "2026-09-28": 8,
    "2026-09-29": 10,
    "2026-09-30": 13,
+   "2026-10-02": 12,
    "2026-10-03": 34,
    "2026-10-04": 91,
-   "2026-10-05": 70,
+   "2026-10-05": 90,
    "2026-10-06": 43,
    "2026-10-07": 9,
-   "2026-10-08": 29,
+   "2026-10-08": 44,
    "2026-10-09": 12,
    "2026-10-10": 37
   }
@@ -22061,16 +24271,10 @@
     "campo": "s_lucro",
     "msg": "s_lucro 8 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
     "codigo": "regra-s_lucro"
-   },
-   {
-    "arquivo": "Ofertas/treino-trinca.md",
-    "campo": "s_lucro",
-    "msg": "s_lucro 9 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
-    "codigo": "regra-s_lucro"
    }
   ],
   "resumo_avisos": {
-   "regra-s_lucro": 14,
+   "regra-s_lucro": 13,
    "status-vencido": 1,
    "vocabulario": 38
   },
@@ -22078,54 +24282,53 @@
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
-    "preenchidas": 59,
-    "total": 280
+    "preenchidas": 63,
+    "total": 317
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
-    "preenchidas": 25,
-    "total": 280
+    "preenchidas": 31,
+    "total": 317
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
-    "preenchidas": 69,
-    "total": 280
+    "preenchidas": 70,
+    "total": 317
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 251,
-    "total": 280
+    "preenchidas": 288,
+    "total": 317
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 146,
-    "total": 280
+    "preenchidas": 166,
+    "total": 317
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
-    "preenchidas": 112,
-    "total": 280
+    "preenchidas": 114,
+    "total": 317
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
-    "preenchidas": 105,
-    "total": 280
+    "preenchidas": 107,
+    "total": 317
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 223,
-    "total": 280
+    "preenchidas": 260,
+    "total": 317
    }
   ],
   "fila_enriquecimento": [
-   "treino-trinca",
    "desafio-romanos-12-2",
    "parabolas-kids",
    "renovacao-da-mente-mulheres-no-secreto",
@@ -22139,13 +24342,14 @@
    "teacher-zap",
    "loopyz",
    "gestor-ia",
-   "soulmate-sketcher"
+   "soulmate-sketcher",
+   "cura-da-alma-devocional"
   ],
   "status_vencido": [
+   "100-modelos-de-biscoitos-natalinos",
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
    "50-guias-para-cuidado-da-bike",
-   "900-mapas-mentais",
    "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
    "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
@@ -22194,18 +24398,16 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
-   "appluna-net",
    "atlas-das-patologias",
    "aula-magnetica-com-obs",
    "autismo-para-pais-lacerda",
+   "beto-ia",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
-   "caderno-de-professor",
    "cae-course",
    "cantigas-da-bailarina",
    "capcut-pro-revenda-de-licenca",
    "captchas-no-google",
-   "carteira-nacional-do-estudante-digital",
    "casinha-dos-sonhos",
    "clube-conecta",
    "clube-da-inteligencia-artificial-publicacoes-inovadoras-capes",
@@ -22214,7 +24416,6 @@
    "combo-10-cursos-danca-do-ventre",
    "combo-da-aprovacao-2023-projeto-frida-sobrancelhas-maos-livres",
    "comunidade-influencers-ia-ascensao",
-   "comunidade-renda-em-dolar",
    "congresso-humanamente-salvador",
    "curso-de-marketing-e-vendas-com-ia",
    "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
@@ -22224,8 +24425,10 @@
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
+   "desafio-hiit-dance",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
+   "dieta-das-3-fases",
    "direct-line-app",
    "do-rabisco-a-letra-bonita",
    "dossie-do-emagrecimento",
@@ -22237,17 +24440,15 @@
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
    "frequencia-davinci",
-   "glow-mode",
    "gtd-academy-anderson-seabra",
    "guia-de-financas-gabriela-vitorino",
    "hero-live-shop",
+   "horinha-da-leitura",
    "hub-boss-rateio-ia",
    "ia-do-futuro",
-   "ia-fx-promocional",
    "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
    "imersao-tradutor-de-almas-andrea-vermont",
    "indicadores-de-trading",
-   "instaunlocked",
    "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
@@ -22255,13 +24456,12 @@
    "licao-kids",
    "little-genius",
    "mac-bruno-aguiar-3-0",
-   "mdr-despertar-2-0",
+   "malu-sua-assistente",
    "mentoria-thiago-lobos",
    "metodo-live-perpetua-liveflow-ia",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
    "missa-em-atividades",
-   "modao-raiz",
    "moldes-digitais-de-artesanato-rendafini",
    "moldes-para-artesanato-rendafini",
    "movimentos-de-adoracao",
@@ -22271,9 +24471,9 @@
    "natflix-fitness",
    "oblivium-digital-vendedor-produto-nao-identificado",
    "orientacao-farmaceutica-na-pratica-2-0",
-   "pack-produtos-validados-sistema-billion",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
+   "pilates-na-parede-lastlink",
    "placar-exato",
    "plano-carteira-rumo-ao-milhao-blockcap-llc",
    "play-videos-premiados",
@@ -22284,7 +24484,6 @@
    "protocolo-3s",
    "protocolo-testosterona-2-0",
    "quadradinhos-da-vovo",
-   "rpr-recomendacoes-personalizadas-remotas",
    "sala-de-jogos-keep-live",
    "shoppro",
    "sistema-de-fornecedores-ocultos-marcelle-martins",
@@ -22292,12 +24491,11 @@
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
-   "um-puxa-o-outro",
    "youtube-dark-peter",
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1011
+   "canonico": 1111
   }
  },
  "vocabulario": {
@@ -22344,11 +24542,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "798adfd796c2c3d7",
-  "atualizado_em": "2026-10-10T14:49:07-03:00",
-  "ofertas": 280,
+  "hash": "75091f697a80df6b",
+  "atualizado_em": "2026-10-11T21:10:09-03:00",
+  "ofertas": 317,
   "angulos": 72,
-  "observacoes": 659,
+  "observacoes": 722,
   "ultima_rodada": "2026-10-10",
   "ultima_passada": {
    "data": "2026-10-10",
