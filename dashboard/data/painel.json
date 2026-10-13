@@ -3,11 +3,11 @@
  "totais": {
   "ofertas": 331,
   "angulos": 76,
-  "observacoes": 754,
-  "dias_radar": 34,
-  "passadas": 82,
+  "observacoes": 764,
+  "dias_radar": 35,
+  "passadas": 83,
   "analises": 12,
-  "ultima_rodada": "2026-10-12"
+  "ultima_rodada": "2026-10-13"
  },
  "ofertas": [
   {
@@ -2909,7 +2909,8 @@
    "resumo": "Reembolso pedido para ebook/modelo de currículo vendido na Hotmart; sem nome de marca ou produtor citado no corpo.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3071,7 +3072,8 @@
    "resumo": "Anuncio em redes sociais promete renda extra avaliando produtos/empresas; comprador paga e nao recebe acesso nem produto. Angulo classico de renda passiva falsa.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -3623,7 +3625,8 @@
    "resumo": "Angulo novo no radar: ebook/modelo de currículo vendido como infoproduto na Hotmart. Reclamacao e so de reembolso, sem nome de marca. Primeira vez que o nicho de emprego/carreira aparece nesta varredura.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -4815,7 +4818,8 @@
    "resumo": "Reclamacao generica de suplemento nao recebido e falta de resposta da Braip; sem nome de produto no corpo.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5575,21 +5579,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-09",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Arsenal%20Lucrativo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 6,
    "resumo": "Comunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -8118,21 +8122,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Comunidade%20MVZ&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 7,
    "resumo": "R$ 149,73. Reembolso em 7 dias jogado entre Cakto e produtor; resolvido com estorno.",
    "flags": [
     "score-provisorio",
@@ -10861,7 +10865,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -11452,21 +11457,21 @@
    "score": 2.15,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-12",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-12",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-12",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 5,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -13257,7 +13262,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -13284,27 +13289,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-10",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gabriel%20Sampaio%20Implementação&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 5,
    "resumo": "Curso/mentoria de ticket alto chamado 'Implementação', vendido por Gabriel Sampaio. Reclamante menciona que a compra também passou pela Hotmart, sugerindo venda multi-gateway. Primeira aparição no radar.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13369,7 +13373,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -13396,27 +13400,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-10",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Influ%20Lab&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 4,
    "resumo": "Curso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17441,21 +17444,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-06",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-06",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MVR%20Daniel%20Fernandes&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-06",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 4,
    "resumo": "Curso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp.",
    "flags": [
     "score-provisorio",
@@ -17854,7 +17857,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -18695,7 +18699,7 @@
    "classe": "oferta",
    "nicho": "ecommerce-fisico",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "yampi",
@@ -18722,27 +18726,26 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Portovian&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 3,
    "resumo": "Loja de produto físico (não é infoproduto) com não entrega via Correios. Fica registrado por aparecer no mesmo pedágio, mas é e-commerce, não low ticket digital.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19186,7 +19189,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -19297,7 +19301,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -20622,21 +20627,21 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-29",
-   "visto_ultimo": "2026-09-30",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-09-30",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-09-30",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 7,
    "resumo": "App de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada 13:51 de hoje — tráfego pago sustentado.",
    "flags": [
     "score-provisorio",
@@ -20792,21 +20797,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-09",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=TCS%20Spy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 6,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 8,
    "resumo": "App de monitoramento/espionagem vendido em assinatura mensal via Cakto. Reclamação de não-reembolso de mensalidade (compra 25/09). 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -21899,21 +21904,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-09",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-09",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VevetFit&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-09",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 5,
    "resumo": "Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).",
    "flags": [
     "score-provisorio",
@@ -22144,7 +22149,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -22537,6 +22543,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-13.md",
+   "data": "2026-10-13",
+   "titulo": "Radar 2026-10-13",
+   "ofertas_vistas": 10,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "yampi"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-12.md",
    "data": "2026-10-12",
@@ -23170,6 +23195,34 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-13 -- 1924.md",
+   "data": "2026-10-13",
+   "hora": "19:24",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "arsenal-lucrativo",
+    "comunidade-mvz",
+    "fornece-up",
+    "implementacao-mentor-gabriel-sampaio",
+    "influ-lab",
+    "mvr-daniel-fernandes",
+    "portovian",
+    "stalkea-ai",
+    "tcs-spy",
+    "vevetfit"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 1 · Coleta: parcial · Achados: 10 ## Quentes stalkea-ai -- PerfectPay -- recorrente desde 22/09, 2 novos pedidos de estorno hoje, grafia nova StalkeIA.com fornece-up …"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-12 -- 0400.md",
    "data": "2026-10-12",
@@ -25015,7 +25068,8 @@
    "2026-10-09": 12,
    "2026-10-10": 37,
    "2026-10-11": 21,
-   "2026-10-12": 11
+   "2026-10-12": 11,
+   "2026-10-13": 10
   }
  },
  "analises": [
@@ -25521,12 +25575,15 @@
    "angulo-curso-de-musica-com-propaganda-enganosa-sem-nome",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
+   "angulo-ebook-modelo-de-curriculo",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
+   "angulo-esquema-de-avaliacao-de-produtos-renda-extra",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
    "angulo-golpe-de-taxa-para-liberar-pagamento-emprestimo",
    "angulo-guia-digital-de-100-receitas-para-pets",
    "angulo-licenca-para-trabalhar-avaliando-produtos-sem-marca",
    "angulo-material-pronto-para-quem-ensina-danca",
+   "angulo-nome-nao-capturado-ebook-de-curriculo",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
    "angulo-oblivium-digital-produto-nao-identificado",
    "angulo-pacote-de-figurinha-virtual-sem-nome",
@@ -25544,6 +25601,7 @@
    "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
    "angulo-sem-nome-guia-digital-de-cuidados-com-bicicleta",
    "angulo-sem-nome-licenca-para-trabalhar-no-facebook",
+   "angulo-suplemento-nao-identificado",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
@@ -25581,6 +25639,7 @@
    "direct-line-app",
    "do-rabisco-a-letra-bonita",
    "dossie-do-emagrecimento",
+   "escola-de-personagem",
    "evoluft-programa-de-exercicios",
    "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
    "fluency-english",
@@ -25600,9 +25659,7 @@
    "ia-do-futuro",
    "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
    "imersao-tradutor-de-almas-andrea-vermont",
-   "implementacao-mentor-gabriel-sampaio",
    "indicadores-de-trading",
-   "influ-lab",
    "irryss",
    "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
@@ -25626,6 +25683,7 @@
    "natflix-fitness",
    "oblivium-digital-vendedor-produto-nao-identificado",
    "orientacao-farmaceutica-na-pratica-2-0",
+   "orlando-estrategico",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "placar-exato",
@@ -25633,10 +25691,11 @@
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
-   "portovian",
    "postcloner",
    "protocolo-3s",
    "protocolo-testosterona-2-0",
+   "protocolo-zero-barriga-40-club-40-sem-barriga",
+   "pva-primeira-venda-automatica",
    "quadradinhos-da-vovo",
    "receitas-sem-pensar",
    "renda-fortuna",
@@ -25652,11 +25711,12 @@
    "tutu-da-ju-assinatura",
    "viva-de-martelinho-de-ouro",
    "viver-de-youtube",
+   "vonixx-curso-de-estofamento-automotivo",
    "youtube-dark-peter",
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1161
+   "canonico": 1171
   }
  },
  "vocabulario": {
@@ -25703,22 +25763,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "12affc0a0cccc28b",
-  "atualizado_em": "2026-10-12T04:02:12-03:00",
+  "hash": "eede0642b7ab274f",
+  "atualizado_em": "2026-10-13T19:25:35-03:00",
   "ofertas": 331,
   "angulos": 76,
-  "observacoes": 754,
-  "ultima_rodada": "2026-10-12",
+  "observacoes": 764,
+  "ultima_rodada": "2026-10-13",
   "ultima_passada": {
-   "data": "2026-10-12",
-   "hora": "04:00",
+   "data": "2026-10-13",
+   "hora": "19:24",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "yampi"
    ]
   }
  }

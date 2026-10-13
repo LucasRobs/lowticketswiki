@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-10
-visto_ultimo: 2026-10-10
-rodadas_vista: 1
+visto_ultimo: 2026-10-13
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria/curso 'Implementacao', mentor citado Gabriel Sampaio. Reclamante pede estorno das parcelas restantes. Ja registrado no vault; reaparece em dia distinto.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/
+
+## Rodada 2026-10-13
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria de Gabriel Sampaio, recorrente desde 10/10. Caso de hoje: compra feita via Hotmart mas reclamação registrada contra a Kiwify -- sinal de operação multi-gateway. Pede estorno total das parcelas.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/

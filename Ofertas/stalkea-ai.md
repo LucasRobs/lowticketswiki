@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-29
-visto_ultimo: 2026-09-30
-rodadas_vista: 2
+visto_ultimo: 2026-10-13
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-30
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Funcionalidades não existem e cobram pagamentos adicionais. 6ª menção confirmada em 24h (persistência desde 26/09).
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/
+
+## Rodada 2026-10-13
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar Instagram/WhatsApp, recorrente desde 22/09 em quase toda rodada. Hoje (13/10) mais 2 pedidos de estorno por 'produto enganoso', com grafia nova 'StalkeIA.com' além de Stalkea.ai/Stalker AI.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/

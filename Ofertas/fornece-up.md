@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-12
-rodadas_vista: 2
+visto_ultimo: 2026-10-13
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-12
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway PerfectPay). Plataforma de fornecedores por assinatura parcelada (ja mapeada como estreia na rodada anterior, 8 mencoes). Nova reclamacao no mesmo padrao: cancelamento/reembolso dentro do prazo de 7 dias, produtor sem resposta. Continua ativa poucas horas depois da ultima passada.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-minha-compra-e-ser-reembolsado-em-r-31554_liRRdrRGZL9uTLus/
+
+## Rodada 2026-10-13
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Assinatura de acesso a fornecedores/revenda, recorrente desde 25/09 e marcada quente na rodada anterior (debutou 11/10 com 8 IDs). Hoje mais 2 pedidos de estorno (um deles via Pix). Uma reclamação cita taxas de R$97-250 cobradas pra liberar um saldo de R$17.658 -- mecânica de order bump/upsell pesada pra travar saque.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-fornece-up-apos-cancelamento-em-7-dias_nK2G6qUC6C7nWEIi/

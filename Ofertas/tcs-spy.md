@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-09
-visto_ultimo: 2026-10-10
-rodadas_vista: 2
+visto_ultimo: 2026-10-13
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-me
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Cakto). App de espionagem por assinatura mensal. Repetiu na rodada de hoje depois de aparecer pela primeira vez ontem (09/10) — 2 dias distintos, sinal de tráfego contínuo.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/
+
+## Rodada 2026-10-13
+
+1 mencao(oes) nesta varredura (gateway Cakto). App de espionagem vendido via Cakto, recorrente (3 menções em 10/10, agora mais 1 em 13/10). Pedido de reembolso de R$120,89.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/

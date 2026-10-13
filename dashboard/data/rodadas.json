@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-13.md",
+   "data": "2026-10-13",
+   "titulo": "Radar 2026-10-13",
+   "ofertas_vistas": 10,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "yampi"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-13\n\n## Novas\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 8\n- [[fornece-up]] — ra_reclamacoes atualizado para 8\n- [[arsenal-lucrativo]] — ra_reclamacoes atualizado para 1\n- [[tcs-spy]] — ra_reclamacoes atualizado para 1\n- [[comunidade-mvz]] — ra_reclamacoes atualizado para 1\n- [[mvr-daniel-fernandes]] — ra_reclamacoes atualizado para 2\n- [[vevetfit]] — ra_reclamacoes atualizado para 1\n- [[implementacao-mentor-gabriel-sampaio]] — ra_reclamacoes atualizado para 1\n- [[influ-lab]] — ra_reclamacoes atualizado para 1\n- [[portovian]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-13 -- 1924]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 10 achado(s) - 5 gateways, so pagina 1 (RA com paginacao quebrada), 9 achados -- quase todos recorrentes (Stalkea.ai, Fornece Up, MVR/Daniel Fernandes em…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-12.md",
    "data": "2026-10-12",
    "titulo": "Radar 2026-10-12",
@@ -634,6 +653,34 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-13 -- 1924.md",
+   "data": "2026-10-13",
+   "hora": "19:24",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "arsenal-lucrativo",
+    "comunidade-mvz",
+    "fornece-up",
+    "implementacao-mentor-gabriel-sampaio",
+    "influ-lab",
+    "mvr-daniel-fernandes",
+    "portovian",
+    "stalkea-ai",
+    "tcs-spy",
+    "vevetfit"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-13]].\n\n# Rodada — 13/10/2026 · 19:24 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, yampi · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 10\n\n## Quentes\n- [[stalkea-ai]] -- PerfectPay -- recorrente desde 22/09, 2 novos pedidos de estorno hoje, grafia nova StalkeIA.com\n- [[fornece-up]] -- PerfectPay -- recorrente, mecanica de taxa pra liberar saldo (R$97-250 pra sacar R$17.658)\n- [[mvr-daniel-fernandes]] -- Hotmart -- 2 reclamacoes hoje contra a mentoria de Daniel Fernandes\n\n## Mornas\n- [[arsenal-lucrativo]] -- Cakto\n- [[tcs-spy]] -- Cakto -- R$120,89\n- [[comunidade-mvz]] -- Cakto -- ligado a TT Shop\n- [[vevetfit]] -- Hotmart\n- [[implementacao-mentor-gabriel-sampaio]] -- Kiwify -- compra via Hotmart, reclamacao na Kiwify (multi-gateway)\n- [[influ-lab]] -- Kiwify\n- [[portovian]] -- Yampi -- R$265,05\n\nLeitura: a paginacao classica (?pagina=N) do ReclameAqui segue quebrada em todos os 5 gateways testados -- so a pagina 1 (5 reclamacoes mais recentes) carrega; paginas 2+ retornam 0 resultados. Isso ja tinha sido registrado na rodada anterior (12/10 04:00) e se confirma de novo. Com isso, a cobertura desta passada e as 5 reclamacoes mais recentes de cada gateway (25 no total), nao a janela completa de ~39h desde a ultima passada (12/10 04:00). Quase todos os achados sao ofertas ja conhecidas do vault, nao estreias.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-12 -- 0400.md",
    "data": "2026-10-12",

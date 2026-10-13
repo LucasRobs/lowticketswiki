@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-10",
-  "visto_ultimo": "2026-10-10",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-13",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-10",
+  "ra_checado": "2026-10-13",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -65,14 +65,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "kiwify"
   ]
  },
- "corpo": "# Influ Lab\n\n## Angulo\nCurso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-10 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/\n\n## Historico\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso novo no radar (sem nota previa no vault). Reclamante diz nao ter acessado o conteudo apos a compra via Kiwify.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/\n",
+ "corpo": "# Influ Lab\n\n## Angulo\nCurso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-10 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/\n\n## Historico\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso novo no radar (sem nota previa no vault). Reclamante diz nao ter acessado o conteudo apos a compra via Kiwify.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso sobre influenciadores/IA, recorrente desde 10/10 (5 menções naquele dia). Hoje mais 1 pedido de reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/\n",
  "observacoes": [
   {
    "data": "2026-10-10",
@@ -85,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Curso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido."
+  },
+  {
+   "data": "2026-10-13",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Curso sobre influenciadores/IA, recorrente desde 10/10 (5 menções naquele dia). Hoje mais 1 pedido de reembolso."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-13 -- 1924.md",
+   "data": "2026-10-13",
+   "titulo": "Passada 2026-10-13 19:24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-13.md",
+   "data": "2026-10-13",
+   "titulo": "Radar 2026-10-13"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-10 -- 0949.md",

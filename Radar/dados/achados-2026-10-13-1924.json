@@ -1,0 +1,140 @@
+{
+  "data_varredura": "2026-10-13",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288231, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 1},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 513, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkea.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar Instagram/WhatsApp, recorrente desde 22/09 em quase toda rodada. Hoje (13/10) mais 2 pedidos de estorno por 'produto enganoso', com grafia nova 'StalkeIA.com' além de Stalkea.ai/Stalker AI.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/"
+    },
+    {
+      "produto": "Fornece Up",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 12",
+      "termo_busca": "Fornece Up",
+      "descricao": "Assinatura de acesso a fornecedores/revenda, recorrente desde 25/09 e marcada quente na rodada anterior (debutou 11/10 com 8 IDs). Hoje mais 2 pedidos de estorno (um deles via Pix). Uma reclamação cita taxas de R$97-250 cobradas pra liberar um saldo de R$17.658 -- mecânica de order bump/upsell pesada pra travar saque.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-fornece-up-apos-cancelamento-em-7-dias_nK2G6qUC6C7nWEIi/"
+    },
+    {
+      "produto": "Arsenal Lucrativo (Flow Ultra)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Arsenal Lucrativo",
+      "descricao": "Comunidade de 'renda extra', recorrente (09/10 e 10/10, agora 13/10). Reclamação cita 'Comunidade Arsenal Lucrativo - APENAS FLOW ULTRA' e produtor não identificado no texto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89",
+      "termo_busca": "TCS Spy",
+      "descricao": "App de espionagem vendido via Cakto, recorrente (3 menções em 10/10, agora mais 1 em 13/10). Pedido de reembolso de R$120,89.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Comunidade MVZ (TT Shop)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "educacao",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 149,73",
+      "termo_busca": "Comunidade MVZ",
+      "descricao": "Curso/comunidade ligado a 'TT Shop', recorrente desde 26/09 e 09/10. Reclamação de hoje pede estorno por garantia expirada (compra 02/10, prazo até 07/10).",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/"
+    },
+    {
+      "produto": "MVR (Daniel Fernandes)",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-digital",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "MVR Daniel Fernandes",
+      "descricao": "Mentoria 'Máquina de Vendas Realizada' (MVR) de Daniel Fernandes, recorrente desde 04/10. Hoje 2 reclamações distintas citando o mentor, uma delas com o nome abreviado 'MVR'.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "VevetFit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "VevetFit",
+      "descricao": "Curso online de 1 ano vendido como VevetFit, recorrente desde 08/10. Reclamação de hoje: compra em agosto/2025, pede cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/"
+    },
+    {
+      "produto": "Implementação (mentor Gabriel Sampaio)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 164,08 em 12x (total R$ 1.968,96)",
+      "termo_busca": "Gabriel Sampaio Implementação",
+      "descricao": "Mentoria de Gabriel Sampaio, recorrente desde 10/10. Caso de hoje: compra feita via Hotmart mas reclamação registrada contra a Kiwify -- sinal de operação multi-gateway. Pede estorno total das parcelas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/"
+    },
+    {
+      "produto": "Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Influ Lab",
+      "descricao": "Curso sobre influenciadores/IA, recorrente desde 10/10 (5 menções naquele dia). Hoje mais 1 pedido de reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "Portovian",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "ecommerce-fisico",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 265,05",
+      "termo_busca": "Portovian",
+      "descricao": "Produto físico de e-commerce, recorrente desde 05/10 (3 menções anteriores). Hoje mais 1 pedido de cancelamento/estorno.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovian-e-quero-o-cancelamento-e-estorno_r0yLd7lwixZPXOtn/"
+    }
+  ],
+  "passada": {
+    "hora": "19:24",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkea-ai]] -- PerfectPay -- recorrente desde 22/09, 2 novos pedidos de estorno hoje, grafia nova StalkeIA.com\n- [[fornece-up]] -- PerfectPay -- recorrente, mecanica de taxa pra liberar saldo (R$97-250 pra sacar R$17.658)\n- [[mvr-daniel-fernandes]] -- Hotmart -- 2 reclamacoes hoje contra a mentoria de Daniel Fernandes\n\n## Mornas\n- [[arsenal-lucrativo]] -- Cakto\n- [[tcs-spy]] -- Cakto -- R$120,89\n- [[comunidade-mvz]] -- Cakto -- ligado a TT Shop\n- [[vevetfit]] -- Hotmart\n- [[implementacao-mentor-gabriel-sampaio]] -- Kiwify -- compra via Hotmart, reclamacao na Kiwify (multi-gateway)\n- [[influ-lab]] -- Kiwify\n- [[portovian]] -- Yampi -- R$265,05\n\nLeitura: a paginacao classica (?pagina=N) do ReclameAqui segue quebrada em todos os 5 gateways testados -- so a pagina 1 (5 reclamacoes mais recentes) carrega; paginas 2+ retornam 0 resultados. Isso ja tinha sido registrado na rodada anterior (12/10 04:00) e se confirma de novo. Com isso, a cobertura desta passada e as 5 reclamacoes mais recentes de cada gateway (25 no total), nao a janela completa de ~39h desde a ultima passada (12/10 04:00). Quase todos os achados sao ofertas ja conhecidas do vault, nao estreias.",
+    "resumo": "5 gateways, so pagina 1 (RA com paginacao quebrada), 9 achados -- quase todos recorrentes (Stalkea.ai, Fornece Up, MVR/Daniel Fernandes em destaque)."
+  }
+}

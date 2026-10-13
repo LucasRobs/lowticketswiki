@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-06
-rodadas_vista: 2
+visto_ultimo: 2026-10-13
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mvr-daniel-fernandes"
 gateways_detectados: [hotmart, yampi]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [hotmart, yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Yampi). Curso vendido como atualizado mas com aulas de 2021. Terceiro dia diferente de aparicao (visto antes via Yampi 04/10 e Hotmart 05/10, agora de novo via Yampi) - multi-gateway, sobe para quente. Vendedor para de responder apos a venda.
 
 Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/
+
+## Rodada 2026-10-13
+
+2 mencao(oes) nesta varredura (gateway Hotmart). Mentoria 'Máquina de Vendas Realizada' (MVR) de Daniel Fernandes, recorrente desde 04/10. Hoje 2 reclamações distintas citando o mentor, uma delas com o nome abreviado 'MVR'.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/

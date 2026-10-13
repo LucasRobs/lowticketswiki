@@ -35,8 +35,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-29",
-  "visto_ultimo": "2026-09-30",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-13",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-09-30",
+  "ra_checado": "2026-10-13",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Stalkea.ai\n\n## Angulo\nApp de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada 13:51 de hoje — tráfego pago sustentado.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-09-29 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/\n\n## Historico\n\n## Rodada 2026-09-30\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Funcionalidades não existem e cobram pagamentos adicionais. 6ª menção confirmada em 24h (persistência desde 26/09).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/\n",
+ "corpo": "# Stalkea.ai\n\n## Angulo\nApp de espionar WhatsApp/Instagram. Promete monitoramento que não funciona. Sem suporte direto. Aparece novamente nesta rodada após rodada 13:51 de hoje — tráfego pago sustentado.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-09-29 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/\n\n## Historico\n\n## Rodada 2026-09-30\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Funcionalidades não existem e cobram pagamentos adicionais. 6ª menção confirmada em 24h (persistência desde 26/09).\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-propaganda-enganosa-do_5f8hc5vyjbPiwCLm/\n\n## Rodada 2026-10-13\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar Instagram/WhatsApp, recorrente desde 22/09 em quase toda rodada. Hoje (13/10) mais 2 pedidos de estorno por 'produto enganoso', com grafia nova 'StalkeIA.com' além de Stalkea.ai/Stalker AI.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/\n",
  "observacoes": [
   {
    "data": "2026-09-29",
@@ -98,9 +98,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. App de espionar WhatsApp/Instagram. Funcionalidades não existem e cobram pagamentos adicionais. 6ª menção confirmada em 24h (persistência desde 26/09)."
+  },
+  {
+   "data": "2026-10-13",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. App de espionar Instagram/WhatsApp, recorrente desde 22/09 em quase toda rodada. Hoje (13/10) mais 2 pedidos de estorno por 'produto enganoso', com grafia nova 'StalkeIA.com' além de Stalkea.ai/Stalker AI."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-13 -- 1924.md",
+   "data": "2026-10-13",
+   "titulo": "Passada 2026-10-13 19:24"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-13.md",
+   "data": "2026-10-13",
+   "titulo": "Radar 2026-10-13"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-09-30 -- 1318.md",
