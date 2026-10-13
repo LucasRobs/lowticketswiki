@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-10
-rodadas_vista: 15
+visto_ultimo: 2026-10-13
+rodadas_vista: 16
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 28
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -195,3 +195,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-prop
 28 mencao(oes) nesta varredura (gateway PerfectPay). 13 reclamacoes com ID novo de 08 a 11/10, todas acima de 261105725: 261382501, 261382373, 261347677, 261293029, 261292483, 261292285, 261288369, 261253637 ('Acesso Completo 2.0'), 261204241, 261147273 (stalkeia.website), 261144399, 261114367 (taxas extras para liberar) e 261110827. Maior volume da nota desde a estreia.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (13 IDs de 261110827 a 261382501)
+
+## Rodada 2026-10-13
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). Segue ativo: 2 reclamacoes novas em 11/10, cobrancas de R$55,35 (9x) e R$44,80 (7x) nao reembolsadas. PerfectPay nega venda direta. Recorrente no radar ha semanas.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-um-app-de-espionagem-falso-e-fui-cobrado-indevidamente_qyYRcGho51TUmHXq/

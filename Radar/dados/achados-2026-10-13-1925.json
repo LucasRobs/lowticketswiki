@@ -1,0 +1,140 @@
+{
+  "data_varredura": "2026-10-13",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288200, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 18959, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50535, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 1},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 513, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 44-55 (parcelas mensais)",
+      "termo_busca": "Stalkeia",
+      "descricao": "Segue ativo: 2 reclamacoes novas em 11/10, cobrancas de R$55,35 (9x) e R$44,80 (7x) nao reembolsadas. PerfectPay nega venda direta. Recorrente no radar ha semanas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-um-app-de-espionagem-falso-e-fui-cobrado-indevidamente_qyYRcGho51TUmHXq/"
+    },
+    {
+      "produto": "TCS Spy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 120,89/mes",
+      "termo_busca": "TCS Spy",
+      "descricao": "Assinatura mensal 'TCS Spy - MENSAL' cobrada via Cakto, reclamacao de reembolso nao atendido. Ja catalogado e recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-reembolso-do-meu-pedido-tcs-spy-no-valor-de-r-12089_O9Av7IjB8uKwepS1/"
+    },
+    {
+      "produto": "Curso Influ Lab",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 210 parcelado",
+      "termo_busca": "Influ Lab",
+      "descricao": "Curso de marketing de influenciadores vendido via Kiwify, parcelado no cartao. Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-a-abertura-do-pedido-de-reembolso-curso-influ-lab-na-kiwify_WV8rvDVv3QFdHaHu/"
+    },
+    {
+      "produto": "Implementacao (mentor Gabriel Sampaio)",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 164,08 x12 (total R$ 1.968,96)",
+      "termo_busca": "Gabriel Sampaio Implementação",
+      "descricao": "Curso vendido por Gabriel Sampaio apos imersoes online; reclamante diz checkout mostrava Kiwify mas cobranca saiu pela Hotmart e pede estorno total. Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-servico-de-marketing-prometido-e-quero-o-cancelamento-do-curso_oEpo9sP6L60i37l3/"
+    },
+    {
+      "produto": "Formato Criativo de Conteudo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Curso apresentado por Hanah Frank; reclamante alega que o conteudo real e produzido pelo namorado dela (nome nao identificado). Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Tentativa de compra via Pix travou no checkout da Hotmart (pagamento nao chegou a ser concluido). Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "VevetFit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado (parcelas no cartao)",
+      "termo_busca": "VevetFit",
+      "descricao": "Curso online de 1 ano com cobranca recorrente no cartao sem autorizacao de renovacao -- mecanica de assinatura automatica. Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/"
+    },
+    {
+      "produto": "Arsenal Lucrativo (Comunidade -- Flow Ultra)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Arsenal Lucrativo",
+      "descricao": "Comunidade/mentoria 'Apenas Flow Ultra'; reclamante nao conseguiu identificar o produtor responsavel. Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/"
+    },
+    {
+      "produto": "Portovian",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "ecommerce-fisico",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 265,05",
+      "termo_busca": "Portovian",
+      "descricao": "Loja fisica via Yampi Pay, pedido nao recebido (reclamacao de 02/10, unico achado disponivel -- Yampi e gateway de baixo volume e nao teve reclamacao mais nova nesta janela). Recorrente no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovian-e-quero-o-cancelamento-e-estorno_r0yLd7lwixZPXOtn/"
+    },
+    {
+      "produto": "Sora (cobranca via PerfectPay)",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Sora",
+      "descricao": "Reclamacao cita 'Compra Aprovada: Sora' cobrada pela PerfectPay; vendedor editado pelo RA. Ambiguo -- pode ser cobranca indevida ligada ao app Sora da OpenAI ou revenda/clone; checar antes de tratar como oferta propria.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-de-ia-que-nao-atende-o-prometido_ULFAyq_7J00QRLWq/"
+    }
+  ],
+  "passada": {
+    "hora": "19:25",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · 2 cobrancas novas (R$44-55), segue negando reembolso\n- [[tcs-spy]] -- Cakto · assinatura mensal R$120,89 sem reembolso\n- [[influ-lab]] -- Kiwify · R$210 parcelado\n- [[implementacao-mentor-gabriel-sampaio]] -- Kiwify/Hotmart · R$164,08 x12\n- [[formato-criativo-de-conteudo]] -- Hotmart · Hanah Frank, suspeita de ghostwriting\n- [[sinfonia-oculta]] -- Hotmart · R$289, checkout travado\n- [[vevetfit]] -- Hotmart · renovacao automatica sem autorizacao\n- [[arsenal-lucrativo]] -- Cakto · comunidade Flow Ultra\n- [[portovian]] -- Yampi · R$265,05, unico sinal do gateway nesta janela\n\n## Frias\n- Sora (cobranca via PerfectPay) -- vendedor nao identificado, ambiguo\n\nLeitura: a paginacao `?pagina=N` do ReclameAqui continua quebrada para todos os 5 gateways testados -- so a pagina 1 (5 reclamacoes) carrega, pagina 2 em diante devolve 'Exibindo 0 de 0' em qualquer variacao de URL tentada (inclusive endpoint de API citado na rodada anterior). Isso vem se arrastando desde pelo menos 08/10 (todas as rodadas desde entao marcadas parcial) e o buraco de tempo cresceu: da ultima rodada registrada (12/10 04:00) ate agora (13/10 19:25) sao ~39h sem cobertura real, das quais so as ~5 reclamacoes mais recentes de cada gateway foram capturadas. Os 9 achados quentes sao todos ofertas ja catalogadas reaparecendo -- nenhum nome novo de peso alem do caso ambiguo do Sora.",
+    "resumo": "Radar parcial (so pagina 1 por gateway, paginacao do RA seguindo quebrada): 9 ofertas ja conhecidas reapareceram (Stalkeia.ai, TCS Spy, Influ Lab, Implementacao/Gabriel Sampaio, Formato Criativo de Conteudo, Sinfonia Oculta, VevetFit, Arsenal Lucrativo, Portovian), sem nome novo relevante; buraco real de ~39h desde a ultima rodada nao foi fechado."
+  }
+}

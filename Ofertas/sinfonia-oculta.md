@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-10
-rodadas_vista: 3
+visto_ultimo: 2026-10-13
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Reaparece pelo 2o dia seguido (ja citado na rodada de 09/10, ticket R$289). Nesta reclamacao o consumidor nem conseguiu concluir a compra via Pix.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/
+
+## Rodada 2026-10-13
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Tentativa de compra via Pix travou no checkout da Hotmart (pagamento nao chegou a ser concluido). Recorrente no radar.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/
