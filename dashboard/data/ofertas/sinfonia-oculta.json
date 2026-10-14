@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-08",
-  "visto_ultimo": "2026-10-13",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-13",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "hotmart"
   ]
  },
- "corpo": "# Sinfonia Oculta\n\n## Angulo\nAchado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Historico\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Hotmart). Comprador não conseguiu finalizar compra do produto Sinfonia Oculta (R$ 289) via Hotmart. 2ª menção no mesmo dia (09:44 e 11:15), ainda sem confirmar recorrência em dia diferente.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Produto de ticket alto (R$289) na Hotmart; nicho ainda não identificado pois a reclamação é de falha na compra (não chegou a converter), não de insatisfação com o conteúdo. Repetiu no dia seguinte da 1ª aparição.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reaparece pelo 2o dia seguido (ja citado na rodada de 09/10, ticket R$289). Nesta reclamacao o consumidor nem conseguiu concluir a compra via Pix.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Tentativa de compra via Pix travou no checkout da Hotmart (pagamento nao chegou a ser concluido). Recorrente no radar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n",
+ "corpo": "# Sinfonia Oculta\n\n## Angulo\nAchado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Historico\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Hotmart). Comprador não conseguiu finalizar compra do produto Sinfonia Oculta (R$ 289) via Hotmart. 2ª menção no mesmo dia (09:44 e 11:15), ainda sem confirmar recorrência em dia diferente.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Produto de ticket alto (R$289) na Hotmart; nicho ainda não identificado pois a reclamação é de falha na compra (não chegou a converter), não de insatisfação com o conteúdo. Repetiu no dia seguinte da 1ª aparição.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Reaparece pelo 2o dia seguido (ja citado na rodada de 09/10, ticket R$289). Nesta reclamacao o consumidor nem conseguiu concluir a compra via Pix.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Tentativa de compra via Pix travou no checkout da Hotmart (pagamento nao chegou a ser concluido). Recorrente no radar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Ja catalogado. Reclamacao de 07/10 (compra de R$289 nao concluida) continua na pagina 1, produtor ainda nao identificado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/\n",
  "observacoes": [
   {
    "data": "2026-10-08",
@@ -120,9 +120,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Tentativa de compra via Pix travou no checkout da Hotmart (pagamento nao chegou a ser concluido). Recorrente no radar."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 289,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Ja catalogado. Reclamacao de 07/10 (compra de R$289 nao concluida) continua na pagina 1, produtor ainda nao identificado."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0019.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 00:19"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-13 -- 1925.md",

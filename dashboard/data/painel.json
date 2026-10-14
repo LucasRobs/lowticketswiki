@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 334,
-  "angulos": 76,
-  "observacoes": 772,
-  "dias_radar": 35,
-  "passadas": 85,
+  "ofertas": 337,
+  "angulos": 78,
+  "observacoes": 786,
+  "dias_radar": 36,
+  "passadas": 86,
   "analises": 12,
-  "ultima_rodada": "2026-10-13"
+  "ultima_rodada": "2026-10-14"
  },
  "ofertas": [
   {
@@ -540,21 +540,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Renda%20da%20Fortuna&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 5,
    "resumo": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa…",
    "flags": [
     "score-provisorio",
@@ -3465,6 +3465,58 @@
    ]
   },
   {
+   "slug": "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+   "nome": "Metodo ADL (Fabio Costa) -- sem nome oficial",
+   "classe": "angulo",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 12,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 131,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=metodo%20ADL%20Fabio%20Costa&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na reclamacao, oferta de 12 parcelas de R$250.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-metodo-med-parabolas-kids",
    "nome": "Metodo MED / Parabolas Kids",
    "classe": "angulo",
@@ -3841,6 +3893,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-pacote-de-jogos-para-tv-android-sem-nome",
+   "nome": "Pacote de jogos para TV Android (sem nome)",
+   "classe": "angulo",
+   "nicho": "streaming-e-acesso",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=jogos%20para%20tv%20android&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Angulo sem marca capturada: comprador reclama que o 'pacote de jogos' so funciona em TVs com Android (ele tem TV de outra marca) e o vendedor nao responde e-mail. Nicho de catalogo/acesso vitalicio pouco explorado.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -5242,21 +5346,21 @@
    "score": 1.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=direct%20line%20app&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 5,
    "resumo": "Aplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.",
    "flags": [
     "score-provisorio",
@@ -9867,6 +9971,61 @@
    ]
   },
   {
+   "slug": "desafio-voz-do-criador-30-dias-de-crescimento",
+   "nome": "Desafio Voz do Criador 30 Dias de Crescimento",
+   "classe": "oferta",
+   "nicho": "marketing-criacao-conteudo",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 37.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 37.9,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Voz%20do%20Criador&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. Mesmo vendedor (Vortex Labs LTDA) e mesma reclamacao do Metodo Tribe Do Zero -- total pago R$185,80 via Pix pelos 2 produtos, indicando operacao com catalogo de produtos de nicho de criador de conteudo.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "desbanimento-whatsapp",
    "nome": "Servico de desbanimento de numero de WhatsApp",
    "classe": "oferta",
@@ -11346,21 +11505,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Formato%20Criativo%20de%20Conteudo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 9,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 11,
    "resumo": "Achado novo no vault. Curso vendido em nome de Hanah Frank, mas o comprador alega que quem de fato ministra as aulas e o namorado dela -- possivel caso de produtora-fachada/ghost-teacher. Pede reembolso.",
    "flags": [
     "score-provisorio",
@@ -11456,21 +11615,21 @@
    "score": 2.15,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 6,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 8,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -11645,6 +11804,63 @@
     "score-provisorio",
     "checkout-desconhecido",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "foto-dolar",
+   "nome": "Foto Dolar",
+   "classe": "oferta",
+   "nicho": "renda-celular-cashback-pix",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Foto%20Dolar&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia -- nome sugere nicho de renda via celular.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -16520,6 +16736,61 @@
    "flags": []
   },
   {
+   "slug": "metodo-tribe-do-zero-a-marca-pessoal",
+   "nome": "Metodo Tribe Do Zero a Marca Pessoal",
+   "classe": "oferta",
+   "nicho": "marketing-criacao-conteudo",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 147.9,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 147.9,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Tribe%20Do%20Zero&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Primeira aparicao. Vendido pela Vortex Labs LTDA via Kiwify, comprado junto com Desafio Voz do Criador (ver achado seguinte) pelo mesmo cliente via Pix -- mesma empresa rodando 2 produtos de marca pessoal/criacao de conteudo.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "meu-filho-e-unico-horleana",
    "nome": "Meu Filho é Único — Horleana Holanda Cunha",
    "classe": "oferta",
@@ -17183,7 +17454,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -17697,7 +17969,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -17724,27 +17996,26 @@
    "score": 1.1,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 2,
    "resumo": "Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18910,7 +19181,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -20513,21 +20785,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sinfonia%20Oculta&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 9,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 11,
    "resumo": "Achado novo e atipico: a reclamacao e de alguem que NAO conseguiu concluir a compra via Pix (R$289), nao de quem comprou e ficou insatisfeito. Vale confirmar se o produto/pagina ainda existe antes de priorizar.",
    "flags": [
     "score-provisorio",
@@ -20700,7 +20972,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -20850,21 +21123,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 16,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 17,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 28,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 18,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 42,
+   "n_obs": 19,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 44,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -22070,21 +22343,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VevetFit&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 7,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 9,
    "resumo": "Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).",
    "flags": [
     "score-provisorio",
@@ -22629,21 +22902,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 16,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 17,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 26,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 18,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 37,
+   "n_obs": 19,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 38,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -22709,6 +22982,25 @@
   }
  ],
  "dias": [
+  {
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14",
+   "ofertas_vistas": 14,
+   "novas": 5,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "payt",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
   {
    "arquivo": "Radar/2026-10-13.md",
    "data": "2026-10-13",
@@ -23362,6 +23654,31 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0019.md",
+   "data": "2026-10-14",
+   "hora": "00:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "a-renda-da-fortuna",
+    "app-direct-line",
+    "formato-criativo-de-conteudo",
+    "fornece-up",
+    "sinfonia-oculta",
+    "stalkeia-ai",
+    "vevetfit"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 1 · Coleta: parcial · Achados: 14 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao da rodada anterior (23:32), sem volume novo em 47min fornece-up -- PerfectPay ·…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-13 -- 2332.md",
    "data": "2026-10-13",
@@ -25254,6 +25571,10 @@
    "2026-10-13": {
     "oferta": 3,
     "angulo": 0
+   },
+   "2026-10-14": {
+    "oferta": 3,
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -25290,7 +25611,8 @@
    "2026-10-10": 37,
    "2026-10-11": 21,
    "2026-10-12": 11,
-   "2026-10-13": 18
+   "2026-10-13": 18,
+   "2026-10-14": 14
   }
  },
  "analises": [
@@ -25705,49 +26027,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 334
+    "total": 337
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 334
+    "total": 337
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 334
+    "total": 337
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 305,
-    "total": 334
+    "preenchidas": 308,
+    "total": 337
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 172,
-    "total": 334
+    "preenchidas": 174,
+    "total": 337
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 334
+    "total": 337
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 334
+    "total": 337
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 277,
-    "total": 334
+    "preenchidas": 280,
+    "total": 337
    }
   ],
   "fila_enriquecimento": [
@@ -25898,10 +26220,10 @@
    "moldes-para-artesanato-rendafini",
    "movimentos-de-adoracao",
    "mp28-cursos-de-motociclismo",
+   "mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
    "natflix-fitness",
-   "oblivium-digital-vendedor-produto-nao-identificado",
    "orientacao-farmaceutica-na-pratica-2-0",
    "orlando-estrategico",
    "parentalidade-atipica-sarah-hayden",
@@ -25912,6 +26234,7 @@
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
+   "pro-armas",
    "protocolo-3s",
    "protocolo-testosterona-2-0",
    "protocolo-zero-barriga-40-club-40-sem-barriga",
@@ -25923,6 +26246,7 @@
    "sala-de-jogos-keep-live",
    "shoppro",
    "sistema-de-fornecedores-ocultos-marcelle-martins",
+   "sora-cobranca-via-perfectpay",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "thermafit-app",
@@ -25936,7 +26260,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1182
+   "canonico": 1201
   }
  },
  "vocabulario": {
@@ -25983,22 +26307,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d8cf9be2953209c4",
-  "atualizado_em": "2026-10-13T23:33:37-03:00",
-  "ofertas": 334,
-  "angulos": 76,
-  "observacoes": 772,
-  "ultima_rodada": "2026-10-13",
+  "hash": "fde8afb2c015d596",
+  "atualizado_em": "2026-10-14T00:20:28-03:00",
+  "ofertas": 337,
+  "angulos": 78,
+  "observacoes": 786,
+  "ultima_rodada": "2026-10-14",
   "ultima_passada": {
-   "data": "2026-10-13",
-   "hora": "23:32",
+   "data": "2026-10-14",
+   "hora": "00:19",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "payt"
    ]
   }
  }

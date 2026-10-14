@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-13
-rodadas_vista: 16
+visto_ultimo: 2026-10-14
+rodadas_vista: 17
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 28
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -201,3 +201,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 2 mencao(oes) nesta varredura (gateway PerfectPay). Segue ativo: 2 reclamacoes novas em 11/10, cobrancas de R$55,35 (9x) e R$44,80 (7x) nao reembolsadas. PerfectPay nega venda direta. Recorrente no radar ha semanas.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-um-app-de-espionagem-falso-e-fui-cobrado-indevidamente_qyYRcGho51TUmHXq/
+
+## Rodada 2026-10-14
+
+2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, StalkeIA.com. As 2 reclamacoes visiveis nesta janela sao as mesmas da rodada de 23:32 (nenhuma reclamacao nova em 47min) -- segue sem resolver reembolso, sinal de que a oferta continua ativa.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/

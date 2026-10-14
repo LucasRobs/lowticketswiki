@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-08",
-  "visto_ultimo": "2026-10-10",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-10",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "payt"
   ]
  },
- "corpo": "# A Renda da Fortuna\n\n## Angulo\nAchado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa de dinheiro, mas vendedor nao identificado -- vale confirmar pagina antes de priorizar.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/\n\n## Historico\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Payt). Pacote de 'renda extra', parcelado em 12x e 5x conforme reclamante. Vendedor nao identificado. Ja registrado no vault; reaparece em dia distinto.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/\n",
+ "corpo": "# A Renda da Fortuna\n\n## Angulo\nAchado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa de dinheiro, mas vendedor nao identificado -- vale confirmar pagina antes de priorizar.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/\n\n## Historico\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Payt). Pacote de 'renda extra', parcelado em 12x e 5x conforme reclamante. Vendedor nao identificado. Ja registrado no vault; reaparece em dia distinto.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Payt). Pacote ja catalogado, continua sendo vendido via Payt. Reclamante pede estorno de duas parcelas ocultas, produtor nao identificado na reclamacao.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/\n",
  "observacoes": [
   {
    "data": "2026-10-08",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Pacote de 'renda extra', parcelado em 12x e 5x conforme reclamante. Vendedor nao identificado. Ja registrado no vault; reaparece em dia distinto."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 5,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Pacote ja catalogado, continua sendo vendido via Payt. Reclamante pede estorno de duas parcelas ocultas, produtor nao identificado na reclamacao."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0019.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 00:19"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-10 -- 0807.md",

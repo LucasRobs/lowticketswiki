@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-13
-rodadas_vista: 4
+visto_ultimo: 2026-10-14
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do
 ## Rodada 2026-10-13
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Curso apresentado por Hanah Frank; reclamante alega que o conteudo real e produzido pelo namorado dela (nome nao identificado). Recorrente no radar.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Curso vendido por Hanah Frank via Hotmart, ja catalogado. Reaparece na pagina 1 com pedido de reembolso sem valor informado.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/

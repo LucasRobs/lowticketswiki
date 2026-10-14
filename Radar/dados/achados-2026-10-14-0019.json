@@ -1,0 +1,188 @@
+{
+  "data_varredura": "2026-10-14",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288231, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19069, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50620, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78550, "paginas_varridas": 1},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 19-55",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, StalkeIA.com. As 2 reclamacoes visiveis nesta janela sao as mesmas da rodada de 23:32 (nenhuma reclamacao nova em 47min) -- segue sem resolver reembolso, sinal de que a oferta continua ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/"
+    },
+    {
+      "produto": "Fornece Up",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 3,
+      "faixa_preco": "R$ 12 entrada (tambem visto R$175 via Pix); taxas de R$97-250 pra liberar saldo de R$17.658",
+      "termo_busca": "forneceup",
+      "descricao": "Assinatura de acesso a fornecedores/revenda. As 3 reclamacoes (estorno em 7 dias de R$175 via Pix, taxas sucessivas R$97/R$100/R$250 pra liberar saldo prometido, e Pix sem valor informado) sao as mesmas da rodada anterior -- sem volume novo nesta janela, mecanica de order bump pesado confirmada de novo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-cobrado-taxas-indevidas-para-receber-um-valor-prometido_-RWSZcmbLTr_zvWd/"
+    },
+    {
+      "produto": "Direct Line",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Direct Line app",
+      "descricao": "Mesma reclamacao da rodada de 23:32 (4a aparicao cumulativa no radar, dias diferentes: 06/10, 11/10, 13/10). Nenhuma reclamacao nova nesta janela, mas o padrao de garantia nao honrada persiste sem solucao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/"
+    },
+    {
+      "produto": "VevetFit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "VevetFit",
+      "descricao": "Mesma reclamacao ja catalogada (contrato de 1 ano com renovacao automatica cobrada sem autorizacao). Continua visivel na pagina 1 sem resolucao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/"
+    },
+    {
+      "produto": "Formato Criativo de Conteudo",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Formato Criativo de Conteudo",
+      "descricao": "Curso vendido por Hanah Frank via Hotmart, ja catalogado. Reaparece na pagina 1 com pedido de reembolso sem valor informado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-meu-dinheiro-de-volta-do-curso-formato-criativo-de-conteudo_1gPttLzvz2ICSTgE/"
+    },
+    {
+      "produto": "Sinfonia Oculta",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 289",
+      "termo_busca": "Sinfonia Oculta",
+      "descricao": "Ja catalogado. Reclamacao de 07/10 (compra de R$289 nao concluida) continua na pagina 1, produtor ainda nao identificado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/"
+    },
+    {
+      "produto": "A Renda da Fortuna",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "parcelado 12x + 5x (valores ocultos pelo reclamante)",
+      "termo_busca": "Renda da Fortuna",
+      "descricao": "Pacote ja catalogado, continua sendo vendido via Payt. Reclamante pede estorno de duas parcelas ocultas, produtor nao identificado na reclamacao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/"
+    },
+    {
+      "produto": "Oblivium Digital (vendedor; produto nao identificado)",
+      "tipo": "angulo",
+      "gateway": "Payt",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "parcelado em 4x",
+      "termo_busca": "Oblivium Digital",
+      "descricao": "Vendedor ja catalogado no radar, produto fisico (segundo resposta da Payt) ainda sem nome identificado na reclamacao. Comprador parcelou em 4x e nao teve resposta ao pedido de cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/"
+    },
+    {
+      "produto": "ZapRadar",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "ZapRadar",
+      "descricao": "Primeira aparicao no radar. App que o comprador nao conseguiu abrir, reclamacao de propaganda enganosa com pedido de estorno via Payt -- nome sugere app de rastreamento/espionagem de WhatsApp.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/"
+    },
+    {
+      "produto": "Foto Dolar",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Foto Dolar",
+      "descricao": "Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia -- nome sugere nicho de renda via celular.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    },
+    {
+      "produto": "Metodo Tribe Do Zero a Marca Pessoal",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 147,90",
+      "termo_busca": "Tribe Do Zero",
+      "descricao": "Primeira aparicao. Vendido pela Vortex Labs LTDA via Kiwify, comprado junto com Desafio Voz do Criador (ver achado seguinte) pelo mesmo cliente via Pix -- mesma empresa rodando 2 produtos de marca pessoal/criacao de conteudo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meus-cursos-digitais-e-a-empresa-nao-me-responde_yTel77stS_wWhsdA/"
+    },
+    {
+      "produto": "Desafio Voz do Criador 30 Dias de Crescimento",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-criacao-conteudo",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 37,90",
+      "termo_busca": "Voz do Criador",
+      "descricao": "Primeira aparicao. Mesmo vendedor (Vortex Labs LTDA) e mesma reclamacao do Metodo Tribe Do Zero -- total pago R$185,80 via Pix pelos 2 produtos, indicando operacao com catalogo de produtos de nicho de criador de conteudo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meus-cursos-digitais-e-a-empresa-nao-me-responde_yTel77stS_wWhsdA/"
+    },
+    {
+      "produto": "Pacote de jogos para TV Android (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "jogos para tv android",
+      "descricao": "Angulo sem marca capturada: comprador reclama que o 'pacote de jogos' so funciona em TVs com Android (ele tem TV de outra marca) e o vendedor nao responde e-mail. Nicho de catalogo/acesso vitalicio pouco explorado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-jogos-para-tv-errada-e-nao-consigo-reembolso_qVnZGQ1UwajAB2Y5/"
+    },
+    {
+      "produto": "Metodo ADL (Fabio Costa) -- sem nome oficial",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "12x de R$ 250",
+      "termo_busca": "metodo ADL Fabio Costa",
+      "descricao": "Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na reclamacao, oferta de 12 parcelas de R$250.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    }
+  ],
+  "passada": {
+    "hora": "00:19",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao da rodada anterior (23:32), sem volume novo em 47min\n- [[fornece-up]] -- PerfectPay · mesmas 3 reclamacoes da rodada anterior, mecanica de taxas R$97-250 confirmada de novo\n- [[app-direct-line]] -- Cakto · mesma reclamacao da rodada anterior, 4a aparicao cumulativa em dias diferentes\n\n## Mornas\n- [[vevetfit]] -- Hotmart · segue sem resolucao, mesma reclamacao\n- [[formato-criativo-de-conteudo]] -- Hotmart · reaparece na pagina 1, produtor Hanah Frank\n- [[sinfonia-oculta]] -- Hotmart · reclamacao antiga (07/10) ainda ativa\n- [[a-renda-da-fortuna]] -- Payt · continua sendo vendido, parcelas ocultas\n\n## Frias (novas)\n- ZapRadar -- Payt -- app de 'ver' algo que nao abre, propaganda enganosa, possivel espionagem\n- Foto Dolar -- Kiwify -- curso/app de ganhar dinheiro com fotos\n- Metodo Tribe Do Zero a Marca Pessoal + Desafio Voz do Criador -- Kiwify -- mesmo vendedor (Vortex Labs LTDA), 2 produtos de criador de conteudo\n- Pacote de jogos para TV Android (angulo, sem nome) -- Cakto\n- Metodo ADL / Fabio Costa (angulo, sem nome oficial) -- Kiwify\n\nLeitura: buraco de so 47min desde a rodada de 23:32 (13/10), e isso mostrou na coleta -- PerfectPay, Cakto e Hotmart trouxeram exatamente as mesmas 5 reclamacoes de pagina 1 de antes (mesmos IDs, mesma contagem total de reclamacoes ativas), ou seja, zero volume novo nesses 3 gateways nesta janela. O movimento real veio da Kiwify (contagem subiu de 50.535 para 50.620, Influ Lab saiu da pagina 1 e entraram Foto Dolar e os 2 produtos da Vortex Labs) e da Payt como rotativo -- primeira varredura dela desde 11/10, confirmando A Renda da Fortuna e Oblivium Digital ainda ativos e trazendo o nome novo ZapRadar. Paginacao `?pagina=N` continua quebrada (pagina 2 retorna 0 resultados ou erro em todos os gateways testados) -- coleta limitada as ~5 reclamacoes mais recentes de cada gateway, padrao que persiste desde 08/10.",
+    "resumo": "Janela de 47min majoritariamente sem novidade nos 4 fixos (mesmas reclamacoes da rodada anterior); Payt como rotativo trouxe o nome novo ZapRadar e a Kiwify renovou pagina 1 com Foto Dolar e 2 produtos da Vortex Labs."
+  }
+}

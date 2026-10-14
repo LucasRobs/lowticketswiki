@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-13
-rodadas_vista: 3
+visto_ultimo: 2026-10-14
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-minha-compra
 2 mencao(oes) nesta varredura (gateway PerfectPay). Assinatura de acesso a fornecedores/revenda, recorrente desde 25/09 e marcada quente na rodada anterior (debutou 11/10 com 8 IDs). Hoje mais 2 pedidos de estorno (um deles via Pix). Uma reclamação cita taxas de R$97-250 cobradas pra liberar um saldo de R$17.658 -- mecânica de order bump/upsell pesada pra travar saque.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-fornece-up-apos-cancelamento-em-7-dias_nK2G6qUC6C7nWEIi/
+
+## Rodada 2026-10-14
+
+3 mencao(oes) nesta varredura (gateway PerfectPay). Assinatura de acesso a fornecedores/revenda. As 3 reclamacoes (estorno em 7 dias de R$175 via Pix, taxas sucessivas R$97/R$100/R$250 pra liberar saldo prometido, e Pix sem valor informado) sao as mesmas da rodada anterior -- sem volume novo nesta janela, mecanica de order bump pesado confirmada de novo.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-taxas-indevidas-para-receber-um-valor-prometido_-RWSZcmbLTr_zvWd/

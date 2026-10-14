@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-10
-rodadas_vista: 2
+visto_ultimo: 2026-10-14
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Payt). Pacote de 'renda extra', parcelado em 12x e 5x conforme reclamante. Vendedor nao identificado. Ja registrado no vault; reaparece em dia distinto.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Payt). Pacote ja catalogado, continua sendo vendido via Payt. Reclamante pede estorno de duas parcelas ocultas, produtor nao identificado na reclamacao.
 
 Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/

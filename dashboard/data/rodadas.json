@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14",
+   "ofertas_vistas": 14,
+   "novas": 5,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "payt",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-14\n\n## Novas\n\n- [[foto-dolar]] — renda-celular-cashback-pix — nao informado — Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia --…\n- [[metodo-tribe-do-zero-a-marca-pessoal]] — marketing-criacao-conteudo — R$ 147,90 — Primeira aparicao. Vendido pela Vortex Labs LTDA via Kiwify, comprado junto com Desafio Voz do Criador (ver achado seguinte) pelo mesmo…\n- [[desafio-voz-do-criador-30-dias-de-crescimento]] — marketing-criacao-conteudo — R$ 37,90 — Primeira aparicao. Mesmo vendedor (Vortex Labs LTDA) e mesma reclamacao do Metodo Tribe Do Zero -- total pago R$185,80 via Pix pelos 2…\n- [[angulo-pacote-de-jogos-para-tv-android-sem-nome]] — streaming-e-acesso — nao informado — Angulo sem marca capturada: comprador reclama que o 'pacote de jogos' so funciona em TVs com Android (ele tem TV de outra marca) e o…\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] — a-identificar — 12x de R$ 250 — Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[fornece-up]] — ra_reclamacoes atualizado para 8\n- [[app-direct-line]] — ra_reclamacoes atualizado para 5\n- [[vevetfit]] — ra_reclamacoes atualizado para 1\n- [[formato-criativo-de-conteudo]] — ra_reclamacoes atualizado para 2\n- [[sinfonia-oculta]] — ra_reclamacoes atualizado para 2\n- [[a-renda-da-fortuna]] — ra_reclamacoes atualizado para 1\n- [[oblivium-digital-vendedor-produto-nao-identificado]] — ra_reclamacoes atualizado para 1\n- [[zap-radar]] — ra_reclamacoes atualizado para 26\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-14 -- 0019]] - perfectpay, cakto-pay, kiwify, hotmart, payt - 14 achado(s) - Janela de 47min majoritariamente sem novidade nos 4 fixos (mesmas reclamacoes da rodada anterior); Payt como rotativo trouxe o nome novo…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-13.md",
    "data": "2026-10-13",
    "titulo": "Radar 2026-10-13",
@@ -654,6 +673,31 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0019.md",
+   "data": "2026-10-14",
+   "hora": "00:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "a-renda-da-fortuna",
+    "app-direct-line",
+    "formato-criativo-de-conteudo",
+    "fornece-up",
+    "sinfonia-oculta",
+    "stalkeia-ai",
+    "vevetfit"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-14]].\n\n# Rodada — 14/10/2026 · 00:19 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, payt · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 14\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao da rodada anterior (23:32), sem volume novo em 47min\n- [[fornece-up]] -- PerfectPay · mesmas 3 reclamacoes da rodada anterior, mecanica de taxas R$97-250 confirmada de novo\n- [[app-direct-line]] -- Cakto · mesma reclamacao da rodada anterior, 4a aparicao cumulativa em dias diferentes\n\n## Mornas\n- [[vevetfit]] -- Hotmart · segue sem resolucao, mesma reclamacao\n- [[formato-criativo-de-conteudo]] -- Hotmart · reaparece na pagina 1, produtor Hanah Frank\n- [[sinfonia-oculta]] -- Hotmart · reclamacao antiga (07/10) ainda ativa\n- [[a-renda-da-fortuna]] -- Payt · continua sendo vendido, parcelas ocultas\n\n## Frias (novas)\n- ZapRadar -- Payt -- app de 'ver' algo que nao abre, propaganda enganosa, possivel espionagem\n- Foto Dolar -- Kiwify -- curso/app de ganhar dinheiro com fotos\n- Metodo Tribe Do Zero a Marca Pessoal + Desafio Voz do Criador -- Kiwify -- mesmo vendedor (Vortex Labs LTDA), 2 produtos de criador de conteudo\n- Pacote de jogos para TV Android (angulo, sem nome) -- Cakto\n- Metodo ADL / Fabio Costa (angulo, sem nome oficial) -- Kiwify\n\nLeitura: buraco de so 47min desde a rodada de 23:32 (13/10), e isso mostrou na coleta -- PerfectPay, Cakto e Hotmart trouxeram exatamente as mesmas 5 reclamacoes de pagina 1 de antes (mesmos IDs, mesma contagem total de reclamacoes ativas), ou seja, zero volume novo nesses 3 gateways nesta janela. O movimento real veio da Kiwify (contagem subiu de 50.535 para 50.620, Influ Lab saiu da pagina 1 e entraram Foto Dolar e os 2 produtos da Vortex Labs) e da Payt como rotativo -- primeira varredura dela desde 11/10, confirmando A Renda da Fortuna e Oblivium Digital ainda ativos e trazendo o nome novo ZapRadar. Paginacao `?pagina=N` continua quebrada (pagina 2 retorna 0 resultados ou erro em todos os gateways testados) -- coleta limitada as ~5 reclamacoes mais recentes de cada gateway, padrao que persiste desde 08/10.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-13 -- 2332.md",
    "data": "2026-10-13",

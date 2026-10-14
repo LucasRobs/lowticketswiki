@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-13
-rodadas_vista: 3
+visto_ultimo: 2026-10-14
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-cur
 ## Rodada 2026-10-13
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Curso online de 1 ano vendido como VevetFit, recorrente desde 08/10. Reclamação de hoje: compra em agosto/2025, pede cancelamento.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Mesma reclamacao ja catalogada (contrato de 1 ano com renovacao automatica cobrada sem autorizacao). Continua visivel na pagina 1 sem resolucao.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/nao-autorizei-renovacao-de-curso-online-e-nao-consigo-cancelar-cobrancas_IOsGzk-8OFIwfYIp/

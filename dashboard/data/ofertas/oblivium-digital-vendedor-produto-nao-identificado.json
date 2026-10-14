@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-08",
-  "visto_ultimo": "2026-10-08",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-08",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -65,14 +65,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "payt"
   ]
  },
- "corpo": "# Oblivium Digital (vendedor; produto nao identificado)\n\n## Angulo\nAchado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas (4x no cartao) continuam sendo cobradas.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/\n\n## Historico\n",
+ "corpo": "# Oblivium Digital (vendedor; produto nao identificado)\n\n## Angulo\nAchado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas (4x no cartao) continuam sendo cobradas.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/\n\n## Historico\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Payt). Vendedor ja catalogado no radar, produto fisico (segundo resposta da Payt) ainda sem nome identificado na reclamacao. Comprador parcelou em 4x e nao teve resposta ao pedido de cancelamento.\n\nEvidencia: https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/\n",
  "observacoes": [
   {
    "data": "2026-10-08",
@@ -85,9 +84,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas (4x no cartao) continuam sendo cobradas."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 4,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Vendedor ja catalogado no radar, produto fisico (segundo resposta da Payt) ainda sem nome identificado na reclamacao. Comprador parcelou em 4x e nao teve resposta ao pedido de cancelamento."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-08.md",
