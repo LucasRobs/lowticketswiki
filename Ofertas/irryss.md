@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/irryss"
-gateways_detectados: [payt]
+gateways_detectados: [payt, lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
-ra_plataformas: [payt]
+ra_reclamacoes: 8
+ra_plataformas: [payt, lastlink]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14
 veredito: observar

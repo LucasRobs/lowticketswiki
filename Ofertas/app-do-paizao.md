@@ -36,7 +36,7 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 19
+ra_reclamacoes: 20
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
 ra_checado: 2026-10-14

@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 20
+ra_reclamacoes: 21
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14
