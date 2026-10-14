@@ -22182,7 +22182,7 @@
    ],
    "duracao_min": 0,
    "n_passadas": 2,
-   "leitura": "Complemento de ~16h a passada das 01h54: 166 reclamacoes novas em 11 gateways pela API do RA, nenhuma estreia com 3+ mencoes. So o Treino Trinca manteve o ritmo (+7, 69, com um kit de suplementos de R$ 1.162,70 na escada); o resto foi gotejamento de 1-2 IDs (Zap Radar 45, Stalkeia 36, Irryss 8 agora tambem na Lastlink). Tres retornos fracos (Bike in Casa, Linflora, Massagem Tantrica), nenhum de venda nova."
+   "leitura": "01h54. Segunda rodada seguida com a API completa do RA: 453 reclamacoes de 11 gateways desde 11/10 23h05, agora comparavel com a anterior. O sinal continua nas mesmas seis notas — Treino Trinca (+12, 62), ZAP Radar (+17, 43), ShopMiner (+9, 20), Fornece Up (+7, 15), Stalkeia (+6, 34) e App do Paizao (+4, 19). Tres estreias de volume pequeno (Prosperas, Escola de Personagens, SpinMaster). Na Biblioteca, Trinca subiu…"
   },
   {
    "arquivo": "Radar/2026-10-11.md",
@@ -25282,8 +25282,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "86cff8b1a70a1f42",
-  "atualizado_em": "2026-10-14T17:39:40-03:00",
+  "hash": "f86903deab095708",
+  "atualizado_em": "2026-10-14T17:42:07-03:00",
   "ofertas": 329,
   "angulos": 72,
   "observacoes": 766,

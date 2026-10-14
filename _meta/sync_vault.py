@@ -478,7 +478,8 @@ com "mercado esfriando" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeli
     append_bullets("Sumiram", sumiram_slugs)
 
     if leitura:
-        pattern = re.compile(r"(## Leitura da rodada\n)(.*)", re.DOTALL)
+        # para na proxima secao: (.*) ate o fim apagava "## Passadas do dia" (14/10)
+        pattern = re.compile(r"(## Leitura da rodada\n)(.*?)(?=\n## |\Z)", re.DOTALL)
         body = pattern.sub(lambda m: m.group(1) + "\n" + leitura.strip() + "\n", body)
 
     if not body.startswith("\n"):

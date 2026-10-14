@@ -11,7 +11,38 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-10-14 (rodada diaria)
+## Leitura atual — 2026-10-14 (rodada diaria, complemento das 17h38)
+
+Passadas: [[2026-10-14 -- 0154]] e [[2026-10-14 -- 1738]] · nota do dia: [[2026-10-14]].
+
+**401 notas · 329 ofertas · 72 ângulos · 0 novas nesta passada (3 no dia) · 23 vistas no dia · status: 98 nova · 79 ativa · 181 esfriando · 43 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Uma segunda passada no mesmo dia, e ela quase não achou nada.** A tarefa das 23h30 de 13/10 rodou às 01h54 de hoje, e a de hoje rodou às 17h38. O intervalo entre as duas foi de **~16 horas**, contra ~2 a 3 dias nas rodadas anteriores. A rotina foi a mesma: API de busca do RA de dentro da aba do navegador interno, **11 gateways, 22 páginas, 166 reclamações** com ID acima de 261557535 (o maior lido às 01h54). Só 2 IDs da lista já estavam no vault. A Biblioteca abriu sem aprovação para 2 buscas.
+
+**Sinal novo real: pouco, e quase todo numa nota só.**
+- [[treino-trinca]] teve **7 IDs novos e foi de 62 para 69** em um dia, o mesmo ritmo das duas rodadas anteriores (~6 por dia). Uma reclamação (261617433) acrescenta **o degrau mais caro já visto no funil do Lotz**: R$ 37 no Pix, mais R$ 67 de "cardápio personalizado" e, no mesmo dia, **um kit de suplementos de R$ 1.162,70 em 7x no cartão**. A 261616413 confirma os R$ 67 do cardápio, que chegou genérico. O "desafio de 28 dias" (261615547) foi contado porque é o nome do Trinca nos anúncios. Na Biblioteca foram **~210 resultados (eram ~200 às 01h54)**, os 29 carregados são de Pedro Lotz e **o mais novo continua sendo de 05/10**. São nove dias sem criativo novo enquanto a contagem sobe.
+- [[zap-radar]] de 43 para **45**, [[stalkeia-ai]] de 34 para **36**. Há mais dois casos da mesma mecânica de espionagem sem o nome do produto (R$ 137 para "passar as conversas do marido"; "paguei o rastreamento de celular"), e eles ficaram fora da conta.
+- [[irryss]] de 6 para **8**, e agora **em dois gateways**. Na Lastlink (261615499) o produto aparece como **"treino de inglês irryss", com acesso de um ano**. É a primeira pista do que o app vende. Até hoje a nota estava em `nao-classificado`.
+- [[renda-fortuna]] de 4 para **5**. A 261544235 mostra a escada: **R$ 186,99 e, logo depois do Pix, um "produto americano"**. Outra reclamação (261521183: "apresentação no Facebook", programas de R$ 186,99 e R$ 497) quase certamente é a mesma operação, mas não cita o nome e não entrou na conta.
+- Gotejamento de 1 ID: [[shopminer]] 21, [[fornece-up]] 16, [[app-do-paizao]] 20, [[app-direct-line]] 11, [[comunidade-mvz]] 3.
+
+**Estreias: nenhuma.** Nenhum nome novo teve 3 menções. Ficaram na fila, com 1 menção cada e sem nota: App Zap Million (PerfectPay, R$ 97,99), Flux AI Anual (Cakto, R$ 197,99), Ctrl AI (Payt), Aivarolab (PerfectPay, vendido no TikTok), Rotina Lucrativa (PerfectPay, anunciado como "comissão por avaliar app" e entregue como curso de influenciador), Sistema Tik Tok Remunerado (Payt), SouDrop (Kiwify) e um gerador de notificações falsas (Cakto). Na Biblioteca, "zap million" só devolveu um anúncio institucional de um "MillionZap" de atendimento. Não é a mesma coisa.
+
+**Retornos: 3, e nenhum é venda nova.** [[bike-in-casa]] (Ticto) voltou com a **quarta parcela de uma anual cancelada em agosto**: é cobrança residual. [[linflora]] (Payt, 2 IDs) é **loja de produto físico**, sem relação com low ticket digital. [[curso-massagem-tantrica]] (Wiapy) teve 1 ID, o primeiro desde 27/08. Os três mudaram de `esfriando` para `ativa` pela regra, e são esses os **3 movimentos de status** do dia.
+
+**Mecânica de funil.** O padrão "o preço real vem depois da frente" ganhou o caso mais extremo até agora: o Trinca já tem **R$ 37 → R$ 67 → assinatura do app → Trinca Elite recorrente → kit de suplementos de R$ 1.162,70**. A frente low ticket é a porta de entrada para um ticket médio que o `ticket_medio_est` da nota não captura.
+
+**Decaimento: nenhum, de propósito.** Os 11 gateways foram varridos de novo, mas o `sync_vault.py` conta rodada por **dia**, e o decaimento de 14/10 já foi aplicado às 01h54 (121 mudanças). Aplicar de novo contaria o mesmo dia duas vezes.
+
+**Instrumento: o `--leitura` apagava a lista de passadas.** No `sync_vault.py`, a regex da `## Leitura da rodada` ia até o fim do arquivo (`(.*)` com DOTALL). Numa segunda passada no mesmo dia, ela substituía a leitura anterior e **apagava a `## Passadas do dia`**, que o `publicar.py` recriava só com a passada nova. A nota do dia foi restaurada à mão, com as duas leituras e as duas passadas, e a regex agora para na seção seguinte. Conferi o histórico: desde 27/09, quando a lista de passadas passou a existir, só **27/09** tem passadas fora da lista (5 listadas de 7 em `Radar/rodadas/`). Não investiguei se foi este bug, e a nota daquele dia não foi mexida.
+
+**Cuidados.** (1) As 10 notas já tocadas às 01h54 tiveram `ra_reclamacoes` atualizado, mas **o corpo delas não ganhou os IDs desta passada**, porque o `sync` só escreve uma seção `## Rodada` por dia. Os IDs estão na nota da passada e no JSON em `Radar/dados/`. (2) O ritmo do Trinca (~6 por dia) é a única série com três pontos comparáveis. As outras têm volume pequeno demais para medir velocidade. (3) Score não mudou em nenhuma nota. O vício registrado às 01h54 continua: ShopMiner (0,70), Fornece Up (2,15) e Irryss (1,75) estão em "descartar" enquanto acumulam reclamações.
+
+**Autocrítica.** Esta passada foi uma **checagem de cadência, não uma descoberta**. Com 16 horas de intervalo, o RA devolve sobretudo gotejamento, e o adendo de 11/10 tinha razão em pedir janelas maiores para essa fonte. A pendência das duas últimas leituras continua aberta: a **Etapa 3b com a API** (páginas de produtor, `ra_primeira_reclamacao` do Trinca, do Zap Radar e do Paizão) é o que tiraria o `s_lucro` dessas notas do palpite. Ela caberia no tempo que esta passada não usou, e não foi feita.
+
+---
+
+## Leitura anterior — 2026-10-14 (rodada diaria, 01h54)
 
 Passada: [[2026-10-14 -- 0154]] · nota do dia: [[2026-10-14]].
 
@@ -102,35 +133,6 @@ Passada: [[2026-10-08 -- 0309]] · nota do dia: [[2026-10-08]].
 **Cuidados.** Os três deltas da Biblioteca (Trinca −20, Paizão +3, Ateliê das Velas ~33 → **~21, −12**) agora são comparáveis, porque vêm da mesma busca. Mas contam anúncios que casam com o termo, não criativos distintos, e só carregam os primeiros ~30. O Ateliê perdeu o anúncio de 27/05, e o mais antigo carregado é de 12/06. O `dias_no_ar` das três notas **foi mantido** como idade da operação, embora o criativo ativo mais antigo agora seja mais novo (no Paizão, de dois dias). Se o contrato quer "idade do anúncio mais antigo ativo", o Paizão iria para 3 dias e perderia o insumo de longevidade. Isso não foi feito sem decisão explícita. As 8 reclamações do Trinca medem cerca de dois dias, não um.
 
 **Autocrítica.** A pendência de 05/10 foi paga: as quatro buscas foram repetidas com o mesmo termo, e pela primeira vez o vault tem uma série de três pontos (Trinca 130 → 230 → 210). O resultado é menos animador do que a narrativa das últimas leituras sugeria. Duas das três ofertas mais fortes estão com **anúncios estáveis ou em queda** enquanto as reclamações sobem, o que é compatível com uma operação madura colhendo a base, e não com uma operação escalando. As cinco estreias foram escolhidas com mais rigor (cerca de dez candidatas de uma menção ficaram de fora), mas ainda são cinco notas sem nenhuma medição.
-
----
-
-## Leitura anterior — 2026-10-05 (rodada diaria, complemento das 16h33)
-
-Passada: [[2026-10-05 -- 1633]] · nota do dia: [[2026-10-05]].
-
-**213 notas · 188 ofertas · 25 ângulos · 14 novas hoje (12 às 03h17 + 2 agora) · 22 vistas hoje · status: 69 nova · 42 ativa · 57 esfriando · 45 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
-
-**Segunda leitura no mesmo dia.** A tarefa das 23h30 rodou às 16h27, treze horas depois da rodada das 03h17. Esta passada não refez o que aquela cobriu. Ela fez três coisas que a das 03h17 deixou de fora: a primeira página de **PerfectPay e Cakto**, que ninguém varria desde 26/09 porque as passadas 6x/dia continuam sem gravar; uma nova leitura de Lastlink, Kiwify e Hotmart para pegar o que entrou durante o dia; e **7 consultas na Biblioteca**, três delas repetindo termos antigos, como a autocrítica de hoje cedo pedia. A coleta foi marcada como `parcial`, porque foram 5 páginas e não 35.
-
-**Sinal novo real: sim, pequeno, e quase todo de hoje.**
-- [[treino-trinca]] ganhou **2 IDs novos** (260842051 e 260840917, ambos acima de 260781237) e foi de 31 para **33**. A segunda reclamação explica a mecânica: o app fica bloqueado e "queriam que eu comprasse mais curso". O acesso ao que foi pago depende do próximo degrau. O score continua **6,60**.
-- [[stalkeia-ai]] recebeu **3 reclamações nomeadas com ID novo**, todas de hoje (260834783, 260836685, 260841477), as primeiras com ID desde 256618461, e foi de 8 para **11**. Duas descrevem **três Pix por compra** (R$ 155,70 e R$ 232,64). Uma quarta ("Stalker app", 260833211) provavelmente é a mesma operação e não foi contada. A taxa escalonada continua viva na PerfectPay cinquenta dias depois da estreia no vault. O `s_lucro: 8` dela continua sem insumo de longevidade e segue na lista de violações.
-
-**Biblioteca: as buscas repetidas mostram o que a lista do RA não mostra.**
-- [[atelie-das-velas]]: a busca pelo anunciante "Carol a artesã" devolve **~33 anúncios**, o mais antigo carregado de **27/05 (131 dias)** e criativos novos em 17 e 26/09. Na busca larga "velas artesanais" aparece um anúncio dela iniciado em **16/07/2024**. Pode ser agrupamento de criativo, então não foi usado. O `s_saturacao` saiu da sentinela para **6**: os ~1.100 resultados são quase todos fornecedores de insumo, o infoproduto em pt-BR visível é Carol e Haromalita, e "curso de velas" é dominado por operadores em espanhol. O score foi de 5,50 para **6,40** (observar). A nota tinha ido para `esfriando` hoje cedo por ausência no RA e **voltou**. É o retorno do dia, e é exatamente o caso que a leitura das 03h17 apontou: o decaimento media a lista de reclamações, não o anúncio.
-- [[app-do-paizao]]: a busca pelo domínio dá **~16 anúncios** de Carlão Silva, **8 deles iniciados em 03 e 04/10**. O anúncio de 04/08 saiu do ar e o mais antigo ativo é de 18/08. É verba entrando, mas não é `criativos_delta`, porque a busca de 27/09 foi outra. Fica como linha de base.
-- "chatgpt plus anual": **~120, igual a 02/10**. A coorte parou de crescer em volume, mas a AgenciaDesign segue subindo criativos a R$ 21,90 (04/10) e entrou a Assina Prime a R$ 97. É o primeiro delta zero medido com o mesmo termo, e também é informação.
-
-**Estreias: 2, uma menção cada.** **Frequência de Cura Dívida** (Instituto Cristão Online, PerfectPay, R$ 48, entregue pela Perfect Academy) encosta no cluster religioso. Na Biblioteca o produtor não aparece, mas "frequência de cura" devolve uma coorte de frequências a R$ 19,90-20 (Frequências Proibidas desde 24/08, O Segredo do Som desde 11/07), um sub-ângulo esotérico/religioso que o vault ainda não tem como nota de ângulo. **Fórmula YouTube Viral** (Kiwify, R$ 37,90 + bump "Pack Edição Suprema 2.0" R$ 15,90) é bump de frente barato, sem anúncio encontrado pelo nome.
-
-**Status (decaimento à mão, só PerfectPay/Cakto, só notas vindas do RA, ângulos fora).** A conta foi feita por rodada de PerfectPay/Cakto: 22, 23, 24, 25 e 26/09 e hoje. **6 estreias de 26/09** saíram de `nova` para `ativa` (Caderno de Professor, Comunidade MVZ, Knights Club, Luna IA, Método Atlas, Painel Elite). **12 estreias de 22 e 25/09** estão na segunda rodada ou mais sem reaparecer e foram para `esfriando` (900 Mapas Mentais, AppLuna, Boss IA Trade, Comunidade Fornecedores NFC, Glow Mode, IA FX Promocional, InstaUnlocked, MDR Despertar, Modão Raiz, Pack Produtos Validados, RPR, Um Puxa o Outro). **5 `ativa`** vistas pela última vez até 25/09 também foram para `esfriando` (Auks Bot, Cash no Pix, Mentoria Caio Martins, Mentoria Nova Profissão, Jantar Chef Luana). Ficaram de fora [[google-captcha-tw]], que vem da página do produtor, e as notas com vários gateways. As notas presas em `nova` caíram de **73 para 55**. Foram **24 mudanças de status** no total, contando o retorno do Ateliê.
-
-**Gargalo do instrumento: o `publicar.py` apagou a passada das 03h17 da nota do dia.** Na segunda passada do mesmo dia, o `sync_vault.py` reescreveu `Radar/2026-10-05.md`. A linha `[[2026-10-05 -- 0317]]` sumiu de "Passadas do dia" e o `--leitura` substituiu a leitura anterior em vez de acrescentar. As duas foram restauradas à mão. A nota da passada em `Radar/rodadas/` não foi afetada. **Toda segunda passada no mesmo dia vai repetir isso** até alguém corrigir o `sync_vault.py`.
-
-**Cuidados.** As 23 mudanças de status por ausência se apoiam em **uma página de 5 linhas** por gateway, contra várias páginas nas passadas de setembro. O tamanho da amostra caiu e a regra não sabe disso. Se a varredura completa de PerfectPay/Cakto voltar, algumas dessas notas devem reaparecer. A slug `cakto` no RA não existe, e a lista que responde é `/empresa/cakto-pay/`. Os 131 dias do Ateliê e os 16 anúncios do Paizão vêm de busca por anunciante ou domínio, mais precisa que a busca larga, mas sem série anterior com o mesmo termo.
-
-**Autocrítica.** Rodar de tarde, com a rodada da madrugada já feita, deu uma foto melhor do dia, mas a "rodada diária" virou duas leituras parciais em vez de uma completa. O que mais rendeu foi de novo a Biblioteca com busca por anunciante, e não o RA. O Ateliê das Velas só saiu do `esfriando` porque alguém foi olhar o anúncio. A pendência da manhã continua de pé: repetir **as mesmas** buscas ("Carol a artesã", "avaliacaogratuitapaizao", "treino trinca", "chatgpt plus anual") na próxima rodada, para que o próximo número seja um delta e não outra linha de base.
 
 ---
 
