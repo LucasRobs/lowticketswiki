@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Kiwify). 2ª aparição (primeira na rodada das 07:17). Serviço vendido pela Space Ads Ltda via Kiwify, compra de 07/10 cobrada R$ 494,87 -- segue sem reembolso.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-de-r-49487-da-kiwify_LPdkIeb8_PHdRjE4/

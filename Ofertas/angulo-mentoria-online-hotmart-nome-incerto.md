@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-mentoria-online-hotmart-nome-incerto"
-gateways_detectados: []
+gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Hotmart). 2ª aparição, mesma reclamação travada na página 1 da Hotmart. Cita 3 compras e nomes conflitantes ('método Murilo Villaverde', cursos 'eros'/'billaverde'); provável corrupção de texto no relato original, produtor não confirmado.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-cancelaram-todos-os-meus-3-produtos-e-nao-devolveram-o-valor_8JQyRX6wjz4djIrC/

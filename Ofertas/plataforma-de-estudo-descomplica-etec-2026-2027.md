@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Hotmart). 2ª aparição (primeira na rodada das 07:17). Assinatura de plataforma de estudos pra vestibular da ETEC vendida pelo Professor Fabiano Araujo via Hotmart; cancelamento pedido em 10/09 continua sem efeito.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-minha-plataforma-de-estudo-e-continuo-sendo-cobrado_5fSwyPYjjQqPj934/

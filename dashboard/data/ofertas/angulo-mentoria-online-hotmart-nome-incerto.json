@@ -40,11 +40,15 @@
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/angulo-mentoria-online-hotmart-nome-incerto",
-  "gateways_detectados": [],
+  "gateways_detectados": [
+   "hotmart"
+  ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 1,
-  "ra_plataformas": [],
+  "ra_plataformas": [
+   "hotmart"
+  ],
   "ra_primeira_reclamacao": "",
   "ra_checado": "2026-10-14",
   "veredito": "observar",
@@ -62,9 +66,11 @@
    "sem-longevidade",
    "sem-lp"
   ],
-  "gateways": []
+  "gateways": [
+   "hotmart"
+  ]
  },
- "corpo": "# Mentoria online (Hotmart, nome incerto)\n\n## Angulo\nReclamação cita 3 compras e nomes conflitantes ('método Murilo Villaverde', cursos 'eros'/'billaverde'); provável corrupção de texto no relato original, produtor não confirmado.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-cancelaram-todos-os-meus-3-produtos-e-nao-devolveram-o-valor_8JQyRX6wjz4djIrC/\n\n## Historico\n",
+ "corpo": "# Mentoria online (Hotmart, nome incerto)\n\n## Angulo\nReclamação cita 3 compras e nomes conflitantes ('método Murilo Villaverde', cursos 'eros'/'billaverde'); provável corrupção de texto no relato original, produtor não confirmado.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-cancelaram-todos-os-meus-3-produtos-e-nao-devolveram-o-valor_8JQyRX6wjz4djIrC/\n\n## Historico\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Hotmart). 2ª aparição, mesma reclamação travada na página 1 da Hotmart. Cita 3 compras e nomes conflitantes ('método Murilo Villaverde', cursos 'eros'/'billaverde'); provável corrupção de texto no relato original, produtor não confirmado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-cancelaram-todos-os-meus-3-produtos-e-nao-devolveram-o-valor_8JQyRX6wjz4djIrC/\n",
  "observacoes": [
   {
    "data": "2026-10-14",
