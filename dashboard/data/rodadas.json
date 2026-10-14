@@ -5,20 +5,21 @@
    "arquivo": "Radar/2026-10-13.md",
    "data": "2026-10-13",
    "titulo": "Radar 2026-10-13",
-   "ofertas_vistas": 14,
-   "novas": 1,
+   "ofertas_vistas": 18,
+   "novas": 3,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "perfectpay",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
-   "corpo": "# Radar 2026-10-13\n\n## Novas\n\n- [[sora-cobranca-via-perfectpay]] — a-identificar — nao informado — Reclamacao cita 'Compra Aprovada: Sora' cobrada pela PerfectPay; vendedor editado pelo RA. Ambiguo -- pode ser cobranca indevida ligada ao…\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 8\n- [[fornece-up]] — ra_reclamacoes atualizado para 8\n- [[arsenal-lucrativo]] — ra_reclamacoes atualizado para 1\n- [[tcs-spy]] — ra_reclamacoes atualizado para 1\n- [[comunidade-mvz]] — ra_reclamacoes atualizado para 1\n- [[mvr-daniel-fernandes]] — ra_reclamacoes atualizado para 2\n- [[vevetfit]] — ra_reclamacoes atualizado para 1\n- [[implementacao-mentor-gabriel-sampaio]] — ra_reclamacoes atualizado para 1\n- [[influ-lab]] — ra_reclamacoes atualizado para 1\n- [[portovian]] — ra_reclamacoes atualizado para 1\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[formato-criativo-de-conteudo]] — ra_reclamacoes atualizado para 2\n- [[sinfonia-oculta]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-13 -- 1924]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 10 achado(s) - 5 gateways, so pagina 1 (RA com paginacao quebrada), 9 achados -- quase todos recorrentes (Stalkea.ai, Fornece Up, MVR/Daniel Fernandes em…\n- [[2026-10-13 -- 1925]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 10 achado(s) - Radar parcial (so pagina 1 por gateway, paginacao do RA seguindo quebrada): 9 ofertas ja conhecidas reapareceram (Stalkeia.ai, TCS Spy…\n"
+   "n_passadas": 3,
+   "corpo": "# Radar 2026-10-13\n\n## Novas\n\n- [[sora-cobranca-via-perfectpay]] — a-identificar — nao informado — Reclamacao cita 'Compra Aprovada: Sora' cobrada pela PerfectPay; vendedor editado pelo RA. Ambiguo -- pode ser cobranca indevida ligada ao…\n- [[mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto]] — motociclismo — nao informado — Cluster de cursos de pilotagem/seguranca para motociclistas (3 titulos sob a mesma marca MP28) vendidos via Eduzz. Primeira aparicao no…\n- [[pro-armas]] — armamento — nao informado — Curso por assinatura sobre armas vendido via Eduzz. Reclamacao de cobranca indevida sem opcao de cancelamento. Primeira aparicao no radar.\n\n## Movimento\n\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 8\n- [[fornece-up]] — ra_reclamacoes atualizado para 8\n- [[arsenal-lucrativo]] — ra_reclamacoes atualizado para 1\n- [[tcs-spy]] — ra_reclamacoes atualizado para 1\n- [[comunidade-mvz]] — ra_reclamacoes atualizado para 1\n- [[mvr-daniel-fernandes]] — ra_reclamacoes atualizado para 2\n- [[vevetfit]] — ra_reclamacoes atualizado para 1\n- [[implementacao-mentor-gabriel-sampaio]] — ra_reclamacoes atualizado para 1\n- [[influ-lab]] — ra_reclamacoes atualizado para 1\n- [[portovian]] — ra_reclamacoes atualizado para 1\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[formato-criativo-de-conteudo]] — ra_reclamacoes atualizado para 2\n- [[sinfonia-oculta]] — ra_reclamacoes atualizado para 2\n- [[app-direct-line]] — ra_reclamacoes atualizado para 5\n- [[iara-shoppe-360]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-13 -- 1924]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 10 achado(s) - 5 gateways, so pagina 1 (RA com paginacao quebrada), 9 achados -- quase todos recorrentes (Stalkea.ai, Fornece Up, MVR/Daniel Fernandes em…\n- [[2026-10-13 -- 1925]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 10 achado(s) - Radar parcial (so pagina 1 por gateway, paginacao do RA seguindo quebrada): 9 ofertas ja conhecidas reapareceram (Stalkeia.ai, TCS Spy…\n- [[2026-10-13 -- 2332]] - perfectpay, cakto-pay, kiwify, hotmart, eduzz - 8 achado(s) - Pagina 1 apenas (bug de paginacao do RA persiste); recorrencias fortes em Stalkeia.ai, Fornece Up e Direct Line, e 3 nomes novos no Eduzz…\n"
   },
   {
    "arquivo": "Radar/2026-10-12.md",
@@ -653,6 +654,29 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-13 -- 2332.md",
+   "data": "2026-10-13",
+   "hora": "23:32",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "fornece-up",
+    "influ-lab",
+    "stalkeia-ai",
+    "vevetfit"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-13]].\n\n# Rodada — 13/10/2026 · 23:32 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, eduzz · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 8\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · 2 mencoes novas, grafias Stalkea.ai/StalkeIA.com\n- [[fornece-up]] -- PerfectPay · 3 mencoes novas, mecanica de taxas R$97-250 pra liberar saldo confirmada de novo\n- [[app-direct-line]] -- Cakto · 3a aparicao em dia diferente (06, 11, 13/10)\n\n## Mornas\n- [[influ-lab]] -- Kiwify · segue ativa, mesma oferta da rodada anterior\n- [[vevetfit]] -- Hotmart · renovacao automatica sem resolucao\n\n## Frias (novas)\n- MP28 (cluster moto) -- Eduzz -- primeiro sinal do nicho motociclismo\n- Iara Shoppe 360 -- Eduzz -- curso de loja virtual, produtor Icaro Dias\n- PRO ARMAS -- Eduzz -- curso por assinatura, cobranca indevida\n\nLeitura: a paginacao `?pagina=N` do ReclameAqui continua quebrada (testado com e sem parametros extras) -- so a pagina 1 de cada gateway carrega, confirmando o padrao visto desde 08/10. Coleta limitada as ~5 reclamacoes mais recentes de cada um dos 5 gateways (4 fixos + Eduzz como rotativo, o mais atrasado do grupo desde 08/10). Buraco de ~4h desde a ultima rodada (13/10 19:25) foi coberto dentro do possivel; nenhum nome novo de peso nos 4 fixos (so recorrencias ja catalogadas), os 3 achados novos vieram todos do Eduzz, que nao era varrido ha 6 dias.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-13 -- 1925.md",
    "data": "2026-10-13",

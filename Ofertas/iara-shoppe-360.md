@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-08
-rodadas_vista: 2
+visto_ultimo: 2026-10-13
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-13
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-08
 
 2 mencao(oes) nesta varredura (gateway Eduzz). Reconfirmado em dia diferente (06/10, agora 08/10), mesma reclamacao ja registrada reaparecendo na listagem. Curso de venda/operacao de loja na Shopee, produtor Icaro Dias, acesso nao liberado apos pagamento.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/nao-recebi-o-acesso-ao-curso-iara-shoppe-360-e-quero-meu-reembolso_m8GZMenoccnAZ2xA/
+
+## Rodada 2026-10-13
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Curso de loja virtual/ecommerce vendido por Icaro Dias via Eduzz. Comprador nao recebeu acesso. Primeira aparicao no radar.
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/nao-recebi-o-acesso-ao-curso-iara-shoppe-360-e-quero-meu-reembolso_m8GZMenoccnAZ2xA/

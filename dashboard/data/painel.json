@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 332,
+  "ofertas": 334,
   "angulos": 76,
-  "observacoes": 768,
+  "observacoes": 772,
   "dias_radar": 35,
-  "passadas": 84,
+  "passadas": 85,
   "analises": 12,
   "ultima_rodada": "2026-10-13"
  },
@@ -5213,7 +5213,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -5242,27 +5242,26 @@
    "score": 1.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=direct%20line%20app&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 3,
    "resumo": "Aplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11471,7 +11470,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-13",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -13122,21 +13121,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-13",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Iara%20Shoppe&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 5,
    "resumo": "Curso sobre venda/operacao de loja na Shopee. Produtor identificado como Icaro Dias. Comprador diz nao ter recebido acesso ao curso adquirido via Eduzz e pede reembolso integral. Primeira aparicao no vault.",
    "flags": [
     "score-provisorio",
@@ -13414,7 +13413,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Influ%20Lab&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-13",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Curso sobre crescimento/monetização como influenciador. Primeira aparição no radar. Comprador pede reembolso por não ter recebido o serviço de marketing prometido.",
    "flags": [
     "score-provisorio",
@@ -17133,6 +17132,61 @@
    ]
   },
   {
+   "slug": "mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto",
+   "nome": "MP28 (Seguranca Avancada / Estrada Segura / Rotina e Habitos do Piloto)",
+   "classe": "oferta",
+   "nicho": "motociclismo",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-13",
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-13",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MP28%20moto&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 1,
+   "resumo": "Cluster de cursos de pilotagem/seguranca para motociclistas (3 titulos sob a mesma marca MP28) vendidos via Eduzz. Primeira aparicao no radar; produtor nao identificado na reclamacao.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "ms-green-premium",
    "nome": "MS GREEN PREMIUM",
    "classe": "oferta",
@@ -18802,6 +18856,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "pro-armas",
+   "nome": "PRO ARMAS",
+   "classe": "oferta",
+   "nicho": "armamento",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "eduzz",
+   "gateways": [
+    "eduzz"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-13",
+   "visto_ultimo": "2026-10-13",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-13",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PRO%20ARMAS%20curso&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-13",
+   "n_citacoes": 1,
+   "resumo": "Curso por assinatura sobre armas vendido via Eduzz. Reclamacao de cobranca indevida sem opcao de cancelamento. Primeira aparicao no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -20755,7 +20864,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 18,
    "ultima_obs": "2026-10-13",
-   "n_citacoes": 41,
+   "n_citacoes": 42,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -21975,7 +22084,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VevetFit&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-13",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Achado novo. Curso fitness contratado em agosto/2025 com renovacao automatica anual; cobranca de renovacao em 15/05/2026 sem aviso e sem opcao de cancelamento clara. Mesmo padrao de assinatura-armadilha ja visto em Bike in Casa (Ticto).",
    "flags": [
     "score-provisorio",
@@ -22604,19 +22713,20 @@
    "arquivo": "Radar/2026-10-13.md",
    "data": "2026-10-13",
    "titulo": "Radar 2026-10-13",
-   "ofertas_vistas": 14,
-   "novas": 1,
+   "ofertas_vistas": 18,
+   "novas": 3,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "perfectpay",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -23252,6 +23362,29 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-13 -- 2332.md",
+   "data": "2026-10-13",
+   "hora": "23:32",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "fornece-up",
+    "influ-lab",
+    "stalkeia-ai",
+    "vevetfit"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 1 · Coleta: parcial · Achados: 8 ## Quentes stalkeia-ai -- PerfectPay · 2 mencoes novas, grafias Stalkea.ai/StalkeIA.com fornece-up -- PerfectPay · 3 mencoes novas…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-13 -- 1925.md",
    "data": "2026-10-13",
@@ -25119,7 +25252,7 @@
     "angulo": 4
    },
    "2026-10-13": {
-    "oferta": 1,
+    "oferta": 3,
     "angulo": 0
    }
   },
@@ -25157,7 +25290,7 @@
    "2026-10-10": 37,
    "2026-10-11": 21,
    "2026-10-12": 11,
-   "2026-10-13": 14
+   "2026-10-13": 18
   }
  },
  "analises": [
@@ -25572,49 +25705,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 332
+    "total": 334
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 332
+    "total": 334
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 332
+    "total": 334
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 303,
-    "total": 332
+    "preenchidas": 305,
+    "total": 334
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 172,
-    "total": 332
+    "total": 334
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 332
+    "total": 334
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 332
+    "total": 334
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 275,
-    "total": 332
+    "preenchidas": 277,
+    "total": 334
    }
   ],
   "fila_enriquecimento": [
@@ -25693,7 +25826,6 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
-   "app-direct-line",
    "atlas-das-patologias",
    "aula-magnetica-com-obs",
    "autismo-para-pais-lacerda",
@@ -25804,7 +25936,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1176
+   "canonico": 1182
   }
  },
  "vocabulario": {
@@ -25851,22 +25983,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c970f85ee19399c7",
-  "atualizado_em": "2026-10-13T19:26:20-03:00",
-  "ofertas": 332,
+  "hash": "d8cf9be2953209c4",
+  "atualizado_em": "2026-10-13T23:33:37-03:00",
+  "ofertas": 334,
   "angulos": 76,
-  "observacoes": 768,
+  "observacoes": 772,
   "ultima_rodada": "2026-10-13",
   "ultima_passada": {
    "data": "2026-10-13",
-   "hora": "19:25",
+   "hora": "23:32",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "eduzz"
    ]
   }
  }
