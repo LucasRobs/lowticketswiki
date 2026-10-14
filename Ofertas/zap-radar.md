@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-10
-rodadas_vista: 16
+visto_ultimo: 2026-10-14
+rodadas_vista: 17
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 26
+ra_reclamacoes: 43
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -197,3 +197,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-
 26 mencao(oes) nesta varredura (gateway Payt). 16 reclamacoes com ID novo de 08 a 11/10: 12 na Payt (261365841 R$ 137, 261361005 R$ 97 + cobranca para abrir as mensagens, 261345285, 261336883, 261329737, 261290247, 261263781, 261254081, 261228271, 261226587, 261223171, 261191197 com varias cobrancas no cartao) e 4 na PerfectPay (261240537 'Zap Radar / WhatsSpy', 261202867, 261202463, 261107973). O volume migrou para a Payt. Biblioteca 'zap radar': nenhum anuncio da operacao (so ruido de outros anunciantes).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (12 IDs) + perfectpay (4 IDs)
+
+## Rodada 2026-10-14
+
+43 mencao(oes) nesta varredura (gateway Payt). 17 reclamacoes nomeadas com ID novo: 16 na Payt (261553177, 261531979 R$ 137+137+67, 261521791, 261479251, 261455497 'ZAP radar - manual da verdade', 261443955, 261441449, 261440391, 261435027, 261432177 R$ 137 seguido de nova cobranca de R$ 147, 261429413, 261423861, 261415241, 261407899 'pagar mais R$ 137 para liberar o relatorio', 261405975, 261388035) e 1 na PerfectPay (261411875). Nao contadas: Manual da Verdade R$ 137 (261464591), Protocolo da Verdade R$ 67 (261441169), relatorio de audios R$ 137 (261530131), 'clonar zap' (261470179) e WhatsSpy Up1 na PerfectPay (261390567) — mesma mecanica, nome diferente.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261553177 ... 261388035; PerfectPay 261411875)

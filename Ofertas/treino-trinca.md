@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-11
-rodadas_vista: 8
+visto_ultimo: 2026-10-14
+rodadas_vista: 9
 dias_no_ar: 58
 criativos_ultima: 210
 criativos_delta: -20
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 50
+ra_reclamacoes: 62
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-11
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -164,3 +164,9 @@ Mesma busca "treino trinca" de 02 e 05/10: ~210 resultados (eram ~230, delta -20
 50 mencao(oes) nesta varredura (gateway Lastlink). 9 reclamacoes com ID novo de 08 a 10/10, todas acima de 261097585: 261330709, 261306163 (Treino Trinca Elite comprado em 06/10), 261296101 (treino de academia vendido como treino em casa), 261295355 ('venda casada', varios upgrades no checkout de R$ 37), 261294381, 261272641, 261271003 (R$ 37 em 29/08), 261199391 e 261267369 (kit sorteado em live do Lotz, R$ 997, nao entregue). Biblioteca, mesma busca 'treino trinca': ~160 resultados (eram ~210 em 08/10 e ~230 em 05/10); nenhum criativo carregado iniciado depois de 05/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261330709, 261306163, 261296101, 261295355, 261294381, 261272641, 261271003, 261199391, 261267369)
+
+## Rodada 2026-10-14
+
+62 mencao(oes) nesta varredura (gateway Lastlink). 12 reclamacoes nomeadas com ID novo entre 11/10 23h e 13/10 (todas acima de 261385839): 261554925, 261549943, 261519901, 261476539 (Trinca Elite comprado em 06/10), 261475005 (R$ 37 e depois exigencia de assinatura do app para acessar os treinos, nao informada no checkout), 261470305, 261466137, 261455589, 261451053, 261449421, 261411373, 261394793. Fora da conta, do mesmo operador: 261548761 (compra em live do Lotz), 261475961 (DF 1000 em live) e 261480011 (Magra Sem Fome). Biblioteca, mesma busca 'treino trinca': ~200 resultados (eram ~160 em 11/10), 29 carregados, todos de Pedro Lotz, o mais novo iniciado em 05/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261554925, 261549943, 261519901, 261476539, 261475005, 261470305, 261466137, 261455589, 261451053, 261449421, 261411373, 261394793)
