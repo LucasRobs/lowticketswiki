@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mesma reclamação, comprado junto com Metodo Tribe Do Zero pelo mesmo cliente via Pix (Vortex Labs LTDA).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meus-cursos-digitais-e-a-empresa-nao-me-responde_yTel77stS_wWhsdA/

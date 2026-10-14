@@ -33,10 +33,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-06",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -67,14 +67,13 @@
   "flags": [
    "score-provisorio",
    "sem-longevidade",
-   "sem-lp",
-   "status-vencido"
+   "sem-lp"
   ],
   "gateways": [
    "cakto"
   ]
  },
- "corpo": "# Direct Line (app)\n\n## Angulo\nApp vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-06 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/\n\n## Historico\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Cakto). 2a reclamacao sobre o app por assinatura Direct Line (estreou as 00:50). Usuario quer cancelar a assinatura por insatisfacao com o app.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/\n",
+ "corpo": "# Direct Line (app)\n\n## Angulo\nApp vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-06 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/\n\n## Historico\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Cakto). 2a reclamacao sobre o app por assinatura Direct Line (estreou as 00:50). Usuario quer cancelar a assinatura por insatisfacao com o app.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-minha-assinatura-do-app-direct-line-que-nao-gostei_2y3V-K7WaLzqRGhL/\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Cakto). 6ª aparição cumulativa na página 1 da Cakto. Mesma reclamação da rodada das 03:45, zero novidade.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/\n",
  "observacoes": [
   {
    "data": "2026-10-06",
@@ -87,14 +86,38 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. 6ª aparição cumulativa na página 1 da Cakto. Mesma reclamação da rodada das 03:45, zero novidade."
   }
  ],
  "citacoes": [
   {
    "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0717.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 07:17"
+  },
+  {
+   "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-14 -- 0345.md",
    "data": "2026-10-14",
    "titulo": "Passada 2026-10-14 03:45"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
   },
   {
    "tipo": "radar",

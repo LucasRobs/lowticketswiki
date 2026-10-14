@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Hotmart). 2ª passada seguida com a mesma reclamação de renovação automática indevida; produtora Patricia Costa Santos.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/

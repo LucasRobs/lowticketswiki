@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Hotmart). 2ª passada seguida com a mesma reclamação -- curso de ticket alto com problema de acesso/suporte, produtora Prof. Juliana Souza.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/
