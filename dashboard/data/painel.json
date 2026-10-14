@@ -71,7 +71,7 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -347,7 +347,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -393,8 +393,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -678,7 +677,7 @@
    "classe": "oferta",
    "nicho": "marcenaria-artesanato",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -724,8 +723,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -846,7 +844,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -4944,7 +4942,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -5171,7 +5169,7 @@
    "classe": "oferta",
    "nicho": "negocio-online",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -5447,7 +5445,7 @@
    "classe": "oferta",
    "nicho": "saude",
    "sub_nicho": "livro-digital",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -5493,8 +5491,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5670,7 +5667,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -5716,8 +5713,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6000,7 +5996,7 @@
    "classe": "oferta",
    "nicho": "saude-bemestar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -6055,7 +6051,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -6221,7 +6217,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-trading",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6552,7 +6548,7 @@
    "classe": "oferta",
    "nicho": "pet",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -6598,8 +6594,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6664,7 +6659,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -6710,8 +6705,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -6720,7 +6714,7 @@
    "classe": "oferta",
    "nicho": "servicos-diversos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6766,8 +6760,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7108,7 +7101,7 @@
    "classe": "oferta",
    "nicho": "espiritualidade-autoconhecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -7219,7 +7212,7 @@
    "classe": "oferta",
    "nicho": "receitas-culinaria",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -7384,7 +7377,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -7430,8 +7423,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7440,7 +7432,7 @@
    "classe": "oferta",
    "nicho": "ia-infoproduto",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -7486,8 +7478,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7716,7 +7707,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -7762,8 +7753,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7827,7 +7817,7 @@
    "classe": "oferta",
    "nicho": "comunidade-rateio-assinatura",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -7937,7 +7927,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8047,7 +8037,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8102,7 +8092,7 @@
    "classe": "oferta",
    "nicho": "eventos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8148,8 +8138,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8158,7 +8147,7 @@
    "classe": "oferta",
    "nicho": "evento-presencial",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8381,7 +8370,7 @@
    "classe": "oferta",
    "nicho": "idiomas",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8436,7 +8425,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -8549,7 +8538,7 @@
    "classe": "oferta",
    "nicho": "marketing-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8595,8 +8584,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8605,7 +8593,7 @@
    "classe": "oferta",
    "nicho": "educacao-jogos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8651,8 +8639,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8661,7 +8648,7 @@
    "classe": "oferta",
    "nicho": "carreira-emprego",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8707,8 +8694,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8717,7 +8703,7 @@
    "classe": "oferta",
    "nicho": "carreira-marketing-pessoal",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8763,8 +8749,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8828,7 +8813,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8874,8 +8859,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9049,7 +9033,7 @@
    "classe": "oferta",
    "nicho": "artesanato-costura",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -9095,8 +9079,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9548,7 +9531,7 @@
    "classe": "oferta",
    "nicho": "saude-bemestar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -9991,7 +9974,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -10440,7 +10423,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -10486,8 +10469,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10551,7 +10533,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10663,7 +10645,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10709,8 +10691,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10774,7 +10755,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10829,7 +10810,7 @@
    "classe": "oferta",
    "nicho": "mentoria-marketing",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10875,8 +10856,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10940,7 +10920,7 @@
    "classe": "oferta",
    "nicho": "idiomas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10986,8 +10966,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10996,7 +10975,7 @@
    "classe": "oferta",
    "nicho": "oficio-construcao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -11042,8 +11021,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11052,7 +11030,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -11098,8 +11076,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11108,7 +11085,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -11442,7 +11419,7 @@
    "classe": "oferta",
    "nicho": "saude-bemestar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -11488,8 +11465,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11553,7 +11529,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -11663,7 +11639,7 @@
    "classe": "oferta",
    "nicho": "artesanato-presentes",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -11938,7 +11914,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -11984,8 +11960,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11994,7 +11969,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12051,7 +12026,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12106,7 +12081,7 @@
    "classe": "oferta",
    "nicho": "receitas-culinaria",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12152,8 +12127,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12162,7 +12136,7 @@
    "classe": "oferta",
    "nicho": "financas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -12208,8 +12182,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12273,7 +12246,7 @@
    "classe": "oferta",
    "nicho": "musica-instrumento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12440,7 +12413,7 @@
    "classe": "oferta",
    "nicho": "e-commerce-vendas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -12486,8 +12459,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12496,7 +12468,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -12661,7 +12633,7 @@
    "classe": "oferta",
    "nicho": "ia-ferramentas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -12707,8 +12679,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12717,7 +12688,7 @@
    "classe": "oferta",
    "nicho": "ia-generativa",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12763,8 +12734,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12828,7 +12798,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12883,7 +12853,7 @@
    "classe": "oferta",
    "nicho": "ecommerce-dropshipping",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -12938,7 +12908,7 @@
    "classe": "oferta",
    "nicho": "crescimento-redes-sociais",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -12984,8 +12954,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12994,7 +12963,7 @@
    "classe": "oferta",
    "nicho": "espiritualidade-autoconhecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -13040,8 +13009,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13050,7 +13018,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -13096,8 +13064,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13106,7 +13073,7 @@
    "classe": "oferta",
    "nicho": "trading",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -13152,8 +13119,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13162,7 +13128,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -13208,8 +13174,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13381,7 +13346,7 @@
    "classe": "oferta",
    "nicho": "educacao-negocio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -13427,8 +13392,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13879,7 +13843,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -13989,7 +13953,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -14035,8 +13999,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14099,7 +14062,7 @@
    "classe": "oferta",
    "nicho": "golpe-loja-fake-instagram",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -14321,7 +14284,7 @@
    "classe": "oferta",
    "nicho": "culinaria-receitas",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -14930,7 +14893,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -14987,7 +14950,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -15033,8 +14996,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15210,7 +15172,7 @@
    "classe": "oferta",
    "nicho": "inteligencia-artificial",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -15322,7 +15284,7 @@
    "classe": "oferta",
    "nicho": "ferramenta-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -15377,7 +15339,7 @@
    "classe": "oferta",
    "nicho": "marketing-conteudo-viral",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -15432,7 +15394,7 @@
    "classe": "oferta",
    "nicho": "desenvolvimento-pessoal",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -15487,7 +15449,7 @@
    "classe": "oferta",
    "nicho": "servicos-empresariais",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -15542,7 +15504,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "mentorias-high-ticket",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -15708,7 +15670,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -15820,7 +15782,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -15866,8 +15828,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15876,7 +15837,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -15931,7 +15892,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -16041,7 +16002,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -16096,7 +16057,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -16142,8 +16103,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -16152,7 +16112,7 @@
    "classe": "oferta",
    "nicho": "tiktok-shop",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -16539,7 +16499,7 @@
    "classe": "oferta",
    "nicho": "artesanato-moldes",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -16585,8 +16545,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -16595,7 +16554,7 @@
    "classe": "oferta",
    "nicho": "artesanato-pdf",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -16641,8 +16600,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -16651,7 +16609,7 @@
    "classe": "oferta",
    "nicho": "saude-suplemento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -16762,7 +16720,7 @@
    "classe": "oferta",
    "nicho": "saude-dor-fisica",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -16929,7 +16887,7 @@
    "classe": "oferta",
    "nicho": "mobilidade-transito",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -16975,8 +16933,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17319,7 +17276,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -17367,8 +17324,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17433,7 +17389,7 @@
    "classe": "oferta",
    "nicho": "apostas-loteria",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -17490,7 +17446,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -17536,8 +17492,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17602,7 +17557,7 @@
    "classe": "oferta",
    "nicho": "educacao-continuada-saude",
    "sub_nicho": "farmacia",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -17648,8 +17603,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17713,7 +17667,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -18102,7 +18056,7 @@
    "classe": "oferta",
    "nicho": "apostas-previsao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18148,8 +18102,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18158,7 +18111,7 @@
    "classe": "oferta",
    "nicho": "investimentos-cripto",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -18204,8 +18157,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18546,7 +18498,7 @@
    "classe": "oferta",
    "nicho": "social-media-marketing",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18592,8 +18544,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18602,7 +18553,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -18657,7 +18608,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-e-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -18703,8 +18654,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18769,7 +18719,7 @@
    "classe": "oferta",
    "nicho": "maternidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -18879,7 +18829,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -18925,8 +18875,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18991,7 +18940,7 @@
    "classe": "oferta",
    "nicho": "artesanato-croche",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -19037,8 +18986,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19272,7 +19220,7 @@
    "classe": "oferta",
    "nicho": "artesanato-e-pdf",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -19318,8 +19266,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19665,7 +19612,7 @@
    "classe": "oferta",
    "nicho": "apostas-jogos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -19711,8 +19658,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19999,7 +19945,7 @@
    "classe": "oferta",
    "nicho": "negocio-online-ecommerce",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -20045,8 +19991,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20055,7 +20000,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -20165,7 +20110,7 @@
    "classe": "oferta",
    "nicho": "dropshipping-fornecedores",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -20211,8 +20156,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20501,7 +20445,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -20777,7 +20721,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -20832,7 +20776,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -20889,7 +20833,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -20937,8 +20881,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20947,7 +20890,7 @@
    "classe": "oferta",
    "nicho": "prompts-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -21222,7 +21165,7 @@
    "classe": "oferta",
    "nicho": "trading-investimentos",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -21554,7 +21497,7 @@
    "classe": "oferta",
    "nicho": "artesanato",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -21609,7 +21552,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -21721,7 +21664,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -21769,8 +21712,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -21779,7 +21721,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -21825,8 +21767,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -21835,7 +21776,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -21943,7 +21884,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -21998,7 +21939,7 @@
    "classe": "oferta",
    "nicho": "educacao-youtube",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -22053,7 +21994,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro-youtube",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -22099,8 +22040,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22165,7 +22105,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-whatsapp",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -22213,8 +22153,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   }
  ],
@@ -25163,8 +25102,6 @@
   "status_vencido": [
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
-   "50-guias-para-cuidado-da-bike",
-   "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
    "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
    "angulo-aplicativo-de-controle-financeiro-para-motoristas-de-app-sem-nome",
@@ -25215,108 +25152,49 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
-   "atlas-das-patologias",
-   "aula-magnetica-com-obs",
    "autismo-para-pais-lacerda",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "cae-course",
    "cantigas-da-bailarina",
-   "cao360",
-   "capcut-pro-revenda-de-licenca",
-   "captchas-no-google",
    "casinha-dos-sonhos",
-   "clube-conecta",
-   "clube-da-inteligencia-artificial-publicacoes-inovadoras-capes",
    "clube-da-pedagogia",
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
-   "combo-da-aprovacao-2023-projeto-frida-sobrancelhas-maos-livres",
    "comunidade-influencers-ia-ascensao",
-   "congresso-humanamente-salvador",
-   "curso-de-marketing-e-vendas-com-ia",
-   "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
-   "curso-isabela-schonorr-linkedin",
-   "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
-   "curso-raphael-mancini",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
-   "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
    "desafio-hiit-dance",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "direct-line-app",
    "do-rabisco-a-letra-bonita",
-   "dossie-do-emagrecimento",
-   "evoluft-programa-de-exercicios",
-   "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
    "fluency-english",
-   "fluency-route",
-   "formacao-mestre-do-acabamento",
-   "formando-creators",
    "fornecedores-ocultos-fornecedores-nfc",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
-   "frequencia-davinci",
-   "gtd-academy-anderson-seabra",
-   "guia-de-brigadeiros-perfeitos",
-   "guia-de-financas-gabriela-vitorino",
-   "hero-live-shop",
    "horinha-da-leitura",
-   "hub-boss-rateio-ia",
-   "ia-do-futuro",
-   "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
-   "imersao-tradutor-de-almas-andrea-vermont",
-   "implementacao-mentor-gabriel-sampaio",
-   "indicadores-de-trading",
-   "influ-lab",
-   "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
-   "laticinios-do-bem-mentor-marcelo-horta",
    "licao-kids",
    "little-genius",
-   "mac-bruno-aguiar-3-0",
-   "mentoria-thiago-lobos",
-   "metodo-live-perpetua-liveflow-ia",
    "meu-filho-e-unico-horleana",
    "minha-historinha",
    "missa-em-atividades",
-   "moldes-digitais-de-artesanato-rendafini",
-   "moldes-para-artesanato-rendafini",
    "movimentos-de-adoracao",
-   "mp28-cursos-de-motociclismo",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
-   "natflix-fitness",
-   "oblivium-digital-vendedor-produto-nao-identificado",
-   "orientacao-farmaceutica-na-pratica-2-0",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
-   "placar-exato",
-   "plano-carteira-rumo-ao-milhao-blockcap-llc",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "portovian",
-   "postcloner",
-   "protocolo-3s",
-   "protocolo-testosterona-2-0",
-   "quadradinhos-da-vovo",
-   "rendafini-moldes-para-artesanato",
-   "sala-de-jogos-keep-live",
-   "shoppro",
-   "sistema-de-fornecedores-ocultos-marcelle-martins",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
-   "thermafit-app",
    "turminha-alfa-kids",
-   "tutu-da-ju-assinatura",
-   "viva-de-martelinho-de-ouro",
-   "viver-de-youtube",
-   "youtube-dark-peter",
-   "zapturbomax-pulse-mkt-digital"
+   "tutu-da-ju-assinatura"
   ],
   "estilos_frontmatter": {
    "canonico": 1164
@@ -25366,8 +25244,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "2a3ebf6817a25fb1",
-  "atualizado_em": "2026-10-14T01:55:55-03:00",
+  "hash": "6bd76767e0f53b71",
+  "atualizado_em": "2026-10-14T01:56:42-03:00",
   "ofertas": 329,
   "angulos": 72,
   "observacoes": 763,
