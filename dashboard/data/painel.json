@@ -2,10 +2,10 @@
  "esquema": 1,
  "totais": {
   "ofertas": 344,
-  "angulos": 82,
-  "observacoes": 803,
+  "angulos": 83,
+  "observacoes": 806,
   "dias_radar": 36,
-  "passadas": 90,
+  "passadas": 91,
   "analises": 12,
   "ultima_rodada": "2026-10-14"
  },
@@ -2315,6 +2315,58 @@
    ]
   },
   {
+   "slug": "angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome",
+   "nome": "Curso com conteudo gerado por IA sem avisar (sem nome)",
+   "classe": "angulo",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20conteudo%20gerado%20por%20IA&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Reclamante diz ter comprado curso e descoberto que o conteudo e gerado por IA sem aviso -- segunda aparicao deste angulo, primeira foi na rodada das 11:19.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-curso-comunidade-fornecedores-revenda",
    "nome": "Curso + Comunidade + Fornecedores (revenda)",
    "classe": "angulo",
@@ -3617,7 +3669,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=metodo%20ADL%20Fabio%20Costa&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na reclamacao, oferta de 12 parcelas de R$250.",
    "flags": [
     "sem-longevidade",
@@ -4102,7 +4154,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=jogos%20para%20tv%20android&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Angulo sem marca capturada: comprador reclama que o 'pacote de jogos' so funciona em TVs com Android (ele tem TV de outra marca) e o vendedor nao responde e-mail. Nicho de catalogo/acesso vitalicio pouco explorado.",
    "flags": [
     "sem-longevidade",
@@ -10784,7 +10836,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -11952,7 +12004,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 12,
+   "n_citacoes": 13,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -12178,7 +12230,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Foto%20Dolar&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia -- nome sugere nicho de renda via celular.",
    "flags": [
     "score-provisorio",
@@ -13660,21 +13712,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Iara%20Shoppe&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 5,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 7,
    "resumo": "Curso sobre venda/operacao de loja na Shopee. Produtor identificado como Icaro Dias. Comprador diz nao ter recebido acesso ao curso adquirido via Eduzz e pede reembolso integral. Primeira aparicao no vault.",
    "flags": [
     "score-provisorio",
@@ -17841,7 +17893,7 @@
    "classe": "oferta",
    "nicho": "motociclismo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -17868,27 +17920,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-13",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MP28%20moto&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 3,
    "resumo": "Cluster de cursos de pilotagem/seguranca para motociclistas (3 titulos sob a mesma marca MP28) vendidos via Eduzz. Primeira aparicao no radar; produtor nao identificado na reclamacao.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18998,7 +19049,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PATCOFIT&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Primeira aparicao no radar. Assinatura anual de plano fitness vendida pela influenciadora Patricia Costa Santos via Hotmart -- reclamante cobrada por renovacao automatica sem autorizacao, cobranca veio 'do nada' um ano depois da compra.",
    "flags": [
     "score-provisorio",
@@ -19330,7 +19381,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Descomplica%20ETEC&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Primeira aparição. Assinatura de plataforma de estudos pra vestibular da ETEC vendida pelo Professor Fabiano Araujo via Hotmart; reclamante pediu cancelamento em 10/09 e continua sendo cobrado.",
    "flags": [
     "score-provisorio",
@@ -21680,7 +21731,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 19,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 48,
+   "n_citacoes": 49,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -22122,7 +22173,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20TEPM&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Primeira aparicao no radar. Curso TEPM da Prof. Juliana Souza via Hotmart, comprado por volta de outubro/2025 -- compradora perdeu acesso e suporte nao ajuda. Ticket alto pro radar, mas volume de reclamacao de suporte/acesso e recorrente nesse tipo de curso.",
    "flags": [
     "score-provisorio",
@@ -23584,13 +23635,14 @@
    "arquivo": "Radar/2026-10-14.md",
    "data": "2026-10-14",
    "titulo": "Radar 2026-10-14",
-   "ofertas_vistas": 31,
-   "novas": 16,
+   "ofertas_vistas": 34,
+   "novas": 17,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "braip",
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "monetizze",
@@ -23600,7 +23652,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -24256,6 +24308,35 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 1442.md",
+   "data": "2026-10-14",
+   "hora": "14:42",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+    "angulo-pacote-de-jogos-para-tv-android-sem-nome",
+    "direct-line-app",
+    "fornece-up",
+    "foto-dolar",
+    "iara-shoppe-360",
+    "mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto",
+    "patcofit",
+    "plataforma-de-estudo-descomplica-etec-2026-2027",
+    "stalkeia-ai",
+    "tepm"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 1 · Coleta: parcial · Achados: 12 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade fornece-up -- PerfectPay · mesma reclamacao, zero novidade…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-14 -- 1119.md",
    "data": "2026-10-14",
@@ -26282,7 +26363,7 @@
    },
    "2026-10-14": {
     "oferta": 10,
-    "angulo": 6
+    "angulo": 7
    }
   },
   "observacoes": {
@@ -26320,7 +26401,7 @@
    "2026-10-11": 21,
    "2026-10-12": 11,
    "2026-10-13": 18,
-   "2026-10-14": 31
+   "2026-10-14": 34
   }
  },
  "analises": [
@@ -26927,7 +27008,6 @@
    "moldes-para-artesanato-rendafini",
    "movimentos-de-adoracao",
    "mp28-cursos-de-motociclismo",
-   "mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
    "natflix-fitness",
@@ -26967,7 +27047,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1229
+   "canonico": 1233
   }
  },
  "vocabulario": {
@@ -27014,22 +27094,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "f9f57ae1d144e0c4",
-  "atualizado_em": "2026-10-14T11:20:37-03:00",
+  "hash": "0a37c0351514c26e",
+  "atualizado_em": "2026-10-14T14:44:57-03:00",
   "ofertas": 344,
-  "angulos": 82,
-  "observacoes": 803,
+  "angulos": 83,
+  "observacoes": 806,
   "ultima_rodada": "2026-10-14",
   "ultima_passada": {
    "data": "2026-10-14",
-   "hora": "11:19",
+   "hora": "14:42",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "eduzz"
    ]
   }
  }
