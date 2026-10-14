@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-13
-rodadas_vista: 3
+visto_ultimo: 2026-10-14
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [hotmart, yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e
 2 mencao(oes) nesta varredura (gateway Hotmart). Mentoria 'Máquina de Vendas Realizada' (MVR) de Daniel Fernandes, recorrente desde 04/10. Hoje 2 reclamações distintas citando o mentor, uma delas com o nome abreviado 'MVR'.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-comprar-o-produto-sinfonia-oculta-no-valor-de-r-28900_C459epilEQ_1YPip/
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Yampi). Mentoria 'Maquina de Vendas Realizada' (MVR) de Daniel Fernandes. Rotativo Yampi trouxe de volta a mesma reclamacao ja catalogada (visto em Yampi e Hotmart, 4 dias distintos: 05, 06, 13 e agora 14/10) -- confirma oferta sustentada, nao e achado novo mas reforca a temperatura quente.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/

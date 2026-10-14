@@ -1,0 +1,151 @@
+{
+  "data_varredura": "2026-10-14",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288231, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19069, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50620, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 37, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, StalkeIA.com. Reclamacoes desta janela (11:19) sao as mesmas da rodada das 09:46 -- pagina 1 da PerfectPay continua congelada, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/"
+    },
+    {
+      "produto": "Fornece Up",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 12",
+      "termo_busca": "Fornece Up",
+      "descricao": "Assinatura de acesso a fornecedores/revenda. Mesmas 2 reclamacoes (estorno Pix e cobranca Forneceup via Pix) da rodada anterior -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-sua-compra-feita-na-forneceup-via-pix_DTy1C3dcO18Ww6zK/"
+    },
+    {
+      "produto": "Direct Line",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Direct Line",
+      "descricao": "7a aparicao cumulativa na pagina 1 da Cakto. Mesma reclamacao da rodada das 09:46, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/"
+    },
+    {
+      "produto": "Pacote de jogos para TV (sem marca)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "pacote de jogos para tv android",
+      "descricao": "Angulo sem marca: pacote de jogos que so funciona em TV Android, vendedor some apos a venda. Mesma reclamacao da rodada anterior, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-jogos-para-tv-errada-e-nao-consigo-reembolso_qVnZGQ1UwajAB2Y5/"
+    },
+    {
+      "produto": "Metodo ADL (Fabio Costa)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "12x de R$ 250",
+      "termo_busca": "metodo ADL Fabio Costa",
+      "descricao": "Mentoria de comprar carros antes do leilao por 15-30% da tabela FIPE, metodo ADL, Fabio Costa via Kiwify. Mesma reclamacao ja registrada na rodada das 09:46, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/"
+    },
+    {
+      "produto": "Foto Dolar",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Foto Dolar",
+      "descricao": "Curso/app de ganhar dinheiro com fotos. 5a passada seguida com a mesma reclamacao na pagina 1 da Kiwify -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    },
+    {
+      "produto": "Curso com conteudo gerado por IA sem avisar (sem marca)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "ferramentas-ia",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "curso conteudo gerado por ia sem avisar",
+      "descricao": "Primeira vez visto. Comprador reclama que curso online tinha conteudo feito por IA sem isso ser divulgado na venda -- sem nome de produto ou produtor na reclamacao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-um-curso-e-fui-enganado-com-conteudo-de-ia-nao-recebi-reembolso_WjjxEjPZIRCfYce9/"
+    },
+    {
+      "produto": "PATCOFIT",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Patcofit",
+      "descricao": "Assinatura anual de plano fitness da influenciadora Patricia Costa Santos via Hotmart. 4a passada seguida com a mesma reclamacao -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "ticket alto, cerca de R$ 3.800",
+      "termo_busca": "TEPM curso",
+      "descricao": "Curso TEPM da Prof. Juliana Souza via Hotmart. 4a passada seguida com a mesma reclamacao -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "MVR (Daniel Fernandes)",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "marketing-digital",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "MVR Daniel Fernandes",
+      "descricao": "Mentoria 'Maquina de Vendas Realizada' (MVR) de Daniel Fernandes. Rotativo Yampi trouxe de volta a mesma reclamacao ja catalogada (visto em Yampi e Hotmart, 4 dias distintos: 05, 06, 13 e agora 14/10) -- confirma oferta sustentada, nao e achado novo mas reforca a temperatura quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/"
+    },
+    {
+      "produto": "Portovian",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "ecommerce-fisico",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 265,05",
+      "termo_busca": "Portovian",
+      "descricao": "Loja de produto fisico (nao infoproduto) com nao entrega via Correios. Rotativo Yampi trouxe de volta a mesma reclamacao ja catalogada (3 dias distintos: 05, 13 e agora 14/10). Fica registrado por aparecer no mesmo pedagio, mas e e-commerce fisico, nao low ticket digital.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovian-e-quero-o-cancelamento-e-estorno_r0yLd7lwixZPXOtn/"
+    }
+  ],
+  "passada": {
+    "hora": "11:19",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[fornece-up]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[direct-line-app]] -- Cakto · 7a aparicao cumulativa, zero novidade\n- [[mvr-daniel-fernandes]] -- Yampi · reaparece pelo rotativo, 4o dia distinto, confirma sustentacao\n\n## Mornas\n- [[angulo-pacote-de-jogos-para-tv-android-sem-nome]] -- Cakto · sem novidade\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · sem novidade\n- [[foto-dolar]] -- Kiwify · 5a passada seguida\n- [[patcofit]] -- Hotmart · 4a passada seguida\n- [[tepm]] -- Hotmart · 4a passada seguida\n- [[portovian]] -- Yampi · reaparece pelo rotativo, 3o dia distinto\n\n## Frias (novas)\n- Curso com conteudo gerado por IA sem avisar -- Kiwify · sem nome, primeira vez vista\n\nLeitura: janela de 1h33 (09:46 a 11:19) com os 4 gateways fixos totalmente congelados -- pagina 1 devolveu os mesmos titulos, URLs e ate as mesmas contagens de reclamacoes ativas (288.231 / 19.069 / 50.620 / 78.716, identicas a 03:45, 07:17 e 09:46). Pagina 2 continua em 'Exibindo 0 de 0' havera 6 dias. O rotativo Yampi tambem veio congelado: as 2 reclamacoes mais relevantes (MVR e Portovian) sao as mesmas ja catalogadas em passadas anteriores (13/10), so que reaparecendo hoje -- sinal de que o bug de paginacao/cache agora parece afetar a pagina 1 tambem, nao so a paginacao."
+  }
+}
