@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-10
-rodadas_vista: 5
+visto_ultimo: 2026-10-14
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manua
 ## Rodada 2026-10-10
 
 2 mencao(oes) nesta varredura (gateway Monetizze). Combo curso + ferramenta de IA vendidos casados ('Manual do Milhão' + 'Lasy'). 2 reclamacoes idênticas na mesma pagina hoje (30/09, publicadas quase juntas), reforcando volume de trafego simultaneo.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/
+
+## Rodada 2026-10-14
+
+2 mencao(oes) nesta varredura (gateway Monetizze). Ja catalogado, reaparece na Monetizze (gateway nao varrido desde 10/10) com 2 reclamacoes distintas no mesmo dia pedindo estorno do bundle curso + ferramenta Lasy IA que nao funcionam -- confirma que a oferta continua rodando.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/

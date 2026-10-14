@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-metodo-adl-fabio-costa-sem-nome-oficial"
-gateways_detectados: []
+gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reclamacao com mais detalhe que a passada anterior: titulo fala em 'curso de carros', ministrado por Fabio Costa via Kiwify, sem nome oficial do produto. URL correta desta reclamacao (a da passada de 00:19 estava com link errado, duplicado do achado Foto Dolar).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/

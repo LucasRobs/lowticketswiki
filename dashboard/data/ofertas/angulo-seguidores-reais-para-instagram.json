@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-10",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "monetizze"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-10",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -70,7 +70,7 @@
    "monetizze"
   ]
  },
- "corpo": "# Seguidores reais para Instagram\n\n## Angulo\nServiço de \"seguidores reais e verdadeiros\" para Instagram (500-700 seguidores) por R$87; perfis entregues sem foto/posts e removidos após tentativa de chargeback via Pix.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/\n\n## Historico\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Angulo de venda de pacote de seguidores reais para Instagram, R$87. Reconfirma angulo ja mapeado.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/\n",
+ "corpo": "# Seguidores reais para Instagram\n\n## Angulo\nServiço de \"seguidores reais e verdadeiros\" para Instagram (500-700 seguidores) por R$87; perfis entregues sem foto/posts e removidos após tentativa de chargeback via Pix.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/\n\n## Historico\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Angulo de venda de pacote de seguidores reais para Instagram, R$87. Reconfirma angulo ja mapeado.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Angulo ja catalogado, reaparece na Monetizze (primeira varredura desse gateway desde 10/10). Compra de 500-700 seguidores 'brasileiros e reais' pra perfil novo de negocios, sem entrega.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -95,9 +95,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Angulo de venda de pacote de seguidores reais para Instagram, R$87. Reconfirma angulo ja mapeado."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 87,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Angulo ja catalogado, reaparece na Monetizze (primeira varredura desse gateway desde 10/10). Compra de 500-700 seguidores 'brasileiros e reais' pra perfil novo de negocios, sem entrega."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0345.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 03:45"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-10.md",

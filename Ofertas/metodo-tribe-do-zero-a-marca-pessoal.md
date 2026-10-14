@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mesma reclamacao da passada de 00:19, Vortex Labs LTDA via Kiwify, sem novidade.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meus-cursos-digitais-e-a-empresa-nao-me-responde_yTel77stS_wWhsdA/

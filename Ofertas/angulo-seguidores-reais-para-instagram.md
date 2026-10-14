@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-10
-rodadas_vista: 2
+visto_ultimo: 2026-10-14
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Monetizze). Angulo de venda de pacote de seguidores reais para Instagram, R$87. Reconfirma angulo ja mapeado.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Monetizze). Angulo ja catalogado, reaparece na Monetizze (primeira varredura desse gateway desde 10/10). Compra de 500-700 seguidores 'brasileiros e reais' pra perfil novo de negocios, sem entrega.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-seguidores-reais-e-verdadeiros-para-meu-instagram-e-quero-meu-dinheiro-de-volta_G4O00DUs48iedlFn/

@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mesma reclamacao da passada de 00:19 (codigo de liberacao de acesso pendente). Kiwify com contagem congelada em 50.620 -- segue a 2a passada seguida registrando essa oferta.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/
