@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-10
-rodadas_vista: 15
+visto_ultimo: 2026-10-14
+rodadas_vista: 16
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 28
+ra_reclamacoes: 34
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -195,3 +195,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-prop
 28 mencao(oes) nesta varredura (gateway PerfectPay). 13 reclamacoes com ID novo de 08 a 11/10, todas acima de 261105725: 261382501, 261382373, 261347677, 261293029, 261292483, 261292285, 261288369, 261253637 ('Acesso Completo 2.0'), 261204241, 261147273 (stalkeia.website), 261144399, 261114367 (taxas extras para liberar) e 261110827. Maior volume da nota desde a estreia.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (13 IDs de 261110827 a 261382501)
+
+## Rodada 2026-10-14
+
+34 mencao(oes) nesta varredura (gateway PerfectPay). 6 reclamacoes nomeadas com ID novo na PerfectPay: 261503107, 261446151, 261445633, 261441547, 261414905, 261408091. Nao contadas: 261491319 ('Stalkeria', tres cobrancas de R$ 162), 261557075 (R$ 47,90 + 39,90 sem acesso, sem nome) e 261464561 (quatro Pix, sem nome).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261503107, 261446151, 261445633, 261441547, 261414905, 261408091)

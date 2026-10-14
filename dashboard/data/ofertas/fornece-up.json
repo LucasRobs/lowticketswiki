@@ -31,10 +31,10 @@
   "s_lucro": 5,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-11",
-  "visto_ultimo": "2026-10-11",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 8,
+  "ra_reclamacoes": 15,
   "ra_plataformas": [
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-11",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Fornece Up\n\n## Angulo\nPlataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583, 261121611): cancelamento travado e o que move o volume.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 8 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (8 IDs de 261121611 a 261367699)\n\n## Historico\n",
+ "corpo": "# Fornece Up\n\n## Angulo\nPlataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583, 261121611): cancelamento travado e o que move o volume.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 8 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (8 IDs de 261121611 a 261367699)\n\n## Historico\n\n## Rodada 2026-10-14\n\n15 mencao(oes) nesta varredura (gateway PerfectPay). 7 reclamacoes com ID novo, todas de cancelamento/estorno travado: 261541275, 261533037, 261507661, 261502437, 261471517, 261467633 (R$ 175), 261389195 (R$ 315,54). Biblioteca, busca 'forneceup': nenhum anuncio da operacao.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261541275, 261533037, 261507661, 261502437, 261471517, 261467633, 261389195)\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583, 261121611): cancelamento travado e o que move o volume."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 15,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 12,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "15 mencao(oes) na varredura de hoje. 7 reclamacoes com ID novo, todas de cancelamento/estorno travado: 261541275, 261533037, 261507661, 261502437, 261471517, 261467633 (R$ 175), 261389195 (R$ 315,54). Biblioteca, busca 'forneceup': nenhum anuncio da operacao."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0154.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 01:54"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-11.md",

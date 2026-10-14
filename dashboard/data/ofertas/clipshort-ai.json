@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-05",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-14",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "kirvano"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kirvano"
   ]
  },
- "corpo": "# ClipShort.Ai\n\n## Angulo\nFerramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260771579)\n\n## Historico\n",
+ "corpo": "# ClipShort.Ai\n\n## Angulo\nFerramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260771579)\n\n## Historico\n\n## Rodada 2026-10-14\n\n2 mencao(oes) nesta varredura (gateway Kirvano). 1 reclamacao com ID novo: 261484553 (comprou 'Corte virais', 'Clipshort gringo' e 'Clipshort' e nao recebeu acesso — a frente virou tres produtos).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261484553)\n",
  "observacoes": [
   {
    "data": "2026-10-05",
@@ -84,9 +84,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Ferramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10)."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 84.99,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. 1 reclamacao com ID novo: 261484553 (comprou 'Corte virais', 'Clipshort gringo' e 'Clipshort' e nao recebeu acesso — a frente virou tres produtos)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",

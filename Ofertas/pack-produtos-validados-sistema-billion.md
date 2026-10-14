@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-10-08
-rodadas_vista: 2
+visto_ultimo: 2026-10-14
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/pack-produtos-validados-sistema-billion"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 2 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo (261097095, 07/10, compra de 13/09): Sistema Billion GLOBAL R$ 597,99 + Pack de Produtos Validados R$ 97,28 + Sistema Billion R$ 247,71 = R$ 942,98. A escada inteira numa compra. Volta de esfriando.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261097095)
+
+## Rodada 2026-10-14
+
+3 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo: 261514697 (sistema Billion da Bianca Araujo, comprado em 03/09, reembolso pedido em 09/09 e nao pago apos 30 dias).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261514697)

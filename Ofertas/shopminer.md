@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-14
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 11
+ra_reclamacoes: 20
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -99,3 +99,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Payt). Ferramenta/app vendida via Payt, aplicativo nao cumpriu o prometido. Nome de produto incomum nesse gateway - Payt costuma ser overflow de operacoes que saem de outros gateways, vale checar se roda tambem em PerfectPay/Cakto.
 
 Evidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-pois-o-aplicativo-nao-cumpre-o-prometido_fPPuZWKCyL9FUzp3/
+
+## Rodada 2026-10-14
+
+20 mencao(oes) nesta varredura (gateway Payt). 9 reclamacoes com ID novo na Payt: 261557535, 261517005, 261488385 (app so trava), 261426601, 261425543, 261417585 ('acesso vitalicio ao ShopMiner (Shop Flix)', comprado em 02/10), 261409511 (comprado durante live), 261404929, 261400543 (nao gera o conteudo prometido). Biblioteca, busca 'shopminer': zero anuncios — confirma que o canal de venda e a live.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261557535, 261517005, 261488385, 261426601, 261425543, 261417585, 261409511, 261404929, 261400543)

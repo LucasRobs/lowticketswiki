@@ -24,10 +24,10 @@ s_ticket: 2
 s_lucro: 5
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-11
-rodadas_vista: 1
+visto_ultimo: 2026-10-14
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 15
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-11
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+15 mencao(oes) nesta varredura (gateway PerfectPay). 7 reclamacoes com ID novo, todas de cancelamento/estorno travado: 261541275, 261533037, 261507661, 261502437, 261471517, 261467633 (R$ 175), 261389195 (R$ 315,54). Biblioteca, busca 'forneceup': nenhum anuncio da operacao.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261541275, 261533037, 261507661, 261502437, 261471517, 261467633, 261389195)

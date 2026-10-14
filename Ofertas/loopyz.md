@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-10
-rodadas_vista: 9
+visto_ultimo: 2026-10-14
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/loopyz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -144,3 +144,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancel
 3 mencao(oes) nesta varredura (gateway Cakto). 2 reclamacoes com ID novo na Cakto (261213595 e 261161015, reembolso negado dentro do prazo). Primeira mencao desde 21/08.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261213595, 261161015)
+
+## Rodada 2026-10-14
+
+4 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo: 261487831 (assinatura 'Live Loopyz', pede cancelamento e estorno).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261487831)

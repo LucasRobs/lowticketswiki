@@ -443,6 +443,12 @@ aba do navegador interno** aberta em `reclameaqui.com.br` (mesma origem, sem apr
 1. ID da empresa: no HTML de `/empresa/<slug>/lista-reclamacoes/`, o `identifier` do bloco
    `#organization` do JSON-LD (Kirvano é `kirvano-pagamentos`, Cakto é `cakto-pay`; Lowify e Hubla
    não foram achados).
+   **Correção (2026-10-14):** `kirvano-pagamentos` e `cakto-pay` são os slugs da URL; passados como
+   `company=` a API devolve lista vazia. O `identifier` real é um hash: Kiwify `WP8apIU37CxxH-s-`,
+   Ticto `X6HvHZK0a-E5EeCR`, Lastlink `O0u56aAvSQpLS6vk`, Kirvano `JVD9Q_FXbkZdW_e6`, PerfectPay
+   (slug `perfectpay`) `2rdaK76G_uK2tYoE`, Cakto `s_m3C8RRvNsOtkas`, Wiapy `vMTwAOkMNE-Y8lh7`, Payt
+   `0DjGISB4pDHUfbQK`; Hotmart `69843`, Eduzz `90016`, Monetizze `110369`. Os campos úteis da resposta são
+   `legacyId`, `created`, `title`, `companyName`, `description` e `url` (o corpo abre em `/<slug>/<url>/`).
 2. `https://iosearch.reclameaqui.com.br/raichu-io-site-search-v1/query/companyComplains/10/<offset>?company=<id>`
    devolve 10 reclamações por chamada, da mais recente para trás, com `legacyId` (o ID estável),
    `created`, `title`, `companyName` e o começo do corpo. **Tamanho 50 volta vazio; usar 10, com
