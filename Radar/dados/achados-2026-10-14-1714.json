@@ -1,0 +1,187 @@
+{
+  "data_varredura": "2026-10-14",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288231, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19069, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50620, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "Mesma reclamacao de estorno (Stalkea.ai / Perfect Pay) das rodadas anteriores -- pagina 1 da PerfectPay continua idêntica (288.231 reclamacoes ativas, mesmo numero desde pelo menos 03:45).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/assunto-solicitacao-de-estorno-servico-enganoso-perfect-pay_2OgM7FfT_ut0AvcU/"
+    },
+    {
+      "produto": "Fornece Up",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Fornece Up",
+      "descricao": "Reclamacoes de estorno nao recebido (cancelamento e Pix), mesmas ja catalogadas -- pagina 1 congelada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-fornece-up-apos-cancelamento-em-7-dias_nK2G6qUC6C7nWEIi/"
+    },
+    {
+      "produto": "Direct Line",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line",
+      "descricao": "Reclamacao de estorno nao recebido/servico nao cumprido, mesma ja catalogada -- Cakto pagina 1 tambem congelada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/"
+    },
+    {
+      "produto": "Pacote de jogos para TV Android (sem nome oficial)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "jogos TV Android",
+      "descricao": "Compra de pacote de jogos para TV errada, sem reembolso -- mesma reclamacao ja vista, sem nome de produto ainda.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-jogos-para-tv-errada-e-nao-consigo-reembolso_qVnZGQ1UwajAB2Y5/"
+    },
+    {
+      "produto": "Foto Dolar",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ganhar-dinheiro-online",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Foto Dolar",
+      "descricao": "Curso/app de renda extra, reclamacao de acesso/codigo -- 7a passada seguida aparecendo na pagina 1 da Kiwify.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    },
+    {
+      "produto": "Metodo ADL (Fabio Costa) -- sem nome oficial",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "metodo ADL Fabio Costa",
+      "descricao": "Curso de carros com o metodo ADL do produtor Fabio Costa, vendido via Kiwify -- mesmo angulo ja catalogado, ainda sem nome comercial oficial.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/"
+    },
+    {
+      "produto": "Curso com conteudo gerado por IA sem avisar (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso conteudo gerado por IA",
+      "descricao": "Reclamante diz ter comprado curso e descoberto que o conteudo e gerado por IA sem aviso -- terceira aparicao deste angulo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-um-curso-e-fui-enganado-com-conteudo-de-ia-nao-recebi-reembolso_WjjxEjPZIRCfYce9/"
+    },
+    {
+      "produto": "PATCOFIT",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Patcofit",
+      "descricao": "Cobranca indevida de renovacao automatica -- 6a passada seguida na pagina 1 da Hotmart, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "TEPM curso",
+      "descricao": "Problema de acesso ao curso TEPM, suporte nao responde -- 6a passada seguida, mesma reclamacao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "Plataforma de Estudo Descomplica ETEC 2026-2027",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "educacao",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Descomplica ETEC",
+      "descricao": "Plataforma de estudo do Professor Fabiano Araujo, reclamacao de cobranca continuada apos pedido de cancelamento -- reaparece, ja catalogada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-minha-plataforma-de-estudo-e-continuo-sendo-cobrado_5fSwyPYjjQqPj934/"
+    },
+    {
+      "produto": "Mentoria online (Hotmart, nome incerto)",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "",
+      "descricao": "Nao cancelaram os 3 produtos comprados e nao devolveram o valor -- mesmo angulo generico de mentoria online ja catalogado, continua sem nome comercial.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-cancelaram-todos-os-meus-3-produtos-e-nao-devolveram-o-valor_8JQyRX6wjz4djIrC/"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "WhatsRadar",
+      "descricao": "App de espionagem/rastreamento de WhatsApp, reclamacao de nao conseguir abrir o app e pedido de estorno por propaganda enganosa -- Payt e o gateway rotativo desta passada (mais atrasado do grupo monetizze/braip/payt/ticto/eduzz/yampi), confirma que a oferta segue ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/"
+    },
+    {
+      "produto": "Oblivium Digital (vendedor; produto nao identificado)",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Oblivium Digital",
+      "descricao": "Pedido de cancelamento nao respondido pelo vendedor Oblivium Digital, exige estorno -- ja catalogado como vendedor sem produto identificado, reaparece via Payt.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/"
+    },
+    {
+      "produto": "A Renda da Fortuna",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Renda da Fortuna",
+      "descricao": "Pacote vendido como forma de gerar renda, reclamacao de propaganda enganosa e pedido de estorno -- ja catalogado, confirma que segue ativo via Payt.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/"
+    }
+  ],
+  "passada": {
+    "hora": "17:14",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[fornece-up]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n- [[foto-dolar]] -- Kiwify · 7a passada seguida\n- [[patcofit]] -- Hotmart · 6a passada seguida\n- [[tepm]] -- Hotmart · 6a passada seguida\n- [[zap-radar]] -- Payt · rotativo, confirma sustentacao\n\n## Mornas\n- [[angulo-pacote-de-jogos-para-tv-android-sem-nome]] -- Cakto · sem novidade\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · reaparece, ainda sem nome oficial\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] -- Kiwify · 3a aparicao deste angulo\n- [[plataforma-de-estudo-descomplica-etec-2026-2027]] -- Hotmart · reaparece\n- [[angulo-mentoria-online-hotmart-nome-incerto]] -- Hotmart · reaparece\n- [[oblivium-digital-vendedor-produto-nao-identificado]] -- Payt · rotativo, reaparece\n- [[a-renda-da-fortuna]] -- Payt · rotativo, reaparece\n\nLeitura: janela de 2h32 (14:42 a 17:14) com os 4 gateways fixos totalmente congelados -- as 4 contagens de reclamacoes ativas (288.231 / 19.069 / 50.620 / 78.716) seguem identicas as rodadas desde pelo menos 03:45 de hoje, e a pagina 1 trouxe exatamente os mesmos titulos e URLs testados ha pouco. `?pagina=2` testada em PerfectPay, Cakto, Kiwify, Hotmart e Payt devolveu 'Exibindo 0 de 0 reclamacoes' em todos -- confirma que o bug de paginacao e site-wide (nao so da PerfectPay) e persiste desde 08/10 (8o dia). Payt entrou como rotativo (mais atrasado do grupo, sem passada dedicada desde 00:19 de hoje) e devolveu apenas recorrencias ja catalogadas (ZAP Radar, Oblivium Digital, A Renda da Fortuna) -- nenhum achado inedito nesta passada."
+  }
+}

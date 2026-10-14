@@ -5,7 +5,7 @@
   "angulos": 83,
   "observacoes": 806,
   "dias_radar": 36,
-  "passadas": 91,
+  "passadas": 92,
   "analises": 12,
   "ultima_rodada": "2026-10-14"
  },
@@ -554,7 +554,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Renda%20da%20Fortuna&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa…",
    "flags": [
     "score-provisorio",
@@ -2324,7 +2324,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2359,7 +2361,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20conteudo%20gerado%20por%20IA&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Reclamante diz ter comprado curso e descoberto que o conteudo e gerado por IA sem aviso -- segunda aparicao deste angulo, primeira foi na rodada das 11:19.",
    "flags": [
     "sem-longevidade",
@@ -3615,7 +3617,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Reclamação cita 3 compras e nomes conflitantes ('método Murilo Villaverde', cursos 'eros'/'billaverde'); provável corrupção de texto no relato original, produtor não confirmado.",
    "flags": [
     "sem-longevidade",
@@ -3669,7 +3671,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=metodo%20ADL%20Fabio%20Costa&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na reclamacao, oferta de 12 parcelas de R$250.",
    "flags": [
     "sem-longevidade",
@@ -4154,7 +4156,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=jogos%20para%20tv%20android&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Angulo sem marca capturada: comprador reclama que o 'pacote de jogos' so funciona em TVs com Android (ele tem TV de outra marca) e o vendedor nao responde e-mail. Nicho de catalogo/acesso vitalicio pouco explorado.",
    "flags": [
     "sem-longevidade",
@@ -10836,7 +10838,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -12004,7 +12006,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 13,
+   "n_citacoes": 14,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -12230,7 +12232,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Foto%20Dolar&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia -- nome sugere nicho de renda via celular.",
    "flags": [
     "score-provisorio",
@@ -18494,7 +18496,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas…",
    "flags": [
     "score-provisorio",
@@ -19049,7 +19051,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PATCOFIT&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Primeira aparicao no radar. Assinatura anual de plano fitness vendida pela influenciadora Patricia Costa Santos via Hotmart -- reclamante cobrada por renovacao automatica sem autorizacao, cobranca veio 'do nada' um ano depois da compra.",
    "flags": [
     "score-provisorio",
@@ -19381,7 +19383,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Descomplica%20ETEC&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Primeira aparição. Assinatura de plataforma de estudos pra vestibular da ETEC vendida pelo Professor Fabiano Araujo via Hotmart; reclamante pediu cancelamento em 10/09 e continua sendo cobrado.",
    "flags": [
     "score-provisorio",
@@ -21731,7 +21733,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 19,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 49,
+   "n_citacoes": 50,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -22173,7 +22175,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20TEPM&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Primeira aparicao no radar. Curso TEPM da Prof. Juliana Souza via Hotmart, comprado por volta de outubro/2025 -- compradora perdeu acesso e suporte nao ajuda. Ticket alto pro radar, mas volume de reclamacao de suporte/acesso e recorrente nesse tipo de curso.",
    "flags": [
     "score-provisorio",
@@ -23565,7 +23567,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 19,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 38,
+   "n_citacoes": 39,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -23652,7 +23654,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 6,
+   "n_passadas": 7,
    "leitura": ""
   },
   {
@@ -24308,6 +24310,38 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 1714.md",
+   "data": "2026-10-14",
+   "hora": "17:14",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "a-renda-da-fortuna",
+    "angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome",
+    "angulo-mentoria-online-hotmart-nome-incerto",
+    "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+    "angulo-pacote-de-jogos-para-tv-android-sem-nome",
+    "direct-line-app",
+    "fornece-up",
+    "foto-dolar",
+    "oblivium-digital-vendedor-produto-nao-identificado",
+    "patcofit",
+    "plataforma-de-estudo-descomplica-etec-2026-2027",
+    "stalkeia-ai",
+    "tepm",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 1 · Coleta: parcial · Achados: 14 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade fornece-up -- PerfectPay · mesma reclamacao, zero novidade…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-14 -- 1442.md",
    "data": "2026-10-14",
@@ -27094,22 +27128,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "0a37c0351514c26e",
-  "atualizado_em": "2026-10-14T14:44:57-03:00",
+  "hash": "3e6c8b062d8be798",
+  "atualizado_em": "2026-10-14T17:18:01-03:00",
   "ofertas": 344,
   "angulos": 83,
   "observacoes": 806,
   "ultima_rodada": "2026-10-14",
   "ultima_passada": {
    "data": "2026-10-14",
-   "hora": "14:42",
+   "hora": "17:14",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "payt"
    ]
   }
  }

@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome"
-gateways_detectados: []
+gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-14
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Reclamante diz ter comprado curso e descoberto que o conteudo e gerado por IA sem aviso -- terceira aparicao deste angulo.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/comprei-um-curso-e-fui-enganado-com-conteudo-de-ia-nao-recebi-reembolso_WjjxEjPZIRCfYce9/
