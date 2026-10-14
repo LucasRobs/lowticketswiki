@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 34
+ra_reclamacoes: 36
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14

@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 15
+ra_reclamacoes: 16
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14

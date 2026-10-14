@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: wiapy
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=massagem%20t%C3%A2ntrica%20curso&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 50
@@ -24,22 +24,22 @@ s_ticket: 5
 s_lucro: 4
 s_replica: 7
 s_saturacao: 7
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-27
-rodadas_vista: 4
+visto_ultimo: 2026-10-14
+rodadas_vista: 5
 dias_no_ar: 11
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta:
+ativos_pasta: 
 gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [wiapy]
-ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-27
+ra_primeira_reclamacao: "2026-08-22"
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, dublagem-ia]
@@ -102,3 +102,9 @@ Segunda reclamacao em dois dias na Wiapy (ha 11h). Compra de 12/08 registrada on
 ## Rodada 2026-08-24
 
 Wiapy, mesma reclamacao de 23/08. Sem alteracao.
+
+## Rodada 2026-10-14
+
+3 mencao(oes) nesta varredura (gateway Wiapy). 1 reclamacao com ID novo na Wiapy em 14/10: 261593047 (reembolso por divergencia entre conteudo e propaganda). Primeira desde 27/08.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (ID 261593047)

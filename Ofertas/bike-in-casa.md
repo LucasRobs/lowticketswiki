@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-10
-rodadas_vista: 5
+visto_ultimo: 2026-10-14
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/bike-in-casa"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -121,3 +121,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (IDs 
 2 mencao(oes) nesta varredura (gateway Ticto). NOVO: assinatura de app/equipamento de bike indoor com mecanica de teste de 30 dias dificil de cancelar -- 2 reclamacoes distintas na mesma passada sobre cancelamento/reembolso.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assinatura-do-bike-in-casa-dentro-do-prazo-de-teste_uc_bma5xDzkUi_F2/
+
+## Rodada 2026-10-14
+
+5 mencao(oes) nesta varredura (gateway Ticto). 1 reclamacao com ID novo na Ticto em 14/10: 261610227 (assinatura anual, cancelamento pedido em agosto, quarta parcela cobrada). E cobranca residual de venda antiga, nao venda nova.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 261610227)

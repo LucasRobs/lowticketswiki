@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-14
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/linflora"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Payt). Reclamacao pede estorno total de compra feita numa 'loja do Instagram' (nome parcialmente editado pelo RA) - padrao classico de loja de anuncio no Instagram processando via Payt.
 
 Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-total-pois-a-loja-linflora-do-instagram-e-editado-pelo-reclame-aqui_lSmwYXOJGxz-T0ig/
+
+## Rodada 2026-10-14
+
+3 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo na Payt em 14/10: 261603523 (compra feita hoje, sem resposta) e 261570083 (produto nao recebido). Loja de produto fisico, fora do escopo low ticket digital.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261603523, 261570083)
