@@ -40,11 +40,15 @@
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/angulo-e-book-de-taro-78-mapas-mentais",
-  "gateways_detectados": [],
+  "gateways_detectados": [
+   "hotmart"
+  ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 1,
-  "ra_plataformas": [],
+  "ra_plataformas": [
+   "hotmart"
+  ],
   "ra_primeira_reclamacao": "",
   "ra_checado": "2026-10-15",
   "veredito": "observar",
@@ -62,9 +66,11 @@
    "sem-longevidade",
    "sem-lp"
   ],
-  "gateways": []
+  "gateways": [
+   "hotmart"
+  ]
  },
- "corpo": "# e-book de taro (78 mapas mentais)\n\n## Angulo\nE-book com 78 mapas mentais sobre Taro vendido na Hotmart; compradora recebeu a versao em espanhol e nao consegue usar. Sem nome de produto/produtor -- angulo de espiritualidade/taro pra buscar na Biblioteca de Anuncios.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/\n\n## Historico\n",
+ "corpo": "# e-book de taro (78 mapas mentais)\n\n## Angulo\nE-book com 78 mapas mentais sobre Taro vendido na Hotmart; compradora recebeu a versao em espanhol e nao consegue usar. Sem nome de produto/produtor -- angulo de espiritualidade/taro pra buscar na Biblioteca de Anuncios.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Mesma reclamacao das passadas anteriores -- e-book de Taro vendido na Hotmart entregue em espanhol. Zero novidade.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/\n",
  "observacoes": [
   {
    "data": "2026-10-15",

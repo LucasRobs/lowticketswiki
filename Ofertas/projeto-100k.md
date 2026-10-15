@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mesma reclamacao 'Reembolso' da passada das 14:47, zero novidade.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/reembolso_NVE3VyqLjHMB5vaw/

@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-14
-rodadas_vista: 17
+visto_ultimo: 2026-10-15
+rodadas_vista: 18
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 26
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -201,5 +201,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (12 ID
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Payt). Primeira aparicao no radar. App que o comprador nao conseguiu abrir, reclamacao de propaganda enganosa com pedido de estorno via Payt -- nome sugere app de rastreamento/espionagem de WhatsApp.
+
+Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Payt). Payt estava sem varredura desde 14/10 17:14 (+24h), mas a pagina 1 trouxe a mesma reclamacao de 08/10 contra o app de rastreamento de WhatsApp -- indica que o volume de reclamacoes novas da Payt e baixo e o bug de paginacao (ver nota da passada) impede ver qualquer coisa mais recente. Zero novidade genuina, mas confirma oferta multi-dia (vista em 08, 10, 14 e agora 15/10).
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/

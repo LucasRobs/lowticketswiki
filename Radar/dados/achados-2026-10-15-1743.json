@@ -1,0 +1,212 @@
+{
+  "data_varredura": "2026-10-15",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288231, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "Mesma reclamacao das passadas anteriores segue ativa na pagina 1 da PerfectPay. Zero novidade -- continua a oferta mais estavel do vault.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Anunciaie / Anunciae",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "R$ 21,09 - R$ 155,88",
+      "termo_busca": "Anunciaie",
+      "descricao": "As duas reclamacoes que citam a ferramenta (a de reembolso sem resposta do suporte e a de 'tres compras') sao exatamente as mesmas da passada das 14:47 -- zero novidade, mas confirma que a grafia com circunflexo 'Anunciae' continua ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "Meus Socios(as)",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 197",
+      "termo_busca": "Meus Socios",
+      "descricao": "Mesma reclamacao de 'tres compras' da passada das 14:47, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-consigo-cancelar-tres-compras-e-obter-reembolso-da-perfect-pay_gCON0wAUW3EZJPWO/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "Mesma reclamacao das passadas anteriores -- nao consegue cancelar app/assinatura. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/"
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Destrave Automatico mentoria",
+      "descricao": "Mesma reclamacao das passadas anteriores -- cobranca indevida de renovacao nao autorizada. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/"
+    },
+    {
+      "produto": "Emcomedy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "cursos-diversos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Emcomedy",
+      "descricao": "Mesma reclamacao das passadas anteriores -- produto abaixo do esperado, suporte nao responde. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/"
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Accent",
+      "descricao": "Mesma reclamacao das passadas anteriores -- curso de idiomas, pedido de cancelamento. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/"
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Academia de Concreto",
+      "descricao": "Mesma reclamacao das passadas anteriores -- reembolso de curso de treino. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/"
+    },
+    {
+      "produto": "Projeto 100k",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Projeto 100k",
+      "descricao": "Mesma reclamacao 'Reembolso' da passada das 14:47, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/reembolso_NVE3VyqLjHMB5vaw/"
+    },
+    {
+      "produto": "cursos de venda no exterior (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "",
+      "descricao": "Compradora cancelou dois cursos sobre 'vendas no exterior' comprados no mesmo dia (08/10) na Kiwify e nao recebeu estorno. Sem nome de produto nem produtor -- angulo de dropshipping/ecommerce internacional, primeira vez que aparece com essa descricao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-estorno-de-dois-cursos-que-cancelei-no-mesmo-dia_44TVUf39Cxfxq7TA/"
+    },
+    {
+      "produto": "e-book de taro (78 mapas mentais)",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "espiritualidade-religiao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "mapas mentais taro",
+      "descricao": "Mesma reclamacao das passadas anteriores -- e-book de Taro vendido na Hotmart entregue em espanhol. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/"
+    },
+    {
+      "produto": "Curso preparatorio -- Professor Mateus",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-preparatorios-concursos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio Professor Mateus",
+      "descricao": "Mesma reclamacao das passadas anteriores -- cancelamento por emergencia familiar, compra de 07/09/2026. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-cancelar-curso-preparatorio-e-ser-reembolsado-por-emergencia-familiar_yGP-e2CZ2prPqRC7/"
+    },
+    {
+      "produto": "Curso preparatorio para CPA",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-preparatorios-concursos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio CPA Anbima",
+      "descricao": "Mesmo titulo das passadas anteriores na pagina 1 da Hotmart -- nota fiscal do curso CPA. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-contato-para-incluir-dados-na-nf-do-curso-cpa_kAOxC5xnCoJMp_C_/"
+    },
+    {
+      "produto": "ZapRadar / WhatsRadar",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "WhatsRadar",
+      "descricao": "Payt estava sem varredura desde 14/10 17:14 (+24h), mas a pagina 1 trouxe a mesma reclamacao de 08/10 contra o app de rastreamento de WhatsApp -- indica que o volume de reclamacoes novas da Payt e baixo e o bug de paginacao (ver nota da passada) impede ver qualquer coisa mais recente. Zero novidade genuina, mas confirma oferta multi-dia (vista em 08, 10, 14 e agora 15/10).",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/"
+    },
+    {
+      "produto": "Oblivium Digital (vendedor; produto nao identificado)",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Oblivium Digital",
+      "descricao": "Mesma reclamacao de 07/10 ainda na pagina 1 da Payt -- produto nao identificado, pagamento em 4x. Zero novidade genuina (mesmo problema de volume baixo + bug de paginacao do ZapRadar acima), mas confirma vendedor sustentado ha semanas.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/"
+    },
+    {
+      "produto": "A Renda da Fortuna",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Renda da Fortuna",
+      "descricao": "Mesma reclamacao de 07/10 ainda na pagina 1 da Payt -- pacote pago em parcelas (12x e 5x, valores mascarados pelo Reclame Aqui). Zero novidade genuina, mas confirma oferta sustentada desde 08/10.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/"
+    }
+  ],
+  "passada": {
+    "hora": "17:43",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[anunciaie]] -- PerfectPay · mesmas 2 reclamacoes da passada anterior, zero novidade\n- [[zap-radar]] -- Payt · reclamacao de 08/10 ainda na pagina 1 (payt sem varredura havia +24h), zero novidade genuina mas confirma oferta multi-dia\n- [[oblivium-digital-vendedor-produto-nao-identificado]] -- Payt · reclamacao de 07/10 ainda na pagina 1, zero novidade genuina\n- [[a-renda-da-fortuna]] -- Payt · reclamacao de 07/10 ainda na pagina 1, zero novidade genuina\n\n## Mornas\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · mesma reclamacao, zero novidade\n\n## Frias (sem novidade real)\n- [[metodo-accent]] -- Kiwify · mesma reclamacao da passada anterior\n- [[house-gym-academia-de-concreto]] -- Kiwify · mesma reclamacao da passada anterior\n- [[emcomedy]] -- Cakto · mesma reclamacao da passada anterior\n- [[meus-socios-as]] -- PerfectPay · mesma reclamacao da passada anterior\n- [[projeto-100k]] -- Kiwify · mesma reclamacao da passada anterior\n- angulo e-book de taro 78 mapas mentais -- Hotmart · mesma reclamacao da passada anterior\n- angulo curso preparatorio Professor Mateus -- Hotmart · mesma reclamacao da passada anterior\n- angulo curso preparatorio CPA -- Hotmart · mesmo titulo da passada anterior\n\n## Frias (novos)\n- angulo cursos de venda no exterior (sem nome) -- Kiwify · dois cursos cancelados no mesmo dia, sem nome de produto nem produtor\n\nLeitura: janela de ~2h56 (14:47 a 17:43). Bug de paginacao do ReclameAqui reconfirmado pela 6a passada seguida -- pagina 2 testada nos 5 gateways (perfectpay com teste extra de pagina 3 a 15) e todas devolveram 'Exibindo 0 de 0 reclamacoes'. A pagina 1 de PerfectPay, Cakto e Kiwify trouxe exatamente as mesmas 5 reclamacoes, titulo por titulo e URL por URL, da passada das 14:47 -- zero novidade genuina nesses 3. A novidade do dia foi a Payt: sem varredura ha mais de 24h (ultima vez em 14/10 as 17:14), mas a pagina 1 trouxe reclamacoes de 07 e 08/10 -- ou seja, nem o gap de tempo ajudou, porque o volume de reclamacoes novas da Payt e baixo e o mesmo bug de paginacao prende a leitura nessas 5 mais antigas. Isso confirma 3 entidades que ja estavam no vault (ZapRadar/WhatsRadar, Oblivium Digital, A Renda da Fortuna) como ofertas de fato sustentadas ao longo de semanas, mas sem nenhum dado novo. O unico achado genuinamente novo foi abrir uma reclamacao generica da Kiwify que revelou um angulo sem nome: dois cursos sobre 'venda no exterior' cancelados juntos. Amostra pequena por causa do bug (1 pagina x 5 gateways = 25 reclamacoes brutas, 18 abertas no detalhe, todas por causa da falta de nome no titulo), nao por falta de tentativa.",
+    "resumo": "6a passada seguida com bug de paginacao confirmado; Payt (sem varredura ha +24h) so trouxe reclamacoes antigas de 07-08/10 que reconfirmam ZapRadar, Oblivium Digital e A Renda da Fortuna sem novidade real; unico achado novo foi um angulo sem nome de 'cursos de venda no exterior' na Kiwify."
+  }
+}

@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-curso-preparatorio-professor-mateus"
-gateways_detectados: []
+gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-15
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Mesma reclamacao das passadas anteriores -- cancelamento por emergencia familiar, compra de 07/09/2026. Zero novidade.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/quero-cancelar-curso-preparatorio-e-ser-reembolsado-por-emergencia-familiar_yGP-e2CZ2prPqRC7/

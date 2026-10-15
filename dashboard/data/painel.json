@@ -2,10 +2,10 @@
  "esquema": 1,
  "totais": {
   "ofertas": 356,
-  "angulos": 88,
-  "observacoes": 839,
+  "angulos": 89,
+  "observacoes": 843,
   "dias_radar": 37,
-  "passadas": 98,
+  "passadas": 99,
   "analises": 12,
   "ultima_rodada": "2026-10-15"
  },
@@ -540,21 +540,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Renda%20da%20Fortuna&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 8,
    "resumo": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa…",
    "flags": [
     "score-provisorio",
@@ -2913,7 +2913,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2965,7 +2967,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -3002,6 +3006,58 @@
    "ultima_obs": "2026-10-15",
    "n_citacoes": 1,
    "resumo": "Curso preparatorio (tipo nao especificado) do 'Professor Mateus' vendido via Hotmart. Compradora pede cancelamento e reembolso por emergencia familiar; comprou em 07/09/2026. Produtor identificado pelo nome, produto sem titulo oficial.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-cursos-de-venda-no-exterior-sem-nome",
+   "nome": "cursos de venda no exterior (sem nome)",
+   "classe": "angulo",
+   "nicho": "ecommerce-dropshipping",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 1,
+   "resumo": "Compradora cancelou dois cursos sobre 'vendas no exterior' comprados no mesmo dia (08/10) na Kiwify e nao recebeu estorno. Sem nome de produto nem produtor -- angulo de dropshipping/ecommerce internacional, primeira vez que aparece com essa descricao.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -3133,7 +3189,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -5836,7 +5894,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
    "flags": [
     "score-provisorio",
@@ -11276,7 +11334,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 14,
+   "n_citacoes": 15,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -11833,7 +11891,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Emcomedy&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -14054,7 +14112,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -17321,7 +17379,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Destrave%20Automatico%20mentoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao unica -- vale so observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -17655,7 +17713,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -18206,7 +18264,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Meus%20Socios&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Produto citado dentro de uma reclamacao de reembolso de 3 compras na PerfectPay (a mais cara das tres, R$197). Nome sugere oferta de parceria/sociedade de negocio ou comunidade paga; vendedor nao identificado na reclamacao. Primeira aparicao no radar.",
    "flags": [
     "score-provisorio",
@@ -19363,21 +19421,21 @@
    "score": 1.1,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 5,
    "resumo": "Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas…",
    "flags": [
     "score-provisorio",
@@ -20763,7 +20821,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Projeto%20100k&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Produto citado numa reclamacao generica de reembolso na Kiwify (titulo so 'Reembolso'). Compradora diz nao ter achado o nome do produtor. Nome sugere promessa de renda/meta financeira. Primeira aparicao no radar.",
    "flags": [
     "score-provisorio",
@@ -22668,7 +22726,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 20,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 57,
+   "n_citacoes": 58,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -24488,21 +24546,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 17,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 18,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 26,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 19,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 39,
+   "n_obs": 20,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 41,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -24572,8 +24630,8 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 29,
-   "novas": 13,
+   "ofertas_vistas": 33,
+   "novas": 14,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -24582,12 +24640,13 @@
     "eduzz",
     "hotmart",
     "kiwify",
+    "payt",
     "perfectpay",
     "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -25267,6 +25326,36 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 1743.md",
+   "data": "2026-10-15",
+   "hora": "17:43",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "a-renda-da-fortuna",
+    "anunciaie",
+    "direct-line-app",
+    "emcomedy",
+    "house-gym-academia-de-concreto",
+    "mentoria-mda-metodo-destrave-automatico",
+    "metodo-accent",
+    "meus-socios-as",
+    "oblivium-digital-vendedor-produto-nao-identificado",
+    "projeto-100k",
+    "stalkeia-ai",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 1 · Coleta: parcial · Achados: 16 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade anunciaie -- PerfectPay · mesmas 2 reclamacoes da passada anterior…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 1447.md",
    "data": "2026-10-15",
@@ -27532,7 +27621,7 @@
    },
    "2026-10-15": {
     "oferta": 9,
-    "angulo": 4
+    "angulo": 5
    }
   },
   "observacoes": {
@@ -27571,7 +27660,7 @@
    "2026-10-12": 11,
    "2026-10-13": 18,
    "2026-10-14": 38,
-   "2026-10-15": 29
+   "2026-10-15": 33
   }
  },
  "analises": [
@@ -28264,7 +28353,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1283
+   "canonico": 1288
   }
  },
  "vocabulario": {
@@ -28311,22 +28400,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "c170adebf29ba67b",
-  "atualizado_em": "2026-10-15T14:48:52-03:00",
+  "hash": "99fae103df2f24b6",
+  "atualizado_em": "2026-10-15T17:50:23-03:00",
   "ofertas": 356,
-  "angulos": 88,
-  "observacoes": 839,
+  "angulos": 89,
+  "observacoes": 843,
   "ultima_rodada": "2026-10-15",
   "ultima_passada": {
    "data": "2026-10-15",
-   "hora": "14:47",
+   "hora": "17:43",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "payt"
    ]
   }
  }

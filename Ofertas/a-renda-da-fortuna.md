@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-14
-rodadas_vista: 3
+visto_ultimo: 2026-10-15
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-d
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Payt). Pacote ja catalogado, continua sendo vendido via Payt. Reclamante pede estorno de duas parcelas ocultas, produtor nao identificado na reclamacao.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Payt). Mesma reclamacao de 07/10 ainda na pagina 1 da Payt -- pacote pago em parcelas (12x e 5x, valores mascarados pelo Reclame Aqui). Zero novidade genuina, mas confirma oferta sustentada desde 08/10.
 
 Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/

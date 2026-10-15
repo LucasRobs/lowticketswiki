@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Mesma reclamacao de 'tres compras' da passada das 14:47, zero novidade.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-consigo-cancelar-tres-compras-e-obter-reembolso-da-perfect-pay_gCON0wAUW3EZJPWO/
