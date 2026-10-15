@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Braip). Nome novo, mencao unica, natureza exata do produto nao confirmada (reclamacao fala so de 'pos-venda ruim'); possivel mentoria/curso de autoconhecimento vendido via Braip, vale observar se reaparece com mais detalhe.
+
+Evidencia: https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/

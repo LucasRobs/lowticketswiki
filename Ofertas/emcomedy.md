@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Cakto). Nome novo, mencao unica. Reclamante diz que o produto ficou abaixo do esperado e o suporte nao responde; natureza exata do produto nao ficou clara na reclamacao.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/

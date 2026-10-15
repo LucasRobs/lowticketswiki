@@ -71,7 +71,7 @@
    "braip"
   ]
  },
- "corpo": "# Entendimento\n\n## Angulo\nNome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale observar se reaparece.\n\n## Funil\nanuncio -> pagina -> checkout braip -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/\n\n## Historico\n",
+ "corpo": "# Entendimento\n\n## Angulo\nNome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale observar se reaparece.\n\n## Funil\nanuncio -> pagina -> checkout braip -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Braip). Nome novo, mencao unica, natureza exata do produto nao confirmada (reclamacao fala so de 'pos-venda ruim'); possivel mentoria/curso de autoconhecimento vendido via Braip, vale observar se reaparece com mais detalhe.\n\nEvidencia: https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/\n",
  "observacoes": [
   {
    "data": "2026-10-15",
@@ -87,6 +87,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-15 -- 0735.md",
+   "data": "2026-10-15",
+   "titulo": "Passada 2026-10-15 07:35"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-15 -- 0733.md",

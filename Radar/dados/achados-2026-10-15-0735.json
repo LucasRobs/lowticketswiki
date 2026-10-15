@@ -1,0 +1,164 @@
+{
+  "data_varredura": "2026-10-15",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288260, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 42144, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram, presente ha varias passadas seguidas sem novidade. Mesma reclamacao de sempre, segue como o nome mais estavel da PerfectPay.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Anunciaie",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Anunciaie",
+      "descricao": "Reaparece na PerfectPay sem novidade; reembolso negado, suporte nao responde. Segue entre os nomes mais recorrentes do gateway.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "PATCOFIT",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "PATCOFIT",
+      "descricao": "Mesma reclamacao de cobranca indevida por renovacao automatica, sem novidade. Continua entre os nomes fixos da Hotmart.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso TEPM",
+      "descricao": "Curso TEPM, reclamacao de acesso bloqueado e suporte ausente, sem novidade em relacao as passadas anteriores.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "App de assinatura dificil de cancelar, ja com varias aparicoes cumulativas na Cakto. Sem novidade nesta passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/"
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Destrave Automatico mentoria",
+      "descricao": "2a aparicao no mesmo dia (primeira na passada das 00:48). Mentoria com cobranca de renovacao nao autorizada pelo comprador. Promovida de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/"
+    },
+    {
+      "produto": "Emcomedy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Emcomedy",
+      "descricao": "Nome novo, mencao unica. Reclamante diz que o produto ficou abaixo do esperado e o suporte nao responde; natureza exata do produto nao ficou clara na reclamacao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/"
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Accent",
+      "descricao": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/"
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Academia de Concreto",
+      "descricao": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/"
+    },
+    {
+      "produto": "Sistema B2Drop de Dropshipping Nacional",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "dropshipping-fornecedores",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "B2Drop",
+      "descricao": "Curso/sistema de dropshipping nacional vendido por Gilson Vaz da Costa. Nome novo, mencao unica, reclamacao de reembolso nao devolvido apos quase um mes.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assinatura-do-sistema-b2drop_lri1CUtfg9MUm7ro/"
+    },
+    {
+      "produto": "Entendimento",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "desenvolvimento-pessoal",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Entendimento",
+      "descricao": "Nome novo, mencao unica, natureza exata do produto nao confirmada (reclamacao fala so de 'pos-venda ruim'); possivel mentoria/curso de autoconhecimento vendido via Braip, vale observar se reaparece com mais detalhe.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/"
+    },
+    {
+      "produto": "Plataforma de Estudo Descomplica ETEC 2026-2027",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "concursos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Descomplica ETEC",
+      "descricao": "Plataforma de preparacao para o vestibulinho ETEC, vendida pelo Professor Fabiano Araujo. Nome novo, mencao unica, reclamacao de cobranca continua apos pedido de cancelamento.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-minha-plataforma-de-estudo-e-continuo-sendo-cobrado_5fSwyPYjjQqPj934/"
+    }
+  ],
+  "passada": {
+    "hora": "07:35",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[anunciaie]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[patcofit]] -- Hotmart · mesma reclamacao, zero novidade\n- [[tepm]] -- Hotmart · mesma reclamacao, zero novidade\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n\n## Mornas\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · 2a aparicao no mesmo dia, promovida de fria para morna\n\n## Frias (novos)\n- [[emcomedy]] -- Cakto · nome novo, mencao unica, natureza do produto incerta\n- [[metodo-accent]] -- Kiwify · nome novo, curso de idioma/accent\n- [[house-gym-academia-de-concreto]] -- Kiwify · nome novo, curso de calistenia\n- [[sistema-b2drop-de-dropshipping-nacional]] -- Braip · nome novo, curso de dropshipping (Gilson Vaz da Costa)\n- [[entendimento]] -- Braip · nome novo, mencao unica, produto nao identificado com clareza\n- [[plataforma-de-estudo-descomplica-etec-2026-2027]] -- Hotmart · nome novo, prep. vestibulinho ETEC (Prof. Fabiano Araujo)\n\nLeitura: janela de 6h47 (00:48 a 07:35). Bug de paginacao do ReclameAqui persiste e foi reconfirmado nesta passada -- pagina 2 (testada com ?pagina=2, ?page=2 e /pagina/2/) continua devolvendo '0 de 0 reclamacoes' ou repetindo o conteudo da pagina 1 em todos os 5 gateways, entao so a pagina 1 (5 reclamacoes por gateway) ficou disponivel, abaixo do minimo de 15 paginas pedido -- coleta marcada como parcial por causa disso, nao por falta de tentativa. Braip entrou como gateway rotativo (era o mais atrasado do grupo monetizze/braip/payt/ticto/eduzz/yampi) e trouxe 3 nomes novos (B2Drop, Entendimento) alem de reclamacoes do lado vendedor/afiliado (saldo bloqueado, conta desativada) que nao geram achado de produto. Kiwify trouxe 2 nomes novos (Metodo Accent, House Gym Academia de Concreto) e Hotmart 1 (Descomplica ETEC). Mentoria MDA repetiu no mesmo dia e foi promovida a morna.",
+    "resumo": "Pagina 2 do ReclameAqui continua fora do ar; coleta ficou limitada a pagina 1 de 5 gateways (Braip entrou como rotativo) e trouxe 6 nomes novos, nenhum deles com volume que justifique classificacao quente ainda."
+  }
+}
