@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-15.md",
+   "data": "2026-10-15",
+   "titulo": "Radar 2026-10-15",
+   "ofertas_vistas": 10,
+   "novas": 2,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "ticto"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-15\n\n## Novas\n\n- [[mentoria-mda-metodo-destrave-automatico]] — marketing-digital-trafego —  — Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao…\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] — ferramentas-e-apps —  — Reembolso pedido de algo vendido como 'Capcut Desktop' via Ticto, nao e o app oficial da Capcut -- parece licenca/clone capitalizando no…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[patcofit]] — ra_reclamacoes atualizado para 1\n- [[tepm]] — ra_reclamacoes atualizado para 1\n- [[foto-dolar]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] — ra_reclamacoes atualizado para 1\n- [[direct-line-app]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-15 -- 0048]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - 5 gateways, pagina 1 cada (bug de paginacao do RA persiste) -- 7 achados recorrentes promovidos/confirmados, 3 nomes novos no rotativo Ticto\n"
+  },
+  {
    "arquivo": "Radar/2026-10-14.md",
    "data": "2026-10-14",
    "titulo": "Radar 2026-10-14",
@@ -678,6 +697,34 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 0048.md",
+   "data": "2026-10-15",
+   "hora": "00:48",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 1,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome",
+    "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+    "anunciaie",
+    "capcut-desktop-licenca-clone-vendido-via-ticto",
+    "direct-line-app",
+    "foto-dolar",
+    "mentoria-mda-metodo-destrave-automatico",
+    "patcofit",
+    "stalkeia-ai",
+    "tepm"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-15]].\n\n# Rodada — 15/10/2026 · 00:48 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, ticto · **Páginas:** 1 · **Coleta:** ok · **Achados:** 10\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[patcofit]] -- Hotmart · mesma reclamacao, zero novidade\n- [[tepm]] -- Hotmart · mesma reclamacao, zero novidade\n- [[foto-dolar]] -- Kiwify · 9a passada seguida\n- [[anunciaie]] -- PerfectPay · 2o dia seguido, promovido a quente\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · reaparece com nome do vendedor (Fabio Costa) e faixa de parcela, promovido a quente\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] -- Kiwify · 5a aparicao, promovido a quente\n\n## Frias (novos)\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · nome novo, mencao unica, mentoria com renovacao nao autorizada\n- [[direct-line-app]] -- Cakto · nome novo, app com assinatura dificil de cancelar\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] -- Ticto · nome novo, parece licenca/clone usando o nome Capcut\n\nLeitura: janela de 3h02 (21:46 a 00:48). Bug de paginacao do ReclameAqui persiste -- pagina 2 continua devolvendo 'Exibindo 0 de 0 reclamacoes' em todos os 5 gateways testados, so pagina 1 ficou disponivel. PerfectPay, Kiwify e Hotmart ficaram com contagem de reclamacoes ativas identica a passada anterior (zero movimento visivel no contador). Cakto subiu de 19069 para 19107 (+38) desde a ultima leitura comparavel. Ticto entrou como rotativo (mais atrasado do grupo monetizze/braip/payt/ticto/eduzz/yampi, sem passada dedicada desde 07:17 de ontem) e trouxe 3 nomes novos (Mentoria MDA, Direct Line, Capcut Desktop), todos com mencao unica -- vale so observar se reaparecem. Nenhum achado novo de peso: a passada confirmou presenca continua dos nomes ja conhecidos e promoveu 3 deles a quente por reaparecerem em dia diferente.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-14 -- 2146.md",
    "data": "2026-10-14",

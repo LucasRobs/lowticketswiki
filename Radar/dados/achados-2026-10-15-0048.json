@@ -1,0 +1,140 @@
+{
+  "data_varredura": "2026-10-15",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288261, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50620, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10642, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Mesma reclamacao da passada anterior ainda ativa na pagina 1 -- sem novidade, so confirma presenca continua na PerfectPay.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Patcofit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "PATCOFIT",
+      "descricao": "Cobranca de renovacao automatica contestada. Mesma reclamacao da passada anterior ainda ativa na pagina 1 -- sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "educacao",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso TEPM",
+      "descricao": "Curso TEPM, acesso bloqueado e suporte sem resposta. Mesma reclamacao da passada anterior ainda ativa na pagina 1 -- sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "Foto Dolar",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "renda-extra-ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Foto Dolar",
+      "descricao": "Curso/app de renda extra com fotos, acesso e codigo bloqueados. Mesma reclamacao da passada anterior ainda ativa na pagina 1 -- 9a passada seguida aparecendo.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    },
+    {
+      "produto": "Anunciaie",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Anunciaie",
+      "descricao": "Reembolso pedido sem resposta do suporte. Mesma reclamacao da passada anterior (21:46) ainda visivel -- 2o dia seguido aparecendo, promovido a quente por isso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "Metodo ADL (Fabio Costa) - compra de carros em leilao",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "renda-extra-ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "oferta de 12x R$ 250 citada na live (nao necessariamente o valor pago)",
+      "termo_busca": "metodo ADL Fabio Costa",
+      "descricao": "Curso de Fabio Costa sobre comprar carros antes do leilao, vendido via Kiwify, sem nome oficial do produto. Reaparece de novo hoje -- ja e a 3a+ passada em dias diferentes, promovido a quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/"
+    },
+    {
+      "produto": "Curso com conteudo gerado por IA sem avisar (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "cursos-genericos",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso conteudo gerado por IA",
+      "descricao": "Comprador descobre que o conteudo do curso foi gerado por IA sem aviso e nao recebe reembolso. Ja e a 5a aparicao deste angulo em dias diferentes -- promovido a quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-um-curso-e-fui-enganado-com-conteudo-de-ia-nao-recebi-reembolso_WjjxEjPZIRCfYce9/"
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Destrave Automatico mentoria",
+      "descricao": "Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao unica -- vale so observar se reaparece.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "ferramentas-e-apps",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "App com assinatura dificil de cancelar, cobrado via Cakto. Pouca informacao sobre o que o app faz -- nome novo, mencao unica.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/"
+    },
+    {
+      "produto": "Capcut Desktop (licenca/clone vendido via Ticto)",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "ferramentas-e-apps",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Capcut Desktop licenca",
+      "descricao": "Reembolso pedido de algo vendido como 'Capcut Desktop' via Ticto, nao e o app oficial da Capcut -- parece licenca/clone capitalizando no nome. Nome novo, mencao unica.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/quero-reembolso-do-capcut-desktop-pois-nao-era-o-que-esperava_m408TG08uaOpXIwK/"
+    }
+  ],
+  "passada": {
+    "hora": "00:48",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 1,
+    "coleta": "ok",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[patcofit]] -- Hotmart · mesma reclamacao, zero novidade\n- [[tepm]] -- Hotmart · mesma reclamacao, zero novidade\n- [[foto-dolar]] -- Kiwify · 9a passada seguida\n- [[anunciaie]] -- PerfectPay · 2o dia seguido, promovido a quente\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · reaparece com nome do vendedor (Fabio Costa) e faixa de parcela, promovido a quente\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] -- Kiwify · 5a aparicao, promovido a quente\n\n## Frias (novos)\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · nome novo, mencao unica, mentoria com renovacao nao autorizada\n- [[direct-line-app]] -- Cakto · nome novo, app com assinatura dificil de cancelar\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] -- Ticto · nome novo, parece licenca/clone usando o nome Capcut\n\nLeitura: janela de 3h02 (21:46 a 00:48). Bug de paginacao do ReclameAqui persiste -- pagina 2 continua devolvendo 'Exibindo 0 de 0 reclamacoes' em todos os 5 gateways testados, so pagina 1 ficou disponivel. PerfectPay, Kiwify e Hotmart ficaram com contagem de reclamacoes ativas identica a passada anterior (zero movimento visivel no contador). Cakto subiu de 19069 para 19107 (+38) desde a ultima leitura comparavel. Ticto entrou como rotativo (mais atrasado do grupo monetizze/braip/payt/ticto/eduzz/yampi, sem passada dedicada desde 07:17 de ontem) e trouxe 3 nomes novos (Mentoria MDA, Direct Line, Capcut Desktop), todos com mencao unica -- vale so observar se reaparecem. Nenhum achado novo de peso: a passada confirmou presenca continua dos nomes ja conhecidos e promoveu 3 deles a quente por reaparecerem em dia diferente.",
+    "resumo": "5 gateways, pagina 1 cada (bug de paginacao do RA persiste) -- 7 achados recorrentes promovidos/confirmados, 3 nomes novos no rotativo Ticto"
+  }
+}

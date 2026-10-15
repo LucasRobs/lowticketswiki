@@ -24,22 +24,22 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-14
-rodadas_vista: 1
+visto_ultimo: 2026-10-15
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao"
-gateways_detectados: []
+gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso de Fabio Costa sobre comprar carros antes do leilao, vendido via Kiwify, sem nome oficial do produto. Reaparece de novo hoje -- ja e a 3a+ passada em dias diferentes, promovido a quente.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/

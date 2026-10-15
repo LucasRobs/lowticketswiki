@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-14
-rodadas_vista: 1
+visto_ultimo: 2026-10-15
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Hotmart). 2ª passada seguida com a mesma reclamação de renovação automática indevida; produtora Patricia Costa Santos.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Cobranca de renovacao automatica contestada. Mesma reclamacao da passada anterior ainda ativa na pagina 1 -- sem novidade.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/
