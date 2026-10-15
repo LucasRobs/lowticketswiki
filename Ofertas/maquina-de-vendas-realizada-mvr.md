@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Yampi). Nome novo nesta passada (gateway rotativo Yampi). Curso/mentoria de vendas do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro' nas redes). Duas reclamacoes distintas na mesma pagina (produto diferente do anunciado + dificuldade de cancelamento), mesmo produtor.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/
