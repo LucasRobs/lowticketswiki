@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-14
-rodadas_vista: 3
+visto_ultimo: 2026-10-15
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovi
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Yampi). Loja de produto fisico (nao infoproduto) com nao entrega via Correios. Rotativo Yampi trouxe de volta a mesma reclamacao ja catalogada (3 dias distintos: 05, 13 e agora 14/10). Fica registrado por aparecer no mesmo pedagio, mas e e-commerce fisico, nao low ticket digital.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovian-e-quero-o-cancelamento-e-estorno_r0yLd7lwixZPXOtn/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Yampi). Nome novo nesta passada (gateway rotativo Yampi, o mais atrasado do grupo). Loja Portovian, pedido nao entregue, comprador pede cancelamento e estorno. Produto nao identificado na reclamacao -- parece fisico/ecommerce, nao infoproduto. Confirmar natureza antes de priorizar.
 
 Evidencia: https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovian-e-quero-o-cancelamento-e-estorno_r0yLd7lwixZPXOtn/

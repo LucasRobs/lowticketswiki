@@ -1,0 +1,164 @@
+{
+  "data_varredura": "2026-10-15",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288261, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 513, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 19-56",
+      "termo_busca": "Stalkeia",
+      "descricao": "App falso de espionar WhatsApp/Instagram. A mesma reclamacao da pagina 1 segue ativa (sem reclamacao nova nesta janela), mas e a oferta mais estavel do vault desde agosto, com historico de dezenas de mencoes e grafias (Stalkea.ai, Stalker AI, Stalkeia.com).",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Anunciaie",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Anunciaie",
+      "descricao": "Ferramenta/pagina ligada a anuncios ou trafego pago, natureza ainda a confirmar. Mesma reclamacao da passada anterior ainda na pagina 1, sem reclamacao nova.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "PATCOFIT",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "PATCOFIT",
+      "descricao": "Cobranca de renovacao automatica nao autorizada. Mesma reclamacao da passada anterior ainda na pagina 1, sem reclamacao nova.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "TEPM",
+      "descricao": "Curso TEPM, comprador nao consegue acessar e suporte nao ajuda. Mesma reclamacao da passada anterior ainda na pagina 1, sem reclamacao nova.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "App de assinatura, comprador nao consegue cancelar. Ja tem 2 reclamacoes distintas no historico desde 06/10 -- padrao recorrente de cancelamento dificultado. Mesma reclamacao da passada anterior ainda na pagina 1.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/"
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Destrave Automatico",
+      "descricao": "Mentoria de trafego/vendas. Cobranca de renovacao nao autorizada. Ja teve 2 reclamacoes no mesmo dia na passada anterior; mesma reclamacao ainda na pagina 1 nesta janela, sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/"
+    },
+    {
+      "produto": "Emcomedy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "cursos-diversos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Emcomedy",
+      "descricao": "Site/servico Emcomedy vendido via Cakto Pay, reclamante diz que produto ficou abaixo do esperado e suporte nao responde. Natureza exata do produto ainda incerta. Mesma reclamacao da passada anterior, sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/"
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Accent",
+      "descricao": "Curso de idioma/accent reduction, comprador nao consegue avancar e pede cancelamento. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/"
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Academia de Concreto",
+      "descricao": "Curso de calistenia, reembolso nao devolvido. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/"
+    },
+    {
+      "produto": "Plataforma de Estudo Descomplica ETEC 2026-2027",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "educacao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Descomplica ETEC",
+      "descricao": "Plataforma de preparacao para vestibulinho ETEC, comprador nao consegue cancelar e continua sendo cobrado. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-cancelar-minha-plataforma-de-estudo-e-continuo-sendo-cobrado_5fSwyPYjjQqPj934/"
+    },
+    {
+      "produto": "Portovian",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 265,05",
+      "termo_busca": "Portovian",
+      "descricao": "Nome novo nesta passada (gateway rotativo Yampi, o mais atrasado do grupo). Loja Portovian, pedido nao entregue, comprador pede cancelamento e estorno. Produto nao identificado na reclamacao -- parece fisico/ecommerce, nao infoproduto. Confirmar natureza antes de priorizar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/nao-recebi-meu-pedido-da-portovian-e-quero-o-cancelamento-e-estorno_r0yLd7lwixZPXOtn/"
+    },
+    {
+      "produto": "Maquina de Vendas Realizada (MVR)",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Daniel Fernandes MVR",
+      "descricao": "Nome novo nesta passada (gateway rotativo Yampi). Curso/mentoria de vendas do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro' nas redes). Duas reclamacoes distintas na mesma pagina (produto diferente do anunciado + dificuldade de cancelamento), mesmo produtor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/"
+    }
+  ],
+  "passada": {
+    "hora": "11:52",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade, mas segue a oferta mais estavel do vault\n\n## Mornas\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · mesma reclamacao, zero novidade\n\n## Frias (sem novidade real)\n- [[anunciaie]] -- PerfectPay · mesma reclamacao da passada anterior\n- [[patcofit]] -- Hotmart · mesma reclamacao da passada anterior\n- [[tepm]] -- Hotmart · mesma reclamacao da passada anterior\n- [[emcomedy]] -- Cakto · mesma reclamacao da passada anterior\n- [[metodo-accent]] -- Kiwify · mesma reclamacao da passada anterior\n- [[house-gym-academia-de-concreto]] -- Kiwify · mesma reclamacao da passada anterior\n- [[plataforma-de-estudo-descomplica-etec-2026-2027]] -- Hotmart · mesma reclamacao da passada anterior\n\n## Frias (novos)\n- [[portovian]] -- Yampi · nome novo, loja/produto fisico nao identificado, mencao unica\n- [[maquina-de-vendas-realizada-mvr]] -- Yampi · nome novo, curso de vendas de Daniel Fernandes, 2 reclamacoes na mesma pagina\n\nLeitura: janela de ~4h17 (07:35 a 11:52). Bug de paginacao do ReclameAqui reconfirmado pela terceira passada seguida -- pagina 2 continua devolvendo 'Exibindo 0 de 0 reclamacoes' em todos os formatos testados (?pagina=2, /pagina/2/), entao so a pagina 1 (5 reclamacoes por gateway) ficou disponivel. Mais que isso: em PerfectPay, Cakto, Kiwify e Hotmart as 5 reclamacoes da pagina 1 sao identicas, titulo por titulo e URL por URL, as da passada das 07:35 -- ou seja, nao e so a paginacao que trava, a propria pagina 1 parece sem atualizar nessas 4 gateways nesta janela (sem reclamacao nova genuina, so persistencia das mesmas). O gateway rotativo Yampi, que nao entrava na rotacao desde 14/10 as 11:19, foi o unico com conteudo de fato novo: Portovian (loja, produto fisico nao identificado, pedido nao entregue) e Maquina de Vendas Realizada / MVR (curso de vendas do produtor Daniel Fernandes, 2 reclamacoes diferentes na mesma pagina). Amostra pequena (1 pagina x 5 gateways = 25 reclamacoes brutas, 12 com nome aproveitavel) por causa do bug, nao por falta de tentativa.",
+    "resumo": "Passada parcial (bug de paginacao do RA persiste): PerfectPay/Cakto/Kiwify/Hotmart sem novidade real desde as 07:35, unico conteudo novo veio do gateway rotativo Yampi (Portovian e MVR/Daniel Fernandes)."
+  }
+}

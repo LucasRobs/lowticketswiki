@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 353,
+  "ofertas": 354,
   "angulos": 84,
-  "observacoes": 827,
+  "observacoes": 829,
   "dias_radar": 37,
-  "passadas": 96,
+  "passadas": 97,
   "analises": 12,
   "ultima_rodada": "2026-10-15"
  },
@@ -5628,7 +5628,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
    "flags": [
     "score-provisorio",
@@ -11068,7 +11068,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 12,
+   "n_citacoes": 13,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -11625,7 +11625,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Emcomedy&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -13846,7 +13846,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -16626,6 +16626,61 @@
    ]
   },
   {
+   "slug": "maquina-de-vendas-realizada-mvr",
+   "nome": "Maquina de Vendas Realizada (MVR)",
+   "classe": "oferta",
+   "nicho": "marketing-digital-trafego",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "yampi",
+   "gateways": [
+    "yampi"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Daniel%20Fernandes%20MVR&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 2,
+   "resumo": "Nome novo nesta passada (gateway rotativo Yampi). Curso/mentoria de vendas do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro' nas redes). Duas reclamacoes distintas na mesma pagina (produto diferente do anunciado + dificuldade de cancelamento), mesmo…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "maquina-de-viralizacao-inteligente-content-machine-5-5",
    "nome": "Máquina de Viralização Inteligente / Content Machine 5.5",
    "classe": "oferta",
@@ -17058,7 +17113,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Destrave%20Automatico%20mentoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao unica -- vale so observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -17392,7 +17447,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -19615,7 +19670,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PATCOFIT&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 11,
+   "n_citacoes": 12,
    "resumo": "Primeira aparicao no radar. Assinatura anual de plano fitness vendida pela influenciadora Patricia Costa Santos via Hotmart -- reclamante cobrada por renovacao automatica sem autorizacao, cobranca veio 'do nada' um ano depois da compra.",
    "flags": [
     "score-provisorio",
@@ -19947,7 +20002,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Descomplica%20ETEC&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Primeira aparição. Assinatura de plataforma de estudos pra vestibular da ETEC vendida pelo Professor Fabiano Araujo via Hotmart; reclamante pediu cancelamento em 10/09 e continua sendo cobrado.",
    "flags": [
     "score-provisorio",
@@ -20211,21 +20266,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Portovian&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 8,
    "resumo": "Loja de produto físico (não é infoproduto) com não entrega via Correios. Fica registrado por aparecer no mesmo pedágio, mas é e-commerce, não low ticket digital.",
    "flags": [
     "score-provisorio",
@@ -22297,7 +22352,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 20,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 55,
+   "n_citacoes": 56,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -22739,7 +22794,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20TEPM&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 11,
+   "n_citacoes": 12,
    "resumo": "Primeira aparicao no radar. Curso TEPM da Prof. Juliana Souza via Hotmart, comprado por volta de outubro/2025 -- compradora perdeu acesso e suporte nao ajuda. Ticket alto pro radar, mas volume de reclamacao de suporte/acesso e recorrente nesse tipo de curso.",
    "flags": [
     "score-provisorio",
@@ -24201,8 +24256,8 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 17,
-   "novas": 6,
+   "ofertas_vistas": 19,
+   "novas": 7,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -24211,10 +24266,11 @@
     "hotmart",
     "kiwify",
     "perfectpay",
-    "ticto"
+    "ticto",
+    "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -24894,6 +24950,36 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 1152.md",
+   "data": "2026-10-15",
+   "hora": "11:52",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "anunciaie",
+    "direct-line-app",
+    "emcomedy",
+    "house-gym-academia-de-concreto",
+    "maquina-de-vendas-realizada-mvr",
+    "mentoria-mda-metodo-destrave-automatico",
+    "metodo-accent",
+    "patcofit",
+    "plataforma-de-estudo-descomplica-etec-2026-2027",
+    "portovian",
+    "stalkeia-ai",
+    "tepm"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 1 · Coleta: parcial · Achados: 12 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade, mas segue a oferta mais estavel do vault ## Mornas direct-line-app…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 0735.md",
    "data": "2026-10-15",
@@ -27097,7 +27183,7 @@
     "angulo": 8
    },
    "2026-10-15": {
-    "oferta": 6,
+    "oferta": 7,
     "angulo": 0
    }
   },
@@ -27137,7 +27223,7 @@
    "2026-10-12": 11,
    "2026-10-13": 18,
    "2026-10-14": 38,
-   "2026-10-15": 17
+   "2026-10-15": 19
   }
  },
  "analises": [
@@ -27392,6 +27478,24 @@
     "codigo": "vocabulario"
    },
    {
+    "arquivo": "Ofertas/maquina-de-vendas-realizada-mvr.md",
+    "campo": "checkout",
+    "msg": "checkout 'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/maquina-de-vendas-realizada-mvr.md",
+    "campo": "gateways_detectados",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/maquina-de-vendas-realizada-mvr.md",
+    "campo": "ra_plataformas",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/minha-historinha.md",
     "campo": "gateways_detectados",
     "msg": "'cakto-pay' fora do vocabulario de gateway",
@@ -27563,56 +27667,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 13,
    "status-vencido": 1,
-   "vocabulario": 44
+   "vocabulario": 47
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 353
+    "total": 354
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 353
+    "total": 354
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 353
+    "total": 354
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 324,
-    "total": 353
+    "preenchidas": 325,
+    "total": 354
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 176,
-    "total": 353
+    "total": 354
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 353
+    "total": 354
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 353
+    "total": 354
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 296,
-    "total": 353
+    "preenchidas": 297,
+    "total": 354
    }
   ],
   "fila_enriquecimento": [
@@ -27814,7 +27918,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1264
+   "canonico": 1267
   }
  },
  "vocabulario": {
@@ -27861,22 +27965,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "8bcaffb190d54191",
-  "atualizado_em": "2026-10-15T07:36:34-03:00",
-  "ofertas": 353,
+  "hash": "e7bbe1baff32e127",
+  "atualizado_em": "2026-10-15T11:53:14-03:00",
+  "ofertas": 354,
   "angulos": 84,
-  "observacoes": 827,
+  "observacoes": 829,
   "ultima_rodada": "2026-10-15",
   "ultima_passada": {
    "data": "2026-10-15",
-   "hora": "07:35",
+   "hora": "11:52",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "yampi"
    ]
   }
  }

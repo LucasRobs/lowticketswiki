@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso de idioma/accent reduction, comprador nao consegue avancar e pede cancelamento. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/

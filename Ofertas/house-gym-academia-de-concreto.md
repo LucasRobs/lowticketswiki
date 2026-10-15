@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso de calistenia, reembolso nao devolvido. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/
