@@ -1,0 +1,128 @@
+{
+  "data_varredura": "2026-10-14",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288261, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto", "reclamacoes_ativas": null, "paginas_varridas": 0},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50620, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 64205, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "Reaparece na pagina 1 do PerfectPay nesta passada. Mesma reclamacao ja catalogada em rodadas anteriores (titulo: 'Stalkeia. Ia Nao cumpre o que promete'), sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Patcofit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Patcofit",
+      "descricao": "Reaparece na pagina 1 da Hotmart ('Fui cobrada indevidamente por renovacao automatica da PATCOFIT'). Cobranca recorrente contestada, padrao ja conhecido.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "educacao",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "TEPM curso",
+      "descricao": "Reaparece na pagina 1 da Hotmart. Mesma reclamacao de acesso negado ja catalogada, sem novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "Foto Dolar",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "renda-extra-ganhar-dinheiro",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Foto Dolar",
+      "descricao": "Reaparece na pagina 1 da Kiwify (8a passada seguida). Reclamacao de acesso/codigo, mesma oferta ja catalogada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    },
+    {
+      "produto": "Metodo ADL (Fabio Costa) - compra de carros em leilao",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "renda-extra-ganhar-dinheiro",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "12x R$ 250 (oferta citada em live)",
+      "termo_busca": "Fabio Costa metodo ADL carros leilao",
+      "descricao": "Reaparece: ensino sobre comprar carros antes do leilao, vendido por Fabio Costa via live, ainda sem nome comercial oficial do produto. Mesmo angulo de passadas anteriores.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/"
+    },
+    {
+      "produto": "Curso com conteudo gerado por IA sem avisar (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "cursos-genericos",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso gerado por inteligencia artificial sem avisar",
+      "descricao": "4a aparicao deste angulo: comprador se sente enganado ao perceber que o conteudo do curso foi gerado por IA, sem aviso previo. Ainda sem marca identificada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-um-curso-e-fui-enganado-com-conteudo-de-ia-nao-recebi-reembolso_WjjxEjPZIRCfYce9/"
+    },
+    {
+      "produto": "Anunciaie",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Anunciaie",
+      "descricao": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "Lift Gold",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "saude-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Lift Gold",
+      "descricao": "Nome novo nesta passada (rotativo Monetizze). Provavel suplemento/produto fisico com cobranca recorrente contestada por cliente antiga ('sou cliente antiga e ja paguei'). Vendedor nao identificado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/"
+    },
+    {
+      "produto": "Curso de Saboaria (Tia Rosy)",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "cursos-genericos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso saboaria tia rosy",
+      "descricao": "Nome novo nesta passada (rotativo Monetizze). Curso basico de fabricacao de sabao, reclamante cita 'tia Rosy' como referencia do produto/vendedor. Mencao unica e fraca, vale so observar se reaparecer.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-consigo-acessar-meu-curso-de-saboaria-e-nao-tenho-retorno_XONb9SZDkN6OKW6Q/"
+    }
+  ],
+  "passada": {
+    "hora": "21:46",
+    "gateways": ["perfectpay", "cakto", "kiwify", "hotmart", "monetizze"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[patcofit]] -- Hotmart · mesma reclamacao, zero novidade\n- [[tepm]] -- Hotmart · mesma reclamacao, zero novidade\n- [[foto-dolar]] -- Kiwify · 8a passada seguida\n\n## Mornas\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · reaparece, ainda sem nome oficial\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] -- Kiwify · 4a aparicao deste angulo\n\n## Frias (novos)\n- [[anunciaie]] -- PerfectPay · nome novo, vendedor nao identificado\n- [[lift-gold]] -- Monetizze · nome novo, rotativo, suplemento com cobranca recorrente contestada\n- [[curso-de-saboaria-tia-rosy]] -- Monetizze · nome novo, rotativo, mencao unica e fraca\n\nLeitura: janela de 4h32 (17:14 a 21:46). Cakto falhou 3x seguidas (CLIENT_ERROR no WebFetch) e foi pulada -- coleta parcial so por isso, nao por decisao de conteudo. A conexao com o Mac tambem caiu e voltou sozinha no meio da passada, sem perda de dados. Nos 4 gateways que responderam, `?pagina=2` continua devolvendo 'Exibindo 0 de 0 reclamacoes' em todos -- confirma pelo 9o dia seguido que o bug de paginacao do ReclameAqui e site-wide e persiste desde 08/10. PerfectPay teve pequeno movimento real (288.231 -> 288.261, +30 reclamacoes) mas sem nenhum titulo novo visivel na pagina 1 -- o volume novo ficou invisivel por tras do limite de 5 por pagina. Kiwify e Hotmart ficaram com contagem identica a rodada anterior (zero movimento real). Monetizze entrou como rotativo (mais atrasado do grupo monetizze/braip/payt/ticto/eduzz/yampi, sem passada dedicada desde 03:45 de hoje) e foi quem trouxe os 3 nomes novos da passada (Anunciaie, Lift Gold, Curso de Saboaria da Tia Rosy), todos com mencao unica -- vale so observar se reaparecem.",
+    "resumo": "Cakto fora do ar (3 falhas), paginacao do RA quebrada ha 9 dias; achados novos vieram todos do rotativo Monetizze (Anunciaie, Lift Gold, Saboaria Tia Rosy), fixos sem novidade."
+  }
+}

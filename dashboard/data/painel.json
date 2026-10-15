@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 344,
-  "angulos": 83,
-  "observacoes": 806,
+  "ofertas": 347,
+  "angulos": 84,
+  "observacoes": 810,
   "dias_radar": 36,
-  "passadas": 92,
+  "passadas": 93,
   "analises": 12,
   "ultima_rodada": "2026-10-14"
  },
@@ -2361,7 +2361,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20conteudo%20gerado%20por%20IA&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Reclamante diz ter comprado curso e descoberto que o conteudo e gerado por IA sem aviso -- segunda aparicao deste angulo, primeira foi na rodada das 11:19.",
    "flags": [
     "sem-longevidade",
@@ -3625,6 +3625,58 @@
    ]
   },
   {
+   "slug": "angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao",
+   "nome": "Metodo ADL (Fabio Costa) - compra de carros em leilao",
+   "classe": "angulo",
+   "nicho": "renda-extra-ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 12,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 131,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Fabio%20Costa%20metodo%20ADL%20carros%20leilao&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Reaparece: ensino sobre comprar carros antes do leilao, vendido por Fabio Costa via live, ainda sem nome comercial oficial do produto. Mesmo angulo de passadas anteriores.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
    "nome": "Metodo ADL (Fabio Costa) -- sem nome oficial",
    "classe": "angulo",
@@ -3671,7 +3723,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=metodo%20ADL%20Fabio%20Costa&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na reclamacao, oferta de 12 parcelas de R$250.",
    "flags": [
     "sem-longevidade",
@@ -5520,6 +5572,61 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "anunciaie",
+   "nome": "Anunciaie",
+   "classe": "oferta",
+   "nicho": "marketing-digital-trafego",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 2,
+   "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -9294,6 +9401,61 @@
    ]
   },
   {
+   "slug": "curso-de-saboaria-tia-rosy",
+   "nome": "Curso de Saboaria (Tia Rosy)",
+   "classe": "oferta",
+   "nicho": "cursos-genericos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "monetizze",
+   "gateways": [
+    "monetizze"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20saboaria%20tia%20rosy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 2,
+   "resumo": "Nome novo nesta passada (rotativo Monetizze). Curso basico de fabricacao de sabao, reclamante cita 'tia Rosy' como referencia do produto/vendedor. Mencao unica e fraca, vale so observar se reaparecer.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
    "nome": "Curso de Xadrez (GM Luis Paulo Supi / MF Julia Alboredo)",
    "classe": "oferta",
@@ -12232,7 +12394,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Foto%20Dolar&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia -- nome sugere nicho de renda via celular.",
    "flags": [
     "score-provisorio",
@@ -14949,6 +15111,61 @@
    "flags": [
     "checkout-desconhecido",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "lift-gold",
+   "nome": "Lift Gold",
+   "classe": "oferta",
+   "nicho": "saude-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "monetizze",
+   "gateways": [
+    "monetizze"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Lift%20Gold&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 2,
+   "resumo": "Nome novo nesta passada (rotativo Monetizze). Provavel suplemento/produto fisico com cobranca recorrente contestada por cliente antiga ('sou cliente antiga e ja paguei'). Vendedor nao identificado.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -19051,7 +19268,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PATCOFIT&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Primeira aparicao no radar. Assinatura anual de plano fitness vendida pela influenciadora Patricia Costa Santos via Hotmart -- reclamante cobrada por renovacao automatica sem autorizacao, cobranca veio 'do nada' um ano depois da compra.",
    "flags": [
     "score-provisorio",
@@ -21733,7 +21950,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 19,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 50,
+   "n_citacoes": 51,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -22175,7 +22392,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20TEPM&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Primeira aparicao no radar. Curso TEPM da Prof. Juliana Souza via Hotmart, comprado por volta de outubro/2025 -- compradora perdeu acesso e suporte nao ajuda. Ticket alto pro radar, mas volume de reclamacao de suporte/acesso e recorrente nesse tipo de curso.",
    "flags": [
     "score-provisorio",
@@ -23637,8 +23854,8 @@
    "arquivo": "Radar/2026-10-14.md",
    "data": "2026-10-14",
    "titulo": "Radar 2026-10-14",
-   "ofertas_vistas": 34,
-   "novas": 17,
+   "ofertas_vistas": 38,
+   "novas": 21,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -23654,7 +23871,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 7,
+   "n_passadas": 8,
    "leitura": ""
   },
   {
@@ -24310,6 +24527,33 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 2146.md",
+   "data": "2026-10-14",
+   "hora": "21:46",
+   "gateways": [
+    "perfectpay",
+    "cakto",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome",
+    "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+    "anunciaie",
+    "curso-de-saboaria-tia-rosy",
+    "foto-dolar",
+    "lift-gold",
+    "patcofit",
+    "stalkeia-ai",
+    "tepm"
+   ],
+   "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 9 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade patcofit -- Hotmart · mesma reclamacao, zero novidade tepm …"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-14 -- 1714.md",
    "data": "2026-10-14",
@@ -26396,8 +26640,8 @@
     "angulo": 0
    },
    "2026-10-14": {
-    "oferta": 10,
-    "angulo": 7
+    "oferta": 13,
+    "angulo": 8
    }
   },
   "observacoes": {
@@ -26435,7 +26679,7 @@
    "2026-10-11": 21,
    "2026-10-12": 11,
    "2026-10-13": 18,
-   "2026-10-14": 34
+   "2026-10-14": 38
   }
  },
  "analises": [
@@ -26850,49 +27094,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 344
+    "total": 347
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 344
+    "total": 347
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 344
+    "total": 347
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 315,
-    "total": 344
+    "preenchidas": 318,
+    "total": 347
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 176,
-    "total": 344
+    "total": 347
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 344
+    "total": 347
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 344
+    "total": 347
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 287,
-    "total": 344
+    "preenchidas": 290,
+    "total": 347
    }
   ],
   "fila_enriquecimento": [
@@ -27081,7 +27325,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1233
+   "canonico": 1241
   }
  },
  "vocabulario": {
@@ -27128,22 +27372,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "3e6c8b062d8be798",
-  "atualizado_em": "2026-10-14T17:18:01-03:00",
-  "ofertas": 344,
-  "angulos": 83,
-  "observacoes": 806,
+  "hash": "d6b78190ffb49eee",
+  "atualizado_em": "2026-10-14T21:49:43-03:00",
+  "ofertas": 347,
+  "angulos": 84,
+  "observacoes": 810,
   "ultima_rodada": "2026-10-14",
   "ultima_passada": {
    "data": "2026-10-14",
-   "hora": "17:14",
+   "hora": "21:46",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
-    "cakto-pay",
+    "cakto",
     "kiwify",
     "hotmart",
-    "payt"
+    "monetizze"
    ]
   }
  }
