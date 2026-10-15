@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-14
-rodadas_vista: 1
+visto_ultimo: 2026-10-15
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Reclamacao com mais detalhe que a passada anterior: titulo fala em 'curso de carros', ministrado por Fabio Costa via Kiwify, sem nome oficial do produto. URL correta desta reclamacao (a da passada de 00:19 estava com link errado, duplicado do achado Foto Dolar).
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mentoria/ensinamento vendido por Fabio Costa como afiliado via Kiwify, com upsell de 12 parcelas de R$250. Reaparece de novo sob titulo generico diferente (titulo automatico do RA nao bate com o corpo), confirma que a operacao segue ativa.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-14
-rodadas_vista: 4
+visto_ultimo: 2026-10-15
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [braip]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assina
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Braip). Primeira aparição. Sistema/curso de dropshipping nacional vendido por Gilson Vaz da Costa via Braip; compra de 18/09, reembolso de assinatura não recebido. Braip não tinha passada dedicada desde 12/10, era o rotativo mais atrasado.
+
+Evidencia: https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assinatura-do-sistema-b2drop_lri1CUtfg9MUm7ro/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Braip). Nome novo. Curso/sistema de dropshipping nacional vendido por Gilson Vaz da Costa via Braip; reembolso nao devolvido. Compra em 18/09, reclamacao publicada em 03/10. Vale observar se reaparece.
 
 Evidencia: https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assinatura-do-sistema-b2drop_lri1CUtfg9MUm7ro/

@@ -5,11 +5,12 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 10,
-   "novas": 2,
+   "ofertas_vistas": 14,
+   "novas": 4,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "hotmart",
     "kiwify",
@@ -17,8 +18,8 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-15\n\n## Novas\n\n- [[mentoria-mda-metodo-destrave-automatico]] — marketing-digital-trafego —  — Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao…\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] — ferramentas-e-apps —  — Reembolso pedido de algo vendido como 'Capcut Desktop' via Ticto, nao e o app oficial da Capcut -- parece licenca/clone capitalizando no…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[patcofit]] — ra_reclamacoes atualizado para 1\n- [[tepm]] — ra_reclamacoes atualizado para 1\n- [[foto-dolar]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] — ra_reclamacoes atualizado para 1\n- [[direct-line-app]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-15 -- 0048]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - 5 gateways, pagina 1 cada (bug de paginacao do RA persiste) -- 7 achados recorrentes promovidos/confirmados, 3 nomes novos no rotativo Ticto\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-15\n\n## Novas\n\n- [[mentoria-mda-metodo-destrave-automatico]] — marketing-digital-trafego —  — Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao…\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] — ferramentas-e-apps —  — Reembolso pedido de algo vendido como 'Capcut Desktop' via Ticto, nao e o app oficial da Capcut -- parece licenca/clone capitalizando no…\n- [[emcomedy]] — cursos-diversos — ? — Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no…\n- [[entendimento]] — mentoria-coaching — ? — Nome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[patcofit]] — ra_reclamacoes atualizado para 1\n- [[tepm]] — ra_reclamacoes atualizado para 1\n- [[foto-dolar]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] — ra_reclamacoes atualizado para 1\n- [[direct-line-app]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] — ra_reclamacoes atualizado para 1\n- [[sistema-b2drop]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-15 -- 0048]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - 5 gateways, pagina 1 cada (bug de paginacao do RA persiste) -- 7 achados recorrentes promovidos/confirmados, 3 nomes novos no rotativo Ticto\n- [[2026-10-15 -- 0733]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 12 achado(s) - Janela de 6h45 sem lacuna; nada novo virou quente, 3 nomes novos frios (Emcomedy, Entendimento, B2Drop) e 2 promovidos a morna (Mentoria…\n"
   },
   {
    "arquivo": "Radar/2026-10-14.md",
@@ -697,6 +698,35 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 0733.md",
+   "data": "2026-10-15",
+   "hora": "07:33",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 1,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome",
+    "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+    "anunciaie",
+    "direct-line-app",
+    "emcomedy",
+    "entendimento",
+    "foto-dolar",
+    "mentoria-mda-metodo-destrave-automatico",
+    "patcofit",
+    "stalkeia-ai",
+    "tepm"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-15]].\n\n# Rodada — 15/10/2026 · 07:33 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, braip · **Páginas:** 1 · **Coleta:** ok · **Achados:** 12\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[anunciaie]] -- PerfectPay · zero novidade, segue sem resposta do suporte\n- [[patcofit]] -- Hotmart · mesma reclamacao, zero novidade\n- [[tepm]] -- Hotmart · mesma reclamacao, zero novidade\n- [[foto-dolar]] -- Kiwify · 10a+ passada seguida\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · reaparece sob titulo generico diferente, corpo bate com achado ja conhecido\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] -- Kiwify · 6a+ aparicao\n\n## Mornas (promovidas)\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · 2a aparicao seguida, promovido de fria para morna\n- [[direct-line-app]] -- Cakto · 2a aparicao seguida, promovido de fria para morna\n\n## Frias (novos)\n- [[emcomedy]] -- Cakto · nome novo, produto nao identificado, suporte nao responde\n- [[entendimento]] -- Braip · nome novo, pos-venda ruim, nao fica claro se e curso ou mentoria\n- [[sistema-b2drop-dropshipping-nacional]] -- Braip · nome novo, curso/sistema de dropshipping nacional, produtor Gilson Vaz da Costa\n\nLeitura: janela de 6h45 (00:48 a 07:33). Bug de paginacao do ReclameAqui persiste pela 3a passada seguida -- pagina 2 continua devolvendo 'Exibindo 0 de 0 reclamacoes' em PerfectPay, Cakto e Braip (testado nesta passada), so pagina 1 disponivel em todos os gateways. Braip entrou como rotativo (estava ha mais tempo sem varredura dedicada desde 09:46 de ontem) e trouxe 2 nomes novos (Entendimento, Sistema B2Drop), ambos com mencao unica -- vale so observar se reaparecem. Cakto trouxe Emcomedy como novo e promoveu Mentoria MDA e Direct Line de frias para mornas por reaparicao. Nenhuma marca nova virou quente nesta passada; os 7 achados quentes seguem apenas confirmando presenca continua.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 0048.md",
    "data": "2026-10-15",

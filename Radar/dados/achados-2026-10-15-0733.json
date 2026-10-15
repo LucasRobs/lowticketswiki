@@ -1,0 +1,153 @@
+{
+  "data_varredura": "2026-10-15",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288261, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50620, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "paginas_varridas": 1},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 490, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 19-47",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Reaparece de novo nesta passada, mesma reclamacao recorrente, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Anunciaie",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ferramentas-ia-marketing",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "termo_busca": "Anunciaie",
+      "descricao": "Ferramenta/curso de anuncios (nome sugere automacao de anuncios via IA). Reaparece de novo, 3o+ dia seguido, suporte nao responde a pedidos de reembolso.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "Patcofit",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "termo_busca": "Patcofit",
+      "descricao": "Cobranca indevida por renovacao automatica, mesma reclamacao recorrente, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-cobrada-indevidamente-por-renovacao-automatica-da-patcofit_lLCEtBPOFtKs6AKm/"
+    },
+    {
+      "produto": "TEPM",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "cursos-diversos",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "termo_busca": "TEPM",
+      "descricao": "Curso TEPM, reclamacao de acesso/suporte recorrente, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-acessar-meu-curso-tepm-e-o-suporte-nao-me-ajuda_d3jlEZGMKJc1-MUZ/"
+    },
+    {
+      "produto": "Foto Dolar",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ganhar-dinheiro-online",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "termo_busca": "Foto Dolar",
+      "descricao": "Curso de ganhar dinheiro com fotos, agora na 10a+ passada seguida aparecendo, operacao claramente sustentada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-acessar-meu-curso-foto-dolar-e-preciso-do-codigo-urgente_fbzoe1xFFbn6uEet/"
+    },
+    {
+      "produto": "Metodo ADL (Fabio Costa)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "ganhar-dinheiro-online",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "termo_busca": "Metodo ADL",
+      "descricao": "Mentoria/ensinamento vendido por Fabio Costa como afiliado via Kiwify, com upsell de 12 parcelas de R$250. Reaparece de novo sob titulo generico diferente (titulo automatico do RA nao bate com o corpo), confirma que a operacao segue ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-de-carros-e-fui-enganado-com-propaganda_IAHiFFnXD4Cplf3i/"
+    },
+    {
+      "produto": "Curso com conteudo gerado por IA sem avisar",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "ganhar-dinheiro-online",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "termo_busca": "curso conteudo gerado por inteligencia artificial",
+      "descricao": "Angulo recorrente: comprador descobre que o curso usa conteudo gerado por IA e se sente enganado, pede reembolso. 6a+ aparicao, sem nome de produto ainda.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-um-curso-e-fui-enganado-com-conteudo-de-ia-nao-recebi-reembolso_WjjxEjPZIRCfYce9/"
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "ganhar-dinheiro-online",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "termo_busca": "Metodo Destrave Automatico",
+      "descricao": "Mentoria vendida por vendedora afiliada (nome nao informado) via Cakto, com renovacao automatica cobrada sem autorizacao cerca de 1 ano depois da compra original. 2a aparicao seguida, promovido de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/"
+    },
+    {
+      "produto": "Direct Line App",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "apps-assinatura",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "termo_busca": "Direct Line app",
+      "descricao": "App com assinatura dificil de cancelar, vendido via Cakto. 2a aparicao seguida, promovido de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/"
+    },
+    {
+      "produto": "Emcomedy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "cursos-diversos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "termo_busca": "Emcomedy",
+      "descricao": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/"
+    },
+    {
+      "produto": "Entendimento",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "mentoria-coaching",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "termo_busca": "Entendimento mentoria",
+      "descricao": "Nome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale observar se reaparece.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/"
+    },
+    {
+      "produto": "Sistema B2Drop de Dropshipping Nacional",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "termo_busca": "B2Drop dropshipping",
+      "descricao": "Nome novo. Curso/sistema de dropshipping nacional vendido por Gilson Vaz da Costa via Braip; reembolso nao devolvido. Compra em 18/09, reclamacao publicada em 03/10. Vale observar se reaparece.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assinatura-do-sistema-b2drop_lri1CUtfg9MUm7ro/"
+    }
+  ],
+  "passada": {
+    "hora": "07:33",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 1,
+    "coleta": "ok",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[anunciaie]] -- PerfectPay · zero novidade, segue sem resposta do suporte\n- [[patcofit]] -- Hotmart · mesma reclamacao, zero novidade\n- [[tepm]] -- Hotmart · mesma reclamacao, zero novidade\n- [[foto-dolar]] -- Kiwify · 10a+ passada seguida\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] -- Kiwify · reaparece sob titulo generico diferente, corpo bate com achado ja conhecido\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] -- Kiwify · 6a+ aparicao\n\n## Mornas (promovidas)\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · 2a aparicao seguida, promovido de fria para morna\n- [[direct-line-app]] -- Cakto · 2a aparicao seguida, promovido de fria para morna\n\n## Frias (novos)\n- [[emcomedy]] -- Cakto · nome novo, produto nao identificado, suporte nao responde\n- [[entendimento]] -- Braip · nome novo, pos-venda ruim, nao fica claro se e curso ou mentoria\n- [[sistema-b2drop-dropshipping-nacional]] -- Braip · nome novo, curso/sistema de dropshipping nacional, produtor Gilson Vaz da Costa\n\nLeitura: janela de 6h45 (00:48 a 07:33). Bug de paginacao do ReclameAqui persiste pela 3a passada seguida -- pagina 2 continua devolvendo 'Exibindo 0 de 0 reclamacoes' em PerfectPay, Cakto e Braip (testado nesta passada), so pagina 1 disponivel em todos os gateways. Braip entrou como rotativo (estava ha mais tempo sem varredura dedicada desde 09:46 de ontem) e trouxe 2 nomes novos (Entendimento, Sistema B2Drop), ambos com mencao unica -- vale so observar se reaparecem. Cakto trouxe Emcomedy como novo e promoveu Mentoria MDA e Direct Line de frias para mornas por reaparicao. Nenhuma marca nova virou quente nesta passada; os 7 achados quentes seguem apenas confirmando presenca continua.",
+    "resumo": "Janela de 6h45 sem lacuna; nada novo virou quente, 3 nomes novos frios (Emcomedy, Entendimento, B2Drop) e 2 promovidos a morna (Mentoria MDA, Direct Line); bug de paginacao do RA persiste na 3a passada seguida."
+  }
+}

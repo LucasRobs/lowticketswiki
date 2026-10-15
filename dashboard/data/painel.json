@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 349,
+  "ofertas": 351,
   "angulos": 84,
-  "observacoes": 820,
+  "observacoes": 824,
   "dias_radar": 37,
-  "passadas": 94,
+  "passadas": 95,
   "analises": 12,
   "ultima_rodada": "2026-10-15"
  },
@@ -2362,7 +2362,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20conteudo%20gerado%20por%20IA&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Reclamante diz ter comprado curso e descoberto que o conteudo e gerado por IA sem aviso -- segunda aparicao deste angulo, primeira foi na rodada das 11:19.",
    "flags": [
     "sem-longevidade",
@@ -3686,7 +3686,7 @@
    "classe": "angulo",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -3713,26 +3713,25 @@
    "score": 2.7,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-14",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=metodo%20ADL%20Fabio%20Costa&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 9,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 11,
    "resumo": "Angulo de mentoria/ensino citado apenas como 'metodo ADL', ministrado por Fabio Costa via Kiwify. Sem nome oficial do produto na reclamacao, oferta de 12 parcelas de R$250.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5629,7 +5628,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
    "flags": [
     "score-provisorio",
@@ -11060,7 +11059,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-15",
    "bump_oculto": false,
@@ -11069,7 +11068,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 10,
+   "n_citacoes": 11,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -11573,6 +11572,116 @@
    "ultima_obs": "2026-10-04",
    "n_citacoes": 3,
    "resumo": "Ebook que promete automação com IA (API/Gemini) mas exige créditos pagos extra não informados no anúncio — bump oculto clássico disfarçado de 'requisito técnico'.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "emcomedy",
+   "nome": "Emcomedy",
+   "classe": "oferta",
+   "nicho": "cursos-diversos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Emcomedy&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 2,
+   "resumo": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "entendimento",
+   "nome": "Entendimento",
+   "classe": "oferta",
+   "nicho": "mentoria-coaching",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "braip",
+   "gateways": [
+    "braip"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Entendimento%20mentoria&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 2,
+   "resumo": "Nome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale observar se reaparece.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -12463,7 +12572,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Foto%20Dolar&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 10,
+   "n_citacoes": 11,
    "resumo": "Primeira aparicao no radar. Curso/app de ganhar dinheiro com fotos; compradora perdeu acesso e pede codigo de liberacao com urgencia -- nome sugere nicho de renda via celular.",
    "flags": [
     "score-provisorio",
@@ -16885,7 +16994,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-15",
    "bump_oculto": false,
@@ -16894,7 +17003,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Destrave%20Automatico%20mentoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao unica -- vale so observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -19396,7 +19505,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PATCOFIT&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Primeira aparicao no radar. Assinatura anual de plano fitness vendida pela influenciadora Patricia Costa Santos via Hotmart -- reclamante cobrada por renovacao automatica sem autorizacao, cobranca veio 'do nada' um ano depois da compra.",
    "flags": [
     "score-provisorio",
@@ -21782,21 +21891,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=B2Drop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 6,
    "resumo": "Sistema de dropshipping/assinatura, reembolso não recebido. Reclamação removida, nome confirmado só pelo título/URL.",
    "flags": [
     "score-provisorio",
@@ -22079,7 +22188,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 20,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 53,
+   "n_citacoes": 54,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -22521,7 +22630,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20TEPM&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Primeira aparicao no radar. Curso TEPM da Prof. Juliana Souza via Hotmart, comprado por volta de outubro/2025 -- compradora perdeu acesso e suporte nao ajuda. Ticket alto pro radar, mas volume de reclamacao de suporte/acesso e recorrente nesse tipo de curso.",
    "flags": [
     "score-provisorio",
@@ -23983,11 +24092,12 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 10,
-   "novas": 2,
+   "ofertas_vistas": 14,
+   "novas": 4,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "hotmart",
     "kiwify",
@@ -23995,7 +24105,7 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -24675,6 +24785,35 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 0733.md",
+   "data": "2026-10-15",
+   "hora": "07:33",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 1,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome",
+    "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
+    "anunciaie",
+    "direct-line-app",
+    "emcomedy",
+    "entendimento",
+    "foto-dolar",
+    "mentoria-mda-metodo-destrave-automatico",
+    "patcofit",
+    "stalkeia-ai",
+    "tepm"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 1 · Coleta: ok · Achados: 12 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade anunciaie -- PerfectPay · zero novidade, segue sem resposta do suporte…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 0048.md",
    "data": "2026-10-15",
@@ -26820,7 +26959,7 @@
     "angulo": 8
    },
    "2026-10-15": {
-    "oferta": 2,
+    "oferta": 4,
     "angulo": 0
    }
   },
@@ -26860,7 +26999,7 @@
    "2026-10-12": 11,
    "2026-10-13": 18,
    "2026-10-14": 38,
-   "2026-10-15": 10
+   "2026-10-15": 14
   }
  },
  "analises": [
@@ -26986,6 +27125,24 @@
     "arquivo": "Ofertas/divas-milionarias.md",
     "campo": "ra_plataformas",
     "msg": "'hotmart-kiwify' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/entendimento.md",
+    "campo": "checkout",
+    "msg": "checkout 'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/entendimento.md",
+    "campo": "gateways_detectados",
+    "msg": "'braip' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/entendimento.md",
+    "campo": "ra_plataformas",
+    "msg": "'braip' fora do vocabulario de gateway",
     "codigo": "vocabulario"
    },
    {
@@ -27268,56 +27425,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 13,
    "status-vencido": 1,
-   "vocabulario": 41
+   "vocabulario": 44
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 349
+    "total": 351
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 349
+    "total": 351
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 349
+    "total": 351
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 320,
-    "total": 349
+    "preenchidas": 322,
+    "total": 351
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 176,
-    "total": 349
+    "total": 351
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 349
+    "total": 351
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 349
+    "total": 351
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 292,
-    "total": 349
+    "preenchidas": 294,
+    "total": 351
    }
   ],
   "fila_enriquecimento": [
@@ -27376,7 +27533,6 @@
    "angulo-licenca-para-trabalhar-avaliando-produtos-sem-marca",
    "angulo-material-pronto-para-quem-ensina-danca",
    "angulo-mentoria-online-hotmart-nome-incerto",
-   "angulo-metodo-adl-fabio-costa-sem-nome-oficial",
    "angulo-nome-nao-capturado-ebook-de-curriculo",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
    "angulo-oblivium-digital-produto-nao-identificado",
@@ -27521,7 +27677,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1253
+   "canonico": 1259
   }
  },
  "vocabulario": {
@@ -27568,22 +27724,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "6efb0dc6a439be70",
-  "atualizado_em": "2026-10-15T00:49:32-03:00",
-  "ofertas": 349,
+  "hash": "29158d2da4095911",
+  "atualizado_em": "2026-10-15T07:34:45-03:00",
+  "ofertas": 351,
   "angulos": 84,
-  "observacoes": 820,
+  "observacoes": 824,
   "ultima_rodada": "2026-10-15",
   "ultima_passada": {
    "data": "2026-10-15",
-   "hora": "00:48",
+   "hora": "07:33",
    "coleta": "ok",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto"
+    "braip"
    ]
   }
  }

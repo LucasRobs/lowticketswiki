@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/mentoria-mda-metodo-destrave-automatico"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-15
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+2 mencao(oes) nesta varredura (gateway Cakto). Mentoria vendida por vendedora afiliada (nome nao informado) via Cakto, com renovacao automatica cobrada sem autorizacao cerca de 1 ano depois da compra original. 2a aparicao seguida, promovido de fria para morna.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/
