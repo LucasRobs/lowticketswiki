@@ -5,13 +5,14 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 19,
-   "novas": 7,
+   "ofertas_vistas": 29,
+   "novas": 13,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "braip",
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "perfectpay",
@@ -19,8 +20,8 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
-   "corpo": "# Radar 2026-10-15\n\n## Novas\n\n- [[mentoria-mda-metodo-destrave-automatico]] — marketing-digital-trafego —  — Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao…\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] — ferramentas-e-apps —  — Reembolso pedido de algo vendido como 'Capcut Desktop' via Ticto, nao e o app oficial da Capcut -- parece licenca/clone capitalizando no…\n- [[emcomedy]] — cursos-diversos — ? — Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no…\n- [[entendimento]] — mentoria-coaching — ? — Nome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale…\n- [[metodo-accent]] — idiomas —  — Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede…\n- [[house-gym-academia-de-concreto]] — saude-estetica-fitness —  — Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.\n- [[maquina-de-vendas-realizada-mvr]] — marketing-digital-trafego —  — Nome novo nesta passada (gateway rotativo Yampi). Curso/mentoria de vendas do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro' nas…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[patcofit]] — ra_reclamacoes atualizado para 1\n- [[tepm]] — ra_reclamacoes atualizado para 1\n- [[foto-dolar]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] — ra_reclamacoes atualizado para 1\n- [[direct-line-app]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] — ra_reclamacoes atualizado para 1\n- [[sistema-b2drop]] — ra_reclamacoes atualizado para 1\n- [[plataforma-de-estudo-descomplica-etec-2026-2027]] — ra_reclamacoes atualizado para 1\n- [[portovian]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-15 -- 0048]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - 5 gateways, pagina 1 cada (bug de paginacao do RA persiste) -- 7 achados recorrentes promovidos/confirmados, 3 nomes novos no rotativo Ticto\n- [[2026-10-15 -- 0733]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 12 achado(s) - Janela de 6h45 sem lacuna; nada novo virou quente, 3 nomes novos frios (Emcomedy, Entendimento, B2Drop) e 2 promovidos a morna (Mentoria…\n- [[2026-10-15 -- 0735]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 12 achado(s) - Pagina 2 do ReclameAqui continua fora do ar; coleta ficou limitada a pagina 1 de 5 gateways (Braip entrou como rotativo) e trouxe 6 nomes…\n- [[2026-10-15 -- 1152]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 12 achado(s) - Passada parcial (bug de paginacao do RA persiste): PerfectPay/Cakto/Kiwify/Hotmart sem novidade real desde as 07:35, unico conteudo novo…\n"
+   "n_passadas": 5,
+   "corpo": "# Radar 2026-10-15\n\n## Novas\n\n- [[mentoria-mda-metodo-destrave-automatico]] — marketing-digital-trafego —  — Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao…\n- [[capcut-desktop-licenca-clone-vendido-via-ticto]] — ferramentas-e-apps —  — Reembolso pedido de algo vendido como 'Capcut Desktop' via Ticto, nao e o app oficial da Capcut -- parece licenca/clone capitalizando no…\n- [[emcomedy]] — cursos-diversos — ? — Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no…\n- [[entendimento]] — mentoria-coaching — ? — Nome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale…\n- [[metodo-accent]] — idiomas —  — Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede…\n- [[house-gym-academia-de-concreto]] — saude-estetica-fitness —  — Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.\n- [[maquina-de-vendas-realizada-mvr]] — marketing-digital-trafego —  — Nome novo nesta passada (gateway rotativo Yampi). Curso/mentoria de vendas do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro' nas…\n- [[meus-socios-as]] — marketing-digital-trafego — R$ 197 — Produto citado dentro de uma reclamacao de reembolso de 3 compras na PerfectPay (a mais cara das tres, R$197). Nome sugere oferta de…\n- [[projeto-100k]] — marketing-digital-trafego —  — Produto citado numa reclamacao generica de reembolso na Kiwify (titulo so 'Reembolso'). Compradora diz nao ter achado o nome do produtor…\n- [[angulo-e-book-de-taro-78-mapas-mentais]] — espiritualidade-religiao —  — E-book com 78 mapas mentais sobre Taro vendido na Hotmart; compradora recebeu a versao em espanhol e nao consegue usar. Sem nome de…\n- [[angulo-curso-preparatorio-professor-mateus]] — cursos-preparatorios-concursos —  — Curso preparatorio (tipo nao especificado) do 'Professor Mateus' vendido via Hotmart. Compradora pede cancelamento e reembolso por…\n- [[angulo-curso-preparatorio-para-cpa]] — cursos-preparatorios-concursos —  — Curso preparatorio para certificacao CPA (Anbima) vendido via Hotmart; comprador nao consegue contato para incluir dados na nota fiscal…\n- [[angulo-assinatura-ram-solution-sem-nome-de-produto]] — a-identificar —  — Assinatura com cobranca recorrente e sem solicitacao de cancelamento aberta, vendida via Eduzz pela produtora RAM SOLUTION LTDA (nome do…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[patcofit]] — ra_reclamacoes atualizado para 1\n- [[tepm]] — ra_reclamacoes atualizado para 1\n- [[foto-dolar]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-compra-de-carros-em-leilao]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-com-conteudo-gerado-por-ia-sem-avisar-sem-nome]] — ra_reclamacoes atualizado para 1\n- [[direct-line-app]] — ra_reclamacoes atualizado para 1\n- [[angulo-metodo-adl-fabio-costa-sem-nome-oficial]] — ra_reclamacoes atualizado para 1\n- [[sistema-b2drop]] — ra_reclamacoes atualizado para 1\n- [[plataforma-de-estudo-descomplica-etec-2026-2027]] — ra_reclamacoes atualizado para 1\n- [[portovian]] — ra_reclamacoes atualizado para 1\n- [[pro-armas]] — ra_reclamacoes atualizado para 1\n- [[mp28-cursos-de-motociclismo]] — ra_reclamacoes atualizado para 1\n- [[mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto]] — ra_reclamacoes atualizado para 1\n- [[iara-shoppe-360]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-15 -- 0048]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - 5 gateways, pagina 1 cada (bug de paginacao do RA persiste) -- 7 achados recorrentes promovidos/confirmados, 3 nomes novos no rotativo Ticto\n- [[2026-10-15 -- 0733]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 12 achado(s) - Janela de 6h45 sem lacuna; nada novo virou quente, 3 nomes novos frios (Emcomedy, Entendimento, B2Drop) e 2 promovidos a morna (Mentoria…\n- [[2026-10-15 -- 0735]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 12 achado(s) - Pagina 2 do ReclameAqui continua fora do ar; coleta ficou limitada a pagina 1 de 5 gateways (Braip entrou como rotativo) e trouxe 6 nomes…\n- [[2026-10-15 -- 1152]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 12 achado(s) - Passada parcial (bug de paginacao do RA persiste): PerfectPay/Cakto/Kiwify/Hotmart sem novidade real desde as 07:35, unico conteudo novo…\n- [[2026-10-15 -- 1447]] - perfectpay, cakto-pay, kiwify, hotmart, eduzz - 17 achado(s) - 5a passada seguida com bug de paginacao confirmado; Hotmart trocou de conteudo e rendeu 2 marcas novas (Meus Socios R$197, Projeto 100k)…\n"
   },
   {
    "arquivo": "Radar/2026-10-14.md",
@@ -699,6 +700,37 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 1447.md",
+   "data": "2026-10-15",
+   "hora": "14:47",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "anunciaie",
+    "direct-line-app",
+    "emcomedy",
+    "house-gym-academia-de-concreto",
+    "iara-shoppe-360",
+    "mentoria-mda-metodo-destrave-automatico",
+    "metodo-accent",
+    "meus-socios-as",
+    "mp28-cursos-de-motociclismo",
+    "mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto",
+    "pro-armas",
+    "projeto-100k",
+    "stalkeia-ai"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-15]].\n\n# Rodada — 15/10/2026 · 14:47 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, eduzz · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 17\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade, segue a oferta mais estavel do vault\n- [[anunciaie]] -- PerfectPay · nova reclamacao nomeia a grafia 'Anunciae' com acento e 2 variantes de preco (R$21-155)\n\n## Mornas\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · mesma reclamacao, zero novidade\n- [[pro-armas]] -- Eduzz · 2o dia distinto de avistamento (13/10 e 15/10)\n- [[mp28-cursos-de-motociclismo]] -- Eduzz · confirma sustentacao\n- [[mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto]] -- Eduzz · confirma sustentacao\n- [[iara-shoppe-360]] -- Eduzz · confirma sustentacao\n\n## Frias (sem novidade real)\n- [[metodo-accent]] -- Kiwify · mesma reclamacao da passada anterior\n- [[house-gym-academia-de-concreto]] -- Kiwify · mesma reclamacao da passada anterior\n- [[emcomedy]] -- Cakto · mesma reclamacao da passada anterior\n\n## Frias (novos)\n- [[meus-socios-as]] -- PerfectPay · nome novo, R$197, achado dentro de reclamacao de 3 compras\n- [[projeto-100k]] -- Kiwify · nome novo, sem produtor identificado\n- angulo e-book de taro 78 mapas mentais -- Hotmart · sem nome\n- angulo curso preparatorio Professor Mateus -- Hotmart · sem nome oficial\n- angulo curso preparatorio CPA -- Hotmart · sem nome oficial\n- angulo assinatura RAM SOLUTION -- Eduzz · sem nome do produto\n\nLeitura: janela de ~2h55 (11:52 a 14:47). Bug de paginacao do ReclameAqui reconfirmado pela 5a passada seguida -- pagina 2 testada em todos os 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, eduzz) devolveu 'Exibindo 0 de 0 reclamacoes'. A pagina 1 tambem seguiu identica, titulo por titulo e URL por URL, as da passada das 11:52 em PerfectPay, Cakto e Kiwify (zero novidade genuina nesses 3). Hotmart foi excecao: a pagina 1 trocou totalmente de conteudo em relacao as 11:52 (TEPM, Patcofit e Descomplica saíram da pagina, substituidos por 5 reclamacoes novas), o que indica que nem todo gateway sofre do mesmo travamento de cache. Abrir as reclamacoes sem nome no titulo valeu a pena: rendeu 2 marcas novas (Meus Socios R$197 e Projeto 100k) e confirmou que 'Anunciaie' tambem roda como 'Anunciae' (acento). Amostra pequena por causa do bug (1 pagina x 5 gateways = 25 reclamacoes brutas na listagem, 16 abertas no detalhe), nao por falta de tentativa.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 1152.md",
    "data": "2026-10-15",

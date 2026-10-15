@@ -1,21 +1,21 @@
 {
  "esquema": 1,
- "hash": "4a1443bf052ddda2",
- "atualizado_em": "2026-10-15T11:53:18-03:00",
- "ofertas": 354,
- "angulos": 84,
- "observacoes": 829,
+ "hash": "c170adebf29ba67b",
+ "atualizado_em": "2026-10-15T14:48:52-03:00",
+ "ofertas": 356,
+ "angulos": 88,
+ "observacoes": 839,
  "ultima_rodada": "2026-10-15",
  "ultima_passada": {
   "data": "2026-10-15",
-  "hora": "11:52",
+  "hora": "14:47",
   "coleta": "parcial",
   "gateways": [
    "perfectpay",
    "cakto-pay",
    "kiwify",
    "hotmart",
-   "yampi"
+   "eduzz"
   ]
  }
 }

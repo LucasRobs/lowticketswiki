@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 354,
-  "angulos": 84,
-  "observacoes": 829,
+  "ofertas": 356,
+  "angulos": 88,
+  "observacoes": 839,
   "dias_radar": 37,
-  "passadas": 97,
+  "passadas": 98,
   "analises": 12,
   "ultima_rodada": "2026-10-15"
  },
@@ -1825,6 +1825,58 @@
    ]
   },
   {
+   "slug": "angulo-assinatura-ram-solution-sem-nome-de-produto",
+   "nome": "Assinatura RAM SOLUTION (sem nome de produto)",
+   "classe": "angulo",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 1,
+   "resumo": "Assinatura com cobranca recorrente e sem solicitacao de cancelamento aberta, vendida via Eduzz pela produtora RAM SOLUTION LTDA (nome do vendedor confirmado pela propria empresa na resposta). Produto sem nome -- mecanica de cobranca recorrente vale registrar.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-biblia-free-shipping",
    "nome": "Biblia gratis, so paga o frete",
    "classe": "angulo",
@@ -2852,6 +2904,110 @@
    ]
   },
   {
+   "slug": "angulo-curso-preparatorio-para-cpa",
+   "nome": "Curso preparatorio para CPA",
+   "classe": "angulo",
+   "nicho": "cursos-preparatorios-concursos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20CPA%20Anbima&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 1,
+   "resumo": "Curso preparatorio para certificacao CPA (Anbima) vendido via Hotmart; comprador nao consegue contato para incluir dados na nota fiscal. Produtor ('criador do conteudo') nao nomeado.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-curso-preparatorio-professor-mateus",
+   "nome": "Curso preparatorio -- Professor Mateus",
+   "classe": "angulo",
+   "nicho": "cursos-preparatorios-concursos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20Professor%20Mateus&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 1,
+   "resumo": "Curso preparatorio (tipo nao especificado) do 'Professor Mateus' vendido via Hotmart. Compradora pede cancelamento e reembolso por emergencia familiar; comprou em 07/09/2026. Produtor identificado pelo nome, produto sem titulo oficial.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-desintoxicacao-telas",
    "nome": "Ângulo — Criança viciada em tela",
    "classe": "angulo",
@@ -2962,6 +3118,58 @@
    "ultima_obs": "2026-08-21",
    "n_citacoes": 8,
    "resumo": "O padrão estrutural mais valioso desta rodada.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-e-book-de-taro-78-mapas-mentais",
+   "nome": "e-book de taro (78 mapas mentais)",
+   "classe": "angulo",
+   "nicho": "espiritualidade-religiao",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=mapas%20mentais%20taro&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 1,
+   "resumo": "E-book com 78 mapas mentais sobre Taro vendido na Hotmart; compradora recebeu a versao em espanhol e nao consegue usar. Sem nome de produto/produtor -- angulo de espiritualidade/taro pra buscar na Biblioteca de Anuncios.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -5619,7 +5827,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-15",
    "bump_oculto": false,
@@ -5628,7 +5836,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
    "flags": [
     "score-provisorio",
@@ -11068,7 +11276,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 13,
+   "n_citacoes": 14,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -11625,7 +11833,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Emcomedy&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -13846,7 +14054,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -14109,21 +14317,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Iara%20Shoppe&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 7,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 9,
    "resumo": "Curso sobre venda/operacao de loja na Shopee. Produtor identificado como Icaro Dias. Comprador diz nao ter recebido acesso ao curso adquirido via Eduzz e pede reembolso integral. Primeira aparicao no vault.",
    "flags": [
     "score-provisorio",
@@ -17113,7 +17321,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Destrave%20Automatico%20mentoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao unica -- vale so observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -17447,7 +17655,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -17949,6 +18157,61 @@
     "score-provisorio",
     "sem-longevidade",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "meus-socios-as",
+   "nome": "Meus Socios(as)",
+   "classe": "oferta",
+   "nicho": "marketing-digital-trafego",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "perfectpay",
+   "gateways": [
+    "perfectpay"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 197,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 197,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Meus%20Socios&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 2,
+   "resumo": "Produto citado dentro de uma reclamacao de reembolso de 3 compras na PerfectPay (a mais cara das tres, R$197). Nome sugere oferta de parceria/sociedade de negocio ou comunidade paga; vendedor nao identificado na reclamacao. Primeira aparicao no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -18458,7 +18721,7 @@
    "classe": "oferta",
    "nicho": "mobilidade-transito",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -18485,27 +18748,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MP28%20motociclismo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 3,
    "resumo": "Achado novo. Cluster de 3 cursos vendidos juntos por um mesmo produtor de motociclismo -- 'MP28 Seguranca Avancada', 'MP28 Estrada Segura' e 'Rotina e Habitos do Piloto'. Comprador pede cancelamento e reembolso dos tres; produtor nao identificado na…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18541,21 +18803,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-13",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MP28%20moto&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 5,
    "resumo": "Cluster de cursos de pilotagem/seguranca para motociclistas (3 titulos sob a mesma marca MP28) vendidos via Eduzz. Primeira aparicao no radar; produtor nao identificado na reclamacao.",
    "flags": [
     "score-provisorio",
@@ -20350,7 +20612,7 @@
    "classe": "oferta",
    "nicho": "armamento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -20377,27 +20639,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-13",
-   "visto_ultimo": "2026-10-13",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=PRO%20ARMAS%20curso&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 3,
    "resumo": "Curso por assinatura sobre armas vendido via Eduzz. Reclamacao de cobranca indevida sem opcao de cancelamento. Primeira aparicao no radar.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20449,6 +20710,61 @@
    "ultima_obs": "2026-10-08",
    "n_citacoes": 3,
    "resumo": "Duas reclamacoes distintas no mesmo produtor nesta passada: 'O Som da Memoria' divulgado por 'Dr Henrique' e outro produto sem nome de 'Frank Henrique', com relato de reincidencia do mesmo problema em compra anterior - sinal de operacao com varios produtos…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "projeto-100k",
+   "nome": "Projeto 100k",
+   "classe": "oferta",
+   "nicho": "marketing-digital-trafego",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-15",
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-15",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Projeto%20100k&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 2,
+   "resumo": "Produto citado numa reclamacao generica de reembolso na Kiwify (titulo so 'Reembolso'). Compradora diz nao ter achado o nome do produtor. Nome sugere promessa de renda/meta financeira. Primeira aparicao no radar.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -22352,7 +22668,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 20,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 56,
+   "n_citacoes": 57,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -24256,13 +24572,14 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 19,
-   "novas": 7,
+   "ofertas_vistas": 29,
+   "novas": 13,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
     "braip",
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "perfectpay",
@@ -24270,7 +24587,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -24950,6 +25267,37 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 1447.md",
+   "data": "2026-10-15",
+   "hora": "14:47",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "anunciaie",
+    "direct-line-app",
+    "emcomedy",
+    "house-gym-academia-de-concreto",
+    "iara-shoppe-360",
+    "mentoria-mda-metodo-destrave-automatico",
+    "metodo-accent",
+    "meus-socios-as",
+    "mp28-cursos-de-motociclismo",
+    "mp28-seguranca-avancada-estrada-segura-rotina-e-habitos-do-piloto",
+    "pro-armas",
+    "projeto-100k",
+    "stalkeia-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 1 · Coleta: parcial · Achados: 17 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade, segue a oferta mais estavel do vault anunciaie -- PerfectPay ·…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 1152.md",
    "data": "2026-10-15",
@@ -27183,8 +27531,8 @@
     "angulo": 8
    },
    "2026-10-15": {
-    "oferta": 7,
-    "angulo": 0
+    "oferta": 9,
+    "angulo": 4
    }
   },
   "observacoes": {
@@ -27223,7 +27571,7 @@
    "2026-10-12": 11,
    "2026-10-13": 18,
    "2026-10-14": 38,
-   "2026-10-15": 19
+   "2026-10-15": 29
   }
  },
  "analises": [
@@ -27674,49 +28022,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 354
+    "total": 356
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 354
+    "total": 356
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 354
+    "total": 356
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 325,
-    "total": 354
+    "preenchidas": 327,
+    "total": 356
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 176,
-    "total": 354
+    "preenchidas": 177,
+    "total": 356
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 354
+    "total": 356
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 354
+    "total": 356
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 297,
-    "total": 354
+    "preenchidas": 299,
+    "total": 356
    }
   ],
   "fila_enriquecimento": [
@@ -27878,7 +28226,6 @@
    "moldes-digitais-de-artesanato-rendafini",
    "moldes-para-artesanato-rendafini",
    "movimentos-de-adoracao",
-   "mp28-cursos-de-motociclismo",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
    "natflix-fitness",
@@ -27892,7 +28239,6 @@
    "portal-do-mei-brasil",
    "portal-shakti-club",
    "postcloner",
-   "pro-armas",
    "protocolo-3s",
    "protocolo-testosterona-2-0",
    "protocolo-zero-barriga-40-club-40-sem-barriga",
@@ -27918,7 +28264,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1267
+   "canonico": 1283
   }
  },
  "vocabulario": {
@@ -27965,22 +28311,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "4a1443bf052ddda2",
-  "atualizado_em": "2026-10-15T11:53:18-03:00",
-  "ofertas": 354,
-  "angulos": 84,
-  "observacoes": 829,
+  "hash": "c170adebf29ba67b",
+  "atualizado_em": "2026-10-15T14:48:52-03:00",
+  "ofertas": 356,
+  "angulos": 88,
+  "observacoes": 839,
   "ultima_rodada": "2026-10-15",
   "ultima_passada": {
    "data": "2026-10-15",
-   "hora": "11:52",
+   "hora": "14:47",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "eduzz"
    ]
   }
  }

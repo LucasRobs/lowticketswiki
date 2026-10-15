@@ -1,0 +1,90 @@
+{
+ "slug": "angulo-curso-preparatorio-para-cpa",
+ "arquivo": "Ofertas/angulo-curso-preparatorio-para-cpa.md",
+ "fm": {
+  "tipo": "oferta",
+  "classe": "angulo",
+  "slug": "angulo-curso-preparatorio-para-cpa",
+  "nome": "Curso preparatorio para CPA",
+  "nicho": "cursos-preparatorios-concursos",
+  "sub_nicho": "",
+  "idioma": "pt-BR",
+  "pais": "BR",
+  "plataforma_ads": [
+   "meta"
+  ],
+  "checkout": "desconhecido",
+  "url_pagina": "",
+  "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20CPA%20Anbima&search_type=keyword_unordered&media_type=all",
+  "moeda": "BRL",
+  "ticket_frente": 0,
+  "ticket_bump": 0,
+  "ticket_upsell": 0,
+  "ticket_medio_est": 0,
+  "margem_est": 0.8,
+  "modelo": [
+   "direct"
+  ],
+  "formato_entrega": [],
+  "tem_recorrencia": false,
+  "s_ticket": 0,
+  "s_lucro": 2,
+  "s_replica": 0,
+  "s_saturacao": 0,
+  "status": "nova",
+  "visto_primeiro": "2026-10-15",
+  "visto_ultimo": "2026-10-15",
+  "rodadas_vista": 1,
+  "dias_no_ar": 0,
+  "criativos_ultima": 0,
+  "criativos_delta": 0,
+  "unfunnelizer_capturado": false,
+  "ativos_pasta": "Ativos/angulo-curso-preparatorio-para-cpa",
+  "gateways_detectados": [],
+  "bump_oculto": false,
+  "upsell_oculto": false,
+  "ra_reclamacoes": 1,
+  "ra_plataformas": [],
+  "ra_primeira_reclamacao": "",
+  "ra_checado": "2026-10-15",
+  "veredito": "observar",
+  "prioridade": 0,
+  "tags": [
+   "oferta",
+   "lowticket",
+   "angulo"
+  ]
+ },
+ "calc": {
+  "score": 0.7,
+  "decisao": "padrao",
+  "flags": [
+   "sem-longevidade",
+   "sem-lp"
+  ],
+  "gateways": []
+ },
+ "corpo": "# Curso preparatorio para CPA\n\n## Angulo\nCurso preparatorio para certificacao CPA (Anbima) vendido via Hotmart; comprador nao consegue contato para incluir dados na nota fiscal. Produtor ('criador do conteudo') nao nomeado.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/nao-consigo-contato-para-incluir-dados-na-nf-do-curso-cpa_kAOxC5xnCoJMp_C_/\n\n## Historico\n",
+ "observacoes": [
+  {
+   "data": "2026-10-15",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": true,
+   "texto": "Primeira vez vista. Curso preparatorio para certificacao CPA (Anbima) vendido via Hotmart; comprador nao consegue contato para incluir dados na nota fiscal. Produtor ('criador do conteudo') nao nomeado."
+  }
+ ],
+ "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-15.md",
+   "data": "2026-10-15",
+   "titulo": "Radar 2026-10-15"
+  }
+ ]
+}

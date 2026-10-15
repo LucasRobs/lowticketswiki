@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-13",
-  "visto_ultimo": "2026-10-14",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-15",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "eduzz"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-14",
+  "ra_checado": "2026-10-15",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "eduzz"
   ]
  },
- "corpo": "# MP28 (Seguranca Avancada / Estrada Segura / Rotina e Habitos do Piloto)\n\n## Angulo\nCluster de cursos de pilotagem/seguranca para motociclistas (3 titulos sob a mesma marca MP28) vendidos via Eduzz. Primeira aparicao no radar; produtor nao identificado na reclamacao.\n\n## Funil\nanuncio -> pagina -> checkout eduzz -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-13 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/\n\n## Historico\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Compra de 3 cursos de motociclismo (Seguranca Avancada, Estrada Segura, Rotina e Habitos do Piloto), pedido de cancelamento e reembolso -- ja catalogado, Eduzz so varrida de novo apos ~15h.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/\n",
+ "corpo": "# MP28 (Seguranca Avancada / Estrada Segura / Rotina e Habitos do Piloto)\n\n## Angulo\nCluster de cursos de pilotagem/seguranca para motociclistas (3 titulos sob a mesma marca MP28) vendidos via Eduzz. Primeira aparicao no radar; produtor nao identificado na reclamacao.\n\n## Funil\nanuncio -> pagina -> checkout eduzz -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-13 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/\n\n## Historico\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Compra de 3 cursos de motociclismo (Seguranca Avancada, Estrada Segura, Rotina e Habitos do Piloto), pedido de cancelamento e reembolso -- ja catalogado, Eduzz so varrida de novo apos ~15h.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Eduzz). Mesma reclamacao das passadas anteriores, nomeia o trio de cursos MP28. Confirma sustentacao.\n\nEvidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/\n",
  "observacoes": [
   {
    "data": "2026-10-13",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Compra de 3 cursos de motociclismo (Seguranca Avancada, Estrada Segura, Rotina e Habitos do Piloto), pedido de cancelamento e reembolso -- ja catalogado, Eduzz so varrida de novo apos ~15h."
+  },
+  {
+   "data": "2026-10-15",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Mesma reclamacao das passadas anteriores, nomeia o trio de cursos MP28. Confirma sustentacao."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-15 -- 1447.md",
+   "data": "2026-10-15",
+   "titulo": "Passada 2026-10-15 14:47"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-15.md",
+   "data": "2026-10-15",
+   "titulo": "Radar 2026-10-15"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-14 -- 1442.md",

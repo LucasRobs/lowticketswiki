@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-14
-rodadas_vista: 4
+visto_ultimo: 2026-10-15
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/eduzz/nao-recebi-o-acesso-ao-curso-iar
 ## Rodada 2026-10-14
 
 1 mencao(oes) nesta varredura (gateway Eduzz). Reclamacao de nao recebimento de acesso ao curso, pedido de reembolso -- ja catalogado, confirma que segue ativo via Eduzz.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/nao-recebi-o-acesso-ao-curso-iara-shoppe-360-e-quero-meu-reembolso_m8GZMenoccnAZ2xA/
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Mesma reclamacao das passadas anteriores -- nao recebeu acesso ao curso, quer reembolso. Confirma sustentacao.
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/nao-recebi-o-acesso-ao-curso-iara-shoppe-360-e-quero-meu-reembolso_m8GZMenoccnAZ2xA/
