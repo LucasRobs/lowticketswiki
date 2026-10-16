@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-16.md",
+   "data": "2026-10-16",
+   "titulo": "Radar 2026-10-16",
+   "ofertas_vistas": 10,
+   "novas": 0,
+   "retornaram": 1,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "perfectpay",
+    "ticto"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-16\n\n## Novas\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[direct-line-app]] — ra_reclamacoes atualizado para 2\n- [[mentoria-mda-metodo-destrave-automatico]] — ra_reclamacoes atualizado para 2\n- [[emcomedy]] — ra_reclamacoes atualizado para 1\n- [[metodo-accent]] — ra_reclamacoes atualizado para 1\n- [[house-gym-academia-de-concreto]] — ra_reclamacoes atualizado para 1\n- [[angulo-e-book-de-taro-78-mapas-mentais]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-para-cpa]] — ra_reclamacoes atualizado para 1\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[trendly]] — marketing-digital — reapareceu (1 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-16 -- 0016]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela curta (2h30) sem achado novo -- bug de paginacao do ReclameAqui persiste e agora confirmado tambem na Ticto, o gateway rotativo…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
@@ -702,6 +721,34 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 0016.md",
+   "data": "2026-10-16",
+   "hora": "00:16",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-preparatorio-para-cpa",
+    "angulo-e-book-de-taro-78-mapas-mentais",
+    "capcut-desktop-revenda-via-ticto",
+    "direct-line-app",
+    "emcomedy",
+    "house-gym-academia-de-concreto",
+    "mentoria-mda-metodo-destrave-automatico",
+    "metodo-accent",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-16]].\n\n# Rodada — 16/10/2026 · 00:16 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, ticto · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 10\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · mesma reclamacao, zero novidade\n- [[emcomedy]] -- Cakto · mesma reclamacao, zero novidade\n- [[metodo-accent]] -- Kiwify · mesma reclamacao, zero novidade\n- [[house-gym-academia-de-concreto]] -- Kiwify · mesma reclamacao, zero novidade\n- [[angulo-e-book-de-taro-78-mapas-mentais]] -- Hotmart · mesma reclamacao, zero novidade\n- [[angulo-curso-preparatorio-para-cpa]] -- Hotmart · mesma reclamacao, zero novidade\n- [[capcut-desktop-revenda-via-ticto]] -- Ticto · mesma reclamacao, zero novidade\n\nLeitura: janela de ~2h30 (21:47 a 00:16 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado de novo -- pagina 2 testada em perfectpay, cakto-pay, kiwify, hotmart e ticto (gateway rotativo desta vez), todas devolveram 'Exibindo 0 de 0 reclamacoes' apesar do resumo da empresa mostrar milhares de reclamacoes recebidas. Confirma que o bug e' do site (afeta qualquer gateway testado), nao de um gateway especifico. Pagina 1 dos 5 gateways trouxe so reclamacoes ja conhecidas, nenhum nome novo. Amostra pequena (5 gateways x 1 pagina util = 25 reclamacoes brutas) pelo mesmo motivo das rodadas anteriores.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 2147.md",
    "data": "2026-10-15",

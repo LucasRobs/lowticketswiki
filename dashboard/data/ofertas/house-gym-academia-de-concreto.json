@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "nova",
+  "status": "ativa",
   "visto_primeiro": "2026-10-15",
-  "visto_ultimo": "2026-10-15",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-16",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-15",
+  "ra_checado": "2026-10-16",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kiwify"
   ]
  },
- "corpo": "# House Gym Academia de Concreto\n\n## Angulo\nCurso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso de calistenia, reembolso nao devolvido. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/\n",
+ "corpo": "# House Gym Academia de Concreto\n\n## Angulo\nCurso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.\n\n## Funil\nanuncio -> pagina -> checkout kiwify -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-15 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso de calistenia, reembolso nao devolvido. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/\n\n## Rodada 2026-10-16\n\n1 mencao(oes) nesta varredura (gateway Kiwify). Curso de fitness/calistenia, reclamacao de reembolso nao recebido.\n\nEvidencia:\n",
  "observacoes": [
   {
    "data": "2026-10-15",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago."
+  },
+  {
+   "data": "2026-10-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Curso de fitness/calistenia, reclamacao de reembolso nao recebido."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-16 -- 0016.md",
+   "data": "2026-10-16",
+   "titulo": "Passada 2026-10-16 00:16"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-16.md",
+   "data": "2026-10-16",
+   "titulo": "Radar 2026-10-16"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-15 -- 2147.md",

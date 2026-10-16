@@ -1,0 +1,140 @@
+{
+  "data_varredura": "2026-10-16",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288261, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10642, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 37",
+      "termo_busca": "Stalkea",
+      "descricao": "App de espionar WhatsApp/Instagram, mesma familia Stalkeia/Stalkea. Reclamacao desta rodada: 'comprei servico enganoso no stalkea.ai e quero estorno'. Presenca constante ha semanas, confirma oferta sustentada.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "Trendly | Vitalicio",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 299",
+      "termo_busca": "Trendly",
+      "descricao": "Ferramenta de pesquisa de tendencias vendida vitalicia. Reclamacao: promessa de suporte nao cumprida, pedido de reembolso.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "App por assinatura, reclamacao recorrente de dificuldade pra cancelar a assinatura -- sinal de cobranca recorrente mal explicada no checkout.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Destrave Automatico mentoria",
+      "descricao": "Mentoria de trafego/marketing. Reclamacao desta rodada: cobranca de renovacao nao autorizada -- indica recorrencia automatica no checkout.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "Emcomedy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "cursos-diversos",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Emcomedy",
+      "descricao": "Curso diverso, reclamacao de produto abaixo do esperado e suporte que nao responde.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Accent",
+      "descricao": "Curso de idiomas, reclamacao de dificuldade de avancar no curso e pedido de cancelamento.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Academia de Concreto",
+      "descricao": "Curso de fitness/calistenia, reclamacao de reembolso nao recebido.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "e-book de taro (78 mapas mentais)",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "espiritualidade-religiao",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "mapas mentais taro",
+      "descricao": "Angulo recorrente de e-book de taro. Reclamacao desta rodada: produto veio em espanhol e comprador nao consegue usar.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "Curso preparatorio para CPA",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-preparatorios-concursos",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio CPA Anbima",
+      "descricao": "Angulo de curso preparatorio pra certificacao CPA. Reclamacao desta rodada: dificuldade de contato pra incluir dados na nota fiscal.",
+      "evidencia_url": ""
+    },
+    {
+      "produto": "CapCut Desktop (revenda via Ticto)",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "ferramentas-ia",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Capcut Desktop licenca",
+      "descricao": "Revenda de licenca do CapCut Desktop. Reclamacao desta rodada: produto nao era o que esperava, pedido de reembolso.",
+      "evidencia_url": ""
+    }
+  ],
+  "passada": {
+    "hora": "00:16",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · mesma reclamacao, zero novidade\n- [[emcomedy]] -- Cakto · mesma reclamacao, zero novidade\n- [[metodo-accent]] -- Kiwify · mesma reclamacao, zero novidade\n- [[house-gym-academia-de-concreto]] -- Kiwify · mesma reclamacao, zero novidade\n- [[angulo-e-book-de-taro-78-mapas-mentais]] -- Hotmart · mesma reclamacao, zero novidade\n- [[angulo-curso-preparatorio-para-cpa]] -- Hotmart · mesma reclamacao, zero novidade\n- [[capcut-desktop-revenda-via-ticto]] -- Ticto · mesma reclamacao, zero novidade\n\nLeitura: janela de ~2h30 (21:47 a 00:16 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado de novo -- pagina 2 testada em perfectpay, cakto-pay, kiwify, hotmart e ticto (gateway rotativo desta vez), todas devolveram 'Exibindo 0 de 0 reclamacoes' apesar do resumo da empresa mostrar milhares de reclamacoes recebidas. Confirma que o bug e' do site (afeta qualquer gateway testado), nao de um gateway especifico. Pagina 1 dos 5 gateways trouxe so reclamacoes ja conhecidas, nenhum nome novo. Amostra pequena (5 gateways x 1 pagina util = 25 reclamacoes brutas) pelo mesmo motivo das rodadas anteriores.",
+    "resumo": "Janela curta (2h30) sem achado novo -- bug de paginacao do ReclameAqui persiste e agora confirmado tambem na Ticto, o gateway rotativo desta rodada."
+  }
+}

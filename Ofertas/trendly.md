@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: perfectpay
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 299
@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 3
 s_replica: 3
 s_saturacao: 5
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-08-24
-rodadas_vista: 2
+visto_ultimo: 2026-10-16
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,8 +38,8 @@ bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [perfectpay]
-ra_primeira_reclamacao: 2026-08-22
-ra_checado: 2026-08-24
+ra_primeira_reclamacao: "2026-08-22"
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -56,3 +56,9 @@ Nao e low ticket na frente - e o oposto: ticket unico alto vendido como acesso v
 ## Rodada 2026-08-24
 
 PerfectPay, mesma reclamacao do vitalicio de R$ 299. Sem alteracao.
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida vitalicia. Reclamacao: promessa de suporte nao cumprida, pedido de reembolso.
+
+Evidencia: 

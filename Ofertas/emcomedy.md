@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-15
-visto_ultimo: 2026-10-15
-rodadas_vista: 1
+visto_ultimo: 2026-10-16
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Cakto). Nome novo, mencao unica. Reclamante diz que o produto ficou abaixo do esperado e o suporte nao responde; natureza exata do produto nao ficou clara na reclamacao.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Cakto). Curso diverso, reclamacao de produto abaixo do esperado e suporte que nao responde.
+
+Evidencia: 

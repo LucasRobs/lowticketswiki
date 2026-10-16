@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-15
-visto_ultimo: 2026-10-15
-rodadas_vista: 1
+visto_ultimo: 2026-10-16
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso de calistenia, reembolso nao devolvido. Mesma reclamacao da passada anterior ainda na pagina 1, sem novidade.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso de fitness/calistenia, reclamacao de reembolso nao recebido.
+
+Evidencia: 

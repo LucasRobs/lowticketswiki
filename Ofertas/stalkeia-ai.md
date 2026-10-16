@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-15
-rodadas_vista: 18
+visto_ultimo: 2026-10-16
+rodadas_vista: 19
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 28
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -213,3 +213,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-pro
 1 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Mesma reclamacao da passada anterior ainda ativa na pagina 1 -- sem novidade, so confirma presenca continua na PerfectPay.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram, mesma familia Stalkeia/Stalkea. Reclamacao desta rodada: 'comprei servico enganoso no stalkea.ai e quero estorno'. Presenca constante ha semanas, confirma oferta sustentada.
+
+Evidencia: 

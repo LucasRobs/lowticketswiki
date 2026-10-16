@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-15
-rodadas_vista: 3
+visto_ultimo: 2026-10-16
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-
 1 mencao(oes) nesta varredura (gateway Cakto). App com assinatura dificil de cancelar, cobrado via Cakto. Pouca informacao sobre o que o app faz -- nome novo, mencao unica.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Cakto). App por assinatura, reclamacao recorrente de dificuldade pra cancelar a assinatura -- sinal de cobranca recorrente mal explicada no checkout.
+
+Evidencia: 
