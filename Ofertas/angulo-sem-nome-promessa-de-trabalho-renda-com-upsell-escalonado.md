@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-sem-nome-promessa-de-trabalho-renda-com-upsell-escalonado"
-gateways_detectados: []
+gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-16
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Mesma reclamacao ja conhecida (16 compras entre 09/10 e 15/10, total ~R$4.136), zero novidade.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/

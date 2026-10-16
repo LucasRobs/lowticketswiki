@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 18,
-   "novas": 5,
+   "ofertas_vistas": 20,
+   "novas": 6,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -15,11 +15,12 @@
     "hotmart",
     "kiwify",
     "perfectpay",
-    "ticto"
+    "ticto",
+    "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
-   "corpo": "# Radar 2026-10-16\n\n## Novas\n\n- [[cardplay-app]] — app-assinatura —  — Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao…\n- [[curso-brenda-bhaskar]] — mentoria-coaching —  — Curso vendido pela produtora Brenda Bhaskar via Cakto. Compra em 07/10, pedido de reembolso 08/10 sem retorno. Nome novo no radar.\n- [[angulo-sem-nome-dois-cursos-de-venda-no-exterior]] — trabalho-exterior —  — Dois cursos sobre vender/trabalhar no exterior, cancelados no mesmo dia (08/10). Mesma reclamacao ja conhecida, zero novidade.\n- [[angulo-sem-nome-curso-preparatorio-cpa]] — concursos-preparatorios —  — Curso preparatorio para certificacao CPA, problema de nota fiscal. Mesma reclamacao ja conhecida, zero novidade.\n- [[angulo-sem-nome-promessa-de-trabalho-renda-com-upsell-escalonado]] — ganhar-dinheiro — R$ 49-700 — Reclamante relata 16 compras distintas entre 09/10 e 15/10 (R$49,90 a R$700,00, total ~R$4.136), todas dentro de uma promessa de…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[direct-line-app]] — ra_reclamacoes atualizado para 2\n- [[mentoria-mda-metodo-destrave-automatico]] — ra_reclamacoes atualizado para 2\n- [[emcomedy]] — ra_reclamacoes atualizado para 1\n- [[metodo-accent]] — ra_reclamacoes atualizado para 1\n- [[house-gym-academia-de-concreto]] — ra_reclamacoes atualizado para 1\n- [[angulo-e-book-de-taro-78-mapas-mentais]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-para-cpa]] — ra_reclamacoes atualizado para 1\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n- [[sistema-b2drop]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-professor-mateus]] — ra_reclamacoes atualizado para 1\n- [[entendimento]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[trendly]] — marketing-digital — reapareceu (1 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-16 -- 0016]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela curta (2h30) sem achado novo -- bug de paginacao do ReclameAqui persiste e agora confirmado tambem na Ticto, o gateway rotativo…\n- [[2026-10-16 -- 1040]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 8 achado(s) - 2 nomes novos (CardPlay, Sistema B2Drop) em meio a repeticoes; bug de paginacao do ReclameAqui persiste ha dias e limita a varredura a…\n- [[2026-10-16 -- 1041]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 13 achado(s) - 10h25 de janela, bug de paginacao reconfirmado (10a+ passada seguida); 2 marcas novas (CardPlay, Brenda Bhaskar) e Entendimento sobe pra…\n"
+   "n_passadas": 4,
+   "corpo": "# Radar 2026-10-16\n\n## Novas\n\n- [[cardplay-app]] — app-assinatura —  — Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao…\n- [[curso-brenda-bhaskar]] — mentoria-coaching —  — Curso vendido pela produtora Brenda Bhaskar via Cakto. Compra em 07/10, pedido de reembolso 08/10 sem retorno. Nome novo no radar.\n- [[angulo-sem-nome-dois-cursos-de-venda-no-exterior]] — trabalho-exterior —  — Dois cursos sobre vender/trabalhar no exterior, cancelados no mesmo dia (08/10). Mesma reclamacao ja conhecida, zero novidade.\n- [[angulo-sem-nome-curso-preparatorio-cpa]] — concursos-preparatorios —  — Curso preparatorio para certificacao CPA, problema de nota fiscal. Mesma reclamacao ja conhecida, zero novidade.\n- [[angulo-sem-nome-promessa-de-trabalho-renda-com-upsell-escalonado]] — ganhar-dinheiro — R$ 49-700 — Reclamante relata 16 compras distintas entre 09/10 e 15/10 (R$49,90 a R$700,00, total ~R$4.136), todas dentro de uma promessa de…\n- [[lucennto]] — ecommerce-geral —  — Loja identificada pela propria Yampi na resposta ('a loja Lucennto'); titulo e relato do consumidor vieram com termos censurados pelo…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[direct-line-app]] — ra_reclamacoes atualizado para 2\n- [[mentoria-mda-metodo-destrave-automatico]] — ra_reclamacoes atualizado para 2\n- [[emcomedy]] — ra_reclamacoes atualizado para 1\n- [[metodo-accent]] — ra_reclamacoes atualizado para 1\n- [[house-gym-academia-de-concreto]] — ra_reclamacoes atualizado para 1\n- [[angulo-e-book-de-taro-78-mapas-mentais]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-para-cpa]] — ra_reclamacoes atualizado para 1\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n- [[sistema-b2drop]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-professor-mateus]] — ra_reclamacoes atualizado para 1\n- [[entendimento]] — ra_reclamacoes atualizado para 1\n- [[mvr-daniel-fernandes]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n- [[trendly]] — marketing-digital — reapareceu (1 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-16 -- 0016]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela curta (2h30) sem achado novo -- bug de paginacao do ReclameAqui persiste e agora confirmado tambem na Ticto, o gateway rotativo…\n- [[2026-10-16 -- 1040]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 8 achado(s) - 2 nomes novos (CardPlay, Sistema B2Drop) em meio a repeticoes; bug de paginacao do ReclameAqui persiste ha dias e limita a varredura a…\n- [[2026-10-16 -- 1041]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 13 achado(s) - 10h25 de janela, bug de paginacao reconfirmado (10a+ passada seguida); 2 marcas novas (CardPlay, Brenda Bhaskar) e Entendimento sobe pra…\n- [[2026-10-16 -- 1119]] - perfectpay, cakto-pay, kiwify, hotmart, yampi - 12 achado(s) - Janela curta de 38min, bug de paginacao reconfirmado; MVR/Daniel Fernandes confirmado em 2 reclamacoes no mesmo dia (Yampi, 5o dia de…\n"
   },
   {
    "arquivo": "Radar/2026-10-15.md",
@@ -722,6 +723,29 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 1119.md",
+   "data": "2026-10-16",
+   "hora": "11:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "house-gym-academia-de-concreto",
+    "metodo-accent",
+    "mvr-daniel-fernandes",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-16]].\n\n# Rodada — 16/10/2026 · 11:19 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, yampi · **Páginas:** 2 · **Coleta:** parcial · **Achados:** 12\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[mvr-daniel-fernandes]] -- Yampi · 2 reclamacoes distintas nesta passada, confirma 5o dia diferente de aparicao desde 04/10\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- angulo e-book de taro 78 mapas mentais -- Hotmart · mesma reclamacao, zero novidade\n\n## Frias (novas)\n- Lucennto (loja) -- Yampi · reclamacao com detalhes censurados pelo RA, pouco contexto\n\n## Frias (sem novidade)\n- [[cardplay]] -- Cakto\n- [[metodo-accent]], [[house-gym-academia-de-concreto]] -- Kiwify\n- angulo dois cursos de venda no exterior -- Kiwify\n- angulo curso preparatorio Professor Mateus, angulo curso preparatorio CPA -- Hotmart\n- angulo promessa de trabalho/renda com upsell escalonado -- PerfectPay\n\nLeitura: janela curta de ~38min (10:41 a 11:19 Fortaleza) porque a tarefa agendada disparou duas vezes seguidas num intervalo curto. Bug de paginacao do ReclameAqui reconfirmado mais uma vez -- pagina 2 testada nos 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, yampi), todas devolveram 'Exibindo 0 de 0 reclamacoes' apesar dos paineis de reputacao mostrarem milhares de reclamacoes recebidas. Ja mais de 10 passadas seguidas confirmando o mesmo travamento desde 04/10, em todos os gateways testados. A janela curta nao trouxe quase nada novo: pagina 1 de PerfectPay, Cakto, Kiwify e Hotmart repetiu majoritariamente as mesmas reclamacoes ja conhecidas das passadas de 10:40/10:41. A novidade real veio do gateway rotativo Yampi (escolhido por estar ha mais tempo sem varredura dedicada -- ultima vez em 15/10 11:52): confirmou MVR/Daniel Fernandes em 2 reclamacoes distintas no mesmo dia (5o dia diferente de aparicao desde 04/10, reforca oferta sustentada) e trouxe um nome novo frio, Lucennto, uma loja com reclamacao cujos detalhes vieram censurados pelo proprio Reclame Aqui. Amostra pequena (5 gateways x 1 pagina util = 25 reclamacoes brutas, 4 abertas no detalhe) por causa do bug persistente de paginacao, nao por falta de tentativa.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 1041.md",
    "data": "2026-10-16",

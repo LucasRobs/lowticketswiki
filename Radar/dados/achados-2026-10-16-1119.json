@@ -1,0 +1,164 @@
+{
+  "data_varredura": "2026-10-16",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4021, "paginas_varridas": 2},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4843, "paginas_varridas": 2},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 2},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5633, "paginas_varridas": 2},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 514, "paginas_varridas": 2}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Mesma reclamacao ja conhecida ('stalkea.ai'), zero novidade nesta passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-servico-enganoso-no-e-quero-estorno_1K5fva5lYbNP8xmH/"
+    },
+    {
+      "produto": "Trendly",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Trendly",
+      "descricao": "Promessa de suporte nao cumprida. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/"
+    },
+    {
+      "produto": "sem nome - promessa de trabalho/renda com upsell escalonado",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49-700",
+      "termo_busca": "trabalho de casa renda extra",
+      "descricao": "Mesma reclamacao ja conhecida (16 compras entre 09/10 e 15/10, total ~R$4.136), zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/"
+    },
+    {
+      "produto": "CardPlay",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "financas-cartao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "CardPlay",
+      "descricao": "App cobrado via PIX com renovacao automatica. Mesma reclamacao ja conhecida (nome novo na passada anterior), zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-valor-pago-via-pix-pelo-app-cardplay_E52u_fjCj_6DS34k/"
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Accent",
+      "descricao": "Curso de idiomas. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/"
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "House Gym Academia de Concreto",
+      "descricao": "Curso de calistenia/treino com peso corporal. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/"
+    },
+    {
+      "produto": "sem nome - dois cursos de venda no exterior",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "trabalho-exterior",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso venda no exterior",
+      "descricao": "Dois cursos sobre vender/trabalhar no exterior, cancelados no mesmo dia. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-estorno-de-dois-cursos-que-cancelei-no-mesmo-dia_44TVUf39Cxfxq7TA/"
+    },
+    {
+      "produto": "sem nome - e-book de Taro 78 mapas mentais",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "esoterismo",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "ebook tarot mapas mentais",
+      "descricao": "E-book de Taro vendido com versao em espanhol por engano. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/"
+    },
+    {
+      "produto": "Curso preparatorio - Professor Mateus",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "concursos-preparatorios",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Professor Mateus curso preparatorio",
+      "descricao": "Curso preparatorio vendido pelo Professor Mateus. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-cancelar-curso-preparatorio-e-ser-reembolsado-por-emergencia-familiar_yGP-e2CZ2prPqRC7/"
+    },
+    {
+      "produto": "sem nome - curso preparatorio CPA",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "concursos-preparatorios",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio CPA",
+      "descricao": "Curso preparatorio para certificacao CPA, problema de nota fiscal. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-contato-para-incluir-dados-na-nf-do-curso-cpa_kAOxC5xnCoJMp_C_/"
+    },
+    {
+      "produto": "MVR (Daniel Fernandes)",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "marketing-digital",
+      "temperatura": "quente",
+      "mencoes": 2,
+      "faixa_preco": "",
+      "termo_busca": "MVR Daniel Fernandes",
+      "descricao": "Mentoria 'Maquina de Vendas Realizada' (MVR) do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro'). Duas reclamacoes distintas nesta passada (produto diferente do anunciado + dificuldade de cancelamento), confirmando 5o dia diferente de aparicao desde 04/10 (04, 05, 06, 13, 14 e agora 16/10) -- oferta sustentada via Yampi e Hotmart.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/"
+    },
+    {
+      "produto": "Lucennto",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "ecommerce-geral",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Lucennto",
+      "descricao": "Loja identificada pela propria Yampi na resposta ('a loja Lucennto'); titulo e relato do consumidor vieram com termos censurados pelo Reclame Aqui, pouco contexto sobre o que foi vendido. Compra via Pix em 07/09. Nome novo no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/editado-pelo-reclame-aqui-virtual-em-site-editado-pelo-reclame-aqui-com-pagamento-via-pix-processado-pela-yampi__0DVF4YrRq_WYH4V/"
+    }
+  ],
+  "passada": {
+    "hora": "11:19",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 2,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[mvr-daniel-fernandes]] -- Yampi · 2 reclamacoes distintas nesta passada, confirma 5o dia diferente de aparicao desde 04/10\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- angulo e-book de taro 78 mapas mentais -- Hotmart · mesma reclamacao, zero novidade\n\n## Frias (novas)\n- Lucennto (loja) -- Yampi · reclamacao com detalhes censurados pelo RA, pouco contexto\n\n## Frias (sem novidade)\n- [[cardplay]] -- Cakto\n- [[metodo-accent]], [[house-gym-academia-de-concreto]] -- Kiwify\n- angulo dois cursos de venda no exterior -- Kiwify\n- angulo curso preparatorio Professor Mateus, angulo curso preparatorio CPA -- Hotmart\n- angulo promessa de trabalho/renda com upsell escalonado -- PerfectPay\n\nLeitura: janela curta de ~38min (10:41 a 11:19 Fortaleza) porque a tarefa agendada disparou duas vezes seguidas num intervalo curto. Bug de paginacao do ReclameAqui reconfirmado mais uma vez -- pagina 2 testada nos 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, yampi), todas devolveram 'Exibindo 0 de 0 reclamacoes' apesar dos paineis de reputacao mostrarem milhares de reclamacoes recebidas. Ja mais de 10 passadas seguidas confirmando o mesmo travamento desde 04/10, em todos os gateways testados. A janela curta nao trouxe quase nada novo: pagina 1 de PerfectPay, Cakto, Kiwify e Hotmart repetiu majoritariamente as mesmas reclamacoes ja conhecidas das passadas de 10:40/10:41. A novidade real veio do gateway rotativo Yampi (escolhido por estar ha mais tempo sem varredura dedicada -- ultima vez em 15/10 11:52): confirmou MVR/Daniel Fernandes em 2 reclamacoes distintas no mesmo dia (5o dia diferente de aparicao desde 04/10, reforca oferta sustentada) e trouxe um nome novo frio, Lucennto, uma loja com reclamacao cujos detalhes vieram censurados pelo proprio Reclame Aqui. Amostra pequena (5 gateways x 1 pagina util = 25 reclamacoes brutas, 4 abertas no detalhe) por causa do bug persistente de paginacao, nao por falta de tentativa.",
+    "resumo": "Janela curta de 38min, bug de paginacao reconfirmado; MVR/Daniel Fernandes confirmado em 2 reclamacoes no mesmo dia (Yampi, 5o dia de aparicao), 1 nome novo frio (Lucennto)."
+  }
+}

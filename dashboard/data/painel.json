@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 358,
+  "ofertas": 359,
   "angulos": 92,
-  "observacoes": 863,
+  "observacoes": 865,
   "dias_radar": 38,
-  "passadas": 103,
+  "passadas": 104,
   "analises": 12,
   "ultima_rodada": "2026-10-16"
  },
@@ -5204,7 +5204,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -5256,7 +5258,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -5469,7 +5473,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "perfectpay"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -14383,7 +14389,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 10,
+   "n_citacoes": 11,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -16603,6 +16609,61 @@
    ]
   },
   {
+   "slug": "lucennto",
+   "nome": "Lucennto",
+   "classe": "oferta",
+   "nicho": "ecommerce-geral",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "yampi",
+   "gateways": [
+    "yampi"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Lucennto&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Loja identificada pela propria Yampi na resposta ('a loja Lucennto'); titulo e relato do consumidor vieram com termos censurados pelo Reclame Aqui, pouco contexto sobre o que foi vendido. Compra via Pix em 07/09. Nome novo no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "lucrando-com-frutas",
    "nome": "Lucrando com Frutas",
    "classe": "oferta",
@@ -17984,7 +18045,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 10,
+   "n_citacoes": 11,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -19467,21 +19528,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MVR%20Daniel%20Fernandes&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 6,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 8,
    "resumo": "Curso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp.",
    "flags": [
     "score-provisorio",
@@ -22999,7 +23060,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 21,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 63,
+   "n_citacoes": 64,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -23779,7 +23840,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -24903,8 +24964,8 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 18,
-   "novas": 5,
+   "ofertas_vistas": 20,
+   "novas": 6,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -24913,10 +24974,11 @@
     "hotmart",
     "kiwify",
     "perfectpay",
-    "ticto"
+    "ticto",
+    "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -25620,6 +25682,29 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 1119.md",
+   "data": "2026-10-16",
+   "hora": "11:19",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "house-gym-academia-de-concreto",
+    "metodo-accent",
+    "mvr-daniel-fernandes",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 2 · Coleta: parcial · Achados: 12 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade mvr-daniel-fernandes -- Yampi · 2 reclamacoes distintas nesta…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 1041.md",
    "data": "2026-10-16",
@@ -28025,7 +28110,7 @@
     "angulo": 5
    },
    "2026-10-16": {
-    "oferta": 2,
+    "oferta": 3,
     "angulo": 3
    }
   },
@@ -28066,7 +28151,7 @@
    "2026-10-13": 18,
    "2026-10-14": 38,
    "2026-10-15": 35,
-   "2026-10-16": 18
+   "2026-10-16": 20
   }
  },
  "analises": [
@@ -28291,6 +28376,24 @@
     "codigo": "regra-s_lucro"
    },
    {
+    "arquivo": "Ofertas/lucennto.md",
+    "campo": "checkout",
+    "msg": "checkout 'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/lucennto.md",
+    "campo": "gateways_detectados",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
+    "arquivo": "Ofertas/lucennto.md",
+    "campo": "ra_plataformas",
+    "msg": "'yampi' fora do vocabulario de gateway",
+    "codigo": "vocabulario"
+   },
+   {
     "arquivo": "Ofertas/lumi-ai.md",
     "campo": "gateways_detectados",
     "msg": "'cakto-pay' fora do vocabulario de gateway",
@@ -28510,56 +28613,56 @@
   "resumo_avisos": {
    "regra-s_lucro": 13,
    "status-vencido": 1,
-   "vocabulario": 47
+   "vocabulario": 50
   },
   "cobertura": [
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 358
+    "total": 359
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 358
+    "total": 359
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 358
+    "total": 359
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 329,
-    "total": 358
+    "preenchidas": 330,
+    "total": 359
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 177,
-    "total": 358
+    "total": 359
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 358
+    "total": 359
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 358
+    "total": 359
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 301,
-    "total": 358
+    "preenchidas": 302,
+    "total": 359
    }
   ],
   "fila_enriquecimento": [
@@ -28762,7 +28865,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1313
+   "canonico": 1316
   }
  },
  "vocabulario": {
@@ -28809,22 +28912,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "639728575135a1b5",
-  "atualizado_em": "2026-10-16T10:42:42-03:00",
-  "ofertas": 358,
+  "hash": "be4358ed774324cb",
+  "atualizado_em": "2026-10-16T11:20:29-03:00",
+  "ofertas": 359,
   "angulos": 92,
-  "observacoes": 863,
+  "observacoes": 865,
   "ultima_rodada": "2026-10-16",
   "ultima_passada": {
    "data": "2026-10-16",
-   "hora": "10:41",
+   "hora": "11:19",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "yampi"
    ]
   }
  }
