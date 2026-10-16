@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-15
-rodadas_vista: 2
+visto_ultimo: 2026-10-16
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [eduzz]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-15
 
 1 mencao(oes) nesta varredura (gateway Eduzz). Mesma reclamacao das passadas anteriores -- pedido de cancelamento de cursos de motociclismo MP28. Confirma sustentacao.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Eduzz). Trio de cursos de pilotagem/segurança para motociclistas (MP28 Segurança Avançada, MP28 Estrada Segura, Rotina e Hábitos do Piloto), vendido via Eduzz. Reaparece em dia diferente (08,14,15,16/10).
 
 Evidencia: https://www.reclameaqui.com.br/eduzz/quero-cancelar-meus-cursos-de-motociclismo-e-receber-reembolso_-pjH9EIPV5RChVEt/

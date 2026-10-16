@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-04
-rodadas_vista: 1
+visto_ultimo: 2026-10-16
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/shoppro"
-gateways_detectados: [hotmart]
+gateways_detectados: [hotmart, kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [hotmart]
+ra_plataformas: [hotmart, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-04
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso/ferramenta de loja com IA vendido via Kiwify; reclamação por reembolso não estornado em 6 dias. Primeira aparição no radar.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicito-reembolso-urgente-do-curso-ia-shop-pro-nao-estornado-em-6-dias_f5Xo90i_9ZrkGn9b/

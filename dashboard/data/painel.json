@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 359,
   "angulos": 92,
-  "observacoes": 865,
+  "observacoes": 868,
   "dias_radar": 38,
-  "passadas": 104,
+  "passadas": 105,
   "analises": 12,
   "ultima_rodada": "2026-10-16"
  },
@@ -2951,7 +2951,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20CPA%20Anbima&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Curso preparatorio para certificacao CPA (Anbima) vendido via Hotmart; comprador nao consegue contato para incluir dados na nota fiscal. Produtor ('criador do conteudo') nao nomeado.",
    "flags": [
     "sem-longevidade",
@@ -3230,7 +3230,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=mapas%20mentais%20taro&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "E-book com 78 mapas mentais sobre Taro vendido na Hotmart; compradora recebeu a versao em espanhol e nao consegue usar. Sem nome de produto/produtor -- angulo de espiritualidade/taro pra buscar na Biblioteca de Anuncios.",
    "flags": [
     "sem-longevidade",
@@ -8062,7 +8062,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=CardPlay%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 2,
+   "n_citacoes": 3,
    "resumo": "Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao responde no WhatsApp, pede estorno. Primeira vez que aparece no radar.",
    "flags": [
     "score-provisorio",
@@ -14652,21 +14652,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-06",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Iara%20Shoppe&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 9,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 11,
    "resumo": "Curso sobre venda/operacao de loja na Shopee. Produtor identificado como Icaro Dias. Comprador diz nao ter recebido acesso ao curso adquirido via Eduzz e pede reembolso integral. Primeira aparicao no vault.",
    "flags": [
     "score-provisorio",
@@ -19139,21 +19139,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MP28%20motociclismo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 5,
    "resumo": "Achado novo. Cluster de 3 cursos vendidos juntos por um mesmo produtor de motociclismo -- 'MP28 Seguranca Avancada', 'MP28 Estrada Segura' e 'Rotina e Habitos do Piloto'. Comprador pede cancelamento e reembolso dos tres; produtor nao identificado na…",
    "flags": [
     "score-provisorio",
@@ -22625,12 +22625,13 @@
    "classe": "oferta",
    "nicho": "negocio-online-ecommerce",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
    "gateways": [
-    "hotmart"
+    "hotmart",
+    "kiwify"
    ],
    "plataforma_ads": [
     "meta"
@@ -22652,27 +22653,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopPro&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 3,
    "resumo": "Curso de e-commerce/loja online; comprador não se identificou com o conteúdo e teve demora no reembolso apesar de promessa de devolução rápida. Nome extraído do corpo da reclamação (confirmar antes de usar como termo de busca).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -23060,7 +23060,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 21,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 64,
+   "n_citacoes": 65,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -23840,7 +23840,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -24964,13 +24964,14 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 20,
+   "ofertas_vistas": 23,
    "novas": 6,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
     "braip",
     "cakto",
+    "eduzz",
     "hotmart",
     "kiwify",
     "perfectpay",
@@ -24978,7 +24979,7 @@
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 4,
+   "n_passadas": 5,
    "leitura": ""
   },
   {
@@ -25682,6 +25683,31 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 1717.md",
+   "data": "2026-10-16",
+   "hora": "17:17",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "eduzz"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-preparatorio-para-cpa",
+    "angulo-e-book-de-taro-78-mapas-mentais",
+    "cardplay-app",
+    "iara-shoppe-360",
+    "mp28-cursos-de-motociclismo",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, eduzz · Páginas: 1 · Coleta: parcial · Achados: 9 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, 19a rodada que confirma, zero novidade iara-shoppe-360 -- Eduzz · reaparece em dia…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 1119.md",
    "data": "2026-10-16",
@@ -28151,7 +28177,7 @@
    "2026-10-13": 18,
    "2026-10-14": 38,
    "2026-10-15": 35,
-   "2026-10-16": 20
+   "2026-10-16": 23
   }
  },
  "analises": [
@@ -28849,7 +28875,6 @@
    "renda-fortuna",
    "rendafini-moldes-para-artesanato",
    "sala-de-jogos-keep-live",
-   "shoppro",
    "sistema-de-fornecedores-ocultos-marcelle-martins",
    "sora-cobranca-via-perfectpay",
    "tdah-guia-pais-renata",
@@ -28865,7 +28890,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1316
+   "canonico": 1319
   }
  },
  "vocabulario": {
@@ -28912,22 +28937,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "be4358ed774324cb",
-  "atualizado_em": "2026-10-16T11:20:29-03:00",
+  "hash": "31e8c2a3d78ed190",
+  "atualizado_em": "2026-10-16T17:19:18-03:00",
   "ofertas": 359,
   "angulos": 92,
-  "observacoes": 865,
+  "observacoes": 868,
   "ultima_rodada": "2026-10-16",
   "ultima_passada": {
    "data": "2026-10-16",
-   "hora": "11:19",
+   "hora": "17:17",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "yampi"
+    "eduzz"
    ]
   }
  }
