@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 356,
+  "ofertas": 357,
   "angulos": 89,
-  "observacoes": 855,
+  "observacoes": 857,
   "dias_radar": 38,
-  "passadas": 101,
+  "passadas": 102,
   "analises": 12,
   "ultima_rodada": "2026-10-16"
  },
@@ -2951,7 +2951,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20CPA%20Anbima&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Curso preparatorio para certificacao CPA (Anbima) vendido via Hotmart; comprador nao consegue contato para incluir dados na nota fiscal. Produtor ('criador do conteudo') nao nomeado.",
    "flags": [
     "sem-longevidade",
@@ -3231,7 +3231,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=mapas%20mentais%20taro&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "E-book com 78 mapas mentais sobre Taro vendido na Hotmart; compradora recebeu a versao em espanhol e nao consegue usar. Sem nome de produto/produtor -- angulo de espiritualidade/taro pra buscar na Biblioteca de Anuncios.",
    "flags": [
     "sem-longevidade",
@@ -7850,6 +7850,63 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "cardplay-app",
+   "nome": "CardPlay (app)",
+   "classe": "oferta",
+   "nicho": "app-assinatura",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=CardPlay%20app&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 2,
+   "resumo": "Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao responde no WhatsApp, pede estorno. Primeira vez que aparece no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -14117,7 +14174,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -17718,7 +17775,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -22436,21 +22493,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=B2Drop&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 6,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 8,
    "resumo": "Sistema de dropshipping/assinatura, reembolso não recebido. Reclamação removida, nome confirmado só pelo título/URL.",
    "flags": [
     "score-provisorio",
@@ -22733,7 +22790,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 21,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 61,
+   "n_citacoes": 62,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -23513,7 +23570,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -24637,11 +24694,12 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 10,
-   "novas": 0,
+   "ofertas_vistas": 12,
+   "novas": 1,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "hotmart",
     "kiwify",
@@ -24649,7 +24707,7 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -25353,6 +25411,32 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 1040.md",
+   "data": "2026-10-16",
+   "hora": "10:40",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-preparatorio-para-cpa",
+    "angulo-e-book-de-taro-78-mapas-mentais",
+    "cardplay-app",
+    "house-gym-academia-de-concreto",
+    "metodo-accent",
+    "sistema-b2drop",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 1 · Coleta: parcial · Achados: 8 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade, segue a oferta mais estavel do vault ## Mornas trendly …"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 0016.md",
    "data": "2026-10-16",
@@ -27706,6 +27790,10 @@
    "2026-10-15": {
     "oferta": 9,
     "angulo": 5
+   },
+   "2026-10-16": {
+    "oferta": 1,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -27745,7 +27833,7 @@
    "2026-10-13": 18,
    "2026-10-14": 38,
    "2026-10-15": 35,
-   "2026-10-16": 10
+   "2026-10-16": 12
   }
  },
  "analises": [
@@ -28196,49 +28284,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 356
+    "total": 357
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 356
+    "total": 357
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 356
+    "total": 357
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 327,
-    "total": 356
+    "preenchidas": 328,
+    "total": 357
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 177,
-    "total": 356
+    "total": 357
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 356
+    "total": 357
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 356
+    "total": 357
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 299,
-    "total": 356
+    "preenchidas": 300,
+    "total": 357
    }
   ],
   "fila_enriquecimento": [
@@ -28443,7 +28531,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1300
+   "canonico": 1303
   }
  },
  "vocabulario": {
@@ -28490,22 +28578,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "8033248f6c2afd29",
-  "atualizado_em": "2026-10-16T00:17:20-03:00",
-  "ofertas": 356,
+  "hash": "16e5c2ef47555134",
+  "atualizado_em": "2026-10-16T10:40:55-03:00",
+  "ofertas": 357,
   "angulos": 89,
-  "observacoes": 855,
+  "observacoes": 857,
   "ultima_rodada": "2026-10-16",
   "ultima_passada": {
    "data": "2026-10-16",
-   "hora": "00:16",
+   "hora": "10:40",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto"
+    "braip"
    ]
   }
  }

@@ -5,11 +5,12 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 10,
-   "novas": 0,
+   "ofertas_vistas": 12,
+   "novas": 1,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "hotmart",
     "kiwify",
@@ -17,8 +18,8 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-16\n\n## Novas\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[direct-line-app]] — ra_reclamacoes atualizado para 2\n- [[mentoria-mda-metodo-destrave-automatico]] — ra_reclamacoes atualizado para 2\n- [[emcomedy]] — ra_reclamacoes atualizado para 1\n- [[metodo-accent]] — ra_reclamacoes atualizado para 1\n- [[house-gym-academia-de-concreto]] — ra_reclamacoes atualizado para 1\n- [[angulo-e-book-de-taro-78-mapas-mentais]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-para-cpa]] — ra_reclamacoes atualizado para 1\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[trendly]] — marketing-digital — reapareceu (1 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-16 -- 0016]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela curta (2h30) sem achado novo -- bug de paginacao do ReclameAqui persiste e agora confirmado tambem na Ticto, o gateway rotativo…\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-16\n\n## Novas\n\n- [[cardplay-app]] — app-assinatura —  — Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[direct-line-app]] — ra_reclamacoes atualizado para 2\n- [[mentoria-mda-metodo-destrave-automatico]] — ra_reclamacoes atualizado para 2\n- [[emcomedy]] — ra_reclamacoes atualizado para 1\n- [[metodo-accent]] — ra_reclamacoes atualizado para 1\n- [[house-gym-academia-de-concreto]] — ra_reclamacoes atualizado para 1\n- [[angulo-e-book-de-taro-78-mapas-mentais]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-preparatorio-para-cpa]] — ra_reclamacoes atualizado para 1\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n- [[sistema-b2drop]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[trendly]] — marketing-digital — reapareceu (1 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-16 -- 0016]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela curta (2h30) sem achado novo -- bug de paginacao do ReclameAqui persiste e agora confirmado tambem na Ticto, o gateway rotativo…\n- [[2026-10-16 -- 1040]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 8 achado(s) - 2 nomes novos (CardPlay, Sistema B2Drop) em meio a repeticoes; bug de paginacao do ReclameAqui persiste ha dias e limita a varredura a…\n"
   },
   {
    "arquivo": "Radar/2026-10-15.md",
@@ -721,6 +722,32 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 1040.md",
+   "data": "2026-10-16",
+   "hora": "10:40",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-curso-preparatorio-para-cpa",
+    "angulo-e-book-de-taro-78-mapas-mentais",
+    "cardplay-app",
+    "house-gym-academia-de-concreto",
+    "metodo-accent",
+    "sistema-b2drop",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-16]].\n\n# Rodada — 16/10/2026 · 10:40 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, braip · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 8\n\n## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade, segue a oferta mais estavel do vault\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[metodo-accent]] -- Kiwify · mesma reclamacao, zero novidade\n- [[house-gym-academia-de-concreto]] -- Kiwify · mesma reclamacao, zero novidade\n- [[angulo-e-book-de-taro-78-mapas-mentais]] -- Hotmart · mesma reclamacao, zero novidade\n- [[angulo-curso-preparatorio-para-cpa]] -- Hotmart · mesma reclamacao, zero novidade\n\n## Frias (novos)\n- [[cardplay-app]] -- Cakto · nome novo, app com cobranca repetida via Pix, cliente reclama que app nao funciona e empresa nao responde\n- [[sistema-b2drop]] -- Braip · nome novo, achado via reclamacao de vendedor/afiliado sobre reembolso de assinatura, pouco contexto\n\nLeitura: gateway rotativo trocado para Braip (ha mais tempo sem varredura: ultima vez em 14/10 09:46, ~2 dias). Perfil da Braip nesta rodada foi puramente de reclamacao de vendedor/afiliado contra a propria gateway (conta desativada, saldo bloqueado, taxa de manutencao) -- so uma das 5 reclamacoes citou produto de terceiro (B2Drop). Bug de paginacao do ReclameAqui reconfirmado de novo nesta rodada (testado em perfectpay e kiwify): pagina 2 devolve 'Exibindo 0 de 0 reclamacoes' apesar do total de reclamacoes ativas na casena de dezenas/centenas de milhares. Pagina 1 trouxe majoritariamente reclamacoes ja conhecidas; 2 nomes novos (CardPlay na Cakto, Sistema B2Drop na Braip), ambos com mencao unica e pouco contexto.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 0016.md",
    "data": "2026-10-16",
