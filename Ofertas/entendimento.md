@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-15
-visto_ultimo: 2026-10-15
-rodadas_vista: 1
+visto_ultimo: 2026-10-16
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [braip]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-15
 
 1 mencao(oes) nesta varredura (gateway Braip). Nome novo, mencao unica, natureza exata do produto nao confirmada (reclamacao fala so de 'pos-venda ruim'); possivel mentoria/curso de autoconhecimento vendido via Braip, vale observar se reaparece com mais detalhe.
+
+Evidencia: https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Braip). Mentoria/curso 'Entendimento' vendido via Braip, reclamacao de pos-venda ruim. Mesma reclamacao da passada de 15/10, agora confirmada em 2 dias distintos (15/10 e 16/10) -- sobe de nova para morna.
 
 Evidencia: https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/

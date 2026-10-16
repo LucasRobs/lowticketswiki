@@ -1,0 +1,176 @@
+{
+  "data_varredura": "2026-10-16",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4021, "paginas_varridas": 2},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 4843, "paginas_varridas": 2},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 2},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 5633, "paginas_varridas": 2},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 42144, "paginas_varridas": 2}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram. Mesma reclamacao ja conhecida ('stalkea.ai'), zero novidade nesta passada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-servico-enganoso-no-e-quero-estorno_1K5fva5lYbNP8xmH/"
+    },
+    {
+      "produto": "Trendly",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Trendly",
+      "descricao": "Promessa de suporte nao cumprida. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/"
+    },
+    {
+      "produto": "CardPlay",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "financas-cartao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "CardPlay",
+      "descricao": "App cobrado via PIX com renovacao automatica; reclamante pede estorno da renovacao de um app que ja tinha vencido. Nome novo no radar, natureza exata do app (cartao virtual/financas) nao confirmada pela reclamacao.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-valor-pago-via-pix-pelo-app-cardplay_E52u_fjCj_6DS34k/"
+    },
+    {
+      "produto": "Curso Brenda Bhaskar",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "mentoria-coaching",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Brenda Bhaskar",
+      "descricao": "Curso vendido pela produtora Brenda Bhaskar via Cakto. Compra em 07/10, pedido de reembolso 08/10 sem retorno. Nome novo no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicitei-reembolso-de-curso-dentro-do-prazo-legal-e-nao-tive-retorno_eOPdIvtTMYgFULKn/"
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Accent",
+      "descricao": "Curso de idiomas, reclamacao de nao conseguir avancar no curso. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/"
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "House Gym Academia de Concreto",
+      "descricao": "Curso de calistenia/treino com peso corporal. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/"
+    },
+    {
+      "produto": "sem nome - dois cursos de venda no exterior",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "trabalho-exterior",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso venda no exterior",
+      "descricao": "Dois cursos sobre vender/trabalhar no exterior, cancelados no mesmo dia (08/10). Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-estorno-de-dois-cursos-que-cancelei-no-mesmo-dia_44TVUf39Cxfxq7TA/"
+    },
+    {
+      "produto": "sem nome - e-book de Taro 78 mapas mentais",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "esoterismo",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "ebook tarot mapas mentais",
+      "descricao": "E-book de Taro vendido com versao em espanhol por engano. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/"
+    },
+    {
+      "produto": "Curso preparatorio - Professor Mateus",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "concursos-preparatorios",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Professor Mateus curso preparatorio",
+      "descricao": "Curso preparatorio vendido pelo Professor Mateus. Compra confirmada em 07/09. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-cancelar-curso-preparatorio-e-ser-reembolsado-por-emergencia-familiar_yGP-e2CZ2prPqRC7/"
+    },
+    {
+      "produto": "sem nome - curso preparatorio CPA",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "concursos-preparatorios",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio CPA",
+      "descricao": "Curso preparatorio para certificacao CPA, problema de nota fiscal. Mesma reclamacao ja conhecida, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-contato-para-incluir-dados-na-nf-do-curso-cpa_kAOxC5xnCoJMp_C_/"
+    },
+    {
+      "produto": "Entendimento",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "mentoria-coaching",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Entendimento mentoria",
+      "descricao": "Mentoria/curso 'Entendimento' vendido via Braip, reclamacao de pos-venda ruim. Mesma reclamacao da passada de 15/10, agora confirmada em 2 dias distintos (15/10 e 16/10) -- sobe de nova para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/pos-venda-da-entendimento-e-um-servico-muito-ruim_M_F1fXq-v6SwYueb/"
+    },
+    {
+      "produto": "Sistema B2Drop",
+      "tipo": "marca",
+      "gateway": "Braip",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "B2Drop",
+      "descricao": "Sistema de dropshipping vendido por Gilson Vaz da Costa via Braip. Mesma reclamacao ja conhecida (6a aparicao desde 04/10), zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-o-reembolso-da-assinatura-do-sistema-b2drop_lri1CUtfg9MUm7ro/"
+    },
+    {
+      "produto": "sem nome - promessa de trabalho/renda com upsell escalonado",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49-700",
+      "termo_busca": "trabalho de casa renda extra",
+      "descricao": "Reclamante relata 16 compras distintas entre 09/10 e 15/10 (R$49,90 a R$700,00, total ~R$4.136), todas dentro de uma promessa de trabalho/renda, sem nome de produto nem produtor identificados. Padrao de upsell/order bump muito agressivo e escalonado -- sinal forte de funil com multiplas ofertas em sequencia no mesmo gateway.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/"
+    }
+  ],
+  "passada": {
+    "hora": "10:41",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 2,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[entendimento]] -- Braip · 2o dia distinto (15/10 e 16/10), sobe pra morna\n- angulo e-book de taro 78 mapas mentais -- Hotmart · mesma reclamacao, zero novidade\n\n## Frias (novas)\n- [[cardplay]] -- Cakto · app cobrado via PIX, nome novo\n- Curso Brenda Bhaskar -- Cakto · produtora identificada, nome novo\n\n## Frias (sem novidade)\n- [[metodo-accent]], [[house-gym-academia-de-concreto]] -- Kiwify\n- angulo dois cursos de venda no exterior -- Kiwify\n- angulo curso preparatorio Professor Mateus, angulo curso preparatorio CPA -- Hotmart\n- [[sistema-b2drop]] -- Braip, 6a aparicao desde 04/10\n- angulo promessa de trabalho/renda com upsell escalonado (16 compras, ~R$4.136) -- PerfectPay, sem nome\n\nLeitura: janela de ~10h25 (00:16 a 10:41 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado outra vez -- pagina 2 testada nos 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, braip), todas devolveram 'Exibindo 0 de 0 reclamacoes' apesar dos resumos mostrarem milhares de reclamacoes recebidas. Bug persistente desde 04/10, agora mais de 10 passadas seguidas confirmando o mesmo travamento -- afeta todos os gateways testados, nao e' especifico de um. Pagina 1 de PerfectPay, Kiwify e Hotmart trouxe majoritariamente reclamacoes ja conhecidas; a novidade real veio de abrir reclamacoes sem nome no titulo: CardPlay (Cakto, app via PIX) e Curso Brenda Bhaskar (Cakto) sao marcas novas no radar. Braip, rotativo desta passada (sem varredura dedicada desde 15/10 07:33, a mais atrasada do ciclo), confirmou Entendimento num segundo dia distinto (sobe pra morna) e repetiu Sistema B2Drop pela 6a vez. Amostra pequena (5 gateways x 1 pagina util = 25 reclamacoes brutas, 10 abertas no detalhe) por causa do bug persistente, nao por falta de tentativa.",
+    "resumo": "10h25 de janela, bug de paginacao reconfirmado (10a+ passada seguida); 2 marcas novas (CardPlay, Brenda Bhaskar) e Entendimento sobe pra morna."
+  }
+}

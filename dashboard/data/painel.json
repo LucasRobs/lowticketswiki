@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 357,
-  "angulos": 89,
-  "observacoes": 857,
+  "ofertas": 358,
+  "angulos": 92,
+  "observacoes": 863,
   "dias_radar": 38,
-  "passadas": 102,
+  "passadas": 103,
   "analises": 12,
   "ultima_rodada": "2026-10-16"
  },
@@ -2964,7 +2964,7 @@
    "classe": "angulo",
    "nicho": "cursos-preparatorios-concursos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -2991,26 +2991,25 @@
    "score": 0.7,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-15",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20Professor%20Mateus&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 2,
    "resumo": "Curso preparatorio (tipo nao especificado) do 'Professor Mateus' vendido via Hotmart. Compradora pede cancelamento e reembolso por emergencia familiar; comprou em 07/09/2026. Produtor identificado pelo nome, produto sem titulo oficial.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -5196,6 +5195,110 @@
    ]
   },
   {
+   "slug": "angulo-sem-nome-curso-preparatorio-cpa",
+   "nome": "sem nome - curso preparatorio CPA",
+   "classe": "angulo",
+   "nicho": "concursos-preparatorios",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20preparatorio%20CPA&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Curso preparatorio para certificacao CPA, problema de nota fiscal. Mesma reclamacao ja conhecida, zero novidade.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-dois-cursos-de-venda-no-exterior",
+   "nome": "sem nome - dois cursos de venda no exterior",
+   "classe": "angulo",
+   "nicho": "trabalho-exterior",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20venda%20no%20exterior&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Dois cursos sobre vender/trabalhar no exterior, cancelados no mesmo dia (08/10). Mesma reclamacao ja conhecida, zero novidade.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
    "nome": "sem nome - ebook com suporte via WhatsApp não entregue",
    "classe": "angulo",
@@ -5354,6 +5457,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-sem-nome-promessa-de-trabalho-renda-com-upsell-escalonado",
+   "nome": "sem nome - promessa de trabalho/renda com upsell escalonado",
+   "classe": "angulo",
+   "nicho": "ganhar-dinheiro",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 49,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 374.5,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=trabalho%20de%20casa%20renda%20extra&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Reclamante relata 16 compras distintas entre 09/10 e 15/10 (R$49,90 a R$700,00, total ~R$4.136), todas dentro de uma promessa de trabalho/renda, sem nome de produto nem produtor identificados. Padrao de upsell/order bump muito agressivo e escalonado -- sinal…",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -9571,6 +9726,61 @@
    ]
   },
   {
+   "slug": "curso-brenda-bhaskar",
+   "nome": "Curso Brenda Bhaskar",
+   "classe": "oferta",
+   "nicho": "mentoria-coaching",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Brenda%20Bhaskar&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Curso vendido pela produtora Brenda Bhaskar via Cakto. Compra em 07/10, pedido de reembolso 08/10 sem retorno. Nome novo no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "curso-cae-ingles-cambridge",
    "nome": "Curso CAE (ingles Cambridge)",
    "classe": "oferta",
@@ -11966,7 +12176,7 @@
    "classe": "oferta",
    "nicho": "mentoria-coaching",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "braip",
@@ -11993,27 +12203,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-15",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Entendimento%20mentoria&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 5,
    "resumo": "Nome novo. Reclamacao de pos-venda ruim contra algo chamado 'Entendimento', vendido via Braip; nao fica claro se e curso ou mentoria. Vale observar se reaparece.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14174,7 +14383,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -17775,7 +17984,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -22507,7 +22716,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=B2Drop&search_type=keyword_unordered&media_type=all",
    "n_obs": 6,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 8,
+   "n_citacoes": 9,
    "resumo": "Sistema de dropshipping/assinatura, reembolso não recebido. Reclamação removida, nome confirmado só pelo título/URL.",
    "flags": [
     "score-provisorio",
@@ -22790,7 +22999,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 21,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 62,
+   "n_citacoes": 63,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -23570,7 +23779,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -24694,8 +24903,8 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 12,
-   "novas": 1,
+   "ofertas_vistas": 18,
+   "novas": 5,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -24707,7 +24916,7 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -25411,6 +25620,30 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 1041.md",
+   "data": "2026-10-16",
+   "hora": "10:41",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "entendimento",
+    "house-gym-academia-de-concreto",
+    "metodo-accent",
+    "sistema-b2drop",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 2 · Coleta: parcial · Achados: 13 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade ## Mornas trendly -- PerfectPay · mesma reclamacao, zero novidade…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 1040.md",
    "data": "2026-10-16",
@@ -27792,8 +28025,8 @@
     "angulo": 5
    },
    "2026-10-16": {
-    "oferta": 1,
-    "angulo": 0
+    "oferta": 2,
+    "angulo": 3
    }
   },
   "observacoes": {
@@ -27833,7 +28066,7 @@
    "2026-10-13": 18,
    "2026-10-14": 38,
    "2026-10-15": 35,
-   "2026-10-16": 12
+   "2026-10-16": 18
   }
  },
  "analises": [
@@ -28284,49 +28517,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 357
+    "total": 358
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 357
+    "total": 358
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 357
+    "total": 358
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 328,
-    "total": 357
+    "preenchidas": 329,
+    "total": 358
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 177,
-    "total": 357
+    "total": 358
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 357
+    "total": 358
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 357
+    "total": 358
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 300,
-    "total": 357
+    "preenchidas": 301,
+    "total": 358
    }
   ],
   "fila_enriquecimento": [
@@ -28377,7 +28610,6 @@
    "angulo-curso-de-musica-com-propaganda-enganosa-sem-nome",
    "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
    "angulo-curso-online-com-upsell-pague-para-liberar-funcionar",
-   "angulo-curso-preparatorio-professor-mateus",
    "angulo-cursos-de-venda-no-exterior-sem-nome",
    "angulo-ebook-modelo-de-curriculo",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
@@ -28448,7 +28680,6 @@
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
    "dossie-do-emagrecimento",
-   "entendimento",
    "escola-de-personagem",
    "evoluft-programa-de-exercicios",
    "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
@@ -28531,7 +28762,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1303
+   "canonico": 1313
   }
  },
  "vocabulario": {
@@ -28578,15 +28809,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "16e5c2ef47555134",
-  "atualizado_em": "2026-10-16T10:40:55-03:00",
-  "ofertas": 357,
-  "angulos": 89,
-  "observacoes": 857,
+  "hash": "639728575135a1b5",
+  "atualizado_em": "2026-10-16T10:42:42-03:00",
+  "ofertas": 358,
+  "angulos": 92,
+  "observacoes": 863,
   "ultima_rodada": "2026-10-16",
   "ultima_passada": {
    "data": "2026-10-16",
-   "hora": "10:40",
+   "hora": "10:41",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",

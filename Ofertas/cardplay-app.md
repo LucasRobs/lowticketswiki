@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-16
+
+1 mencao(oes) nesta varredura (gateway Cakto). App cobrado via PIX com renovacao automatica; reclamante pede estorno da renovacao de um app que ja tinha vencido. Nome novo no radar, natureza exata do app (cartao virtual/financas) nao confirmada pela reclamacao.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-valor-pago-via-pix-pelo-app-cardplay_E52u_fjCj_6DS34k/
