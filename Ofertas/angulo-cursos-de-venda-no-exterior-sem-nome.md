@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-cursos-de-venda-no-exterior-sem-nome"
-gateways_detectados: []
+gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: []
+ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-15
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Mesma reclamacao da passada anterior -- dois cursos de 'vendas no exterior' cancelados no mesmo dia, sem nome de produto nem produtor. Zero novidade.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-estorno-de-dois-cursos-que-cancelei-no-mesmo-dia_44TVUf39Cxfxq7TA/

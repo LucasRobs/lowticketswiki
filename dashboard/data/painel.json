@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 356,
   "angulos": 89,
-  "observacoes": 843,
+  "observacoes": 845,
   "dias_radar": 37,
-  "passadas": 99,
+  "passadas": 100,
   "analises": 12,
   "ultima_rodada": "2026-10-15"
  },
@@ -3021,7 +3021,9 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kiwify"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -5894,7 +5896,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
    "flags": [
     "score-provisorio",
@@ -9738,7 +9740,7 @@
    "classe": "oferta",
    "nicho": "cursos-genericos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -9765,27 +9767,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-14",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20saboaria%20tia%20rosy&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 4,
    "resumo": "Nome novo nesta passada (rotativo Monetizze). Curso basico de fabricacao de sabao, reclamante cita 'tia Rosy' como referencia do produto/vendedor. Mencao unica e fraca, vale so observar se reaparecer.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11334,7 +11335,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Direct%20Line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 15,
+   "n_citacoes": 16,
    "resumo": "App vendido por assinatura via Cakto. Comprador relata bugs e dificuldade para encontrar opção de cancelamento dentro do app. Estreia nesta passada.",
    "flags": [
     "score-provisorio",
@@ -11891,7 +11892,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Emcomedy&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -14112,7 +14113,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20de%20Concreto&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Curso de calistenia/treino ao ar livre estilo 'academia de concreto'. Nome novo, mencao unica, reclamacao de reembolso nao pago.",
    "flags": [
     "score-provisorio",
@@ -15619,7 +15620,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -15646,27 +15647,26 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-14",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-15",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Lift%20Gold&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 2,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-15",
+   "n_citacoes": 4,
    "resumo": "Nome novo nesta passada (rotativo Monetizze). Provavel suplemento/produto fisico com cobranca recorrente contestada por cliente antiga ('sou cliente antiga e ja paguei'). Vendedor nao identificado.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17379,7 +17379,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20Destrave%20Automatico%20mentoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 7,
+   "n_citacoes": 8,
    "resumo": "Mentoria vendida por afiliado via Cakto, cobranca de renovacao nao autorizada quase 1 ano depois da compra original. Nome novo, mencao unica -- vale so observar se reaparece.",
    "flags": [
     "score-provisorio",
@@ -17713,7 +17713,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Accent&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Curso de idioma (provavel ingles/accent reduction), nome novo com mencao unica. Reclamante diz nao conseguir avancar no curso e pede cancelamento.",
    "flags": [
     "score-provisorio",
@@ -18264,7 +18264,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Meus%20Socios&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Produto citado dentro de uma reclamacao de reembolso de 3 compras na PerfectPay (a mais cara das tres, R$197). Nome sugere oferta de parceria/sociedade de negocio ou comunidade paga; vendedor nao identificado na reclamacao. Primeira aparicao no radar.",
    "flags": [
     "score-provisorio",
@@ -20821,7 +20821,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Projeto%20100k&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Produto citado numa reclamacao generica de reembolso na Kiwify (titulo so 'Reembolso'). Compradora diz nao ter achado o nome do produtor. Nome sugere promessa de renda/meta financeira. Primeira aparicao no radar.",
    "flags": [
     "score-provisorio",
@@ -22726,7 +22726,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 20,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 58,
+   "n_citacoes": 59,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -24630,7 +24630,7 @@
    "arquivo": "Radar/2026-10-15.md",
    "data": "2026-10-15",
    "titulo": "Radar 2026-10-15",
-   "ofertas_vistas": 33,
+   "ofertas_vistas": 35,
    "novas": 14,
    "retornaram": 0,
    "sumiram": 0,
@@ -24640,13 +24640,14 @@
     "eduzz",
     "hotmart",
     "kiwify",
+    "monetizze",
     "payt",
     "perfectpay",
     "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 6,
+   "n_passadas": 7,
    "leitura": ""
   },
   {
@@ -25326,6 +25327,35 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-15 -- 2147.md",
+   "data": "2026-10-15",
+   "hora": "21:47",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "anunciaie",
+    "curso-de-saboaria-tia-rosy",
+    "direct-line-app",
+    "emcomedy",
+    "house-gym-academia-de-concreto",
+    "lift-gold",
+    "mentoria-mda-metodo-destrave-automatico",
+    "metodo-accent",
+    "meus-socios-as",
+    "projeto-100k",
+    "stalkeia-ai"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 15 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade anunciaie -- PerfectPay · mesma reclamacao, zero novidade ##…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-15 -- 1743.md",
    "data": "2026-10-15",
@@ -27660,7 +27690,7 @@
    "2026-10-12": 11,
    "2026-10-13": 18,
    "2026-10-14": 38,
-   "2026-10-15": 33
+   "2026-10-15": 35
   }
  },
  "analises": [
@@ -28259,7 +28289,6 @@
    "congresso-humanamente-salvador",
    "criaai",
    "curso-de-marketing-e-vendas-com-ia",
-   "curso-de-saboaria-tia-rosy",
    "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
    "curso-isabela-schonorr-linkedin",
    "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
@@ -28302,7 +28331,6 @@
    "laboratorio-de-influencers-ia",
    "laticinios-do-bem-mentor-marcelo-horta",
    "licao-kids",
-   "lift-gold",
    "little-genius",
    "mac-bruno-aguiar-3-0",
    "mentoria-do-matheus-borges",
@@ -28353,7 +28381,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1288
+   "canonico": 1290
   }
  },
  "vocabulario": {
@@ -28400,22 +28428,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "99fae103df2f24b6",
-  "atualizado_em": "2026-10-15T17:50:23-03:00",
+  "hash": "d6c1d697d047bc5e",
+  "atualizado_em": "2026-10-15T21:48:37-03:00",
   "ofertas": 356,
   "angulos": 89,
-  "observacoes": 843,
+  "observacoes": 845,
   "ultima_rodada": "2026-10-15",
   "ultima_passada": {
    "data": "2026-10-15",
-   "hora": "17:43",
+   "hora": "21:47",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "monetizze"
    ]
   }
  }

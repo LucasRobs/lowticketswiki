@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-14
-rodadas_vista: 1
+visto_ultimo: 2026-10-15
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-15
+
+1 mencao(oes) nesta varredura (gateway Monetizze). Reaparece na pagina 1 da Monetizze (gateway rotativo, sem varredura desde 14/10). Mesma reclamacao de acesso nao liberado, confirmada em dois dias diferentes -- sobe de fria/nova para morna.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/nao-consigo-acessar-meu-curso-de-saboaria-e-nao-tenho-retorno_XONb9SZDkN6OKW6Q/

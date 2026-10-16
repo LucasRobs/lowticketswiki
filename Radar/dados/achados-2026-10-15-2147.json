@@ -1,0 +1,200 @@
+{
+  "data_varredura": "2026-10-15",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288231, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19107, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50659, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78716, "paginas_varridas": 1},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 243, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Stalkeia",
+      "descricao": "Mesma reclamacao das passadas anteriores segue ativa na pagina 1 da PerfectPay. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/stalkeia-ia-nao-cumpre-o-que-promete_1qOOSCnIR45PgPXH/"
+    },
+    {
+      "produto": "Anunciaie / Anunciae",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 21,09 - R$ 155,88",
+      "termo_busca": "Anunciaie",
+      "descricao": "Mesma reclamacao de reembolso sem resposta do suporte, ja vista nas passadas anteriores. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/"
+    },
+    {
+      "produto": "Meus Socios(as)",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 197",
+      "termo_busca": "Meus Socios",
+      "descricao": "Mesma reclamacao de 'tres compras' das passadas anteriores, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/nao-consigo-cancelar-tres-compras-e-obter-reembolso-da-perfect-pay_gCON0wAUW3EZJPWO/"
+    },
+    {
+      "produto": "Direct Line (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Direct Line app",
+      "descricao": "Mesma reclamacao das passadas anteriores -- nao consegue cancelar app/assinatura. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-o-app-direct-line-e-a-assinatura_qrkw52eRA-a1OUvG/"
+    },
+    {
+      "produto": "Mentoria MDA (Metodo Destrave Automatico)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo Destrave Automatico mentoria",
+      "descricao": "Mesma reclamacao das passadas anteriores -- cobranca indevida de renovacao nao autorizada. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/fui-cobrado-indevidamente-pela-renovacao-da-mentoria-mda-que-nao-autorizei_ycbVgnu-PUqe32bz/"
+    },
+    {
+      "produto": "Emcomedy",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "cursos-diversos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Emcomedy",
+      "descricao": "Mesma reclamacao das passadas anteriores -- produto abaixo do esperado, suporte nao responde. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-reembolso-da-emcomedy-pois-produto-e-abaixo-do-esperado-e-suporte-nao-responde_uQpKTOkvPLiBCHhj/"
+    },
+    {
+      "produto": "Metodo Accent",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Accent",
+      "descricao": "Mesma reclamacao das passadas anteriores -- curso de idiomas, pedido de cancelamento. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-consigo-avancar-no-curso-metodo-accent-e-solicito-cancelamento_A6lcOvRrxEgOu6lV/"
+    },
+    {
+      "produto": "House Gym Academia de Concreto",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Academia de Concreto",
+      "descricao": "Mesma reclamacao das passadas anteriores -- reembolso de curso de treino. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-curso-house-gym-academia-de-concreto_13mPJRRA_J_gjVKK/"
+    },
+    {
+      "produto": "Projeto 100k",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Projeto 100k",
+      "descricao": "Mesma reclamacao 'Reembolso' das passadas anteriores, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/reembolso_NVE3VyqLjHMB5vaw/"
+    },
+    {
+      "produto": "cursos de venda no exterior (sem nome)",
+      "tipo": "angulo",
+      "gateway": "Kiwify",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "",
+      "descricao": "Mesma reclamacao da passada anterior -- dois cursos de 'vendas no exterior' cancelados no mesmo dia, sem nome de produto nem produtor. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/nao-recebi-o-estorno-de-dois-cursos-que-cancelei-no-mesmo-dia_44TVUf39Cxfxq7TA/"
+    },
+    {
+      "produto": "e-book de taro (78 mapas mentais)",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "espiritualidade-religiao",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "mapas mentais taro",
+      "descricao": "Mesma reclamacao das passadas anteriores -- e-book de Taro vendido na Hotmart entregue em espanhol. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/comprei-um-e-book-de-taro-e-ele-veio-em-espanhol-nao-consigo-usar_MWCV8A9d245KNvlz/"
+    },
+    {
+      "produto": "Curso preparatorio -- Professor Mateus",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-preparatorios-concursos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio Professor Mateus",
+      "descricao": "Mesma reclamacao das passadas anteriores -- cancelamento por emergencia familiar, compra de 07/09/2026. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-cancelar-curso-preparatorio-e-ser-reembolsado-por-emergencia-familiar_yGP-e2CZ2prPqRC7/"
+    },
+    {
+      "produto": "Curso preparatorio para CPA",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-preparatorios-concursos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso preparatorio CPA Anbima",
+      "descricao": "Mesmo titulo das passadas anteriores na pagina 1 da Hotmart -- nota fiscal do curso CPA. Zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-consigo-contato-para-incluir-dados-na-nf-do-curso-cpa_kAOxC5xnCoJMp_C_/"
+    },
+    {
+      "produto": "Lift Gold",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "saude-fitness",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Lift Gold",
+      "descricao": "Reaparece na pagina 1 da Monetizze (gateway rotativo, sem varredura desde 14/10). Mesma reclamacao de 14/10 (cliente antiga cobrada de novo), mas agora confirmada em dois dias diferentes -- sobe de fria/nova para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/"
+    },
+    {
+      "produto": "Curso de Saboaria (Tia Rosy)",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "cursos-genericos",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso saboaria tia Rosy",
+      "descricao": "Reaparece na pagina 1 da Monetizze (gateway rotativo, sem varredura desde 14/10). Mesma reclamacao de acesso nao liberado, confirmada em dois dias diferentes -- sobe de fria/nova para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-consigo-acessar-meu-curso-de-saboaria-e-nao-tenho-retorno_XONb9SZDkN6OKW6Q/"
+    }
+  ],
+  "passada": {
+    "hora": "21:47",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "monetizze"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[anunciaie]] -- PerfectPay · mesma reclamacao, zero novidade\n\n## Mornas\n- [[direct-line-app]] -- Cakto · mesma reclamacao, zero novidade\n- [[mentoria-mda-metodo-destrave-automatico]] -- Cakto · mesma reclamacao, zero novidade\n- [[lift-gold]] -- Monetizze · mesma reclamacao de 14/10, agora confirmada em 2 dias (sobe pra morna)\n- [[curso-de-saboaria-tia-rosy]] -- Monetizze · mesma reclamacao de 14/10, agora confirmada em 2 dias (sobe pra morna)\n\n## Frias (sem novidade)\n- [[metodo-accent]], [[house-gym-academia-de-concreto]], [[emcomedy]], [[meus-socios-as]], [[projeto-100k]] -- mesma reclamacao da passada anterior\n- angulo cursos de venda no exterior, angulo e-book de taro, angulo curso preparatorio Professor Mateus, angulo curso preparatorio CPA -- mesmo conteudo da passada anterior\n\nLeitura: janela de ~4h (17:43 a 21:47 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado pela 7a-8a passada seguida (agora tambem documentado desde 2026-10-04, intermitente ha semanas) -- pagina 2 e 3 testadas em perfectpay, cakto, kiwify e hotmart, todas devolveram 'Exibindo 0 de 0 reclamacoes'. Pagina 1 desses 4 gateways trouxe exatamente as mesmas reclamacoes, titulo por titulo e URL por URL, da passada das 17:43 -- zero novidade genuina. O gateway rotativo foi a Monetizze (sem varredura desde 14/10 21:46, a mais atrasada do ciclo monetizze/braip/payt/ticto/eduzz/yampi): pagina 2 e 4-6 vazias (mesmo bug), pagina 3 devolveu um lote de reclamacoes genericas de suporte/saque sem relacao aparente de data (provavel artefato do mesmo bug de cache, descartado). Pagina 1 da Monetizze trouxe as mesmas 5 reclamacoes de 14/10 (Lift Gold, curso de saboaria Tia Rosy e 3 operacionais sem nome de produto) -- sem achado novo, mas Lift Gold e Curso de Saboaria (Tia Rosy) agora tem presenca confirmada em dois dias diferentes, o suficiente pra subir de fria/nova para morna. Amostra pequena (5 gateways x 1 pagina util = 25 reclamacoes brutas, 8 abertas no detalhe) por causa do bug persistente, nao por falta de tentativa.",
+    "resumo": "8a+ passada seguida com o mesmo bug de paginacao do ReclameAqui (0 de 0 em qualquer pagina alem da 1), agora recorrente desde 04/10; zero achado genuinamente novo, mas Lift Gold e Curso de Saboaria (Tia Rosy) confirmam segundo dia de atividade na Monetizze e sobem para morna."
+  }
+}
