@@ -1,0 +1,19 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288294, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19145, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 1},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 42144, "paginas_varridas": 1}
+  ],
+  "achados": [],
+  "passada": {
+    "hora": "13:28",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 10,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n(nenhum novo nesta passada)\n\n## Mornas\n(nenhum novo nesta passada)\n\n## Frias (novas)\n(nenhuma)\n\nLeitura: janela de ~4h10 (09:17 a 13:28 Fortaleza). Bug de paginacao do ReclameAqui 100% reconfirmado -- testei pagina=2 ate pagina=10 em todos os 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, braip), mais de 25 chamadas, e so UMA retornou conteudo (braip pagina=3, com total levemente diferente da pagina 1 -- 42.057 vs 42.144 -- provavel cache tambem inconsistente, nao uma pagina 3 real). Todas as outras: 'Exibindo 0 de 0'. Pior: a pagina 1 de todos os 5 gateways trouxe as MESMAS reclamacoes ja registradas nas rodadas anteriores de hoje (Anunciaie/PerfectPay, CardPlay app/Cakto, Sistema B2Drop e Entendimento/Braip, IA Shop Pro/Kiwify, metodo DM2 e Academia DP/Hotmart) -- mesmas URLs de evidencia, sem reclamacao nova. O listing do ReclameAqui parece congelado nao so na paginacao mas tambem na propria pagina 1 para esses gateways ha pelo menos 4h10, e o historico do vault mostra Sistema B2Drop parado desde 04/10 e o bug de paginacao confirmado ha 14+ passadas consecutivas. Zero achado novo nesta passada.",
+    "resumo": "Coleta parcial: pagina 1 travada nas mesmas reclamacoes de hoje em todos os 5 gateways, paginacao 0/0 confirmada de novo -- zero achado novo."
+  }
+}
