@@ -1,0 +1,68 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 4021, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19145, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 1},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10647, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Shape Max Dance",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informada",
+      "termo_busca": "Shape Max Dance",
+      "descricao": "Curso/programa de dança para emagrecimento vendido via Ticto. Reclamação de propaganda enganosa publicada em 17/10, sem resposta da empresa. Primeira aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/comprei-aula-de-danca-e-recebi-propaganda-enganosa-quero-meu-dinheiro-de-volta_vO82jKO8tZTtQFmr/"
+    },
+    {
+      "produto": "Emissões Pro (Yago Alcantara)",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informada",
+      "termo_busca": "Emissões Pro Yago Alcantara",
+      "descricao": "Mentoria/produto digital de Yago Alcantara; o relato não identifica o nicho exato (reclamante só descreve como 'propaganda enganosa'), vendido via Ticto. Compra em 12/09, suporte some até vencer o prazo de reembolso. Primeira aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-recebi-o-produto-prometido-e-nao-obtive-reembolso_Sq3s5QQOQGjK9vpl/"
+    },
+    {
+      "produto": "Crochê Feliz (produtor Kevin)",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "artesanato-pdf",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informada",
+      "termo_busca": "Crochê Feliz",
+      "descricao": "Curso/apostila de crochê do produtor 'Kevin', vendido via Ticto. Nicho que normalmente aparece na Cakto; aqui apareceu na Ticto. Reclamação publicada em 16/10 sem valor informado. Primeira aparição no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/nao-consigo-acessar-o-curso-que-comprei-e-ninguem-resolve_XLwplutSjFRQ_zEi/"
+    },
+    {
+      "produto": "Operação TikTok Shop (sem marca identificada)",
+      "tipo": "angulo",
+      "gateway": "Ticto",
+      "nicho": "tiktok-shop",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49,60",
+      "termo_busca": "curso tiktok shop",
+      "descricao": "Curso/mentoria genérico chamado pelo reclamante de 'Operação TikTok Shop', pago R$ 49,60 via Pix em 14/10, vendido via Ticto. Sem marca clara identificada; nicho já mapeado no vault com outro produto ([[metodo-live-perpetua-tiktok-shop-liveflow-ia]]), mas esta reclamação não cita esse nome — pode ser operação diferente no mesmo nicho.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/solicito-reembolso-de-compra-no-valor-de-r-4960-via-pix_GwTnHdXekAeLhiEb/"
+    }
+  ],
+  "passada": {
+    "hora": "09:17",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n(nenhum novo nesta passada)\n\n## Mornas\n(nenhum novo nesta passada)\n\n## Frias (novas)\n- Shape Max Dance -- Ticto · curso de dança/emagrecimento, propaganda enganosa\n- Emissões Pro (Yago Alcantara) -- Ticto · mentoria, nicho não identificado no relato\n- Crochê Feliz (Kevin) -- Ticto · apostila de crochê, nicho de artesanato aparecendo fora da Cakto\n- Operação TikTok Shop -- Ticto · angulo, R$ 49,60 via Pix, sem marca clara\n\nLeitura: janela de ~8h20 (00:52 a 09:17 Fortaleza). Bug de paginação do ReclameAqui reconfirmado de novo -- página 2 continua devolvendo 'Exibindo 0 de 0 reclamações' em todos os gateways testados, agora há mais de 14 passadas seguidas desde 04/10. Pior: a página 1 de PerfectPay e Hotmart trouxe exatamente as mesmas 5 reclamações já vistas na passada anterior (mesmos títulos, mesmo texto, 'Há 10-12h' de publicação), ou seja, 0 reclamação nova nesses dois gateways em 8h20 -- a listagem parece estar presa/cacheada no lado do ReclameAqui, não só a paginação. Kiwify repetiu o Shop Pro (já rastreado) e Hotmart repetiu método DM2/artes sacra/pendrive/Academia DP, todos sem novidade (mesmo dia 17/10, não conta dia novo). O gateway rotativo foi Ticto (mais atrasado do ciclo, sem varredura dedicada desde 16/10 00:16) e foi o único que rendeu achados genuinamente novos: Shape Max Dance, Emissões Pro, Crochê Feliz e o ângulo TikTok Shop.",
+    "resumo": "Ticto (rotativo) trouxe 4 achados novos e frios; PerfectPay/Kiwify/Hotmart/Cakto ficaram travados na mesma página 1 de 8h atrás, sem novidade -- bug de paginação do ReclameAqui reconfirmado por 14a+ passada seguida."
+  }
+}

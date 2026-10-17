@@ -5,8 +5,8 @@
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
-   "ofertas_vistas": 11,
-   "novas": 1,
+   "ofertas_vistas": 15,
+   "novas": 5,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -14,11 +14,12 @@
     "hotmart",
     "kiwify",
     "monetizze",
-    "perfectpay"
+    "perfectpay",
+    "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-17\n\n## Novas\n\n- [[perfect-liss]] — beleza-estetica — nao informado — Nome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[trendly]] — ra_reclamacoes atualizado para 1\n- [[cashnopix]] — ra_reclamacoes atualizado para 6\n- [[cardplay-app]] — ra_reclamacoes atualizado para 1\n- [[shoppro]] — ra_reclamacoes atualizado para 1\n- [[metodo-dm2]] — ra_reclamacoes atualizado para 1\n- [[academia-dp]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-de-restauracao-de-arte-sacra]] — ra_reclamacoes atualizado para 1\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] — ra_reclamacoes atualizado para 1\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-17 -- 0052]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 11 achado(s) - Passada parcial (bug de paginacao persistente): zero nome novo nos 4 gateways fixos, Monetizze (rotativo) trouxe Perfect Liss novo e…\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-17\n\n## Novas\n\n- [[perfect-liss]] — beleza-estetica — nao informado — Nome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze…\n- [[shape-max-dance]] — saude-estetica-fitness — nao informada — Curso/programa de dança para emagrecimento vendido via Ticto. Reclamação de propaganda enganosa publicada em 17/10, sem resposta da…\n- [[emissoes-pro-yago-alcantara]] — marketing-faca-como-eu — nao informada — Mentoria/produto digital de Yago Alcantara; o relato não identifica o nicho exato (reclamante só descreve como 'propaganda enganosa')…\n- [[croche-feliz-produtor-kevin]] — artesanato-pdf — nao informada — Curso/apostila de crochê do produtor 'Kevin', vendido via Ticto. Nicho que normalmente aparece na Cakto; aqui apareceu na Ticto. Reclamação…\n- [[angulo-operacao-tiktok-shop-sem-marca-identificada]] — tiktok-shop — R$ 49,60 — Curso/mentoria genérico chamado pelo reclamante de 'Operação TikTok Shop', pago R$ 49,60 via Pix em 14/10, vendido via Ticto. Sem marca…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[trendly]] — ra_reclamacoes atualizado para 1\n- [[cashnopix]] — ra_reclamacoes atualizado para 6\n- [[cardplay-app]] — ra_reclamacoes atualizado para 1\n- [[shoppro]] — ra_reclamacoes atualizado para 1\n- [[metodo-dm2]] — ra_reclamacoes atualizado para 1\n- [[academia-dp]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-de-restauracao-de-arte-sacra]] — ra_reclamacoes atualizado para 1\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] — ra_reclamacoes atualizado para 1\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-17 -- 0052]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 11 achado(s) - Passada parcial (bug de paginacao persistente): zero nome novo nos 4 gateways fixos, Monetizze (rotativo) trouxe Perfect Liss novo e…\n- [[2026-10-17 -- 0917]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 4 achado(s) - Ticto (rotativo) trouxe 4 achados novos e frios; PerfectPay/Kiwify/Hotmart/Cakto ficaram travados na mesma página 1 de 8h atrás, sem…\n"
   },
   {
    "arquivo": "Radar/2026-10-16.md",
@@ -744,6 +745,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 0917.md",
+   "data": "2026-10-17",
+   "hora": "09:17",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-17]].\n\n# Rodada — 17/10/2026 · 09:17 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, ticto · **Páginas:** 1 · **Coleta:** parcial · **Achados:** 4\n\n## Quentes\n(nenhum novo nesta passada)\n\n## Mornas\n(nenhum novo nesta passada)\n\n## Frias (novas)\n- Shape Max Dance -- Ticto · curso de dança/emagrecimento, propaganda enganosa\n- Emissões Pro (Yago Alcantara) -- Ticto · mentoria, nicho não identificado no relato\n- Crochê Feliz (Kevin) -- Ticto · apostila de crochê, nicho de artesanato aparecendo fora da Cakto\n- Operação TikTok Shop -- Ticto · angulo, R$ 49,60 via Pix, sem marca clara\n\nLeitura: janela de ~8h20 (00:52 a 09:17 Fortaleza). Bug de paginação do ReclameAqui reconfirmado de novo -- página 2 continua devolvendo 'Exibindo 0 de 0 reclamações' em todos os gateways testados, agora há mais de 14 passadas seguidas desde 04/10. Pior: a página 1 de PerfectPay e Hotmart trouxe exatamente as mesmas 5 reclamações já vistas na passada anterior (mesmos títulos, mesmo texto, 'Há 10-12h' de publicação), ou seja, 0 reclamação nova nesses dois gateways em 8h20 -- a listagem parece estar presa/cacheada no lado do ReclameAqui, não só a paginação. Kiwify repetiu o Shop Pro (já rastreado) e Hotmart repetiu método DM2/artes sacra/pendrive/Academia DP, todos sem novidade (mesmo dia 17/10, não conta dia novo). O gateway rotativo foi Ticto (mais atrasado do ciclo, sem varredura dedicada desde 16/10 00:16) e foi o único que rendeu achados genuinamente novos: Shape Max Dance, Emissões Pro, Crochê Feliz e o ângulo TikTok Shop.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 0052.md",
    "data": "2026-10-17",

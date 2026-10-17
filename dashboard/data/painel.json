@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 362,
-  "angulos": 94,
-  "observacoes": 887,
+  "ofertas": 365,
+  "angulos": 95,
+  "observacoes": 891,
   "dias_radar": 39,
-  "passadas": 107,
+  "passadas": 108,
   "analises": 12,
   "ultima_rodada": "2026-10-17"
  },
@@ -4382,6 +4382,58 @@
    "ultima_obs": "2026-10-16",
    "n_citacoes": 2,
    "resumo": "Vendedor identificado como 'Oblivium Digital', mas o produto em si nao foi nomeado pelo reclamante. Pedido de cancelamento ignorado pelo vendedor.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-operacao-tiktok-shop-sem-marca-identificada",
+   "nome": "Operação TikTok Shop (sem marca identificada)",
+   "classe": "angulo",
+   "nicho": "tiktok-shop",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 49.6,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 49.6,
+   "s_ticket": 6,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.9,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20tiktok%20shop&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Curso/mentoria genérico chamado pelo reclamante de 'Operação TikTok Shop', pago R$ 49,60 via Pix em 14/10, vendido via Ticto. Sem marca clara identificada; nicho já mapeado no vault com outro produto (metodo-live-perpetua-tiktok-shop-liveflow-ia), mas esta…",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -9788,6 +9840,61 @@
    ]
   },
   {
+   "slug": "croche-feliz-produtor-kevin",
+   "nome": "Crochê Feliz (produtor Kevin)",
+   "classe": "oferta",
+   "nicho": "artesanato-pdf",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Crochê%20Feliz&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Curso/apostila de crochê do produtor 'Kevin', vendido via Ticto. Nicho que normalmente aparece na Cakto; aqui apareceu na Ticto. Reclamação publicada em 16/10 sem valor informado. Primeira aparição no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "cura-da-alma-devocional",
    "nome": "Cura da Alma — devocional diario para traumas e feridas",
    "classe": "oferta",
@@ -12338,6 +12445,61 @@
    "ultima_obs": "2026-10-16",
    "n_citacoes": 9,
    "resumo": "Nome novo. Comprador diz que produto ficou abaixo do esperado e suporte nao responde a pedido de reembolso; produto nao identificado no texto. Vale observar se reaparece.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "emissoes-pro-yago-alcantara",
+   "nome": "Emissões Pro (Yago Alcantara)",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Emissões%20Pro%20Yago%20Alcantara&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Mentoria/produto digital de Yago Alcantara; o relato não identifica o nicho exato (reclamante só descreve como 'propaganda enganosa'), vendido via Ticto. Compra em 12/09, suporte some até vencer o prazo de reembolso. Primeira aparição no radar.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
@@ -22786,6 +22948,61 @@
    ]
   },
   {
+   "slug": "shape-max-dance",
+   "nome": "Shape Max Dance",
+   "classe": "oferta",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "ticto",
+   "gateways": [
+    "ticto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Shape%20Max%20Dance&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Curso/programa de dança para emagrecimento vendido via Ticto. Reclamação de propaganda enganosa publicada em 17/10, sem resposta da empresa. Primeira aparição no radar.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "shop-cash-1",
    "nome": "Shop Cash 1.0",
    "classe": "oferta",
@@ -25243,8 +25460,8 @@
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
-   "ofertas_vistas": 11,
-   "novas": 1,
+   "ofertas_vistas": 15,
+   "novas": 5,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -25252,10 +25469,11 @@
     "hotmart",
     "kiwify",
     "monetizze",
-    "perfectpay"
+    "perfectpay",
+    "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": ""
   },
   {
@@ -25982,6 +26200,23 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 0917.md",
+   "data": "2026-10-17",
+   "hora": "09:17",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 1 · Coleta: parcial · Achados: 4 ## Quentes (nenhum novo nesta passada) ## Mornas (nenhum novo nesta passada) ## Frias (novas) Shape Max Dance -- Ticto · curso de…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 0052.md",
    "data": "2026-10-17",
@@ -28491,8 +28726,8 @@
     "angulo": 5
    },
    "2026-10-17": {
-    "oferta": 1,
-    "angulo": 0
+    "oferta": 4,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -28533,7 +28768,7 @@
    "2026-10-14": 38,
    "2026-10-15": 35,
    "2026-10-16": 31,
-   "2026-10-17": 11
+   "2026-10-17": 15
   }
  },
  "analises": [
@@ -29002,49 +29237,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 362
+    "total": 365
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 362
+    "total": 365
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 362
+    "total": 365
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 333,
-    "total": 362
+    "preenchidas": 336,
+    "total": 365
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 177,
-    "total": 362
+    "total": 365
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 362
+    "total": 365
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 362
+    "total": 365
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 305,
-    "total": 362
+    "preenchidas": 308,
+    "total": 365
    }
   ],
   "fila_enriquecimento": [
@@ -29250,7 +29485,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1343
+   "canonico": 1351
   }
  },
  "vocabulario": {
@@ -29297,22 +29532,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "ddf56344872ea2a4",
-  "atualizado_em": "2026-10-17T00:56:24-03:00",
-  "ofertas": 362,
-  "angulos": 94,
-  "observacoes": 887,
+  "hash": "50489f523c976a53",
+  "atualizado_em": "2026-10-17T09:18:14-03:00",
+  "ofertas": 365,
+  "angulos": 95,
+  "observacoes": 891,
   "ultima_rodada": "2026-10-17",
   "ultima_passada": {
    "data": "2026-10-17",
-   "hora": "00:52",
+   "hora": "09:17",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "monetizze"
+    "ticto"
    ]
   }
  }
