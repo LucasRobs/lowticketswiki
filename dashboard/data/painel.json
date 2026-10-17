@@ -1,13 +1,13 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 361,
+  "ofertas": 362,
   "angulos": 94,
-  "observacoes": 876,
-  "dias_radar": 38,
-  "passadas": 106,
+  "observacoes": 887,
+  "dias_radar": 39,
+  "passadas": 107,
   "analises": 12,
-  "ultima_rodada": "2026-10-16"
+  "ultima_rodada": "2026-10-17"
  },
  "ofertas": [
   {
@@ -624,7 +624,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -651,21 +651,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20DP&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 3,
    "resumo": "Nome novo no radar. Compra feita via Pix em 07/10, reembolso nao recebido; reclamacao publicada so em 16/10. Produtor e valor nao identificados no texto.",
    "flags": [
     "score-provisorio",
@@ -2805,11 +2805,13 @@
    "classe": "angulo",
    "nicho": "cursos-profissionalizantes",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -2830,21 +2832,21 @@
    "score": 0.7,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20restauracao%20de%20arte%20sacra&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 2,
    "resumo": "Angulo novo e raro: curso online de restauracao de arte sacra, pago via Pix, nunca recebido. Produtor nao identificado. Nicho de curso profissionalizante de ticket provavelmente alto, pouco visto no radar -- vale buscar na Biblioteca de Anuncios so pra…",
    "flags": [
     "sem-longevidade",
@@ -4769,11 +4771,13 @@
    "classe": "angulo",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "hotmart"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -4794,21 +4798,21 @@
    "score": 0.7,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20pendrive&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 2,
    "resumo": "Angulo de propaganda enganosa classico: anuncio promete pen-drive fisico com o conteudo, comprador recebe so acesso online. Produto e produtor nao identificados nesta reclamacao, mas o mecanismo (bait-and-switch fisico->digital) e recorrente em varios nichos…",
    "flags": [
     "sem-longevidade",
@@ -5405,7 +5409,8 @@
    "resumo": "Curso preparatorio para certificacao CPA, problema de nota fiscal. Mesma reclamacao ja conhecida, zero novidade.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5459,7 +5464,8 @@
    "resumo": "Dois cursos sobre vender/trabalhar no exterior, cancelados no mesmo dia (08/10). Mesma reclamacao ja conhecida, zero novidade.",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -5674,7 +5680,8 @@
    "resumo": "Reclamante relata 16 compras distintas entre 09/10 e 15/10 (R$49,90 a R$700,00, total ~R$4.136), todas dentro de uma promessa de trabalho/renda, sem nome de produto nem produtor identificados. Padrao de upsell/order bump muito agressivo e escalonado -- sinal…",
    "flags": [
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -8179,7 +8186,7 @@
    "classe": "oferta",
    "nicho": "app-assinatura",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8208,21 +8215,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=CardPlay%20app&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 4,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 6,
    "resumo": "Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao responde no WhatsApp, pede estorno. Primeira vez que aparece no radar.",
    "flags": [
     "score-provisorio",
@@ -8376,21 +8383,21 @@
    "score": 5.55,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 8,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 9,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 6,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://cashnopix.net/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cash%20no%20Pix&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 14,
+   "n_obs": 9,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 16,
    "resumo": "Ganhe avaliando produtos / assistindo videos, com saldo acumulado em cashback via Pix. Grafias: Cashnopix, Cash no Pix, Cash Pix.",
    "flags": [
     "lucro-sem-medicao",
@@ -9943,7 +9950,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -16083,21 +16091,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-14",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Lift%20Gold&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 6,
    "resumo": "Nome novo nesta passada (rotativo Monetizze). Provavel suplemento/produto fisico com cobranca recorrente contestada por cliente antiga ('sou cliente antiga e ja paguei'). Vendedor nao identificado.",
    "flags": [
     "score-provisorio",
@@ -16820,7 +16828,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -18329,7 +18338,7 @@
    "classe": "oferta",
    "nicho": "saude-bem-estar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -18356,21 +18365,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20DM2&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 3,
    "resumo": "Nome novo no radar, vazou no proprio titulo da reclamacao ('Quero reembolso do metodo DM2'). Pagina de detalhe nao abriu (erro de servidor, 2 tentativas). 'DM2' e abreviacao comum para diabetes mellitus tipo 2 em portugues -- hipotese nao confirmada de nicho…",
    "flags": [
     "score-provisorio",
@@ -20599,6 +20608,61 @@
    "resumo": "pay.hotmart.com/Q107143997G · R$ 27,90 (ancorado em R$ 369) · garantia 7 dias · 19 dias no ar.",
    "flags": [
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "perfect-liss",
+   "nome": "Perfect Liss",
+   "classe": "oferta",
+   "nicho": "beleza-estetica",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "monetizze",
+   "gateways": [
+    "monetizze"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Perfect%20Liss%20progressiva&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Nome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze aparece como reclamada (plataforma ou vendedora, nao esclarecido).",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -22868,21 +22932,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopPro&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 6,
    "resumo": "Curso de e-commerce/loja online; comprador não se identificou com o conteúdo e teve demora no reembolso apesar de promessa de devolução rápida. Nome extraído do corpo da reclamação (confirmar antes de usar como termo de busca).",
    "flags": [
     "score-provisorio",
@@ -23261,21 +23325,21 @@
    "score": 5.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 19,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 20,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 28,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://www.stalkea.ai/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
-   "n_obs": 21,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 66,
+   "n_obs": 22,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 68,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -24041,21 +24105,21 @@
    "score": 4.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-23",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "2026-08-22",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 11,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 13,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -25176,6 +25240,25 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-10-17.md",
+   "data": "2026-10-17",
+   "titulo": "Radar 2026-10-17",
+   "ofertas_vistas": 11,
+   "novas": 1,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "monetizze",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": ""
+  },
+  {
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
@@ -25899,6 +25982,32 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 0052.md",
+   "data": "2026-10-17",
+   "hora": "00:52",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "academia-dp",
+    "cardplay-app",
+    "cashnopix",
+    "lift-gold",
+    "metodo-dm2",
+    "shoppro",
+    "stalkeia-ai",
+    "trendly"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 11 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade cashnopix -- PerfectPay · mesma reclamacao, zero novidade…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 2146.md",
    "data": "2026-10-16",
@@ -28380,6 +28489,10 @@
    "2026-10-16": {
     "oferta": 5,
     "angulo": 5
+   },
+   "2026-10-17": {
+    "oferta": 1,
+    "angulo": 0
    }
   },
   "observacoes": {
@@ -28419,7 +28532,8 @@
    "2026-10-13": 18,
    "2026-10-14": 38,
    "2026-10-15": 35,
-   "2026-10-16": 31
+   "2026-10-16": 31,
+   "2026-10-17": 11
   }
  },
  "analises": [
@@ -28888,49 +29002,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 361
+    "total": 362
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 361
+    "total": 362
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 361
+    "total": 362
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 332,
-    "total": 361
+    "preenchidas": 333,
+    "total": 362
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 177,
-    "total": 361
+    "total": 362
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 361
+    "total": 362
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 361
+    "total": 362
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 304,
-    "total": 361
+    "preenchidas": 305,
+    "total": 362
    }
   ],
   "fila_enriquecimento": [
@@ -29008,9 +29122,12 @@
    "angulo-sem-nome-assinatura-recorrente-nao-reconhecida-plano-premium",
    "angulo-sem-nome-chuteiras-via-loja-tk-importes",
    "angulo-sem-nome-curso-com-instalacao-de-apps-gerando-comissao-para-instrutor",
+   "angulo-sem-nome-curso-preparatorio-cpa",
+   "angulo-sem-nome-dois-cursos-de-venda-no-exterior",
    "angulo-sem-nome-ebook-com-suporte-via-whatsapp-nao-entregue",
    "angulo-sem-nome-guia-digital-de-cuidados-com-bicicleta",
    "angulo-sem-nome-licenca-para-trabalhar-no-facebook",
+   "angulo-sem-nome-promessa-de-trabalho-renda-com-upsell-escalonado",
    "angulo-suplemento-nao-identificado",
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
@@ -29036,6 +29153,7 @@
    "comunidade-influencers-ia-ascensao",
    "congresso-humanamente-salvador",
    "criaai",
+   "curso-brenda-bhaskar",
    "curso-de-marketing-e-vendas-com-ia",
    "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
    "curso-isabela-schonorr-linkedin",
@@ -29080,6 +29198,7 @@
    "laticinios-do-bem-mentor-marcelo-horta",
    "licao-kids",
    "little-genius",
+   "lucennto",
    "mac-bruno-aguiar-3-0",
    "maquina-de-vendas-realizada-mvr",
    "mentoria-do-matheus-borges",
@@ -29131,7 +29250,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1331
+   "canonico": 1343
   }
  },
  "vocabulario": {
@@ -29178,22 +29297,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "4104c378c295ea38",
-  "atualizado_em": "2026-10-16T21:49:43-03:00",
-  "ofertas": 361,
+  "hash": "ddf56344872ea2a4",
+  "atualizado_em": "2026-10-17T00:56:24-03:00",
+  "ofertas": 362,
   "angulos": 94,
-  "observacoes": 876,
-  "ultima_rodada": "2026-10-16",
+  "observacoes": 887,
+  "ultima_rodada": "2026-10-17",
   "ultima_passada": {
-   "data": "2026-10-16",
-   "hora": "21:46",
+   "data": "2026-10-17",
+   "hora": "00:52",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "payt"
+    "monetizze"
    ]
   }
  }

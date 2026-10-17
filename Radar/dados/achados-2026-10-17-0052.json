@@ -1,0 +1,152 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288277, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 0, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 1},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 64206, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 44-55 (cobrancas recorrentes)",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram, grafias Stalkeia/Stalkea. Mesma reclamacao da rodada anterior (21:46) -- zero novidade, apenas confirma presenca continua.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-servico-enganoso-no-e-quero-estorno_1K5fva5lYbNP8xmH/"
+    },
+    {
+      "produto": "Trendly",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 299 (vitalicio)",
+      "termo_busca": "Trendly",
+      "descricao": "Ferramenta de pesquisa de tendencias vendida como acesso vitalicio por R$299. Mesma reclamacao das rodadas anteriores -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/"
+    },
+    {
+      "produto": "Cash no Pix",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 39 entrada / ticket medio ~R$107",
+      "termo_busca": "Cash no Pix",
+      "descricao": "Angulo de renda extra via cashback/Pix que ja revelou o nome 'Cash no Pix'. Mesma reclamacao das rodadas anteriores (promessa de trabalho, reembolso negado) -- zero novidade, mas confirma presenca sustentada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/"
+    },
+    {
+      "produto": "CardPlay",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "financas-cartao-virtual",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "CardPlay",
+      "descricao": "App de cartao virtual, reclamacao pedindo estorno via Pix. Mesma reclamacao de 16/10, agora confirmada em segundo dia diferente (16/10 e 17/10) -- sobe de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-valor-pago-via-pix-pelo-app-cardplay_E52u_fjCj_6DS34k/"
+    },
+    {
+      "produto": "ShopPro / IA Shop Pro",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "negocio-online-ecommerce",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "ShopPro",
+      "descricao": "Curso/ferramenta de e-commerce com IA. Mesma reclamacao ja catalogada, agora confirmada em terceiro dia diferente (04/10, 16/10 e 17/10) -- sobe de morna para quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-reembolso-urgente-do-curso-ia-shop-pro-nao-estornado-em-6-dias_f5Xo90i_9ZrkGn9b/"
+    },
+    {
+      "produto": "Metodo DM2",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "nao-identificado",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Metodo DM2",
+      "descricao": "Nome vaza no titulo, pagina de detalhe nao abre. Mesma reclamacao de 16/10, agora confirmada em segundo dia diferente -- sobe de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-reembolso-do-metodo-dm2_Nt-_xyTbBeEyDZnm/"
+    },
+    {
+      "produto": "Academia DP",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "nao-identificado",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Academia DP",
+      "descricao": "Curso comprado via Pix, reembolso nao recebido. Mesma reclamacao de 16/10, agora confirmada em segundo dia diferente -- sobe de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-recebi-o-reembolso-do-curso-academia-dp-pago-via-pix_X7-b7e89xvLt34ck/"
+    },
+    {
+      "produto": "angulo curso de restauracao de arte sacra",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "arte-restauracao",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "curso restauracao arte sacra",
+      "descricao": "Nicho raro, vendedor nao identificado, compra via Pix. Mesma reclamacao de 16/10, agora confirmada em segundo dia diferente -- sobe de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-recebi-meu-curso-online-de-restauracao-de-artes-sacras-apos-pagamento-via-pix_yUFJgZetTxiDIeOV/"
+    },
+    {
+      "produto": "angulo pendrive anunciado, entrega so acesso online",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "info-produto-generico",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "curso pendrive",
+      "descricao": "Mecanismo classico de propaganda enganosa (pendrive fisico anunciado, so acesso online entregue). Mesma reclamacao de 16/10, agora confirmada em segundo dia diferente -- sobe de fria para morna.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-enganado-com-propaganda-de-pen-drive-e-recebi-apenas-acesso-online_q7WBMk5ZvwKDD5Ay/"
+    },
+    {
+      "produto": "Lift Gold",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Lift Gold",
+      "descricao": "Suplemento/produto fisico com cobranca recorrente contestada (cliente antiga cobrada de novo). Mesma reclamacao de 14/10 e 15/10, agora confirmada em terceiro dia diferente -- sobe de morna para quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/"
+    },
+    {
+      "produto": "Perfect Liss",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "beleza-estetica",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Perfect Liss progressiva",
+      "descricao": "Nome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze aparece como reclamada (plataforma ou vendedora, nao esclarecido).",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/"
+    }
+  ],
+  "passada": {
+    "hora": "00:52",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "monetizze"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[cashnopix]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[lift-gold]] -- Monetizze · 3o dia diferente (14/10, 15/10, 17/10), sobe pra quente\n- [[shoppro]] -- Kiwify · 3o dia diferente (04/10, 16/10, 17/10), sobe pra quente\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[cardplay-app]] -- Cakto · 2o dia diferente, sobe de fria pra morna\n- [[metodo-dm2]], [[academia-dp]] -- Hotmart · 2o dia diferente, sobem de fria pra morna\n- angulo arte sacra, angulo pendrive -- Hotmart · 2o dia diferente, sobem de fria pra morna\n\n## Frias (novas)\n- Perfect Liss -- Monetizze · progressiva capilar fisica, Pix em 22/09, vendedor nao identificado\n\nLeitura: janela de ~3h (21:46 a 00:52 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado mais uma vez (pagina 2 testada em PerfectPay, devolveu 'Exibindo 0 de 0 reclamacoes' de novo) -- ja mais de 13 passadas seguidas confirmando o mesmo travamento desde 04/10. Amostra pequena por causa disso (5 gateways x 1 pagina util = 25 reclamacoes brutas, 6 abertas no detalhe), nao por falta de tentativa. Nenhum nome genuinamente novo em PerfectPay/Cakto/Kiwify/Hotmart -- a virada de dia (16/10 para 17/10) empurrou varios achados de fria pra morna so por presenca confirmada em dois dias, nao por volume real. Gateway rotativo foi Monetizze (mais atrasado do ciclo monetizze/braip/payt/ticto/eduzz/yampi, sem varredura dedicada desde 15/10 21:47), que trouxe Lift Gold reconfirmado (sobe a quente) e Perfect Liss como nome novo -- produto fisico (progressiva capilar), fora do padrao infoproduto mas dentro do perfil nutra/fisico que a Monetizze costuma trazer.",
+    "resumo": "Passada parcial (bug de paginacao persistente): zero nome novo nos 4 gateways fixos, Monetizze (rotativo) trouxe Perfect Liss novo e confirmou Lift Gold como quente."
+  }
+}

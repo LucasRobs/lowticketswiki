@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-10-16
-rodadas_vista: 3
+visto_ultimo: 2026-10-17
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-08-22"
-ra_checado: 2026-10-16
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -62,3 +62,9 @@ PerfectPay, mesma reclamacao do vitalicio de R$ 299. Sem alteracao.
 1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida vitalicia. Reclamacao: promessa de suporte nao cumprida, pedido de reembolso.
 
 Evidencia: 
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida como acesso vitalicio por R$299. Mesma reclamacao das rodadas anteriores -- zero novidade.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/

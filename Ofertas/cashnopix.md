@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-16
-rodadas_vista: 8
+visto_ultimo: 2026-10-17
+rodadas_vista: 9
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 6
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-16
+ra_checado: 2026-10-17
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -128,5 +128,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 ## Rodada 2026-10-16
 
 1 mencao(oes) nesta varredura (gateway PerfectPay). Mesma reclamacao ja catalogada hoje sob o angulo sem-nome 'promessa de trabalho/renda com upsell escalonado', mas o texto cita explicitamente 'Cash no Pix' -- liga esse angulo a oferta Cashnopix ja existente no vault (ultima vez vista 11/10, agora reconfirmada 16/10, 5 dias depois). Reclamante fez 16 compras entre 09 e 15/10 totalizando R$4.136,43, de R$49,90 a R$497 -- evidencia forte de escada de upsell/order bump bem agressiva sustentando o ticket medio.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Angulo de renda extra via cashback/Pix que ja revelou o nome 'Cash no Pix'. Mesma reclamacao das rodadas anteriores (promessa de trabalho, reembolso negado) -- zero novidade, mas confirma presenca sustentada.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/

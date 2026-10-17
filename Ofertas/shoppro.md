@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-16
-rodadas_vista: 2
+visto_ultimo: 2026-10-17
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [hotmart, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-16
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-16
 
 1 mencao(oes) nesta varredura (gateway Kiwify). Curso/ferramenta de loja com IA vendido via Kiwify; reclamação por reembolso não estornado em 6 dias. Primeira aparição no radar.
+
+Evidencia: https://www.reclameaqui.com.br/kiwify/solicito-reembolso-urgente-do-curso-ia-shop-pro-nao-estornado-em-6-dias_f5Xo90i_9ZrkGn9b/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway Kiwify). Curso/ferramenta de e-commerce com IA. Mesma reclamacao ja catalogada, agora confirmada em terceiro dia diferente (04/10, 16/10 e 17/10) -- sobe de morna para quente.
 
 Evidencia: https://www.reclameaqui.com.br/kiwify/solicito-reembolso-urgente-do-curso-ia-shop-pro-nao-estornado-em-6-dias_f5Xo90i_9ZrkGn9b/
