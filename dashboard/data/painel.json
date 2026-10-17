@@ -2,10 +2,10 @@
  "esquema": 1,
  "totais": {
   "ofertas": 365,
-  "angulos": 95,
-  "observacoes": 894,
+  "angulos": 96,
+  "observacoes": 896,
   "dias_radar": 39,
-  "passadas": 109,
+  "passadas": 110,
   "analises": 12,
   "ultima_rodada": "2026-10-17"
  },
@@ -3515,11 +3515,13 @@
    "classe": "angulo",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "perfectpay"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -3540,26 +3542,25 @@
    "score": 0.7,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-12",
-   "visto_ultimo": "2026-10-12",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-12",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=avaliar%20produtos%20ganhar%20dinheiro&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-12",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 3,
    "resumo": "Anuncio em redes sociais promete renda extra avaliando produtos/empresas; comprador paga e nao recebe acesso nem produto. Angulo classico de renda passiva falsa.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -3778,6 +3779,58 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-kit-de-resveratrol-americano-gotas",
+   "nome": "Kit de resveratrol americano (gotas)",
+   "classe": "angulo",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=resveratrol%20gotas&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Produto fisico (suplemento em gotas) nao entregue apos mais de um mes da compra via Braip. Reclamante nao identifica vendedor/produtor, so a Braip como gateway. Encaixa no perfil nutra/encapsulado tipico da Braip.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
    ]
   },
   {
@@ -25460,11 +25513,12 @@
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
-   "ofertas_vistas": 18,
-   "novas": 5,
+   "ofertas_vistas": 20,
+   "novas": 6,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "hotmart",
     "kiwify",
@@ -25473,7 +25527,7 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
+   "n_passadas": 4,
    "leitura": ""
   },
   {
@@ -26200,6 +26254,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 1323.md",
+   "data": "2026-10-17",
+   "hora": "13:23",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-esquema-de-avaliacao-de-produtos-renda-extra"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, braip · Páginas: 2 · Coleta: parcial · Achados: 2 ## Quentes (nenhum novo nesta passada) ## Mornas angulo-esquema-de-avaliacao-de-produtos-renda-extra — PerfectPay · reaparece em dia…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 0917.md",
    "data": "2026-10-17",
@@ -28753,7 +28826,7 @@
    },
    "2026-10-17": {
     "oferta": 4,
-    "angulo": 1
+    "angulo": 2
    }
   },
   "observacoes": {
@@ -28794,7 +28867,7 @@
    "2026-10-14": 38,
    "2026-10-15": 35,
    "2026-10-16": 31,
-   "2026-10-17": 18
+   "2026-10-17": 20
   }
  },
  "analises": [
@@ -29359,7 +29432,6 @@
    "angulo-cursos-de-venda-no-exterior-sem-nome",
    "angulo-ebook-modelo-de-curriculo",
    "angulo-ebook-produto-digital-com-erro-de-acesso-sem-nome",
-   "angulo-esquema-de-avaliacao-de-produtos-renda-extra",
    "angulo-funil-escalonado-de-3-cobrancas-sem-nome",
    "angulo-golpe-de-taxa-para-liberar-pagamento-emprestimo",
    "angulo-guia-digital-de-100-receitas-para-pets",
@@ -29511,7 +29583,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1354
+   "canonico": 1357
   }
  },
  "vocabulario": {
@@ -29558,22 +29630,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "40476cf1ac74efa1",
-  "atualizado_em": "2026-10-17T09:20:18-03:00",
+  "hash": "092465975dce01d7",
+  "atualizado_em": "2026-10-17T13:28:08-03:00",
   "ofertas": 365,
-  "angulos": 95,
-  "observacoes": 894,
+  "angulos": 96,
+  "observacoes": 896,
   "ultima_rodada": "2026-10-17",
   "ultima_passada": {
    "data": "2026-10-17",
-   "hora": "09:17",
+   "hora": "13:23",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "ticto"
+    "braip"
    ]
   }
  }

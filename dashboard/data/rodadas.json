@@ -5,11 +5,12 @@
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
-   "ofertas_vistas": 18,
-   "novas": 5,
+   "ofertas_vistas": 20,
+   "novas": 6,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
+    "braip",
     "cakto",
     "hotmart",
     "kiwify",
@@ -18,8 +19,8 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 3,
-   "corpo": "# Radar 2026-10-17\n\n## Novas\n\n- [[perfect-liss]] — beleza-estetica — nao informado — Nome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze…\n- [[shape-max-dance]] — saude-estetica-fitness — nao informada — Curso/programa de dança para emagrecimento vendido via Ticto. Reclamação de propaganda enganosa publicada em 17/10, sem resposta da…\n- [[emissoes-pro-yago-alcantara]] — marketing-faca-como-eu — nao informada — Mentoria/produto digital de Yago Alcantara; o relato não identifica o nicho exato (reclamante só descreve como 'propaganda enganosa')…\n- [[croche-feliz-produtor-kevin]] — artesanato-pdf — nao informada — Curso/apostila de crochê do produtor 'Kevin', vendido via Ticto. Nicho que normalmente aparece na Cakto; aqui apareceu na Ticto. Reclamação…\n- [[angulo-operacao-tiktok-shop-sem-marca-identificada]] — tiktok-shop — R$ 49,60 — Curso/mentoria genérico chamado pelo reclamante de 'Operação TikTok Shop', pago R$ 49,60 via Pix em 14/10, vendido via Ticto. Sem marca…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[trendly]] — ra_reclamacoes atualizado para 1\n- [[cashnopix]] — ra_reclamacoes atualizado para 6\n- [[cardplay-app]] — ra_reclamacoes atualizado para 1\n- [[shoppro]] — ra_reclamacoes atualizado para 1\n- [[metodo-dm2]] — ra_reclamacoes atualizado para 1\n- [[academia-dp]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-de-restauracao-de-arte-sacra]] — ra_reclamacoes atualizado para 1\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] — ra_reclamacoes atualizado para 1\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 2\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n- [[protocolo-leite-sem-fim]] — ra_reclamacoes atualizado para 5\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-17 -- 0052]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 11 achado(s) - Passada parcial (bug de paginacao persistente): zero nome novo nos 4 gateways fixos, Monetizze (rotativo) trouxe Perfect Liss novo e…\n- [[2026-10-17 -- 0917]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 4 achado(s) - Ticto (rotativo) trouxe 4 achados novos e frios; PerfectPay/Kiwify/Hotmart/Cakto ficaram travados na mesma página 1 de 8h atrás, sem…\n- [[2026-10-17 -- 0913]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela de 8h20 sem nome genuinamente novo; anunciaie sobe a quente (3o dia) e IA Shop Pro sobe a morna, bug de paginacao do RA confirmado…\n"
+   "n_passadas": 4,
+   "corpo": "# Radar 2026-10-17\n\n## Novas\n\n- [[perfect-liss]] — beleza-estetica — nao informado — Nome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze…\n- [[shape-max-dance]] — saude-estetica-fitness — nao informada — Curso/programa de dança para emagrecimento vendido via Ticto. Reclamação de propaganda enganosa publicada em 17/10, sem resposta da…\n- [[emissoes-pro-yago-alcantara]] — marketing-faca-como-eu — nao informada — Mentoria/produto digital de Yago Alcantara; o relato não identifica o nicho exato (reclamante só descreve como 'propaganda enganosa')…\n- [[croche-feliz-produtor-kevin]] — artesanato-pdf — nao informada — Curso/apostila de crochê do produtor 'Kevin', vendido via Ticto. Nicho que normalmente aparece na Cakto; aqui apareceu na Ticto. Reclamação…\n- [[angulo-operacao-tiktok-shop-sem-marca-identificada]] — tiktok-shop — R$ 49,60 — Curso/mentoria genérico chamado pelo reclamante de 'Operação TikTok Shop', pago R$ 49,60 via Pix em 14/10, vendido via Ticto. Sem marca…\n- [[angulo-kit-de-resveratrol-americano-gotas]] — saude-estetica-fitness — nao informado — Produto fisico (suplemento em gotas) nao entregue apos mais de um mes da compra via Braip. Reclamante nao identifica vendedor/produtor, so…\n\n## Movimento\n\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 28\n- [[trendly]] — ra_reclamacoes atualizado para 1\n- [[cashnopix]] — ra_reclamacoes atualizado para 6\n- [[cardplay-app]] — ra_reclamacoes atualizado para 1\n- [[shoppro]] — ra_reclamacoes atualizado para 1\n- [[metodo-dm2]] — ra_reclamacoes atualizado para 1\n- [[academia-dp]] — ra_reclamacoes atualizado para 1\n- [[angulo-curso-de-restauracao-de-arte-sacra]] — ra_reclamacoes atualizado para 1\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] — ra_reclamacoes atualizado para 1\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n- [[anunciaie]] — ra_reclamacoes atualizado para 2\n- [[capcut-desktop-revenda-via-ticto]] — ra_reclamacoes atualizado para 1\n- [[protocolo-leite-sem-fim]] — ra_reclamacoes atualizado para 5\n- [[angulo-esquema-de-avaliacao-de-produtos-renda-extra]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-17 -- 0052]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 11 achado(s) - Passada parcial (bug de paginacao persistente): zero nome novo nos 4 gateways fixos, Monetizze (rotativo) trouxe Perfect Liss novo e…\n- [[2026-10-17 -- 0917]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 4 achado(s) - Ticto (rotativo) trouxe 4 achados novos e frios; PerfectPay/Kiwify/Hotmart/Cakto ficaram travados na mesma página 1 de 8h atrás, sem…\n- [[2026-10-17 -- 0913]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 10 achado(s) - Janela de 8h20 sem nome genuinamente novo; anunciaie sobe a quente (3o dia) e IA Shop Pro sobe a morna, bug de paginacao do RA confirmado…\n- [[2026-10-17 -- 1323]] - perfectpay, cakto-pay, kiwify, hotmart, braip - 2 achado(s) - Janela de 7h sem nome novo em 4 dos 5 gateways (bug de paginacao reconfirmado pela 15a+ vez); Braip (rotativo) trouxe kit de resveratrol…\n"
   },
   {
    "arquivo": "Radar/2026-10-16.md",
@@ -745,6 +746,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 1323.md",
+   "data": "2026-10-17",
+   "hora": "13:23",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "braip"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-esquema-de-avaliacao-de-produtos-renda-extra"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-17]].\n\n# Rodada — 17/10/2026 · 13:23 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, braip · **Páginas:** 2 · **Coleta:** parcial · **Achados:** 2\n\n## Quentes\n(nenhum novo nesta passada)\n\n## Mornas\n- [[angulo-esquema-de-avaliacao-de-produtos-renda-extra]] — PerfectPay · reaparece em dia distinto (12/10 -> 16/10), golpe de renda avaliando produtos via Pix\n\n## Frias (novas)\n- Kit de resveratrol americano (gotas) -- Braip · suplemento fisico nao entregue, sem vendedor identificado\n\nLeitura: janela de ~7h (09:17 a 16:23 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado de novo nos 5 gateways testados -- pagina 2 devolveu 'Exibindo 0 de 0 reclamacoes' em todos (perfectpay, cakto-pay, kiwify, hotmart, braip), apesar dos paineis mostrarem de 19 mil a 288 mil reclamacoes ativas. Ja mais de 15 passadas seguidas confirmando o mesmo travamento desde 04/10 -- nao e especifico de gateway, e do site. Pagina 1 de PerfectPay, Cakto, Kiwify e Hotmart trouxe exatamente as mesmas reclamacoes ja catalogadas nas passadas de hoje (CardPlay, Anunciaie, metodo DM2, Academia DP, arte sacra, pendrive, Shop Pro) -- 0 nome novo nesses 4 gateways em 7h. O gateway rotativo foi Braip (mais atrasado do ciclo, sem varredura dedicada desde 16/10 10:41), que trouxe o unico achado genuinamente novo da passada (resveratrol) e confirmou o angulo de avaliacao remunerada reaparecendo num dia diferente via PerfectPay.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 0917.md",
    "data": "2026-10-17",

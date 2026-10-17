@@ -1,0 +1,44 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288294, "paginas_varridas": 2},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19145, "paginas_varridas": 2},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 2},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 2},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 42176, "paginas_varridas": 2}
+  ],
+  "achados": [
+    {
+      "produto": "Kit de resveratrol americano (gotas)",
+      "tipo": "angulo",
+      "gateway": "Braip",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "resveratrol gotas",
+      "descricao": "Produto fisico (suplemento em gotas) nao entregue apos mais de um mes da compra via Braip. Reclamante nao identifica vendedor/produtor, so a Braip como gateway. Encaixa no perfil nutra/encapsulado tipico da Braip.",
+      "evidencia_url": "https://www.reclameaqui.com.br/braip/nao-recebi-meu-kit-de-resveratrol-americano-apos-mais-de-um-mes_vqyfj4J6X61Acxtp/"
+    },
+    {
+      "produto": "Esquema de avaliacao de produtos (renda extra)",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "ganhar-dinheiro",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "valor ocultado pela reclamante",
+      "termo_busca": "ganhar dinheiro avaliando produtos",
+      "descricao": "Reaparece em dia distinto (16/10, angulo so visto antes em 12/10): promessa de renda avaliando produtos/empresas, pagamento via Pix intermediado pela PerfectPay, sem acesso entregue. Mesmo golpe classico de renda passiva falsa, sem marca identificavel.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-ganhar-dinheiro-avaliando_QqlOlVvVwLFOgNGg/"
+    }
+  ],
+  "passada": {
+    "hora": "13:23",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 2,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n(nenhum novo nesta passada)\n\n## Mornas\n- [[angulo-esquema-de-avaliacao-de-produtos-renda-extra]] — PerfectPay · reaparece em dia distinto (12/10 -> 16/10), golpe de renda avaliando produtos via Pix\n\n## Frias (novas)\n- Kit de resveratrol americano (gotas) -- Braip · suplemento fisico nao entregue, sem vendedor identificado\n\nLeitura: janela de ~7h (09:17 a 16:23 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado de novo nos 5 gateways testados -- pagina 2 devolveu 'Exibindo 0 de 0 reclamacoes' em todos (perfectpay, cakto-pay, kiwify, hotmart, braip), apesar dos paineis mostrarem de 19 mil a 288 mil reclamacoes ativas. Ja mais de 15 passadas seguidas confirmando o mesmo travamento desde 04/10 -- nao e especifico de gateway, e do site. Pagina 1 de PerfectPay, Cakto, Kiwify e Hotmart trouxe exatamente as mesmas reclamacoes ja catalogadas nas passadas de hoje (CardPlay, Anunciaie, metodo DM2, Academia DP, arte sacra, pendrive, Shop Pro) -- 0 nome novo nesses 4 gateways em 7h. O gateway rotativo foi Braip (mais atrasado do ciclo, sem varredura dedicada desde 16/10 10:41), que trouxe o unico achado genuinamente novo da passada (resveratrol) e confirmou o angulo de avaliacao remunerada reaparecendo num dia diferente via PerfectPay.",
+    "resumo": "Janela de 7h sem nome novo em 4 dos 5 gateways (bug de paginacao reconfirmado pela 15a+ vez); Braip (rotativo) trouxe kit de resveratrol nao entregue e reconfirmou o angulo de avaliacao remunerada."
+  }
+}
