@@ -1,0 +1,68 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288294, "paginas_varridas": 2},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19178, "paginas_varridas": 2},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 2},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 2},
+    {"nome": "Yampi", "slug": "yampi", "reclamacoes_ativas": 514, "paginas_varridas": 2}
+  ],
+  "achados": [
+    {
+      "produto": "MVR (Daniel Fernandes)",
+      "tipo": "marca",
+      "gateway": "Yampi",
+      "nicho": "marketing-digital",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "MVR Daniel Fernandes",
+      "descricao": "Mentoria 'Maquina de Vendas Realizada' (MVR) de Daniel Fernandes. O rotativo Yampi trouxe de volta a mesma reclamacao ja catalogada, agora em mais um dia distinto (17/10), confirmando oferta sustentada ha 13+ dias via Yampi e Hotmart.",
+      "evidencia_url": "https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/"
+    },
+    {
+      "produto": "VSA Comunidade",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "marketing-faca-como-eu",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado (reclamante cita metas de resultado de R$5mil/R$500/R$60, nao o preco do curso)",
+      "termo_busca": "VSA Comunidade",
+      "descricao": "Curso/comunidade de renda extra vendido por Bruno Reis via Cakto. Reclamante diz que os resultados prometidos nao se confirmaram apos cerca de 3 meses (compra por volta de julho/2026) e pede estorno.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/nao-recebi-o-estorno-prometido-pelo-curso-da-vsa-comunidade_NLfApw4SsLAhQoOB/"
+    },
+    {
+      "produto": "Biblioteca Digital (mangas)",
+      "tipo": "angulo",
+      "gateway": "Cakto",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "biblioteca digital mangas",
+      "descricao": "Produto digital vendido como catalogo/'Biblioteca Digital' de mangas; comprador diz que o conteudo nao veio no formato anunciado (MOBI/EPUB). Produtor/vendedor nao identificado no relato, so o nome do site e a Cakto como gateway.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/comprei-mangas-que-nao-vieram-em-mobiepub-como-anunciado_3wvdlv2SHEprZOeh/"
+    },
+    {
+      "produto": "Missao B3 Jornada 50k",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "trading-e-robos",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "R$ 1.000",
+      "termo_busca": "Missao B3 50k",
+      "descricao": "Curso/mentoria de operacoes binarias na B3 vendido por 'valterruas' (apelido citado no relato), batizado 'Missao B3 Jornada 50k'. Comprador pagou R$1.000 e diz que o metodo/plataforma nunca funcionou.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/solicito-estorno-de-curso-e-plataforma-de-operacao-binarias-que-nunca-funcionou_V_Kvw2i5Kpwwa1yU/"
+    }
+  ],
+  "passada": {
+    "hora": "14:45",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "yampi"],
+    "paginas": 2,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[mvr-daniel-fernandes]] — Yampi · mais um dia distinto (17/10), confirma oferta sustentada ha 13+ dias\n\n## Mornas\n(nenhum novo nesta passada)\n\n## Frias (novas)\n- VSA Comunidade -- Cakto · curso/comunidade de renda extra (Bruno Reis), estorno negado apos ~3 meses\n- Biblioteca Digital (mangas) -- Cakto · angulo de catalogo digital nao entregue no formato anunciado\n- Missao B3 Jornada 50k -- Cakto · curso de operacoes binarias (valterruas), R$1.000 nao funcionou\n\nLeitura: janela de ~1h17 (13:28 a 14:45 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado outra vez nos 5 gateways testados (perfectpay, cakto-pay, kiwify, hotmart, yampi) -- pagina 2 devolveu 'Exibindo 0 de 0 reclamacoes' em todos, incluindo o rotativo Yampi, que tambem so tinha reclamacoes antigas (ate 10/09) na pagina 1. Pagina 1 de PerfectPay, Kiwify e Hotmart repetiu exatamente o que ja estava catalogado nas passadas de hoje (Anunciaie, curso freelancer, IA Shop Pro, metodo DM2, academia DP, arte sacra, pendrive) e o angulo de avaliacao remunerada ja tinha sido capturado na passada das 13:23 com a mesma URL -- zero novidade nesses 4 gateways. O rotativo Yampi (mais atrasado do ciclo monetizze/braip/payt/ticto/eduzz/yampi, sem varredura dedicada desde 16/10 11:19) reconfirmou a MVR/Daniel Fernandes num dia novo. Cakto foi a unica fonte de nomes genuinamente novos: VSA Comunidade, um angulo de biblioteca digital de mangas e um curso de operacoes binarias na B3.",
+    "resumo": "Janela curta de 1h17; bug de paginacao do RA reconfirmado nos 5 gateways (ja 16a+ vez); Cakto trouxe 3 nomes novos (VSA Comunidade, biblioteca digital de mangas, Missao B3) e Yampi reconfirmou a MVR/Daniel Fernandes num dia novo."
+  }
+}

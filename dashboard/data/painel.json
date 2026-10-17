@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 365,
-  "angulos": 96,
-  "observacoes": 896,
+  "ofertas": 367,
+  "angulos": 97,
+  "observacoes": 900,
   "dias_radar": 39,
-  "passadas": 111,
+  "passadas": 112,
   "analises": 12,
   "ultima_rodada": "2026-10-17"
  },
@@ -1983,6 +1983,58 @@
    "ultima_obs": "2026-09-23",
    "n_citacoes": 6,
    "resumo": "Biblia de brinde com pagamento apenas do frete, seguido de cobrancas em cascata.",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-biblioteca-digital-mangas",
+   "nome": "Biblioteca Digital (mangas)",
+   "classe": "angulo",
+   "nicho": "streaming-e-acesso",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=biblioteca%20digital%20mangas&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Produto digital vendido como catalogo/'Biblioteca Digital' de mangas; comprador diz que o conteudo nao veio no formato anunciado (MOBI/EPUB). Produtor/vendedor nao identificado no relato, so o nome do site e a Cakto como gateway.",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -19158,6 +19210,61 @@
    ]
   },
   {
+   "slug": "missao-b3-jornada-50k",
+   "nome": "Missao B3 Jornada 50k",
+   "classe": "oferta",
+   "nicho": "trading-e-robos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 1000,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 1000,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Missao%20B3%2050k&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Curso/mentoria de operacoes binarias na B3 vendido por 'valterruas' (apelido citado no relato), batizado 'Missao B3 Jornada 50k'. Comprador pagou R$1.000 e diz que o metodo/plataforma nunca funcionou.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "modao-raiz",
    "nome": "Modao Raiz",
    "classe": "oferta",
@@ -19967,21 +20074,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=MVR%20Daniel%20Fernandes&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 8,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 10,
    "resumo": "Curso vendido como 'atualizado' mas com aulas de 2021, divergindo da divulgação feita pelo vendedor via WhatsApp.",
    "flags": [
     "score-provisorio",
@@ -25120,6 +25227,61 @@
    ]
   },
   {
+   "slug": "vsa-comunidade",
+   "nome": "VSA Comunidade",
+   "classe": "oferta",
+   "nicho": "marketing-faca-como-eu",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "cakto",
+   "gateways": [
+    "cakto"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 5,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 252.5,
+   "s_ticket": 10,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 2.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-17",
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-17",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=VSA%20Comunidade&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 1,
+   "resumo": "Curso/comunidade de renda extra vendido por Bruno Reis via Cakto. Reclamante diz que os resultados prometidos nao se confirmaram apos cerca de 3 meses (compra por volta de julho/2026) e pede estorno.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "white-driver",
    "nome": "White Driver",
    "classe": "oferta",
@@ -25513,8 +25675,8 @@
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
-   "ofertas_vistas": 20,
-   "novas": 6,
+   "ofertas_vistas": 24,
+   "novas": 9,
    "retornaram": 0,
    "sumiram": 0,
    "fontes": [
@@ -25524,10 +25686,11 @@
     "kiwify",
     "monetizze",
     "perfectpay",
-    "ticto"
+    "ticto",
+    "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -26254,6 +26417,25 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 1445.md",
+   "data": "2026-10-17",
+   "hora": "14:45",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "yampi"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "mvr-daniel-fernandes"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, yampi · Páginas: 2 · Coleta: parcial · Achados: 4 ## Quentes mvr-daniel-fernandes — Yampi · mais um dia distinto (17/10), confirma oferta sustentada ha 13+ dias ## Mornas (nenhum novo nesta…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 1328.md",
    "data": "2026-10-17",
@@ -28842,8 +29024,8 @@
     "angulo": 5
    },
    "2026-10-17": {
-    "oferta": 4,
-    "angulo": 2
+    "oferta": 6,
+    "angulo": 3
    }
   },
   "observacoes": {
@@ -28884,7 +29066,7 @@
    "2026-10-14": 38,
    "2026-10-15": 35,
    "2026-10-16": 31,
-   "2026-10-17": 20
+   "2026-10-17": 24
   }
  },
  "analises": [
@@ -29353,49 +29535,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 365
+    "total": 367
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 365
+    "total": 367
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 365
+    "total": 367
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 336,
-    "total": 365
+    "preenchidas": 338,
+    "total": 367
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 177,
-    "total": 365
+    "preenchidas": 179,
+    "total": 367
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 365
+    "total": 367
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 365
+    "total": 367
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 308,
-    "total": 365
+    "preenchidas": 310,
+    "total": 367
    }
   ],
   "fila_enriquecimento": [
@@ -29600,7 +29782,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1357
+   "canonico": 1364
   }
  },
  "vocabulario": {
@@ -29647,22 +29829,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "a34095c1288c4aa0",
-  "atualizado_em": "2026-10-17T13:28:25-03:00",
-  "ofertas": 365,
-  "angulos": 96,
-  "observacoes": 896,
+  "hash": "cb415e0752bd8ec6",
+  "atualizado_em": "2026-10-17T14:46:50-03:00",
+  "ofertas": 367,
+  "angulos": 97,
+  "observacoes": 900,
   "ultima_rodada": "2026-10-17",
   "ultima_passada": {
    "data": "2026-10-17",
-   "hora": "13:28",
+   "hora": "14:45",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "braip"
+    "yampi"
    ]
   }
  }

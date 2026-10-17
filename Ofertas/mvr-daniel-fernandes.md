@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-16
-rodadas_vista: 5
+visto_ultimo: 2026-10-17
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [hotmart, yampi]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-16
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e
 ## Rodada 2026-10-16
 
 2 mencao(oes) nesta varredura (gateway Yampi). Mentoria 'Maquina de Vendas Realizada' (MVR) do produtor Daniel Fernandes (tambem 'Daniel Fernandes Pro'). Duas reclamacoes distintas nesta passada (produto diferente do anunciado + dificuldade de cancelamento), confirmando 5o dia diferente de aparicao desde 04/10 (04, 05, 06, 13, 14 e agora 16/10) -- oferta sustentada via Yampi e Hotmart.
+
+Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway Yampi). Mentoria 'Maquina de Vendas Realizada' (MVR) de Daniel Fernandes. O rotativo Yampi trouxe de volta a mesma reclamacao ja catalogada, agora em mais um dia distinto (17/10), confirmando oferta sustentada ha 13+ dias via Yampi e Hotmart.
 
 Evidencia: https://www.reclameaqui.com.br/yampi/produto-diferente-do-anunciado-e-falta-de-suporte-para-cancelamento_pvyQII-TKK_mS9_e/
