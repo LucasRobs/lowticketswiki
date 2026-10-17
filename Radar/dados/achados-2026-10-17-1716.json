@@ -1,0 +1,45 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50724, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 1},
+    {"nome": "Eduzz", "slug": "eduzz", "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Frutinhas Falantes",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "entretenimento-infantil",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Frutinhas Falantes",
+      "descricao": "App/produto infantil vendido via Kiwify; comprador pede cancelamento e reembolso no mesmo dia da compra. Nome proprio, sem produtor identificado no relato.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/quero-cancelar-minha-compra-de-frutinhas-falantes-e-ter-meu-reembolso_5aEFyL-uMU4GKiE-/"
+    },
+    {
+      "produto": "Curso de Reflexologia nas Maos",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "saude-terapias-alternativas",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Reflexologia nas Maos",
+      "descricao": "Curso online de reflexologia nas maos vendido via Kiwify; produtor citado como Luan Antonio (identificado por e-mail de compra). Reclamante diz que o curso nao tem conteudo e nao obteve resposta.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/comprei-curso-de-reflexologia-e-nao-tem-conteudo-sem-resposta_Lvd4h42RlWElB7ka/"
+    }
+  ],
+  "passada": {
+    "hora": "17:16",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "eduzz"],
+    "paginas": 5,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n(nenhum)\n\n## Mornas\n(nenhum)\n\n## Frias (novas)\n- Frutinhas Falantes -- Kiwify · app infantil, cancelamento no mesmo dia da compra\n- Curso de Reflexologia nas Maos -- Kiwify · produtor Luan Antonio, curso sem conteudo\n\nLeitura: janela de 2h31 (14:45 a 17:16 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado mais uma vez nos 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, eduzz) -- pagina 2 devolveu 'Exibindo 0 de 0 reclamacoes' em todos. Pagina 1 de PerfectPay, Cakto, Hotmart e do rotativo Eduzz repetiu exatamente o que ja estava catalogado (Anunciaie, esquema de avaliacao remunerada, VSA Comunidade, mangas, operacoes binarias, metodo DM2, academia DP, arte sacra, pendrive, Iara Shoppe 360, cursos de motociclismo) -- zero nome novo nesses 4. Kiwify foi a unica fonte de achados novos: Frutinhas Falantes (app infantil) e um curso de Reflexologia nas Maos do produtor Luan Antonio, ambos com uma unica mencao.",
+    "resumo": "Janela de 2h31; bug de paginacao reconfirmado em todos os 5 gateways; Kiwify trouxe 2 achados novos e frios (Frutinhas Falantes, Reflexologia nas Maos); demais gateways sem novidade.",
+    "origem": "tarefa agendada"
+  }
+}
