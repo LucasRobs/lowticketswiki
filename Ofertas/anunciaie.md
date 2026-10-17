@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-15
-rodadas_vista: 2
+visto_ultimo: 2026-10-17
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 2
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway PerfectPay). Reembolso pedido sem resposta do suporte. Mesma reclamacao da passada anterior (21:46) ainda visivel -- 2o dia seguido aparecendo, promovido a quente por isso.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway PerfectPay). Curso sobre anúncios/tráfego, vendedor não identificado. Reclamação nomeia a grafia com acento 'Anunciaê'. Reaparece em 3o dia diferente (14/10, 15/10, agora 16-17/10) -- sobe pra quente.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-devolucao-do-curso-da-anunciae-por-nao-atender-expectativas_jA77jZ0Mj7G2Gl1s/

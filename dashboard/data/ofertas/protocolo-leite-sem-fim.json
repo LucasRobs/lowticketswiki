@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-24",
-  "visto_ultimo": "2026-10-10",
-  "rodadas_vista": 6,
+  "visto_ultimo": "2026-10-17",
+  "rodadas_vista": 7,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -50,7 +50,7 @@
    "ticto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-10",
+  "ra_checado": "2026-10-17",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "ticto"
   ]
  },
- "corpo": "# Protocolo Leite Sem Fim\n\n## Angulo\nMomento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 2200]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Ticto). Primeira aparicao no radar (gateway Ticto, maior intervalo sem varredura). Protocolo de amamentacao vendido pela produtora Momento Materno, propaganda enganosa citada explicitamente, resolvido com reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente (última vez Ticto varrido 04/10) - vendedor Momento Materno, propaganda enganosa sobre protocolo de aumento de leite materno.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Ticto). Infoproduto de lactação/amamentação vendido pela produtora 'Momento Materno' com garantia de reembolso de 30 dias. Comprador relata e-mails de suporte do produtor inválidos; Ticto reembolsou após intervenção.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-08\n\n5 mencao(oes) nesta varredura (gateway Ticto). Produtora Momento Materno. Reclamação explicita 'propaganda enganosa e suporte inexistente', garantia de 30 dias não cumprida. 5ª rodada em que aparece (24/09, 04/10, 05/10, 06/10, agora 08/10) -- oferta sustentada há mais de 2 semanas.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Ticto). NOVO: protocolo de producao de leite (provavelmente materno/lactacao), reclamacao de propaganda enganosa e suporte inexistente.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n",
+ "corpo": "# Protocolo Leite Sem Fim\n\n## Angulo\nMomento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.\n\n## Funil\nanuncio -> pagina -> checkout ticto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 2200]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Ticto). Primeira aparicao no radar (gateway Ticto, maior intervalo sem varredura). Protocolo de amamentacao vendido pela produtora Momento Materno, propaganda enganosa citada explicitamente, resolvido com reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Ticto). Reconfirmado em dia diferente (última vez Ticto varrido 04/10) - vendedor Momento Materno, propaganda enganosa sobre protocolo de aumento de leite materno.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Ticto). Infoproduto de lactação/amamentação vendido pela produtora 'Momento Materno' com garantia de reembolso de 30 dias. Comprador relata e-mails de suporte do produtor inválidos; Ticto reembolsou após intervenção.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-08\n\n5 mencao(oes) nesta varredura (gateway Ticto). Produtora Momento Materno. Reclamação explicita 'propaganda enganosa e suporte inexistente', garantia de 30 dias não cumprida. 5ª rodada em que aparece (24/09, 04/10, 05/10, 06/10, agora 08/10) -- oferta sustentada há mais de 2 semanas.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Ticto). NOVO: protocolo de producao de leite (provavelmente materno/lactacao), reclamacao de propaganda enganosa e suporte inexistente.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway Ticto). Oferta ja catalogada desde 24/09 (produtor Momento Materno). Ressurgiu via artefato conhecido de cache de paginacao do ReclameAqui (pagina 3/5 da Ticto) -- a reclamacao em si e antiga (publicada 06/08/2026), nao evidencia de atividade nova hoje, mas confirma presenca continua da oferta no radar.\n\nEvidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/\n",
  "observacoes": [
   {
    "data": "2026-09-24",
@@ -144,9 +144,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. NOVO: protocolo de producao de leite (provavelmente materno/lactacao), reclamacao de propaganda enganosa e suporte inexistente."
+  },
+  {
+   "data": "2026-10-17",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 1,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "1 mencao(oes) na varredura de hoje. Oferta ja catalogada desde 24/09 (produtor Momento Materno). Ressurgiu via artefato conhecido de cache de paginacao do ReclameAqui (pagina 3/5 da Ticto) -- a reclamacao em si e antiga (publicada 06/08/2026), nao evidencia de atividade nova hoje, mas confirma presenca continua da oferta no radar."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-17 -- 0913.md",
+   "data": "2026-10-17",
+   "titulo": "Passada 2026-10-17 09:13"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-17.md",
+   "data": "2026-10-17",
+   "titulo": "Radar 2026-10-17"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-10.md",

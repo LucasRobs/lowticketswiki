@@ -1,0 +1,140 @@
+{
+  "data_varredura": "2026-10-17",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288294, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19145, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 1},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10642, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Anunciaie",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital-trafego",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Anunciaie",
+      "descricao": "Curso sobre anúncios/tráfego, vendedor não identificado. Reclamação nomeia a grafia com acento 'Anunciaê'. Reaparece em 3o dia diferente (14/10, 15/10, agora 16-17/10) -- sobe pra quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/solicito-devolucao-do-curso-da-anunciae-por-nao-atender-expectativas_jA77jZ0Mj7G2Gl1s/"
+    },
+    {
+      "produto": "Cashnopix / Cash no Pix",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "renda-celular-cashback",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Cash no Pix",
+      "descricao": "Angulo 'ganhar dinheiro avaliando produtos' revela de novo o nome Cash no Pix. Reclamacao nova (autora diferente, mesmo dia 16/10), reforca presenca sustentada mas zero novidade de nome.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-ganhar-dinheiro-avaliando_QqlOlVvVwLFOgNGg/"
+    },
+    {
+      "produto": "IA Shop Pro",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "ecommerce-dropshipping",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "IA Shop Pro",
+      "descricao": "Curso/ferramenta de loja com IA via Kiwify. Mesma reclamacao da passada de 16/10 17:17 (mesma URL), mas agora capturada num dia de calendario diferente (17/10) -- sobe de fria pra morna por presenca em 2 dias.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-reembolso-urgente-do-curso-ia-shop-pro-nao-estornado-em-6-dias_f5Xo90i_9ZrkGn9b/"
+    },
+    {
+      "produto": "Metodo DM2",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-bem-estar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Metodo DM2",
+      "descricao": "Mesma reclamacao ja catalogada hoje (visto_ultimo 17/10), zero novidade de data, mas a reclamacao nomeia a vendedora: Shirley Miclos, nutricionista -- informacao nova para o registro.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-reembolso-do-metodo-dm2_Nt-_xyTbBeEyDZnm/"
+    },
+    {
+      "produto": "Academia DP",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Academia DP",
+      "descricao": "Mesma reclamacao ja catalogada hoje, zero novidade. Compra via Pix em 07/10 reconfirmada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-recebi-o-reembolso-do-curso-academia-dp-pago-via-pix_X7-b7e89xvLt34ck/"
+    },
+    {
+      "produto": "CardPlay (app)",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "CardPlay app",
+      "descricao": "Mesma reclamacao ja catalogada hoje, zero novidade. Compra via Pix em 14/10 reconfirmada.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-valor-pago-via-pix-pelo-app-cardplay_E52u_fjCj_6DS34k/"
+    },
+    {
+      "produto": "CapCut Desktop (revenda via Ticto)",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "ferramentas-ia",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Capcut Desktop",
+      "descricao": "Licenca/clone do CapCut revendido via Ticto. Mesma reclamacao ja conhecida (12/10), zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/quero-reembolso-do-capcut-desktop-pois-nao-era-o-que-esperava_m408TG08uaOpXIwK/"
+    },
+    {
+      "produto": "angulo curso de restauracao de arte sacra",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-profissionalizantes",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "curso restauracao arte sacra",
+      "descricao": "Mesmo angulo ja catalogado, zero novidade. Compra via Pix, vendedor nao identificado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-recebi-meu-curso-online-de-restauracao-de-artes-sacras-apos-pagamento-via-pix_yUFJgZetTxiDIeOV/"
+    },
+    {
+      "produto": "angulo pendrive anunciado entrega so acesso online",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "pendrive curso entrega online",
+      "descricao": "Mesmo angulo de bait-and-switch (pendrive anunciado, so acesso online) ja catalogado, zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-enganado-com-propaganda-de-pen-drive-e-recebi-apenas-acesso-online_q7WBMk5ZvwKDD5Ay/"
+    },
+    {
+      "produto": "Protocolo Leite Sem Fim",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "maternidade",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Leite Sem Fim",
+      "descricao": "Oferta ja catalogada desde 24/09 (produtor Momento Materno). Ressurgiu via artefato conhecido de cache de paginacao do ReclameAqui (pagina 3/5 da Ticto) -- a reclamacao em si e antiga (publicada 06/08/2026), nao evidencia de atividade nova hoje, mas confirma presenca continua da oferta no radar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/"
+    }
+  ],
+  "passada": {
+    "hora": "09:13",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 5,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[anunciaie]] -- PerfectPay · 3o dia diferente (14/10, 15/10, 16-17/10), sobe pra quente\n- [[cashnopix]] -- PerfectPay · reclamacao nova (mesmo dia), zero novidade de nome\n- [[protocolo-leite-sem-fim]] -- Ticto · ressurgiu via bug de cache (reclamacao antiga de 06/08), presenca continua\n\n## Mornas\n- [[ia-shop-pro]] -- Kiwify · mesma reclamacao de 16/10 capturada em dia diferente, sobe de fria pra morna\n- [[metodo-dm2]] -- Hotmart · zero novidade de data, mas vendedora identificada (Shirley Miclos, nutricionista)\n- [[academia-dp]], [[cardplay-app]], [[capcut-desktop-revenda-via-ticto]] -- zero novidade\n- angulo arte sacra, angulo pendrive -- Hotmart · zero novidade\n\nLeitura: janela de ~8h20 (00:52 a 09:13 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado mais uma vez e de forma ainda mais detalhada: pagina 2 testada nos 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, ticto) devolveu 'Exibindo 0 de 0 reclamacoes' em todos -- ja 14a+ passada seguida com o mesmo travamento desde 04/10. Testei tambem paginas 4 e 5 em todos os gateways: vazias, exceto a Ticto, cuja pagina 3 e 5 devolveram conteudo (nao vazio) mas com datas antigas e inconsistentes entre si (reclamacoes de 06/08 e outras sem data clara) -- confirma a hipotese ja registrada em rodadas anteriores de que isso e artefato de cache, nao paginacao real. Gateway rotativo foi Ticto (mais atrasado do ciclo monetizze/braip/payt/ticto/eduzz/yampi, sem varredura dedicada desde 16/10 00:16), que trouxe Capcut Desktop reconfirmado e, via bug de cache, o Protocolo Leite Sem Fim (ja catalogado desde 24/09).",
+    "resumo": "Janela de 8h20 sem nome genuinamente novo; anunciaie sobe a quente (3o dia) e IA Shop Pro sobe a morna, bug de paginacao do RA confirmado pela 14a+ vez."
+  }
+}

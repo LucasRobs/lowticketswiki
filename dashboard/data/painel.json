@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 365,
   "angulos": 95,
-  "observacoes": 891,
+  "observacoes": 894,
   "dias_radar": 39,
-  "passadas": 108,
+  "passadas": 109,
   "analises": 12,
   "ultima_rodada": "2026-10-17"
  },
@@ -665,7 +665,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20DP&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Nome novo no radar. Compra feita via Pix em 07/10, reembolso nao recebido; reclamacao publicada so em 16/10. Produtor e valor nao identificados no texto.",
    "flags": [
     "score-provisorio",
@@ -6265,21 +6265,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-14",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Anunciaie&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 10,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 12,
    "resumo": "Nome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.",
    "flags": [
     "score-provisorio",
@@ -8042,21 +8042,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-14",
-   "visto_ultimo": "2026-10-16",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-16",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Capcut%20Desktop%20licença&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-16",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 5,
    "resumo": "Mesma família de revenda de assinatura CapCut Pro já catalogada em Kirvano (capcut-pro-revenda) e Kiwify (capcut-pro-revenda-de-licenca) -- agora aparece também via Ticto. 3º gateway diferente pra mesma operação, sinal de escala mesmo sendo produto de…",
    "flags": [
     "score-provisorio",
@@ -8281,7 +8281,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=CardPlay%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao responde no WhatsApp, pede estorno. Primeira vez que aparece no radar.",
    "flags": [
     "score-provisorio",
@@ -8449,7 +8449,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cash%20no%20Pix&search_type=keyword_unordered&media_type=all",
    "n_obs": 9,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 16,
+   "n_citacoes": 17,
    "resumo": "Ganhe avaliando produtos / assistindo videos, com saldo acumulado em cashback via Pix. Grafias: Cashnopix, Cash no Pix, Cash Pix.",
    "flags": [
     "lucro-sem-medicao",
@@ -18541,7 +18541,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20DM2&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Nome novo no radar, vazou no proprio titulo da reclamacao ('Quero reembolso do metodo DM2'). Pagina de detalhe nao abriu (erro de servidor, 2 tentativas). 'DM2' e abreviacao comum para diabetes mellitus tipo 2 em portugues -- hipotese nao confirmada de nicho…",
    "flags": [
     "score-provisorio",
@@ -21749,21 +21749,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-24",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 6,
+   "visto_ultimo": "2026-10-17",
+   "rodadas_vista": 7,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-17",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Leite%20Sem%20Fim&search_type=keyword_unordered&media_type=all",
-   "n_obs": 6,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 9,
+   "n_obs": 7,
+   "ultima_obs": "2026-10-17",
+   "n_citacoes": 11,
    "resumo": "Momento Materno. Garantia de 30 dias anunciada, e-mails de suporte inexistentes. Nicho amamentacao - novo no vault.",
    "flags": [
     "score-provisorio",
@@ -25460,7 +25460,7 @@
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
-   "ofertas_vistas": 15,
+   "ofertas_vistas": 18,
    "novas": 5,
    "retornaram": 0,
    "sumiram": 0,
@@ -25473,7 +25473,7 @@
     "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 2,
+   "n_passadas": 3,
    "leitura": ""
   },
   {
@@ -26216,6 +26216,31 @@
    "origem": "tarefa agendada",
    "ofertas": [],
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 1 · Coleta: parcial · Achados: 4 ## Quentes (nenhum novo nesta passada) ## Mornas (nenhum novo nesta passada) ## Frias (novas) Shape Max Dance -- Ticto · curso de…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-10-17 -- 0913.md",
+   "data": "2026-10-17",
+   "hora": "09:13",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 5,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "academia-dp",
+    "anunciaie",
+    "capcut-desktop-revenda-via-ticto",
+    "cardplay-app",
+    "cashnopix",
+    "metodo-dm2",
+    "protocolo-leite-sem-fim"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 5 · Coleta: parcial · Achados: 10 ## Quentes anunciaie -- PerfectPay · 3o dia diferente (14/10, 15/10, 16-17/10), sobe pra quente cashnopix -- PerfectPay · reclamacao nova…"
   },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 0052.md",
@@ -28768,7 +28793,7 @@
    "2026-10-14": 38,
    "2026-10-15": 35,
    "2026-10-16": 31,
-   "2026-10-17": 15
+   "2026-10-17": 18
   }
  },
  "analises": [
@@ -29485,7 +29510,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1351
+   "canonico": 1354
   }
  },
  "vocabulario": {
@@ -29532,11 +29557,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "50489f523c976a53",
-  "atualizado_em": "2026-10-17T09:18:14-03:00",
+  "hash": "f8996a29adc13af9",
+  "atualizado_em": "2026-10-17T09:19:43-03:00",
   "ofertas": 365,
   "angulos": 95,
-  "observacoes": 891,
+  "observacoes": 894,
   "ultima_rodada": "2026-10-17",
   "ultima_passada": {
    "data": "2026-10-17",

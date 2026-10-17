@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-10
-rodadas_vista: 6
+visto_ultimo: 2026-10-17
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 5
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -113,5 +113,11 @@ Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-in
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Ticto). NOVO: protocolo de producao de leite (provavelmente materno/lactacao), reclamacao de propaganda enganosa e suporte inexistente.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway Ticto). Oferta ja catalogada desde 24/09 (produtor Momento Materno). Ressurgiu via artefato conhecido de cache de paginacao do ReclameAqui (pagina 3/5 da Ticto) -- a reclamacao em si e antiga (publicada 06/08/2026), nao evidencia de atividade nova hoje, mas confirma presenca continua da oferta no radar.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/propaganda-enganosa-e-suporte-inexistente-produto-protocolo-leite-sem-fim-garantia-de-30-dias_k8CbJuLsWfCTb1Cx/
