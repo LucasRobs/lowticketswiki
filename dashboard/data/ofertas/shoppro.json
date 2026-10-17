@@ -116,6 +116,12 @@
  "citacoes": [
   {
    "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-17 -- 0913.md",
+   "data": "2026-10-17",
+   "titulo": "Passada 2026-10-17 09:13"
+  },
+  {
+   "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-17 -- 0052.md",
    "data": "2026-10-17",
    "titulo": "Passada 2026-10-17 00:52"

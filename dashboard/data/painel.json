@@ -23163,7 +23163,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopPro&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 6,
+   "n_citacoes": 7,
    "resumo": "Curso de e-commerce/loja online; comprador não se identificou com o conteúdo e teve demora no reembolso apesar de promessa de devolução rápida. Nome extraído do corpo da reclamação (confirmar antes de usar como termo de busca).",
    "flags": [
     "score-provisorio",
@@ -26238,7 +26238,8 @@
     "cardplay-app",
     "cashnopix",
     "metodo-dm2",
-    "protocolo-leite-sem-fim"
+    "protocolo-leite-sem-fim",
+    "shoppro"
    ],
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, ticto · Páginas: 5 · Coleta: parcial · Achados: 10 ## Quentes anunciaie -- PerfectPay · 3o dia diferente (14/10, 15/10, 16-17/10), sobe pra quente cashnopix -- PerfectPay · reclamacao nova…"
   },
@@ -29557,8 +29558,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "f8996a29adc13af9",
-  "atualizado_em": "2026-10-17T09:19:43-03:00",
+  "hash": "40476cf1ac74efa1",
+  "atualizado_em": "2026-10-17T09:20:18-03:00",
   "ofertas": 365,
   "angulos": 95,
   "observacoes": 894,
