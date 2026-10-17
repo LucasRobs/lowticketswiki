@@ -1,0 +1,164 @@
+{
+  "data_varredura": "2026-10-16",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288277, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 0, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50691, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78810, "paginas_varridas": 1},
+    {"nome": "Payt", "slug": "payt", "reclamacoes_ativas": 20249, "paginas_varridas": 1}
+  ],
+  "achados": [
+    {
+      "produto": "Stalkeia.ai",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 44-55 (cobrancas recorrentes)",
+      "termo_busca": "Stalkeia",
+      "descricao": "App de espionar WhatsApp/Instagram, grafias Stalkeia/Stalkea. Mesma reclamacao ('comprei servico enganoso no stalkea.ai') ja registrada na rodada de hoje 17:17 -- zero novidade, apenas confirma presenca continua ha semanas na PerfectPay.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/comprei-servico-enganoso-no-e-quero-estorno_1K5fva5lYbNP8xmH/"
+    },
+    {
+      "produto": "Trendly",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "marketing-digital",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "R$ 299 (vitalicio)",
+      "termo_busca": "Trendly",
+      "descricao": "Ferramenta de pesquisa de tendencias vendida como acesso vitalicio por R$299. Mesma reclamacao da rodada de hoje 17:17 (promessa de suporte nao cumprida) -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/"
+    },
+    {
+      "produto": "Cash no Pix",
+      "tipo": "marca",
+      "gateway": "PerfectPay",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 49,90 a R$ 497 por compra (16 compras, total R$ 4.136,43)",
+      "termo_busca": "Cash no Pix",
+      "descricao": "Mesma reclamacao ja catalogada hoje sob o angulo sem-nome 'promessa de trabalho/renda com upsell escalonado', mas o texto cita explicitamente 'Cash no Pix' -- liga esse angulo a oferta Cashnopix ja existente no vault (ultima vez vista 11/10, agora reconfirmada 16/10, 5 dias depois). Reclamante fez 16 compras entre 09 e 15/10 totalizando R$4.136,43, de R$49,90 a R$497 -- evidencia forte de escada de upsell/order bump bem agressiva sustentando o ticket medio.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/"
+    },
+    {
+      "produto": "CardPlay",
+      "tipo": "marca",
+      "gateway": "Cakto",
+      "nicho": "app-assinatura",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "CardPlay",
+      "descricao": "App cobrado via PIX com renovacao automatica. Mesma reclamacao da rodada de hoje 17:17 -- zero novidade.",
+      "evidencia_url": "https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-valor-pago-via-pix-pelo-app-cardplay_E52u_fjCj_6DS34k/"
+    },
+    {
+      "produto": "IA Shop Pro",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "negocio-online-ecommerce",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "ShopPro",
+      "descricao": "Curso/ferramenta de loja com IA, mesma familia ja catalogada como ShopPro (visto antes via Hotmart em 04/10). Mesma reclamacao da rodada de hoje 17:17 (reembolso nao estornado em 6 dias) -- zero novidade, mas confirma oferta ativa em dois gateways (Hotmart e Kiwify).",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/solicito-reembolso-urgente-do-curso-ia-shop-pro-nao-estornado-em-6-dias_f5Xo90i_9ZrkGn9b/"
+    },
+    {
+      "produto": "Metodo DM2",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "saude-bem-estar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Metodo DM2",
+      "descricao": "Nome novo no radar, vazou no proprio titulo da reclamacao ('Quero reembolso do metodo DM2'). Pagina de detalhe nao abriu (erro de servidor, 2 tentativas). 'DM2' e abreviacao comum para diabetes mellitus tipo 2 em portugues -- hipotese nao confirmada de nicho de saude/controle glicemico; vale reabrir na proxima passada para confirmar produtor e valor.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/quero-reembolso-do-metodo-dm2_Nt-_xyTbBeEyDZnm/"
+    },
+    {
+      "produto": "Academia DP",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Academia DP",
+      "descricao": "Nome novo no radar. Compra feita via Pix em 07/10, reembolso nao recebido; reclamacao publicada so em 16/10. Produtor e valor nao identificados no texto.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-recebi-o-reembolso-do-curso-academia-dp-pago-via-pix_X7-b7e89xvLt34ck/"
+    },
+    {
+      "produto": "angulo curso de restauracao de arte sacra",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "cursos-profissionalizantes",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "curso restauracao de arte sacra",
+      "descricao": "Angulo novo e raro: curso online de restauracao de arte sacra, pago via Pix, nunca recebido. Produtor nao identificado. Nicho de curso profissionalizante de ticket provavelmente alto, pouco visto no radar -- vale buscar na Biblioteca de Anuncios so pra confirmar se ha verba ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/nao-recebi-meu-curso-online-de-restauracao-de-artes-sacras-apos-pagamento-via-pix_yUFJgZetTxiDIeOV/"
+    },
+    {
+      "produto": "angulo pendrive anunciado entrega so acesso online",
+      "tipo": "angulo",
+      "gateway": "Hotmart",
+      "nicho": "a-identificar",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado",
+      "termo_busca": "curso pendrive",
+      "descricao": "Angulo de propaganda enganosa classico: anuncio promete pen-drive fisico com o conteudo, comprador recebe so acesso online. Produto e produtor nao identificados nesta reclamacao, mas o mecanismo (bait-and-switch fisico->digital) e recorrente em varios nichos de infoproduto e vale monitorar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/fui-enganado-com-propaganda-de-pen-drive-e-recebi-apenas-acesso-online_q7WBMk5ZvwKDD5Ay/"
+    },
+    {
+      "produto": "ZAP Radar",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "R$ 97",
+      "termo_busca": "ZapRadar",
+      "descricao": "App de rastreamento de WhatsApp, oferta mais antiga e mais recorrente do vault (18+ rodadas desde 16/08). Mesma reclamacao ja conhecida ainda na pagina 1 da Payt -- zero novidade, so confirma presenca continua.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/"
+    },
+    {
+      "produto": "A Renda da Fortuna",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "renda-celular-cashback-pix",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "parcelado em 12x e 5x, valores mascarados pelo RA",
+      "termo_busca": "Renda da Fortuna",
+      "descricao": "Pacote de promessa de renda extra, parcelado, sustentado desde 08/10 (4 rodadas em dias diferentes). Mesma reclamacao ainda na pagina 1 da Payt -- zero novidade, so reconfirma oferta ativa.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/quero-estorno-do-pacote-a-renda-da-fortuna-que-e-editado-pelo-reclame-aqui_1FU059K8Nun7mHif/"
+    },
+    {
+      "produto": "Oblivium Digital",
+      "tipo": "marca",
+      "gateway": "Payt",
+      "nicho": "a-identificar",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "parcelado em 4x",
+      "termo_busca": "Oblivium Digital",
+      "descricao": "Vendedor identificado, produto fisico ainda sem nome, parcelado em 4x. Mesma reclamacao ja conhecida desde 07/10 (3 rodadas) -- zero novidade, so reconfirma vendedor sustentado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/"
+    }
+  ],
+  "passada": {
+    "hora": "21:46",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "payt"],
+    "paginas": 1,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[stalkeia-ai]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[zap-radar]] -- Payt · mesma reclamacao, zero novidade\n- [[a-renda-da-fortuna]] -- Payt · mesma reclamacao, zero novidade\n- [[cashnopix]] -- PerfectPay · angulo sem-nome revela o nome 'Cash no Pix', liga-se a oferta ja catalogada, reconfirmada 5 dias depois com evidencia forte de upsell (16 compras, R$4.136,43)\n\n## Mornas\n- [[trendly]] -- PerfectPay · mesma reclamacao, zero novidade\n- [[shoppro]] -- Kiwify · mesma reclamacao, zero novidade\n- [[oblivium-digital-vendedor-produto-nao-identificado]] -- Payt · mesma reclamacao, zero novidade\n\n## Frias (novas)\n- Metodo DM2 -- Hotmart · nome vazou no titulo, pagina de detalhe nao abriu\n- Academia DP -- Hotmart · nome novo, compra via Pix em 07/10\n- angulo curso de restauracao de arte sacra -- Hotmart · nicho raro, vendedor nao identificado\n- angulo pendrive anunciado / entrega so online -- Hotmart · mecanismo classico de propaganda enganosa\n\n## Frias (sem novidade)\n- [[cardplay-app]] -- Cakto\n\nLeitura: janela de ~4h30 (17:17 a 21:46 Fortaleza). Bug de paginacao do ReclameAqui reconfirmado mais uma vez nos 5 gateways testados (pagina 2 devolveu 'Exibindo 0 de 0 reclamacoes' em todos, apesar dos paineis mostrarem de 20 mil a 288 mil reclamacoes recebidas) -- ja mais de 12 passadas seguidas confirmando o mesmo travamento desde 04/10. Janela curta e amostra pequena (5 gateways x 1 pagina = 25 reclamacoes brutas, 13 abertas no detalhe, 1 falhou) explicam por que a maioria das reclamacoes de PerfectPay/Cakto/Kiwify/Payt repetiu exatamente o que ja estava no vault desde a rodada das 17:17. Gateway rotativo foi Payt (escolhido por estar ha mais tempo sem varredura dedicada -- ultima vez em 15/10 17:43), que nao trouxe nome novo mas reconfirmou os 3 achados mais antigos dessa gateway. A novidade real veio da Hotmart (gateway fixo, nao rotativo), com 2 marcas novas (Metodo DM2, Academia DP) e 2 angulos novos (curso de restauracao de arte sacra, bait-and-switch de pendrive).",
+    "resumo": "Payt e PerfectPay so reconfirmaram achados antigos; Hotmart trouxe 2 marcas e 2 angulos novos, e o angulo sem-nome de promessa de renda finalmente ganhou nome: Cash no Pix."
+  }
+}

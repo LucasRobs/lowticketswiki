@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 359,
-  "angulos": 92,
-  "observacoes": 868,
+  "ofertas": 361,
+  "angulos": 94,
+  "observacoes": 876,
   "dias_radar": 38,
-  "passadas": 105,
+  "passadas": 106,
   "analises": 12,
   "ultima_rodada": "2026-10-16"
  },
@@ -540,21 +540,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Renda%20da%20Fortuna&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 8,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 10,
    "resumo": "Achado novo, mencao unica. 'Pacote' vendido parcelado (comprador cita opcoes de 12x e 5x), nome do produto parcialmente censurado pelo Reclame Aqui. Reclamante pede estorno no cartao; nao descreve o que o pacote entrega. Angulo tipico de renda-extra/promessa…",
    "flags": [
     "score-provisorio",
@@ -615,6 +615,61 @@
     "score-provisorio",
     "sem-longevidade",
     "checkout-desconhecido",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "academia-dp",
+   "nome": "Academia DP",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Academia%20DP&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Nome novo no radar. Compra feita via Pix em 07/10, reembolso nao recebido; reclamacao publicada so em 16/10. Produtor e valor nao identificados no texto.",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -2745,6 +2800,58 @@
    ]
   },
   {
+   "slug": "angulo-curso-de-restauracao-de-arte-sacra",
+   "nome": "angulo curso de restauracao de arte sacra",
+   "classe": "angulo",
+   "nicho": "cursos-profissionalizantes",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20restauracao%20de%20arte%20sacra&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Angulo novo e raro: curso online de restauracao de arte sacra, pago via Pix, nunca recebido. Produtor nao identificado. Nicho de curso profissionalizante de ticket provavelmente alto, pouco visto no radar -- vale buscar na Biblioteca de Anuncios so pra…",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "angulo-curso-de-tecnico-agricola-tecnico-em-agricultura",
    "nome": "Curso de Tecnico Agricola/Tecnico em Agricultura",
    "classe": "angulo",
@@ -4230,11 +4337,13 @@
    "classe": "angulo",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "payt"
+   ],
    "plataforma_ads": [
     "meta"
    ],
@@ -4255,26 +4364,25 @@
    "score": 1.1,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-10",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 2,
    "resumo": "Vendedor identificado como 'Oblivium Digital', mas o produto em si nao foi nomeado pelo reclamante. Pedido de cancelamento ignorado pelo vendedor.",
    "flags": [
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -4650,6 +4758,58 @@
    "ultima_obs": "2026-08-21",
    "n_citacoes": 1,
    "resumo": "O hook-mãe do nicho inteiro. Três operações independentes convergem nele: pare-de-gritar-com-seu-filho (é o nome do produto), domando-a-teimosia (\"sem gritar e sem culpa\") e disciplina-positiva-em-casa (\"sem gritos nem castigo físico\"). Convergência de três é…",
+   "flags": [
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
+   "slug": "angulo-pendrive-anunciado-entrega-so-acesso-online",
+   "nome": "angulo pendrive anunciado entrega so acesso online",
+   "classe": "angulo",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20pendrive&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Angulo de propaganda enganosa classico: anuncio promete pen-drive fisico com o conteudo, comprador recebe so acesso online. Produto e produtor nao identificados nesta reclamacao, mas o mecanismo (bait-and-switch fisico->digital) e recorrente em varios nichos…",
    "flags": [
     "sem-longevidade",
     "sem-lp"
@@ -8062,7 +8222,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=CardPlay%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Nome novo. App que o comprador ja usava e pagou de novo (atualizacao) via Pix em 14/10; diz que o app segue com problema e a empresa nao responde no WhatsApp, pede estorno. Primeira vez que aparece no radar.",
    "flags": [
     "score-provisorio",
@@ -8216,21 +8376,21 @@
    "score": 5.55,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 6,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-16",
    "bump_oculto": true,
    "upsell_oculto": false,
    "url_pagina": "https://cashnopix.net/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Cash%20no%20Pix&search_type=keyword_unordered&media_type=all",
-   "n_obs": 7,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 12,
+   "n_obs": 8,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 14,
    "resumo": "Ganhe avaliando produtos / assistindo videos, com saldo acumulado em cashback via Pix. Grafias: Cashnopix, Cash no Pix, Cash Pix.",
    "flags": [
     "lucro-sem-medicao",
@@ -18164,6 +18324,61 @@
    ]
   },
   {
+   "slug": "metodo-dm2",
+   "nome": "Metodo DM2",
+   "classe": "oferta",
+   "nicho": "saude-bem-estar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "hotmart",
+   "gateways": [
+    "hotmart"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 2,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 0.7,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-16",
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 1,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-16",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Metodo%20DM2&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 1,
+   "resumo": "Nome novo no radar, vazou no proprio titulo da reclamacao ('Quero reembolso do metodo DM2'). Pagina de detalhe nao abriu (erro de servidor, 2 tentativas). 'DM2' e abreviacao comum para diabetes mellitus tipo 2 em portugues -- hipotese nao confirmada de nicho…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp"
+   ]
+  },
+  {
    "slug": "metodo-gringa-turbo",
    "nome": "Metodo Gringa Turbo",
    "classe": "oferta",
@@ -19768,7 +19983,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Oblivium%20Digital&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-15",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Achado novo, mencao unica. Nome do vendedor/produtor aparece explicito no titulo da reclamacao ('Oblivium Digital'), mas o comprador nao diz o que comprou -- so que nao recebeu o produto, pediu cancelamento e o vendedor parou de responder enquanto as parcelas…",
    "flags": [
     "score-provisorio",
@@ -22667,7 +22882,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopPro&search_type=keyword_unordered&media_type=all",
    "n_obs": 2,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 3,
+   "n_citacoes": 4,
    "resumo": "Curso de e-commerce/loja online; comprador não se identificou com o conteúdo e teve demora no reembolso apesar de promessa de devolução rápida. Nome extraído do corpo da reclamação (confirmar antes de usar como termo de busca).",
    "flags": [
     "score-provisorio",
@@ -23060,7 +23275,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 21,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 65,
+   "n_citacoes": 66,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -23840,7 +24055,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-16",
-   "n_citacoes": 10,
+   "n_citacoes": 11,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -24880,21 +25095,21 @@
    "score": 5.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-15",
-   "rodadas_vista": 18,
+   "visto_ultimo": "2026-10-16",
+   "rodadas_vista": 19,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 26,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-15",
+   "ra_checado": "2026-10-16",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://whatsradar.com/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 20,
-   "ultima_obs": "2026-10-15",
-   "n_citacoes": 41,
+   "n_obs": 21,
+   "ultima_obs": "2026-10-16",
+   "n_citacoes": 43,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -24964,8 +25179,8 @@
    "arquivo": "Radar/2026-10-16.md",
    "data": "2026-10-16",
    "titulo": "Radar 2026-10-16",
-   "ofertas_vistas": 23,
-   "novas": 6,
+   "ofertas_vistas": 31,
+   "novas": 10,
    "retornaram": 1,
    "sumiram": 0,
    "fontes": [
@@ -24974,12 +25189,13 @@
     "eduzz",
     "hotmart",
     "kiwify",
+    "payt",
     "perfectpay",
     "ticto",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 5,
+   "n_passadas": 6,
    "leitura": ""
   },
   {
@@ -25683,6 +25899,32 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-16 -- 2146.md",
+   "data": "2026-10-16",
+   "hora": "21:46",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "payt"
+   ],
+   "paginas": 1,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "a-renda-da-fortuna",
+    "cardplay-app",
+    "cashnopix",
+    "oblivium-digital-vendedor-produto-nao-identificado",
+    "shoppro",
+    "stalkeia-ai",
+    "trendly",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, payt · Páginas: 1 · Coleta: parcial · Achados: 12 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade zap-radar -- Payt · mesma reclamacao, zero novidade…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-16 -- 1717.md",
    "data": "2026-10-16",
@@ -28136,8 +28378,8 @@
     "angulo": 5
    },
    "2026-10-16": {
-    "oferta": 3,
-    "angulo": 3
+    "oferta": 5,
+    "angulo": 5
    }
   },
   "observacoes": {
@@ -28177,7 +28419,7 @@
    "2026-10-13": 18,
    "2026-10-14": 38,
    "2026-10-15": 35,
-   "2026-10-16": 23
+   "2026-10-16": 31
   }
  },
  "analises": [
@@ -28646,49 +28888,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 359
+    "total": 361
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 359
+    "total": 361
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 359
+    "total": 361
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 330,
-    "total": 359
+    "preenchidas": 332,
+    "total": 361
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 177,
-    "total": 359
+    "total": 361
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 359
+    "total": 361
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 359
+    "total": 361
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 302,
-    "total": 359
+    "preenchidas": 304,
+    "total": 361
    }
   ],
   "fila_enriquecimento": [
@@ -28751,7 +28993,6 @@
    "angulo-mentoria-online-hotmart-nome-incerto",
    "angulo-nome-nao-capturado-ebook-de-curriculo",
    "angulo-novo-app-avaliador-ganhos-com-criptomoedas-via-ia",
-   "angulo-oblivium-digital-produto-nao-identificado",
    "angulo-oracao-perdida-nome-incerto",
    "angulo-pacote-de-figurinha-virtual-sem-nome",
    "angulo-pacote-de-jogo-com-moeda-infinita-indicacao-de-youtuber",
@@ -28890,7 +29131,7 @@
    "zapturbomax-pulse-mkt-digital"
   ],
   "estilos_frontmatter": {
-   "canonico": 1319
+   "canonico": 1331
   }
  },
  "vocabulario": {
@@ -28937,22 +29178,22 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "31e8c2a3d78ed190",
-  "atualizado_em": "2026-10-16T17:19:18-03:00",
-  "ofertas": 359,
-  "angulos": 92,
-  "observacoes": 868,
+  "hash": "4104c378c295ea38",
+  "atualizado_em": "2026-10-16T21:49:43-03:00",
+  "ofertas": 361,
+  "angulos": 94,
+  "observacoes": 876,
   "ultima_rodada": "2026-10-16",
   "ultima_passada": {
    "data": "2026-10-16",
-   "hora": "17:17",
+   "hora": "21:46",
    "coleta": "parcial",
    "gateways": [
     "perfectpay",
     "cakto-pay",
     "kiwify",
     "hotmart",
-    "eduzz"
+    "payt"
    ]
   }
  }
