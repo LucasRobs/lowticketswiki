@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/divas-milionarias"
-gateways_detectados: [kiwify, hotmart-kiwify]
+gateways_detectados: [kiwify, hotmart]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [kiwify, hotmart-kiwify]
+ra_plataformas: [kiwify, hotmart]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-04
 veredito: observar

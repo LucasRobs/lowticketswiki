@@ -332,3 +332,50 @@ vencido). O dashboard mostra o mesmo relatório em *Qualidade*.
 torna o número frágil: `lucro-sem-medicao`, `score-provisorio` (algum eixo em 0 = sentinela),
 `sem-longevidade`, `checkout-desconhecido`, `sem-lp`, `status-vencido`. Decisão "descartar" com
 score provisório aparece como **"A avaliar"** — a fórmula não decide com eixo sentinela.
+
+---
+
+## Adendo — `braip` e `yampi` entram no vocabulario de gateway (2026-10-18)
+
+Auditoria de organizacao (`--verificar`) encontrou 50 avisos de vocabulario. A maior parte
+(13 notas) era `braip` ou `yampi` em `checkout`/`gateways_detectados`/`ra_plataformas` — os
+dois sao gateways reais, cobertos pela propria rotacao do Radar (`references/gateways.md` da
+skill `radar-low-ticket`), so ausentes desta lista. Registrados agora, mesmo padrao dos adendos
+de `payt` e `onprofit`:
+
+| Valor | Onde apareceu |
+|---|---|
+| `braip` | `checkout` de [[entendimento]], [[gold-card-tv]], [[kit-hevovix]], [[poptv]], [[sistema-b2drop]], [[vonixx-curso-de-estofamento-automotivo]] |
+| `yampi` | `checkout` de [[gospel-worship]], [[lucennto]], [[mago-dos-cortes]], [[maquina-de-vendas-realizada-mvr]], [[mvr-by-daniel-fernandes]], [[portovian]] |
+
+O restante dos avisos de vocabulario (`hotmart-kiwify`, `perfectpay-kiwify`, `cakto-pay` em
+`gateways_detectados`/`ra_plataformas` de [[divas-milionarias]], [[fornecedores-ocultos-fornecedores-nfc]],
+[[lumi-ai]], [[minha-historinha]], [[muscleflix]], [[protocolo-de-reprogramacao-neural]]) nao era
+vocabulario faltando — era valor composto/com slug errado escrito ao lado do valor certo que ja
+estava na lista (ex.: `[cakto, cakto-pay]`). Corrigido direto na nota, sem precisar de vocabulario
+novo: `cakto-pay` removido (duplicata de `cakto`, slug de URL do ReclameAqui, nao o valor
+canonico); `hotmart-kiwify` → `hotmart`; `perfectpay-kiwify` → `perfectpay` (o gateway que faltava
+na lista, mantendo o que ja estava certo).
+
+Lista completa atualizada para `checkout`, `gateways_detectados` e `ra_plataformas`:
+
+`perfectpay` · `cakto` · `kirvano` · `lastlink` · `wiapy` · `lowify` · `kiwify` ·
+`hotmart` · `ticto` · `monetizze` · `eduzz` · `braip` · `yampi` · `hubla` · `ggcheckout` ·
+`payt` · `onprofit` · `stripe` · `clickbank` · `whatsapp` · `proprio` · `desconhecido`
+
+### Nota sobre os outros 14 avisos (`s_lucro >= 7` sem longevidade)
+
+Nao tocados nesta passada. `Scoring.md` (adendo 31/08) ja decidiu isso: o teto de 6 so reordena
+no meio da tabela quando o score fica abaixo de 7,5, e recortar em lote seria substituir um
+palpite por outro. Ficam na fila para quando a Etapa 1 (idade real) estiver disponivel.
+
+### Nota sobre o aviso `status: nova vencido` (192 notas)
+
+Tambem nao e um bug de dado: desde o adendo de 27/09 (`## Adendo — o vault alimenta o
+dashboard`), a flag `status-vencido` e **computada no dashboard**, nao gravada na nota — o
+campo `status` na nota pode ficar `nova` depois da estreia sem quebrar o Ranking, porque a
+Etapa 4 ja desconta isso via `flags`. Reescrever `status` em lote nas 192 notas duplicaria
+essa logica numa segunda fonte de verdade e arrisca divergir dela. Se algum dia o ciclo de
+vida do `Scoring.md` (22-23/08) for reimplementado em `vault.py` para gravar `status` de
+verdade a cada passada (hoje nenhuma funcao faz isso — so a skill mexia nisso a mao em 22-23/08),
+esse e o lugar certo: computar uma vez no pipeline, nunca em edicao manual de 192 arquivos.

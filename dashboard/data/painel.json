@@ -12126,7 +12126,7 @@
    "prioridade": 0,
    "checkout": "kiwify",
    "gateways": [
-    "hotmart-kiwify",
+    "hotmart",
     "kiwify"
    ],
    "plataforma_ads": [
@@ -13405,8 +13405,7 @@
    "checkout": "perfectpay",
    "gateways": [
     "kiwify",
-    "perfectpay",
-    "perfectpay-kiwify"
+    "perfectpay"
    ],
    "plataforma_ads": [
     "meta"
@@ -17341,8 +17340,7 @@
    "prioridade": 0,
    "checkout": "cakto",
    "gateways": [
-    "cakto",
-    "cakto-pay"
+    "cakto"
    ],
    "plataforma_ads": [
     "meta"
@@ -19226,8 +19224,7 @@
    "prioridade": 0,
    "checkout": "cakto",
    "gateways": [
-    "cakto",
-    "cakto-pay"
+    "cakto"
    ],
    "plataforma_ads": [
     "meta"
@@ -20002,8 +19999,7 @@
    "prioridade": 0,
    "checkout": "cakto",
    "gateways": [
-    "cakto",
-    "cakto-pay"
+    "cakto"
    ],
    "plataforma_ads": [
     "meta"
@@ -21951,8 +21947,7 @@
    "prioridade": 0,
    "checkout": "cakto",
    "gateways": [
-    "cakto",
-    "cakto-pay"
+    "cakto"
    ],
    "plataforma_ads": [
     "meta"
@@ -29385,106 +29380,10 @@
     "codigo": "regra-s_lucro"
    },
    {
-    "arquivo": "Ofertas/divas-milionarias.md",
-    "campo": "gateways_detectados",
-    "msg": "'hotmart-kiwify' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/divas-milionarias.md",
-    "campo": "ra_plataformas",
-    "msg": "'hotmart-kiwify' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/entendimento.md",
-    "campo": "checkout",
-    "msg": "checkout 'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/entendimento.md",
-    "campo": "gateways_detectados",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/entendimento.md",
-    "campo": "ra_plataformas",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/fornecedores-ocultos-fornecedores-nfc.md",
-    "campo": "gateways_detectados",
-    "msg": "'perfectpay-kiwify' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/fornecedores-ocultos-fornecedores-nfc.md",
-    "campo": "ra_plataformas",
-    "msg": "'perfectpay-kiwify' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/gold-card-tv.md",
-    "campo": "checkout",
-    "msg": "checkout 'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/gold-card-tv.md",
-    "campo": "gateways_detectados",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/gold-card-tv.md",
-    "campo": "ra_plataformas",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/gospel-worship.md",
-    "campo": "checkout",
-    "msg": "checkout 'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/gospel-worship.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/gospel-worship.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
     "arquivo": "Ofertas/kit-300-aulas-edfisica.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
     "codigo": "regra-s_lucro"
-   },
-   {
-    "arquivo": "Ofertas/kit-hevovix.md",
-    "campo": "checkout",
-    "msg": "checkout 'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/kit-hevovix.md",
-    "campo": "gateways_detectados",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/kit-hevovix.md",
-    "campo": "ra_plataformas",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
    },
    {
     "arquivo": "Ofertas/lowify-app-historias.md",
@@ -29493,178 +29392,10 @@
     "codigo": "regra-s_lucro"
    },
    {
-    "arquivo": "Ofertas/lucennto.md",
-    "campo": "checkout",
-    "msg": "checkout 'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/lucennto.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/lucennto.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/lumi-ai.md",
-    "campo": "gateways_detectados",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/lumi-ai.md",
-    "campo": "ra_plataformas",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mago-dos-cortes.md",
-    "campo": "checkout",
-    "msg": "checkout 'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mago-dos-cortes.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mago-dos-cortes.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/maquina-de-vendas-realizada-mvr.md",
-    "campo": "checkout",
-    "msg": "checkout 'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/maquina-de-vendas-realizada-mvr.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/maquina-de-vendas-realizada-mvr.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/minha-historinha.md",
-    "campo": "gateways_detectados",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/minha-historinha.md",
-    "campo": "ra_plataformas",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/muscleflix.md",
-    "campo": "gateways_detectados",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/muscleflix.md",
-    "campo": "ra_plataformas",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mvr-by-daniel-fernandes.md",
-    "campo": "checkout",
-    "msg": "checkout 'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mvr-by-daniel-fernandes.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mvr-by-daniel-fernandes.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mvr-daniel-fernandes.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/mvr-daniel-fernandes.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
     "arquivo": "Ofertas/parabolas-kids.md",
     "campo": "s_lucro",
     "msg": "s_lucro 7 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
     "codigo": "regra-s_lucro"
-   },
-   {
-    "arquivo": "Ofertas/poptv.md",
-    "campo": "checkout",
-    "msg": "checkout 'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/poptv.md",
-    "campo": "gateways_detectados",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/poptv.md",
-    "campo": "ra_plataformas",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/portovian.md",
-    "campo": "checkout",
-    "msg": "checkout 'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/portovian.md",
-    "campo": "gateways_detectados",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/portovian.md",
-    "campo": "ra_plataformas",
-    "msg": "'yampi' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/protocolo-de-reprogramacao-neural.md",
-    "campo": "gateways_detectados",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/protocolo-de-reprogramacao-neural.md",
-    "campo": "ra_plataformas",
-    "msg": "'cakto-pay' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
    },
    {
     "arquivo": "Ofertas/renovacao-da-mente-mulheres-no-secreto.md",
@@ -29679,24 +29410,6 @@
     "codigo": "regra-s_lucro"
    },
    {
-    "arquivo": "Ofertas/sistema-b2drop.md",
-    "campo": "checkout",
-    "msg": "checkout 'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/sistema-b2drop.md",
-    "campo": "gateways_detectados",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/sistema-b2drop.md",
-    "campo": "ra_plataformas",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
     "arquivo": "Ofertas/stalkeia-ai.md",
     "campo": "s_lucro",
     "msg": "s_lucro 8 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
@@ -29707,30 +29420,11 @@
     "campo": "s_lucro",
     "msg": "s_lucro 8 sem dias_no_ar nem ra_primeira_reclamacao (teto 6, Scoring.md 31/08)",
     "codigo": "regra-s_lucro"
-   },
-   {
-    "arquivo": "Ofertas/vonixx-curso-de-estofamento-automotivo.md",
-    "campo": "checkout",
-    "msg": "checkout 'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/vonixx-curso-de-estofamento-automotivo.md",
-    "campo": "gateways_detectados",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
-   },
-   {
-    "arquivo": "Ofertas/vonixx-curso-de-estofamento-automotivo.md",
-    "campo": "ra_plataformas",
-    "msg": "'braip' fora do vocabulario de gateway",
-    "codigo": "vocabulario"
    }
   ],
   "resumo_avisos": {
    "regra-s_lucro": 13,
-   "status-vencido": 1,
-   "vocabulario": 50
+   "status-vencido": 1
   },
   "cobertura": [
    {
@@ -30010,6 +29704,8 @@
    "ticto",
    "monetizze",
    "eduzz",
+   "braip",
+   "yampi",
    "hubla",
    "ggcheckout",
    "payt",
@@ -30041,8 +29737,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "ccbdb005de85fed5",
-  "atualizado_em": "2026-10-18T00:16:26-03:00",
+  "hash": "0754eb01ccce5b3c",
+  "atualizado_em": "2026-10-18T00:38:17-03:00",
   "ofertas": 369,
   "angulos": 97,
   "observacoes": 907,

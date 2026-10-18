@@ -42,7 +42,6 @@
   "ativos_pasta": "Ativos/fornecedores-ocultos-fornecedores-nfc",
   "gateways_detectados": [
    "perfectpay",
-   "perfectpay-kiwify",
    "kiwify"
   ],
   "bump_oculto": false,
@@ -50,7 +49,6 @@
   "ra_reclamacoes": 2,
   "ra_plataformas": [
    "perfectpay",
-   "perfectpay-kiwify",
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
@@ -74,8 +72,7 @@
   ],
   "gateways": [
    "kiwify",
-   "perfectpay",
-   "perfectpay-kiwify"
+   "perfectpay"
   ]
  },
  "corpo": "# Fornecedores Ocultos / Fornecedores NFC\n\n## Angulo\nCurso/comunidade de 'fornecedores ocultos' para loja virtual. Mesma familia de oferta aparece com nomes levemente diferentes (Curso+Comunidade Fornecedores NFC na PerfectPay, Sistema de Fornecedores Ocultos na Kiwify) e ja foi vista com produtor diferente (Marcelle Martins) na passada anterior - clones/multiplos produtores no mesmo angulo.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/curso-online-nao-corresponde-ao-anunciado-solicitacao-de-cancelamento-e-reembolso_1m7vKk1v83TN8jpq/\n\n## Historico\n\n## Rodada 2026-10-05\n\n2 mencao(oes) nesta varredura (gateway PerfectPay, Kiwify). Cluster recorrente de cursos de dropshipping com 'lista de fornecedores ocultos'. Nesta passada: variante com produtora Marcelle Martins (Kiwify) e variante 'Curso + Comunidade + Fornecedores NFC' sem produtor identificado (PerfectPay). Mesmo padrão de oferta, múltiplos produtores/gateways — sinal de operação grande e replicada.\n\nEvidencia: https://www.reclameaqui.com.br/kiwify/nao-recebi-o-reembolso-do-sistema-de-fornecedores-ocultos_Cc1GBhG8hqVFybz0/\n",

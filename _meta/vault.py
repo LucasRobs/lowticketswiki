@@ -71,11 +71,11 @@ QUOTE_KEYS = {"nome", "url_pagina", "url_ads", "ativos_pasta", "ra_primeira_recl
 BARE_KEYS = {"slug", "nicho", "sub_nicho", "idioma", "pais", "checkout", "status", "veredito",
              "moeda", "tipo", "classe", "coleta", "fonte"}
 
-# Vocabulario controlado (Schema.md, adendos de 22/08, 31/08 e 06/09)
+# Vocabulario controlado (Schema.md, adendos de 22/08, 31/08, 06/09 e 18/10)
 GATEWAYS = [
     "perfectpay", "cakto", "kirvano", "lastlink", "wiapy", "lowify", "kiwify", "hotmart",
-    "ticto", "monetizze", "eduzz", "hubla", "ggcheckout", "payt", "onprofit", "stripe",
-    "clickbank", "whatsapp", "proprio", "desconhecido",
+    "ticto", "monetizze", "eduzz", "braip", "yampi", "hubla", "ggcheckout", "payt",
+    "onprofit", "stripe", "clickbank", "whatsapp", "proprio", "desconhecido",
 ]
 STATUS = ["nova", "aquecendo", "ativa", "esfriando", "morta"]
 VEREDITOS = ["replicar", "observar", "descartar", "replicando", "replicada"]

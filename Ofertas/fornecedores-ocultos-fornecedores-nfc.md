@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/fornecedores-ocultos-fornecedores-nfc"
-gateways_detectados: [perfectpay, perfectpay-kiwify, kiwify]
+gateways_detectados: [perfectpay, kiwify]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 2
-ra_plataformas: [perfectpay, perfectpay-kiwify, kiwify]
+ra_plataformas: [perfectpay, kiwify]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-05
 veredito: observar

@@ -42,14 +42,14 @@
   "ativos_pasta": "Ativos/divas-milionarias",
   "gateways_detectados": [
    "kiwify",
-   "hotmart-kiwify"
+   "hotmart"
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 2,
   "ra_plataformas": [
    "kiwify",
-   "hotmart-kiwify"
+   "hotmart"
   ],
   "ra_primeira_reclamacao": "",
   "ra_checado": "2026-10-04",
@@ -70,7 +70,7 @@
    "sem-lp"
   ],
   "gateways": [
-   "hotmart-kiwify",
+   "hotmart",
    "kiwify"
   ]
  },

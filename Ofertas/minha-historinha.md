@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/minha-historinha"
-gateways_detectados: [cakto, cakto-pay]
+gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 1
-ra_plataformas: [cakto, cakto-pay]
+ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-09-29
 veredito: observar
