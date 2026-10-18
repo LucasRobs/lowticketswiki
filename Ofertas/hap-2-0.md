@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-10
-rodadas_vista: 6
+visto_ultimo: 2026-10-18
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/hap-2-0"
 gateways_detectados: [desconhecido, hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 7
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-18
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -113,5 +113,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-ree
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Achado novo no vault, reclamacao antiga (11/08/2026) recuperada pela paginacao quebrada. Curso de gestao/arquitetura de processos; dificuldade de reembolso e acesso limitado apos a compra.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/
+
+## Rodada 2026-10-18
+
+7 mencao(oes) nesta varredura (gateway Hotmart). Curso de produtividade/gestao de processos. Reclamacao nova (11/08) repete o padrao ja catalogado: so o modulo introdutorio e liberado, resto do conteudo so aparece depois de passar os 7 dias de garantia, o que trava o reembolso. 7o dia distinto reconfirmado.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/

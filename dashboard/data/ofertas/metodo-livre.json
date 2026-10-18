@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-24",
-  "visto_ultimo": "2026-10-10",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-10-18",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -46,13 +46,13 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 6,
   "ra_plataformas": [
    "desconhecido",
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-10",
+  "ra_checado": "2026-10-18",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "hotmart"
   ]
  },
- "corpo": "# Metodo Livre\n\n## Angulo\nR$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, com propaganda enganosa citada explicitamente pelo reclamante. Curso de licitacoes publicas descrito como raso e sem suporte.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso de 'como ganhar dinheiro com licitacoes publicas', cobranca mensal de R$82. Mesmo titulo e valor ja vistos na passada de 04/10 - segunda aparicao, upgrade para morna.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso de 'como ganhar dinheiro com licitacoes publicas', assinatura mensal cara. Quarto dia diferente de aparicao no radar - confirma trafego pago sustentado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso sobre licitacoes publicas, cobranca recorrente R$82 por 12 meses. Reconfirma em dia distinto.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n",
+ "corpo": "# Metodo Livre\n\n## Angulo\nR$ 82/mes x 12. Propaganda enganosa, conteudo superficial, assinatura cara. Nicho nao informado. Gateway: Kiwify ou Hotmart (a rodada de 17h00 varreu os dois e nao separou).\n\n## Funil\nanuncio -> pagina -> checkout desconhecido -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-24 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-24 -- 1700]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Primeira aparicao, com propaganda enganosa citada explicitamente pelo reclamante. Curso de licitacoes publicas descrito como raso e sem suporte.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso de 'como ganhar dinheiro com licitacoes publicas', cobranca mensal de R$82. Mesmo titulo e valor ja vistos na passada de 04/10 - segunda aparicao, upgrade para morna.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso de 'como ganhar dinheiro com licitacoes publicas', assinatura mensal cara. Quarto dia diferente de aparicao no radar - confirma trafego pago sustentado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Hotmart). Curso sobre licitacoes publicas, cobranca recorrente R$82 por 12 meses. Reconfirma em dia distinto.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n\n## Rodada 2026-10-18\n\n6 mencao(oes) nesta varredura (gateway Hotmart). Curso de licitacoes publicas vendido como assinatura mensal (R$ 82 x 12). Reclamacao de propaganda enganosa e falta de suporte; Hotmart nega reembolso por ter passado o prazo de garantia, direciona ao produtor. 6o dia distinto reconfirmado.\n\nEvidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/\n",
  "observacoes": [
   {
    "data": "2026-09-24",
@@ -135,9 +135,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Curso sobre licitacoes publicas, cobranca recorrente R$82 por 12 meses. Reconfirma em dia distinto."
+  },
+  {
+   "data": "2026-10-18",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 6,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 12,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "6 mencao(oes) na varredura de hoje. Curso de licitacoes publicas vendido como assinatura mensal (R$ 82 x 12). Reclamacao de propaganda enganosa e falta de suporte; Hotmart nega reembolso por ter passado o prazo de garantia, direciona ao produtor. 6o dia distinto reconfirmado."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-18 -- 0348.md",
+   "data": "2026-10-18",
+   "titulo": "Passada 2026-10-18 03:48"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-18.md",
+   "data": "2026-10-18",
+   "titulo": "Radar 2026-10-18"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-10.md",

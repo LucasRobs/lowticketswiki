@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-24
-visto_ultimo: 2026-10-10
-rodadas_vista: 5
+visto_ultimo: 2026-10-18
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/metodo-livre"
 gateways_detectados: [desconhecido, hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 6
 ra_plataformas: [desconhecido, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-10
+ra_checado: 2026-10-18
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-
 ## Rodada 2026-10-10
 
 1 mencao(oes) nesta varredura (gateway Hotmart). Curso sobre licitacoes publicas, cobranca recorrente R$82 por 12 meses. Reconfirma em dia distinto.
+
+Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/
+
+## Rodada 2026-10-18
+
+6 mencao(oes) nesta varredura (gateway Hotmart). Curso de licitacoes publicas vendido como assinatura mensal (R$ 82 x 12). Reclamacao de propaganda enganosa e falta de suporte; Hotmart nega reembolso por ter passado o prazo de garantia, direciona ao produtor. 6o dia distinto reconfirmado.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/

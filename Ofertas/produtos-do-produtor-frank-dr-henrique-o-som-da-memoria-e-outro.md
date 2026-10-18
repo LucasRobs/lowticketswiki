@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-08
-rodadas_vista: 2
+visto_ultimo: 2026-10-18
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-10-18
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -89,5 +89,11 @@ views:
 ## Rodada 2026-10-08
 
 2 mencao(oes) nesta varredura (gateway Ticto). Produto 'O Som da Memoria' do produtor Frank Henrique, reembolso nao efetuado. 2ª rodada em dia diferente (04/10 e agora 08/10).
+
+Evidencia: https://www.reclameaqui.com.br/ticto/cancelamento-e-reembolso-nao-efetuados-para-o-produto-o-som-da-memoria_irzYC2iR04E_LjPX/
+
+## Rodada 2026-10-18
+
+3 mencao(oes) nesta varredura (gateway Ticto). Produto de memoria/saude divulgado pelo produtor 'Dr Henrique'. Reclamacao nova por demora no reembolso apos pedido dentro do prazo; resolvida com nota 10. 3o dia distinto reconfirmado.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/cancelamento-e-reembolso-nao-efetuados-para-o-produto-o-som-da-memoria_irzYC2iR04E_LjPX/

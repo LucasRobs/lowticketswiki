@@ -26,20 +26,20 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-16
-visto_ultimo: 2026-10-17
-rodadas_vista: 2
+visto_ultimo: 2026-10-18
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-pendrive-anunciado-entrega-so-acesso-online"
-gateways_detectados: [hotmart]
+gateways_detectados: [hotmart, perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: [hotmart]
+ra_reclamacoes: 4
+ra_plataformas: [hotmart, perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-17
+ra_checado: 2026-10-18
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Hotmart). Mecanismo classico de propaganda enganosa (pendrive fisico anunciado, so acesso online entregue). Mesma reclamacao de 16/10, agora confirmada em segundo dia diferente -- sobe de fria para morna.
 
 Evidencia: https://www.reclameaqui.com.br/hotmart/fui-enganado-com-propaganda-de-pen-drive-e-recebi-apenas-acesso-online_q7WBMk5ZvwKDD5Ay/
+
+## Rodada 2026-10-18
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). Mesmo mecanismo de bait-and-switch fisico->digital ja catalogado (3 ocorrencias na Hotmart), agora com evidencia nova em outro gateway (PerfectPay): compradora diz ter comprado pensando ser produto fisico e descoberto depois que era curso. Confirma que o angulo nao e exclusivo de um gateway. 4a ocorrencia, sobe para quente.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-de-curso-que-comprei-pensando-ser-produto-fisico_3dLpxOdBfBZHiROG/

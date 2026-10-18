@@ -5,20 +5,21 @@
    "arquivo": "Radar/2026-10-18.md",
    "data": "2026-10-18",
    "titulo": "Radar 2026-10-18",
-   "ofertas_vistas": 2,
-   "novas": 0,
-   "retornaram": 0,
+   "ofertas_vistas": 10,
+   "novas": 1,
+   "retornaram": 3,
    "sumiram": 0,
    "fontes": [
     "cakto",
     "hotmart",
     "kiwify",
     "monetizze",
-    "perfectpay"
+    "perfectpay",
+    "ticto"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-18\n\n## Novas\n\n## Movimento\n\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n- [[perfect-liss]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-18 -- 0015]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 2 achado(s) - Pagina 1 congelada nos 4 gateways fixos (zero nome novo); rotativo Monetizze reconfirma Lift Gold e Perfect Liss com a mesma evidencia de…\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-18\n\n## Novas\n\n- [[angulo-assinatura-de-radio-online-cancelada-sem-aviso]] — streaming-e-acesso — nao informado (pacotes pagos) — Primeira vez visto. Comprador pagou por pacotes de uma radio online via Ticto; a radio saiu do ar sem aviso e sem resposta do suporte por…\n\n## Movimento\n\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n- [[perfect-liss]] — ra_reclamacoes atualizado para 1\n- [[hap-2-0]] — ra_reclamacoes atualizado para 7\n- [[metodo-livre]] — ra_reclamacoes atualizado para 6\n- [[shape-max-dance]] — ra_reclamacoes atualizado para 2\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] — ra_reclamacoes atualizado para 4\n\n## Retornaram\n\n- [[hi-spy-4-0]] — espionagem-rastreamento — reapareceu (6 mencao(oes))\n- [[produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro]] — marketing-digital — reapareceu (3 mencao(oes))\n- [[fluency-route]] — idiomas — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-18 -- 0015]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 2 achado(s) - Pagina 1 congelada nos 4 gateways fixos (zero nome novo); rotativo Monetizze reconfirma Lift Gold e Perfect Liss com a mesma evidencia de…\n- [[2026-10-18 -- 0348]] - perfectpay, cakto-pay, kiwify, hotmart, ticto - 8 achado(s) - Sem marca nova; 6 ofertas/angulos ja catalogados reconfirmados com evidencia fresca (HAP 2.0, Metodo Livre, HI SPY 4.0, Frank/Dr Henrique…\n"
   },
   {
    "arquivo": "Radar/2026-10-17.md",
@@ -771,6 +772,31 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-18 -- 0348.md",
+   "data": "2026-10-18",
+   "hora": "03:48",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "ticto"
+   ],
+   "paginas": 49,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-pendrive-anunciado-entrega-so-acesso-online",
+    "fluency-route",
+    "hap-2-0",
+    "hi-spy-4-0",
+    "metodo-livre",
+    "produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro",
+    "shape-max-dance"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-18]].\n\n# Rodada — 18/10/2026 · 03:48 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, ticto · **Páginas:** 49 · **Coleta:** parcial · **Achados:** 8\n\n## Quentes\n- [[hap-2-0]] -- Hotmart · 7o dia distinto, mesmo padrao de garantia travada por conteudo parcial\n- [[metodo-livre]] -- Hotmart · 6o dia distinto, assinatura R$82/mes de curso de licitacao\n- [[hi-spy-4-0]] -- Ticto · 6o dia distinto, app de espionagem por assinatura anual\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] -- PerfectPay · 4a ocorrencia, primeira fora da Hotmart\n\n## Mornas\n- [[produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro]] -- Ticto · 3o dia distinto\n- [[fluency-route]] -- Kiwify · 2o dia distinto, queda de acesso por migracao de plataforma\n- [[shape-max-dance]] -- Ticto · 2o dia distinto, so 3 de N aulas liberadas\n\n## Frias (novas)\n- angulo assinatura de radio online cancelada sem aviso -- Ticto\n\nLeitura: janela nominal de ~3h30 (00:15 a 03:48), mas bug de paginacao do ReclameAqui segue ativo -- 19a+ passada consecutiva com o mesmo travamento desde 04/10. PerfectPay: so pagina 1 respondeu em 13 tentativas (paginas 2-13 todas '0 de 0'), e pagina 1 trouxe os mesmos titulos genericos ja vistos (Anunciaie, curso freelancer, avaliacao remunerada). Cakto: falhou nas 4 tentativas (erro de conexao, nao e o bug de paginacao -- parece bloqueio/instabilidade pontual do lado do RA para esse slug). Kiwify, Hotmart e Ticto tiveram taxa de sucesso parcial (~50-60% das paginas tentadas), o que permitiu avancar alem da pagina 1 e achar evidencia nova para 6 ofertas/angulos ja catalogados mais 1 angulo novo -- nenhuma marca nova nesta passada.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-18 -- 0015.md",
    "data": "2026-10-18",

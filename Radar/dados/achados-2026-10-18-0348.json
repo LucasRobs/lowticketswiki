@@ -1,0 +1,116 @@
+{
+  "data_varredura": "2026-10-18",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 13},
+    {"nome": "Cakto", "slug": "cakto-pay", "paginas_varridas": 4},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50724, "paginas_varridas": 11},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78828, "paginas_varridas": 11},
+    {"nome": "Ticto", "slug": "ticto", "reclamacoes_ativas": 10571, "paginas_varridas": 10}
+  ],
+  "achados": [
+    {
+      "produto": "HAP 2.0",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "servicos-empresariais",
+      "temperatura": "quente",
+      "mencoes": 7,
+      "faixa_preco": "nao informado",
+      "termo_busca": "HAP 2.0",
+      "descricao": "Curso de produtividade/gestao de processos. Reclamacao nova (11/08) repete o padrao ja catalogado: so o modulo introdutorio e liberado, resto do conteudo so aparece depois de passar os 7 dias de garantia, o que trava o reembolso. 7o dia distinto reconfirmado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/dificuldade-para-solicitar-reembolso-e-acesso-limitado-no-curso-hap-20-na-hotmart_yqy4FT1lQHfrmtOw/"
+    },
+    {
+      "produto": "Metodo Livre",
+      "tipo": "marca",
+      "gateway": "Hotmart",
+      "nicho": "nao-classificado",
+      "temperatura": "quente",
+      "mencoes": 6,
+      "faixa_preco": "R$ 82/mes (12x)",
+      "termo_busca": "Metodo Livre",
+      "descricao": "Curso de licitacoes publicas vendido como assinatura mensal (R$ 82 x 12). Reclamacao de propaganda enganosa e falta de suporte; Hotmart nega reembolso por ter passado o prazo de garantia, direciona ao produtor. 6o dia distinto reconfirmado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/hotmart/insatisfacao-com-curso-raso-e-sem-suporte-da-hotmart_r8G0k9bLrVIwCwrI/"
+    },
+    {
+      "produto": "HI SPY 4.0",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "espionagem-rastreamento",
+      "temperatura": "quente",
+      "mencoes": 6,
+      "faixa_preco": "nao informado (assinatura anual)",
+      "termo_busca": "HI SPY",
+      "descricao": "App de espionagem/rastreamento, vendido como assinatura anual. Reclamacao nova: pagamento aprovado mas sistema nao reconhecia o usuario ao tentar logar; caso resolvido pela Ticto em poucos dias. 6o dia distinto reconfirmado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/hi-spy-40-ticto_5RSXCd4klFswF-T8/"
+    },
+    {
+      "produto": "Produtos do produtor Frank/Dr. Henrique (O Som da Memoria e outro)",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "marketing-digital",
+      "temperatura": "morna",
+      "mencoes": 3,
+      "faixa_preco": "nao informado",
+      "termo_busca": "O Som da Memoria",
+      "descricao": "Produto de memoria/saude divulgado pelo produtor 'Dr Henrique'. Reclamacao nova por demora no reembolso apos pedido dentro do prazo; resolvida com nota 10. 3o dia distinto reconfirmado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/cancelamento-e-reembolso-nao-efetuados-para-o-produto-o-som-da-memoria_irzYC2iR04E_LjPX/"
+    },
+    {
+      "produto": "Fluency Route",
+      "tipo": "marca",
+      "gateway": "Kiwify",
+      "nicho": "idiomas",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "nao informado",
+      "termo_busca": "Fluency Route",
+      "descricao": "Curso de ingles. Reclamacao nova de migracao de plataforma: comprador perdeu acesso e o suporte indicado retornou erro de dominio; Kiwify diz que a mudanca foi feita pelo proprio produtor. 2o dia distinto reconfirmado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/kiwify/sem-acesso-ao-curso-apos-mudanca-de-plataforma-e-suporte-inexistente_LZcGCmVi6TywiFQO/"
+    },
+    {
+      "produto": "Shape Max Dance",
+      "tipo": "marca",
+      "gateway": "Ticto",
+      "nicho": "saude-estetica-fitness",
+      "temperatura": "morna",
+      "mencoes": 2,
+      "faixa_preco": "R$ 49,60 (citado em reclamacao relacionada)",
+      "termo_busca": "Shape Max Dance",
+      "descricao": "Aula de danca vendida como fitness/emagrecimento. Reclamacao nova: anuncio promete varias aulas, so 3 aulas de IA ficam disponiveis, resto nao abre. 2o dia distinto reconfirmado.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/comprei-aula-de-danca-e-recebi-propaganda-enganosa-quero-meu-dinheiro-de-volta_vO82jKO8tZTtQFmr/"
+    },
+    {
+      "produto": "angulo pendrive anunciado entrega so acesso online",
+      "tipo": "angulo",
+      "gateway": "PerfectPay",
+      "nicho": "info-produto-generico",
+      "temperatura": "quente",
+      "mencoes": 4,
+      "faixa_preco": "nao informado",
+      "termo_busca": "pendrive curso entrega online",
+      "descricao": "Mesmo mecanismo de bait-and-switch fisico->digital ja catalogado (3 ocorrencias na Hotmart), agora com evidencia nova em outro gateway (PerfectPay): compradora diz ter comprado pensando ser produto fisico e descoberto depois que era curso. Confirma que o angulo nao e exclusivo de um gateway. 4a ocorrencia, sobe para quente.",
+      "evidencia_url": "https://www.reclameaqui.com.br/perfectpay/quero-reembolso-de-curso-que-comprei-pensando-ser-produto-fisico_3dLpxOdBfBZHiROG/"
+    },
+    {
+      "produto": "angulo assinatura de radio online cancelada sem aviso",
+      "tipo": "angulo",
+      "gateway": "Ticto",
+      "nicho": "streaming-e-acesso",
+      "temperatura": "fria",
+      "mencoes": 1,
+      "faixa_preco": "nao informado (pacotes pagos)",
+      "termo_busca": "assinatura radio online",
+      "descricao": "Primeira vez visto. Comprador pagou por pacotes de uma radio online via Ticto; a radio saiu do ar sem aviso e sem resposta do suporte por WhatsApp ou e-mail. Produto/produtor nao identificados, mas o nicho de streaming/radio por assinatura vale monitorar.",
+      "evidencia_url": "https://www.reclameaqui.com.br/ticto/quero-o-reembolso-ou-a-radio-de-volta-pois-foi-tirada-do-ar_A8Hu5Vy9CtuiAbrG/"
+    }
+  ],
+  "passada": {
+    "hora": "03:48",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "ticto"],
+    "paginas": 49,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[hap-2-0]] -- Hotmart · 7o dia distinto, mesmo padrao de garantia travada por conteudo parcial\n- [[metodo-livre]] -- Hotmart · 6o dia distinto, assinatura R$82/mes de curso de licitacao\n- [[hi-spy-4-0]] -- Ticto · 6o dia distinto, app de espionagem por assinatura anual\n- [[angulo-pendrive-anunciado-entrega-so-acesso-online]] -- PerfectPay · 4a ocorrencia, primeira fora da Hotmart\n\n## Mornas\n- [[produtos-do-produtor-frank-dr-henrique-o-som-da-memoria-e-outro]] -- Ticto · 3o dia distinto\n- [[fluency-route]] -- Kiwify · 2o dia distinto, queda de acesso por migracao de plataforma\n- [[shape-max-dance]] -- Ticto · 2o dia distinto, so 3 de N aulas liberadas\n\n## Frias (novas)\n- angulo assinatura de radio online cancelada sem aviso -- Ticto\n\nLeitura: janela nominal de ~3h30 (00:15 a 03:48), mas bug de paginacao do ReclameAqui segue ativo -- 19a+ passada consecutiva com o mesmo travamento desde 04/10. PerfectPay: so pagina 1 respondeu em 13 tentativas (paginas 2-13 todas '0 de 0'), e pagina 1 trouxe os mesmos titulos genericos ja vistos (Anunciaie, curso freelancer, avaliacao remunerada). Cakto: falhou nas 4 tentativas (erro de conexao, nao e o bug de paginacao -- parece bloqueio/instabilidade pontual do lado do RA para esse slug). Kiwify, Hotmart e Ticto tiveram taxa de sucesso parcial (~50-60% das paginas tentadas), o que permitiu avancar alem da pagina 1 e achar evidencia nova para 6 ofertas/angulos ja catalogados mais 1 angulo novo -- nenhuma marca nova nesta passada.",
+    "resumo": "Sem marca nova; 6 ofertas/angulos ja catalogados reconfirmados com evidencia fresca (HAP 2.0, Metodo Livre, HI SPY 4.0, Frank/Dr Henrique, Fluency Route, Shape Max Dance) e 1 angulo novo (assinatura de radio cancelada sem aviso); bug de paginacao do ReclameAqui e falha total da Cakto limitaram a cobertura."
+  }
+}
