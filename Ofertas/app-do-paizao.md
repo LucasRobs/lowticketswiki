@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-11
-rodadas_vista: 8
+visto_ultimo: 2026-10-14
+rodadas_vista: 9
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 15
+ra_reclamacoes: 20
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-11
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -161,3 +161,9 @@ Mesma busca "avaliacaogratuitapaizao" de 05/10: ~19 anuncios de Carlao Silva (er
 15 mencao(oes) nesta varredura (gateway Kirvano). 5 reclamacoes com ID novo em 08-10/10: 261308641, 261253939 (compra de R$ 50 seguida de oferta de assinatura em 10 parcelas), 261245563 (assinatura anual R$ 289,99 em 12x no cartao, no 3o mes), 261167527 (plano anual contratado em 22/09) e 261114785. A escada e frente ~R$ 50 -> plano anual parcelado. Biblioteca, mesma busca: ~11 anuncios de Carlao Silva (eram ~19), todos iniciados entre 05 e 09/10 — outra rotacao de criativos em dias.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 261308641, 261253939, 261245563, 261167527, 261114785)
+
+## Rodada 2026-10-14
+
+19 mencao(oes) nesta varredura (gateway Kirvano). 4 reclamacoes nomeadas com ID novo: 261536183, 261487763, 261471967, 261401887 (cancelamento de assinatura). Nao contada, mas com a mesma escada: 261440249 (mes de R$ 50, depois 'promocao' de 1 ano a R$ 20/mes, cobrado em dobro; app de treino e dieta trava). Biblioteca, mesma busca: ~11 anuncios de Carlao Silva, iniciados de 05 a 09/10 — igual a 11/10, sem rotacao nova.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 261536183, 261487763, 261471967, 261401887)

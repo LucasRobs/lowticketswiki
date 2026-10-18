@@ -94,6 +94,6 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-
 
 ## Rodada 2026-10-14
 
-1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao da rodada de 23:32 (4a aparicao cumulativa no radar, dias diferentes: 06/10, 11/10, 13/10). Nenhuma reclamacao nova nesta janela, mas o padrao de garantia nao honrada persiste sem solucao.
+10 mencao(oes) nesta varredura (gateway Cakto). 5 reclamacoes com ID novo na Cakto: 261538423, 261463645 (plano Pro contratado em 10/10), 261424375 (app so trava), 261411993 (sem opcao de cancelar no app), 261395501 ('Larissa no WhatsApp / Direct Line' — primeira pista do que o app faz: atendente/assistente no WhatsApp).
 
-Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261538423, 261463645, 261424375, 261411993, 261395501)

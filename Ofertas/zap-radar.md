@@ -200,9 +200,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (12 ID
 
 ## Rodada 2026-10-14
 
-1 mencao(oes) nesta varredura (gateway Payt). Primeira aparicao no radar. App que o comprador nao conseguiu abrir, reclamacao de propaganda enganosa com pedido de estorno via Payt -- nome sugere app de rastreamento/espionagem de WhatsApp.
+43 mencao(oes) nesta varredura (gateway Payt). 17 reclamacoes nomeadas com ID novo: 16 na Payt (261553177, 261531979 R$ 137+137+67, 261521791, 261479251, 261455497 'ZAP radar - manual da verdade', 261443955, 261441449, 261440391, 261435027, 261432177 R$ 137 seguido de nova cobranca de R$ 147, 261429413, 261423861, 261415241, 261407899 'pagar mais R$ 137 para liberar o relatorio', 261405975, 261388035) e 1 na PerfectPay (261411875). Nao contadas: Manual da Verdade R$ 137 (261464591), Protocolo da Verdade R$ 67 (261441169), relatorio de audios R$ 137 (261530131), 'clonar zap' (261470179) e WhatsSpy Up1 na PerfectPay (261390567) — mesma mecanica, nome diferente.
 
-Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261553177 ... 261388035; PerfectPay 261411875)
 
 ## Rodada 2026-10-15
 

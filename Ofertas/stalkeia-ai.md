@@ -204,9 +204,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-um-app-de-espionage
 
 ## Rodada 2026-10-14
 
-2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar WhatsApp/Instagram. Grafias: Stalkea.ai, StalkeIA.com. As 2 reclamacoes visiveis nesta janela sao as mesmas da rodada de 23:32 (nenhuma reclamacao nova em 47min) -- segue sem resolver reembolso, sinal de que a oferta continua ativa.
+34 mencao(oes) nesta varredura (gateway PerfectPay). 6 reclamacoes nomeadas com ID novo na PerfectPay: 261503107, 261446151, 261445633, 261441547, 261414905, 261408091. Nao contadas: 261491319 ('Stalkeria', tres cobrancas de R$ 162), 261557075 (R$ 47,90 + 39,90 sem acesso, sem nome) e 261464561 (quatro Pix, sem nome).
 
-Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261503107, 261446151, 261445633, 261441547, 261414905, 261408091)
 
 ## Rodada 2026-10-15
 

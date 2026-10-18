@@ -33,7 +33,7 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-09-26",
-  "visto_ultimo": "2026-10-13",
+  "visto_ultimo": "2026-10-14",
   "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
@@ -50,7 +50,7 @@
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-13",
+  "ra_checado": "2026-10-14",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "cakto"
   ]
  },
- "corpo": "# Comunidade MVZ\n\n## Angulo\nR$ 149,73. Reembolso em 7 dias jogado entre Cakto e produtor; resolvido com estorno.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-26 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). Curso/comunidade sobre operar a loja 'TT Shop', vendido via Cakto. Reclamação por garantia não cumprida (compra 02/10). Reaparece após ~13 dias sem registro no radar (última vez 26/09).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Cakto). Curso/comunidade ligado a 'TT Shop', recorrente desde 26/09 e 09/10. Reclamação de hoje pede estorno por garantia expirada (compra 02/10, prazo até 07/10).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/\n",
+ "corpo": "# Comunidade MVZ\n\n## Angulo\nR$ 149,73. Reembolso em 7 dias jogado entre Cakto e produtor; resolvido com estorno.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-26 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-26 -- 1300]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). Curso/comunidade sobre operar a loja 'TT Shop', vendido via Cakto. Reclamação por garantia não cumprida (compra 02/10). Reaparece após ~13 dias sem registro no radar (última vez 26/09).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Cakto). Curso/comunidade ligado a 'TT Shop', recorrente desde 26/09 e 09/10. Reclamação de hoje pede estorno por garantia expirada (compra 02/10, prazo até 07/10).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/\n\n## Rodada 2026-10-14\n\n2 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo: 261488877 (Comunidade MVZ por R$ 149,73, reembolso travado).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261488877)\n",
  "observacoes": [
   {
    "data": "2026-09-26",
@@ -108,9 +108,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Curso/comunidade ligado a 'TT Shop', recorrente desde 26/09 e 09/10. Reclamação de hoje pede estorno por garantia expirada (compra 02/10, prazo até 07/10)."
+  },
+  {
+   "data": "2026-10-14",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 149.73,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. 1 reclamacao com ID novo: 261488877 (Comunidade MVZ por R$ 149,73, reembolso travado)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 1738.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 17:38"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-14.md",
+   "data": "2026-10-14",
+   "titulo": "Radar 2026-10-14"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-13 -- 1924.md",

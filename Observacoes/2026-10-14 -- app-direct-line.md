@@ -9,8 +9,8 @@ ticket_frente: 0
 preco_mudou: false
 angulo_novo: false
 fonte: reclame-aqui
-ra_reclamacoes: 1
+ra_reclamacoes: 10
 criativos_novos: 0
 ---
 
-1 mencao(oes) na varredura de hoje. Mesma reclamacao da rodada de 23:32 (4a aparicao cumulativa no radar, dias diferentes: 06/10, 11/10, 13/10). Nenhuma reclamacao nova nesta janela, mas o padrao de garantia nao honrada persiste sem solucao.
+10 mencao(oes) na varredura de hoje. 5 reclamacoes com ID novo na Cakto: 261538423, 261463645 (plano Pro contratado em 10/10), 261424375 (app so trava), 261411993 (sem opcao de cancelar no app), 261395501 ('Larissa no WhatsApp / Direct Line' — primeira pista do que o app faz: atendente/assistente no WhatsApp).

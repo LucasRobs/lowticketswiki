@@ -73,7 +73,7 @@
    "cakto"
   ]
  },
- "corpo": "# App Direct Line\n\n## Angulo\nAplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 5 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261380877, 261371245, 261357363, 261239765, 261205833)\n\n## Historico\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Cakto). App por assinatura vendido via Cakto, funcao nao descrita nos corpos. Terceira aparicao em dia diferente (06/10, 11/10 com 5 IDs, agora 13/10) -- mesmo padrao de reclamacao se repetindo (cancelamento dificil / garantia nao honrada).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/\n\n## Rodada 2026-10-14\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mesma reclamacao da rodada de 23:32 (4a aparicao cumulativa no radar, dias diferentes: 06/10, 11/10, 13/10). Nenhuma reclamacao nova nesta janela, mas o padrao de garantia nao honrada persiste sem solucao.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/\n",
+ "corpo": "# App Direct Line\n\n## Angulo\nAplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 5 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261380877, 261371245, 261357363, 261239765, 261205833)\n\n## Historico\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Cakto). App por assinatura vendido via Cakto, funcao nao descrita nos corpos. Terceira aparicao em dia diferente (06/10, 11/10 com 5 IDs, agora 13/10) -- mesmo padrao de reclamacao se repetindo (cancelamento dificil / garantia nao honrada).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-direct-line-e-o-servico-nao-cumpriu-o-prometido_Usq2R4tN11f3MoW5/\n\n## Rodada 2026-10-14\n\n10 mencao(oes) nesta varredura (gateway Cakto). 5 reclamacoes com ID novo na Cakto: 261538423, 261463645 (plano Pro contratado em 10/10), 261424375 (app so trava), 261411993 (sem opcao de cancelar no app), 261395501 ('Larissa no WhatsApp / Direct Line' — primeira pista do que o app faz: atendente/assistente no WhatsApp).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261538423, 261463645, 261424375, 261411993, 261395501)\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -102,17 +102,29 @@
   {
    "data": "2026-10-14",
    "fonte": "reclame-aqui",
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 10,
    "criativos_ativos": 0,
    "criativos_novos": 0,
    "dias_no_ar": 0,
    "ticket_frente": 0,
    "preco_mudou": false,
    "angulo_novo": false,
-   "texto": "1 mencao(oes) na varredura de hoje. Mesma reclamacao da rodada de 23:32 (4a aparicao cumulativa no radar, dias diferentes: 06/10, 11/10, 13/10). Nenhuma reclamacao nova nesta janela, mas o padrao de garantia nao honrada persiste sem solucao."
+   "texto": "10 mencao(oes) na varredura de hoje. 5 reclamacoes com ID novo na Cakto: 261538423, 261463645 (plano Pro contratado em 10/10), 261424375 (app so trava), 261411993 (sem opcao de cancelar no app), 261395501 ('Larissa no WhatsApp / Direct Line' — primeira pista do que o app faz: atendente/assistente no WhatsApp)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 1738.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 17:38"
+  },
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0154.md",
+   "data": "2026-10-14",
+   "titulo": "Passada 2026-10-14 01:54"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-14 -- 0019.md",

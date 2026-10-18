@@ -100,6 +100,6 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-for
 
 ## Rodada 2026-10-14
 
-3 mencao(oes) nesta varredura (gateway PerfectPay). Assinatura de acesso a fornecedores/revenda. As 3 reclamacoes (estorno em 7 dias de R$175 via Pix, taxas sucessivas R$97/R$100/R$250 pra liberar saldo prometido, e Pix sem valor informado) sao as mesmas da rodada anterior -- sem volume novo nesta janela, mecanica de order bump pesado confirmada de novo.
+15 mencao(oes) nesta varredura (gateway PerfectPay). 7 reclamacoes com ID novo, todas de cancelamento/estorno travado: 261541275, 261533037, 261507661, 261502437, 261471517, 261467633 (R$ 175), 261389195 (R$ 315,54). Biblioteca, busca 'forneceup': nenhum anuncio da operacao.
 
-Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-taxas-indevidas-para-receber-um-valor-prometido_-RWSZcmbLTr_zvWd/
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261541275, 261533037, 261507661, 261502437, 261471517, 261467633, 261389195)

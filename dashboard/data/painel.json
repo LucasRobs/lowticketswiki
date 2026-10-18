@@ -1,11 +1,11 @@
 {
  "esquema": 1,
  "totais": {
-  "ofertas": 369,
+  "ofertas": 372,
   "angulos": 97,
-  "observacoes": 907,
+  "observacoes": 926,
   "dias_radar": 40,
-  "passadas": 115,
+  "passadas": 117,
   "analises": 12,
   "ultima_rodada": "2026-10-18"
  },
@@ -71,7 +71,7 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "wiapy",
@@ -347,7 +347,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -393,8 +393,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -733,7 +732,7 @@
    "classe": "oferta",
    "nicho": "marcenaria-artesanato",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -779,8 +778,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -901,7 +899,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -6401,7 +6399,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -6501,7 +6499,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=direct%20line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_citacoes": 7,
    "resumo": "Aplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.",
    "flags": [
     "score-provisorio",
@@ -6545,21 +6543,21 @@
    "score": 5.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-21",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 8,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 9,
    "dias_no_ar": 54,
    "criativos_ultima": 19,
    "criativos_delta": 3,
-   "ra_reclamacoes": 15,
+   "ra_reclamacoes": 20,
    "ra_primeira_reclamacao": "2026-08-20",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 15,
+   "n_obs": 9,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 18,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -6628,7 +6626,7 @@
    "classe": "oferta",
    "nicho": "negocio-online",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -6904,7 +6902,7 @@
    "classe": "oferta",
    "nicho": "saude",
    "sub_nicho": "livro-digital",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -6950,8 +6948,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7127,7 +7124,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -7173,8 +7170,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -7320,21 +7316,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=beto%20ia&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 2,
    "resumo": "Assinatura de IA na Payt sem suporte nem canal de cancelamento (260760577, 04/10).",
    "flags": [
     "score-provisorio",
@@ -7484,21 +7480,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 4,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 6,
-   "ultima_obs": "2026-10-10",
-   "n_citacoes": 9,
+   "n_obs": 7,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 11,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
@@ -7512,7 +7508,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -7678,7 +7674,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-trading",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -8009,7 +8005,7 @@
    "classe": "oferta",
    "nicho": "pet",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -8055,8 +8051,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8234,7 +8229,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -8280,8 +8275,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8290,7 +8284,7 @@
    "classe": "oferta",
    "nicho": "servicos-diversos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -8336,8 +8330,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8735,7 +8728,7 @@
    "classe": "oferta",
    "nicho": "espiritualidade-autoconhecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -8846,7 +8839,7 @@
    "classe": "oferta",
    "nicho": "receitas-culinaria",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -8956,7 +8949,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -8983,21 +8976,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=clipshort&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 2,
    "resumo": "Ferramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).",
    "flags": [
     "score-provisorio",
@@ -9011,7 +9004,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -9057,8 +9050,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9067,7 +9059,7 @@
    "classe": "oferta",
    "nicho": "ia-infoproduto",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -9113,8 +9105,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9343,7 +9334,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -9389,8 +9380,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9454,7 +9444,7 @@
    "classe": "oferta",
    "nicho": "comunidade-rateio-assinatura",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -9536,21 +9526,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-26",
-   "visto_ultimo": "2026-10-13",
+   "visto_ultimo": "2026-10-14",
    "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 1,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-13",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Comunidade%20MVZ&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-13",
-   "n_citacoes": 7,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 9,
    "resumo": "R$ 149,73. Reembolso em 7 dias jogado entre Cakto e produtor; resolvido com estorno.",
    "flags": [
     "score-provisorio",
@@ -9564,7 +9554,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -9674,7 +9664,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -9729,7 +9719,7 @@
    "classe": "oferta",
    "nicho": "eventos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -9775,8 +9765,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9785,7 +9774,7 @@
    "classe": "oferta",
    "nicho": "evento-presencial",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10176,7 +10165,7 @@
    "classe": "oferta",
    "nicho": "idiomas",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10231,7 +10220,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -10344,7 +10333,7 @@
    "classe": "oferta",
    "nicho": "marketing-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10390,8 +10379,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10511,7 +10499,7 @@
    "classe": "oferta",
    "nicho": "educacao-jogos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10557,8 +10545,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10567,7 +10554,7 @@
    "classe": "oferta",
    "nicho": "carreira-emprego",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10613,8 +10600,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10623,7 +10609,7 @@
    "classe": "oferta",
    "nicho": "carreira-marketing-pessoal",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -10669,8 +10655,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10679,7 +10664,7 @@
    "classe": "oferta",
    "nicho": "sexualidade-bemestar",
    "sub_nicho": "massagem-tantrica",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 2,
    "checkout": "wiapy",
@@ -10708,21 +10693,21 @@
    "score": 5.55,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-22",
-   "visto_ultimo": "2026-08-27",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 5,
    "dias_no_ar": 11,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "2026-08-22",
-   "ra_checado": "2026-08-27",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=massagem%20t%C3%A2ntrica%20curso&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-08-27",
-   "n_citacoes": 3,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 5,
    "resumo": "Curso completo de massagem tantrica, ticket R$ 50, garantia anunciada de 30 dias (nao os 7 legais). Garantia longa em ticket baixo e aposta de que a taxa de pedido de reembolso fica abaixo da margem — e, pelo relato, o suporte simplesmente nao responde.",
    "flags": [
     "sem-lp"
@@ -10734,7 +10719,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10780,8 +10765,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10955,7 +10939,7 @@
    "classe": "oferta",
    "nicho": "artesanato-costura",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -11001,8 +10985,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11454,7 +11437,7 @@
    "classe": "oferta",
    "nicho": "saude-bemestar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -11953,7 +11936,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -12401,7 +12384,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -12447,8 +12430,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12512,7 +12494,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12784,12 +12766,70 @@
    ]
   },
   {
+   "slug": "escola-de-personagens",
+   "nome": "Escola de Personagens",
+   "classe": "oferta",
+   "nicho": "a-identificar",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 5,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.75,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 4,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=escola%20de%20personagens&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Produto da Kiwify entregue 'em uma semana, via live', com acesso por grupo de WhatsApp cujo link chega quebrado; modulos bloqueados apos a compra. 2 reclamacoes com ID novo (261437711, 261389173) mais 2 da rodada de 11/10, registradas como candidatas no…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
    "slug": "evoluft-programa-de-exercicios",
    "nome": "Evoluft (programa de exercicios)",
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12835,8 +12875,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12900,7 +12939,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -12955,7 +12994,7 @@
    "classe": "oferta",
    "nicho": "mentoria-marketing",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -13001,8 +13040,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13066,7 +13104,7 @@
    "classe": "oferta",
    "nicho": "idiomas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -13112,8 +13150,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13122,7 +13159,7 @@
    "classe": "oferta",
    "nicho": "oficio-construcao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -13168,8 +13205,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13178,7 +13214,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -13224,8 +13260,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13234,7 +13269,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -13385,7 +13420,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-14",
-   "n_citacoes": 14,
+   "n_citacoes": 16,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -13624,7 +13659,7 @@
    "classe": "oferta",
    "nicho": "saude-bemestar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -13670,8 +13705,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13793,7 +13827,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -13903,7 +13937,7 @@
    "classe": "oferta",
    "nicho": "artesanato-presentes",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -14178,7 +14212,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -14224,8 +14258,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14234,7 +14267,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -14291,7 +14324,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -14346,7 +14379,7 @@
    "classe": "oferta",
    "nicho": "receitas-culinaria",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -14392,8 +14425,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14402,7 +14434,7 @@
    "classe": "oferta",
    "nicho": "financas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -14448,8 +14480,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14513,7 +14544,7 @@
    "classe": "oferta",
    "nicho": "musica-instrumento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -14680,7 +14711,7 @@
    "classe": "oferta",
    "nicho": "e-commerce-vendas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -14726,8 +14757,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14736,7 +14766,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -14956,7 +14986,7 @@
    "classe": "oferta",
    "nicho": "ia-ferramentas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -15002,8 +15032,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15012,7 +15041,7 @@
    "classe": "oferta",
    "nicho": "ia-generativa",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -15058,8 +15087,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15123,7 +15151,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -15178,7 +15206,7 @@
    "classe": "oferta",
    "nicho": "ecommerce-dropshipping",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -15233,7 +15261,7 @@
    "classe": "oferta",
    "nicho": "crescimento-redes-sociais",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -15279,8 +15307,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15289,7 +15316,7 @@
    "classe": "oferta",
    "nicho": "espiritualidade-autoconhecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -15335,8 +15362,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15401,7 +15427,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -15456,7 +15482,7 @@
    "classe": "oferta",
    "nicho": "trading",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -15502,8 +15528,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15512,7 +15537,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -15673,11 +15698,12 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
    "gateways": [
+    "lastlink",
     "payt"
    ],
    "plataforma_ads": [
@@ -15702,27 +15728,26 @@
    "score": 1.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 4,
+   "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app.irryss.com&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 4,
    "resumo": "App em app.irryss.com com botao de reembolso no proprio site que desconecta o comprador e nao estorna. 4 reclamacoes na Payt em 08-10/10 (261291323, 261160107, 261143219, 261118515). Produto nao descrito.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -15731,7 +15756,7 @@
    "classe": "oferta",
    "nicho": "educacao-negocio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -15777,8 +15802,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -16229,7 +16253,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -16339,7 +16363,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -16385,8 +16409,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -16531,21 +16554,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Linflora&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-05",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 5,
    "resumo": "Loja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG Comércio de Produtos Naturais Ltda.",
    "flags": [
     "score-provisorio",
@@ -16726,7 +16749,7 @@
    "classe": "oferta",
    "nicho": "culinaria-receitas",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -16865,21 +16888,21 @@
    "score": 6.15,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-10",
-   "rodadas_vista": 9,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 10,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-10",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://loopyz.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Loopyz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 10,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 21,
+   "n_obs": 11,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 22,
    "resumo": "Ferramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.",
    "flags": [
     "sem-longevidade"
@@ -17390,7 +17413,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -17447,7 +17470,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -17493,8 +17516,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -17619,6 +17641,7 @@
    "prioridade": 0,
    "checkout": "wiapy",
    "gateways": [
+    "perfectpay",
     "wiapy"
    ],
    "plataforma_ads": [
@@ -17641,21 +17664,21 @@
    "score": 1.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-08",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 6,
+   "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Malu%20sua%20assistente&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 3,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 5,
    "resumo": "Assistente para postar na loja da Shopee, R$ 37,90 no Pix; depois da compra pede mais R$ 24 'da API' para funcionar. 2 reclamacoes: 260944511 (compra 14/09) e 261076971 (07/10).",
    "flags": [
     "score-provisorio",
@@ -17669,7 +17692,7 @@
    "classe": "oferta",
    "nicho": "inteligencia-artificial",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -17837,7 +17860,7 @@
    "classe": "oferta",
    "nicho": "ferramenta-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -17892,7 +17915,7 @@
    "classe": "oferta",
    "nicho": "marketing-conteudo-viral",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -17947,7 +17970,7 @@
    "classe": "oferta",
    "nicho": "desenvolvimento-pessoal",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18002,7 +18025,7 @@
    "classe": "oferta",
    "nicho": "servicos-empresariais",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -18057,7 +18080,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "mentorias-high-ticket",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18334,7 +18357,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -18446,7 +18469,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -18492,8 +18515,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18502,7 +18524,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -18612,7 +18634,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -18777,7 +18799,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -18832,7 +18854,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -18878,8 +18900,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -18888,7 +18909,7 @@
    "classe": "oferta",
    "nicho": "tiktok-shop",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -19442,7 +19463,7 @@
    "classe": "oferta",
    "nicho": "artesanato-moldes",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -19488,8 +19509,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19498,7 +19518,7 @@
    "classe": "oferta",
    "nicho": "artesanato-pdf",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -19544,8 +19564,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19554,7 +19573,7 @@
    "classe": "oferta",
    "nicho": "saude-suplemento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -19665,7 +19684,7 @@
    "classe": "oferta",
    "nicho": "saude-dor-fisica",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -19712,6 +19731,64 @@
     "score-provisorio",
     "sem-longevidade",
     "sem-lp"
+   ]
+  },
+  {
+   "slug": "movimento-prosperas-luana-bittencourt",
+   "nome": "Movimento Prósperas (Luana Bittencourt)",
+   "classe": "oferta",
+   "nicho": "mentoria-comunidade",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kiwify",
+   "gateways": [
+    "kiwify"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "app"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=luana%20bittencourt%20prosperas&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Mentoria/infoproduto feminino de prosperidade de Luana Bittencourt na Kiwify, com reembolso conduzido pelo WhatsApp da produtora. 3 reclamacoes em dois dias: 261554469 (comprou em 08/10, pediu reembolso em 11/10), 261413609 ('Movimento Prosperas', comprada em…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -19775,7 +19852,7 @@
    "classe": "oferta",
    "nicho": "mobilidade-transito",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -20218,7 +20295,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -20266,8 +20343,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20332,7 +20408,7 @@
    "classe": "oferta",
    "nicho": "apostas-loteria",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -20389,7 +20465,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -20500,7 +20576,7 @@
    "classe": "oferta",
    "nicho": "educacao-continuada-saude",
    "sub_nicho": "farmacia",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -20546,8 +20622,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20639,21 +20714,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-25",
-   "visto_ultimo": "2026-10-08",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-08",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Sistema%20Billion&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-10-08",
-   "n_citacoes": 4,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 5,
    "resumo": "'Pack de Produtos Validados + Sistema Billion' - Felipe Braz (Grupokrivo). Botao de reembolso nao funciona; produtor inacessivel.",
    "flags": [
     "score-provisorio",
@@ -20667,7 +20742,7 @@
    "classe": "oferta",
    "nicho": "nao-classificado",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -21166,7 +21241,7 @@
    "classe": "oferta",
    "nicho": "apostas-previsao",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -21212,8 +21287,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -21222,7 +21296,7 @@
    "classe": "oferta",
    "nicho": "investimentos-cripto",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -21268,8 +21342,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -21664,7 +21737,7 @@
    "classe": "oferta",
    "nicho": "social-media-marketing",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -21710,8 +21783,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -21775,7 +21847,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -21886,7 +21958,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-e-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -21932,8 +22004,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -21997,7 +22068,7 @@
    "classe": "oferta",
    "nicho": "maternidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -22107,7 +22178,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -22153,8 +22224,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22331,7 +22401,7 @@
    "classe": "oferta",
    "nicho": "artesanato-croche",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -22377,8 +22447,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22498,7 +22567,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -22527,27 +22596,26 @@
    "score": 1.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=receitas%20sem%20pensar&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 3,
    "resumo": "App de receitas da nutricionista Renata Brugnera. 3 reclamacoes na Payt em 10-11/10 (261356291, 261343035, 261315463); a 261343035 descreve o mecanismo: as receitas de marmita (Marmitas Pro) que motivaram a compra exigem pagamento extra dentro do app.",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22556,7 +22624,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -22585,27 +22653,26 @@
    "score": 1.45,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=renda%20fortuna%20daniela%20rezende&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 4,
    "resumo": "Programa de renda de Daniela Rezende, comprado em 08/10 em 12x no cartao; suporte so por WhatsApp, sem resposta. 3 reclamacoes na Payt em 09-10/10 (261312965, 261274955, 261269993).",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22614,7 +22681,7 @@
    "classe": "oferta",
    "nicho": "artesanato-e-pdf",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -22660,8 +22727,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -23007,7 +23073,7 @@
    "classe": "oferta",
    "nicho": "apostas-jogos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -23053,8 +23119,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -23369,21 +23434,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-05",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 11,
+   "ra_reclamacoes": 21,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-05",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 7,
    "resumo": "Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.",
    "flags": [
     "score-provisorio",
@@ -23397,7 +23462,7 @@
    "classe": "oferta",
    "nicho": "negocio-online-ecommerce",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -23453,7 +23518,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -23563,7 +23628,7 @@
    "classe": "oferta",
    "nicho": "dropshipping-fornecedores",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -23609,8 +23674,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -23727,6 +23791,62 @@
    ]
   },
   {
+   "slug": "spinmaster",
+   "nome": "SpinMaster",
+   "classe": "oferta",
+   "nicho": "apostas-jogos",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "kirvano",
+   "gateways": [
+    "kirvano"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 0,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 0,
+   "s_ticket": 0,
+   "s_lucro": 3,
+   "s_replica": 0,
+   "s_saturacao": 0,
+   "score": 1.05,
+   "decisao": "descartar",
+   "visto_primeiro": "2026-10-14",
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 1,
+   "dias_no_ar": 0,
+   "criativos_ultima": 0,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-14",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=spinmaster&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 1,
+   "resumo": "Programa que promete 'acesso a roleta sem pagar mais nada'; depois do pagamento direciona o comprador para casas de apostas onde e preciso depositar — o infoproduto e porta de entrada de afiliacao de bet. 1 reclamacao com ID novo (261544737) mais 2 da rodada…",
+   "flags": [
+    "score-provisorio",
+    "sem-longevidade",
+    "sem-lp",
+    "status-vencido"
+   ]
+  },
+  {
    "slug": "stalkea-ai",
    "nome": "Stalkea.ai",
    "classe": "oferta",
@@ -23832,7 +23952,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Stalkea&search_type=keyword_unordered&media_type=all",
    "n_obs": 22,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 68,
+   "n_citacoes": 70,
    "resumo": "App que promete ver conversa/perfil fechado de terceiros. Grafias na mesma familia: Stalkeia.ai, Stalkeia.com, Stalker. Produtora citada: Disrupty Tecnologia.",
    "flags": [
     "lucro-sem-medicao",
@@ -23902,7 +24022,7 @@
    "classe": "oferta",
    "nicho": "espionagem-rastreamento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -24178,7 +24298,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -24288,7 +24408,7 @@
    "classe": "oferta",
    "nicho": "saude-emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -24345,7 +24465,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -24393,8 +24513,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -24403,7 +24522,7 @@
    "classe": "oferta",
    "nicho": "prompts-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -24458,7 +24577,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -24485,27 +24604,26 @@
    "score": 1.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 6,
+   "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=tokscale&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 3,
    "resumo": "Plataforma de videos com IA para TikTok Shop, vendida como assinatura (261202955, contratada em 25/09). 6 reclamacoes na Payt em 08-11/10 (261367965, 261093565, 261202955, 261154757, 261154719, 261118633), todas de reembolso sem resposta. Mesmo cluster do…",
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -24545,21 +24663,21 @@
    "score": 6.6,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 8,
+   "visto_ultimo": "2026-10-14",
+   "rodadas_vista": 9,
    "dias_no_ar": 58,
    "criativos_ultima": 210,
    "criativos_delta": -20,
-   "ra_reclamacoes": 50,
+   "ra_reclamacoes": 69,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-14",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://treinotrinca.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 17,
+   "n_obs": 9,
+   "ultima_obs": "2026-10-14",
+   "n_citacoes": 20,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
    "flags": []
   },
@@ -24679,7 +24797,7 @@
    "classe": "oferta",
    "nicho": "trading-investimentos",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "eduzz",
@@ -25011,7 +25129,7 @@
    "classe": "oferta",
    "nicho": "artesanato",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -25066,7 +25184,7 @@
    "classe": "oferta",
    "nicho": "saude-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -25178,7 +25296,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -25226,8 +25344,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -25236,7 +25353,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -25282,8 +25399,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -25404,7 +25520,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -25512,7 +25628,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-de-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -25567,7 +25683,7 @@
    "classe": "oferta",
    "nicho": "educacao-youtube",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -25622,7 +25738,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro-youtube",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -25668,8 +25784,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -25722,7 +25837,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 22,
    "ultima_obs": "2026-10-17",
-   "n_citacoes": 45,
+   "n_citacoes": 47,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -25734,7 +25849,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-whatsapp",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -25782,8 +25897,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   }
  ],
@@ -25882,25 +25996,28 @@
    "arquivo": "Radar/2026-10-14.md",
    "data": "2026-10-14",
    "titulo": "Radar 2026-10-14",
-   "ofertas_vistas": 38,
-   "novas": 21,
-   "retornaram": 0,
+   "ofertas_vistas": 57,
+   "novas": 24,
+   "retornaram": 4,
    "sumiram": 0,
    "fontes": [
     "braip",
     "cakto",
     "eduzz",
     "hotmart",
+    "kirvano",
     "kiwify",
+    "lastlink",
     "monetizze",
     "payt",
     "perfectpay",
     "ticto",
+    "wiapy",
     "yampi"
    ],
    "duracao_min": 0,
-   "n_passadas": 8,
-   "leitura": ""
+   "n_passadas": 10,
+   "leitura": "01h54. Segunda rodada seguida com a API completa do RA: 453 reclamacoes de 11 gateways desde 11/10 23h05, agora comparavel com a anterior. O sinal continua nas mesmas seis notas — Treino Trinca (+12, 62), ZAP Radar (+17, 43), ShopMiner (+9, 20), Fornece Up (+7, 15), Stalkeia (+6, 34) e App do Paizao (+4, 19). Tres estreias de volume pequeno (Prosperas, Escola de Personagens, SpinMaster). Na Biblioteca, Trinca subiu…"
   },
   {
    "arquivo": "Radar/2026-10-13.md",
@@ -27123,6 +27240,43 @@
    "resumo": "Gateways: perfectpay, cakto, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 9 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao, zero novidade patcofit -- Hotmart · mesma reclamacao, zero novidade tepm …"
   },
   {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 1738.md",
+   "data": "2026-10-14",
+   "hora": "17:38",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 22,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "app-do-paizao",
+    "bike-in-casa",
+    "comunidade-mvz",
+    "curso-massagem-tantrica",
+    "fornece-up",
+    "irryss",
+    "linflora",
+    "renda-fortuna",
+    "shopminer",
+    "stalkeia-ai",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, eduzz, monetizze · Páginas: 22 · Coleta: ok · Achados: 13 ## Quentes treino-trinca — Lastlink · 7 IDs novos em ~16h (62 → 69); R$ 37 + R$ 67 de cardapio +…"
+  },
+  {
    "arquivo": "Radar/rodadas/2026-10-14 -- 1714.md",
    "data": "2026-10-14",
    "hora": "17:14",
@@ -27288,6 +27442,42 @@
     "stalkeia-ai"
    ],
    "resumo": "Gateways: perfectpay, cakto-pay, kiwify, hotmart, monetizze · Páginas: 1 · Coleta: parcial · Achados: 11 ## Quentes stalkeia-ai -- PerfectPay · mesma reclamacao da passada anterior, zero novidade fornece-up -- PerfectPay · mesmas 3…"
+  },
+  {
+   "arquivo": "Radar/rodadas/2026-10-14 -- 0154.md",
+   "data": "2026-10-14",
+   "hora": "01:54",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 52,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "app-do-paizao",
+    "fornece-up",
+    "irryss",
+    "malu-sua-assistente",
+    "receitas-sem-pensar",
+    "renda-fortuna",
+    "shopminer",
+    "stalkeia-ai",
+    "tokscale-ia",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, eduzz, monetizze · Páginas: 52 · Coleta: ok · Achados: 20 ## Quentes treino-trinca — Lastlink · 12 IDs novos (50 → 62); R$ 37 exige assinatura do app nao…"
   },
   {
    "arquivo": "Radar/rodadas/2026-10-14 -- 0019.md",
@@ -29208,7 +29398,7 @@
     "angulo": 0
    },
    "2026-10-14": {
-    "oferta": 13,
+    "oferta": 16,
     "angulo": 8
    },
    "2026-10-15": {
@@ -29259,7 +29449,7 @@
    "2026-10-11": 21,
    "2026-10-12": 11,
    "2026-10-13": 18,
-   "2026-10-14": 38,
+   "2026-10-14": 57,
    "2026-10-15": 35,
    "2026-10-16": 31,
    "2026-10-17": 29,
@@ -29431,49 +29621,49 @@
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
     "preenchidas": 63,
-    "total": 369
+    "total": 372
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
     "preenchidas": 31,
-    "total": 369
+    "total": 372
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
     "preenchidas": 70,
-    "total": 369
+    "total": 372
    },
    {
     "campo": "checkout",
     "rotulo": "Gateway identificado",
-    "preenchidas": 340,
-    "total": 369
+    "preenchidas": 343,
+    "total": 372
    },
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
     "preenchidas": 179,
-    "total": 369
+    "total": 372
    },
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
     "preenchidas": 114,
-    "total": 369
+    "total": 372
    },
    {
     "campo": "s_saturacao",
     "rotulo": "Saturação avaliada",
     "preenchidas": 107,
-    "total": 369
+    "total": 372
    },
    {
     "campo": "ra_reclamacoes",
     "rotulo": "Reclamações contadas",
-    "preenchidas": 312,
-    "total": 369
+    "preenchidas": 315,
+    "total": 372
    }
   ],
   "fila_enriquecimento": [
@@ -29496,8 +29686,6 @@
   "status_vencido": [
    "250-dinamicas-de-ballet",
    "31-segredos-pais-tdah",
-   "50-guias-para-cuidado-da-bike",
-   "acompanhamento-aline-cintra-produtor-max-madeira",
    "aerobico-ritmado",
    "angulo-50-guias-digitais-de-cuidado-com-a-bike-sem-nome",
    "angulo-aplicativo-de-controle-financeiro-para-motoristas-de-app-sem-nome",
@@ -29563,132 +29751,77 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-treino-de-calistenia",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
-   "atlas-das-patologias",
-   "aula-magnetica-com-obs",
    "autismo-para-pais-lacerda",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "cae-course",
    "cantigas-da-bailarina",
-   "cao360",
    "capcut-desktop-licenca-clone-vendido-via-ticto",
-   "capcut-pro-revenda-de-licenca",
-   "captchas-no-google",
    "casinha-dos-sonhos",
-   "clube-conecta",
-   "clube-da-inteligencia-artificial-publicacoes-inovadoras-capes",
    "clube-da-pedagogia",
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
-   "combo-da-aprovacao-2023-projeto-frida-sobrancelhas-maos-livres",
    "comunidade-influencers-ia-ascensao",
-   "congresso-humanamente-salvador",
    "criaai",
    "croche-feliz-produtor-kevin",
    "curso-brenda-bhaskar",
-   "curso-de-marketing-e-vendas-com-ia",
    "curso-de-reflexologia-nas-maos",
-   "curso-de-xadrez-gm-luis-paulo-supi-mf-julia-alboredo",
-   "curso-isabela-schonorr-linkedin",
-   "curso-isabela-schonorr-mentoria-de-perfil-no-linkedin",
-   "curso-raphael-mancini",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
-   "de-costureira-a-engenheira-da-costura-desafio-5-dias-clube-da-modista",
    "desafio-hiit-dance",
    "desafio-voz-do-criador-30-dias-de-crescimento",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
-   "dossie-do-emagrecimento",
    "emissoes-pro-yago-alcantara",
    "escola-de-personagem",
-   "evoluft-programa-de-exercicios",
-   "fiv-formacao-em-marketing-e-vendas-isabele-moreira",
+   "escola-de-personagens",
    "fluency-english",
-   "fluency-route",
-   "formacao-mestre-do-acabamento",
-   "formando-creators",
    "fornecedores-ocultos-fornecedores-nfc",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
-   "frequencia-davinci",
    "frutinhas-falantes",
-   "gtd-academy-anderson-seabra",
-   "guia-de-brigadeiros-perfeitos",
-   "guia-de-financas-gabriela-vitorino",
-   "hero-live-shop",
    "horinha-da-leitura",
-   "hub-boss-rateio-ia",
-   "ia-do-futuro",
-   "imersao-broa-a-estrategia-oculta-que-gera-10-mil-seguidores-por-mes",
-   "imersao-tradutor-de-almas-andrea-vermont",
    "implementacao-afr",
-   "indicadores-de-trading",
-   "irryss",
-   "jornada-do-freelancer-online",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
-   "laticinios-do-bem-mentor-marcelo-horta",
    "licao-kids",
    "little-genius",
    "lucennto",
-   "mac-bruno-aguiar-3-0",
    "maquina-de-vendas-realizada-mvr",
    "mentoria-do-matheus-borges",
-   "mentoria-thiago-lobos",
-   "metodo-live-perpetua-liveflow-ia",
    "metodo-tribe-do-zero-a-marca-pessoal",
    "meu-filho-e-unico-horleana",
    "meus-socios-as",
    "minha-historinha",
    "missa-em-atividades",
    "missao-b3-jornada-50k",
-   "moldes-digitais-de-artesanato-rendafini",
-   "moldes-para-artesanato-rendafini",
+   "movimento-prosperas-luana-bittencourt",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
-   "natflix-fitness",
-   "orientacao-farmaceutica-na-pratica-2-0",
    "orlando-estrategico",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
-   "placar-exato",
-   "plano-carteira-rumo-ao-milhao-blockcap-llc",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
-   "postcloner",
    "projeto-100k",
-   "protocolo-3s",
-   "protocolo-testosterona-2-0",
    "protocolo-zero-barriga-40-club-40-sem-barriga",
    "pva-primeira-venda-automatica",
-   "quadradinhos-da-vovo",
-   "receitas-sem-pensar",
-   "renda-fortuna",
-   "rendafini-moldes-para-artesanato",
-   "sala-de-jogos-keep-live",
    "shape-max-dance",
-   "sistema-de-fornecedores-ocultos-marcelle-martins",
    "sora-cobranca-via-perfectpay",
+   "spinmaster",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
-   "thermafit-app",
-   "tokscale-ia",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
-   "viva-de-martelinho-de-ouro",
-   "viver-de-youtube",
    "vonixx-curso-de-estofamento-automotivo",
-   "vsa-comunidade",
-   "youtube-dark-peter",
-   "zapturbomax-pulse-mkt-digital"
+   "vsa-comunidade"
   ],
   "estilos_frontmatter": {
-   "canonico": 1373
+   "canonico": 1395
   }
  },
  "vocabulario": {
@@ -29737,11 +29870,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "0754eb01ccce5b3c",
-  "atualizado_em": "2026-10-18T00:38:17-03:00",
-  "ofertas": 369,
+  "hash": "552a5eafeef65bb6",
+  "atualizado_em": "2026-10-18T00:52:06-03:00",
+  "ofertas": 372,
   "angulos": 97,
-  "observacoes": 907,
+  "observacoes": 926,
   "ultima_rodada": "2026-10-18",
   "ultima_passada": {
    "data": "2026-10-18",

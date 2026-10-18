@@ -26,7 +26,7 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-26
-visto_ultimo: 2026-10-13
+visto_ultimo: 2026-10-14
 rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-10-14
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-a
 1 mencao(oes) nesta varredura (gateway Cakto). Curso/comunidade ligado a 'TT Shop', recorrente desde 26/09 e 09/10. Reclamação de hoje pede estorno por garantia expirada (compra 02/10, prazo até 07/10).
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/
+
+## Rodada 2026-10-14
+
+2 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo: 261488877 (Comunidade MVZ por R$ 149,73, reembolso travado).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261488877)
