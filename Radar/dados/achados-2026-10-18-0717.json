@@ -1,0 +1,19 @@
+{
+  "data_varredura": "2026-10-18",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "paginas_varridas": 7},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19178, "paginas_varridas": 7},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50724, "paginas_varridas": 5},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78828, "paginas_varridas": 7},
+    {"nome": "Braip", "slug": "braip", "reclamacoes_ativas": 42176, "paginas_varridas": 10}
+  ],
+  "achados": [],
+  "passada": {
+    "hora": "07:17",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "braip"],
+    "paginas": 36,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n(nenhum novo nesta passada)\n\n## Mornas\n(nenhuma nova nesta passada)\n\n## Frias (novas)\n(nenhuma)\n\nLeitura: janela de ~3h30 (03:48 a 07:17 Fortaleza). Bug de paginacao do ReclameAqui 100% reconfirmado -- 20a+ passada consecutiva com o mesmo travamento desde 04/10: pagina=2 em diante devolveu 'Exibindo 0 de 0' em perfectpay (ate pag.7), cakto-pay (ate pag.7), kiwify (ate pag.5) e hotmart (ate pag.7). Unica exceção parcial foi braip pagina=3, que respondeu com conteudo (padrao de cache instavel ja visto em passadas anteriores) -- paginas 2 e 4-10 da braip vazias. Pior: a pagina 1 de todos os 5 gateways trouxe as MESMAS reclamacoes/URLs ja registradas em passadas anteriores (perfectpay: Anunciaie, curso freelancer, avaliacao remunerada -- identicas a rodada de 17/10 09:13; cakto-pay: VSA Comunidade, mangas, operacoes binarias -- identicas a 17/10 14:45; kiwify: frutinhas falantes, Reflexologia -- identicas a 17/10 17:16), confirmando que nao e so a paginacao que esta congelada, a propria pagina 1 nao esta recebendo reclamacao nova nesses gateways. Braip pagina 1 e 3 trouxeram 'Gold card tv' e 'kit de resveratrol americano', ambos ja catalogados; dois titulos sem nome de produto (conta bloqueada, boleto indevido) foram abertos e nao identificaram vendedor.",
+    "resumo": "Zero achado novo -- bug de paginacao e congelamento da pagina 1 do ReclameAqui reconfirmados pela 20a+ vez consecutiva em 5 gateways (perfectpay, cakto-pay, kiwify, hotmart, braip)."
+  }
+}
