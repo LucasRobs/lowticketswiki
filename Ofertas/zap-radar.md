@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-16
-rodadas_vista: 19
+visto_ultimo: 2026-10-17
+rodadas_vista: 20
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 26
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-16
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -213,5 +213,11 @@ Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-
 ## Rodada 2026-10-16
 
 1 mencao(oes) nesta varredura (gateway Payt). App de rastreamento de WhatsApp, oferta mais antiga e mais recorrente do vault (18+ rodadas desde 16/08). Mesma reclamacao ja conhecida ainda na pagina 1 da Payt -- zero novidade, so confirma presenca continua.
+
+Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway Payt). App de rastreamento/espionagem de WhatsApp (whatsradar.com), ja catalogado desde 16/08 com 19 rodadas vistas. Reconfirmado via Payt numa reclamacao de propaganda enganosa (app nao abre), publicada 08/10 e capturada so agora -- aparicao em dia distinto (17/10 vs ultimo visto 16/10).
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/

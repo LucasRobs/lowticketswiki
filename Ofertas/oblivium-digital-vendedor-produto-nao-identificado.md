@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-15
-rodadas_vista: 3
+visto_ultimo: 2026-10-17
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-15
+ra_checado: 2026-10-17
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao
 ## Rodada 2026-10-15
 
 1 mencao(oes) nesta varredura (gateway Payt). Mesma reclamacao de 07/10 ainda na pagina 1 da Payt -- produto nao identificado, pagamento em 4x. Zero novidade genuina (mesmo problema de volume baixo + bug de paginacao do ZapRadar acima), mas confirma vendedor sustentado ha semanas.
+
+Evidencia: https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/
+
+## Rodada 2026-10-17
+
+1 mencao(oes) nesta varredura (gateway Payt). Vendedor ja catalogado desde 08/10 (3 rodadas vistas), produto ainda nao identificado nos relatos. Reconfirmado via Payt em reclamacao de cancelamento nao respondido (publicada 07/10, capturada agora) -- aparicao em dia distinto (17/10 vs ultimo visto 15/10).
 
 Evidencia: https://www.reclameaqui.com.br/payt/compra-pedido-de-cancelamento-nao-respondido-por-vendedor-oblivium-digital-exijo-o-estorno-do-cartao_kc0x3hE-i7qw7H14/
