@@ -2,6 +2,25 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-18.md",
+   "data": "2026-10-18",
+   "titulo": "Radar 2026-10-18",
+   "ofertas_vistas": 2,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "hotmart",
+    "kiwify",
+    "monetizze",
+    "perfectpay"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-18\n\n## Novas\n\n## Movimento\n\n- [[lift-gold]] — ra_reclamacoes atualizado para 1\n- [[perfect-liss]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\n## Passadas do dia\n- [[2026-10-18 -- 0015]] - perfectpay, cakto-pay, kiwify, hotmart, monetizze - 2 achado(s) - Pagina 1 congelada nos 4 gateways fixos (zero nome novo); rotativo Monetizze reconfirma Lift Gold e Perfect Liss com a mesma evidencia de…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-17.md",
    "data": "2026-10-17",
    "titulo": "Radar 2026-10-17",
@@ -749,6 +768,26 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-18 -- 0015.md",
+   "data": "2026-10-18",
+   "hora": "00:15",
+   "gateways": [
+    "perfectpay",
+    "cakto-pay",
+    "kiwify",
+    "hotmart",
+    "monetizze"
+   ],
+   "paginas": 2,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "lift-gold",
+    "perfect-liss"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-18]].\n\n# Rodada — 18/10/2026 · 00:15 Fortaleza\n\n**Gateways:** perfectpay, cakto-pay, kiwify, hotmart, monetizze · **Páginas:** 2 · **Coleta:** parcial · **Achados:** 2\n\n## Quentes\n- [[lift-gold]] -- Monetizze · 4o dia distinto reconfirmado (mesma evidencia)\n\n## Mornas\n- [[perfect-liss]] -- Monetizze · 2o dia distinto reconfirmado (mesma evidencia)\n\n## Frias (novas)\n(nenhuma)\n\nLeitura: janela de ~2h (22:19 de 17/10 a 00:15 de 18/10). Bug de paginacao do ReclameAqui reconfirmado de novo em pagina 2 de PerfectPay e Monetizze ('Exibindo 0 de 0 reclamacoes'), 17a+ passada consecutiva com o mesmo travamento desde 04/10 -- parei em pagina 1 pelos 4 gateways fixos e testei so pagina 2 no rotativo. Pagina 1 de PerfectPay, Cakto, Kiwify e Hotmart repetiu exatamente os mesmos titulos genericos e achados ja catalogados das rodadas anteriores (Anunciaie, avaliacao remunerada, VSA Comunidade, mangas, operacoes binarias, Frutinhas Falantes, Reflexologia), o que sugere que mesmo a pagina 1 pode estar congelada nesta janela, nao so a paginacao -- zero nome novo nesses 4 gateways. O rotativo foi Monetizze (mais atrasada do ciclo, sem varredura dedicada desde 17/10 00:52), que trouxe as mesmas duas reclamacoes de rodadas anteriores (Lift Gold, Perfect Liss) com evidencia URL identica -- reconfirmadas em dia de calendario novo, mas sem prova de evidencia nova de fato.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-17 -- 2219.md",
    "data": "2026-10-17",

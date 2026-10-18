@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-17
-rodadas_vista: 3
+visto_ultimo: 2026-10-18
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 1
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-17
+ra_checado: 2026-10-18
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou
 ## Rodada 2026-10-17
 
 1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/produto fisico com cobranca recorrente contestada (cliente antiga cobrada de novo). Mesma reclamacao de 14/10 e 15/10, agora confirmada em terceiro dia diferente -- sobe de morna para quente.
+
+Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/
+
+## Rodada 2026-10-18
+
+1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/encapsulado com cobranca recorrente contestada por cliente antiga. Mesma reclamacao (evidencia identica) reaparece na pagina 1 da Monetizze desde 14/10 -- 4o dia distinto registrado, mas o travamento de paginacao do ReclameAqui (pagina 2+ sempre '0 de 0') sugere que a pagina 1 tambem pode estar sem atualizar nesta janela, nao necessariamente nova evidencia organica.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/

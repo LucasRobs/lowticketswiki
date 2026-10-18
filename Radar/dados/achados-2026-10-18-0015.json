@@ -1,0 +1,44 @@
+{
+  "data_varredura": "2026-10-18",
+  "gateways": [
+    {"nome": "PerfectPay", "slug": "perfectpay", "reclamacoes_ativas": 288294, "paginas_varridas": 1},
+    {"nome": "Cakto", "slug": "cakto-pay", "reclamacoes_ativas": 19178, "paginas_varridas": 1},
+    {"nome": "Kiwify", "slug": "kiwify", "reclamacoes_ativas": 50724, "paginas_varridas": 1},
+    {"nome": "Hotmart", "slug": "hotmart", "reclamacoes_ativas": 78828, "paginas_varridas": 1},
+    {"nome": "Monetizze", "slug": "monetizze", "reclamacoes_ativas": 64206, "paginas_varridas": 2}
+  ],
+  "achados": [
+    {
+      "produto": "Lift Gold",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "saude-fitness",
+      "temperatura": "quente",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Lift Gold",
+      "descricao": "Suplemento/encapsulado com cobranca recorrente contestada por cliente antiga. Mesma reclamacao (evidencia identica) reaparece na pagina 1 da Monetizze desde 14/10 -- 4o dia distinto registrado, mas o travamento de paginacao do ReclameAqui (pagina 2+ sempre '0 de 0') sugere que a pagina 1 tambem pode estar sem atualizar nesta janela, nao necessariamente nova evidencia organica.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/"
+    },
+    {
+      "produto": "Perfect Liss",
+      "tipo": "marca",
+      "gateway": "Monetizze",
+      "nicho": "beleza-estetica",
+      "temperatura": "morna",
+      "mencoes": 1,
+      "faixa_preco": "",
+      "termo_busca": "Perfect Liss progressiva",
+      "descricao": "Progressiva capilar fisica paga via Pix, nao entregue. Mesma reclamacao de 17/10 (evidencia identica), agora confirmada em segundo dia distinto -- sobe de nova para morna. Mesma ressalva do travamento de pagina 1 citada no Lift Gold.",
+      "evidencia_url": "https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/"
+    }
+  ],
+  "passada": {
+    "hora": "00:15",
+    "gateways": ["perfectpay", "cakto-pay", "kiwify", "hotmart", "monetizze"],
+    "paginas": 2,
+    "coleta": "parcial",
+    "relatorio": "## Quentes\n- [[lift-gold]] -- Monetizze · 4o dia distinto reconfirmado (mesma evidencia)\n\n## Mornas\n- [[perfect-liss]] -- Monetizze · 2o dia distinto reconfirmado (mesma evidencia)\n\n## Frias (novas)\n(nenhuma)\n\nLeitura: janela de ~2h (22:19 de 17/10 a 00:15 de 18/10). Bug de paginacao do ReclameAqui reconfirmado de novo em pagina 2 de PerfectPay e Monetizze ('Exibindo 0 de 0 reclamacoes'), 17a+ passada consecutiva com o mesmo travamento desde 04/10 -- parei em pagina 1 pelos 4 gateways fixos e testei so pagina 2 no rotativo. Pagina 1 de PerfectPay, Cakto, Kiwify e Hotmart repetiu exatamente os mesmos titulos genericos e achados ja catalogados das rodadas anteriores (Anunciaie, avaliacao remunerada, VSA Comunidade, mangas, operacoes binarias, Frutinhas Falantes, Reflexologia), o que sugere que mesmo a pagina 1 pode estar congelada nesta janela, nao so a paginacao -- zero nome novo nesses 4 gateways. O rotativo foi Monetizze (mais atrasada do ciclo, sem varredura dedicada desde 17/10 00:52), que trouxe as mesmas duas reclamacoes de rodadas anteriores (Lift Gold, Perfect Liss) com evidencia URL identica -- reconfirmadas em dia de calendario novo, mas sem prova de evidencia nova de fato.",
+    "resumo": "Pagina 1 congelada nos 4 gateways fixos (zero nome novo); rotativo Monetizze reconfirma Lift Gold e Perfect Liss com a mesma evidencia de rodadas passadas."
+  }
+}
