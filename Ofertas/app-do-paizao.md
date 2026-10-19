@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-14
-rodadas_vista: 9
+visto_ultimo: 2026-10-19
+rodadas_vista: 10
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 20
+ra_reclamacoes: 25
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -167,3 +167,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 19 mencao(oes) nesta varredura (gateway Kirvano). 4 reclamacoes nomeadas com ID novo: 261536183, 261487763, 261471967, 261401887 (cancelamento de assinatura). Nao contada, mas com a mesma escada: 261440249 (mes de R$ 50, depois 'promocao' de 1 ano a R$ 20/mes, cobrado em dobro; app de treino e dieta trava). Biblioteca, mesma busca: ~11 anuncios de Carlao Silva, iniciados de 05 a 09/10 — igual a 11/10, sem rotacao nova.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 261536183, 261487763, 261471967, 261401887)
+
+## Rodada 2026-10-19
+
+25 mencao(oes) nesta varredura (gateway Kirvano). 5 IDs novos na Kirvano desde 14/10 17h38 (20 -> 25): 262017555, 261929467, 261722893, 261716635, 261702305. Biblioteca (busca 'app do paizão', agora ordenada por impressoes): 5 cartoes de Carlao Silva carregados, ~12 anuncios, dois iniciados em 16/10 e dois blocos de 27/09 com 4 anuncios cada -- criativo novo de novo, depois de 11-14/10 sem rotacao.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/

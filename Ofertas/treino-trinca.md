@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-14
-rodadas_vista: 9
+visto_ultimo: 2026-10-19
+rodadas_vista: 10
 dias_no_ar: 58
 criativos_ultima: 210
 criativos_delta: -20
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 69
+ra_reclamacoes: 86
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -170,3 +170,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 62 mencao(oes) nesta varredura (gateway Lastlink). 12 reclamacoes nomeadas com ID novo entre 11/10 23h e 13/10 (todas acima de 261385839): 261554925, 261549943, 261519901, 261476539 (Trinca Elite comprado em 06/10), 261475005 (R$ 37 e depois exigencia de assinatura do app para acessar os treinos, nao informada no checkout), 261470305, 261466137, 261455589, 261451053, 261449421, 261411373, 261394793. Fora da conta, do mesmo operador: 261548761 (compra em live do Lotz), 261475961 (DF 1000 em live) e 261480011 (Magra Sem Fome). Biblioteca, mesma busca 'treino trinca': ~200 resultados (eram ~160 em 11/10), 29 carregados, todos de Pedro Lotz, o mais novo iniciado em 05/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261554925, 261549943, 261519901, 261476539, 261475005, 261470305, 261466137, 261455589, 261451053, 261449421, 261411373, 261394793)
+
+## Rodada 2026-10-19
+
+86 mencao(oes) nesta varredura (gateway Lastlink). 17 IDs novos entre 14/10 17h38 e 19/10 (69 -> 86), ~3,4 por dia, 10 deles so em 18/10: 261972871, 261968323, 261963675 (Trinca Force, protocolo de R$ 997 com desconto de sorteio), 261957721, 261956503, 261954721, 261953539, 261952269, 261951933, 261945807, 261945721, 261944925 (avaliacao/questionario do treino nao conclui), 261906631, 261828491, 261727969, 261727961, 261677743. Fora da conta: 261813721 (WhatsApp bloqueado, cita Pedro Lotz sem citar o Trinca). Biblioteca, busca 'treino trinca': ~150 resultados (eram ~210 em 14/10), 28 carregados, todos de Pedro Lotz, o mais novo iniciado em 09/10 e o mais antigo em 22/08.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261972871 ... 261677743)

@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-05
-rodadas_vista: 2
+visto_ultimo: 2026-10-19
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 6
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-05
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 4 mencao(oes) nesta varredura (gateway Payt). Operacao de loteria/apostas com upsell muito pesado: uma unica reclamacao lista 4 produtos cobrados do mesmo produtor na mesma venda (Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto, Truque da Loto PRO, Truque da Loto), somando R$623,24. Estrutura de order bump agressiva, acabou de aparecer via gateway rotativo Payt - forte candidato a modelar o funil.
 
 Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-4-servicos-pela-payt-que-nao-comprei_o4e7nq1Fi06vnQrG/
+
+## Rodada 2026-10-19
+
+6 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (4 -> 6): 261749815, 261641399. Voltou depois de esfriar.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

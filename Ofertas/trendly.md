@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-10-17
-rodadas_vista: 4
+visto_ultimo: 2026-10-19
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/trendly"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-08-22"
-ra_checado: 2026-10-17
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -68,3 +68,9 @@ Evidencia:
 1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida como acesso vitalicio por R$299. Mesma reclamacao das rodadas anteriores -- zero novidade.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/
+
+## Rodada 2026-10-19
+
+3 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (1 -> 3): 261774809 (assinatura sem acesso), 261761683 (promessa de suporte).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

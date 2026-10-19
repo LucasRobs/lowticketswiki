@@ -33,10 +33,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-03",
-  "visto_ultimo": "2026-10-05",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-19",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 4,
+  "ra_reclamacoes": 6,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-05",
+  "ra_checado": "2026-10-19",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "payt"
   ]
  },
- "corpo": "# O Truque da Loto PRO\n\n## Angulo\nAchado novo e o mais chamativo da passada: funil de 4 produtos amarrados (O Truque da Loto PRO, Lovable.app, Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto) vendendo 'método' de previsão de loteria. Cobrança não autorizada clara, suporte bloqueou os pedidos de reembolso e só saiu com escalada direto na Payt.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-4-servicos-pela-payt-que-nao-comprei_o4e7nq1Fi06vnQrG/\n\n## Historico\n\n## Rodada 2026-10-05\n\n4 mencao(oes) nesta varredura (gateway Payt). Operacao de loteria/apostas com upsell muito pesado: uma unica reclamacao lista 4 produtos cobrados do mesmo produtor na mesma venda (Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto, Truque da Loto PRO, Truque da Loto), somando R$623,24. Estrutura de order bump agressiva, acabou de aparecer via gateway rotativo Payt - forte candidato a modelar o funil.\n\nEvidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-4-servicos-pela-payt-que-nao-comprei_o4e7nq1Fi06vnQrG/\n",
+ "corpo": "# O Truque da Loto PRO\n\n## Angulo\nAchado novo e o mais chamativo da passada: funil de 4 produtos amarrados (O Truque da Loto PRO, Lovable.app, Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto) vendendo 'método' de previsão de loteria. Cobrança não autorizada clara, suporte bloqueou os pedidos de reembolso e só saiu com escalada direto na Payt.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-4-servicos-pela-payt-que-nao-comprei_o4e7nq1Fi06vnQrG/\n\n## Historico\n\n## Rodada 2026-10-05\n\n4 mencao(oes) nesta varredura (gateway Payt). Operacao de loteria/apostas com upsell muito pesado: uma unica reclamacao lista 4 produtos cobrados do mesmo produtor na mesma venda (Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto, Truque da Loto PRO, Truque da Loto), somando R$623,24. Estrutura de order bump agressiva, acabou de aparecer via gateway rotativo Payt - forte candidato a modelar o funil.\n\nEvidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-4-servicos-pela-payt-que-nao-comprei_o4e7nq1Fi06vnQrG/\n\n## Rodada 2026-10-19\n\n6 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (4 -> 6): 261749815, 261641399. Voltou depois de esfriar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-03",
@@ -98,9 +98,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "4 mencao(oes) na varredura de hoje. Operacao de loteria/apostas com upsell muito pesado: uma unica reclamacao lista 4 produtos cobrados do mesmo produtor na mesma venda (Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto, Truque da Loto PRO, Truque da Loto), somando R$623,24. Estrutura de order bump agressiva, acabou de aparecer via gateway rotativo Payt - forte candidato a modelar o funil."
+  },
+  {
+   "data": "2026-10-19",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 6,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "6 mencao(oes) na varredura de hoje. 2 IDs novos na Payt (4 -> 6): 261749815, 261641399. Voltou depois de esfriar."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",
+   "data": "2026-10-19",
+   "titulo": "Passada 2026-10-19 14:34"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-19.md",
+   "data": "2026-10-19",
+   "titulo": "Radar 2026-10-19"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-05.md",

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-14
-rodadas_vista: 3
+visto_ultimo: 2026-10-19
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 20
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-
 10 mencao(oes) nesta varredura (gateway Cakto). 5 reclamacoes com ID novo na Cakto: 261538423, 261463645 (plano Pro contratado em 10/10), 261424375 (app so trava), 261411993 (sem opcao de cancelar no app), 261395501 ('Larissa no WhatsApp / Direct Line' — primeira pista do que o app faz: atendente/assistente no WhatsApp).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261538423, 261463645, 261424375, 261411993, 261395501)
+
+## Rodada 2026-10-19
+
+20 mencao(oes) nesta varredura (gateway Cakto). 9 IDs novos na Cakto desde 14/10 17h38 (11 -> 20; a nota estava em 5 por regressao no merge de 18/10): 262007651, 261992449, 261927447 (assinatura do app), 261920753, 261828325, 261711107 ('direct line + IA Larissa para WhatsApp'), 261656839, 261644643 (promete devolucao se nao gostar), 261644265. Quase todos sao cancelamento de assinatura sem resposta.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

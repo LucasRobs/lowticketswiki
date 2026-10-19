@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-14
-rodadas_vista: 3
+visto_ultimo: 2026-10-19
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/malu-sua-assistente"
 gateways_detectados: [wiapy, perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 10
 ra_plataformas: [wiapy, perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (2613
 8 mencao(oes) nesta varredura (gateway PerfectPay). 2 reclamacoes com ID novo na PerfectPay: 261544735 (nao recebeu o app; dentro da area havia outros produtos) e 261422993 ('robo de IA Malu').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261544735, 261422993)
+
+## Rodada 2026-10-19
+
+10 mencao(oes) nesta varredura (gateway Wiapy). 2 IDs novos na Wiapy (8 -> 10): 261979677, 261769449.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/
