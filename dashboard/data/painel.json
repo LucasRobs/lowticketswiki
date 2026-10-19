@@ -181,7 +181,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -567,7 +567,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -6129,7 +6129,7 @@
    "classe": "oferta",
    "nicho": "mecanica-de-checkout",
    "sub_nicho": "taxa-para-liberar",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 2,
    "checkout": "perfectpay",
@@ -6849,7 +6849,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -7068,7 +7068,7 @@
    "classe": "oferta",
    "nicho": "trading-automatizado",
    "sub_nicho": "robo-de-operacao",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -7619,7 +7619,7 @@
    "classe": "oferta",
    "nicho": "gastronomia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -8116,7 +8116,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-e-apps",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -8164,8 +8164,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -9587,7 +9586,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-14",
    "bump_oculto": false,
@@ -9942,7 +9941,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -9988,8 +9987,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10053,7 +10051,7 @@
    "classe": "oferta",
    "nicho": "artesanato-pdf",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -10099,8 +10097,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10220,7 +10217,7 @@
    "classe": "oferta",
    "nicho": "mentoria-coaching",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -10266,8 +10263,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -10386,7 +10382,7 @@
    "classe": "oferta",
    "nicho": "dropshipping",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10499,7 +10495,7 @@
    "classe": "oferta",
    "nicho": "saude-terapias-alternativas",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -10545,8 +10541,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -11271,7 +11266,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -11660,7 +11655,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -11706,8 +11701,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12215,7 +12209,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -12715,7 +12709,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -12761,8 +12755,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13544,7 +13537,7 @@
    "classe": "oferta",
    "nicho": "marketing-e-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -13591,8 +13584,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13879,7 +13871,7 @@
    "classe": "oferta",
    "nicho": "entretenimento-infantil",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -13927,8 +13919,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -14709,7 +14700,7 @@
    "classe": "oferta",
    "nicho": "educacao",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -15536,7 +15527,7 @@
    "classe": "oferta",
    "nicho": "servicos-empresariais",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -15582,8 +15573,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -16857,7 +16847,7 @@
    "classe": "oferta",
    "nicho": "lives-interativas",
    "sub_nicho": "ferramenta-de-live",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -18300,7 +18290,7 @@
    "classe": "oferta",
    "nicho": "mentorias",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "ticto",
@@ -18346,8 +18336,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19238,7 +19227,7 @@
    "classe": "oferta",
    "nicho": "marketing-criacao-conteudo",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -19284,8 +19273,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19349,7 +19337,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital-trafego",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -19395,8 +19383,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19405,7 +19392,7 @@
    "classe": "oferta",
    "nicho": "educacao-infantil",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -19451,8 +19438,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -19517,7 +19503,7 @@
    "classe": "oferta",
    "nicho": "trading-e-robos",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -19563,8 +19549,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -20235,7 +20220,7 @@
    "classe": "oferta",
    "nicho": "streaming-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -20516,7 +20501,7 @@
    "classe": "oferta",
    "nicho": "desenvolvimento-pessoal",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -20795,7 +20780,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -20841,8 +20826,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22066,7 +22050,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital-trafego",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -22112,8 +22096,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22177,7 +22160,7 @@
    "classe": "oferta",
    "nicho": "autoajuda-pnl",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -22397,7 +22380,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -22443,8 +22426,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -22509,7 +22491,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -22555,8 +22537,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -23846,7 +23827,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -23894,8 +23875,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -24627,7 +24607,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -24883,8 +24863,8 @@
    "visto_ultimo": "2026-10-19",
    "rodadas_vista": 10,
    "dias_no_ar": 58,
-   "criativos_ultima": 210,
-   "criativos_delta": -20,
+   "criativos_ultima": 150,
+   "criativos_delta": -60,
    "ra_reclamacoes": 86,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-19",
@@ -25513,7 +25493,7 @@
    "classe": "oferta",
    "nicho": "cursos-de-oficio",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -25681,7 +25661,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -25727,8 +25707,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -30095,32 +30074,22 @@
    "brumdance-3em1",
    "cae-course",
    "cantigas-da-bailarina",
-   "capcut-desktop-licenca-clone-vendido-via-ticto",
    "casinha-dos-sonhos",
    "clube-da-pedagogia",
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
    "comunidade-influencers-ia-ascensao",
-   "criaai",
-   "croche-feliz-produtor-kevin",
-   "curso-brenda-bhaskar",
-   "curso-de-reflexologia-nas-maos",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-hiit-dance",
-   "desafio-voz-do-criador-30-dias-de-crescimento",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
    "do-rabisco-a-letra-bonita",
-   "emissoes-pro-yago-alcantara",
    "escola-de-personagem",
    "fluency-english",
-   "fornecedores-ocultos-fornecedores-nfc",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
-   "frutinhas-falantes",
    "horinha-da-leitura",
-   "implementacao-afr",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
@@ -30128,32 +30097,21 @@
    "little-genius",
    "lucennto",
    "maquina-de-vendas-realizada-mvr",
-   "mentoria-do-matheus-borges",
-   "metodo-tribe-do-zero-a-marca-pessoal",
    "meu-filho-e-unico-horleana",
-   "meus-socios-as",
-   "minha-historinha",
    "missa-em-atividades",
-   "missao-b3-jornada-50k",
    "movimentos-de-adoracao",
    "mundo-criativo-caligrafia",
    "mvr-by-daniel-fernandes",
-   "orlando-estrategico",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
-   "projeto-100k",
-   "protocolo-zero-barriga-40-club-40-sem-barriga",
-   "pva-primeira-venda-automatica",
-   "sora-cobranca-via-perfectpay",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
-   "vonixx-curso-de-estofamento-automotivo",
-   "vsa-comunidade"
+   "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
    "canonico": 1433
@@ -30205,8 +30163,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "9ae490ddc7486ff6",
-  "atualizado_em": "2026-10-19T14:35:34-03:00",
+  "hash": "8e47937d7c9a6638",
+  "atualizado_em": "2026-10-19T14:37:36-03:00",
   "ofertas": 375,
   "angulos": 98,
   "observacoes": 960,

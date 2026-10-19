@@ -29,8 +29,8 @@ visto_primeiro: 2026-08-16
 visto_ultimo: 2026-10-19
 rodadas_vista: 10
 dias_no_ar: 58
-criativos_ultima: 210
-criativos_delta: -20
+criativos_ultima: 150
+criativos_delta: -60
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
