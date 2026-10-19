@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 5
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-14
-rodadas_vista: 1
+visto_ultimo: 2026-10-19
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/escola-de-personagens"
 gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 6
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-19
+
+6 mencao(oes) nesta varredura (gateway Kiwify). 2 IDs novos na Kiwify (4 -> 6): 261712045, 261676427.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/

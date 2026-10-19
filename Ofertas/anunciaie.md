@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-17
-rodadas_vista: 3
+visto_ultimo: 2026-10-19
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/anunciaie"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-17
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciai
 1 mencao(oes) nesta varredura (gateway PerfectPay). Curso sobre anúncios/tráfego, vendedor não identificado. Reclamação nomeia a grafia com acento 'Anunciaê'. Reaparece em 3o dia diferente (14/10, 15/10, agora 16-17/10) -- sobe pra quente.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-devolucao-do-curso-da-anunciae-por-nao-atender-expectativas_jA77jZ0Mj7G2Gl1s/
+
+## Rodada 2026-10-19
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (2 -> 4): 261882487 (plataforma Anunciae), 261864239 (curso da Anunciae).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

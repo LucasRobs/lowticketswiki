@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-14
-rodadas_vista: 2
+visto_ultimo: 2026-10-19
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/irryss"
 gateways_detectados: [payt, lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 11
 ra_plataformas: [payt, lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 6 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo: 261535613 (assinatura anual do irrys.app, 'diferente da demonstracao') e 261448369 (reembolso sem resposta).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261535613, 261448369)
+
+## Rodada 2026-10-19
+
+11 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos na Payt desde 14/10 17h38 (8 -> 11): 261723767, 261717415, 261685811 ('Irrys App com defeito').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

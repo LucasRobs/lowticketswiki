@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-17
-rodadas_vista: 20
+visto_ultimo: 2026-10-19
+rodadas_vista: 21
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 26
+ra_reclamacoes: 66
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-17
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -221,3 +221,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-
 1 mencao(oes) nesta varredura (gateway Payt). App de rastreamento/espionagem de WhatsApp (whatsradar.com), ja catalogado desde 16/08 com 19 rodadas vistas. Reconfirmado via Payt numa reclamacao de propaganda enganosa (app nao abre), publicada 08/10 e capturada so agora -- aparicao em dia distinto (17/10 vs ultimo visto 16/10).
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-e-solicito-estorno-por-propaganda-enganosa_D00TBxYjXmHPp3Dy/
+
+## Rodada 2026-10-19
+
+66 mencao(oes) nesta varredura (gateway Payt). 21 IDs novos desde 14/10 17h38 (45 -> 66; a nota estava em 26 por regressao no merge de 18/10): 18 na Payt e 3 na PerfectPay (261991617 R$ 137, 261944743, 261773891). Payt: 261989449 ('Zape radar'), 261960599, 261951557, 261923227 ('dizia ter acesso as mensagens, mas na verdade e um curso'), 261915963, 261915405, 261878407, 261861875 (R$ 67), 261841077 (R$ 97), 261785771, 261773945, 261773579, 261770725, 261767627 (R$ 67), 261708797, 261669965, 261656507 (R$ 67), 261638521. Fora da conta: 2 do 'Manual da Verdade' (R$ 137) e ~5 de 'relatorio' de R$ 137 sem nome.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

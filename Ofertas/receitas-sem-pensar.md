@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-14
-rodadas_vista: 2
+visto_ultimo: 2026-10-19
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/receitas-sem-pensar"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 7
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 5 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo: 261529383 e 261454839 (assinatura; receitas diferentes do que e postado no Instagram).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261529383, 261454839)
+
+## Rodada 2026-10-19
+
+7 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (5 -> 7): 261706723, 261700079 (app que nao se consegue cancelar).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

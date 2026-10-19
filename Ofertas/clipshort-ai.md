@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-14
-rodadas_vista: 2
+visto_ultimo: 2026-10-19
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/clipshort-ai"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 2 mencao(oes) nesta varredura (gateway Kirvano). 1 reclamacao com ID novo: 261484553 (comprou 'Corte virais', 'Clipshort gringo' e 'Clipshort' e nao recebeu acesso — a frente virou tres produtos).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261484553)
+
+## Rodada 2026-10-19
+
+3 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (2 -> 3): 261935939 (app nao recebido).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/

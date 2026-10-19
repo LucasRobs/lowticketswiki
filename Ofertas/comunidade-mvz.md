@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/comunidade-mvz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-14

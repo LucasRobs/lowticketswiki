@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-11
-rodadas_vista: 2
+visto_ultimo: 2026-10-19
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/pilates-na-parede-lastlink"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 10
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-11
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 8 mencao(oes) nesta varredura (gateway Lastlink). 5 reclamacoes com ID novo de 08 a 11/10: 261367533 ('desafio de pilates na parede', R$ 27 no Pix, recebeu so fotos), 261253781 (anuncio no Instagram prometia videos), 261218941, 261209591 (LP desafiopilates.com/q/simple, quiz, campanha 'PreEscala') e 261160501. Funil de quiz + desafio de 21 dias, mesmo gateway do Trinca.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261367533, 261253781, 261218941, 261209591, 261160501)
+
+## Rodada 2026-10-19
+
+10 mencao(oes) nesta varredura (gateway Lastlink). 2 IDs novos na Lastlink (8 -> 10): 261703205 ('LL Pilates'), 261662981 (R$ 27, 'pilates de parede da Fernanda Martins'). Fora da conta: 2 'Pilates na Parede' na Payt (261886805, 261663079), que podem ser outra operacao, e 261777825 ('Pilates em casa').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/

@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-17
-rodadas_vista: 9
+visto_ultimo: 2026-10-19
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/cashnopix"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 7
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-17
+ra_checado: 2026-10-19
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -136,3 +136,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-d
 1 mencao(oes) nesta varredura (gateway PerfectPay). Angulo de renda extra via cashback/Pix que ja revelou o nome 'Cash no Pix'. Mesma reclamacao das rodadas anteriores (promessa de trabalho, reembolso negado) -- zero novidade, mas confirma presenca sustentada.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-com-promessa-de-trabalho-e-solicito-reembolso-dos-valores-pagos_-VYBfAbViU5o7AfK/
+
+## Rodada 2026-10-19
+
+7 mencao(oes) nesta varredura (gateway PerfectPay). 1 ID novo na PerfectPay (6 -> 7): 261967663.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

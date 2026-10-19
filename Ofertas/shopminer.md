@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-14
-rodadas_vista: 3
+visto_ultimo: 2026-10-19
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 21
+ra_reclamacoes: 31
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-19
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -105,3 +105,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-pois-o-aplicat
 20 mencao(oes) nesta varredura (gateway Payt). 9 reclamacoes com ID novo na Payt: 261557535, 261517005, 261488385 (app so trava), 261426601, 261425543, 261417585 ('acesso vitalicio ao ShopMiner (Shop Flix)', comprado em 02/10), 261409511 (comprado durante live), 261404929, 261400543 (nao gera o conteudo prometido). Biblioteca, busca 'shopminer': zero anuncios — confirma que o canal de venda e a live.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261557535, 261517005, 261488385, 261426601, 261425543, 261417585, 261409511, 261404929, 261400543)
+
+## Rodada 2026-10-19
+
+31 mencao(oes) nesta varredura (gateway Payt). 10 IDs novos na Payt desde 14/10 17h38 (21 -> 31): 261985647, 261983013, 261956671, 261913993, 261907365, 261861193 ('ShopMine'), 261836405, 261756631, 261742137, 261664933. Biblioteca nao consultada nesta rodada (zero anuncio em 14/10: canal e live).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
