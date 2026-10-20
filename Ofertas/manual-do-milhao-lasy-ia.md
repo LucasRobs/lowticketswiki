@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-14
-rodadas_vista: 6
+visto_ultimo: 2026-10-20
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/manual-do-milhao-lasy-ia"
 gateways_detectados: [monetizze]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manua
 2 mencao(oes) nesta varredura (gateway Monetizze). Ja catalogado, reaparece na Monetizze (gateway nao varrido desde 10/10) com 2 reclamacoes distintas no mesmo dia pedindo estorno do bundle curso + ferramenta Lasy IA que nao funcionam -- confirma que a oferta continua rodando.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/exijo-estorno-do-curso-manual-do-milhao-e-lasy-ia-que-nao-funcionam_v2gCbsWZ8ZIi3M8i/
+
+## Rodada 2026-10-20
+
+3 mencao(oes) nesta varredura (gateway Monetizze). 1 ID novo na Monetizze (2 -> 3): 262027379 (curso 'Manual do Milhao' comprado em novembro, devolucao pendente desde entao). ID novo, compra antiga: e retorno de avistamento, nao de venda recente.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/monetizze/lista-reclamacoes/

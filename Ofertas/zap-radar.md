@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-19
-rodadas_vista: 21
+visto_ultimo: 2026-10-20
+rodadas_vista: 22
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 66
+ra_reclamacoes: 71
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -225,5 +225,11 @@ Evidencia: https://www.reclameaqui.com.br/payt/nao-consigo-abrir-o-app-zapradar-
 ## Rodada 2026-10-19
 
 66 mencao(oes) nesta varredura (gateway Payt). 21 IDs novos desde 14/10 17h38 (45 -> 66; a nota estava em 26 por regressao no merge de 18/10): 18 na Payt e 3 na PerfectPay (261991617 R$ 137, 261944743, 261773891). Payt: 261989449 ('Zape radar'), 261960599, 261951557, 261923227 ('dizia ter acesso as mensagens, mas na verdade e um curso'), 261915963, 261915405, 261878407, 261861875 (R$ 67), 261841077 (R$ 97), 261785771, 261773945, 261773579, 261770725, 261767627 (R$ 67), 261708797, 261669965, 261656507 (R$ 67), 261638521. Fora da conta: 2 do 'Manual da Verdade' (R$ 137) e ~5 de 'relatorio' de R$ 137 sem nome.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-20
+
+71 mencao(oes) nesta varredura (gateway Payt). 5 IDs novos na Payt desde 19/10 14h25 (66 -> 71): 262076791 (pagina travou, nada enviado), 262057873 ('pesquisa ZAP radar'), 262043317 (app nao abre), 262030023 (comprado pelo WhatsApp, sem relatorio), 262022083 ('Zape radar'). Fora da conta: 262076123 (Pix de R$ 137 sem nome do produto) e 262063995 na Ticto (acesso ao WhatsApp de outra pessoa, sem nome).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

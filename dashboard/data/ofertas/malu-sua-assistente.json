@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-08",
-  "visto_ultimo": "2026-10-19",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-10-20",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -46,13 +46,13 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 10,
+  "ra_reclamacoes": 11,
   "ra_plataformas": [
    "wiapy",
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-19",
+  "ra_checado": "2026-10-20",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "wiapy"
   ]
  },
- "corpo": "# Malu - Sua Assistente\n\n## Angulo\nAssistente para postar na loja da Shopee, R$ 37,90 no Pix; depois da compra pede mais R$ 24 'da API' para funcionar. 2 reclamacoes: 260944511 (compra 14/09) e 261076971 (07/10).\n\n## Funil\nanuncio -> pagina -> checkout wiapy -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (IDs 261076971, 260944511)\n\n## Historico\n\n## Rodada 2026-10-11\n\n6 mencao(oes) nesta varredura (gateway Wiapy). 4 reclamacoes com ID novo em TRES gateways: 261345175 (Wiapy, R$ 37,90 em 10/10, cobrado duas vezes), 261360035 (Cakto, R$ 38,89), 261250055 e 261215079 (PerfectPay, compra de 03/09). O mesmo produto roda em Wiapy, Cakto e PerfectPay.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (261345175) + cakto-pay (261360035) + perfectpay (261250055, 261215079)\n\n## Rodada 2026-10-14\n\n8 mencao(oes) nesta varredura (gateway PerfectPay). 2 reclamacoes com ID novo na PerfectPay: 261544735 (nao recebeu o app; dentro da area havia outros produtos) e 261422993 ('robo de IA Malu').\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261544735, 261422993)\n\n## Rodada 2026-10-19\n\n10 mencao(oes) nesta varredura (gateway Wiapy). 2 IDs novos na Wiapy (8 -> 10): 261979677, 261769449.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/\n",
+ "corpo": "# Malu - Sua Assistente\n\n## Angulo\nAssistente para postar na loja da Shopee, R$ 37,90 no Pix; depois da compra pede mais R$ 24 'da API' para funcionar. 2 reclamacoes: 260944511 (compra 14/09) e 261076971 (07/10).\n\n## Funil\nanuncio -> pagina -> checkout wiapy -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 2 mencao(oes) na varredura de 2026-10-08 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (IDs 261076971, 260944511)\n\n## Historico\n\n## Rodada 2026-10-11\n\n6 mencao(oes) nesta varredura (gateway Wiapy). 4 reclamacoes com ID novo em TRES gateways: 261345175 (Wiapy, R$ 37,90 em 10/10, cobrado duas vezes), 261360035 (Cakto, R$ 38,89), 261250055 e 261215079 (PerfectPay, compra de 03/09). O mesmo produto roda em Wiapy, Cakto e PerfectPay.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (261345175) + cakto-pay (261360035) + perfectpay (261250055, 261215079)\n\n## Rodada 2026-10-14\n\n8 mencao(oes) nesta varredura (gateway PerfectPay). 2 reclamacoes com ID novo na PerfectPay: 261544735 (nao recebeu o app; dentro da area havia outros produtos) e 261422993 ('robo de IA Malu').\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261544735, 261422993)\n\n## Rodada 2026-10-19\n\n10 mencao(oes) nesta varredura (gateway Wiapy). 2 IDs novos na Wiapy (8 -> 10): 261979677, 261769449.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n11 mencao(oes) nesta varredura (gateway Wiapy). 1 ID novo na Wiapy (10 -> 11): 262109411 (assistente Malu, R$ 43,80, reembolso nao pago apos 5 dias uteis).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-08",
@@ -123,9 +123,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "10 mencao(oes) na varredura de hoje. 2 IDs novos na Wiapy (8 -> 10): 261979677, 261769449."
+  },
+  {
+   "data": "2026-10-20",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 11,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 43.8,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "11 mencao(oes) na varredura de hoje. 1 ID novo na Wiapy (10 -> 11): 262109411 (assistente Malu, R$ 43,80, reembolso nao pago apos 5 dias uteis)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",
+   "data": "2026-10-20",
+   "titulo": "Passada 2026-10-20 13:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-20.md",
+   "data": "2026-10-20",
+   "titulo": "Radar 2026-10-20"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",

@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-03",
-  "visto_ultimo": "2026-10-14",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-20",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-14",
+  "ra_checado": "2026-10-20",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "payt"
   ]
  },
- "corpo": "# Linflora\n\n## Angulo\nLoja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG Comércio de Produtos Naturais Ltda.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-total-pois-a-loja-linflora-do-instagram-e-editado-pelo-reclame-aqui_lSmwYXOJGxz-T0ig/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Payt). Reclamacao pede estorno total de compra feita numa 'loja do Instagram' (nome parcialmente editado pelo RA) - padrao classico de loja de anuncio no Instagram processando via Payt.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-total-pois-a-loja-linflora-do-instagram-e-editado-pelo-reclame-aqui_lSmwYXOJGxz-T0ig/\n\n## Rodada 2026-10-14\n\n3 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo na Payt em 14/10: 261603523 (compra feita hoje, sem resposta) e 261570083 (produto nao recebido). Loja de produto fisico, fora do escopo low ticket digital.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261603523, 261570083)\n",
+ "corpo": "# Linflora\n\n## Angulo\nLoja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG Comércio de Produtos Naturais Ltda.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-03 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-total-pois-a-loja-linflora-do-instagram-e-editado-pelo-reclame-aqui_lSmwYXOJGxz-T0ig/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Payt). Reclamacao pede estorno total de compra feita numa 'loja do Instagram' (nome parcialmente editado pelo RA) - padrao classico de loja de anuncio no Instagram processando via Payt.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-estorno-total-pois-a-loja-linflora-do-instagram-e-editado-pelo-reclame-aqui_lSmwYXOJGxz-T0ig/\n\n## Rodada 2026-10-14\n\n3 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo na Payt em 14/10: 261603523 (compra feita hoje, sem resposta) e 261570083 (produto nao recebido). Loja de produto fisico, fora do escopo low ticket digital.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261603523, 261570083)\n\n## Rodada 2026-10-20\n\n4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (3 -> 4): 262056563 (3 frascos de Linflora comprados em 08/10 apos propaganda no Instagram, nao entregues, empresa nao responde). Produto fisico cobrado num gateway de infoproduto.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-03",
@@ -108,9 +108,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "3 mencao(oes) na varredura de hoje. 2 reclamacoes com ID novo na Payt em 14/10: 261603523 (compra feita hoje, sem resposta) e 261570083 (produto nao recebido). Loja de produto fisico, fora do escopo low ticket digital."
+  },
+  {
+   "data": "2026-10-20",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 3,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. 1 ID novo na Payt (3 -> 4): 262056563 (3 frascos de Linflora comprados em 08/10 apos propaganda no Instagram, nao entregues, empresa nao responde). Produto fisico cobrado num gateway de infoproduto."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-20.md",
+   "data": "2026-10-20",
+   "titulo": "Radar 2026-10-20"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-14 -- 1738.md",

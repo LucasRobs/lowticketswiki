@@ -26,20 +26,20 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-19
-rodadas_vista: 10
-dias_no_ar: 58
-criativos_ultima: 150
-criativos_delta: -60
+visto_ultimo: 2026-10-20
+rodadas_vista: 11
+dias_no_ar: 59
+criativos_ultima: 180
+criativos_delta: 30
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 86
+ra_reclamacoes: 100
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -176,3 +176,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 86 mencao(oes) nesta varredura (gateway Lastlink). 17 IDs novos entre 14/10 17h38 e 19/10 (69 -> 86), ~3,4 por dia, 10 deles so em 18/10: 261972871, 261968323, 261963675 (Trinca Force, protocolo de R$ 997 com desconto de sorteio), 261957721, 261956503, 261954721, 261953539, 261952269, 261951933, 261945807, 261945721, 261944925 (avaliacao/questionario do treino nao conclui), 261906631, 261828491, 261727969, 261727961, 261677743. Fora da conta: 261813721 (WhatsApp bloqueado, cita Pedro Lotz sem citar o Trinca). Biblioteca, busca 'treino trinca': ~150 resultados (eram ~210 em 14/10), 28 carregados, todos de Pedro Lotz, o mais novo iniciado em 09/10 e o mais antigo em 22/08.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 261972871 ... 261677743)
+
+## Rodada 2026-10-20
+
+100 mencao(oes) nesta varredura (gateway Lastlink). 14 IDs novos entre 19/10 14h25 e 20/10 13h42 (86 -> 100), o maior volume em ~23h ja medido numa nota: 262120429, 262117813, 262109867 (Trinca/Pink, R$ 37, cita suplementos nao recebidos apos 14 dias), 262106487, 262091431, 262088405 (compra em 22/09), 262087519, 262084797 (questionario longo e plano nao personalizado), 262077851, 262064549, 262059715, 262057765 (planilha prometida em 24h nao chegou), 262052595, 262021119. Fora da conta: 262100269 (treino sem nome, mesma queixa do questionario), 262086955 e 262041503 (suplemento TF1000 vendido em live do Pedro Lotz em 08/10, sem citar o Trinca), 262049379 (catalogo de exercicios). Biblioteca, busca 'treino trinca': ~180 resultados (eram ~150 em 19/10), os 21 primeiros por impressao todos de Pedro Lotz, inicios entre 22/08 e 09/10, nenhum criativo carregado mais novo que 09/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262120429 ... 262021119)

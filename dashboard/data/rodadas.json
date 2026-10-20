@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-20.md",
+   "data": "2026-10-20",
+   "titulo": "Radar 2026-10-20",
+   "ofertas_vistas": 22,
+   "novas": 5,
+   "retornaram": 2,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-20\n\n## Novas\n\n- [[dieta-hormonal-marina-cardoso]] — emagrecimento — nao capturado (assinatura) — Dieta 'hormonal' da nutricionista Marina Cardoso vendida na Hotmart, com cobranca que continua apos o pedido de cancelamento. 1 ID nesta…\n- [[ecossistema-low-ticket-nathan-kurnick]] — marketing-digital — nao capturado — Curso de low ticket de Nathan Kurnick, cobrado pela Payt. 1 ID nesta rodada (262084317, compra em 15/10, reembolso nao pago) + 2 da fila de…\n- [[ctrl-ia]] — ferramentas-ia — nao capturado — Plataforma que promete acesso a varias IAs num lugar so, cobrada pela Payt. 1 ID nesta rodada (262078597, 'Crtl Ai', nao funcionou no teste…\n- [[bicarbonapp]] — emagrecimento — nao capturado (Pix) — App de 'receita de emagrecimento' com bicarbonato, com uma 'Dra Ana' na frente. 3 IDs, todos nesta rodada e em dois gateways: Payt…\n- [[pilates-na-parede-payt]] — saude-estetica-fitness — nao capturado — Aulas online de Pilates na Parede cobradas pela Payt, separadas da [[pilates-na-parede-lastlink]] porque a nota da Lastlink deixou estas…\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 100\n- [[zap-radar]] — ra_reclamacoes atualizado para 71\n- [[app-direct-line]] — ra_reclamacoes atualizado para 24\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 19\n- [[shopminer]] — ra_reclamacoes atualizado para 33\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 26\n- [[clipshort-ai]] — ra_reclamacoes atualizado para 5\n- [[malu-sua-assistente]] — ra_reclamacoes atualizado para 11\n- [[irryss]] — ra_reclamacoes atualizado para 12\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 8\n- [[renda-fortuna]] — ra_reclamacoes atualizado para 9\n- [[cao360]] — ra_reclamacoes atualizado para 7\n- [[loopyz]] — ra_reclamacoes atualizado para 5\n- [[angulo-biblioteca-digital-mangas]] — ra_reclamacoes atualizado para 3\n- [[linflora]] — ra_reclamacoes atualizado para 4\n\n## Retornaram\n\n- [[manual-do-milhao-lasy-ia]] — inteligencia-artificial — reapareceu (3 mencao(oes))\n- [[arsenal-lucrativo]] — marketing-faca-como-eu — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~23h desde 19/10 14h25 pela API de busca do RA nos 11 gateways: 219 reclamacoes unicas, sem buraco. O Treino Trinca sozinho teve 14 delas (86 -> 100), enquanto a Biblioteca subiu de ~150 para ~180 resultados. Zap Radar (66 -> 71), Direct Line (20 -> 24) e TokScale (15 -> 19) seguem; o resto e uma mencao por nota. Cinco estreias pequenas, quatro delas por somar a fila de 19/10 (Dieta Hormonal, Ecossistema Low Ticket, CTRL IA, Pilates na Parede Payt) e uma nova (BicarbonApp, Payt + Kirvano).\n\n## Passadas do dia\n- [[2026-10-20 -- 1342]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 21 achado(s) - rodada diaria — API do RA, 11 gateways, 219 reclamacoes em ~23h; Trinca 86 → 100; 5 estreias pequenas (Dieta Hormonal, Ecossistema Low…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-19.md",
    "data": "2026-10-19",
    "titulo": "Radar 2026-10-19",
@@ -797,6 +822,46 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",
+   "data": "2026-10-20",
+   "hora": "13:42",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 29,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-biblioteca-digital-mangas",
+    "app-direct-line",
+    "app-do-paizao",
+    "arsenal-lucrativo",
+    "cao360",
+    "clipshort-ai",
+    "irryss",
+    "loopyz",
+    "malu-sua-assistente",
+    "manual-do-milhao-lasy-ia",
+    "receitas-sem-pensar",
+    "renda-fortuna",
+    "shopminer",
+    "tokscale-ia",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-20]].\n\n# Rodada — 20/10/2026 · 13:42 Fortaleza\n\n**Gateways:** kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · **Páginas:** 29 · **Coleta:** ok · **Achados:** 21\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 14 IDs em ~23h (86 → 100); Biblioteca ~150 → ~180 resultados\n- [[zap-radar]] — Payt · 5 IDs (66 → 71)\n- [[app-direct-line]] — Cakto · 4 IDs (20 → 24), todos cancelamento de assinatura\n- [[tokscale-ia]] — Payt · 4 IDs (15 → 19)\n\n## Mornas\n- [[shopminer]] 31 → 33 · [[app-do-paizao]] 25 → 26 · [[clipshort-ai]] 3 → 5 · [[malu-sua-assistente]] 10 → 11 · [[irryss]] 11 → 12 (agora na Hotmart) · [[receitas-sem-pensar]] 7 → 8 · [[renda-fortuna]] 8 → 9 · [[cao360]] 6 → 7 · [[loopyz]] 4 → 5\n- Retornos: [[manual-do-milhao-lasy-ia]] (Monetizze, compra de novembro) · [[arsenal-lucrativo]] (Cakto, 'IA de rateio')\n- Estreias (3 mencoes, 2 delas da fila de 19/10): Dieta Hormonal da Marina Cardoso (Hotmart), Ecossistema Low Ticket (Payt), CTRL IA (Payt), Pilates na Parede (Payt); BicarbonApp (Payt + Kirvano, 3 IDs de hoje); [[angulo-biblioteca-digital-mangas]] ganhou gateway (Cakto) e preco (R$ 37,90)\n\nLeitura: API de busca do RA em 11 gateways, 219 reclamacoes unicas de 19/10 14h25 a 20/10 13h42; o Trinca sozinho teve 14 das 219.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",
    "data": "2026-10-19",

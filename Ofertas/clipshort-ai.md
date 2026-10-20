@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-19
-rodadas_vista: 3
+visto_ultimo: 2026-10-20
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/clipshort-ai"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 5
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -95,5 +95,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 ## Rodada 2026-10-19
 
 3 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (2 -> 3): 261935939 (app nao recebido).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/
+
+## Rodada 2026-10-20
+
+5 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos na Kirvano (3 -> 5): 262113545 ('clicshort', R$ 68 pela promessa de criar videos e divulgar nas redes) e 262106801 (Clipshort, defeito e propaganda enganosa).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/

@@ -1,0 +1,346 @@
+{
+ "data_varredura": "2026-10-20",
+ "gateways": [
+  {
+   "nome": "Kiwify",
+   "slug": "kiwify",
+   "paginas_varridas": 3
+  },
+  {
+   "nome": "Ticto",
+   "slug": "ticto",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "Lastlink",
+   "slug": "lastlink",
+   "paginas_varridas": 3
+  },
+  {
+   "nome": "Kirvano",
+   "slug": "kirvano",
+   "paginas_varridas": 2
+  },
+  {
+   "nome": "PerfectPay",
+   "slug": "perfectpay",
+   "paginas_varridas": 2
+  },
+  {
+   "nome": "Cakto",
+   "slug": "cakto",
+   "paginas_varridas": 4
+  },
+  {
+   "nome": "Wiapy",
+   "slug": "wiapy",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "Payt",
+   "slug": "payt",
+   "paginas_varridas": 6
+  },
+  {
+   "nome": "Hotmart",
+   "slug": "hotmart",
+   "paginas_varridas": 5
+  },
+  {
+   "nome": "Eduzz",
+   "slug": "eduzz",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "Monetizze",
+   "slug": "monetizze",
+   "paginas_varridas": 1
+  }
+ ],
+ "achados": [
+  {
+   "produto": "Treino Trinca (Pedro Lotz)",
+   "tipo": "marca",
+   "gateway": "Lastlink",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "quente",
+   "mencoes": 100,
+   "faixa_preco": "R$ 37 + R$ 67 (cardapio) + protocolo R$ 997 + suplemento TF1000",
+   "termo_busca": "treino trinca",
+   "descricao": "14 IDs novos entre 19/10 14h25 e 20/10 13h42 (86 -> 100), o maior volume em ~23h ja medido numa nota: 262120429, 262117813, 262109867 (Trinca/Pink, R$ 37, cita suplementos nao recebidos apos 14 dias), 262106487, 262091431, 262088405 (compra em 22/09), 262087519, 262084797 (questionario longo e plano nao personalizado), 262077851, 262064549, 262059715, 262057765 (planilha prometida em 24h nao chegou), 262052595, 262021119. Fora da conta: 262100269 (treino sem nome, mesma queixa do questionario), 262086955 e 262041503 (suplemento TF1000 vendido em live do Pedro Lotz em 08/10, sem citar o Trinca), 262049379 (catalogo de exercicios). Biblioteca, busca 'treino trinca': ~180 resultados (eram ~150 em 19/10), os 21 primeiros por impressao todos de Pedro Lotz, inicios entre 22/08 e 09/10, nenhum criativo carregado mais novo que 09/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262120429 ... 262021119)"
+  },
+  {
+   "produto": "ZAP Radar",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "quente",
+   "mencoes": 71,
+   "faixa_preco": "R$ 67-137",
+   "termo_busca": "zap radar",
+   "descricao": "5 IDs novos na Payt desde 19/10 14h25 (66 -> 71): 262076791 (pagina travou, nada enviado), 262057873 ('pesquisa ZAP radar'), 262043317 (app nao abre), 262030023 (comprado pelo WhatsApp, sem relatorio), 262022083 ('Zape radar'). Fora da conta: 262076123 (Pix de R$ 137 sem nome do produto) e 262063995 na Ticto (acesso ao WhatsApp de outra pessoa, sem nome).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "App Direct Line",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "ferramentas-ia",
+   "temperatura": "quente",
+   "mencoes": 24,
+   "faixa_preco": "assinatura",
+   "termo_busca": "direct line",
+   "descricao": "4 IDs novos na Cakto (20 -> 24), todos de cancelamento de assinatura sem resposta: 262103733, 262080379, 262078019 (assinou 29/09, pediu cancelamento 30/09), 262077651 ('quando voce entra precisa pagar a...'). Fora da conta: 262081213 (app sem nome, cancelamento em loop no WhatsApp).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "TokScale IA",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "ferramentas-ia",
+   "temperatura": "quente",
+   "mencoes": 19,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "tokscale",
+   "descricao": "4 IDs novos na Payt (15 -> 19): 262075729 (comprado em 14/10), 262039609, 262026209 (comprado em 14/10), 262022817 ('plataforma de criar videos e imagens de IA'). Tres das quatro citam compra de 14/10, a mesma semana das cinco de 15/10 lidas ontem.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "ShopMiner",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "ecommerce-dropshipping",
+   "temperatura": "morna",
+   "mencoes": 33,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "shopminer",
+   "descricao": "2 IDs novos na Payt (31 -> 33): 262079945 ('Shopeminer', comprado em 15/10 por link) e 262067709 (contratado em 15/10 no cartao). Ritmo caiu de ~2/dia para 2 em 23h.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "App do Paizão",
+   "tipo": "marca",
+   "gateway": "Kirvano",
+   "nicho": "comportamento-infantil",
+   "temperatura": "morna",
+   "mencoes": 26,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "app do paizao",
+   "descricao": "1 ID novo na Kirvano (25 -> 26): 262065503 (app do Paizao, 'treinamento personalizado', cobranca indevida).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/"
+  },
+  {
+   "produto": "ClipShort.Ai",
+   "tipo": "marca",
+   "gateway": "Kirvano",
+   "nicho": "ferramentas-ia",
+   "temperatura": "morna",
+   "mencoes": 5,
+   "faixa_preco": "R$ 68",
+   "termo_busca": "clipshort",
+   "descricao": "2 IDs novos na Kirvano (3 -> 5): 262113545 ('clicshort', R$ 68 pela promessa de criar videos e divulgar nas redes) e 262106801 (Clipshort, defeito e propaganda enganosa).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/"
+  },
+  {
+   "produto": "Malu - Sua Assistente",
+   "tipo": "marca",
+   "gateway": "Wiapy",
+   "nicho": "ferramentas-ia",
+   "temperatura": "morna",
+   "mencoes": 11,
+   "faixa_preco": "R$ 43,80",
+   "termo_busca": "malu assistente",
+   "descricao": "1 ID novo na Wiapy (10 -> 11): 262109411 (assistente Malu, R$ 43,80, reembolso nao pago apos 5 dias uteis).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/"
+  },
+  {
+   "produto": "Irryss",
+   "tipo": "marca",
+   "gateway": "Hotmart",
+   "nicho": "ferramentas-ia",
+   "temperatura": "morna",
+   "mencoes": 12,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "irryss",
+   "descricao": "1 ID novo, agora na Hotmart (11 -> 12): 262022433 ('app de inteligencia artificial Irryss', Hotmart nao reconhece o e-mail). Terceiro gateway da oferta, depois de Payt e Lastlink.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/"
+  },
+  {
+   "produto": "Receitas Sem Pensar",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "emagrecimento",
+   "temperatura": "morna",
+   "mencoes": 8,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "receita sem pensar",
+   "descricao": "1 ID novo na Payt (7 -> 8): 262051315 (app 'Receita Sem Pensar' comprado em 16/10, nao corresponde aos anuncios).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Renda Fortuna",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "morna",
+   "mencoes": 9,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "renda fortuna",
+   "descricao": "1 ID novo na Payt (8 -> 9): 262040441 (curso Renda Fortuna, de Daniela Rezende, sem suporte no WhatsApp).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Cão360",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "pet",
+   "temperatura": "morna",
+   "mencoes": 7,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "cao 360",
+   "descricao": "1 ID novo na Payt (6 -> 7): 262060613 (comprou em 18/10 apos video do Cao 360, Pix, mais um servico extra no mesmo checkout; protocolos inacessiveis).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Loopyz",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "lives-interativas",
+   "temperatura": "morna",
+   "mencoes": 5,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "loopyz",
+   "descricao": "1 ID novo na Cakto (4 -> 5): 262024075 ('Loopyz Live', Cakto recusa reembolso e manda para produtor inacessivel).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Manual do Milhão + Lasy IA",
+   "tipo": "marca",
+   "gateway": "Monetizze",
+   "nicho": "inteligencia-artificial",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "manual do milhao",
+   "descricao": "1 ID novo na Monetizze (2 -> 3): 262027379 (curso 'Manual do Milhao' comprado em novembro, devolucao pendente desde entao). ID novo, compra antiga: e retorno de avistamento, nao de venda recente.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/monetizze/lista-reclamacoes/"
+  },
+  {
+   "produto": "Arsenal Lucrativo",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "marketing-faca-como-eu",
+   "temperatura": "morna",
+   "mencoes": 2,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "arsenal lucrativo",
+   "descricao": "1 ID novo na Cakto (1 -> 2): 262119051 ('IA de rateio Arsenal Lucrativos', vendida por um 'Pedro', nao funciona). A mecanica e rateio/apostas, nao marketing.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Biblioteca Digital (mangas)",
+   "tipo": "angulo",
+   "gateway": "Cakto",
+   "nicho": "streaming-e-acesso",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "R$ 37,90 (Pix)",
+   "termo_busca": "biblioteca digital",
+   "descricao": "1 ID novo na Cakto: 262113587 (Biblioteca Digital, R$ 37,90 no Pix, para ler mangas e outras historias pela internet, acesso nao chegou). Soma com as 2 mencoes da fila de 19/10 (Cakto, IDs nao registrados): 3. Primeiro preco e primeiro gateway desta nota.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Dieta Hormonal (Marina Cardoso)",
+   "tipo": "marca",
+   "gateway": "Hotmart",
+   "nicho": "emagrecimento",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "nao capturado (assinatura)",
+   "termo_busca": "dieta hormonal marina cardoso",
+   "descricao": "Dieta 'hormonal' da nutricionista Marina Cardoso vendida na Hotmart, com cobranca que continua apos o pedido de cancelamento. 1 ID nesta rodada (262066917, cancelamento pedido em 15/10 sem resposta) + 2 da fila de 19/10 (citadas na nota da ht-secar-sem-dieta, IDs nao registrados).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/"
+  },
+  {
+   "produto": "Ecossistema Low Ticket (Nathan Kurnick)",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "marketing-digital",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "ecossistema low ticket",
+   "descricao": "Curso de low ticket de Nathan Kurnick, cobrado pela Payt. 1 ID nesta rodada (262084317, compra em 15/10, reembolso nao pago) + 2 da fila de 19/10 (IDs nao registrados). E um curso que ensina a montar exatamente o tipo de oferta que este radar mede.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "CTRL IA",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "ferramentas-ia",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "ctrl ia",
+   "descricao": "Plataforma que promete acesso a varias IAs num lugar so, cobrada pela Payt. 1 ID nesta rodada (262078597, 'Crtl Ai', nao funcionou no teste e o estorno nao veio) + 2 da fila de 19/10 (IDs nao registrados).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "BicarbonApp",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "emagrecimento",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "nao capturado (Pix)",
+   "termo_busca": "bicarbonapp",
+   "descricao": "App de 'receita de emagrecimento' com bicarbonato, com uma 'Dra Ana' na frente. 3 IDs, todos nesta rodada e em dois gateways: Payt 262073561 (compra de 19/10 no Pix) e 262044977 (2 compras em 16/10, 'site nao confiavel'), Kirvano 262052053 ('aplicativo Bicarbonepp com Dra Ana', acesso nao chegou). Na Biblioteca, 'bicarbonato app' so devolveu ruido.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Pilates na Parede (Payt)",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "nao capturado",
+   "termo_busca": "pilates na parede",
+   "descricao": "Aulas online de Pilates na Parede cobradas pela Payt, separadas da [[pilates-na-parede-lastlink]] porque a nota da Lastlink deixou estas fora da conta como possivel outra operacao. 1 ID nesta rodada (262056439, acesso chegou mas nenhum video abre) + 261886805 e 261663079 (citados na nota da Lastlink). Fora da conta: 262048303 na Wiapy (R$ 29,90, 'pilares na parede'), que pode ser uma terceira operacao.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Linflora",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "golpe-loja-fake-instagram",
+   "temperatura": "morna",
+   "mencoes": 4,
+   "faixa_preco": "3 frascos (valor nao capturado)",
+   "termo_busca": "linflora",
+   "descricao": "1 ID novo na Payt (3 -> 4): 262056563 (3 frascos de Linflora comprados em 08/10 apos propaganda no Instagram, nao entregues, empresa nao responde). Produto fisico cobrado num gateway de infoproduto.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  }
+ ],
+ "passada": {
+  "hora": "13:42",
+  "gateways": [
+   "kiwify",
+   "ticto",
+   "lastlink",
+   "kirvano",
+   "perfectpay",
+   "cakto",
+   "wiapy",
+   "payt",
+   "hotmart",
+   "eduzz",
+   "monetizze"
+  ],
+  "paginas": 29,
+  "coleta": "ok",
+  "relatorio": "## Quentes\n- [[treino-trinca]] — Lastlink · 14 IDs em ~23h (86 → 100); Biblioteca ~150 → ~180 resultados\n- [[zap-radar]] — Payt · 5 IDs (66 → 71)\n- [[app-direct-line]] — Cakto · 4 IDs (20 → 24), todos cancelamento de assinatura\n- [[tokscale-ia]] — Payt · 4 IDs (15 → 19)\n\n## Mornas\n- [[shopminer]] 31 → 33 · [[app-do-paizao]] 25 → 26 · [[clipshort-ai]] 3 → 5 · [[malu-sua-assistente]] 10 → 11 · [[irryss]] 11 → 12 (agora na Hotmart) · [[receitas-sem-pensar]] 7 → 8 · [[renda-fortuna]] 8 → 9 · [[cao360]] 6 → 7 · [[loopyz]] 4 → 5\n- Retornos: [[manual-do-milhao-lasy-ia]] (Monetizze, compra de novembro) · [[arsenal-lucrativo]] (Cakto, 'IA de rateio')\n- Estreias (3 mencoes, 2 delas da fila de 19/10): Dieta Hormonal da Marina Cardoso (Hotmart), Ecossistema Low Ticket (Payt), CTRL IA (Payt), Pilates na Parede (Payt); BicarbonApp (Payt + Kirvano, 3 IDs de hoje); [[angulo-biblioteca-digital-mangas]] ganhou gateway (Cakto) e preco (R$ 37,90)\n\nLeitura: API de busca do RA em 11 gateways, 219 reclamacoes unicas de 19/10 14h25 a 20/10 13h42; o Trinca sozinho teve 14 das 219.",
+  "resumo": "rodada diaria — API do RA, 11 gateways, 219 reclamacoes em ~23h; Trinca 86 → 100; 5 estreias pequenas (Dieta Hormonal, Ecossistema Low Ticket, CTRL IA, BicarbonApp, Pilates na Parede Payt)"
+ }
+}
