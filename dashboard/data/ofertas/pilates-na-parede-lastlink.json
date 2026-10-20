@@ -114,6 +114,12 @@
  ],
  "citacoes": [
   {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-20.md",
+   "data": "2026-10-20",
+   "titulo": "Radar 2026-10-20"
+  },
+  {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",
    "data": "2026-10-19",

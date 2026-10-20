@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-11",
-  "visto_ultimo": "2026-10-19",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-20",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 15,
+  "ra_reclamacoes": 19,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-19",
+  "ra_checado": "2026-10-20",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "payt"
   ]
  },
- "corpo": "# TokScale IA\n\n## Angulo\nPlataforma de videos com IA para TikTok Shop, vendida como assinatura (261202955, contratada em 25/09). 6 reclamacoes na Payt em 08-11/10 (261367965, 261093565, 261202955, 261154757, 261154719, 261118633), todas de reembolso sem resposta. Mesmo cluster do ShopMiner: ferramenta de video de produto para quem vende em marketplace.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 6 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (6 IDs)\n\n## Historico\n\n## Rodada 2026-10-14\n\n8 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo, ambas de reembolso prometido e nao pago: 261490049 (compra em 05/10) e 261435023.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261490049, 261435023)\n\n## Rodada 2026-10-19\n\n15 mencao(oes) nesta varredura (gateway Payt). 7 IDs novos na Payt desde 14/10 17h38 (8 -> 15), 5 deles em 15/10: 261998569, 261795969, 261769737, 261742929, 261704329, 261691071, 261680751.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
+ "corpo": "# TokScale IA\n\n## Angulo\nPlataforma de videos com IA para TikTok Shop, vendida como assinatura (261202955, contratada em 25/09). 6 reclamacoes na Payt em 08-11/10 (261367965, 261093565, 261202955, 261154757, 261154719, 261118633), todas de reembolso sem resposta. Mesmo cluster do ShopMiner: ferramenta de video de produto para quem vende em marketplace.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 6 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (6 IDs)\n\n## Historico\n\n## Rodada 2026-10-14\n\n8 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo, ambas de reembolso prometido e nao pago: 261490049 (compra em 05/10) e 261435023.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261490049, 261435023)\n\n## Rodada 2026-10-19\n\n15 mencao(oes) nesta varredura (gateway Payt). 7 IDs novos na Payt desde 14/10 17h38 (8 -> 15), 5 deles em 15/10: 261998569, 261795969, 261769737, 261742929, 261704329, 261691071, 261680751.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n19 mencao(oes) nesta varredura (gateway Payt). 4 IDs novos na Payt (15 -> 19): 262075729 (comprado em 14/10), 262039609, 262026209 (comprado em 14/10), 262022817 ('plataforma de criar videos e imagens de IA'). Tres das quatro citam compra de 14/10, a mesma semana das cinco de 15/10 lidas ontem.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -108,9 +108,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "15 mencao(oes) na varredura de hoje. 7 IDs novos na Payt desde 14/10 17h38 (8 -> 15), 5 deles em 15/10: 261998569, 261795969, 261769737, 261742929, 261704329, 261691071, 261680751."
+  },
+  {
+   "data": "2026-10-20",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 19,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "19 mencao(oes) na varredura de hoje. 4 IDs novos na Payt (15 -> 19): 262075729 (comprado em 14/10), 262039609, 262026209 (comprado em 14/10), 262022817 ('plataforma de criar videos e imagens de IA'). Tres das quatro citam compra de 14/10, a mesma semana das cinco de 15/10 lidas ontem."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",
+   "data": "2026-10-20",
+   "titulo": "Passada 2026-10-20 13:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-20.md",
+   "data": "2026-10-20",
+   "titulo": "Radar 2026-10-20"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-19
-rodadas_vista: 4
+visto_ultimo: 2026-10-20
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 31
+ra_reclamacoes: 33
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,5 +109,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 2
 ## Rodada 2026-10-19
 
 31 mencao(oes) nesta varredura (gateway Payt). 10 IDs novos na Payt desde 14/10 17h38 (21 -> 31): 261985647, 261983013, 261956671, 261913993, 261907365, 261861193 ('ShopMine'), 261836405, 261756631, 261742137, 261664933. Biblioteca nao consultada nesta rodada (zero anuncio em 14/10: canal e live).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-20
+
+33 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (31 -> 33): 262079945 ('Shopeminer', comprado em 15/10 por link) e 262067709 (contratado em 15/10 no cartao). Ritmo caiu de ~2/dia para 2 em 23h.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

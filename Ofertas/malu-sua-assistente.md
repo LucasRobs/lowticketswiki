@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-19
-rodadas_vista: 4
+visto_ultimo: 2026-10-20
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/malu-sua-assistente"
 gateways_detectados: [wiapy, perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 11
 ra_plataformas: [wiapy, perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 ## Rodada 2026-10-19
 
 10 mencao(oes) nesta varredura (gateway Wiapy). 2 IDs novos na Wiapy (8 -> 10): 261979677, 261769449.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/
+
+## Rodada 2026-10-20
+
+11 mencao(oes) nesta varredura (gateway Wiapy). 1 ID novo na Wiapy (10 -> 11): 262109411 (assistente Malu, R$ 43,80, reembolso nao pago apos 5 dias uteis).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/

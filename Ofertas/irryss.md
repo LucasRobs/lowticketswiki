@@ -26,20 +26,20 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-19
-rodadas_vista: 3
+visto_ultimo: 2026-10-20
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/irryss"
-gateways_detectados: [payt, lastlink]
+gateways_detectados: [payt, lastlink, hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 11
-ra_plataformas: [payt, lastlink]
+ra_reclamacoes: 12
+ra_plataformas: [payt, lastlink, hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-20
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 2
 11 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos na Payt desde 14/10 17h38 (8 -> 11): 261723767, 261717415, 261685811 ('Irrys App com defeito').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-20
+
+12 mencao(oes) nesta varredura (gateway Hotmart). 1 ID novo, agora na Hotmart (11 -> 12): 262022433 ('app de inteligencia artificial Irryss', Hotmart nao reconhece o e-mail). Terceiro gateway da oferta, depois de Payt e Lastlink.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/

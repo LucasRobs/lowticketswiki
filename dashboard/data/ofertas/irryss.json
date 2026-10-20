@@ -35,8 +35,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-11",
-  "visto_ultimo": "2026-10-19",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-20",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -44,17 +44,19 @@
   "ativos_pasta": "Ativos/irryss",
   "gateways_detectados": [
    "payt",
-   "lastlink"
+   "lastlink",
+   "hotmart"
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 11,
+  "ra_reclamacoes": 12,
   "ra_plataformas": [
    "payt",
-   "lastlink"
+   "lastlink",
+   "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-19",
+  "ra_checado": "2026-10-20",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -72,11 +74,12 @@
    "sem-lp"
   ],
   "gateways": [
+   "hotmart",
    "lastlink",
    "payt"
   ]
  },
- "corpo": "# Irryss\n\n## Angulo\nApp em app.irryss.com com botao de reembolso no proprio site que desconecta o comprador e nao estorna. 4 reclamacoes na Payt em 08-10/10 (261291323, 261160107, 261143219, 261118515). Produto nao descrito.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 4 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261291323, 261160107, 261143219, 261118515)\n\n## Historico\n\n## Rodada 2026-10-14\n\n6 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo: 261535613 (assinatura anual do irrys.app, 'diferente da demonstracao') e 261448369 (reembolso sem resposta).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261535613, 261448369)\n\n## Rodada 2026-10-19\n\n11 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos na Payt desde 14/10 17h38 (8 -> 11): 261723767, 261717415, 261685811 ('Irrys App com defeito').\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
+ "corpo": "# Irryss\n\n## Angulo\nApp em app.irryss.com com botao de reembolso no proprio site que desconecta o comprador e nao estorna. 4 reclamacoes na Payt em 08-10/10 (261291323, 261160107, 261143219, 261118515). Produto nao descrito.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 4 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261291323, 261160107, 261143219, 261118515)\n\n## Historico\n\n## Rodada 2026-10-14\n\n6 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo: 261535613 (assinatura anual do irrys.app, 'diferente da demonstracao') e 261448369 (reembolso sem resposta).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261535613, 261448369)\n\n## Rodada 2026-10-19\n\n11 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos na Payt desde 14/10 17h38 (8 -> 11): 261723767, 261717415, 261685811 ('Irrys App com defeito').\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n12 mencao(oes) nesta varredura (gateway Hotmart). 1 ID novo, agora na Hotmart (11 -> 12): 262022433 ('app de inteligencia artificial Irryss', Hotmart nao reconhece o e-mail). Terceiro gateway da oferta, depois de Payt e Lastlink.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -113,9 +116,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "11 mencao(oes) na varredura de hoje. 3 IDs novos na Payt desde 14/10 17h38 (8 -> 11): 261723767, 261717415, 261685811 ('Irrys App com defeito')."
+  },
+  {
+   "data": "2026-10-20",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 12,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "12 mencao(oes) na varredura de hoje. 1 ID novo, agora na Hotmart (11 -> 12): 262022433 ('app de inteligencia artificial Irryss', Hotmart nao reconhece o e-mail). Terceiro gateway da oferta, depois de Payt e Lastlink."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",
+   "data": "2026-10-20",
+   "titulo": "Passada 2026-10-20 13:42"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-20.md",
+   "data": "2026-10-20",
+   "titulo": "Radar 2026-10-20"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",
