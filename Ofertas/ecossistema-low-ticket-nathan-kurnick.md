@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-20
+
+3 mencao(oes) nesta varredura (gateway Payt). Curso de low ticket de Nathan Kurnick, cobrado pela Payt. 1 ID nesta rodada (262084317, compra em 15/10, reembolso nao pago) + 2 da fila de 19/10 (IDs nao registrados). E um curso que ensina a montar exatamente o tipo de oferta que este radar mede.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

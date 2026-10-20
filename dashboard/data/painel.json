@@ -3,7 +3,7 @@
  "totais": {
   "ofertas": 380,
   "angulos": 98,
-  "observacoes": 981,
+  "observacoes": 982,
   "dias_radar": 42,
   "passadas": 121,
   "analises": 12,
@@ -16935,21 +16935,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-14",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-20",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-14",
+   "ra_checado": "2026-10-20",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Linflora&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-14",
-   "n_citacoes": 5,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-20",
+   "n_citacoes": 6,
    "resumo": "Loja de produtos naturais anunciada no Instagram que, segundo o reclamante, simplesmente não existe de fato. Vendedor identificado: EG Comércio de Produtos Naturais Ltda.",
    "flags": [
     "score-provisorio",
@@ -26384,7 +26384,7 @@
    "arquivo": "Radar/2026-10-20.md",
    "data": "2026-10-20",
    "titulo": "Radar 2026-10-20",
-   "ofertas_vistas": 21,
+   "ofertas_vistas": 22,
    "novas": 5,
    "retornaram": 2,
    "sumiram": 0,
@@ -30122,7 +30122,7 @@
    "2026-10-17": 29,
    "2026-10-18": 10,
    "2026-10-19": 26,
-   "2026-10-20": 21
+   "2026-10-20": 22
   }
  },
  "analises": [
@@ -30468,7 +30468,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1459
+   "canonico": 1460
   }
  },
  "vocabulario": {
@@ -30517,11 +30517,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "cca5cdf326e038e0",
-  "atualizado_em": "2026-10-20T13:47:56-03:00",
+  "hash": "4dcf92d84b6a838e",
+  "atualizado_em": "2026-10-20T13:49:16-03:00",
   "ofertas": 380,
   "angulos": 98,
-  "observacoes": 981,
+  "observacoes": 982,
   "ultima_rodada": "2026-10-20",
   "ultima_passada": {
    "data": "2026-10-20",

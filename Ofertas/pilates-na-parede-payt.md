@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-20
+
+3 mencao(oes) nesta varredura (gateway Payt). Aulas online de Pilates na Parede cobradas pela Payt, separadas da [[pilates-na-parede-lastlink]] porque a nota da Lastlink deixou estas fora da conta como possivel outra operacao. 1 ID nesta rodada (262056439, acesso chegou mas nenhum video abre) + 261886805 e 261663079 (citados na nota da Lastlink). Fora da conta: 262048303 na Wiapy (R$ 29,90, 'pilares na parede'), que pode ser uma terceira operacao.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
