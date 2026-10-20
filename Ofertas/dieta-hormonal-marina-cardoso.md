@@ -85,9 +85,3 @@ views:
       - property: note.data
         direction: DESC
 ```
-
-## Rodada 2026-10-20
-
-3 mencao(oes) nesta varredura (gateway Hotmart). Dieta 'hormonal' da nutricionista Marina Cardoso vendida na Hotmart, com cobranca que continua apos o pedido de cancelamento. 1 ID nesta rodada (262066917, cancelamento pedido em 15/10 sem resposta) + 2 da fila de 19/10 (citadas na nota da ht-secar-sem-dieta, IDs nao registrados).
-
-Evidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/

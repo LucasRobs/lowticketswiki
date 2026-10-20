@@ -85,9 +85,3 @@ views:
       - property: note.data
         direction: DESC
 ```
-
-## Rodada 2026-10-20
-
-3 mencao(oes) nesta varredura (gateway Payt). App de 'receita de emagrecimento' com bicarbonato, com uma 'Dra Ana' na frente. 3 IDs, todos nesta rodada e em dois gateways: Payt 262073561 (compra de 19/10 no Pix) e 262044977 (2 compras em 16/10, 'site nao confiavel'), Kirvano 262052053 ('aplicativo Bicarbonepp com Dra Ana', acesso nao chegou). Na Biblioteca, 'bicarbonato app' so devolveu ruido.
-
-Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

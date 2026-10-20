@@ -85,9 +85,3 @@ views:
       - property: note.data
         direction: DESC
 ```
-
-## Rodada 2026-10-20
-
-3 mencao(oes) nesta varredura (gateway Payt). Plataforma que promete acesso a varias IAs num lugar so, cobrada pela Payt. 1 ID nesta rodada (262078597, 'Crtl Ai', nao funcionou no teste e o estorno nao veio) + 2 da fila de 19/10 (IDs nao registrados).
-
-Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
