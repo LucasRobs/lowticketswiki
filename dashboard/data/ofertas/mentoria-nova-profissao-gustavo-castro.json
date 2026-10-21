@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-05",
-  "visto_ultimo": "2026-10-06",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-21",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-06",
+  "ra_checado": "2026-10-21",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "cakto"
   ]
  },
- "corpo": "# Mentoria Nova Profissão (Gustavo Castro)\n\n## Angulo\nMentoria de recolocação profissional vendida com uma ferramenta de IA bundled chamada 'Converza IA'. Suporte e canais de contato fora do ar; primeira aparição no radar.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-mentoria-e-solicitar-reembolso-por-problemas-no-suporte_Lh1LuHe1uyn013LR/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado em dia diferente - produtor Gustavo de Castro, produto digital hospedado na Cakto, sem valor informado.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-produto-digital-e-falta-de-atendimento_PyKKpa8n4z7IKKK-/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mentoria de recolocacao profissional com IA bundled ('Converza IA'). Segunda aparicao (dia diferente de 05/10) - sobe para morna. Links de suporte fora do ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-mentoria-e-solicitar-reembolso-por-problemas-no-suporte_Lh1LuHe1uyn013LR/\n",
+ "corpo": "# Mentoria Nova Profissão (Gustavo Castro)\n\n## Angulo\nMentoria de recolocação profissional vendida com uma ferramenta de IA bundled chamada 'Converza IA'. Suporte e canais de contato fora do ar; primeira aparição no radar.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-mentoria-e-solicitar-reembolso-por-problemas-no-suporte_Lh1LuHe1uyn013LR/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado em dia diferente - produtor Gustavo de Castro, produto digital hospedado na Cakto, sem valor informado.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-produto-digital-e-falta-de-atendimento_PyKKpa8n4z7IKKK-/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Cakto). Mentoria de recolocacao profissional com IA bundled ('Converza IA'). Segunda aparicao (dia diferente de 05/10) - sobe para morna. Links de suporte fora do ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-mentoria-e-solicitar-reembolso-por-problemas-no-suporte_Lh1LuHe1uyn013LR/\n\n## Rodada 2026-10-21\n\n2 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (1 -> 2): 262152929 (mentoria nao entregue, sem suporte, cancelamento dificil). Primeira aparicao desde 06/10.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-05",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Mentoria de recolocacao profissional com IA bundled ('Converza IA'). Segunda aparicao (dia diferente de 05/10) - sobe para morna. Links de suporte fora do ar."
+  },
+  {
+   "data": "2026-10-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. 1 ID novo na Cakto (1 -> 2): 262152929 (mentoria nao entregue, sem suporte, cancelamento dificil). Primeira aparicao desde 06/10."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-21 -- 0930.md",
+   "data": "2026-10-21",
+   "titulo": "Passada 2026-10-21 09:30"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-21.md",
+   "data": "2026-10-21",
+   "titulo": "Radar 2026-10-21"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-06.md",

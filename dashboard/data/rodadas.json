@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-21.md",
+   "data": "2026-10-21",
+   "titulo": "Radar 2026-10-21",
+   "ofertas_vistas": 16,
+   "novas": 0,
+   "retornaram": 2,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-21\n\n## Novas\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 110\n- [[zap-radar]] — ra_reclamacoes atualizado para 75\n- [[app-direct-line]] — ra_reclamacoes atualizado para 26\n- [[shopminer]] — ra_reclamacoes atualizado para 35\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 47\n- [[fornece-up]] — ra_reclamacoes atualizado para 23\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 20\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 27\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 9\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 4\n- [[spinmaster]] — ra_reclamacoes atualizado para 7\n- [[arsenal-lucrativo]] — ra_reclamacoes atualizado para 3\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 3\n- [[google-captcha-tw]] — ra_reclamacoes atualizado para 39\n\n## Retornaram\n\n- [[dossie-do-emagrecimento]] — saude-emagrecimento — reapareceu (2 mencao(oes))\n- [[mentoria-nova-profissao-gustavo-castro]] — mentoria-comunidade — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~20 horas pela API do RA (11 gateways, 155 reclamacoes unicas desde 20/10 13h42). Treino Trinca de 100 para 110, com Trinca Force (R$ 997) e Comunidade Trinca Elite (R$ 220-237) nos corpos, enquanto a Biblioteca caiu de ~180 para ~140 resultados. Nenhuma estreia: nenhum nome novo chegou a 3 mencoes; Fly Now, Curso Arca e spyradar ficam na fila. Tres retornos fracos (Dossie do Emagrecimento, Mentoria Nova Profissao e Google Captcha como avistamento).\n\n## Passadas do dia\n- [[2026-10-21 -- 0930]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 16 achado(s) - rodada diaria — API do RA, 11 gateways, 155 reclamacoes em ~20h; Trinca 100 -> 110; 0 estreias; 3 retornos fracos\n"
+  },
+  {
    "arquivo": "Radar/2026-10-20.md",
    "data": "2026-10-20",
    "titulo": "Radar 2026-10-20",
@@ -822,6 +847,45 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-21 -- 0930.md",
+   "data": "2026-10-21",
+   "hora": "09:30",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 22,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "app-do-paizao",
+    "arsenal-lucrativo",
+    "dossie-do-emagrecimento",
+    "fornece-up",
+    "google-captcha-tw",
+    "mentoria-nova-profissao-gustavo-castro",
+    "receitas-sem-pensar",
+    "shopminer",
+    "spinmaster",
+    "stalkeia-ai",
+    "tokscale-ia",
+    "treino-da-fera",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-21]].\n\n# Rodada — 21/10/2026 · 09:30 Fortaleza\n\n**Gateways:** kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · **Páginas:** 22 · **Coleta:** ok · **Achados:** 16\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 10 IDs novos em ~20h (100 -> 110); Trinca Force R$ 997 e Comunidade Trinca Elite R$ 220-237 aparecem nos corpos; Biblioteca caiu para ~140 resultados\n- [[zap-radar]] — PerfectPay/Payt · 4 IDs novos (71 -> 75), compras de R$ 195,90 e R$ 453\n- [[app-direct-line]] — Cakto · 2 (24 -> 26) · [[shopminer]] — Payt · 2 (33 -> 35) · [[stalkeia-ai]] — PerfectPay · 2 (45 -> 47)\n\n## Mornas\n- [[fornece-up]] 21 -> 23, [[tokscale-ia]] 19 -> 20, [[app-do-paizao]] 26 -> 27, [[receitas-sem-pensar]] 8 -> 9, [[treino-da-fera]] 3 -> 4, [[spinmaster]] 6 -> 7 (escada IspinMaster R$ 37 / Pro R$ 67 / Protocolo Ghost R$ 147), [[arsenal-lucrativo]] 2 -> 3 (acesso a Flow/ChatGPT, nao rateio)\n- Retornos: [[dossie-do-emagrecimento]], [[mentoria-nova-profissao-gustavo-castro]], [[google-captcha-tw]] (avistamento)\n\nLeitura: 155 reclamacoes unicas em ~20h, nenhuma estreia com 3+ mencoes; o sinal segue concentrado no Trinca.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",
    "data": "2026-10-20",

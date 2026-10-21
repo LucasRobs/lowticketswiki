@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-06
-rodadas_vista: 2
+visto_ultimo: 2026-10-21
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mentoria-nova-profissao-gustavo-castro"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reemb
 1 mencao(oes) nesta varredura (gateway Cakto). Mentoria de recolocacao profissional com IA bundled ('Converza IA'). Segunda aparicao (dia diferente de 05/10) - sobe para morna. Links de suporte fora do ar.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-mentoria-e-solicitar-reembolso-por-problemas-no-suporte_Lh1LuHe1uyn013LR/
+
+## Rodada 2026-10-21
+
+2 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (1 -> 2): 262152929 (mentoria nao entregue, sem suporte, cancelamento dificil). Primeira aparicao desde 06/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-19
-rodadas_vista: 5
+visto_ultimo: 2026-10-21
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 21
+ra_reclamacoes: 23
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 ## Rodada 2026-10-19
 
 21 mencao(oes) nesta varredura (gateway PerfectPay). 5 IDs novos na PerfectPay desde 14/10 17h38 (16 -> 21; a nota estava em 8 por regressao no merge de 18/10): 261966411, 261909311, 261895127, 261738361, 261702913.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+23 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (21 -> 23): 262167639 ('ForneceUP - Pro', compra 11/10, estorno nao feito) e 262141861 (produtor nao responde e-mail).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

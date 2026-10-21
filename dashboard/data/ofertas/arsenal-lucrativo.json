@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-09",
-  "visto_ultimo": "2026-10-20",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-10-21",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -46,13 +46,13 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 2,
+  "ra_reclamacoes": 3,
   "ra_plataformas": [
    "cakto",
    "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-20",
+  "ra_checado": "2026-10-21",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "kiwify"
   ]
  },
- "corpo": "# Arsenal Lucrativo\n\n## Angulo\nComunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-09 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). Comunidade/mentoria paga via Cakto ('APENAS FLOW ULTRA' sugere upsell de nivel dentro da comunidade). Produtor nao identificado na reclamacao. Primeira aparicao no vault.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Cakto). Comunidade paga de 'lucro'/tráfego, variante citada como 'Arsenal Lucrativo - Apenas Flow Ultra'. Repetiu na rodada de hoje depois de aparecer ontem (09/10) — 2 dias distintos.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Cakto). Comunidade de 'renda extra', recorrente (09/10 e 10/10, agora 13/10). Reclamação cita 'Comunidade Arsenal Lucrativo - APENAS FLOW ULTRA' e produtor não identificado no texto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-20\n\n2 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (1 -> 2): 262119051 ('IA de rateio Arsenal Lucrativos', vendida por um 'Pedro', nao funciona). A mecanica e rateio/apostas, nao marketing.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n",
+ "corpo": "# Arsenal Lucrativo\n\n## Angulo\nComunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-09 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-com-reembolso_DkPQWoI3WkNNnJvK/\n\n## Historico\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). Comunidade/mentoria paga via Cakto ('APENAS FLOW ULTRA' sugere upsell de nivel dentro da comunidade). Produtor nao identificado na reclamacao. Primeira aparicao no vault.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Cakto). Comunidade paga de 'lucro'/tráfego, variante citada como 'Arsenal Lucrativo - Apenas Flow Ultra'. Repetiu na rodada de hoje depois de aparecer ontem (09/10) — 2 dias distintos.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-13\n\n1 mencao(oes) nesta varredura (gateway Cakto). Comunidade de 'renda extra', recorrente (09/10 e 10/10, agora 13/10). Reclamação cita 'Comunidade Arsenal Lucrativo - APENAS FLOW ULTRA' e produtor não identificado no texto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-assinatura-e-a-cakto-continua-me-cobrando_o12IcOVU46Yd1lqZ/\n\n## Rodada 2026-10-20\n\n2 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (1 -> 2): 262119051 ('IA de rateio Arsenal Lucrativos', vendida por um 'Pedro', nao funciona). A mecanica e rateio/apostas, nao marketing.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n3 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (2 -> 3): 262128563, 'Comunidade Arsenal Lucrativo' R$ 65,99 no Pix (compra 28/09), vendida por uma vendedora a partir de anuncio no Facebook; entrega e acesso a Flow e ChatGPT para geracao de videos. Nao e rateio: e revenda de acesso a ferramentas de IA.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-09",
@@ -123,9 +123,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. 1 ID novo na Cakto (1 -> 2): 262119051 ('IA de rateio Arsenal Lucrativos', vendida por um 'Pedro', nao funciona). A mecanica e rateio/apostas, nao marketing."
+  },
+  {
+   "data": "2026-10-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 65.99,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "3 mencao(oes) na varredura de hoje. 1 ID novo na Cakto (2 -> 3): 262128563, 'Comunidade Arsenal Lucrativo' R$ 65,99 no Pix (compra 28/09), vendida por uma vendedora a partir de anuncio no Facebook; entrega e acesso a Flow e ChatGPT para geracao de videos. Nao e rateio: e revenda de acesso a ferramentas de IA."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-21 -- 0930.md",
+   "data": "2026-10-21",
+   "titulo": "Passada 2026-10-21 09:30"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-21.md",
+   "data": "2026-10-21",
+   "titulo": "Radar 2026-10-21"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",

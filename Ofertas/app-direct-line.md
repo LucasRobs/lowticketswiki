@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-20
-rodadas_vista: 5
+visto_ultimo: 2026-10-21
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 24
+ra_reclamacoes: 26
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 ## Rodada 2026-10-20
 
 24 mencao(oes) nesta varredura (gateway Cakto). 4 IDs novos na Cakto (20 -> 24), todos de cancelamento de assinatura sem resposta: 262103733, 262080379, 262078019 (assinou 29/09, pediu cancelamento 30/09), 262077651 ('quando voce entra precisa pagar a...'). Fora da conta: 262081213 (app sem nome, cancelamento em loop no WhatsApp).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+26 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos na Cakto (24 -> 26): 262184527 (assinatura cancelada minutos depois, app nao funciona) e 262143925 (dizia ter conexao com Google Agenda e nao tem; cancelamento sem resposta).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

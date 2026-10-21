@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-20
-rodadas_vista: 4
+visto_ultimo: 2026-10-21
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/receitas-sem-pensar"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 9
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 ## Rodada 2026-10-20
 
 8 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (7 -> 8): 262051315 (app 'Receita Sem Pensar' comprado em 16/10, nao corresponde aos anuncios).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+9 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (8 -> 9): 262140249 ('Aplicativo Receitas sem Pensar', compra 20/10, nao era como nos anuncios).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

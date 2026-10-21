@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-20
-rodadas_vista: 22
+visto_ultimo: 2026-10-21
+rodadas_vista: 23
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 71
+ra_reclamacoes: 75
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -233,3 +233,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 71 mencao(oes) nesta varredura (gateway Payt). 5 IDs novos na Payt desde 19/10 14h25 (66 -> 71): 262076791 (pagina travou, nada enviado), 262057873 ('pesquisa ZAP radar'), 262043317 (app nao abre), 262030023 (comprado pelo WhatsApp, sem relatorio), 262022083 ('Zape radar'). Fora da conta: 262076123 (Pix de R$ 137 sem nome do produto) e 262063995 na Ticto (acesso ao WhatsApp de outra pessoa, sem nome).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+75 mencao(oes) nesta varredura (gateway PerfectPay). 4 IDs novos (71 -> 75), 3 na PerfectPay e 1 na Payt: 262164041 (compra 19/10, dois Pix, total R$ 195,90), 262136263 (compra 20/10, R$ 453 no total), 262132407 ('relatorio de wats' nao entregue), 262193089 (Payt). Fora da conta: 262126955 (Payt, texto identico ao 262132407, mesmo comprador nos dois gateways), 262173681 (Payt, rastreamento de celular sem nome) e 262149563 (PerfectPay, 'spyradar', tres taxas em escada).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
