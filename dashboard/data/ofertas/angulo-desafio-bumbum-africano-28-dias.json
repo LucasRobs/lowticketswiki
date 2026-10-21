@@ -25,26 +25,34 @@
   "modelo": [
    "direct"
   ],
-  "formato_entrega": [],
+  "formato_entrega": [
+   "ebook"
+  ],
   "tem_recorrencia": false,
-  "s_ticket": 6,
-  "s_lucro": 3,
-  "s_replica": 0,
-  "s_saturacao": 0,
+  "s_ticket": 5,
+  "s_lucro": 5,
+  "s_replica": 7,
+  "s_saturacao": 3,
   "status": "nova",
   "visto_primeiro": "2026-10-21",
   "visto_ultimo": "2026-10-21",
   "rodadas_vista": 1,
-  "dias_no_ar": 0,
-  "criativos_ultima": 0,
+  "dias_no_ar": 29,
+  "criativos_ultima": 110,
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/angulo-desafio-bumbum-africano-28-dias",
-  "gateways_detectados": [],
+  "gateways_detectados": [
+   "kirvano",
+   "payt"
+  ],
   "bump_oculto": false,
   "upsell_oculto": false,
   "ra_reclamacoes": 3,
-  "ra_plataformas": [],
+  "ra_plataformas": [
+   "kirvano",
+   "payt"
+  ],
   "ra_primeira_reclamacao": "",
   "ra_checado": "2026-10-21",
   "veredito": "observar",
@@ -56,15 +64,17 @@
   ]
  },
  "calc": {
-  "score": 2.25,
+  "score": 5.3,
   "decisao": "padrao",
   "flags": [
-   "sem-longevidade",
    "sem-lp"
   ],
-  "gateways": []
+  "gateways": [
+   "kirvano",
+   "payt"
+  ]
  },
- "corpo": "# Desafio Bumbum Africano 28 dias\n\n## Angulo\nDesafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de uma semana e link de suporte que aponta para o proprio site), 262101525 (Payt, 'Desafio Bumbum Africano', fila de 20/10) e 262074423 (Payt, 'GPS do Bumbum', fila de 20/10). Biblioteca, busca 'bumbum africano' em 21/10: ~110 resultados, com Sarah Montenegro (desde 22/09), Rebeca Guedes (09/10), Monica Cunha (~15 criativos de 13 a 19/10), Van Luna (mudedenivel.com.br, 17/10) e 'To Chocada' (essenciaplena.site, texto com letras cirilicas). Campo lotado: 5+ operadores no mesmo angulo.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-21 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=bumbum%20africano&search_type=keyword_unordered&media_type=all\n\n## Historico\n",
+ "corpo": "# Desafio Bumbum Africano 28 dias\n\n## Angulo\nDesafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de uma semana e link de suporte que aponta para o proprio site), 262101525 (Payt, 'Desafio Bumbum Africano', fila de 20/10) e 262074423 (Payt, 'GPS do Bumbum', fila de 20/10). Biblioteca, busca 'bumbum africano' em 21/10: ~110 resultados, com Sarah Montenegro (desde 22/09), Rebeca Guedes (09/10), Monica Cunha (~15 criativos de 13 a 19/10), Van Luna (mudedenivel.com.br, 17/10) e 'To Chocada' (essenciaplena.site, texto com letras cirilicas). Campo lotado: 5+ operadores no mesmo angulo.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Medido em 2026-10-21 (Biblioteca, busca \"bumbum africano\"):** ~110 resultados ativos; anuncio mais antigo entre os ~30 primeiros por impressao e de Sarah Montenegro, iniciado em 22/09 (`dias_no_ar: 29`). `criativos_ultima: 110` e a contagem de resultados da busca, nao de um operador.\n- **Saturacao medida:** 5+ operadoras no mesmo angulo (Sarah Montenegro, Rebeca Guedes, Monica Cunha, Van Luna, \"To Chocada\") → `s_saturacao: 3`.\n- **Scores atribuidos a mao:** `s_lucro: 5` (20-45 dias no ar, faixa 5-6 do Scoring.md, no limite baixo porque a idade e de uma operadora so); `s_replica: 7` (desafio de 28 dias em PDF/area de membros, criativo de video simples, mas varios anuncios usam rosto de criadora); `s_ticket: 5` (frente R$ 37, sem bump/upsell capturado).\n- **Mecanica a registrar:** o anuncio de \"To Chocada\" escreve o texto com letras cirilicas no meio das latinas (\"Rеѕultаdо\") — camuflagem de texto para escapar do filtro de palavras do Meta.\n- **RA:** 3 mencoes em dois gateways (Kirvano 262242405; Payt 262101525 e 262074423, as duas da fila de 20/10). Angulo, nao produtor unico.\n\nEvidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=bumbum%20africano&search_type=keyword_unordered&media_type=all\n\n## Historico\n",
  "observacoes": [
   {
    "data": "2026-10-21",

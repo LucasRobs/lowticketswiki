@@ -18,26 +18,26 @@ ticket_upsell: 0
 ticket_medio_est: 37
 margem_est: 0.8
 modelo: [direct]
-formato_entrega: []
+formato_entrega: [ebook]
 tem_recorrencia: false
-s_ticket: 6
-s_lucro: 3
-s_replica: 0
-s_saturacao: 0
+s_ticket: 5
+s_lucro: 5
+s_replica: 7
+s_saturacao: 3
 status: nova
 visto_primeiro: 2026-10-21
 visto_ultimo: 2026-10-21
 rodadas_vista: 1
-dias_no_ar: 0
-criativos_ultima: 0
+dias_no_ar: 29
+criativos_ultima: 110
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-desafio-bumbum-africano-28-dias"
-gateways_detectados: []
+gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 3
-ra_plataformas: []
+ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-21
 veredito: observar
@@ -60,9 +60,11 @@ anuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.
 <!-- preencher com leitura humana -->
 
 ## Estado dos dados
-- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-21 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
-- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.
-- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
+- **Medido em 2026-10-21 (Biblioteca, busca "bumbum africano"):** ~110 resultados ativos; anuncio mais antigo entre os ~30 primeiros por impressao e de Sarah Montenegro, iniciado em 22/09 (`dias_no_ar: 29`). `criativos_ultima: 110` e a contagem de resultados da busca, nao de um operador.
+- **Saturacao medida:** 5+ operadoras no mesmo angulo (Sarah Montenegro, Rebeca Guedes, Monica Cunha, Van Luna, "To Chocada") → `s_saturacao: 3`.
+- **Scores atribuidos a mao:** `s_lucro: 5` (20-45 dias no ar, faixa 5-6 do Scoring.md, no limite baixo porque a idade e de uma operadora so); `s_replica: 7` (desafio de 28 dias em PDF/area de membros, criativo de video simples, mas varios anuncios usam rosto de criadora); `s_ticket: 5` (frente R$ 37, sem bump/upsell capturado).
+- **Mecanica a registrar:** o anuncio de "To Chocada" escreve o texto com letras cirilicas no meio das latinas ("Rеѕultаdо") — camuflagem de texto para escapar do filtro de palavras do Meta.
+- **RA:** 3 mencoes em dois gateways (Kirvano 262242405; Payt 262101525 e 262074423, as duas da fila de 20/10). Angulo, nao produtor unico.
 
 Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=bumbum%20africano&search_type=keyword_unordered&media_type=all
 

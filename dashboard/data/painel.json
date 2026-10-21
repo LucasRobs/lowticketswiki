@@ -3293,31 +3293,36 @@
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
-   "gateways": [],
+   "gateways": [
+    "kirvano",
+    "payt"
+   ],
    "plataforma_ads": [
     "meta"
    ],
    "modelo": [
     "direct"
    ],
-   "formato_entrega": [],
+   "formato_entrega": [
+    "ebook"
+   ],
    "recorrente": false,
    "moeda": "BRL",
    "ticket_frente": 37,
    "ticket_bump": 0,
    "ticket_upsell": 0,
    "ticket_medio_est": 37,
-   "s_ticket": 6,
-   "s_lucro": 3,
-   "s_replica": 0,
-   "s_saturacao": 0,
-   "score": 2.25,
+   "s_ticket": 5,
+   "s_lucro": 5,
+   "s_replica": 7,
+   "s_saturacao": 3,
+   "score": 5.3,
    "decisao": "padrao",
    "visto_primeiro": "2026-10-21",
    "visto_ultimo": "2026-10-21",
    "rodadas_vista": 1,
-   "dias_no_ar": 0,
-   "criativos_ultima": 0,
+   "dias_no_ar": 29,
+   "criativos_ultima": 110,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
@@ -3331,7 +3336,6 @@
    "n_citacoes": 1,
    "resumo": "Desafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de uma semana e link de suporte que aponta para o proprio site), 262101525 (Payt, 'Desafio Bumbum Africano', fila de 20/10)…",
    "flags": [
-    "sem-longevidade",
     "sem-lp"
    ]
   },
@@ -23062,15 +23066,15 @@
    ],
    "recorrente": false,
    "moeda": "BRL",
-   "ticket_frente": 0,
+   "ticket_frente": 97,
    "ticket_bump": 0,
-   "ticket_upsell": 0,
-   "ticket_medio_est": 0,
-   "s_ticket": 0,
+   "ticket_upsell": 297,
+   "ticket_medio_est": 140,
+   "s_ticket": 9,
    "s_lucro": 3,
    "s_replica": 0,
    "s_saturacao": 0,
-   "score": 1.05,
+   "score": 2.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
    "visto_ultimo": "2026-10-21",
@@ -30464,7 +30468,7 @@
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 181,
+    "preenchidas": 182,
     "total": 380
    },
    {
@@ -30664,8 +30668,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "1f3095fd60f4586a",
-  "atualizado_em": "2026-10-21T16:05:03-03:00",
+  "hash": "592eca16a278d86b",
+  "atualizado_em": "2026-10-21T16:05:57-03:00",
   "ofertas": 380,
   "angulos": 99,
   "observacoes": 1003,
