@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: arsenal-lucrativo
 nome: "Arsenal Lucrativo"
-nicho: marketing-faca-como-eu
+nicho: ferramentas-ia
 sub_nicho: 
 idioma: pt-BR
 pais: BR

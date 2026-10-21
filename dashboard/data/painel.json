@@ -3,7 +3,7 @@
  "totais": {
   "ofertas": 380,
   "angulos": 98,
-  "observacoes": 998,
+  "observacoes": 1000,
   "dias_radar": 43,
   "passadas": 122,
   "analises": 12,
@@ -6402,7 +6402,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital-trafego",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -6849,7 +6849,7 @@
    "slug": "arsenal-lucrativo",
    "nome": "Arsenal Lucrativo",
    "classe": "oferta",
-   "nicho": "marketing-faca-como-eu",
+   "nicho": "ferramentas-ia",
    "sub_nicho": "",
    "status": "ativa",
    "veredito": "observar",
@@ -7511,7 +7511,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -7559,8 +7559,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -8622,7 +8621,7 @@
    "classe": "oferta",
    "nicho": "renda-celular-cashback",
    "sub_nicho": "cashback-pix",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "descartar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -10056,7 +10055,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -10166,7 +10165,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -10212,8 +10211,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12212,7 +12210,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -12258,8 +12256,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -12826,7 +12823,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -12872,8 +12869,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -13103,7 +13099,7 @@
    "classe": "oferta",
    "nicho": "a-identificar",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -15315,7 +15311,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -17797,7 +17793,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -20118,7 +20114,7 @@
    "classe": "oferta",
    "nicho": "mentoria-comunidade",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -20786,7 +20782,7 @@
    "classe": "oferta",
    "nicho": "apostas-loteria",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -21561,7 +21557,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "lastlink",
@@ -21618,7 +21614,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -21664,8 +21660,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -24672,7 +24667,7 @@
    "classe": "oferta",
    "nicho": "idiomas",
    "sub_nicho": "ia-conversacional",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 1,
    "checkout": "lastlink",
@@ -24697,21 +24692,21 @@
    "score": 6.35,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-08-22",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-21",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-08-22",
+   "ra_checado": "2026-10-21",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Teacher%20ZAP&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-08-22",
-   "n_citacoes": 5,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-21",
+   "n_citacoes": 6,
    "resumo": "Aprender 7 idiomas conversando com IA dentro do WhatsApp. Ancoragem de preço em \"menos de R$ 0,11 por dia\" — desvia da comparação com o valor cheio.",
    "flags": [
     "lucro-sem-medicao",
@@ -25147,9 +25142,9 @@
    "visto_primeiro": "2026-08-16",
    "visto_ultimo": "2026-10-21",
    "rodadas_vista": 12,
-   "dias_no_ar": 59,
-   "criativos_ultima": 180,
-   "criativos_delta": 30,
+   "dias_no_ar": 60,
+   "criativos_ultima": 140,
+   "criativos_delta": -40,
    "ra_reclamacoes": 110,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-21",
@@ -25169,7 +25164,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "pesquisa-de-tendencias",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -26219,7 +26214,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro-youtube",
    "sub_nicho": "",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -26246,21 +26241,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-04",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-21",
+   "rodadas_vista": 2,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-04",
+   "ra_checado": "2026-10-21",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=YouTube%20Dark&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-04",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-21",
+   "n_citacoes": 2,
    "resumo": "Curso \"YouTube Dark\" do produtor \"Peter\", sobre criação de canais faceless no YouTube; solicitação de reembolso.",
    "flags": [
     "score-provisorio",
@@ -26387,9 +26382,9 @@
    "arquivo": "Radar/2026-10-21.md",
    "data": "2026-10-21",
    "titulo": "Radar 2026-10-21",
-   "ofertas_vistas": 16,
+   "ofertas_vistas": 18,
    "novas": 0,
-   "retornaram": 2,
+   "retornaram": 4,
    "sumiram": 0,
    "fontes": [
     "cakto",
@@ -26406,7 +26401,7 @@
    ],
    "duracao_min": 0,
    "n_passadas": 1,
-   "leitura": "Rodada de ~20 horas pela API do RA (11 gateways, 155 reclamacoes unicas desde 20/10 13h42). Treino Trinca de 100 para 110, com Trinca Force (R$ 997) e Comunidade Trinca Elite (R$ 220-237) nos corpos, enquanto a Biblioteca caiu de ~180 para ~140 resultados. Nenhuma estreia: nenhum nome novo chegou a 3 mencoes; Fly Now, Curso Arca e spyradar ficam na fila. Tres retornos fracos (Dossie do Emagrecimento, Mentoria Nova…"
+   "leitura": "Rodada de ~20 horas pela API do RA (11 gateways, 155 reclamacoes unicas desde 20/10 13h42). Treino Trinca de 100 para 110, com Trinca Force (R$ 997) e Comunidade Trinca Elite (R$ 220-237) nos corpos, enquanto a Biblioteca caiu de ~180 para ~140 resultados. Nenhuma estreia: nenhum nome novo chegou a 3 mencoes; Fly Now, Curso Arca e spyradar ficam na fila. Cinco retornos fracos (Dossie do Emagrecimento, Mentoria Nova…"
   },
   {
    "arquivo": "Radar/2026-10-20.md",
@@ -30190,7 +30185,7 @@
    "2026-10-18": 10,
    "2026-10-19": 26,
    "2026-10-20": 22,
-   "2026-10-21": 16
+   "2026-10-21": 18
   }
  },
  "analises": [
@@ -30488,7 +30483,6 @@
    "angulo-taxa-sobre-servico-gratuito",
    "angulo-upsell-comprar-seguidores-em-curso-de-renda-online",
    "autismo-para-pais-lacerda",
-   "bicarbonapp",
    "bonecas-papel-maria-criativa",
    "brumdance-3em1",
    "cae-course",
@@ -30498,15 +30492,12 @@
    "colecao-caligrafia-cursiva",
    "combo-10-cursos-danca-do-ventre",
    "comunidade-influencers-ia-ascensao",
-   "ctrl-ia",
    "cursos-gratis-online",
    "danca-dos-noivos-online",
    "desafio-hiit-dance",
    "desvendando-tdah-elaine",
    "dicionario-em-movimento",
-   "dieta-hormonal-marina-cardoso",
    "do-rabisco-a-letra-bonita",
-   "ecossistema-low-ticket-nathan-kurnick",
    "escola-de-personagem",
    "fluency-english",
    "forro-do-zero-pe-descalco",
@@ -30526,7 +30517,6 @@
    "mvr-by-daniel-fernandes",
    "parentalidade-atipica-sarah-hayden",
    "pequenas-estilistas",
-   "pilates-na-parede-payt",
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
@@ -30537,7 +30527,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1476
+   "canonico": 1478
   }
  },
  "vocabulario": {
@@ -30586,11 +30576,11 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d2e625b976136fa4",
-  "atualizado_em": "2026-10-21T09:31:49-03:00",
+  "hash": "23cf1d6e8bdf6f43",
+  "atualizado_em": "2026-10-21T09:33:53-03:00",
   "ofertas": 380,
   "angulos": 98,
-  "observacoes": 998,
+  "observacoes": 1000,
   "ultima_rodada": "2026-10-21",
   "ultima_passada": {
    "data": "2026-10-21",
