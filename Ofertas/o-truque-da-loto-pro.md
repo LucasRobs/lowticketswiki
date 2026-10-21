@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-19
-rodadas_vista: 3
+visto_ultimo: 2026-10-21
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 7
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-4-s
 6 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (4 -> 6): 261749815, 261641399. Voltou depois de esfriar.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+7 mencao(oes) nesta varredura (gateway Payt). Retorno com 1 ID novo (6 -> 7): 262243473, compra em 17/10 depois de 'ouvir o entrevistador' (VSL em formato de entrevista): R$ 149 no Pix, R$ 172,62 no cartao e uma terceira cobranca de R$ 177 tentada. Escada de tres cobrancas no mesmo dia.
+
+Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-venda-enganosa-e-nao-consigo-contato-com-o-suporte_mBBAvG1uc8BBOYDO/

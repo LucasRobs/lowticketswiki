@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 110
+ra_reclamacoes: 117
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-21

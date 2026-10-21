@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/receitas-sem-pensar"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-21
