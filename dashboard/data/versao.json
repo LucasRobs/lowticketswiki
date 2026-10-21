@@ -1,14 +1,14 @@
 {
  "esquema": 1,
- "hash": "02ede590c5e0e900",
- "atualizado_em": "2026-10-20T13:51:45-03:00",
+ "hash": "23cf1d6e8bdf6f43",
+ "atualizado_em": "2026-10-21T09:33:53-03:00",
  "ofertas": 380,
  "angulos": 98,
- "observacoes": 982,
- "ultima_rodada": "2026-10-20",
+ "observacoes": 1000,
+ "ultima_rodada": "2026-10-21",
  "ultima_passada": {
-  "data": "2026-10-20",
-  "hora": "13:42",
+  "data": "2026-10-21",
+  "hora": "09:30",
   "coleta": "ok",
   "gateways": [
    "kiwify",

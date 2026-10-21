@@ -1,0 +1,298 @@
+{
+ "data_varredura": "2026-10-21",
+ "gateways": [
+  {
+   "nome": "Kiwify",
+   "slug": "kiwify",
+   "paginas_varridas": 3
+  },
+  {
+   "nome": "Ticto",
+   "slug": "ticto",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "Lastlink",
+   "slug": "lastlink",
+   "paginas_varridas": 2
+  },
+  {
+   "nome": "Kirvano",
+   "slug": "kirvano",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "PerfectPay",
+   "slug": "perfectpay",
+   "paginas_varridas": 3
+  },
+  {
+   "nome": "Cakto",
+   "slug": "cakto",
+   "paginas_varridas": 2
+  },
+  {
+   "nome": "Wiapy",
+   "slug": "wiapy",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "Payt",
+   "slug": "payt",
+   "paginas_varridas": 4
+  },
+  {
+   "nome": "Hotmart",
+   "slug": "hotmart",
+   "paginas_varridas": 3
+  },
+  {
+   "nome": "Eduzz",
+   "slug": "eduzz",
+   "paginas_varridas": 1
+  },
+  {
+   "nome": "Monetizze",
+   "slug": "monetizze",
+   "paginas_varridas": 1
+  }
+ ],
+ "achados": [
+  {
+   "produto": "Treino Trinca (Pedro Lotz)",
+   "tipo": "marca",
+   "gateway": "Lastlink",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "quente",
+   "mencoes": 110,
+   "faixa_preco": "R$ 37 + Comunidade Trinca Elite R$ 220-237,78 + Trinca Force R$ 997",
+   "termo_busca": "treino trinca",
+   "descricao": "10 IDs novos entre 20/10 13h42 e 21/10 09h30 (100 -> 110): 262189027 e 262186793 (cancelamento em 7 dias ignorado), 262176047 (Comunidade Trinca Elite R$ 220 no Pix, compra 17/10), 262170911 (Trinca Force R$ 997 no Pix, recebeu NF sem o produto), 262169633 (Comunidade Trinca Elite/SHAPEDECIN R$ 237,78 + Treino Trinca R$ 37, compra 18/10), 262157861 (plano generico), 262152165 (R$ 37 via anuncio no Instagram, treino nao chegou), 262145175, 262143877, 262127451 (Desafio Trinca 28 Dias, R$ 37). Fora da conta: 262124633 (treino + lista de alimentacao + suplementos, sem nome). Biblioteca, busca 'treino trinca': ~140 resultados (eram ~180 em 20/10 e ~150 em 19/10), os ~20 primeiros por impressao todos de Pedro Lotz, inicio mais antigo 22/08 (60 dias), mais novo carregado 09/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262189027 ... 262127451)"
+  },
+  {
+   "produto": "ZAP Radar",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "quente",
+   "mencoes": 75,
+   "faixa_preco": "R$ 67-453",
+   "termo_busca": "zap radar",
+   "descricao": "4 IDs novos (71 -> 75), 3 na PerfectPay e 1 na Payt: 262164041 (compra 19/10, dois Pix, total R$ 195,90), 262136263 (compra 20/10, R$ 453 no total), 262132407 ('relatorio de wats' nao entregue), 262193089 (Payt). Fora da conta: 262126955 (Payt, texto identico ao 262132407, mesmo comprador nos dois gateways), 262173681 (Payt, rastreamento de celular sem nome) e 262149563 (PerfectPay, 'spyradar', tres taxas em escada).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/"
+  },
+  {
+   "produto": "App Direct Line",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "nao-classificado",
+   "temperatura": "quente",
+   "mencoes": 26,
+   "faixa_preco": "assinatura",
+   "termo_busca": "direct line",
+   "descricao": "2 IDs novos na Cakto (24 -> 26): 262184527 (assinatura cancelada minutos depois, app nao funciona) e 262143925 (dizia ter conexao com Google Agenda e nao tem; cancelamento sem resposta).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "ShopMiner",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "ferramentas-ecommerce",
+   "temperatura": "quente",
+   "mencoes": 35,
+   "faixa_preco": "assinatura (cartao)",
+   "termo_busca": "shopminer",
+   "descricao": "2 IDs novos na Payt (33 -> 35): 262187991 (comprou em 20/10 no cartao, arrependimento) e 262125411 (produtos 'atualizados todos os dias' nao se atualizam).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Stalkeia.ai",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "espionagem-rastreamento",
+   "temperatura": "quente",
+   "mencoes": 47,
+   "faixa_preco": "R$ 37 + taxas",
+   "termo_busca": "stalkeia",
+   "descricao": "2 IDs novos na PerfectPay (45 -> 47): 262184679 (tres pagamentos por 'aplicativo de espionagem chamado Stalkeia.ai') e 262178673 ('sou outra pessoa que realizou a compra', mesmo texto-base). Primeira aparicao desde 19/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Fornece Up",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "morna",
+   "mencoes": 23,
+   "faixa_preco": "ForneceUP Pro",
+   "termo_busca": "forneceup",
+   "descricao": "2 IDs novos na PerfectPay (21 -> 23): 262167639 ('ForneceUP - Pro', compra 11/10, estorno nao feito) e 262141861 (produtor nao responde e-mail).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/"
+  },
+  {
+   "produto": "TokScale IA",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "ferramentas-ia",
+   "temperatura": "morna",
+   "mencoes": 20,
+   "faixa_preco": "cartao (fatura PAYTCC)",
+   "termo_busca": "tokscale",
+   "descricao": "1 ID novo na Payt (19 -> 20): 262153937 (fatura em nome de 'paytcc'). Fora da conta: 261887749 ('Quero reembolso da Tok Scale'), ID antigo com carimbo de 20/10 — carimbo movido.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "App do Paizão",
+   "tipo": "marca",
+   "gateway": "Kirvano",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "morna",
+   "mencoes": 27,
+   "faixa_preco": "assinatura (debito automatico)",
+   "termo_busca": "app do paizao",
+   "descricao": "1 ID novo na Kirvano (26 -> 27): 262122609 (assinatura em debito automatico, renovacao nao cancela, estorno negado).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/"
+  },
+  {
+   "produto": "Receitas Sem Pensar",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "emagrecimento",
+   "temperatura": "morna",
+   "mencoes": 9,
+   "faixa_preco": "app",
+   "termo_busca": "receitas sem pensar",
+   "descricao": "1 ID novo na Payt (8 -> 9): 262140249 ('Aplicativo Receitas sem Pensar', compra 20/10, nao era como nos anuncios).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Treino da Fera",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "morna",
+   "mencoes": 4,
+   "faixa_preco": "",
+   "termo_busca": "treino da fera",
+   "descricao": "1 ID novo na Payt (3 -> 4): 262181773 (compra 14/10, nao atendeu).",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "SpinMaster",
+   "tipo": "marca",
+   "gateway": "Kirvano",
+   "nicho": "apostas-jogos",
+   "temperatura": "morna",
+   "mencoes": 7,
+   "faixa_preco": "IspinMaster R$ 37 + IspinMaster Pro R$ 67 + Protocolo Ghost R$ 147",
+   "termo_busca": "spinmaster",
+   "descricao": "1 ID novo na Kirvano (6 -> 7): 262179791, tres compras no Pix em 17/10 — IspinMaster R$ 37, IspinMaster Pro R$ 67 e 'Protocolo Ghost' R$ 147 — vendidas por video que 'simula uma roleta facinho'. A escada fica visivel: R$ 251 por comprador.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/"
+  },
+  {
+   "produto": "Arsenal Lucrativo",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "marketing-faca-como-eu",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "R$ 65,99",
+   "termo_busca": "arsenal lucrativo",
+   "descricao": "1 ID novo na Cakto (2 -> 3): 262128563, 'Comunidade Arsenal Lucrativo' R$ 65,99 no Pix (compra 28/09), vendida por uma vendedora a partir de anuncio no Facebook; entrega e acesso a Flow e ChatGPT para geracao de videos. Nao e rateio: e revenda de acesso a ferramentas de IA.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Dossiê do Emagrecimento",
+   "tipo": "marca",
+   "gateway": "Payt",
+   "nicho": "saude-emagrecimento",
+   "temperatura": "fria",
+   "mencoes": 2,
+   "faixa_preco": "",
+   "termo_busca": "dossie do emagrecimento",
+   "descricao": "1 ID novo na Payt (1 -> 2): 262182239 (pagou no Pix e nao recebeu o dossie). Primeira aparicao desde 06/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Mentoria Nova Profissão (Gustavo Castro)",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "mentoria-comunidade",
+   "temperatura": "fria",
+   "mencoes": 2,
+   "faixa_preco": "",
+   "termo_busca": "mentoria nova profissao",
+   "descricao": "1 ID novo na Cakto (1 -> 2): 262152929 (mentoria nao entregue, sem suporte, cancelamento dificil). Primeira aparicao desde 06/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Treino de Calistenia",
+   "tipo": "angulo",
+   "gateway": "Payt",
+   "nicho": "saude-estetica-fitness",
+   "temperatura": "fria",
+   "mencoes": 3,
+   "faixa_preco": "",
+   "termo_busca": "calistenia",
+   "descricao": "2 IDs novos em dois gateways (1 -> 3): 262174735 (Payt, 'Calestenia para mulheres', 4 dias sem entrega) e 262149757 (Lastlink, 'treino de calistenia asiatica', app sem acesso). Dois produtos distintos do mesmo angulo.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/"
+  },
+  {
+   "produto": "Google Captcha (TW Empreendimentos Digitais)",
+   "tipo": "marca",
+   "gateway": "PerfectPay",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "morna",
+   "mencoes": 39,
+   "faixa_preco": "taxas Pix de R$ 25-90",
+   "termo_busca": "gcaptcha",
+   "descricao": "Avistamento, sem mover a contagem (39 veio da pagina do produtor, e as reclamacoes do gateway podem estar listadas la tambem): 262156935 (quatro Pix para a 'GCAPTCHA' para receber R$ 17.658) e 262127251 (taxas de R$ 90 e R$ 25 para receber R$ 17.000 'do Google CAPTCHA'). Primeira aparicao na lista de gateway desde 29/08: o esquema segue vendendo.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/"
+  },
+  {
+   "produto": "Teacher ZAP — 7 idiomas pelo WhatsApp",
+   "tipo": "marca",
+   "gateway": "Lastlink",
+   "nicho": "idiomas",
+   "temperatura": "fria",
+   "mencoes": 3,
+   "faixa_preco": "vitalicio",
+   "termo_busca": "teacherzap",
+   "descricao": "1 ID novo na Lastlink (2 -> 3): 262174923 ('TeacherZap Vitalicio' para de funcionar toda hora, responsavel nao responde). Primeira aparicao desde 22/08: o plano vitalicio segue sendo vendido.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/"
+  },
+  {
+   "produto": "YouTube Dark (Peter)",
+   "tipo": "marca",
+   "gateway": "Hotmart",
+   "nicho": "ganhar-dinheiro-youtube",
+   "temperatura": "fria",
+   "mencoes": 2,
+   "faixa_preco": "R$ 422",
+   "termo_busca": "youtube dark peter",
+   "descricao": "1 ID novo na Hotmart (1 -> 2): 262159283 ('produto do Peter Jordan YouTube dark' por R$ 422; no extrato do cartao vieram outros produtos junto — order bump ou upsell nao percebido). Primeira aparicao desde 04/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/"
+  }
+ ],
+ "passada": {
+  "hora": "09:30",
+  "gateways": [
+   "kiwify",
+   "ticto",
+   "lastlink",
+   "kirvano",
+   "perfectpay",
+   "cakto",
+   "wiapy",
+   "payt",
+   "hotmart",
+   "eduzz",
+   "monetizze"
+  ],
+  "paginas": 22,
+  "coleta": "ok",
+  "relatorio": "## Quentes\n- [[treino-trinca]] — Lastlink · 10 IDs novos em ~20h (100 -> 110); Trinca Force R$ 997 e Comunidade Trinca Elite R$ 220-237 aparecem nos corpos; Biblioteca caiu para ~140 resultados\n- [[zap-radar]] — PerfectPay/Payt · 4 IDs novos (71 -> 75), compras de R$ 195,90 e R$ 453\n- [[app-direct-line]] — Cakto · 2 (24 -> 26) · [[shopminer]] — Payt · 2 (33 -> 35) · [[stalkeia-ai]] — PerfectPay · 2 (45 -> 47)\n\n## Mornas\n- [[fornece-up]] 21 -> 23, [[tokscale-ia]] 19 -> 20, [[app-do-paizao]] 26 -> 27, [[receitas-sem-pensar]] 8 -> 9, [[treino-da-fera]] 3 -> 4, [[spinmaster]] 6 -> 7 (escada IspinMaster R$ 37 / Pro R$ 67 / Protocolo Ghost R$ 147), [[arsenal-lucrativo]] 2 -> 3 (acesso a Flow/ChatGPT, nao rateio)\n- Retornos: [[dossie-do-emagrecimento]], [[mentoria-nova-profissao-gustavo-castro]], [[google-captcha-tw]] (avistamento)\n\nLeitura: 155 reclamacoes unicas em ~20h, nenhuma estreia com 3+ mencoes; o sinal segue concentrado no Trinca.",
+  "resumo": "rodada diaria — API do RA, 11 gateways, 155 reclamacoes em ~20h; Trinca 100 -> 110; 0 estreias; 5 retornos fracos"
+ }
+}

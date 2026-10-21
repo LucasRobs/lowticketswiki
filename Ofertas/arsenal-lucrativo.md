@@ -3,7 +3,7 @@ tipo: oferta
 classe: oferta
 slug: arsenal-lucrativo
 nome: "Arsenal Lucrativo"
-nicho: marketing-faca-como-eu
+nicho: ferramentas-ia
 sub_nicho: 
 idioma: pt-BR
 pais: BR
@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-09
-visto_ultimo: 2026-10-20
-rodadas_vista: 4
+visto_ultimo: 2026-10-21
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/arsenal-lucrativo"
 gateways_detectados: [cakto, kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [cakto, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -107,5 +107,11 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-a
 ## Rodada 2026-10-20
 
 2 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (1 -> 2): 262119051 ('IA de rateio Arsenal Lucrativos', vendida por um 'Pedro', nao funciona). A mecanica e rateio/apostas, nao marketing.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+3 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (2 -> 3): 262128563, 'Comunidade Arsenal Lucrativo' R$ 65,99 no Pix (compra 28/09), vendida por uma vendedora a partir de anuncio no Facebook; entrega e acesso a Flow e ChatGPT para geracao de videos. Nao e rateio: e revenda de acesso a ferramentas de IA.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

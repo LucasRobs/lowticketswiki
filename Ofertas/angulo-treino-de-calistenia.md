@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-09-25
-rodadas_vista: 1
+visto_ultimo: 2026-10-21
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-treino-de-calistenia"
-gateways_detectados: []
+gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: []
+ra_reclamacoes: 3
+ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-25
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-21
+
+3 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos em dois gateways (1 -> 3): 262174735 (Payt, 'Calestenia para mulheres', 4 dias sem entrega) e 262149757 (Lastlink, 'treino de calistenia asiatica', app sem acesso). Dois produtos distintos do mesmo angulo.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

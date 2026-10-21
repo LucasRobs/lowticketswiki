@@ -24,10 +24,10 @@ s_ticket: 5
 s_lucro: 8
 s_replica: 6
 s_saturacao: 5
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-22
-rodadas_vista: 2
+visto_ultimo: 2026-10-21
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/teacher-zap"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-22
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -86,3 +86,9 @@ a conta enquanto a base nova paga a base velha. E o modelo que quebra por dentro
 saber antes de replicar, nao depois.
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/curso-online-parou-de-funcionar-e-suporte-nao-responde_RFn8bmDbc5XNiNkK/
+
+## Rodada 2026-10-21
+
+3 mencao(oes) nesta varredura (gateway Lastlink). 1 ID novo na Lastlink (2 -> 3): 262174923 ('TeacherZap Vitalicio' para de funcionar toda hora, responsavel nao responde). Primeira aparicao desde 22/08: o plano vitalicio segue sendo vendido.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/

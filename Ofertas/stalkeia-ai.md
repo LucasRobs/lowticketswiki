@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-19
-rodadas_vista: 21
+visto_ultimo: 2026-10-21
+rodadas_vista: 22
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 45
+ra_reclamacoes: 47
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -229,5 +229,11 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/comprei-servico-enganoso-no
 ## Rodada 2026-10-19
 
 45 mencao(oes) nesta varredura (gateway PerfectPay). 9 IDs novos na PerfectPay desde 14/10 17h38 (36 -> 45; a nota estava em 28 por regressao no merge de 18/10): 262016315, 261928335, 261904795, 261902765, 261814653, 261777069, 261773059, 261766031, 261637047. Inclui grafias Stalkea/Stalker, que tem notas duplicadas.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+47 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (45 -> 47): 262184679 (tres pagamentos por 'aplicativo de espionagem chamado Stalkeia.ai') e 262178673 ('sou outra pessoa que realizou a compra', mesmo texto-base). Primeira aparicao desde 19/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

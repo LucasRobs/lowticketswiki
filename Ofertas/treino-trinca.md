@@ -26,20 +26,20 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-20
-rodadas_vista: 11
-dias_no_ar: 59
-criativos_ultima: 180
-criativos_delta: 30
+visto_ultimo: 2026-10-21
+rodadas_vista: 12
+dias_no_ar: 60
+criativos_ultima: 140
+criativos_delta: -40
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 100
+ra_reclamacoes: 110
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -182,3 +182,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 100 mencao(oes) nesta varredura (gateway Lastlink). 14 IDs novos entre 19/10 14h25 e 20/10 13h42 (86 -> 100), o maior volume em ~23h ja medido numa nota: 262120429, 262117813, 262109867 (Trinca/Pink, R$ 37, cita suplementos nao recebidos apos 14 dias), 262106487, 262091431, 262088405 (compra em 22/09), 262087519, 262084797 (questionario longo e plano nao personalizado), 262077851, 262064549, 262059715, 262057765 (planilha prometida em 24h nao chegou), 262052595, 262021119. Fora da conta: 262100269 (treino sem nome, mesma queixa do questionario), 262086955 e 262041503 (suplemento TF1000 vendido em live do Pedro Lotz em 08/10, sem citar o Trinca), 262049379 (catalogo de exercicios). Biblioteca, busca 'treino trinca': ~180 resultados (eram ~150 em 19/10), os 21 primeiros por impressao todos de Pedro Lotz, inicios entre 22/08 e 09/10, nenhum criativo carregado mais novo que 09/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262120429 ... 262021119)
+
+## Rodada 2026-10-21
+
+110 mencao(oes) nesta varredura (gateway Lastlink). 10 IDs novos entre 20/10 13h42 e 21/10 09h30 (100 -> 110): 262189027 e 262186793 (cancelamento em 7 dias ignorado), 262176047 (Comunidade Trinca Elite R$ 220 no Pix, compra 17/10), 262170911 (Trinca Force R$ 997 no Pix, recebeu NF sem o produto), 262169633 (Comunidade Trinca Elite/SHAPEDECIN R$ 237,78 + Treino Trinca R$ 37, compra 18/10), 262157861 (plano generico), 262152165 (R$ 37 via anuncio no Instagram, treino nao chegou), 262145175, 262143877, 262127451 (Desafio Trinca 28 Dias, R$ 37). Fora da conta: 262124633 (treino + lista de alimentacao + suplementos, sem nome). Biblioteca, busca 'treino trinca': ~140 resultados (eram ~180 em 20/10 e ~150 em 19/10), os ~20 primeiros por impressao todos de Pedro Lotz, inicio mais antigo 22/08 (60 dias), mais novo carregado 09/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262189027 ... 262127451)

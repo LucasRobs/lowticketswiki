@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: perfectpay
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Google%20Captcha%20ganhar%20dinheiro&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 50
@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-28
-visto_ultimo: 2026-08-29
-rodadas_vista: 2
+visto_ultimo: 2026-10-21
+rodadas_vista: 3
 dias_no_ar: 61
 criativos_ultima: 0
 criativos_delta: 0
@@ -38,8 +38,8 @@ bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 39
 ra_plataformas: [perfectpay]
-ra_primeira_reclamacao: 2026-06-29
-ra_checado: 2026-08-29
+ra_primeira_reclamacao: "2026-06-29"
+ra_checado: 2026-10-21
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -83,3 +83,9 @@ ID 257574289 (carimbo 28/08 12h13) e **menor** que o ID 257586513 (carimbo 27/08
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/editado-pelo-reclame-aqui-de-pix-para-recebimento-de-valor-inexistente-no-google-captcha_Pl3dY4-zJFbSq7iQ/
 Pagina do produtor: https://www.reclameaqui.com.br/empresa/joyce-roberts/lista-reclamacoes/
+
+## Rodada 2026-10-21
+
+39 mencao(oes) nesta varredura (gateway PerfectPay). Avistamento, sem mover a contagem (39 veio da pagina do produtor, e as reclamacoes do gateway podem estar listadas la tambem): 262156935 (quatro Pix para a 'GCAPTCHA' para receber R$ 17.658) e 262127251 (taxas de R$ 90 e R$ 25 para receber R$ 17.000 'do Google CAPTCHA'). Primeira aparicao na lista de gateway desde 29/08: o esquema segue vendendo.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
