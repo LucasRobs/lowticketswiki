@@ -5,9 +5,9 @@
    "arquivo": "Radar/2026-10-21.md",
    "data": "2026-10-21",
    "titulo": "Radar 2026-10-21",
-   "ofertas_vistas": 18,
-   "novas": 0,
-   "retornaram": 4,
+   "ofertas_vistas": 21,
+   "novas": 1,
+   "retornaram": 6,
    "sumiram": 0,
    "fontes": [
     "cakto",
@@ -23,8 +23,8 @@
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-21\n\n## Novas\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 110\n- [[zap-radar]] — ra_reclamacoes atualizado para 75\n- [[app-direct-line]] — ra_reclamacoes atualizado para 26\n- [[shopminer]] — ra_reclamacoes atualizado para 35\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 47\n- [[fornece-up]] — ra_reclamacoes atualizado para 23\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 20\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 27\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 9\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 4\n- [[spinmaster]] — ra_reclamacoes atualizado para 7\n- [[arsenal-lucrativo]] — ra_reclamacoes atualizado para 3\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 3\n- [[google-captcha-tw]] — ra_reclamacoes atualizado para 39\n\n## Retornaram\n\n- [[dossie-do-emagrecimento]] — saude-emagrecimento — reapareceu (2 mencao(oes))\n- [[mentoria-nova-profissao-gustavo-castro]] — mentoria-comunidade — reapareceu (2 mencao(oes))\n- [[teacher-zap]] — idiomas — reapareceu (3 mencao(oes))\n- [[youtube-dark-peter]] — ganhar-dinheiro-youtube — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~20 horas pela API do RA (11 gateways, 155 reclamacoes unicas desde 20/10 13h42). Treino Trinca de 100 para 110, com Trinca Force (R$ 997) e Comunidade Trinca Elite (R$ 220-237) nos corpos, enquanto a Biblioteca caiu de ~180 para ~140 resultados. Nenhuma estreia: nenhum nome novo chegou a 3 mencoes; Fly Now, Curso Arca e spyradar ficam na fila. Cinco retornos fracos (Dossie do Emagrecimento, Mentoria Nova Profissao, Teacher ZAP, YouTube Dark do Peter e Google Captcha como avistamento); 15 mudancas de status por decaimento.\n\n## Passadas do dia\n- [[2026-10-21 -- 0930]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 16 achado(s) - rodada diaria — API do RA, 11 gateways, 155 reclamacoes em ~20h; Trinca 100 -> 110; 0 estreias; 3 retornos fracos\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-21\n\n## Novas\n\n- [[angulo-desafio-bumbum-africano-28-dias]] — saude-estetica-fitness — R$ 37 — Desafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de…\n\n## Movimento\n\n- [[treino-trinca]] — ra_reclamacoes atualizado para 110\n- [[zap-radar]] — ra_reclamacoes atualizado para 75\n- [[app-direct-line]] — ra_reclamacoes atualizado para 26\n- [[shopminer]] — ra_reclamacoes atualizado para 35\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 47\n- [[fornece-up]] — ra_reclamacoes atualizado para 23\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 20\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 27\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 9\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 4\n- [[spinmaster]] — ra_reclamacoes atualizado para 7\n- [[arsenal-lucrativo]] — ra_reclamacoes atualizado para 3\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 3\n- [[google-captcha-tw]] — ra_reclamacoes atualizado para 39\n\n## Retornaram\n\n- [[dossie-do-emagrecimento]] — saude-emagrecimento — reapareceu (2 mencao(oes))\n- [[mentoria-nova-profissao-gustavo-castro]] — mentoria-comunidade — reapareceu (2 mencao(oes))\n- [[teacher-zap]] — idiomas — reapareceu (3 mencao(oes))\n- [[youtube-dark-peter]] — ganhar-dinheiro-youtube — reapareceu (2 mencao(oes))\n- [[o-truque-da-loto-pro]] — apostas-loteria — reapareceu (7 mencao(oes))\n- [[curso-aiva]] — ferramentas-ia — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nDuas leituras pela API do RA no dia (09h30 e 16h00, 11 gateways, 155 + 92 reclamacoes unicas). Treino Trinca de 100 para 117 no dia, com Trinca Force (R$ 997), Comunidade/Treino Trinca Elite e e-books extras nos corpos, e Biblioteca estavel em ~140 resultados entre as duas leituras. Nenhuma estreia de oferta; um angulo novo as 16h00 (Desafio Bumbum Africano 28 dias, R$ 37, 3 mencoes no RA e 5+ operadoras na Biblioteca). Retornos fracos: Dossie do Emagrecimento, Mentoria Nova Profissao, Teacher ZAP, YouTube Dark do Peter, O Truque da Loto PRO e Curso AIVA (este descrito como sistema de jogo, nao curso de IA). Decaimento aplicado uma vez, as 09h30 (15 mudancas).\n\n## Passadas do dia\n- [[2026-10-21 -- 0930]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 16 achado(s) - rodada diaria — API do RA, 11 gateways, 155 reclamacoes em ~20h; Trinca 100 -> 110; 0 estreias; 3 retornos fracos\n- [[2026-10-21 -- 1600]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 9 achado(s) - rodada diaria (complemento das 16h00) — API do RA, 11 gateways, 92 reclamacoes desde 09h30; Trinca 110 -> 117; 1 angulo novo; 2 retornos…\n"
   },
   {
    "arquivo": "Radar/2026-10-20.md",
@@ -847,6 +847,38 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-21 -- 1600.md",
+   "data": "2026-10-21",
+   "hora": "16:00",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 17,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "curso-aiva",
+    "mentoria-nova-profissao-gustavo-castro",
+    "o-truque-da-loto-pro",
+    "receitas-sem-pensar",
+    "spinmaster",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-21]].\n\n# Rodada — 21/10/2026 · 16:00 Fortaleza\n\n**Gateways:** kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · **Páginas:** 17 · **Coleta:** ok · **Achados:** 9\n\n## Quentes\n- [[treino-trinca]] — Lastlink · 7 IDs novos em ~6h30 (110 -> 117); Treino Trinca Elite pago sem acesso e 3 e-books no fim do desafio; Biblioteca estavel em ~140\n- [[zap-radar]] — PerfectPay/Payt · 3 IDs novos (75 -> 78), 'Manual da Verdade' de R$ 137\n\n## Mornas\n- [[app-do-paizao]] 27 -> 28, [[receitas-sem-pensar]] 9 -> 10 (Marmitas Pro R$ 297 + app R$ 97), [[spinmaster]] 7 -> 8, [[mentoria-nova-profissao-gustavo-castro]] 2 -> 3\n- Retornos: [[o-truque-da-loto-pro]] (escada R$ 149 + R$ 172,62 + R$ 177), [[curso-aiva]] ('Sistema Aiva' com depositos em plataforma de jogo)\n- Angulo novo: Desafio Bumbum Africano 28 dias (R$ 37; 3 mencoes no RA, 5+ operadores na Biblioteca)\n\nLeitura: complemento de ~6h30 da rodada das 09h30; 92 reclamacoes unicas, gotejamento nos mesmos nomes e um angulo de treino lotado.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-21 -- 0930.md",
    "data": "2026-10-21",

@@ -33,10 +33,10 @@
   "s_lucro": 6,
   "s_replica": 5,
   "s_saturacao": 3,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-08-24",
-  "visto_ultimo": "2026-08-27",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-21",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "kirvano"
   ],
   "ra_primeira_reclamacao": "2026-08-23",
-  "ra_checado": "2026-08-27",
+  "ra_checado": "2026-10-21",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kirvano"
   ]
  },
- "corpo": "# Curso AIVA\n\nKirvano, reclamacao lida em 24/08. Compra em **18/06/2026** — **67 dias de venda medidos**, a segunda maior idade medida do vault depois de [[unlovable]] (149 dias).\n\nSessenta e sete dias e o sinal aqui. Pelo `Scoring.md`, tempo no ar e o proxy mais confiavel de lucro, e 67 dias de operacao com cancelamento pedido \"dentro do prazo legal\" indica um funil que continua rodando. `s_lucro: 6`.\n\nO que derruba: `s_saturacao: 3` — curso de IA e o nicho mais lotado do momento — e `s_replica: 5`, porque curso de IA exige atualizacao constante para nao ficar obsoleto em semanas, o que e producao continua, nao entrega unica.\n\n`s_ticket: 0`: valor nao citado. Sentinela.\n\nNota de cautela: \"AIVA\" tambem e nome de ferramenta de musica com IA de terceiro. Antes de tratar como oferta propria, confirmar se nao e mais um caso de revenda de assinatura alheia — mesmo padrao de [[capcut-pro-revenda]], descoberto na mesma lista da Kirvano hoje.\n\n## Historico\n",
+ "corpo": "# Curso AIVA\n\nKirvano, reclamacao lida em 24/08. Compra em **18/06/2026** — **67 dias de venda medidos**, a segunda maior idade medida do vault depois de [[unlovable]] (149 dias).\n\nSessenta e sete dias e o sinal aqui. Pelo `Scoring.md`, tempo no ar e o proxy mais confiavel de lucro, e 67 dias de operacao com cancelamento pedido \"dentro do prazo legal\" indica um funil que continua rodando. `s_lucro: 6`.\n\nO que derruba: `s_saturacao: 3` — curso de IA e o nicho mais lotado do momento — e `s_replica: 5`, porque curso de IA exige atualizacao constante para nao ficar obsoleto em semanas, o que e producao continua, nao entrega unica.\n\n`s_ticket: 0`: valor nao citado. Sentinela.\n\nNota de cautela: \"AIVA\" tambem e nome de ferramenta de musica com IA de terceiro. Antes de tratar como oferta propria, confirmar se nao e mais um caso de revenda de assinatura alheia — mesmo padrao de [[capcut-pro-revenda]], descoberto na mesma lista da Kirvano hoje.\n\n## Historico\n\n## Rodada 2026-10-21\n\n2 mencao(oes) nesta varredura (gateway Kirvano). Retorno depois de 24/08 com 1 ID novo (1 -> 2): 262239279, 'Sistema Aiva' por R$ 297 mais R$ 150 em depositos 'na plataforma do jogo', ambos pela Kirvano; o produtor respondeu ao pedido de reembolso com um formulario de mais de 100 perguntas. O corpo sugere que o AIVA e um sistema de apostas vendido como curso, nao curso de IA: o nicho da nota deve ser revisto.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/exijo-estorno-do-curso-e-saldo-retido-pela-kirvano_GWq4oRGJHgfK7QWk/\n",
  "observacoes": [
   {
    "data": "2026-08-24",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "Kirvano. Mesma reclamacao de cancelamento do curso AIVA (compra 18/06/2026). Sem alteracao."
+  },
+  {
+   "data": "2026-10-21",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 297,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. Retorno depois de 24/08 com 1 ID novo (1 -> 2): 262239279, 'Sistema Aiva' por R$ 297 mais R$ 150 em depositos 'na plataforma do jogo', ambos pela Kirvano; o produtor respondeu ao pedido de reembolso com um formulario de mais de 100 perguntas. O corpo sugere que o AIVA e um sistema de apostas vendido como curso, nao curso de IA: o nicho da nota deve ser revisto."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-21 -- 1600.md",
+   "data": "2026-10-21",
+   "titulo": "Passada 2026-10-21 16:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-21.md",
+   "data": "2026-10-21",
+   "titulo": "Radar 2026-10-21"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-08-29.md",

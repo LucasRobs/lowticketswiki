@@ -2,10 +2,10 @@
  "esquema": 1,
  "totais": {
   "ofertas": 380,
-  "angulos": 98,
-  "observacoes": 1000,
+  "angulos": 99,
+  "observacoes": 1003,
   "dias_radar": 43,
-  "passadas": 122,
+  "passadas": 123,
   "analises": 12,
   "ultima_rodada": "2026-10-21"
  },
@@ -3281,6 +3281,62 @@
     "sem-longevidade",
     "sem-lp",
     "status-vencido"
+   ]
+  },
+  {
+   "slug": "angulo-desafio-bumbum-africano-28-dias",
+   "nome": "Desafio Bumbum Africano 28 dias",
+   "classe": "angulo",
+   "nicho": "saude-estetica-fitness",
+   "sub_nicho": "",
+   "status": "nova",
+   "veredito": "observar",
+   "prioridade": 0,
+   "checkout": "desconhecido",
+   "gateways": [
+    "kirvano",
+    "payt"
+   ],
+   "plataforma_ads": [
+    "meta"
+   ],
+   "modelo": [
+    "direct"
+   ],
+   "formato_entrega": [
+    "ebook"
+   ],
+   "recorrente": false,
+   "moeda": "BRL",
+   "ticket_frente": 37,
+   "ticket_bump": 0,
+   "ticket_upsell": 0,
+   "ticket_medio_est": 37,
+   "s_ticket": 5,
+   "s_lucro": 5,
+   "s_replica": 7,
+   "s_saturacao": 3,
+   "score": 5.3,
+   "decisao": "padrao",
+   "visto_primeiro": "2026-10-21",
+   "visto_ultimo": "2026-10-21",
+   "rodadas_vista": 1,
+   "dias_no_ar": 29,
+   "criativos_ultima": 110,
+   "criativos_delta": 0,
+   "ra_reclamacoes": 3,
+   "ra_primeira_reclamacao": "",
+   "ra_checado": "2026-10-21",
+   "bump_oculto": false,
+   "upsell_oculto": false,
+   "url_pagina": "",
+   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=bumbum%20africano&search_type=keyword_unordered&media_type=all",
+   "n_obs": 1,
+   "ultima_obs": "2026-10-21",
+   "n_citacoes": 1,
+   "resumo": "Desafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de uma semana e link de suporte que aponta para o proprio site), 262101525 (Payt, 'Desafio Bumbum Africano', fila de 20/10)…",
+   "flags": [
+    "sem-lp"
    ]
   },
   {
@@ -6606,7 +6662,7 @@
    "dias_no_ar": 54,
    "criativos_ultima": 19,
    "criativos_delta": 3,
-   "ra_reclamacoes": 27,
+   "ra_reclamacoes": 28,
    "ra_primeira_reclamacao": "2026-08-20",
    "ra_checado": "2026-10-21",
    "bump_oculto": false,
@@ -6615,7 +6671,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-10-21",
-   "n_citacoes": 24,
+   "n_citacoes": 25,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -10275,7 +10331,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "curso-de-ia",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -10304,21 +10360,21 @@
    "score": 4.05,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-24",
-   "visto_ultimo": "2026-08-27",
-   "rodadas_vista": 2,
+   "visto_ultimo": "2026-10-21",
+   "rodadas_vista": 3,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 1,
+   "ra_reclamacoes": 2,
    "ra_primeira_reclamacao": "2026-08-23",
-   "ra_checado": "2026-08-27",
+   "ra_checado": "2026-10-21",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=curso%20AIVA&search_type=keyword_unordered&media_type=all",
-   "n_obs": 2,
-   "ultima_obs": "2026-08-27",
-   "n_citacoes": 2,
+   "n_obs": 3,
+   "ultima_obs": "2026-10-21",
+   "n_citacoes": 4,
    "resumo": "Kirvano, reclamacao lida em 24/08. Compra em 18/06/2026 — 67 dias de venda medidos, a segunda maior idade medida do vault depois de unlovable (149 dias).",
    "flags": [
     "score-provisorio",
@@ -18768,7 +18824,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 2,
+   "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-21",
    "bump_oculto": false,
@@ -18777,7 +18833,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Nova%20Profissão%20Gustavo%20Castro&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-21",
-   "n_citacoes": 4,
+   "n_citacoes": 5,
    "resumo": "Mentoria de recolocação profissional vendida com uma ferramenta de IA bundled chamada 'Converza IA'. Suporte e canais de contato fora do ar; primeira aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -20782,7 +20838,7 @@
    "classe": "oferta",
    "nicho": "apostas-loteria",
    "sub_nicho": "",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -20811,21 +20867,21 @@
    "score": 2.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-10-19",
-   "rodadas_vista": 3,
+   "visto_ultimo": "2026-10-21",
+   "rodadas_vista": 4,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 6,
+   "ra_reclamacoes": 7,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-19",
+   "ra_checado": "2026-10-21",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Truque%20da%20Loto&search_type=keyword_unordered&media_type=all",
-   "n_obs": 3,
-   "ultima_obs": "2026-10-19",
-   "n_citacoes": 4,
+   "n_obs": 4,
+   "ultima_obs": "2026-10-21",
+   "n_citacoes": 6,
    "resumo": "Achado novo e o mais chamativo da passada: funil de 4 produtos amarrados (O Truque da Loto PRO, Lovable.app, Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto) vendendo 'método' de previsão de loteria. Cobrança não autorizada clara, suporte bloqueou…",
    "flags": [
     "score-provisorio",
@@ -23010,15 +23066,15 @@
    ],
    "recorrente": false,
    "moeda": "BRL",
-   "ticket_frente": 0,
+   "ticket_frente": 97,
    "ticket_bump": 0,
-   "ticket_upsell": 0,
-   "ticket_medio_est": 0,
-   "s_ticket": 0,
+   "ticket_upsell": 297,
+   "ticket_medio_est": 140,
+   "s_ticket": 9,
    "s_lucro": 3,
    "s_replica": 0,
    "s_saturacao": 0,
-   "score": 1.05,
+   "score": 2.85,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
    "visto_ultimo": "2026-10-21",
@@ -23026,7 +23082,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 9,
+   "ra_reclamacoes": 10,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-21",
    "bump_oculto": false,
@@ -23035,7 +23091,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=receitas%20sem%20pensar&search_type=keyword_unordered&media_type=all",
    "n_obs": 5,
    "ultima_obs": "2026-10-21",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "App de receitas da nutricionista Renata Brugnera. 3 reclamacoes na Payt em 10-11/10 (261356291, 261343035, 261315463); a 261343035 descreve o mecanismo: as receitas de marmita (Marmitas Pro) que motivaram a compra exigem pagamento extra dentro do app.",
    "flags": [
     "score-provisorio",
@@ -24251,7 +24307,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 7,
+   "ra_reclamacoes": 8,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-21",
    "bump_oculto": false,
@@ -24260,7 +24316,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=spinmaster&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-21",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Programa que promete 'acesso a roleta sem pagar mais nada'; depois do pagamento direciona o comprador para casas de apostas onde e preciso depositar — o infoproduto e porta de entrada de afiliacao de bet. 1 reclamacao com ID novo (261544737) mais 2 da rodada…",
    "flags": [
     "score-provisorio",
@@ -25145,7 +25201,7 @@
    "dias_no_ar": 60,
    "criativos_ultima": 140,
    "criativos_delta": -40,
-   "ra_reclamacoes": 110,
+   "ra_reclamacoes": 117,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-21",
    "bump_oculto": false,
@@ -25154,7 +25210,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-10-21",
-   "n_citacoes": 26,
+   "n_citacoes": 27,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
    "flags": []
   },
@@ -26304,7 +26360,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 75,
+   "ra_reclamacoes": 78,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-21",
    "bump_oculto": false,
@@ -26313,7 +26369,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 25,
    "ultima_obs": "2026-10-21",
-   "n_citacoes": 53,
+   "n_citacoes": 54,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -26382,9 +26438,9 @@
    "arquivo": "Radar/2026-10-21.md",
    "data": "2026-10-21",
    "titulo": "Radar 2026-10-21",
-   "ofertas_vistas": 18,
-   "novas": 0,
-   "retornaram": 4,
+   "ofertas_vistas": 21,
+   "novas": 1,
+   "retornaram": 6,
    "sumiram": 0,
    "fontes": [
     "cakto",
@@ -26400,8 +26456,8 @@
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "leitura": "Rodada de ~20 horas pela API do RA (11 gateways, 155 reclamacoes unicas desde 20/10 13h42). Treino Trinca de 100 para 110, com Trinca Force (R$ 997) e Comunidade Trinca Elite (R$ 220-237) nos corpos, enquanto a Biblioteca caiu de ~180 para ~140 resultados. Nenhuma estreia: nenhum nome novo chegou a 3 mencoes; Fly Now, Curso Arca e spyradar ficam na fila. Cinco retornos fracos (Dossie do Emagrecimento, Mentoria Nova…"
+   "n_passadas": 2,
+   "leitura": "Duas leituras pela API do RA no dia (09h30 e 16h00, 11 gateways, 155 + 92 reclamacoes unicas). Treino Trinca de 100 para 117 no dia, com Trinca Force (R$ 997), Comunidade/Treino Trinca Elite e e-books extras nos corpos, e Biblioteca estavel em ~140 resultados entre as duas leituras. Nenhuma estreia de oferta; um angulo novo as 16h00 (Desafio Bumbum Africano 28 dias, R$ 37, 3 mencoes no RA e 5+ operadoras na…"
   },
   {
    "arquivo": "Radar/2026-10-20.md",
@@ -27224,6 +27280,38 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-21 -- 1600.md",
+   "data": "2026-10-21",
+   "hora": "16:00",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 17,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "curso-aiva",
+    "mentoria-nova-profissao-gustavo-castro",
+    "o-truque-da-loto-pro",
+    "receitas-sem-pensar",
+    "spinmaster",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · Páginas: 17 · Coleta: ok · Achados: 9 ## Quentes treino-trinca — Lastlink · 7 IDs novos em ~6h30 (110 -> 117); Treino Trinca Elite pago…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-21 -- 0930.md",
    "data": "2026-10-21",
@@ -30141,6 +30229,10 @@
    "2026-10-20": {
     "oferta": 5,
     "angulo": 0
+   },
+   "2026-10-21": {
+    "oferta": 0,
+    "angulo": 1
    }
   },
   "observacoes": {
@@ -30185,7 +30277,7 @@
    "2026-10-18": 10,
    "2026-10-19": 26,
    "2026-10-20": 22,
-   "2026-10-21": 18
+   "2026-10-21": 21
   }
  },
  "analises": [
@@ -30376,7 +30468,7 @@
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 181,
+    "preenchidas": 182,
     "total": 380
    },
    {
@@ -30527,7 +30619,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1478
+   "canonico": 1482
   }
  },
  "vocabulario": {
@@ -30576,15 +30668,15 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "23cf1d6e8bdf6f43",
-  "atualizado_em": "2026-10-21T09:33:53-03:00",
+  "hash": "592eca16a278d86b",
+  "atualizado_em": "2026-10-21T16:05:57-03:00",
   "ofertas": 380,
-  "angulos": 98,
-  "observacoes": 1000,
+  "angulos": 99,
+  "observacoes": 1003,
   "ultima_rodada": "2026-10-21",
   "ultima_passada": {
    "data": "2026-10-21",
-   "hora": "09:30",
+   "hora": "16:00",
    "coleta": "ok",
    "gateways": [
     "kiwify",

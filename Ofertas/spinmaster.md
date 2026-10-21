@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/spinmaster"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 7
+ra_reclamacoes: 8
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-21

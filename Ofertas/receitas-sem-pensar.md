@@ -12,15 +12,15 @@ checkout: payt
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=receitas%20sem%20pensar&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 0
+ticket_frente: 97
 ticket_bump: 0
-ticket_upsell: 0
-ticket_medio_est: 0
+ticket_upsell: 297
+ticket_medio_est: 140
 margem_est: 0.8
 modelo: [direct]
 formato_entrega: [app]
 tem_recorrencia: false
-s_ticket: 0
+s_ticket: 9
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/receitas-sem-pensar"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-21
@@ -65,6 +65,8 @@ anuncio -> pagina -> checkout payt -> ver evidencia.
 - **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261356291, 261343035, 261315463)
+
+**Ticket capturado (2026-10-21 16h00, ID 262204847, Payt):** app Receitas Sem Pensar R$ 97 + pacote Marmitas Pro R$ 297 no mesmo comprador. `ticket_medio_est: 140` supoe que uma minoria leva o Marmitas Pro; `s_ticket` 0 → 9 (faixa > 120).
 
 ## Historico
 ```base
