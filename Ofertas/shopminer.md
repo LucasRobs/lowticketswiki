@@ -12,15 +12,15 @@ checkout: payt
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 0
+ticket_frente: 297
 ticket_bump: 0
 ticket_upsell: 0
-ticket_medio_est: 0
+ticket_medio_est: 297
 margem_est: 0.8
 modelo: [direct]
 formato_entrega: [app]
 tem_recorrencia: false
-s_ticket: 0
+s_ticket: 9
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0

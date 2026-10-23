@@ -18,18 +18,18 @@ ticket_upsell: 0
 ticket_medio_est: 10
 margem_est: 0.8
 modelo: [direct]
-formato_entrega: []
+formato_entrega: [ebook]
 tem_recorrencia: false
-s_ticket: 2
-s_lucro: 3
-s_replica: 0
-s_saturacao: 0
+s_ticket: 1
+s_lucro: 2
+s_replica: 8
+s_saturacao: 5
 status: nova
 visto_primeiro: 2026-10-23
 visto_ultimo: 2026-10-23
 rodadas_vista: 1
-dias_no_ar: 0
-criativos_ultima: 0
+dias_no_ar: 6
+criativos_ultima: 11
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-moldes-e-papelaria-de-natal"
@@ -54,10 +54,10 @@ Angulo sazonal: pacote digital de moldes/arquivos de Natal para artesanato e pap
 anuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.
 
 ## Por que funciona
-<!-- preencher com leitura humana -->
+Sazonal e de entrega trivial: um pacote de PDFs/arquivos editaveis de Natal custa quase nada para produzir e vende para artesas e papelarias que querem faturar com a data. Ticket de R$ 10 no anuncio medido, compra por impulso no Instagram.
 
 ## O que copiar / o que evitar
-<!-- preencher com leitura humana -->
+Copiar: o pacote tematico com bonus e o preco de impulso. Evitar: o que gerou as 3 reclamacoes, que e prometer volume (120 moldes) e entregar 1, ou entregar por codigo/link com senha que nao abre. Eixos medidos a mao em 23/10: `dias_no_ar: 6` (operadora mais antiga desde 17/10, abaixo do minimo de 7 dias do Pipeline, entao e teste), `criativos_ultima: 11`, `s_saturacao: 5` (a busca estreita so mostra 1 operadora, mas o RA ja tem 3 produtos diferentes; a busca larga 'moldes natal' devolve ~1.100 anuncios, quase todos de SHEIN, e nao serve de medida). Score 4,05, o que nao importa: o corte nao vale para angulo. Revisitar em novembro, quando a temporada estiver no pico.
 
 ## Estado dos dados
 - **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-23 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).
