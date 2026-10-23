@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-20
-rodadas_vista: 4
+visto_ultimo: 2026-10-23
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/renda-fortuna"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 9 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (8 -> 9): 262040441 (curso Renda Fortuna, de Daniela Rezende, sem suporte no WhatsApp).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+10 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (9 -> 10): 262414471, 'produto digital Renda Fortuna anunciado por Daniela Rezende', varias compras no cartao.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262414471)

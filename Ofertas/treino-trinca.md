@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-21
-rodadas_vista: 12
+visto_ultimo: 2026-10-23
+rodadas_vista: 13
 dias_no_ar: 60
 criativos_ultima: 140
 criativos_delta: -40
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 117
+ra_reclamacoes: 121
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -188,3 +188,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 110 mencao(oes) nesta varredura (gateway Lastlink). 10 IDs novos entre 20/10 13h42 e 21/10 09h30 (100 -> 110): 262189027 e 262186793 (cancelamento em 7 dias ignorado), 262176047 (Comunidade Trinca Elite R$ 220 no Pix, compra 17/10), 262170911 (Trinca Force R$ 997 no Pix, recebeu NF sem o produto), 262169633 (Comunidade Trinca Elite/SHAPEDECIN R$ 237,78 + Treino Trinca R$ 37, compra 18/10), 262157861 (plano generico), 262152165 (R$ 37 via anuncio no Instagram, treino nao chegou), 262145175, 262143877, 262127451 (Desafio Trinca 28 Dias, R$ 37). Fora da conta: 262124633 (treino + lista de alimentacao + suplementos, sem nome). Biblioteca, busca 'treino trinca': ~140 resultados (eram ~180 em 20/10 e ~150 em 19/10), os ~20 primeiros por impressao todos de Pedro Lotz, inicio mais antigo 22/08 (60 dias), mais novo carregado 09/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262189027 ... 262127451)
+
+## Rodada 2026-10-23
+
+121 mencao(oes) nesta varredura (gateway Lastlink). So 4 IDs novos em ~48h (117 -> 121): 262420245 (protocolo do programa Trinca, sem estorno), 262330105 (anuncio no Instagram, R$ 37 com garantia), 262309787 (R$ 37 pago 20/10 18h14, reembolso sem resposta) e 262309837 (treino 'que se refere a Pedro Lotz', compra 18/10, sem citar o nome Trinca). Em 21/10 foram 17 num dia. Biblioteca 'treino trinca' as 16h de 23/10: ~140 resultados, iguais a 21/10, 26 de 28 carregados de Pedro Lotz, mais antigo 22/08, mais novo 21/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262420245, 262330105, 262309837, 262309787)

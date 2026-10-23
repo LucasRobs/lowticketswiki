@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-21
-rodadas_vista: 12
+visto_ultimo: 2026-10-23
+rodadas_vista: 13
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 28
+ra_reclamacoes: 30
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -185,3 +185,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 27 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (26 -> 27): 262122609 (assinatura em debito automatico, renovacao nao cancela, estorno negado).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+30 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos (28 -> 30): 262433397 (assinatura no cartao desde 22/07, reembolso pedido 4 dias depois e cobranca continua) e 262282753 ('aplicativo de treino do Carlao', sem botao de cancelar).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (IDs 262433397, 262282753)

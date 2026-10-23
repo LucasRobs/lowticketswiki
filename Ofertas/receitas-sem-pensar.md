@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-21
-rodadas_vista: 5
+visto_ultimo: 2026-10-23
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/receitas-sem-pensar"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 16
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -111,3 +111,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 9 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (8 -> 9): 262140249 ('Aplicativo Receitas sem Pensar', compra 20/10, nao era como nos anuncios).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+16 mencao(oes) nesta varredura (gateway Payt). 6 IDs novos (10 -> 16): 262425663 (Marmitas Pro R$ 297 + app R$ 97, compra 22/10), 262401093, 262323819 (app + Marmitas Pro no cartao, 22/10), 262303977 (compra 19/10), 262269715, 262263925. A maioria levou os dois produtos, o que sustenta o ticket_medio_est de 140 como conservador.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262425663 ... 262263925)

@@ -9,7 +9,7 @@ idioma: pt-BR
 pais: BR
 plataforma_ads: [meta]
 checkout: ticto
-url_pagina:
+url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=f%C3%A1brica%20de%20low%20ticket&search_type=keyword_unordered&media_type=all"
 moeda: BRL
 ticket_frente: 0
@@ -24,22 +24,22 @@ s_ticket: 7
 s_lucro: 4
 s_replica: 5
 s_saturacao: 3
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-08-27
-rodadas_vista: 4
+visto_ultimo: 2026-10-23
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
-ativos_pasta:
-gateways_detectados: [ticto]
+ativos_pasta: 
+gateways_detectados: [ticto, cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
-ra_plataformas: [ticto]
-ra_primeira_reclamacao: 2026-08-21
-ra_checado: 2026-08-27
+ra_reclamacoes: 3
+ra_plataformas: [ticto, cakto]
+ra_primeira_reclamacao: "2026-08-21"
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 1
 tags: [oferta, meta-oferta, inteligencia-de-nicho]
@@ -98,3 +98,9 @@ Ticto, ha 1 dia: arrependimento no mesmo dia da compra e reembolso nao efetuado.
 ## Rodada 2026-08-24
 
 Ticto, mesma reclamacao de arrependimento de 23/08. Sem alteracao.
+
+## Rodada 2026-10-23
+
+3 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (2 -> 3), agora na Cakto: 262271371, 'Fabrica de Low Ticket' do Kaua Henrique, cancelamento dificultado. A nota tinha checkout Ticto e nao era vista desde 27/08.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262271371)

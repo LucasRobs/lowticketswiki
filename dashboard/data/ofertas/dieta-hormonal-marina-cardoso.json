@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-20",
-  "visto_ultimo": "2026-10-20",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-23",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "hotmart"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-20",
+  "ra_checado": "2026-10-23",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "hotmart"
   ]
  },
- "corpo": "# Dieta Hormonal (Marina Cardoso)\n\n## Angulo\nDieta 'hormonal' da nutricionista Marina Cardoso vendida na Hotmart, com cobranca que continua apos o pedido de cancelamento. 1 ID nesta rodada (262066917, cancelamento pedido em 15/10 sem resposta) + 2 da fila de 19/10 (citadas na nota da ht-secar-sem-dieta, IDs nao registrados).\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-20 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/\n\n## Historico\n",
+ "corpo": "# Dieta Hormonal (Marina Cardoso)\n\n## Angulo\nDieta 'hormonal' da nutricionista Marina Cardoso vendida na Hotmart, com cobranca que continua apos o pedido de cancelamento. 1 ID nesta rodada (262066917, cancelamento pedido em 15/10 sem resposta) + 2 da fila de 19/10 (citadas na nota da ht-secar-sem-dieta, IDs nao registrados).\n\n## Funil\nanuncio -> pagina -> checkout hotmart -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-20 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/\n\n## Historico\n\n## Rodada 2026-10-23\n\n4 mencao(oes) nesta varredura (gateway Hotmart). 1 ID novo (3 -> 4): 262347879, dieta hormonal da nutricionista Marina Cardoso comprada em 21/10 no Pix, nada recebido.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/ (ID 262347879)\n",
  "observacoes": [
   {
    "data": "2026-10-20",
@@ -84,9 +84,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Dieta 'hormonal' da nutricionista Marina Cardoso vendida na Hotmart, com cobranca que continua apos o pedido de cancelamento. 1 ID nesta rodada (262066917, cancelamento pedido em 15/10 sem resposta) + 2 da fila de 19/10 (citadas na nota da ht-secar-sem-dieta, IDs nao registrados)."
+  },
+  {
+   "data": "2026-10-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. 1 ID novo (3 -> 4): 262347879, dieta hormonal da nutricionista Marina Cardoso comprada em 21/10 no Pix, nada recebido."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-23.md",
+   "data": "2026-10-23",
+   "titulo": "Radar 2026-10-23"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-20.md",

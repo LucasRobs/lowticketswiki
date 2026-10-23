@@ -35,8 +35,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-20",
-  "visto_ultimo": "2026-10-20",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-23",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-20",
+  "ra_checado": "2026-10-23",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "payt"
   ]
  },
- "corpo": "# BicarbonApp\n\n## Angulo\nApp de 'receita de emagrecimento' com bicarbonato, com uma 'Dra Ana' na frente. 3 IDs, todos nesta rodada e em dois gateways: Payt 262073561 (compra de 19/10 no Pix) e 262044977 (2 compras em 16/10, 'site nao confiavel'), Kirvano 262052053 ('aplicativo Bicarbonepp com Dra Ana', acesso nao chegou). Na Biblioteca, 'bicarbonato app' so devolveu ruido.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-20 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Historico\n",
+ "corpo": "# BicarbonApp\n\n## Angulo\nApp de 'receita de emagrecimento' com bicarbonato, com uma 'Dra Ana' na frente. 3 IDs, todos nesta rodada e em dois gateways: Payt 262073561 (compra de 19/10 no Pix) e 262044977 (2 compras em 16/10, 'site nao confiavel'), Kirvano 262052053 ('aplicativo Bicarbonepp com Dra Ana', acesso nao chegou). Na Biblioteca, 'bicarbonato app' so devolveu ruido.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-20 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Historico\n\n## Rodada 2026-10-23\n\n4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (3 -> 4): 262422749, pacotes BicarbonApp + 'Cola Egipcia', app 'amador' que nao libera o conteudo.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262422749)\n",
  "observacoes": [
   {
    "data": "2026-10-20",
@@ -86,9 +86,27 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. App de 'receita de emagrecimento' com bicarbonato, com uma 'Dra Ana' na frente. 3 IDs, todos nesta rodada e em dois gateways: Payt 262073561 (compra de 19/10 no Pix) e 262044977 (2 compras em 16/10, 'site nao confiavel'), Kirvano 262052053 ('aplicativo Bicarbonepp com Dra Ana', acesso nao chegou). Na Biblioteca, 'bicarbonato app' so devolveu ruido."
+  },
+  {
+   "data": "2026-10-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. 1 ID novo (3 -> 4): 262422749, pacotes BicarbonApp + 'Cola Egipcia', app 'amador' que nao libera o conteudo."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-23.md",
+   "data": "2026-10-23",
+   "titulo": "Radar 2026-10-23"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-20.md",

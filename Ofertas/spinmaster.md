@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-21
-rodadas_vista: 3
+visto_ultimo: 2026-10-23
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/spinmaster"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 9
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 7 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (6 -> 7): 262179791, tres compras no Pix em 17/10 — IspinMaster R$ 37, IspinMaster Pro R$ 67 e 'Protocolo Ghost' R$ 147 — vendidas por video que 'simula uma roleta facinho'. A escada fica visivel: R$ 251 por comprador.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+9 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (8 -> 9): 262354923, SpinMaster R$ 37,99 + SpinMaster PRO R$ 67,99 = R$ 105,98, reembolso nao atendido e 'tentativa de desvio para links externos'.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID 262354923)

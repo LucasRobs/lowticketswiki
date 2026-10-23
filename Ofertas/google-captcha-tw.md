@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-28
-visto_ultimo: 2026-10-21
-rodadas_vista: 3
+visto_ultimo: 2026-10-23
+rodadas_vista: 4
 dias_no_ar: 61
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 39
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-06-29"
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -89,3 +89,9 @@ Pagina do produtor: https://www.reclameaqui.com.br/empresa/joyce-roberts/lista-r
 39 mencao(oes) nesta varredura (gateway PerfectPay). Avistamento, sem mover a contagem (39 veio da pagina do produtor, e as reclamacoes do gateway podem estar listadas la tambem): 262156935 (quatro Pix para a 'GCAPTCHA' para receber R$ 17.658) e 262127251 (taxas de R$ 90 e R$ 25 para receber R$ 17.000 'do Google CAPTCHA'). Primeira aparicao na lista de gateway desde 29/08: o esquema segue vendendo.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+39 mencao(oes) nesta varredura (gateway PerfectPay). Avistamento, sem somar: 262321039 ('varios pagamentos referente ao G Captcha' na ilusao de receber dinheiro de volta). Os 39 da nota vem da pagina do produtor; somar a lista do gateway arriscaria contagem dupla, como em 21/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 262321039)

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-21
-rodadas_vista: 6
+visto_ultimo: 2026-10-23
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 23
+ra_reclamacoes: 25
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
 23 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (21 -> 23): 262167639 ('ForneceUP - Pro', compra 11/10, estorno nao feito) e 262141861 (produtor nao responde e-mail).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+25 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos (23 -> 25): 262382111 (plano Premium sem reembolso) e 262300725 ('Forneceup - Vitalicio').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 262382111, 262300725)

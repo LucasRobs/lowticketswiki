@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-21
-rodadas_vista: 6
+visto_ultimo: 2026-10-23
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 26
+ra_reclamacoes: 33
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 26 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos na Cakto (24 -> 26): 262184527 (assinatura cancelada minutos depois, app nao funciona) e 262143925 (dizia ter conexao com Google Agenda e nao tem; cancelamento sem resposta).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+33 mencao(oes) nesta varredura (gateway Cakto). 7 IDs novos (26 -> 33): 262369277, 262355961, 262341925, 262334527, 262322961 (app de rotina + assistente virtual 'Larissa' paga a parte), 262307465, 262260229. Padrao: cancelamento pedido no dia seguinte e suporte que nao responde.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262369277 ... 262260229)

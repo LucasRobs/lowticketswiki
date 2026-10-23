@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-19
-rodadas_vista: 3
+visto_ultimo: 2026-10-23
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/pilates-na-parede-lastlink"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 11
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 10 mencao(oes) nesta varredura (gateway Lastlink). 2 IDs novos na Lastlink (8 -> 10): 261703205 ('LL Pilates'), 261662981 (R$ 27, 'pilates de parede da Fernanda Martins'). Fora da conta: 2 'Pilates na Parede' na Payt (261886805, 261663079), que podem ser outra operacao, e 261777825 ('Pilates em casa').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+11 mencao(oes) nesta varredura (gateway Lastlink). Retorno com 1 ID (10 -> 11): 262286387 ('pilates na parede' de R$ 40, conteudo nao chegou por e-mail). Fora da conta: 262430053 ('Pilates em casa', Pix de R$ 46,90, Lastlink), que pode ser outro produto.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (ID 262286387)

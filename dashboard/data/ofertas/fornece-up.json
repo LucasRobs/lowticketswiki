@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-11",
-  "visto_ultimo": "2026-10-21",
-  "rodadas_vista": 6,
+  "visto_ultimo": "2026-10-23",
+  "rodadas_vista": 7,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 23,
+  "ra_reclamacoes": 25,
   "ra_plataformas": [
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-21",
+  "ra_checado": "2026-10-23",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Fornece Up\n\n## Angulo\nPlataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583, 261121611): cancelamento travado e o que move o volume.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 8 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (8 IDs de 261121611 a 261367699)\n\n## Historico\n\n## Rodada 2026-10-12\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Plataforma de fornecedores por assinatura parcelada (ja mapeada como estreia na rodada anterior, 8 mencoes). Nova reclamacao no mesmo padrao: cancelamento/reembolso dentro do prazo de 7 dias, produtor sem resposta. Continua ativa poucas horas depois da ultima passada.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-minha-compra-e-ser-reembolsado-em-r-31554_liRRdrRGZL9uTLus/\n\n## Rodada 2026-10-13\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Assinatura de acesso a fornecedores/revenda, recorrente desde 25/09 e marcada quente na rodada anterior (debutou 11/10 com 8 IDs). Hoje mais 2 pedidos de estorno (um deles via Pix). Uma reclamação cita taxas de R$97-250 cobradas pra liberar um saldo de R$17.658 -- mecânica de order bump/upsell pesada pra travar saque.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-fornece-up-apos-cancelamento-em-7-dias_nK2G6qUC6C7nWEIi/\n\n## Rodada 2026-10-14\n\n15 mencao(oes) nesta varredura (gateway PerfectPay). 7 reclamacoes com ID novo, todas de cancelamento/estorno travado: 261541275, 261533037, 261507661, 261502437, 261471517, 261467633 (R$ 175), 261389195 (R$ 315,54). Biblioteca, busca 'forneceup': nenhum anuncio da operacao.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261541275, 261533037, 261507661, 261502437, 261471517, 261467633, 261389195)\n\n## Rodada 2026-10-19\n\n21 mencao(oes) nesta varredura (gateway PerfectPay). 5 IDs novos na PerfectPay desde 14/10 17h38 (16 -> 21; a nota estava em 8 por regressao no merge de 18/10): 261966411, 261909311, 261895127, 261738361, 261702913.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n23 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (21 -> 23): 262167639 ('ForneceUP - Pro', compra 11/10, estorno nao feito) e 262141861 (produtor nao responde e-mail).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n",
+ "corpo": "# Fornece Up\n\n## Angulo\nPlataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583, 261121611): cancelamento travado e o que move o volume.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 8 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (8 IDs de 261121611 a 261367699)\n\n## Historico\n\n## Rodada 2026-10-12\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Plataforma de fornecedores por assinatura parcelada (ja mapeada como estreia na rodada anterior, 8 mencoes). Nova reclamacao no mesmo padrao: cancelamento/reembolso dentro do prazo de 7 dias, produtor sem resposta. Continua ativa poucas horas depois da ultima passada.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-minha-compra-e-ser-reembolsado-em-r-31554_liRRdrRGZL9uTLus/\n\n## Rodada 2026-10-13\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). Assinatura de acesso a fornecedores/revenda, recorrente desde 25/09 e marcada quente na rodada anterior (debutou 11/10 com 8 IDs). Hoje mais 2 pedidos de estorno (um deles via Pix). Uma reclamação cita taxas de R$97-250 cobradas pra liberar um saldo de R$17.658 -- mecânica de order bump/upsell pesada pra travar saque.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-estorno-da-fornece-up-apos-cancelamento-em-7-dias_nK2G6qUC6C7nWEIi/\n\n## Rodada 2026-10-14\n\n15 mencao(oes) nesta varredura (gateway PerfectPay). 7 reclamacoes com ID novo, todas de cancelamento/estorno travado: 261541275, 261533037, 261507661, 261502437, 261471517, 261467633 (R$ 175), 261389195 (R$ 315,54). Biblioteca, busca 'forneceup': nenhum anuncio da operacao.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 261541275, 261533037, 261507661, 261502437, 261471517, 261467633, 261389195)\n\n## Rodada 2026-10-19\n\n21 mencao(oes) nesta varredura (gateway PerfectPay). 5 IDs novos na PerfectPay desde 14/10 17h38 (16 -> 21; a nota estava em 8 por regressao no merge de 18/10): 261966411, 261909311, 261895127, 261738361, 261702913.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n23 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (21 -> 23): 262167639 ('ForneceUP - Pro', compra 11/10, estorno nao feito) e 262141861 (produtor nao responde e-mail).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n25 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos (23 -> 25): 262382111 (plano Premium sem reembolso) e 262300725 ('Forneceup - Vitalicio').\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 262382111, 262300725)\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -144,9 +144,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "23 mencao(oes) na varredura de hoje. 2 IDs novos na PerfectPay (21 -> 23): 262167639 ('ForneceUP - Pro', compra 11/10, estorno nao feito) e 262141861 (produtor nao responde e-mail)."
+  },
+  {
+   "data": "2026-10-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 25,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "25 mencao(oes) na varredura de hoje. 2 IDs novos (23 -> 25): 262382111 (plano Premium sem reembolso) e 262300725 ('Forneceup - Vitalicio')."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-23 -- 1600.md",
+   "data": "2026-10-23",
+   "titulo": "Passada 2026-10-23 16:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-23.md",
+   "data": "2026-10-23",
+   "titulo": "Radar 2026-10-23"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-21 -- 0930.md",
