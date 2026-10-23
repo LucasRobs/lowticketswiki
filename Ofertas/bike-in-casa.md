@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-14
-rodadas_vista: 6
+visto_ultimo: 2026-10-23
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/bike-in-casa"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -127,3 +127,9 @@ Evidencia: https://www.reclameaqui.com.br/ticto/nao-consigo-cancelar-minha-assin
 5 mencao(oes) nesta varredura (gateway Ticto). 1 reclamacao com ID novo na Ticto em 14/10: 261610227 (assinatura anual, cancelamento pedido em agosto, quarta parcela cobrada). E cobranca residual de venda antiga, nao venda nova.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 261610227)
+
+## Rodada 2026-10-23
+
+6 mencao(oes) nesta varredura (gateway Ticto). Retorno com 1 ID (5 -> 6): 262276839, assinatura com '30 dias de teste' e sem botao de cancelar.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 262276839)

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-21
-rodadas_vista: 4
+visto_ultimo: 2026-10-23
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 7
+ra_reclamacoes: 9
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 7 mencao(oes) nesta varredura (gateway Payt). Retorno com 1 ID novo (6 -> 7): 262243473, compra em 17/10 depois de 'ouvir o entrevistador' (VSL em formato de entrevista): R$ 149 no Pix, R$ 172,62 no cartao e uma terceira cobranca de R$ 177 tentada. Escada de tres cobrancas no mesmo dia.
 
 Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-venda-enganosa-e-nao-consigo-contato-com-o-suporte_mBBAvG1uc8BBOYDO/
+
+## Rodada 2026-10-23
+
+9 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos (7 -> 9): 262368523 (segunda cobranca no cartao que o titular diz nao ter feito, 'Produto: O Truque da Loto') e 262265883 (app nao recebido, 'dizia que tinha que efetuar' mais um pagamento).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262368523, 262265883)

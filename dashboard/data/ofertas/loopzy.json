@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-07",
-  "visto_ultimo": "2026-10-08",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-23",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 2,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-08",
+  "ra_checado": "2026-10-23",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "cakto"
   ]
  },
- "corpo": "# Loopzy\n\n## Angulo\nAchado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/\n\n## Historico\n\n## Rodada 2026-10-07\n\n1 mencao(oes) nesta varredura (gateway Cakto). Nome 'Loopzy' citado em reclamacao de reembolso nao resolvido pela Cakto; texto nao deixa claro se e nome de produto, app ou loja. Achado novo, mencao unica -- vale confirmar na Biblioteca de Anuncios antes de priorizar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Cakto). Segunda aparicao em dia diferente (07/10, agora 08/10). Nesta reclamacao o nome 'Loopzy' e confirmado explicitamente como produtor/vendedor (antes so aparecia como nome ambiguo). Categoria do produto ainda nao identificada -- reembolso negado pela Cakto apos compra de 01/10.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/\n",
+ "corpo": "# Loopzy\n\n## Angulo\nAchado novo, mencao unica. Compra feita em 01/10 via Cakto, reembolso negado. A reclamacao nao diz o que a Loopzy vende -- nicho nao identificado, vale checagem manual (nome de produto confirmado, categoria nao).\n\n## Funil\nanuncio -> pagina -> checkout cakto -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-07 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/\n\n## Historico\n\n## Rodada 2026-10-07\n\n1 mencao(oes) nesta varredura (gateway Cakto). Nome 'Loopzy' citado em reclamacao de reembolso nao resolvido pela Cakto; texto nao deixa claro se e nome de produto, app ou loja. Achado novo, mencao unica -- vale confirmar na Biblioteca de Anuncios antes de priorizar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway Cakto). Segunda aparicao em dia diferente (07/10, agora 08/10). Nesta reclamacao o nome 'Loopzy' e confirmado explicitamente como produtor/vendedor (antes so aparecia como nome ambiguo). Categoria do produto ainda nao identificada -- reembolso negado pela Cakto apos compra de 01/10.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/\n\n## Rodada 2026-10-23\n\n4 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (2 -> 4): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O produto se chama Loopzy Live.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262338923, 262317383)\n",
  "observacoes": [
   {
    "data": "2026-10-07",
@@ -96,9 +96,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. Segunda aparicao em dia diferente (07/10, agora 08/10). Nesta reclamacao o nome 'Loopzy' e confirmado explicitamente como produtor/vendedor (antes so aparecia como nome ambiguo). Categoria do produto ainda nao identificada -- reembolso negado pela Cakto apos compra de 01/10."
+  },
+  {
+   "data": "2026-10-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. 2 IDs novos (2 -> 4): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O produto se chama Loopzy Live."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-23 -- 1600.md",
+   "data": "2026-10-23",
+   "titulo": "Passada 2026-10-23 16:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-23.md",
+   "data": "2026-10-23",
+   "titulo": "Radar 2026-10-23"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-08 -- 1115.md",

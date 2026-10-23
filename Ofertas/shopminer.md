@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-21
-rodadas_vista: 6
+visto_ultimo: 2026-10-23
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 35
+ra_reclamacoes: 46
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -123,3 +123,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 35 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (33 -> 35): 262187991 (comprou em 20/10 no cartao, arrependimento) e 262125411 (produtos 'atualizados todos os dias' nao se atualizam).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+46 mencao(oes) nesta varredura (gateway Payt). 11 IDs novos entre 21/10 16h e 23/10 16h (35 -> 46): 262441225, 262439191, 262438373, 262419457 (comprado em live no TikTok), 262369743 (R$ 297 no Pix em 21/10), 262361165, 262339837, 262334469, 262311037 ('Short Shop Miner', comprado 22/10 09h45), 262310243, 262299849 (vendido por influenciadora). Quase todas: nao gera os videos prometidos e o estorno nao sai. Canal de venda continua sendo live e influenciador.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262441225 ... 262299849)

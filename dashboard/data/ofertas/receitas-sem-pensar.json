@@ -35,8 +35,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-11",
-  "visto_ultimo": "2026-10-21",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-10-23",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 10,
+  "ra_reclamacoes": 16,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-21",
+  "ra_checado": "2026-10-23",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -73,7 +73,7 @@
    "payt"
   ]
  },
- "corpo": "# Receitas Sem Pensar\n\n## Angulo\nApp de receitas da nutricionista Renata Brugnera. 3 reclamacoes na Payt em 10-11/10 (261356291, 261343035, 261315463); a 261343035 descreve o mecanismo: as receitas de marmita (Marmitas Pro) que motivaram a compra exigem pagamento extra dentro do app.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261356291, 261343035, 261315463)\n\n**Ticket capturado (2026-10-21 16h00, ID 262204847, Payt):** app Receitas Sem Pensar R$ 97 + pacote Marmitas Pro R$ 297 no mesmo comprador. `ticket_medio_est: 140` supoe que uma minoria leva o Marmitas Pro; `s_ticket` 0 → 9 (faixa > 120).\n\n## Historico\n\n## Rodada 2026-10-14\n\n5 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo: 261529383 e 261454839 (assinatura; receitas diferentes do que e postado no Instagram).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261529383, 261454839)\n\n## Rodada 2026-10-19\n\n7 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (5 -> 7): 261706723, 261700079 (app que nao se consegue cancelar).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n8 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (7 -> 8): 262051315 (app 'Receita Sem Pensar' comprado em 16/10, nao corresponde aos anuncios).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n9 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (8 -> 9): 262140249 ('Aplicativo Receitas sem Pensar', compra 20/10, nao era como nos anuncios).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
+ "corpo": "# Receitas Sem Pensar\n\n## Angulo\nApp de receitas da nutricionista Renata Brugnera. 3 reclamacoes na Payt em 10-11/10 (261356291, 261343035, 261315463); a 261343035 descreve o mecanismo: as receitas de marmita (Marmitas Pro) que motivaram a compra exigem pagamento extra dentro do app.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261356291, 261343035, 261315463)\n\n**Ticket capturado (2026-10-21 16h00, ID 262204847, Payt):** app Receitas Sem Pensar R$ 97 + pacote Marmitas Pro R$ 297 no mesmo comprador. `ticket_medio_est: 140` supoe que uma minoria leva o Marmitas Pro; `s_ticket` 0 → 9 (faixa > 120).\n\n## Historico\n\n## Rodada 2026-10-14\n\n5 mencao(oes) nesta varredura (gateway Payt). 2 reclamacoes com ID novo: 261529383 e 261454839 (assinatura; receitas diferentes do que e postado no Instagram).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 261529383, 261454839)\n\n## Rodada 2026-10-19\n\n7 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos na Payt (5 -> 7): 261706723, 261700079 (app que nao se consegue cancelar).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n8 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (7 -> 8): 262051315 (app 'Receita Sem Pensar' comprado em 16/10, nao corresponde aos anuncios).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n9 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (8 -> 9): 262140249 ('Aplicativo Receitas sem Pensar', compra 20/10, nao era como nos anuncios).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n16 mencao(oes) nesta varredura (gateway Payt). 6 IDs novos (10 -> 16): 262425663 (Marmitas Pro R$ 297 + app R$ 97, compra 22/10), 262401093, 262323819 (app + Marmitas Pro no cartao, 22/10), 262303977 (compra 19/10), 262269715, 262263925. A maioria levou os dois produtos, o que sustenta o ticket_medio_est de 140 como conservador.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262425663 ... 262263925)\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -134,9 +134,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "9 mencao(oes) na varredura de hoje. 1 ID novo na Payt (8 -> 9): 262140249 ('Aplicativo Receitas sem Pensar', compra 20/10, nao era como nos anuncios)."
+  },
+  {
+   "data": "2026-10-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 16,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "16 mencao(oes) na varredura de hoje. 6 IDs novos (10 -> 16): 262425663 (Marmitas Pro R$ 297 + app R$ 97, compra 22/10), 262401093, 262323819 (app + Marmitas Pro no cartao, 22/10), 262303977 (compra 19/10), 262269715, 262263925. A maioria levou os dois produtos, o que sustenta o ticket_medio_est de 140 como conservador."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-23 -- 1600.md",
+   "data": "2026-10-23",
+   "titulo": "Passada 2026-10-23 16:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-23.md",
+   "data": "2026-10-23",
+   "titulo": "Radar 2026-10-23"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-21 -- 1600.md",

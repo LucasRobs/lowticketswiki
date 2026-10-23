@@ -1,13 +1,13 @@
 {
  "esquema": 1,
- "hash": "592eca16a278d86b",
- "atualizado_em": "2026-10-21T16:05:57-03:00",
+ "hash": "ce4f843e85ac75ea",
+ "atualizado_em": "2026-10-23T16:09:40-03:00",
  "ofertas": 380,
- "angulos": 99,
- "observacoes": 1003,
- "ultima_rodada": "2026-10-21",
+ "angulos": 100,
+ "observacoes": 1026,
+ "ultima_rodada": "2026-10-23",
  "ultima_passada": {
-  "data": "2026-10-21",
+  "data": "2026-10-23",
   "hora": "16:00",
   "coleta": "ok",
   "gateways": [

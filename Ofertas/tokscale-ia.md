@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-21
-rodadas_vista: 5
+visto_ultimo: 2026-10-23
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/tokscale-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 20
+ra_reclamacoes: 23
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 20 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (19 -> 20): 262153937 (fatura em nome de 'paytcc'). Fora da conta: 261887749 ('Quero reembolso da Tok Scale'), ID antigo com carimbo de 20/10 — carimbo movido.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+23 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos (20 -> 23): 262437537 (vendido por influenciador), 262345895, 262264385.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262437537, 262345895, 262264385)
