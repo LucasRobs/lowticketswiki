@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-07
-visto_ultimo: 2026-10-23
-rodadas_vista: 3
+visto_ultimo: 2026-10-08
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/loopzy"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 2
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-08
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,9 +97,3 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-
 2 mencao(oes) nesta varredura (gateway Cakto). Segunda aparicao em dia diferente (07/10, agora 08/10). Nesta reclamacao o nome 'Loopzy' e confirmado explicitamente como produtor/vendedor (antes so aparecia como nome ambiguo). Categoria do produto ainda nao identificada -- reembolso negado pela Cakto apos compra de 01/10.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopzy-e-a-cakto-nao-resolve_jZ88wIyRaJpxKF3R/
-
-## Rodada 2026-10-23
-
-4 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (2 -> 4): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O produto se chama Loopzy Live.
-
-Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262338923, 262317383)

@@ -33,11 +33,11 @@ criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-moldes-e-papelaria-de-natal"
-gateways_detectados: []
+gateways_detectados: [wiapy]
 bump_oculto: false
 upsell_oculto: false
 ra_reclamacoes: 3
-ra_plataformas: []
+ra_plataformas: [wiapy]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-23
 veredito: observar
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-23
+
+3 mencao(oes) nesta varredura (gateway Wiapy). Angulo sazonal: pacote digital de moldes/arquivos de Natal para artesanato e papelaria, vendido no Instagram. 3 IDs em 3 produtos: 262375441 (Wiapy, 'pacote natalino' prometendo 120 moldes editaveis de personagens, entregou 1), 262291913 (Wiapy, arquivos de papelaria personalizada 'bolo natalino' + bonus, codigo de acesso que nao abre) e 262334633 (Kiwify, pacote de moldes de Natal pago no Pix, link pede senha). Biblioteca 'moldes natalinos editaveis' em 23/10: ~11 anuncios, todos de Jaqueline Barros, R$ 10, iniciados de 17/10 a 23/10 (7 so hoje). Temporada comecando: nenhum operador com 7+ dias.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/wiapy/lista-reclamacoes/ (IDs 262375441, 262291913); https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262334633)

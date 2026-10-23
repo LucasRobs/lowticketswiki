@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-20
-visto_ultimo: 2026-10-20
-rodadas_vista: 1
+visto_ultimo: 2026-10-23
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/dieta-hormonal-marina-cardoso"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-23
+
+4 mencao(oes) nesta varredura (gateway Hotmart). 1 ID novo (3 -> 4): 262347879, dieta hormonal da nutricionista Marina Cardoso comprada em 21/10 no Pix, nada recebido.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/ (ID 262347879)
