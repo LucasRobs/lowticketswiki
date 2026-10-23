@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-06
-rodadas_vista: 3
+visto_ultimo: 2026-10-23
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/chef-luana-livros-de-culinaria"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-06
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/falta-de-acesso-e-resposta-a
 1 mencao(oes) nesta varredura (gateway Cakto). Livros/ebooks de culinaria vendidos via Cakto. Reconfirmado - falta de acesso e resposta apos a compra.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/falta-de-acesso-e-resposta-apos-compra-de-livros-de-culinaria_h9xcF_NwGwiJ5Grb/
+
+## Rodada 2026-10-23
+
+3 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (2 -> 3): 262272129, 'Super Combo Chef Luana' comprado em promocao por R$ 39,90 em 21/10, nada recebido.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262272129)

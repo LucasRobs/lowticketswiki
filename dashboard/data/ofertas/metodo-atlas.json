@@ -31,26 +31,28 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-09-26",
-  "visto_ultimo": "2026-10-03",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-23",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
   "unfunnelizer_capturado": false,
   "ativos_pasta": "Ativos/metodo-atlas",
   "gateways_detectados": [
-   "perfectpay"
+   "perfectpay",
+   "kiwify"
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 2,
+  "ra_reclamacoes": 3,
   "ra_plataformas": [
-   "perfectpay"
+   "perfectpay",
+   "kiwify"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-03",
+  "ra_checado": "2026-10-23",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -68,10 +70,11 @@
    "sem-lp"
   ],
   "gateways": [
+   "kiwify",
    "perfectpay"
   ]
  },
- "corpo": "# Metodo Atlas\n\n## Angulo\n'Metodo comprovado de rentabilidade' que entrega conteudo generico/desatualizado (~22/09). Visto de novo as 13h00.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-26 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-09-28\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). Curso com foco em metodologia. Padrão: cancelamento não processado. Status: requer verificação se é realmente oferta low ticket ou marca educacional maior.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-o-curso-metodo-atlas-e-ser-reembolsado_o8i1AYeTwyvamoA9/\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Infoproduto genérico com propaganda enganosa e sem suporte para reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-falta-de-suporte-para-reembolso-do-metodo-atlas_9G1np4holmXkyTbX/\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261106243, 08/10): curso/ebook nao entregue, numero de suporte inexistente.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261106243)\n",
+ "corpo": "# Metodo Atlas\n\n## Angulo\n'Metodo comprovado de rentabilidade' que entrega conteudo generico/desatualizado (~22/09). Visto de novo as 13h00.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-09-26 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: [[2026-09-26 -- 0600]] (rodada agendada; sem URL individual de reclamacao)\n\n## Historico\n\n## Rodada 2026-09-28\n\n0 mencao(oes) nesta varredura (gateway PerfectPay). Curso com foco em metodologia. Padrão: cancelamento não processado. Status: requer verificação se é realmente oferta low ticket ou marca educacional maior.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-cancelar-o-curso-metodo-atlas-e-ser-reembolsado_o8i1AYeTwyvamoA9/\n\n## Rodada 2026-10-03\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Infoproduto genérico com propaganda enganosa e sem suporte para reembolso.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-e-falta-de-suporte-para-reembolso-do-metodo-atlas_9G1np4holmXkyTbX/\n\n## Rodada 2026-10-08\n\n2 mencao(oes) nesta varredura (gateway PerfectPay). 1 reclamacao com ID novo (261106243, 08/10): curso/ebook nao entregue, numero de suporte inexistente.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 261106243)\n\n## Rodada 2026-10-23\n\n3 mencao(oes) nesta varredura (gateway Kiwify). Retorno com 1 ID (2 -> 3), agora na Kiwify: 262307935, 'curso Metodo Atlas' nao acessado, reembolso confirmado por e-mail e cobranca continua. A nota tinha checkout PerfectPay e nao era vista desde 03/10.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262307935)\n",
  "observacoes": [
   {
    "data": "2026-09-26",
@@ -120,9 +123,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. 1 reclamacao com ID novo (261106243, 08/10): curso/ebook nao entregue, numero de suporte inexistente."
+  },
+  {
+   "data": "2026-10-23",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "3 mencao(oes) na varredura de hoje. Retorno com 1 ID (2 -> 3), agora na Kiwify: 262307935, 'curso Metodo Atlas' nao acessado, reembolso confirmado por e-mail e cobranca continua. A nota tinha checkout PerfectPay e nao era vista desde 03/10."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-23.md",
+   "data": "2026-10-23",
+   "titulo": "Radar 2026-10-23"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-08.md",

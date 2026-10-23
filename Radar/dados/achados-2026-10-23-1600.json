@@ -347,6 +347,42 @@
    "evidencia_url": "https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262332823, 262258525)"
   },
   {
+   "produto": "Escola de Personagens",
+   "tipo": "marca",
+   "gateway": "Kiwify",
+   "nicho": "a-identificar",
+   "temperatura": "morna",
+   "mencoes": 7,
+   "faixa_preco": "",
+   "termo_busca": "escola de personagens",
+   "descricao": "Retorno com 1 ID (6 -> 7): 262416035, comprou em 23/10, nao conseguiu entrar no grupo do curso e pediu reembolso no mesmo dia. Mesma falha de acesso por grupo das reclamacoes anteriores.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262416035)"
+  },
+  {
+   "produto": "Metodo Atlas",
+   "tipo": "marca",
+   "gateway": "Kiwify",
+   "nicho": "ganhar-dinheiro",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "",
+   "termo_busca": "metodo atlas",
+   "descricao": "Retorno com 1 ID (2 -> 3), agora na Kiwify: 262307935, 'curso Metodo Atlas' nao acessado, reembolso confirmado por e-mail e cobranca continua. A nota tinha checkout PerfectPay e nao era vista desde 03/10.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262307935)"
+  },
+  {
+   "produto": "Chef Luana (livros de culinaria)",
+   "tipo": "marca",
+   "gateway": "Cakto",
+   "nicho": "receitas-culinaria",
+   "temperatura": "morna",
+   "mencoes": 3,
+   "faixa_preco": "R$ 39,90",
+   "termo_busca": "chef luana",
+   "descricao": "Retorno com 1 ID (2 -> 3): 262272129, 'Super Combo Chef Luana' comprado em promocao por R$ 39,90 em 21/10, nada recebido.",
+   "evidencia_url": "https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262272129)"
+  },
+  {
    "produto": "Google Captcha TW",
    "tipo": "marca",
    "gateway": "PerfectPay",

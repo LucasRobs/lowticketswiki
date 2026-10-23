@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 5
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-19
-rodadas_vista: 2
+visto_ultimo: 2026-10-23
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/escola-de-personagens"
 gateways_detectados: [kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 7
 ra_plataformas: [kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-23
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 6 mencao(oes) nesta varredura (gateway Kiwify). 2 IDs novos na Kiwify (4 -> 6): 261712045, 261676427.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/
+
+## Rodada 2026-10-23
+
+7 mencao(oes) nesta varredura (gateway Kiwify). Retorno com 1 ID (6 -> 7): 262416035, comprou em 23/10, nao conseguiu entrar no grupo do curso e pediu reembolso no mesmo dia. Mesma falha de acesso por grupo das reclamacoes anteriores.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262416035)
