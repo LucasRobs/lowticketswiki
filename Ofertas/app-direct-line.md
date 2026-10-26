@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-23
-rodadas_vista: 7
+visto_ultimo: 2026-10-26
+rodadas_vista: 8
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 33
+ra_reclamacoes: 40
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -121,3 +121,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 33 mencao(oes) nesta varredura (gateway Cakto). 7 IDs novos (26 -> 33): 262369277, 262355961, 262341925, 262334527, 262322961 (app de rotina + assistente virtual 'Larissa' paga a parte), 262307465, 262260229. Padrao: cancelamento pedido no dia seguinte e suporte que nao responde.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262369277 ... 262260229)
+
+## Rodada 2026-10-26
+
+40 mencao(oes) nesta varredura (gateway Cakto). 7 IDs novos (33 -> 40), todos na Cakto: 262601445, 262576531, 262550693 (comprado 07/10, cancelamento pedido 14/10), 262521347 ('App Direct Line + Rotina Pronta', 15/10), 262509049 ('planejador diario'), 262486753, 262485081 (comprado 22/10 via Pix). Quase todos sao arrependimento dentro dos 7 dias sem canal de cancelamento.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262601445 ... 262485081)

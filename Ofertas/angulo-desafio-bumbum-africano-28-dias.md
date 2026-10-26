@@ -26,8 +26,8 @@ s_replica: 7
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-10-21
-visto_ultimo: 2026-10-23
-rodadas_vista: 2
+visto_ultimo: 2026-10-26
+rodadas_vista: 3
 dias_no_ar: 29
 criativos_ultima: 110
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/angulo-desafio-bumbum-africano-28-dias"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -93,3 +93,9 @@ views:
 4 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo sem nome de produto (3 -> 4): 262384905, 'plano de treino de 28 dias' de R$ 37,90 na Kirvano, nada recebido apos o pagamento. Casado com o angulo pelo formato (28 dias, ~R$ 37) e pelo gateway da mencao de 21/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID 262384905)
+
+## Rodada 2026-10-26
+
+5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262595425 (Payt, 'compra bumbum africano', pedido de reembolso). Segundo gateway do angulo, depois da Kirvano.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262595425)

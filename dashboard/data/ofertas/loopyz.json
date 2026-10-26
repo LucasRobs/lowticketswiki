@@ -35,8 +35,8 @@
   "s_saturacao": 8,
   "status": "ativa",
   "visto_primeiro": "2026-08-16",
-  "visto_ultimo": "2026-10-23",
-  "rodadas_vista": 12,
+  "visto_ultimo": "2026-10-26",
+  "rodadas_vista": 13,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -47,12 +47,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 7,
+  "ra_reclamacoes": 8,
   "ra_plataformas": [
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-23",
+  "ra_checado": "2026-10-26",
   "veredito": "observar",
   "prioridade": 2,
   "tags": [
@@ -71,7 +71,7 @@
    "cakto"
   ]
  },
- "corpo": "# Loopyz\n\n## Angulo\nFerramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.\n\n## Funil\nanuncio -> pagina -> checkout Cakto -> suporte via produtor, nao via plataforma.\n\n## Por que funciona\nO nicho de live interativa esta em expansao rapida e com poucos players. s_saturacao 8 e o mais alto da rodada entre as marcas.\n\n## O que copiar / o que evitar\nCopiar: o nicho, nao necessariamente o produto. Vale mapear os concorrentes na Biblioteca de Anuncios com 'live interativa tiktok'.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-ferramenta-comprada-para-live-no-tiktok_8ByKgtxdl-o8n54i/\n\n## Historico\n\n## Correção 2026-08-21 — é recorrência, não low ticket\n\nPágina localizada: **`loopyz.com.br`**, checkout Cakto. Preços visíveis:\n**R$ 97/mês · R$ 197/trimestre · R$ 497 vitalício.**\n\nA estimativa anterior de R$ 47 estava errada por uma categoria inteira. `s_ticket` sobe\nde 5 para **10** (a rubrica dá 9-10 para qualquer valor com recorrência) e\n`tem_recorrencia` vira `true`. Score: 5,15 → 6,15.\n\nO que trava a nota continua sendo `s_replica: 4` — é software de live, não PDF.\n\n## Rodada 2026-09-27\n\n0 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação. Reclamação RESOLVIDA: reembolso foi efetuado conforme resposta da Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopyz-e-o-produtor-me-removeu-do-grupo_7xTu0t7hJOtnBwjw/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação online. Reclamação sobre cobrança recorrente após cancelamento. ATUALIZADA - já aparecia em 27/09.\n\nEvidencia: \n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta para lives interativas no TikTok. Reclamação de arrependimento (R$ 88,29) confirma que a oferta, já registrada no vault, segue ativa via Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta para lives interativas no TikTok. Já tracked no vault; reconfirmado nesta passada com valor R$88,29.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado mais uma vez via Cakto - direito de arrependimento solicitado.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta de lives interativas no TikTok, ja confirmada no vault (slug loopyz) com reconfirmacoes em varios dias desde 09/2026. Esta e uma evidencia_url nova (reclamacao de cancelamento/reembolso datada de 12/08/2026, pagina profunda do gateway), nao a mesma ja registrada - soma ao historico sustentado da oferta.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta de lives/engajamento, entrega via 'Cakto Members'. Vendedor mascarado no RA. Ja registrado no vault (slug loopyz); reaparece em dia distinto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/\n\n## Rodada 2026-10-11\n\n3 mencao(oes) nesta varredura (gateway Cakto). 2 reclamacoes com ID novo na Cakto (261213595 e 261161015, reembolso negado dentro do prazo). Primeira mencao desde 21/08.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261213595, 261161015)\n\n## Rodada 2026-10-14\n\n4 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo: 261487831 (assinatura 'Live Loopyz', pede cancelamento e estorno).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261487831)\n\n## Rodada 2026-10-20\n\n5 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (4 -> 5): 262024075 ('Loopyz Live', Cakto recusa reembolso e manda para produtor inacessivel).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n7 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (5 -> 7): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O nome vem grafado das duas formas; o produto e o overlay para live no TikTok desta nota, nao a [[loopzy]] (categoria nao identificada).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262338923, 262317383)\n",
+ "corpo": "# Loopyz\n\n## Angulo\nFerramenta/overlay para live no TikTok. Reclamacao registrada as 11h de hoje - e trafego rodando agora.\n\n## Funil\nanuncio -> pagina -> checkout Cakto -> suporte via produtor, nao via plataforma.\n\n## Por que funciona\nO nicho de live interativa esta em expansao rapida e com poucos players. s_saturacao 8 e o mais alto da rodada entre as marcas.\n\n## O que copiar / o que evitar\nCopiar: o nicho, nao necessariamente o produto. Vale mapear os concorrentes na Biblioteca de Anuncios com 'live interativa tiktok'.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/dificuldade-para-obter-reembolso-de-ferramenta-comprada-para-live-no-tiktok_8ByKgtxdl-o8n54i/\n\n## Historico\n\n## Correção 2026-08-21 — é recorrência, não low ticket\n\nPágina localizada: **`loopyz.com.br`**, checkout Cakto. Preços visíveis:\n**R$ 97/mês · R$ 197/trimestre · R$ 497 vitalício.**\n\nA estimativa anterior de R$ 47 estava errada por uma categoria inteira. `s_ticket` sobe\nde 5 para **10** (a rubrica dá 9-10 para qualquer valor com recorrência) e\n`tem_recorrencia` vira `true`. Score: 5,15 → 6,15.\n\nO que trava a nota continua sendo `s_replica: 4` — é software de live, não PDF.\n\n## Rodada 2026-09-27\n\n0 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação. Reclamação RESOLVIDA: reembolso foi efetuado conforme resposta da Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/nao-recebi-meu-reembolso-da-loopyz-e-o-produtor-me-removeu-do-grupo_7xTu0t7hJOtnBwjw/\n\n## Rodada 2026-09-28\n\n1 mencao(oes) nesta varredura (gateway Cakto Pay). Plataforma de educação online. Reclamação sobre cobrança recorrente após cancelamento. ATUALIZADA - já aparecia em 27/09.\n\nEvidencia: \n\n## Rodada 2026-10-04\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta para lives interativas no TikTok. Reclamação de arrependimento (R$ 88,29) confirma que a oferta, já registrada no vault, segue ativa via Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta para lives interativas no TikTok. Já tracked no vault; reconfirmado nesta passada com valor R$88,29.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/\n\n## Rodada 2026-10-06\n\n1 mencao(oes) nesta varredura (gateway Cakto). Reconfirmado mais uma vez via Cakto - direito de arrependimento solicitado.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/exerco-meu-direito-de-arrependimento-e-solicito-reembolso-do-loopyz_Z1Tp7RIznG2K2I6T/\n\n## Rodada 2026-10-09\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta de lives interativas no TikTok, ja confirmada no vault (slug loopyz) com reconfirmacoes em varios dias desde 09/2026. Esta e uma evidencia_url nova (reclamacao de cancelamento/reembolso datada de 12/08/2026, pagina profunda do gateway), nao a mesma ja registrada - soma ao historico sustentado da oferta.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/\n\n## Rodada 2026-10-10\n\n1 mencao(oes) nesta varredura (gateway Cakto). Ferramenta de lives/engajamento, entrega via 'Cakto Members'. Vendedor mascarado no RA. Ja registrado no vault (slug loopyz); reaparece em dia distinto.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/solicitacao-formal-de-cancelamento-e-reembolso-do-produto-loopyz-live_V0h6y6-kild6pbKr/\n\n## Rodada 2026-10-11\n\n3 mencao(oes) nesta varredura (gateway Cakto). 2 reclamacoes com ID novo na Cakto (261213595 e 261161015, reembolso negado dentro do prazo). Primeira mencao desde 21/08.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 261213595, 261161015)\n\n## Rodada 2026-10-14\n\n4 mencao(oes) nesta varredura (gateway Cakto). 1 reclamacao com ID novo: 261487831 (assinatura 'Live Loopyz', pede cancelamento e estorno).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 261487831)\n\n## Rodada 2026-10-20\n\n5 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (4 -> 5): 262024075 ('Loopyz Live', Cakto recusa reembolso e manda para produtor inacessivel).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n7 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (5 -> 7): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O nome vem grafado das duas formas; o produto e o overlay para live no TikTok desta nota, nao a [[loopzy]] (categoria nao identificada).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262338923, 262317383)\n\n## Rodada 2026-10-26\n\n8 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo (7 -> 8): 262530303 (Cakto, 'loopz live', comprador removido do grupo depois de pedir reembolso).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262530303)\n",
  "observacoes": [
   {
    "data": "2026-08-16",
@@ -228,9 +228,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "7 mencao(oes) na varredura de hoje. 2 IDs novos (5 -> 7): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O nome vem grafado das duas formas; o produto e o overlay para live no TikTok desta nota, nao a [[loopzy]] (categoria nao identificada)."
+  },
+  {
+   "data": "2026-10-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 8,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "8 mencao(oes) na varredura de hoje. 1 ID novo (7 -> 8): 262530303 (Cakto, 'loopz live', comprador removido do grupo depois de pedir reembolso)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-23.md",

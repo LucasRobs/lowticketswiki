@@ -65,7 +65,8 @@
   "score": 4.05,
   "decisao": "padrao",
   "flags": [
-   "sem-lp"
+   "sem-lp",
+   "status-vencido"
   ],
   "gateways": [
    "wiapy"

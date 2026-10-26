@@ -35,8 +35,8 @@
   "s_saturacao": 3,
   "status": "ativa",
   "visto_primeiro": "2026-10-21",
-  "visto_ultimo": "2026-10-23",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-26",
+  "rodadas_vista": 3,
   "dias_no_ar": 29,
   "criativos_ultima": 110,
   "criativos_delta": 0,
@@ -48,13 +48,13 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 4,
+  "ra_reclamacoes": 5,
   "ra_plataformas": [
    "kirvano",
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-23",
+  "ra_checado": "2026-10-26",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -74,7 +74,7 @@
    "payt"
   ]
  },
- "corpo": "# Desafio Bumbum Africano 28 dias\n\n## Angulo\nDesafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de uma semana e link de suporte que aponta para o proprio site), 262101525 (Payt, 'Desafio Bumbum Africano', fila de 20/10) e 262074423 (Payt, 'GPS do Bumbum', fila de 20/10). Biblioteca, busca 'bumbum africano' em 21/10: ~110 resultados, com Sarah Montenegro (desde 22/09), Rebeca Guedes (09/10), Monica Cunha (~15 criativos de 13 a 19/10), Van Luna (mudedenivel.com.br, 17/10) e 'To Chocada' (essenciaplena.site, texto com letras cirilicas). Campo lotado: 5+ operadores no mesmo angulo.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Medido em 2026-10-21 (Biblioteca, busca \"bumbum africano\"):** ~110 resultados ativos; anuncio mais antigo entre os ~30 primeiros por impressao e de Sarah Montenegro, iniciado em 22/09 (`dias_no_ar: 29`). `criativos_ultima: 110` e a contagem de resultados da busca, nao de um operador.\n- **Saturacao medida:** 5+ operadoras no mesmo angulo (Sarah Montenegro, Rebeca Guedes, Monica Cunha, Van Luna, \"To Chocada\") → `s_saturacao: 3`.\n- **Scores atribuidos a mao:** `s_lucro: 5` (20-45 dias no ar, faixa 5-6 do Scoring.md, no limite baixo porque a idade e de uma operadora so); `s_replica: 7` (desafio de 28 dias em PDF/area de membros, criativo de video simples, mas varios anuncios usam rosto de criadora); `s_ticket: 5` (frente R$ 37, sem bump/upsell capturado).\n- **Mecanica a registrar:** o anuncio de \"To Chocada\" escreve o texto com letras cirilicas no meio das latinas (\"Rеѕultаdо\") — camuflagem de texto para escapar do filtro de palavras do Meta.\n- **RA:** 3 mencoes em dois gateways (Kirvano 262242405; Payt 262101525 e 262074423, as duas da fila de 20/10). Angulo, nao produtor unico.\n\nEvidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=bumbum%20africano&search_type=keyword_unordered&media_type=all\n\n## Historico\n\n## Rodada 2026-10-23\n\n4 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo sem nome de produto (3 -> 4): 262384905, 'plano de treino de 28 dias' de R$ 37,90 na Kirvano, nada recebido apos o pagamento. Casado com o angulo pelo formato (28 dias, ~R$ 37) e pelo gateway da mencao de 21/10.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID 262384905)\n",
+ "corpo": "# Desafio Bumbum Africano 28 dias\n\n## Angulo\nDesafio de treino de gluteos de 28 dias vendido por R$ 37, com varios operadores. RA: 262242405 (Kirvano, R$ 37, acesso cortado depois de uma semana e link de suporte que aponta para o proprio site), 262101525 (Payt, 'Desafio Bumbum Africano', fila de 20/10) e 262074423 (Payt, 'GPS do Bumbum', fila de 20/10). Biblioteca, busca 'bumbum africano' em 21/10: ~110 resultados, com Sarah Montenegro (desde 22/09), Rebeca Guedes (09/10), Monica Cunha (~15 criativos de 13 a 19/10), Van Luna (mudedenivel.com.br, 17/10) e 'To Chocada' (essenciaplena.site, texto com letras cirilicas). Campo lotado: 5+ operadores no mesmo angulo.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Medido em 2026-10-21 (Biblioteca, busca \"bumbum africano\"):** ~110 resultados ativos; anuncio mais antigo entre os ~30 primeiros por impressao e de Sarah Montenegro, iniciado em 22/09 (`dias_no_ar: 29`). `criativos_ultima: 110` e a contagem de resultados da busca, nao de um operador.\n- **Saturacao medida:** 5+ operadoras no mesmo angulo (Sarah Montenegro, Rebeca Guedes, Monica Cunha, Van Luna, \"To Chocada\") → `s_saturacao: 3`.\n- **Scores atribuidos a mao:** `s_lucro: 5` (20-45 dias no ar, faixa 5-6 do Scoring.md, no limite baixo porque a idade e de uma operadora so); `s_replica: 7` (desafio de 28 dias em PDF/area de membros, criativo de video simples, mas varios anuncios usam rosto de criadora); `s_ticket: 5` (frente R$ 37, sem bump/upsell capturado).\n- **Mecanica a registrar:** o anuncio de \"To Chocada\" escreve o texto com letras cirilicas no meio das latinas (\"Rеѕultаdо\") — camuflagem de texto para escapar do filtro de palavras do Meta.\n- **RA:** 3 mencoes em dois gateways (Kirvano 262242405; Payt 262101525 e 262074423, as duas da fila de 20/10). Angulo, nao produtor unico.\n\nEvidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=bumbum%20africano&search_type=keyword_unordered&media_type=all\n\n## Historico\n\n## Rodada 2026-10-23\n\n4 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo sem nome de produto (3 -> 4): 262384905, 'plano de treino de 28 dias' de R$ 37,90 na Kirvano, nada recebido apos o pagamento. Casado com o angulo pelo formato (28 dias, ~R$ 37) e pelo gateway da mencao de 21/10.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID 262384905)\n\n## Rodada 2026-10-26\n\n5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262595425 (Payt, 'compra bumbum africano', pedido de reembolso). Segundo gateway do angulo, depois da Kirvano.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262595425)\n",
  "observacoes": [
   {
    "data": "2026-10-21",
@@ -99,9 +99,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "4 mencao(oes) na varredura de hoje. 1 ID novo sem nome de produto (3 -> 4): 262384905, 'plano de treino de 28 dias' de R$ 37,90 na Kirvano, nada recebido apos o pagamento. Casado com o angulo pelo formato (28 dias, ~R$ 37) e pelo gateway da mencao de 21/10."
+  },
+  {
+   "data": "2026-10-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 37.9,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "5 mencao(oes) na varredura de hoje. 1 ID novo (4 -> 5): 262595425 (Payt, 'compra bumbum africano', pedido de reembolso). Segundo gateway do angulo, depois da Kirvano."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-23.md",

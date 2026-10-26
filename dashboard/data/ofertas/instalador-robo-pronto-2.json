@@ -29,10 +29,10 @@
   "s_lucro": 7,
   "s_replica": 5,
   "s_saturacao": 3,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-08-16",
-  "visto_ultimo": "2026-08-27",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-10-26",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -43,12 +43,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "cakto"
   ],
   "ra_primeira_reclamacao": "2026-08-15",
-  "ra_checado": "2026-08-27",
+  "ra_checado": "2026-10-26",
   "veredito": "observar",
   "prioridade": 1,
   "tags": [
@@ -66,7 +66,7 @@
    "cakto"
   ]
  },
- "corpo": "# INSTALADOR ROBÔ PRONTO 2.0\n\n## Ângulo\nRobô de automação pronto para instalar. O \"2.0\" no nome é sinal relevante: só se faz v2 de oferta que vendeu.\n\n## Funil\nNão capturado. `dias_no_ar`, `criativos_ultima` e os tickets estão zerados porque a\nbiblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.\n\n## Estado dos dados\n- **Confirmado:** existência, plataforma de checkout, sinal de volume via Reclame Aqui.\n- **Provisório:** `ticket_medio_est` e `s_ticket` são estimativa por categoria, não leitura.\n- **Faltando:** tempo no ar, contagem de criativos, order bump e upsell ocultos.\n\n`s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais\nforte da rubrica está ausente. Espere o score subir depois da captura.\n\n## Rodada 2026-08-22 — armadilha de contagem confirmada pela segunda vez\n\nApareceu na primeira pagina da Cakto hoje com rotulo \"Ha 11 horas\". O corpo diz\n**15/08/2026** (ID 256521397). Nao e reclamacao nova: `ra_reclamacoes` permanece 2.\n\nE a segunda confirmacao independente da regra que o Painel registrou em 21/08 — o rotulo\n\"Ha X horas\" da listagem marca a ultima atividade do caso, nao a abertura. Sem abrir o\ncorpo, esta rodada teria gravado `ra_reclamacoes: 3` e uma aceleracao que nao existe.\n\nAnatomia nova, pequena mas util: o pedido de reembolso feito em 10/08 foi respondido em\n11/08 com a exigencia de **preencher um formulario** para dar continuidade. Formulario\ncomo degrau de atrito no cancelamento e o espelho do formulario como degrau de valor em\n[[treino-trinca]] — mesma ferramenta, direcoes opostas.\n\n`ra_primeira_reclamacao` preenchida com 2026-08-15, que era o campo vazio mais antigo da nota.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/reembolso-do-curso-instalador-robo-pronto-20-nao-realizado-dentro-do-prazo-legal_DOyIPqc4u83v-ITB/\n\n## Rodada 2026-08-24\n\nCakto, reclamacao NOVA: reembolso do INSTALADOR ROBO PRONTO 2.0 fora do prazo legal. Primeiro sinal desde a Cakto voltar a ser legivel. ra_reclamacoes 2 -> 3.\n",
+ "corpo": "# INSTALADOR ROBÔ PRONTO 2.0\n\n## Ângulo\nRobô de automação pronto para instalar. O \"2.0\" no nome é sinal relevante: só se faz v2 de oferta que vendeu.\n\n## Funil\nNão capturado. `dias_no_ar`, `criativos_ultima` e os tickets estão zerados porque a\nbiblioteca de anúncios e o unFunnelizer não rodaram nesta rodada.\n\n## Estado dos dados\n- **Confirmado:** existência, plataforma de checkout, sinal de volume via Reclame Aqui.\n- **Provisório:** `ticket_medio_est` e `s_ticket` são estimativa por categoria, não leitura.\n- **Faltando:** tempo no ar, contagem de criativos, order bump e upsell ocultos.\n\n`s_lucro` está subestimado: sem o tempo no ar da biblioteca de anúncios, o proxy mais\nforte da rubrica está ausente. Espere o score subir depois da captura.\n\n## Rodada 2026-08-22 — armadilha de contagem confirmada pela segunda vez\n\nApareceu na primeira pagina da Cakto hoje com rotulo \"Ha 11 horas\". O corpo diz\n**15/08/2026** (ID 256521397). Nao e reclamacao nova: `ra_reclamacoes` permanece 2.\n\nE a segunda confirmacao independente da regra que o Painel registrou em 21/08 — o rotulo\n\"Ha X horas\" da listagem marca a ultima atividade do caso, nao a abertura. Sem abrir o\ncorpo, esta rodada teria gravado `ra_reclamacoes: 3` e uma aceleracao que nao existe.\n\nAnatomia nova, pequena mas util: o pedido de reembolso feito em 10/08 foi respondido em\n11/08 com a exigencia de **preencher um formulario** para dar continuidade. Formulario\ncomo degrau de atrito no cancelamento e o espelho do formulario como degrau de valor em\n[[treino-trinca]] — mesma ferramenta, direcoes opostas.\n\n`ra_primeira_reclamacao` preenchida com 2026-08-15, que era o campo vazio mais antigo da nota.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/reembolso-do-curso-instalador-robo-pronto-20-nao-realizado-dentro-do-prazo-legal_DOyIPqc4u83v-ITB/\n\n## Rodada 2026-08-24\n\nCakto, reclamacao NOVA: reembolso do INSTALADOR ROBO PRONTO 2.0 fora do prazo legal. Primeiro sinal desde a Cakto voltar a ser legivel. ra_reclamacoes 2 -> 3.\n\n## Rodada 2026-10-26\n\n4 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (3 -> 4), sem aparecer desde 27/08: 262585329 (Cakto, compra 13/10, produtor Caio Martins, cancelamento sem retorno).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262585329)\n",
  "observacoes": [
   {
    "data": "2026-08-16",
@@ -127,9 +127,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "Cakto. Mesma reclamacao de 24/08 — reembolso fora do prazo legal. Sem alteracao."
+  },
+  {
+   "data": "2026-10-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. Retorno com 1 ID (3 -> 4), sem aparecer desde 27/08: 262585329 (Cakto, compra 13/10, produtor Caio Martins, cancelamento sem retorno)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-26 -- 1655.md",
+   "data": "2026-10-26",
+   "titulo": "Passada 2026-10-26 16:55"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-08-29.md",

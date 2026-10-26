@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-06
-visto_ultimo: 2026-10-07
-rodadas_vista: 2
+visto_ultimo: 2026-10-26
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mentoria-thiago-lobos"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 4
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-07
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-26
+
+4 mencao(oes) nesta varredura (gateway Hotmart). Retorno com 2 IDs (2 -> 4) na Hotmart: 262541785 (restricao no Serasa paga por acordo do curso 'Viver de Produtos Digitais' do Tiago Lobo) e 262524675 (cancelamento da assinatura do mesmo curso). Confirma a pratica de negativacao ja descrita na nota.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/ (IDs 262541785, 262524675)

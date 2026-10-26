@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-23
-rodadas_vista: 12
+visto_ultimo: 2026-10-26
+rodadas_vista: 13
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/loopyz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 7
+ra_reclamacoes: 8
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -162,3 +162,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 7 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (5 -> 7): 262338923 ('Loopzy Live', reembolso no prazo de 7 dias) e 262317383 ('LOOPYZ LIVE', sem suporte). O nome vem grafado das duas formas; o produto e o overlay para live no TikTok desta nota, nao a [[loopzy]] (categoria nao identificada).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262338923, 262317383)
+
+## Rodada 2026-10-26
+
+8 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo (7 -> 8): 262530303 (Cakto, 'loopz live', comprador removido do grupo depois de pedir reembolso).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262530303)

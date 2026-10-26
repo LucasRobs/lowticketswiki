@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-17
-visto_ultimo: 2026-10-18
-rodadas_vista: 2
+visto_ultimo: 2026-10-26
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/perfect-liss"
 gateways_detectados: [monetizze]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [monetizze]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-18
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 1 mencao(oes) nesta varredura (gateway Monetizze). Progressiva capilar fisica paga via Pix, nao entregue. Mesma reclamacao de 17/10 (evidencia identica), agora confirmada em segundo dia distinto -- sobe de nova para morna. Mesma ressalva do travamento de pagina 1 citada no Lift Gold.
 
 Evidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/
+
+## Rodada 2026-10-26
+
+2 mencao(oes) nesta varredura (gateway Monetizze). Retorno com 1 ID (1 -> 2): 262474511 (Monetizze, progressiva comprada em 22/09 via Pix e nao entregue). Produto fisico.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/monetizze/lista-reclamacoes/ (ID 262474511)

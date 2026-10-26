@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-23
-rodadas_vista: 6
+visto_ultimo: 2026-10-26
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/tokscale-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 23
+ra_reclamacoes: 28
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 23 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos (20 -> 23): 262437537 (vendido por influenciador), 262345895, 262264385.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262437537, 262345895, 262264385)
+
+## Rodada 2026-10-26
+
+28 mencao(oes) nesta varredura (gateway Payt). 5 IDs novos (23 -> 28), todos na Payt: 262619207, 262600761, 262570047 (R$ 297 no cartao, 17/10), 262559217 ('divulgada pela influenciadora Fernanda', 25/10), 262476031. O vendedor manda cancelar em outro canal.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262619207 ... 262476031)

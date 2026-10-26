@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26",
+   "ofertas_vistas": 32,
+   "novas": 0,
+   "retornaram": 13,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-26\n\n## Novas\n\n## Movimento\n\n- [[shopminer]] — ra_reclamacoes atualizado para 58\n- [[app-direct-line]] — ra_reclamacoes atualizado para 40\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 28\n- [[treino-trinca]] — ra_reclamacoes atualizado para 125\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 53\n- [[fornece-up]] — ra_reclamacoes atualizado para 27\n- [[spinmaster]] — ra_reclamacoes atualizado para 11\n- [[linflora]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 86\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 31\n- [[o-truque-da-loto-pro]] — ra_reclamacoes atualizado para 10\n- [[cao360]] — ra_reclamacoes atualizado para 10\n- [[loopyz]] — ra_reclamacoes atualizado para 8\n- [[metodo-atlas]] — ra_reclamacoes atualizado para 4\n- [[pilates-na-parede-lastlink]] — ra_reclamacoes atualizado para 12\n- [[angulo-desafio-bumbum-africano-28-dias]] — ra_reclamacoes atualizado para 5\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 5\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 6\n- [[pequenas-estilistas]] — ra_reclamacoes atualizado para 1\n\n## Retornaram\n\n- [[comunidade-mvz]] — educacao — reapareceu (5 mencao(oes))\n- [[mentoria-thiago-lobos]] — marketing-faca-como-eu — reapareceu (4 mencao(oes))\n- [[angulo-biblioteca-digital-mangas]] — streaming-e-acesso — reapareceu (4 mencao(oes))\n- [[ecossistema-low-ticket-nathan-kurnick]] — marketing-digital — reapareceu (4 mencao(oes))\n- [[instalador-robo-pronto-2]] — ganhar-dinheiro — reapareceu (4 mencao(oes))\n- [[protocolo-zero-barriga-40-club-40-sem-barriga]] — emagrecimento — reapareceu (2 mencao(oes))\n- [[postcloner]] — social-media-marketing — reapareceu (2 mencao(oes))\n- [[atleta-hibrido-victor-pareto]] — saude-estetica-fitness — reapareceu (2 mencao(oes))\n- [[ht-secar-sem-dieta]] — emagrecimento — reapareceu (4 mencao(oes))\n- [[lipo-intestinal-feminina]] — emagrecimento — reapareceu (2 mencao(oes))\n- [[frutinhas-falantes]] — entretenimento-infantil — reapareceu (2 mencao(oes))\n- [[perfect-liss]] — beleza-estetica — reapareceu (2 mencao(oes))\n- [[operax]] — renda-celular-cashback — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~72h (nao houve rodada em 24 e 25/10): API de busca do RA em 11 gateways, 49 paginas, 355 reclamacoes unicas com ID acima do maior lido em 23/10 (262441225), sem buraco; a Ticto nao teve nenhuma. Nenhuma estreia: nenhum nome novo juntou 3 IDs. O volume segue em ShopMiner (+12) e App Direct Line (+7); Treino Trinca (+4 em 72h, Biblioteca de ~140 para ~84) e ZAP Radar (+1) desaceleram. 13 retornos, todos com 1 ou 2 IDs, e 5 notas ativas de 21/10 foram para esfriando.\n\n## Passadas do dia\n- [[2026-10-26 -- 1655]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 32 achado(s) - rodada diaria — 11 gateways via API do RA (~72h, 355 reclamacoes), 0 novas, 32 vistas, 13 retornos, Trinca e Zap Radar desaceleram\n"
+  },
+  {
    "arquivo": "Radar/2026-10-23.md",
    "data": "2026-10-23",
    "titulo": "Radar 2026-10-23",
@@ -872,6 +897,46 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-26 -- 1655.md",
+   "data": "2026-10-26",
+   "hora": "16:55",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 49,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-biblioteca-digital-mangas",
+    "angulo-treino-de-calistenia",
+    "app-direct-line",
+    "comunidade-mvz",
+    "ecossistema-low-ticket-nathan-kurnick",
+    "fornece-up",
+    "instalador-robo-pronto-2",
+    "linflora",
+    "mentoria-thiago-lobos",
+    "operax",
+    "shopminer",
+    "spinmaster",
+    "stalkeia-ai",
+    "tokscale-ia",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-26]].\n\n# Rodada — 26/10/2026 · 16:55 Fortaleza\n\n**Gateways:** kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · **Páginas:** 49 · **Coleta:** ok · **Achados:** 32\n\n## Quentes\n- [[shopminer]] — Payt · 12 IDs novos em ~72h (46 -> 58), R$ 297, o vendedor empurra o estorno para a Payt\n- [[app-direct-line]] — Cakto · 7 IDs novos (33 -> 40), arrependimento sem canal de cancelamento\n\n## Mornas\n- [[tokscale-ia]] 23 -> 28, [[treino-trinca]] 121 -> 125 (Biblioteca caiu de ~140 para ~84), [[stalkeia-ai]] 49 -> 53, [[fornece-up]] 25 -> 27, [[spinmaster]] 9 -> 11, [[linflora]] 6 -> 8, [[zap-radar]] 85 -> 86\n- [[angulo-treino-de-calistenia]] 3 -> 6 ('Calistenia Asiatica' em Lastlink e Kirvano)\n- Retornos: [[comunidade-mvz]], [[mentoria-thiago-lobos]], [[angulo-biblioteca-digital-mangas]], [[ecossistema-low-ticket-nathan-kurnick]], [[instalador-robo-pronto-2]], [[operax]] e outros 7 com 1 ID\n\nLeitura: ~72h, 355 reclamacoes unicas em 11 gateways (Ticto sem nada novo); nenhuma estreia com 3+ IDs; Trinca e Zap Radar desaceleram, ShopMiner e Direct Line seguem.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-23 -- 1600.md",
    "data": "2026-10-23",

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-26
-visto_ultimo: 2026-10-23
-rodadas_vista: 4
+visto_ultimo: 2026-10-26
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/metodo-atlas"
 gateways_detectados: [perfectpay, kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [perfectpay, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 3 mencao(oes) nesta varredura (gateway Kiwify). Retorno com 1 ID (2 -> 3), agora na Kiwify: 262307935, 'curso Metodo Atlas' nao acessado, reembolso confirmado por e-mail e cobranca continua. A nota tinha checkout PerfectPay e nao era vista desde 03/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262307935)
+
+## Rodada 2026-10-26
+
+4 mencao(oes) nesta varredura (gateway Kiwify). 1 ID novo (3 -> 4): 262561255 (Kiwify, 'metodo atlas de vendas na internet', sem acesso e sem reembolso).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kiwify/lista-reclamacoes/ (ID 262561255)
