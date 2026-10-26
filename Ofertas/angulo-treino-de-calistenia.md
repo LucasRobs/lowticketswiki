@@ -26,20 +26,20 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-10-21
-rodadas_vista: 2
+visto_ultimo: 2026-10-26
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-treino-de-calistenia"
-gateways_detectados: [payt]
+gateways_detectados: [payt, lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
-ra_plataformas: [payt]
+ra_reclamacoes: 6
+ra_plataformas: [payt, lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -91,3 +91,9 @@ views:
 3 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos em dois gateways (1 -> 3): 262174735 (Payt, 'Calestenia para mulheres', 4 dias sem entrega) e 262149757 (Lastlink, 'treino de calistenia asiatica', app sem acesso). Dois produtos distintos do mesmo angulo.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-26
+
+6 mencao(oes) nesta varredura (gateway Lastlink). 3 IDs novos (3 -> 6) em 3 gateways: 262616199 (Lastlink, 'treino de 21 dias de calistenia asiatica', R$ 35,25, comprado 23/10, garantia de 30 dias), 262449711 (Kirvano, 'Calistenia Asiatica', R$ 38,89, 22/10) e 262545459 (Payt, 'calistenia secadiaria'). O nome 'Calistenia Asiatica' aparece em dois gateways e pode virar oferta nomeada.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262616199; Kirvano 262449711; Payt 262545459)

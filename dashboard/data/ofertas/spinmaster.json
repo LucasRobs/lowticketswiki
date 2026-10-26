@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-14",
-  "visto_ultimo": "2026-10-23",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-10-26",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 9,
+  "ra_reclamacoes": 11,
   "ra_plataformas": [
    "kirvano"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-23",
+  "ra_checado": "2026-10-26",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kirvano"
   ]
  },
- "corpo": "# SpinMaster\n\n## Angulo\nPrograma que promete 'acesso a roleta sem pagar mais nada'; depois do pagamento direciona o comprador para casas de apostas onde e preciso depositar — o infoproduto e porta de entrada de afiliacao de bet. 1 reclamacao com ID novo (261544737) mais 2 da rodada de 11/10, registradas como candidatas no Painel.\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261544737)\n\n## Historico\n\n## Rodada 2026-10-19\n\n6 mencao(oes) nesta varredura (gateway Kirvano). 3 IDs novos na Kirvano (3 -> 6): 262007267, 261942817, 261915265. Programa de roleta que manda depositar em casa de aposta depois do pagamento.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n7 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (6 -> 7): 262179791, tres compras no Pix em 17/10 — IspinMaster R$ 37, IspinMaster Pro R$ 67 e 'Protocolo Ghost' R$ 147 — vendidas por video que 'simula uma roleta facinho'. A escada fica visivel: R$ 251 por comprador.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n9 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (8 -> 9): 262354923, SpinMaster R$ 37,99 + SpinMaster PRO R$ 67,99 = R$ 105,98, reembolso nao atendido e 'tentativa de desvio para links externos'.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID 262354923)\n",
+ "corpo": "# SpinMaster\n\n## Angulo\nPrograma que promete 'acesso a roleta sem pagar mais nada'; depois do pagamento direciona o comprador para casas de apostas onde e preciso depositar — o infoproduto e porta de entrada de afiliacao de bet. 1 reclamacao com ID novo (261544737) mais 2 da rodada de 11/10, registradas como candidatas no Painel.\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261544737)\n\n## Historico\n\n## Rodada 2026-10-19\n\n6 mencao(oes) nesta varredura (gateway Kirvano). 3 IDs novos na Kirvano (3 -> 6): 262007267, 261942817, 261915265. Programa de roleta que manda depositar em casa de aposta depois do pagamento.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-10-21\n\n7 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (6 -> 7): 262179791, tres compras no Pix em 17/10 — IspinMaster R$ 37, IspinMaster Pro R$ 67 e 'Protocolo Ghost' R$ 147 — vendidas por video que 'simula uma roleta facinho'. A escada fica visivel: R$ 251 por comprador.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n9 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (8 -> 9): 262354923, SpinMaster R$ 37,99 + SpinMaster PRO R$ 67,99 = R$ 105,98, reembolso nao atendido e 'tentativa de desvio para links externos'.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID 262354923)\n\n## Rodada 2026-10-26\n\n11 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos (9 -> 11) na Kirvano: 262610059 (reembolso pedido 18/10) e 262508759 (reembolso aprovado 15/10 e nao pago).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 262610059, 262508759)\n",
  "observacoes": [
   {
    "data": "2026-10-14",
@@ -120,9 +120,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "9 mencao(oes) na varredura de hoje. 1 ID novo (8 -> 9): 262354923, SpinMaster R$ 37,99 + SpinMaster PRO R$ 67,99 = R$ 105,98, reembolso nao atendido e 'tentativa de desvio para links externos'."
+  },
+  {
+   "data": "2026-10-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 11,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "11 mencao(oes) na varredura de hoje. 2 IDs novos (9 -> 11) na Kirvano: 262610059 (reembolso pedido 18/10) e 262508759 (reembolso aprovado 15/10 e nao pago)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-26 -- 1655.md",
+   "data": "2026-10-26",
+   "titulo": "Passada 2026-10-26 16:55"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-23 -- 1600.md",

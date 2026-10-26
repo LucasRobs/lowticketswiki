@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-20
-visto_ultimo: 2026-10-20
-rodadas_vista: 1
+visto_ultimo: 2026-10-26
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/ecossistema-low-ticket-nathan-kurnick"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-26
+
+4 mencao(oes) nesta varredura (gateway Payt). Retorno com 1 ID (3 -> 4): 262565267 (Payt, cancelamento e reembolso integral de R$ 297 do 'Ecossistema Low Ticket, de Nathan').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262565267)

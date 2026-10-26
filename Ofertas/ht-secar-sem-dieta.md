@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-19
-visto_ultimo: 2026-10-19
-rodadas_vista: 1
+visto_ultimo: 2026-10-26
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/ht-secar-sem-dieta"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-26
+
+4 mencao(oes) nesta varredura (gateway Hotmart). Retorno com 1 ID (3 -> 4): 262513169 (Hotmart, renovacao automatica da assinatura sem autorizacao).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/ (ID 262513169)

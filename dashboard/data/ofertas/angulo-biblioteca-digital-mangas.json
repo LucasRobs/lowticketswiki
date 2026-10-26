@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-17",
-  "visto_ultimo": "2026-10-20",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-26",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "cakto"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-20",
+  "ra_checado": "2026-10-26",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -70,7 +70,7 @@
    "cakto"
   ]
  },
- "corpo": "# Biblioteca Digital (mangas)\n\n## Angulo\nProduto digital vendido como catalogo/'Biblioteca Digital' de mangas; comprador diz que o conteudo nao veio no formato anunciado (MOBI/EPUB). Produtor/vendedor nao identificado no relato, so o nome do site e a Cakto como gateway.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-17 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/comprei-mangas-que-nao-vieram-em-mobiepub-como-anunciado_3wvdlv2SHEprZOeh/\n\n## Historico\n\n## Rodada 2026-10-20\n\n3 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto: 262113587 (Biblioteca Digital, R$ 37,90 no Pix, para ler mangas e outras historias pela internet, acesso nao chegou). Soma com as 2 mencoes da fila de 19/10 (Cakto, IDs nao registrados): 3. Primeiro preco e primeiro gateway desta nota.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n",
+ "corpo": "# Biblioteca Digital (mangas)\n\n## Angulo\nProduto digital vendido como catalogo/'Biblioteca Digital' de mangas; comprador diz que o conteudo nao veio no formato anunciado (MOBI/EPUB). Produtor/vendedor nao identificado no relato, so o nome do site e a Cakto como gateway.\n\n## Funil\nanuncio -> pagina -> checkout (nao mapeado) -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-17 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/comprei-mangas-que-nao-vieram-em-mobiepub-como-anunciado_3wvdlv2SHEprZOeh/\n\n## Historico\n\n## Rodada 2026-10-20\n\n3 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto: 262113587 (Biblioteca Digital, R$ 37,90 no Pix, para ler mangas e outras historias pela internet, acesso nao chegou). Soma com as 2 mencoes da fila de 19/10 (Cakto, IDs nao registrados): 3. Primeiro preco e primeiro gateway desta nota.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/\n\n## Rodada 2026-10-26\n\n4 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (3 -> 4): 262566211 (Cakto, 'pacote de HQs e mangas na biblioteca digital', reembolso sem resposta). Outro ID da Cakto (262472579, 'biblioteca digital tm') nao cita mangas e ficou fora.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262566211)\n",
  "observacoes": [
   {
    "data": "2026-10-17",
@@ -95,9 +95,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "3 mencao(oes) na varredura de hoje. 1 ID novo na Cakto: 262113587 (Biblioteca Digital, R$ 37,90 no Pix, para ler mangas e outras historias pela internet, acesso nao chegou). Soma com as 2 mencoes da fila de 19/10 (Cakto, IDs nao registrados): 3. Primeiro preco e primeiro gateway desta nota."
+  },
+  {
+   "data": "2026-10-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. Retorno com 1 ID (3 -> 4): 262566211 (Cakto, 'pacote de HQs e mangas na biblioteca digital', reembolso sem resposta). Outro ID da Cakto (262472579, 'biblioteca digital tm') nao cita mangas e ficou fora."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-26 -- 1655.md",
+   "data": "2026-10-26",
+   "titulo": "Passada 2026-10-26 16:55"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",

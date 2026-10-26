@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-23
-rodadas_vista: 7
+visto_ultimo: 2026-10-26
+rodadas_vista: 8
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 46
+ra_reclamacoes: 58
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -129,3 +129,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 46 mencao(oes) nesta varredura (gateway Payt). 11 IDs novos entre 21/10 16h e 23/10 16h (35 -> 46): 262441225, 262439191, 262438373, 262419457 (comprado em live no TikTok), 262369743 (R$ 297 no Pix em 21/10), 262361165, 262339837, 262334469, 262311037 ('Short Shop Miner', comprado 22/10 09h45), 262310243, 262299849 (vendido por influenciadora). Quase todas: nao gera os videos prometidos e o estorno nao sai. Canal de venda continua sendo live e influenciador.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262441225 ... 262299849)
+
+## Rodada 2026-10-26
+
+58 mencao(oes) nesta varredura (gateway Payt). 12 IDs novos entre 23/10 16h e 26/10 16h50 (46 -> 58), todos na Payt: 262614303, 262596929 ('Shop Mimer'), 262590077, 262581891, 262578409 (R$ 297 Pix, compra 19/10), 262574281, 262562787 (comprado para vender como afiliada), 262500927, 262492807 (R$ 297 Pix), 262475877, 262474605, 262451265. Mesma queixa: o app de videos com IA nao entrega e o estorno nao sai; o vendedor manda pedir o reembolso na Payt (262614303).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262614303 ... 262451265)

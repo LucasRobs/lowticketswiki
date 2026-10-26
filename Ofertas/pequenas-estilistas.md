@@ -24,10 +24,10 @@ s_ticket: 3
 s_lucro: 3
 s_replica: 9
 s_saturacao: 7
-status: nova
+status: ativa
 visto_primeiro: 2026-08-31
-visto_ultimo: 2026-08-31
-rodadas_vista: 1
+visto_ultimo: 2026-10-26
+rodadas_vista: 2
 dias_no_ar: 19
 criativos_ultima: 2
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/pequenas-estilistas"
 gateways_detectados: [hotmart]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 0
-ra_plataformas: []
+ra_reclamacoes: 1
+ra_plataformas: [hotmart]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-31
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, imprimivel]
@@ -96,3 +96,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-26
+
+1 mencao(oes) nesta varredura (gateway Hotmart). Primeira reclamacao (0 -> 1), nota vista so em 31/08: 262511041 (Hotmart, moldes de Pequenas Estilistas que nao entregaram o prometido).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/hotmart/lista-reclamacoes/ (ID 262511041)

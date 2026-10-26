@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-19
-visto_ultimo: 2026-10-21
-rodadas_vista: 2
+visto_ultimo: 2026-10-26
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-da-fera"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (3 -> 4): 262181773 (compra 14/10, nao atendeu).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-10-26
+
+5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262599559 (Payt, cancelamento de 'Treino da Fera' e 'Acesso Vitalicio', dois produtos na mesma compra).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262599559)

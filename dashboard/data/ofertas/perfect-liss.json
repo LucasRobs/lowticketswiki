@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-17",
-  "visto_ultimo": "2026-10-18",
-  "rodadas_vista": 2,
+  "visto_ultimo": "2026-10-26",
+  "rodadas_vista": 3,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "monetizze"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-18",
+  "ra_checado": "2026-10-26",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "monetizze"
   ]
  },
- "corpo": "# Perfect Liss\n\n## Angulo\nNome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze aparece como reclamada (plataforma ou vendedora, nao esclarecido).\n\n## Funil\nanuncio -> pagina -> checkout monetizze -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-17 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/\n\n## Historico\n\n## Rodada 2026-10-18\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Progressiva capilar fisica paga via Pix, nao entregue. Mesma reclamacao de 17/10 (evidencia identica), agora confirmada em segundo dia distinto -- sobe de nova para morna. Mesma ressalva do travamento de pagina 1 citada no Lift Gold.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/\n",
+ "corpo": "# Perfect Liss\n\n## Angulo\nNome novo nesta passada. Progressiva capilar fisica comprada via Pix em 22/09, nao recebida. Vendedor nao identificado no texto, Monetizze aparece como reclamada (plataforma ou vendedora, nao esclarecido).\n\n## Funil\nanuncio -> pagina -> checkout monetizze -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-17 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/\n\n## Historico\n\n## Rodada 2026-10-18\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Progressiva capilar fisica paga via Pix, nao entregue. Mesma reclamacao de 17/10 (evidencia identica), agora confirmada em segundo dia distinto -- sobe de nova para morna. Mesma ressalva do travamento de pagina 1 citada no Lift Gold.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-minha-progressiva-perfect-liss-comprada-em-220926_E_EgP2GV8c9U4m8b/\n\n## Rodada 2026-10-26\n\n2 mencao(oes) nesta varredura (gateway Monetizze). Retorno com 1 ID (1 -> 2): 262474511 (Monetizze, progressiva comprada em 22/09 via Pix e nao entregue). Produto fisico.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/monetizze/lista-reclamacoes/ (ID 262474511)\n",
  "observacoes": [
   {
    "data": "2026-10-17",
@@ -96,9 +96,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Progressiva capilar fisica paga via Pix, nao entregue. Mesma reclamacao de 17/10 (evidencia identica), agora confirmada em segundo dia distinto -- sobe de nova para morna. Mesma ressalva do travamento de pagina 1 citada no Lift Gold."
+  },
+  {
+   "data": "2026-10-26",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. Retorno com 1 ID (1 -> 2): 262474511 (Monetizze, progressiva comprada em 22/09 via Pix e nao entregue). Produto fisico."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-26.md",
+   "data": "2026-10-26",
+   "titulo": "Radar 2026-10-26"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-18 -- 0015.md",

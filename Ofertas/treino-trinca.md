@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-23
-rodadas_vista: 13
+visto_ultimo: 2026-10-26
+rodadas_vista: 14
 dias_no_ar: 60
 criativos_ultima: 140
 criativos_delta: -40
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 121
+ra_reclamacoes: 125
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -194,3 +194,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 121 mencao(oes) nesta varredura (gateway Lastlink). So 4 IDs novos em ~48h (117 -> 121): 262420245 (protocolo do programa Trinca, sem estorno), 262330105 (anuncio no Instagram, R$ 37 com garantia), 262309787 (R$ 37 pago 20/10 18h14, reembolso sem resposta) e 262309837 (treino 'que se refere a Pedro Lotz', compra 18/10, sem citar o nome Trinca). Em 21/10 foram 17 num dia. Biblioteca 'treino trinca' as 16h de 23/10: ~140 resultados, iguais a 21/10, 26 de 28 carregados de Pedro Lotz, mais antigo 22/08, mais novo 21/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262420245, 262330105, 262309837, 262309787)
+
+## Rodada 2026-10-26
+
+125 mencao(oes) nesta varredura (gateway Lastlink). 4 IDs novos em ~72h (121 -> 125), todos na Lastlink: 262631411, 262628007 (Treino Trinca + suplementos de vitaminas por R$ 997, pago em 06/10, vitaminas nao entregues), 262592291, 262576301 (Comunidade Trinca Elite). Biblioteca em 26/10: ~84 resultados para 'treino trinca' (eram ~140 em 21 e 23/10), 23 dos 27 carregados de Pedro Lotz, o mais novo de 23/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262631411, 262628007, 262592291, 262576301)

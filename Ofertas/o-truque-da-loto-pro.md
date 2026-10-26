@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-23
-rodadas_vista: 5
+visto_ultimo: 2026-10-26
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-ven
 9 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos (7 -> 9): 262368523 (segunda cobranca no cartao que o titular diz nao ter feito, 'Produto: O Truque da Loto') e 262265883 (app nao recebido, 'dizia que tinha que efetuar' mais um pagamento).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262368523, 262265883)
+
+## Rodada 2026-10-26
+
+10 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (9 -> 10): 262552743 (Payt, Pix de R$ 149 para acesso e logo outro pagamento gerado).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262552743)

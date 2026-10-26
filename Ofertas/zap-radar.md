@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-23
-rodadas_vista: 24
+visto_ultimo: 2026-10-26
+rodadas_vista: 25
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 85
+ra_reclamacoes: 86
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-26
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -245,3 +245,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
 85 mencao(oes) nesta varredura (gateway PerfectPay). 7 IDs novos (78 -> 85). PerfectPay: 262378123 (R$ 137 e depois 4 Pix pedindo mais credito), 262378109 (3 produtos da zapRadar vendidos na 'Perfect Academy'), 262285979 (R$ 137, reembolso sem resposta), 262291385 ('Whats Spy', 12x R$ 13,76 + R$ 58,90 no Pix). Payt: 262403549 (relatorio de R$ 137 comprado 06/10), 262389623, 262254451. Fora da conta: 262305999 (Payt, 5 Pix de R$ 137/147/127/97/77 = R$ 585 sem nome) e 262289297 (rastreador de WhatsApp de ~R$ 70 sem nome).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (IDs 262378123, 262378109, 262285979, 262291385)
+
+## Rodada 2026-10-26
+
+86 mencao(oes) nesta varredura (gateway Payt). 1 ID novo em ~72h (85 -> 86): 262563773 (Payt, conteudo nao liberado). Era ~3,5 por dia ate 23/10. Ha varias reclamacoes de escada de Pix sem nome na PerfectPay que podem ser dela e ficaram fora.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262563773)
