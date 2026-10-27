@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-27.md",
+   "data": "2026-10-27",
+   "titulo": "Radar 2026-10-27",
+   "ofertas_vistas": 21,
+   "novas": 2,
+   "retornaram": 4,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-27\n\n## Novas\n\n- [[velix]] — ferramentas-ecommerce — R$ 296 a R$ 478,32 — Ferramenta/assinatura que promete ajudar a vender produtos digitais e em marketplace (Mercado Livre/Shopee), vendida pelo TikTok de 'Julio…\n- [[metodo-mini-experts-suelen-mello]] — a-identificar — R$ 287 (6x R$ 52,96) — Metodo vendido por Suelen Mello com anuncio em video; depois da compra o aluno descobre que precisa comprar creditos na plataforma 'Sabia'…\n\n## Movimento\n\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 33\n- [[shopminer]] — ra_reclamacoes atualizado para 62\n- [[app-direct-line]] — ra_reclamacoes atualizado para 42\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 33\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 87\n- [[treino-trinca]] — ra_reclamacoes atualizado para 126\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 54\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 17\n- [[o-truque-da-loto-pro]] — ra_reclamacoes atualizado para 11\n- [[cao360]] — ra_reclamacoes atualizado para 11\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 6\n- [[angulo-desafio-bumbum-africano-28-dias]] — ra_reclamacoes atualizado para 6\n- [[bicarbonapp]] — ra_reclamacoes atualizado para 5\n- [[operax]] — ra_reclamacoes atualizado para 3\n\n## Retornaram\n\n- [[mentoria-nova-profissao-gustavo-castro]] — mentoria-comunidade — reapareceu (4 mencao(oes))\n- [[beto-ia]] — ferramentas-ia — reapareceu (3 mencao(oes))\n- [[luke-zap]] — ferramentas-ia — reapareceu (2 mencao(oes))\n- [[lift-gold]] — saude-fitness — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~24h (desde 26/10 16h55) pela API do RA: 270 reclamacoes lidas em 11 gateways, 191 com ID acima do maior da rodada anterior. Duas estreias com 3 IDs cada: Velix (PerfectPay, ferramenta de venda divulgada no TikTok, R$ 296 a R$ 478) e o Metodo Mini Experts de Suelen Mello (Payt, R$ 287 com creditos do 'Sabia' cobrados depois). TokScale (+5) e ShopMiner (+4) seguem como os unicos com ritmo; Trinca e Zap Radar tiveram 1 ID cada. A Calistenia Asiatica tem ~680 anuncios de varios operadores e fica como angulo.\n\n## Passadas do dia\n- [[2026-10-27 -- 1608]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 21 achado(s) - rodada diaria — API do RA, 11 gateways desde 26/10 16h55; 2 estreias (Velix, Mini Experts), 4 retornos; Biblioteca para calistenia asiatica\n"
+  },
+  {
    "arquivo": "Radar/2026-10-26.md",
    "data": "2026-10-26",
    "titulo": "Radar 2026-10-26",
@@ -897,6 +922,49 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",
+   "data": "2026-10-27",
+   "hora": "16:08",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 43,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-desafio-bumbum-africano-28-dias",
+    "angulo-treino-de-calistenia",
+    "app-direct-line",
+    "app-do-paizao",
+    "beto-ia",
+    "bicarbonapp",
+    "cao360",
+    "lift-gold",
+    "luke-zap",
+    "mentoria-nova-profissao-gustavo-castro",
+    "o-truque-da-loto-pro",
+    "operax",
+    "receitas-sem-pensar",
+    "shopminer",
+    "stalkeia-ai",
+    "tokscale-ia",
+    "treino-da-fera",
+    "treino-trinca",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-27]].\n\n# Rodada — 27/10/2026 · 16:08 Fortaleza\n\n**Gateways:** kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · **Páginas:** 43 · **Coleta:** ok · **Achados:** 21\n\n## Quentes\n- [[tokscale-ia]] — Payt · 5 IDs novos em ~24h (28 -> 33), assinatura anual de R$ 297\n- [[shopminer]] — Payt · 4 IDs novos (58 -> 62), Waypoint Group, influenciadora\n\n## Mornas\n- Estreias: Velix (PerfectPay, 3 IDs, R$ 296-478, TikTok) e Metodo Mini Experts de Suelen Mello (Payt, 3 IDs, R$ 287 + creditos no 'Sabia')\n- [[angulo-treino-de-calistenia]] 6 -> 8 (Wiapy e Lastlink); Biblioteca: ~680 anuncios de varios operadores\n- [[app-direct-line]] 40 -> 42, [[app-do-paizao]] 31 -> 33; com 1 ID: [[zap-radar]], [[treino-trinca]], [[stalkeia-ai]], [[receitas-sem-pensar]], [[o-truque-da-loto-pro]], [[cao360]], [[treino-da-fera]], [[angulo-desafio-bumbum-africano-28-dias]], [[bicarbonapp]], [[operax]]\n- Retornos: [[mentoria-nova-profissao-gustavo-castro]], [[beto-ia]], [[luke-zap]], [[lift-gold]]\n\nLeitura: ~24h, 11 gateways, duas estreias com 3 IDs; TokScale e ShopMiner seguem, Trinca e Zap Radar com 1 ID cada.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-26 -- 1655.md",
    "data": "2026-10-26",

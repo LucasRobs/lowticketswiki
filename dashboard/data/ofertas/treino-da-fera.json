@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-19",
-  "visto_ultimo": "2026-10-26",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-27",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 5,
+  "ra_reclamacoes": 6,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-26",
+  "ra_checado": "2026-10-27",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "payt"
   ]
  },
- "corpo": "# Treino da Fera\n\n## Angulo\nTreino de academia no Pix pela Payt. 1 ID nesta rodada (261948897, R$ 67 em 18/10) + 2 em 11-14/10 (na fila, R$ 100 com 'Fera de Elite'). Mesma escada do Treino Trinca: frente de treino barata e um nivel 'elite' logo depois.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-19 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-cancelar-minha-compra-do-treino-da-fera-e-ser-reembolsado_beHtLBmXOlpPw0An/\n\n## Historico\n\n## Rodada 2026-10-21\n\n4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (3 -> 4): 262181773 (compra 14/10, nao atendeu).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-26\n\n5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262599559 (Payt, cancelamento de 'Treino da Fera' e 'Acesso Vitalicio', dois produtos na mesma compra).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262599559)\n",
+ "corpo": "# Treino da Fera\n\n## Angulo\nTreino de academia no Pix pela Payt. 1 ID nesta rodada (261948897, R$ 67 em 18/10) + 2 em 11-14/10 (na fila, R$ 100 com 'Fera de Elite'). Mesma escada do Treino Trinca: frente de treino barata e um nivel 'elite' logo depois.\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-19 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/payt/quero-cancelar-minha-compra-do-treino-da-fera-e-ser-reembolsado_beHtLBmXOlpPw0An/\n\n## Historico\n\n## Rodada 2026-10-21\n\n4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (3 -> 4): 262181773 (compra 14/10, nao atendeu).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-26\n\n5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262599559 (Payt, cancelamento de 'Treino da Fera' e 'Acesso Vitalicio', dois produtos na mesma compra).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262599559)\n\n## Rodada 2026-10-27\n\n6 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (5 -> 6): 262683101 (Payt, R$ 67 no Pix em 26/10, nao recebido).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262683101)\n",
  "observacoes": [
   {
    "data": "2026-10-19",
@@ -108,9 +108,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "5 mencao(oes) na varredura de hoje. 1 ID novo (4 -> 5): 262599559 (Payt, cancelamento de 'Treino da Fera' e 'Acesso Vitalicio', dois produtos na mesma compra)."
+  },
+  {
+   "data": "2026-10-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 6,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 67,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "6 mencao(oes) na varredura de hoje. 1 ID novo (5 -> 6): 262683101 (Payt, R$ 67 no Pix em 26/10, nao recebido)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",
+   "data": "2026-10-27",
+   "titulo": "Passada 2026-10-27 16:08"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-27.md",
+   "data": "2026-10-27",
+   "titulo": "Radar 2026-10-27"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-26.md",

@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-21
-rodadas_vista: 3
+visto_ultimo: 2026-10-27
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/mentoria-nova-profissao-gustavo-castro"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-minha-m
 2 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (1 -> 2): 262152929 (mentoria nao entregue, sem suporte, cancelamento dificil). Primeira aparicao desde 06/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-10-27
+
+4 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (3 -> 4): 262657429 (Cakto, links do curso fora do ar, sem suporte e 'sem o iPhone prometido').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262657429)

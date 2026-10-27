@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-09-27
-rodadas_vista: 1
+visto_ultimo: 2026-10-27
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/luke-zap"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 2
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-09-27
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-27
+
+2 mencao(oes) nesta varredura (gateway Ticto). Retorno com 1 ID (1 -> 2), sumida desde 27/09: 262731315 (Ticto, aplicativo sem canal de cancelamento dentro do prazo).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 262731315)

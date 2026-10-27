@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-26
-rodadas_vista: 2
+visto_ultimo: 2026-10-27
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/operax"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-27
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ domínio, ou o nome do criativo difere do nome que o comprador registrou na recl
 2 mencao(oes) nesta varredura (gateway Payt). Retorno com 1 ID (1 -> 2), sem aparecer desde 16/08 e agora na Payt (era Kirvano): 262540155 (duas compras do produto operax de R$ 47 e R$ 29 em menos de 24h).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262540155)
+
+## Rodada 2026-10-27
+
+3 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (2 -> 3): 262652809 (Payt, R$ 47 no Pix em 26/10).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262652809)

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-23
-rodadas_vista: 6
+visto_ultimo: 2026-10-27
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/receitas-sem-pensar"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 16
+ra_reclamacoes: 17
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -117,3 +117,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 16 mencao(oes) nesta varredura (gateway Payt). 6 IDs novos (10 -> 16): 262425663 (Marmitas Pro R$ 297 + app R$ 97, compra 22/10), 262401093, 262323819 (app + Marmitas Pro no cartao, 22/10), 262303977 (compra 19/10), 262269715, 262263925. A maioria levou os dois produtos, o que sustenta o ticket_medio_est de 140 como conservador.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262425663 ... 262263925)
+
+## Rodada 2026-10-27
+
+17 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (16 -> 17): 262728371 (Payt, app + modulo de marmitas fit, sem opcao de reembolso).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262728371)

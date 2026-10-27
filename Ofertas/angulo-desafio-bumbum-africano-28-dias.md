@@ -26,8 +26,8 @@ s_replica: 7
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-10-21
-visto_ultimo: 2026-10-26
-rodadas_vista: 3
+visto_ultimo: 2026-10-27
+rodadas_vista: 4
 dias_no_ar: 29
 criativos_ultima: 110
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/angulo-desafio-bumbum-africano-28-dias"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -99,3 +99,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID
 5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262595425 (Payt, 'compra bumbum africano', pedido de reembolso). Segundo gateway do angulo, depois da Kirvano.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262595425)
+
+## Rodada 2026-10-27
+
+6 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (5 -> 6): 262662257 (Kirvano, comprado por video no Instagram, perdeu o acesso). Terceiro gateway do angulo.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 262662257)

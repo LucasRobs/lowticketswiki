@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-26
-rodadas_vista: 6
+visto_ultimo: 2026-10-27
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 11
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 2
 10 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (9 -> 10): 262552743 (Payt, Pix de R$ 149 para acesso e logo outro pagamento gerado).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262552743)
+
+## Rodada 2026-10-27
+
+11 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (10 -> 11): 262701293 (Payt, aplicativo nao entregue).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262701293)

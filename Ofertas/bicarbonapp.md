@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-20
-visto_ultimo: 2026-10-23
-rodadas_vista: 2
+visto_ultimo: 2026-10-27
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/bicarbonapp"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (3 -> 4): 262422749, pacotes BicarbonApp + 'Cola Egipcia', app 'amador' que nao libera o conteudo.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262422749)
+
+## Rodada 2026-10-27
+
+5 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (4 -> 5): 262639857 (Payt, comprado 25/10, sem opcao de reembolso no app).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262639857)
