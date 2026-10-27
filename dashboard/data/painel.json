@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 382,
   "angulos": 100,
-  "observacoes": 1084,
+  "observacoes": 1085,
   "dias_radar": 46,
-  "passadas": 126,
+  "passadas": 127,
   "analises": 12,
   "ultima_rodada": "2026-10-27"
  },
@@ -7709,21 +7709,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
-   "visto_ultimo": "2026-10-23",
-   "rodadas_vista": 7,
+   "visto_ultimo": "2026-10-27",
+   "rodadas_vista": 8,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 6,
+   "ra_reclamacoes": 7,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-23",
+   "ra_checado": "2026-10-27",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Bike%20in%20Casa%20assinatura&search_type=keyword_unordered&media_type=all",
-   "n_obs": 8,
-   "ultima_obs": "2026-10-23",
-   "n_citacoes": 13,
+   "n_obs": 9,
+   "ultima_obs": "2026-10-27",
+   "n_citacoes": 15,
    "resumo": "Primeira aparicao. Assinatura de treino/bike em casa, cancelamento solicitado sem retorno.",
    "flags": [
     "score-provisorio",
@@ -26607,7 +26607,7 @@
    "arquivo": "Radar/2026-10-27.md",
    "data": "2026-10-27",
    "titulo": "Radar 2026-10-27",
-   "ofertas_vistas": 21,
+   "ofertas_vistas": 22,
    "novas": 2,
    "retornaram": 4,
    "sumiram": 0,
@@ -26625,7 +26625,7 @@
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
+   "n_passadas": 2,
    "leitura": "Rodada de ~24h (desde 26/10 16h55) pela API do RA: 270 reclamacoes lidas em 11 gateways, 191 com ID acima do maior da rodada anterior. Duas estreias com 3 IDs cada: Velix (PerfectPay, ferramenta de venda divulgada no TikTok, R$ 296 a R$ 478) e o Metodo Mini Experts de Suelen Mello (Payt, R$ 287 com creditos do 'Sabia' cobrados depois). TokScale (+5) e ShopMiner (+4) seguem como os unicos com ritmo; Trinca e Zap…"
   },
   {
@@ -27524,6 +27524,21 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-27 -- 1613.md",
+   "data": "2026-10-27",
+   "hora": "16:13",
+   "gateways": [
+    "ticto"
+   ],
+   "paginas": 0,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "bike-in-casa"
+   ],
+   "resumo": "Gateways: ticto · Páginas: 0 · Coleta: ok · Achados: 1 ## Mornas bike-in-casa — Ticto · 1 ID novo (6 -> 7), plano anual Leitura: complemento da passada das 16h08, sem coleta nova; corrige um avistamento que o casamento manual deixou passar."
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",
    "data": "2026-10-27",
@@ -30656,7 +30671,7 @@
    "2026-10-21": 21,
    "2026-10-23": 28,
    "2026-10-26": 32,
-   "2026-10-27": 21
+   "2026-10-27": 22
   }
  },
  "analises": [
@@ -30998,7 +31013,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1566
+   "canonico": 1567
   }
  },
  "vocabulario": {
@@ -31047,28 +31062,18 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "ab5cb00df0d796f1",
-  "atualizado_em": "2026-10-27T16:10:34-03:00",
+  "hash": "ab974b4225e96216",
+  "atualizado_em": "2026-10-27T16:14:02-03:00",
   "ofertas": 382,
   "angulos": 100,
-  "observacoes": 1084,
+  "observacoes": 1085,
   "ultima_rodada": "2026-10-27",
   "ultima_passada": {
    "data": "2026-10-27",
-   "hora": "16:08",
+   "hora": "16:13",
    "coleta": "ok",
    "gateways": [
-    "kiwify",
-    "ticto",
-    "lastlink",
-    "kirvano",
-    "perfectpay",
-    "cakto",
-    "wiapy",
-    "payt",
-    "hotmart",
-    "eduzz",
-    "monetizze"
+    "ticto"
    ]
   }
  }

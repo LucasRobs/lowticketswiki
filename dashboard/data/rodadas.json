@@ -5,7 +5,7 @@
    "arquivo": "Radar/2026-10-27.md",
    "data": "2026-10-27",
    "titulo": "Radar 2026-10-27",
-   "ofertas_vistas": 21,
+   "ofertas_vistas": 22,
    "novas": 2,
    "retornaram": 4,
    "sumiram": 0,
@@ -23,8 +23,8 @@
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "corpo": "# Radar 2026-10-27\n\n## Novas\n\n- [[velix]] — ferramentas-ecommerce — R$ 296 a R$ 478,32 — Ferramenta/assinatura que promete ajudar a vender produtos digitais e em marketplace (Mercado Livre/Shopee), vendida pelo TikTok de 'Julio…\n- [[metodo-mini-experts-suelen-mello]] — a-identificar — R$ 287 (6x R$ 52,96) — Metodo vendido por Suelen Mello com anuncio em video; depois da compra o aluno descobre que precisa comprar creditos na plataforma 'Sabia'…\n\n## Movimento\n\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 33\n- [[shopminer]] — ra_reclamacoes atualizado para 62\n- [[app-direct-line]] — ra_reclamacoes atualizado para 42\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 33\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 87\n- [[treino-trinca]] — ra_reclamacoes atualizado para 126\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 54\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 17\n- [[o-truque-da-loto-pro]] — ra_reclamacoes atualizado para 11\n- [[cao360]] — ra_reclamacoes atualizado para 11\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 6\n- [[angulo-desafio-bumbum-africano-28-dias]] — ra_reclamacoes atualizado para 6\n- [[bicarbonapp]] — ra_reclamacoes atualizado para 5\n- [[operax]] — ra_reclamacoes atualizado para 3\n\n## Retornaram\n\n- [[mentoria-nova-profissao-gustavo-castro]] — mentoria-comunidade — reapareceu (4 mencao(oes))\n- [[beto-ia]] — ferramentas-ia — reapareceu (3 mencao(oes))\n- [[luke-zap]] — ferramentas-ia — reapareceu (2 mencao(oes))\n- [[lift-gold]] — saude-fitness — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~24h (desde 26/10 16h55) pela API do RA: 270 reclamacoes lidas em 11 gateways, 191 com ID acima do maior da rodada anterior. Duas estreias com 3 IDs cada: Velix (PerfectPay, ferramenta de venda divulgada no TikTok, R$ 296 a R$ 478) e o Metodo Mini Experts de Suelen Mello (Payt, R$ 287 com creditos do 'Sabia' cobrados depois). TokScale (+5) e ShopMiner (+4) seguem como os unicos com ritmo; Trinca e Zap Radar tiveram 1 ID cada. A Calistenia Asiatica tem ~680 anuncios de varios operadores e fica como angulo.\n\n## Passadas do dia\n- [[2026-10-27 -- 1608]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 21 achado(s) - rodada diaria — API do RA, 11 gateways desde 26/10 16h55; 2 estreias (Velix, Mini Experts), 4 retornos; Biblioteca para calistenia asiatica\n"
+   "n_passadas": 2,
+   "corpo": "# Radar 2026-10-27\n\n## Novas\n\n- [[velix]] — ferramentas-ecommerce — R$ 296 a R$ 478,32 — Ferramenta/assinatura que promete ajudar a vender produtos digitais e em marketplace (Mercado Livre/Shopee), vendida pelo TikTok de 'Julio…\n- [[metodo-mini-experts-suelen-mello]] — a-identificar — R$ 287 (6x R$ 52,96) — Metodo vendido por Suelen Mello com anuncio em video; depois da compra o aluno descobre que precisa comprar creditos na plataforma 'Sabia'…\n\n## Movimento\n\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 33\n- [[shopminer]] — ra_reclamacoes atualizado para 62\n- [[app-direct-line]] — ra_reclamacoes atualizado para 42\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 33\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 8\n- [[zap-radar]] — ra_reclamacoes atualizado para 87\n- [[treino-trinca]] — ra_reclamacoes atualizado para 126\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 54\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 17\n- [[o-truque-da-loto-pro]] — ra_reclamacoes atualizado para 11\n- [[cao360]] — ra_reclamacoes atualizado para 11\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 6\n- [[angulo-desafio-bumbum-africano-28-dias]] — ra_reclamacoes atualizado para 6\n- [[bicarbonapp]] — ra_reclamacoes atualizado para 5\n- [[operax]] — ra_reclamacoes atualizado para 3\n- [[bike-in-casa]] — ra_reclamacoes atualizado para 7\n\n## Retornaram\n\n- [[mentoria-nova-profissao-gustavo-castro]] — mentoria-comunidade — reapareceu (4 mencao(oes))\n- [[beto-ia]] — ferramentas-ia — reapareceu (3 mencao(oes))\n- [[luke-zap]] — ferramentas-ia — reapareceu (2 mencao(oes))\n- [[lift-gold]] — saude-fitness — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~24h (desde 26/10 16h55) pela API do RA: 270 reclamacoes lidas em 11 gateways, 191 com ID acima do maior da rodada anterior. Duas estreias com 3 IDs cada: Velix (PerfectPay, ferramenta de venda divulgada no TikTok, R$ 296 a R$ 478) e o Metodo Mini Experts de Suelen Mello (Payt, R$ 287 com creditos do 'Sabia' cobrados depois). TokScale (+5) e ShopMiner (+4) seguem como os unicos com ritmo; Trinca e Zap Radar tiveram 1 ID cada. A Calistenia Asiatica tem ~680 anuncios de varios operadores e fica como angulo.\n\n## Passadas do dia\n- [[2026-10-27 -- 1608]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 21 achado(s) - rodada diaria — API do RA, 11 gateways desde 26/10 16h55; 2 estreias (Velix, Mini Experts), 4 retornos; Biblioteca para calistenia asiatica\n- [[2026-10-27 -- 1613]] - ticto - 1 achado(s) - complemento da passada das 16h08: +1 avistamento (Bike in Casa) achado no casamento automatico de nomes\n"
   },
   {
    "arquivo": "Radar/2026-10-26.md",
@@ -922,6 +922,21 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-27 -- 1613.md",
+   "data": "2026-10-27",
+   "hora": "16:13",
+   "gateways": [
+    "ticto"
+   ],
+   "paginas": 0,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "bike-in-casa"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-27]].\n\n# Rodada — 27/10/2026 · 16:13 Fortaleza\n\n**Gateways:** ticto · **Páginas:** 0 · **Coleta:** ok · **Achados:** 1\n\n## Mornas\n- [[bike-in-casa]] — Ticto · 1 ID novo (6 -> 7), plano anual\n\nLeitura: complemento da passada das 16h08, sem coleta nova; corrige um avistamento que o casamento manual deixou passar.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",
    "data": "2026-10-27",

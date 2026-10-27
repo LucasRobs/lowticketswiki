@@ -1,0 +1,8 @@
+{"data_varredura": "2026-10-27",
+ "gateways": [{"nome": "Ticto", "slug": "ticto", "paginas_varridas": 2}],
+ "achados": [
+  {"produto": "Bike in Casa", "tipo": "marca", "gateway": "Ticto", "nicho": "saude-bemestar", "temperatura": "morna", "mencoes": 7, "faixa_preco": "", "termo_busca": "bike in casa", "descricao": "1 ID novo (6 -> 7): 262661169 (Ticto, plano anual, cancelamento pedido dentro dos 30 dias de garantia e reembolso negado). Mesma leitura da passada das 16h08; ficou fora dela no casamento manual de nomes e foi achado pelo casamento automatico.", "evidencia_url": "https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 262661169)"}
+ ],
+ "passada": {"hora": "16:13", "gateways": ["ticto"], "paginas": 0, "coleta": "ok",
+  "relatorio": "## Mornas\n- [[bike-in-casa]] — Ticto · 1 ID novo (6 -> 7), plano anual\n\nLeitura: complemento da passada das 16h08, sem coleta nova; corrige um avistamento que o casamento manual deixou passar.",
+  "resumo": "complemento da passada das 16h08: +1 avistamento (Bike in Casa) achado no casamento automatico de nomes"}}
