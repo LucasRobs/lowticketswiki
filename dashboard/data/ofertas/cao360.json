@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-11",
-  "visto_ultimo": "2026-10-26",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-10-27",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 10,
+  "ra_reclamacoes": 11,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-26",
+  "ra_checado": "2026-10-27",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "payt"
   ]
  },
- "corpo": "# Cão360\n\n## Angulo\nProtocolos/curso para caes ('frequencia canina'), R$ 97 no Pix (261289513). 3 reclamacoes em 08-11/10, em dois gateways: Payt (261364237, 261289513) e Cakto (261161833, dois protocolos sem link entregue).\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (261364237, 261289513) + cakto-pay (261161833)\n\n## Historico\n\n## Rodada 2026-10-19\n\n6 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos (3 -> 6): 261725385 e 261723489 na Payt (um cita 'Cao 360 e Cao Blindado', o segundo produto da escada) e 261954337 na Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n7 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (6 -> 7): 262060613 (comprou em 18/10 apos video do Cao 360, Pix, mais um servico extra no mesmo checkout; protocolos inacessiveis).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n9 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos (7 -> 9): 262439857 (compra 20/10, reembolso exige preencher formulario) e 262282101 (propaganda enganosa).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262439857, 262282101)\n\n## Rodada 2026-10-26\n\n10 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (9 -> 10): 262515649 (Payt, compra nao entregue e sem contato da empresa).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262515649)\n",
+ "corpo": "# Cão360\n\n## Angulo\nProtocolos/curso para caes ('frequencia canina'), R$ 97 no Pix (261289513). 3 reclamacoes em 08-11/10, em dois gateways: Payt (261364237, 261289513) e Cakto (261161833, dois protocolos sem link entregue).\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-11 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (261364237, 261289513) + cakto-pay (261161833)\n\n## Historico\n\n## Rodada 2026-10-19\n\n6 mencao(oes) nesta varredura (gateway Payt). 3 IDs novos (3 -> 6): 261725385 e 261723489 na Payt (um cita 'Cao 360 e Cao Blindado', o segundo produto da escada) e 261954337 na Cakto.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n7 mencao(oes) nesta varredura (gateway Payt). 1 ID novo na Payt (6 -> 7): 262060613 (comprou em 18/10 apos video do Cao 360, Pix, mais um servico extra no mesmo checkout; protocolos inacessiveis).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Rodada 2026-10-23\n\n9 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos (7 -> 9): 262439857 (compra 20/10, reembolso exige preencher formulario) e 262282101 (propaganda enganosa).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262439857, 262282101)\n\n## Rodada 2026-10-26\n\n10 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (9 -> 10): 262515649 (Payt, compra nao entregue e sem contato da empresa).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262515649)\n\n## Rodada 2026-10-27\n\n11 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (10 -> 11): 262633491 (Payt, plano de R$ 97 no Pix em 23/10, cancelado no mesmo dia).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262633491)\n",
  "observacoes": [
   {
    "data": "2026-10-11",
@@ -132,9 +132,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "10 mencao(oes) na varredura de hoje. 1 ID novo (9 -> 10): 262515649 (Payt, compra nao entregue e sem contato da empresa)."
+  },
+  {
+   "data": "2026-10-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 11,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 97,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "11 mencao(oes) na varredura de hoje. 1 ID novo (10 -> 11): 262633491 (Payt, plano de R$ 97 no Pix em 23/10, cancelado no mesmo dia)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",
+   "data": "2026-10-27",
+   "titulo": "Passada 2026-10-27 16:08"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-27.md",
+   "data": "2026-10-27",
+   "titulo": "Radar 2026-10-27"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-26.md",

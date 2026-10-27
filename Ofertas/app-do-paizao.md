@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-26
-rodadas_vista: 14
+visto_ultimo: 2026-10-27
+rodadas_vista: 15
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 31
+ra_reclamacoes: 33
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-26
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -197,3 +197,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID
 31 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (30 -> 31): 262532363 (Kirvano, assinatura sem treino e dieta em 4 dias).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 262532363)
+
+## Rodada 2026-10-27
+
+33 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos (31 -> 33), na Kirvano: 262697853 (app por R$ 49 e cobrancas nao autorizadas ha 11 dias), 262654329 ('app do paizao do personal de tiktok Carlao Silva').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 262697853, 262654329)

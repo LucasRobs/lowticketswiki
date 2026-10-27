@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-23
-rodadas_vista: 7
+visto_ultimo: 2026-10-27
+rodadas_vista: 8
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/bike-in-casa"
 gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 7
 ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -133,3 +133,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 2
 6 mencao(oes) nesta varredura (gateway Ticto). Retorno com 1 ID (5 -> 6): 262276839, assinatura com '30 dias de teste' e sem botao de cancelar.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 262276839)
+
+## Rodada 2026-10-27
+
+7 mencao(oes) nesta varredura (gateway Ticto). 1 ID novo (6 -> 7): 262661169 (Ticto, plano anual, cancelamento pedido dentro dos 30 dias de garantia e reembolso negado). Mesma leitura da passada das 16h08; ficou fora dela no casamento manual de nomes e foi achado pelo casamento automatico.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/ticto/lista-reclamacoes/ (ID 262661169)

@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-26
-rodadas_vista: 14
+visto_ultimo: 2026-10-27
+rodadas_vista: 15
 dias_no_ar: 60
 criativos_ultima: 140
 criativos_delta: -40
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 125
+ra_reclamacoes: 126
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -200,3 +200,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 125 mencao(oes) nesta varredura (gateway Lastlink). 4 IDs novos em ~72h (121 -> 125), todos na Lastlink: 262631411, 262628007 (Treino Trinca + suplementos de vitaminas por R$ 997, pago em 06/10, vitaminas nao entregues), 262592291, 262576301 (Comunidade Trinca Elite). Biblioteca em 26/10: ~84 resultados para 'treino trinca' (eram ~140 em 21 e 23/10), 23 dos 27 carregados de Pedro Lotz, o mais novo de 23/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (IDs 262631411, 262628007, 262592291, 262576301)
+
+## Rodada 2026-10-27
+
+126 mencao(oes) nesta varredura (gateway Lastlink). 1 ID novo (125 -> 126): 262725683 (Lastlink, 'Trinca Force' nao recebido, cancelamento sem solucao).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (ID 262725683)

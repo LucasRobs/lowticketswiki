@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-26
-rodadas_vista: 25
+visto_ultimo: 2026-10-27
+rodadas_vista: 26
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 86
+ra_reclamacoes: 87
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-27
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -251,3 +251,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 86 mencao(oes) nesta varredura (gateway Payt). 1 ID novo em ~72h (85 -> 86): 262563773 (Payt, conteudo nao liberado). Era ~3,5 por dia ate 23/10. Ha varias reclamacoes de escada de Pix sem nome na PerfectPay que podem ser dela e ficaram fora.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262563773)
+
+## Rodada 2026-10-27
+
+87 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (86 -> 87): 262728301 (Payt, R$ 137, 'produto totalmente diferente do anunciado').
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262728301)

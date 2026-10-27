@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-14",
-  "visto_ultimo": "2026-10-18",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-10-27",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 1,
+  "ra_reclamacoes": 2,
   "ra_plataformas": [
    "monetizze"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-18",
+  "ra_checado": "2026-10-27",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "monetizze"
   ]
  },
- "corpo": "# Lift Gold\n\n## Angulo\nNome novo nesta passada (rotativo Monetizze). Provavel suplemento/produto fisico com cobranca recorrente contestada por cliente antiga ('sou cliente antiga e ja paguei'). Vendedor nao identificado.\n\n## Funil\nanuncio -> pagina -> checkout monetizze -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Reaparece na pagina 1 da Monetizze (gateway rotativo, sem varredura desde 14/10). Mesma reclamacao de 14/10 (cliente antiga cobrada de novo), mas agora confirmada em dois dias diferentes -- sobe de fria/nova para morna.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/produto fisico com cobranca recorrente contestada (cliente antiga cobrada de novo). Mesma reclamacao de 14/10 e 15/10, agora confirmada em terceiro dia diferente -- sobe de morna para quente.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Rodada 2026-10-18\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/encapsulado com cobranca recorrente contestada por cliente antiga. Mesma reclamacao (evidencia identica) reaparece na pagina 1 da Monetizze desde 14/10 -- 4o dia distinto registrado, mas o travamento de paginacao do ReclameAqui (pagina 2+ sempre '0 de 0') sugere que a pagina 1 tambem pode estar sem atualizar nesta janela, nao necessariamente nova evidencia organica.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n",
+ "corpo": "# Lift Gold\n\n## Angulo\nNome novo nesta passada (rotativo Monetizze). Provavel suplemento/produto fisico com cobranca recorrente contestada por cliente antiga ('sou cliente antiga e ja paguei'). Vendedor nao identificado.\n\n## Funil\nanuncio -> pagina -> checkout monetizze -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Reaparece na pagina 1 da Monetizze (gateway rotativo, sem varredura desde 14/10). Mesma reclamacao de 14/10 (cliente antiga cobrada de novo), mas agora confirmada em dois dias diferentes -- sobe de fria/nova para morna.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/produto fisico com cobranca recorrente contestada (cliente antiga cobrada de novo). Mesma reclamacao de 14/10 e 15/10, agora confirmada em terceiro dia diferente -- sobe de morna para quente.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Rodada 2026-10-18\n\n1 mencao(oes) nesta varredura (gateway Monetizze). Suplemento/encapsulado com cobranca recorrente contestada por cliente antiga. Mesma reclamacao (evidencia identica) reaparece na pagina 1 da Monetizze desde 14/10 -- 4o dia distinto registrado, mas o travamento de paginacao do ReclameAqui (pagina 2+ sempre '0 de 0') sugere que a pagina 1 tambem pode estar sem atualizar nesta janela, nao necessariamente nova evidencia organica.\n\nEvidencia: https://www.reclameaqui.com.br/monetizze/nao-recebi-meu-lift-gold-sou-cliente-antiga-e-ja-paguei_z8PjSH7-9YgHEUJX/\n\n## Rodada 2026-10-27\n\n2 mencao(oes) nesta varredura (gateway Monetizze). Retorno com 1 ID (1 -> 2): 262713665 (Monetizze, produtos fisicos nao entregues, sem resposta).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/monetizze/lista-reclamacoes/ (ID 262713665)\n",
  "observacoes": [
   {
    "data": "2026-10-14",
@@ -120,9 +120,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "1 mencao(oes) na varredura de hoje. Suplemento/encapsulado com cobranca recorrente contestada por cliente antiga. Mesma reclamacao (evidencia identica) reaparece na pagina 1 da Monetizze desde 14/10 -- 4o dia distinto registrado, mas o travamento de paginacao do ReclameAqui (pagina 2+ sempre '0 de 0') sugere que a pagina 1 tambem pode estar sem atualizar nesta janela, nao necessariamente nova evidencia organica."
+  },
+  {
+   "data": "2026-10-27",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 2,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "2 mencao(oes) na varredura de hoje. Retorno com 1 ID (1 -> 2): 262713665 (Monetizze, produtos fisicos nao entregues, sem resposta)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",
+   "data": "2026-10-27",
+   "titulo": "Passada 2026-10-27 16:08"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-27.md",
+   "data": "2026-10-27",
+   "titulo": "Radar 2026-10-27"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-18 -- 0015.md",
