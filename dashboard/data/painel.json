@@ -2047,7 +2047,7 @@
    "classe": "angulo",
    "nicho": "streaming-e-acesso",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "desconhecido",
@@ -7128,7 +7128,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "lastlink",
@@ -7194,7 +7194,7 @@
     "meta"
    ],
    "modelo": [
-    "direct"
+    "webinar"
    ],
    "formato_entrega": [
     "app"
@@ -7203,35 +7203,33 @@
    "moeda": "BRL",
    "ticket_frente": 297.99,
    "ticket_bump": 0,
-   "ticket_upsell": 0,
+   "ticket_upsell": 997,
    "ticket_medio_est": 647.5,
    "s_ticket": 10,
-   "s_lucro": 3,
-   "s_replica": 0,
+   "s_lucro": 4,
+   "s_replica": 3,
    "s_saturacao": 0,
-   "score": 3.05,
+   "score": 4.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-29",
    "visto_ultimo": "2026-10-29",
    "rodadas_vista": 1,
-   "dias_no_ar": 0,
-   "criativos_ultima": 0,
+   "dias_no_ar": 11,
+   "criativos_ultima": 110,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
    "upsell_oculto": false,
-   "url_pagina": "",
+   "url_pagina": "https://inteligenciajohn.com",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=atmoz&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-10-29",
    "n_citacoes": 1,
    "resumo": "Estreia, 3 IDs na Kirvano em ~24h, tres compradores diferentes: 262837843 (app Atmoz R$ 297,99 no Pix em 28/10; para usar, pedem 'investimento' de R$ 997), 262880843 (tres cobrancas no cartao em 28/10: R$ 366,30 + R$ 369,99 + R$ 858,30, 'o Sr Jhon da…",
    "flags": [
-    "score-provisorio",
-    "sem-longevidade",
-    "sem-lp"
+    "score-provisorio"
    ]
   },
   {
@@ -12993,7 +12991,7 @@
    "classe": "oferta",
    "nicho": "marketing-digital",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -14266,7 +14264,7 @@
    "classe": "oferta",
    "nicho": "entretenimento-infantil",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -16254,7 +16252,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "automacao-robo",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 1,
    "checkout": "cakto",
@@ -17190,7 +17188,7 @@
    "classe": "oferta",
    "nicho": "golpe-loja-fake-instagram",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "payt",
@@ -17245,7 +17243,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -19131,7 +19129,7 @@
    "classe": "oferta",
    "nicho": "marketing-faca-como-eu",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "hotmart",
@@ -19296,7 +19294,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -21840,7 +21838,7 @@
    "classe": "oferta",
    "nicho": "beleza-estetica",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "monetizze",
@@ -21895,7 +21893,7 @@
    "classe": "oferta",
    "nicho": "saude-estetica-fitness",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "lastlink",
@@ -22998,7 +22996,7 @@
    "classe": "oferta",
    "nicho": "emagrecimento",
    "sub_nicho": "",
-   "status": "ativa",
+   "status": "esfriando",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kiwify",
@@ -26054,7 +26052,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ecommerce",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "perfectpay",
@@ -26100,8 +26098,7 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp",
-    "status-vencido"
+    "sem-lp"
    ]
   },
   {
@@ -31141,19 +31138,19 @@
    {
     "campo": "dias_no_ar",
     "rotulo": "Tempo no ar medido",
-    "preenchidas": 63,
+    "preenchidas": 64,
     "total": 386
    },
    {
     "campo": "criativos_ultima",
     "rotulo": "Criativos contados",
-    "preenchidas": 31,
+    "preenchidas": 32,
     "total": 386
    },
    {
     "campo": "url_pagina",
     "rotulo": "Página de vendas",
-    "preenchidas": 70,
+    "preenchidas": 71,
     "total": 386
    },
    {
@@ -31171,7 +31168,7 @@
    {
     "campo": "s_replica",
     "rotulo": "Replicabilidade avaliada",
-    "preenchidas": 114,
+    "preenchidas": 115,
     "total": 386
    },
    {
@@ -31313,7 +31310,6 @@
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
    "tutu-da-ju-assinatura",
-   "velix",
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
@@ -31366,8 +31362,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "83d884d58e0c4f01",
-  "atualizado_em": "2026-10-29T13:56:54-03:00",
+  "hash": "b78b9d474421b512",
+  "atualizado_em": "2026-10-29T13:59:06-03:00",
   "ofertas": 386,
   "angulos": 100,
   "observacoes": 1114,
