@@ -26,8 +26,8 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-27
-rodadas_vista: 15
+visto_ultimo: 2026-10-29
+rodadas_vista: 16
 dias_no_ar: 60
 criativos_ultima: 140
 criativos_delta: -40
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 126
+ra_reclamacoes: 128
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -206,3 +206,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 126 mencao(oes) nesta varredura (gateway Lastlink). 1 ID novo (125 -> 126): 262725683 (Lastlink, 'Trinca Force' nao recebido, cancelamento sem solucao).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (ID 262725683)
+
+## Rodada 2026-10-29
+
+128 mencao(oes) nesta varredura (gateway Lastlink). 2 IDs novos em ~46h (126 -> 128), ambos na Lastlink e ambos de 27/10 a noite: 262764751, 262763683 ('Desafio Treino Trinca - Pedro Lotz', treino nao personalizado). Nenhum em 28-29/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/

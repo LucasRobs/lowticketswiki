@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-27
-rodadas_vista: 26
+visto_ultimo: 2026-10-29
+rodadas_vista: 27
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 87
+ra_reclamacoes: 92
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -257,3 +257,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 87 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (86 -> 87): 262728301 (Payt, R$ 137, 'produto totalmente diferente do anunciado').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262728301)
+
+## Rodada 2026-10-29
+
+92 mencao(oes) nesta varredura (gateway Payt). 5 IDs novos (87 -> 92), todos na Payt: 262888463 (link de instalacao nao funciona), 262873569, 262855461 (R$ 137 no Pix, 'nem o relatorio'), 262785735 (compra 27/10 + duas cobrancas nao autorizadas), 262778703. Voltou a ~2,5 por dia depois de 1 por dia em 26-27/10.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

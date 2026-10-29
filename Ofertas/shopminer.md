@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-27
-rodadas_vista: 9
+visto_ultimo: 2026-10-29
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 62
+ra_reclamacoes: 68
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -141,3 +141,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 2
 62 mencao(oes) nesta varredura (gateway Payt). 4 IDs novos (58 -> 62), todos na Payt: 262717753 (Waypoint Group, 6x R$ 55,72, 08/10; 'jogo de empurra' com reembolso aprovado), 262701441 e 262697741 (texto quase identico, compra 26/10, 'a influenciadora'; contados como um), 262676379 (plano vitalicio), 262641349. O 262626151 (15h57 de 26/10) ficou fora pela regra do ID.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 262717753 ... 262641349)
+
+## Rodada 2026-10-29
+
+68 mencao(oes) nesta varredura (gateway Payt). 6 IDs novos em ~46h (62 -> 68), todos na Payt: 262773773 (Pix de R$ 297, 29/10), 262878595, 262866707, 262845293, 262830961 ('vendedor shopminer'), 262745101 ('nao consigo usar a IA'). Segue em ~3 por dia.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/

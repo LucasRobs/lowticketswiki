@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-29.md",
+   "data": "2026-10-29",
+   "titulo": "Radar 2026-10-29",
+   "ofertas_vistas": 29,
+   "novas": 4,
+   "retornaram": 5,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-29\n\n## Novas\n\n- [[atmoz]] — ganhar-dinheiro — R$ 297,99 (app) + R$ 997 ('investimento') — Estreia, 3 IDs na Kirvano em ~24h, tres compradores diferentes: 262837843 (app Atmoz R$ 297,99 no Pix em 28/10; para usar, pedem…\n- [[green-stalker]] — espionagem-rastreamento — R$ 67 + creditos via Pix — Estreia com 4 IDs na PerfectPay: 262754247 (R$ 67, 27/10) e 262770617 (27/10, 'toda hora tinha que add credito e fazer pix', grafado 'Green…\n- [[spygram]] — espionagem-rastreamento — R$ 58,17 + cobrancas (total ate R$ 209) — Estreia com 3 IDs na PerfectPay, em tres rodadas: 262243453 (fila 21/10, 'spygran', 3 pagamentos), 262415337 (fila 23/10, R$ 58,17 e depois…\n- [[imperio-da-renda-academy-paola-lellis]] — ganhar-dinheiro — nao capturado — Estreia com 3 IDs na Payt: 262300229 e 262436257 (fila de 23/10) e 262779967 (28/10: compra 'ano passado', reembolso pedido em 7 dias e…\n\n## Movimento\n\n- [[shopminer]] — ra_reclamacoes atualizado para 68\n- [[zap-radar]] — ra_reclamacoes atualizado para 92\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 38\n- [[stalkeia-ai]] — ra_reclamacoes atualizado para 57\n- [[comunidade-mvz]] — ra_reclamacoes atualizado para 8\n- [[app-direct-line]] — ra_reclamacoes atualizado para 44\n- [[treino-trinca]] — ra_reclamacoes atualizado para 128\n- [[loopyz]] — ra_reclamacoes atualizado para 10\n- [[bicarbonapp]] — ra_reclamacoes atualizado para 7\n- [[metodo-mini-experts-suelen-mello]] — ra_reclamacoes atualizado para 5\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 34\n- [[postcloner]] — ra_reclamacoes atualizado para 3\n- [[spinmaster]] — ra_reclamacoes atualizado para 12\n- [[fornece-up]] — ra_reclamacoes atualizado para 28\n- [[operax]] — ra_reclamacoes atualizado para 4\n- [[receitas-sem-pensar]] — ra_reclamacoes atualizado para 18\n- [[o-truque-da-loto-pro]] — ra_reclamacoes atualizado para 12\n- [[cao360]] — ra_reclamacoes atualizado para 12\n- [[pequenas-estilistas]] — ra_reclamacoes atualizado para 2\n- [[ht-secar-sem-dieta]] — ra_reclamacoes atualizado para 5\n\n## Retornaram\n\n- [[ctrl-ia]] — ferramentas-ia — reapareceu (5 mencao(oes))\n- [[crie-ai]] — ferramentas-ia — reapareceu (9 mencao(oes))\n- [[trendly]] — ferramentas-ia — reapareceu (4 mencao(oes))\n- [[anunciaie]] — marketing-digital — reapareceu (5 mencao(oes))\n- [[congresso-humanamente-salvador]] — mentoria-comunidade — reapareceu (2 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~46h (desde 27/10 16h13) pela API do RA: 333 reclamacoes com ID acima do maior lido em 27/10 (262731315), 11 gateways, 48 paginas. Quatro estreias: Atmoz (Kirvano, 3 IDs em 24h, escada app R$ 297,99 -> PRO -> Carteira John -> R$ 997, com ~110 anuncios de um unico anunciante desde 18/10), Green Stalker (PerfectPay, 4 IDs com a fila), Spygram (PerfectPay, 3 IDs em tres rodadas) e Imperio da Renda Academy (Payt, 3 IDs, vende desde 2025). ShopMiner (+6), Zap Radar (+5) e App do Paizao (+5) puxam o movimento; o Trinca teve 2 IDs, ambos de 27/10.\n\n## Passadas do dia\n- [[2026-10-29 -- 1355]] - kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze - 29 achado(s) - rodada diaria — API do RA, 11 gateways desde 27/10 16h13 (~46h, 333 IDs novos); 4 estreias (Atmoz, Green Stalker, Spygram, Imperio da…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-27.md",
    "data": "2026-10-27",
    "titulo": "Radar 2026-10-27",
@@ -922,6 +947,55 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",
+   "data": "2026-10-29",
+   "hora": "13:55",
+   "gateways": [
+    "kiwify",
+    "ticto",
+    "lastlink",
+    "kirvano",
+    "perfectpay",
+    "cakto",
+    "wiapy",
+    "payt",
+    "hotmart",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 48,
+   "coleta": "ok",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "anunciaie",
+    "app-direct-line",
+    "app-do-paizao",
+    "bicarbonapp",
+    "cao360",
+    "comunidade-mvz",
+    "congresso-humanamente-salvador",
+    "crie-ai",
+    "ctrl-ia",
+    "fornece-up",
+    "ht-secar-sem-dieta",
+    "loopyz",
+    "metodo-mini-experts-suelen-mello",
+    "o-truque-da-loto-pro",
+    "operax",
+    "pequenas-estilistas",
+    "postcloner",
+    "receitas-sem-pensar",
+    "shopminer",
+    "spinmaster",
+    "stalkeia-ai",
+    "tokscale-ia",
+    "treino-trinca",
+    "trendly",
+    "zap-radar"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-29]].\n\n# Rodada — 29/10/2026 · 13:55 Fortaleza\n\n**Gateways:** kiwify, ticto, lastlink, kirvano, perfectpay, cakto, wiapy, payt, hotmart, eduzz, monetizze · **Páginas:** 48 · **Coleta:** ok · **Achados:** 29\n\n## Quentes\n- Estreia: Atmoz — Kirvano · 3 IDs em 24h, escada app R$ 297,99 -> ATMOZ PRO -> Carteira John -> 'investimento' R$ 997; ~110 anuncios de 'John Atmoz Rodrigues' desde 18/10\n- Estreia: Green Stalker — PerfectPay · 4 IDs (2 novos + 2 da fila de 26/10), R$ 67 + creditos via Pix\n- [[shopminer]] 62 -> 68, [[zap-radar]] 87 -> 92, [[app-do-paizao]] 33 -> 38\n\n## Mornas\n- Estreias: Spygram (PerfectPay, 3 IDs em tres rodadas) e Imperio da Renda Academy (Payt, 3 IDs, vende desde 2025)\n- [[stalkeia-ai]] +3, [[comunidade-mvz]] +3, [[app-direct-line]] +2, [[treino-trinca]] +2, [[loopyz]] +2, [[bicarbonapp]] +2, [[metodo-mini-experts-suelen-mello]] +2; 1 ID: [[tokscale-ia]], [[postcloner]], [[spinmaster]], [[fornece-up]], [[operax]], [[receitas-sem-pensar]], [[o-truque-da-loto-pro]], [[cao360]], [[pequenas-estilistas]], [[ht-secar-sem-dieta]]\n- Retornos: [[ctrl-ia]], [[crie-ai]], [[trendly]], [[anunciaie]], [[congresso-humanamente-salvador]]\n\nLeitura: ~46h, 333 reclamacoes novas em 11 gateways; a Atmoz e a primeira estreia com Biblioteca e RA no mesmo dia em semanas.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-27 -- 1613.md",
    "data": "2026-10-27",

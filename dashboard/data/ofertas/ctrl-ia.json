@@ -31,10 +31,10 @@
   "s_lucro": 3,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-20",
-  "visto_ultimo": "2026-10-20",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-10-29",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 5,
   "ra_plataformas": [
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-20",
+  "ra_checado": "2026-10-29",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "payt"
   ]
  },
- "corpo": "# CTRL IA\n\n## Angulo\nPlataforma que promete acesso a varias IAs num lugar so, cobrada pela Payt. 1 ID nesta rodada (262078597, 'Crtl Ai', nao funcionou no teste e o estorno nao veio) + 2 da fila de 19/10 (IDs nao registrados).\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-20 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Historico\n",
+ "corpo": "# CTRL IA\n\n## Angulo\nPlataforma que promete acesso a varias IAs num lugar so, cobrada pela Payt. 1 ID nesta rodada (262078597, 'Crtl Ai', nao funcionou no teste e o estorno nao veio) + 2 da fila de 19/10 (IDs nao registrados).\n\n## Funil\nanuncio -> pagina -> checkout payt -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-20 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n\n## Historico\n\n## Rodada 2026-10-29\n\n5 mencao(oes) nesta varredura (gateway Payt). Retorno com 2 IDs (3 -> 5) na Payt: 262843037 (reembolso pendente ha 13 dias), 262792127 (ferramenta nao funciona).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-20",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Plataforma que promete acesso a varias IAs num lugar so, cobrada pela Payt. 1 ID nesta rodada (262078597, 'Crtl Ai', nao funcionou no teste e o estorno nao veio) + 2 da fila de 19/10 (IDs nao registrados)."
+  },
+  {
+   "data": "2026-10-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "5 mencao(oes) na varredura de hoje. Retorno com 2 IDs (3 -> 5) na Payt: 262843037 (reembolso pendente ha 13 dias), 262792127 (ferramenta nao funciona)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",
+   "data": "2026-10-29",
+   "titulo": "Passada 2026-10-29 13:55"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-29.md",
+   "data": "2026-10-29",
+   "titulo": "Radar 2026-10-29"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-20.md",

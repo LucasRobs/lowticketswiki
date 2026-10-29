@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-27
-rodadas_vista: 25
+visto_ultimo: 2026-10-29
+rodadas_vista: 26
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 54
+ra_reclamacoes: 57
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -255,3 +255,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 54 mencao(oes) nesta varredura (gateway PerfectPay). 1 ID novo (53 -> 54): 262662657 (PerfectPay, comprado pelo Instagram, 3 cobrancas 'inclusive de firewall').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ (ID 262662657)
+
+## Rodada 2026-10-29
+
+57 mencao(oes) nesta varredura (gateway PerfectPay). 3 IDs novos (54 -> 57) na PerfectPay: 262887903 (up.stalkeia.ai, comprado 29/10), 262847163, 262788713 (Pix).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

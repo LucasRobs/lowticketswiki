@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-27
-rodadas_vista: 9
+visto_ultimo: 2026-10-29
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 42
+ra_reclamacoes: 44
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -133,3 +133,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 42 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (40 -> 42), na Cakto: 262709865 (R$ 98,89 em directline.com, sem login), 262666711 (assinatura, 'em poucos minutos descobri').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262709865, 262666711)
+
+## Rodada 2026-10-29
+
+44 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (42 -> 44) na Cakto: 262899219 (pedido de cancelamento em 05/10 sem resposta), 262879261.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

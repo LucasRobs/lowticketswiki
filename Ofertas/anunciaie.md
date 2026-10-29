@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-19
-rodadas_vista: 4
+visto_ultimo: 2026-10-29
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/anunciaie"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-19
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,5 +101,11 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-devolucao-do-curso
 ## Rodada 2026-10-19
 
 4 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (2 -> 4): 261882487 (plataforma Anunciae), 261864239 (curso da Anunciae).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-10-29
+
+5 mencao(oes) nesta varredura (gateway PerfectPay). Retorno com 1 ID (4 -> 5): 262863489 ('Anunciae', comprado 24/10, reembolso pedido 25/10).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/

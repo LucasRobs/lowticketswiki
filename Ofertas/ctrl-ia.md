@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-20
-visto_ultimo: 2026-10-20
-rodadas_vista: 1
+visto_ultimo: 2026-10-29
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/ctrl-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 5
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-29
+
+5 mencao(oes) nesta varredura (gateway Payt). Retorno com 2 IDs (3 -> 5) na Payt: 262843037 (reembolso pendente ha 13 dias), 262792127 (ferramenta nao funciona).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
