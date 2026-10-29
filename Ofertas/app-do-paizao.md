@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-27
-rodadas_vista: 15
+visto_ultimo: 2026-10-29
+rodadas_vista: 16
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 33
+ra_reclamacoes: 38
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -203,3 +203,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 33 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos (31 -> 33), na Kirvano: 262697853 (app por R$ 49 e cobrancas nao autorizadas ha 11 dias), 262654329 ('app do paizao do personal de tiktok Carlao Silva').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 262697853, 262654329)
+
+## Rodada 2026-10-29
+
+38 mencao(oes) nesta varredura (gateway Kirvano). 5 IDs novos (33 -> 38), todos na Kirvano, cinco compradores: 262858499, 262806253 (plano mensal; 'apos ficar rodando videos eles induzem a comprar' o anual), 262786335, 262758295, 262745467 (anuncio no Instagram em 20/10; 'dentro da propria compra veio outra'). Maior salto da nota desde a estreia.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/

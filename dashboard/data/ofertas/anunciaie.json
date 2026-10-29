@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-14",
-  "visto_ultimo": "2026-10-19",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-10-29",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 4,
+  "ra_reclamacoes": 5,
   "ra_plataformas": [
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-19",
+  "ra_checado": "2026-10-29",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Anunciaie\n\n## Angulo\nNome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Reembolso pedido sem resposta do suporte. Mesma reclamacao da passada anterior (21:46) ainda visivel -- 2o dia seguido aparecendo, promovido a quente por isso.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/\n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Curso sobre anúncios/tráfego, vendedor não identificado. Reclamação nomeia a grafia com acento 'Anunciaê'. Reaparece em 3o dia diferente (14/10, 15/10, agora 16-17/10) -- sobe pra quente.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-devolucao-do-curso-da-anunciae-por-nao-atender-expectativas_jA77jZ0Mj7G2Gl1s/\n\n## Rodada 2026-10-19\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (2 -> 4): 261882487 (plataforma Anunciae), 261864239 (curso da Anunciae).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n",
+ "corpo": "# Anunciaie\n\n## Angulo\nNome novo nesta passada. Comprador pede reembolso e suporte nao responde; vendedor nao identificado na reclamacao. Parece produto/ferramenta ligada a anuncios/trafego pago, a confirmar.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-14 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/\n\n## Historico\n\n## Rodada 2026-10-15\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Reembolso pedido sem resposta do suporte. Mesma reclamacao da passada anterior (21:46) ainda visivel -- 2o dia seguido aparecendo, promovido a quente por isso.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/quero-reembolso-do-anunciaie-e-o-suporte-nao-responde_sS-zUGnDMziS12YO/\n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Curso sobre anúncios/tráfego, vendedor não identificado. Reclamação nomeia a grafia com acento 'Anunciaê'. Reaparece em 3o dia diferente (14/10, 15/10, agora 16-17/10) -- sobe pra quente.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-devolucao-do-curso-da-anunciae-por-nao-atender-expectativas_jA77jZ0Mj7G2Gl1s/\n\n## Rodada 2026-10-19\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (2 -> 4): 261882487 (plataforma Anunciae), 261864239 (curso da Anunciae).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-29\n\n5 mencao(oes) nesta varredura (gateway PerfectPay). Retorno com 1 ID (4 -> 5): 262863489 ('Anunciae', comprado 24/10, reembolso pedido 25/10).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-10-14",
@@ -120,9 +120,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "4 mencao(oes) na varredura de hoje. 2 IDs novos na PerfectPay (2 -> 4): 261882487 (plataforma Anunciae), 261864239 (curso da Anunciae)."
+  },
+  {
+   "data": "2026-10-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 5,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "5 mencao(oes) na varredura de hoje. Retorno com 1 ID (4 -> 5): 262863489 ('Anunciae', comprado 24/10, reembolso pedido 25/10)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",
+   "data": "2026-10-29",
+   "titulo": "Passada 2026-10-29 13:55"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-29.md",
+   "data": "2026-10-29",
+   "titulo": "Radar 2026-10-29"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-19 -- 1434.md",

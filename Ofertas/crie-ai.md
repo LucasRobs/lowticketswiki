@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 5
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-19
-visto_ultimo: 2026-10-23
-rodadas_vista: 2
+visto_ultimo: 2026-10-29
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/crie-ai"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 9
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-23
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 8 mencao(oes) nesta varredura (gateway Cakto). Retorno com 2 IDs (6 -> 8): 262385279 ('Crie.ai app' plano vitalicio comprado 16/10, bugs e limites inesperados) e 262288497 ('CRE.AI', pacote sem estorno).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262385279, 262288497)
+
+## Rodada 2026-10-29
+
+9 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (8 -> 9) na Cakto: 262786551 (estorno de plano vitalicio).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

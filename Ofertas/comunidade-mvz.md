@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-26
-visto_ultimo: 2026-10-26
-rodadas_vista: 4
+visto_ultimo: 2026-10-29
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/comunidade-mvz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 8
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 5 mencao(oes) nesta varredura (gateway Cakto). Retorno com 2 IDs (3 -> 5) na Cakto: 262610413 e 262542269 ('o que foi dito em live e bem inferior'). Vendida em live.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (IDs 262610413, 262542269)
+
+## Rodada 2026-10-29
+
+8 mencao(oes) nesta varredura (gateway Cakto). 3 IDs novos (5 -> 8) na Cakto, todos arrependimento dentro dos 7 dias: 262897191, 262890947, 262773833.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

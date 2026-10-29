@@ -35,8 +35,8 @@
   "s_saturacao": 3,
   "status": "ativa",
   "visto_primeiro": "2026-08-16",
-  "visto_ultimo": "2026-10-27",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-10-29",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -48,13 +48,13 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 4,
   "ra_plataformas": [
    "kirvano",
    "payt"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-27",
+  "ra_checado": "2026-10-29",
   "veredito": "descartar",
   "prioridade": 0,
   "tags": [
@@ -75,7 +75,7 @@
    "payt"
   ]
  },
- "corpo": "# Operax\n\n## Angulo\nAnuncio no Instagram promete IA que paga por avaliar empresas (Amazon, Google). Entrega e curso de trader com exigencia de deposito.\n\n## Funil\nanuncio Instagram -> checkout Kirvano R$37 -> entrega de curso de trading -> pedido de deposito.\n\n## Por que funciona\nIsca de 'IA que avalia produtos' com entrega de trading e um bait-and-switch documentado. Interessa como leitura de angulo de captacao, nao como produto.\n\n## O que copiar / o que evitar\nCopiar: o angulo de entrada 'IA paga voce para avaliar' esta convertendo. Evitar: a troca de produto na entrega.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-e-propaganda-enganosa-de-ia-de-avaliacao_X7EEuRn9MgpGmt_t/\n\n## Historico\n\n## Rodada 2026-08-21 — página de vendas não localizada\n\nBusca web dedicada não encontrou LP ativa de **Operax**. Ou a oferta já rotacionou de\ndomínio, ou o nome do criativo difere do nome que o comprador registrou na reclamação.\n`url_ads` preenchido com o termo de busca para tentar pela Biblioteca de Anúncios.\n\n## Rodada 2026-10-26\n\n2 mencao(oes) nesta varredura (gateway Payt). Retorno com 1 ID (1 -> 2), sem aparecer desde 16/08 e agora na Payt (era Kirvano): 262540155 (duas compras do produto operax de R$ 47 e R$ 29 em menos de 24h).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262540155)\n\n## Rodada 2026-10-27\n\n3 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (2 -> 3): 262652809 (Payt, R$ 47 no Pix em 26/10).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262652809)\n",
+ "corpo": "# Operax\n\n## Angulo\nAnuncio no Instagram promete IA que paga por avaliar empresas (Amazon, Google). Entrega e curso de trader com exigencia de deposito.\n\n## Funil\nanuncio Instagram -> checkout Kirvano R$37 -> entrega de curso de trading -> pedido de deposito.\n\n## Por que funciona\nIsca de 'IA que avalia produtos' com entrega de trading e um bait-and-switch documentado. Interessa como leitura de angulo de captacao, nao como produto.\n\n## O que copiar / o que evitar\nCopiar: o angulo de entrada 'IA paga voce para avaliar' esta convertendo. Evitar: a troca de produto na entrega.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (1 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/cobranca-indevida-e-propaganda-enganosa-de-ia-de-avaliacao_X7EEuRn9MgpGmt_t/\n\n## Historico\n\n## Rodada 2026-08-21 — página de vendas não localizada\n\nBusca web dedicada não encontrou LP ativa de **Operax**. Ou a oferta já rotacionou de\ndomínio, ou o nome do criativo difere do nome que o comprador registrou na reclamação.\n`url_ads` preenchido com o termo de busca para tentar pela Biblioteca de Anúncios.\n\n## Rodada 2026-10-26\n\n2 mencao(oes) nesta varredura (gateway Payt). Retorno com 1 ID (1 -> 2), sem aparecer desde 16/08 e agora na Payt (era Kirvano): 262540155 (duas compras do produto operax de R$ 47 e R$ 29 em menos de 24h).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262540155)\n\n## Rodada 2026-10-27\n\n3 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (2 -> 3): 262652809 (Payt, R$ 47 no Pix em 26/10).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262652809)\n\n## Rodada 2026-10-29\n\n4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (3 -> 4) na Payt: 262758435 ('Operax - OFICIAL', 27/10).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/\n",
  "observacoes": [
   {
    "data": "2026-08-16",
@@ -112,9 +112,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "3 mencao(oes) na varredura de hoje. 1 ID novo (2 -> 3): 262652809 (Payt, R$ 47 no Pix em 26/10)."
+  },
+  {
+   "data": "2026-10-29",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. 1 ID novo (3 -> 4) na Payt: 262758435 ('Operax - OFICIAL', 27/10)."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",
+   "data": "2026-10-29",
+   "titulo": "Passada 2026-10-29 13:55"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-29.md",
+   "data": "2026-10-29",
+   "titulo": "Radar 2026-10-29"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-27 -- 1608.md",

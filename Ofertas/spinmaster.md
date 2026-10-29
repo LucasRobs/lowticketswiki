@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-26
-rodadas_vista: 5
+visto_ultimo: 2026-10-29
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/spinmaster"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 11
+ra_reclamacoes: 12
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano/lista-reclamacoes/ (ID
 11 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos (9 -> 11) na Kirvano: 262610059 (reembolso pedido 18/10) e 262508759 (reembolso aprovado 15/10 e nao pago).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 262610059, 262508759)
+
+## Rodada 2026-10-29
+
+12 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (11 -> 12) na Kirvano: 262916077 (Pix de 18/10, cadastro nao funciona).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/

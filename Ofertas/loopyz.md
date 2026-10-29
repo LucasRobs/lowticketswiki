@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-26
-rodadas_vista: 13
+visto_ultimo: 2026-10-29
+rodadas_vista: 14
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/loopyz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 10
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-26
+ra_checado: 2026-10-29
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -168,3 +168,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 8 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo (7 -> 8): 262530303 (Cakto, 'loopz live', comprador removido do grupo depois de pedir reembolso).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262530303)
+
+## Rodada 2026-10-29
+
+10 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (8 -> 10) na Cakto, 'Loopyz Live': 262858745, 262798863.
+
+Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/

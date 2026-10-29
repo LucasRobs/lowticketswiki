@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-27
-rodadas_vista: 3
+visto_ultimo: 2026-10-29
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/operax"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-10-29
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 3 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (2 -> 3): 262652809 (Payt, R$ 47 no Pix em 26/10).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262652809)
+
+## Rodada 2026-10-29
+
+4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (3 -> 4) na Payt: 262758435 ('Operax - OFICIAL', 27/10).
+
+Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
