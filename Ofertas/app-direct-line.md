@@ -139,3 +139,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 44 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (42 -> 44) na Cakto: 262899219 (pedido de cancelamento em 05/10 sem resposta), 262879261.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262924091 (Cakto, 29/10 14h52, comprado por anuncio no Instagram, nao conecta com o Google Calendar como prometido).
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/comprei-um-app-que-nao-funciona-e-quero-meu-dinheiro-de-volta_Nz5J2U7BplSVkGY0/
