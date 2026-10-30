@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 28
+ra_reclamacoes: 29
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29
@@ -133,3 +133,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 28 mencao(oes) nesta varredura (gateway PerfectPay). 1 ID novo (27 -> 28) na PerfectPay: 262806429 (cancelamento pedido em 15/10; pagamento processado pela 'Applyfy').
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262943461 (29/10 18h01, 'centenas de influenciadores no TikTok fazendo lives'). Os 262641247 e 262722243 tambem estao na lista com carimbo de 29/10, mas os IDs sao de 26-27/10 (carimbo movido por resposta): nao contados.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/forneceup-e-propaganda-enganosa-quero-meu-dinheiro-de-volta_xqtXb5Q7E70ov2Xo/

@@ -147,3 +147,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 2
 68 mencao(oes) nesta varredura (gateway Payt). 6 IDs novos em ~46h (62 -> 68), todos na Payt: 262773773 (Pix de R$ 297, 29/10), 262878595, 262866707, 262845293, 262830961 ('vendedor shopminer'), 262745101 ('nao consigo usar a IA'). Segue em ~3 por dia.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+Complemento 21h26: avistamento sem contagem. 262945537 (Payt, 29/10 18h23) e o mesmo comprador reabrindo o 261303597 (ja contado em 11/10): plano vitalicio de R$ 267, reembolso parcial de R$ 36,56.
+
+Evidencia: https://www.reclameaqui.com.br/payt/nao-recebi-o-reembolso-total-do-meu-plano-vitalicio-do-shopminer-o-valor-pago-foi-26700-e-recebi-a-devolucao-de-3656_QklAL42IShkDFBMD/

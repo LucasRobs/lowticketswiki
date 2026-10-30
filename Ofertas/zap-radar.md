@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 92
+ra_reclamacoes: 93
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29
@@ -263,3 +263,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 92 mencao(oes) nesta varredura (gateway Payt). 5 IDs novos (87 -> 92), todos na Payt: 262888463 (link de instalacao nao funciona), 262873569, 262855461 (R$ 137 no Pix, 'nem o relatorio'), 262785735 (compra 27/10 + duas cobrancas nao autorizadas), 262778703. Voltou a ~2,5 por dia depois de 1 por dia em 26-27/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262941951 (PerfectPay, 29/10 17h44, R$ 137, recebeu link de site de cursos em vez do app).
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-e-quero-reembolso-do-aplicativo-zap-rada_eTQtZOvS1MUpb5pT/

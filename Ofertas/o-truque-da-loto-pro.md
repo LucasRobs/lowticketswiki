@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 12
+ra_reclamacoes: 13
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29
@@ -127,3 +127,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 12 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (11 -> 12) na Payt: 262839143 (acesso ao app nao liberado).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262945507 (Payt, 29/10 18h23, compra de 28/10 21h14, 1x R$ 97, comprador diz nao reconhecer a compra).
+
+Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-uma-compra-que-nao-fiz_UvVXuDz8Oyli0Q4b/

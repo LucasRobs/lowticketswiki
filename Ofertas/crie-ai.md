@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/crie-ai"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29
@@ -97,3 +97,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 9 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (8 -> 9) na Cakto: 262786551 (estorno de plano vitalicio).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262936753 (Cakto, 29/10 16h50, comprou hoje, pedido de cancelamento posto 'em analise' pelo produtor).
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-a-ferramenta-crieai-que-comprei-hoje_DZHu_jmyl5PlIE_4/

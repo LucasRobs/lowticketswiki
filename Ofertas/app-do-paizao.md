@@ -36,7 +36,7 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 38
+ra_reclamacoes: 40
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
 ra_checado: 2026-10-29
@@ -209,3 +209,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 38 mencao(oes) nesta varredura (gateway Kirvano). 5 IDs novos (33 -> 38), todos na Kirvano, cinco compradores: 262858499, 262806253 (plano mensal; 'apos ficar rodando videos eles induzem a comprar' o anual), 262786335, 262758295, 262745467 (anuncio no Instagram em 20/10; 'dentro da propria compra veio outra'). Maior salto da nota desde a estreia.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/
+
+Complemento 21h26 (lista de 5 linhas): 2 IDs novos. 262927087 (29/10 15h18: plano mensal de R$ 47,01 trocado no checkout por cobranca unica de R$ 229,99, compra de 20/10) e 262959519 (29/10 21h24: 'Carlao do Paizao', compra de 05/08, login nunca funcionou). A compra de 05/08 e a mais antiga ja lida num corpo desta oferta.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-consigo-acessar-meu-aplicativo-carlao-do-paizao-e-exijo-reembolso_qDqRVaUozoq8naOB/

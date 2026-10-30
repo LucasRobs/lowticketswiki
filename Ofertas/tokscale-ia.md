@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/tokscale-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 34
+ra_reclamacoes: 35
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29
@@ -133,3 +133,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (IDs 2
 34 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (33 -> 34): 262869727. O 262738929 ficou fora: e o mesmo comprador do 262689375, ja contado em 27/10, reabrindo o caso.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262948571 (Payt, 29/10 18h59, 'TokScale - 2', pedido de 29/07/2026, cobrancas seguiram apos cancelamento em 7 dias). Compra de 29/07 indica venda ha pelo menos 3 meses.
+
+Evidencia: https://www.reclameaqui.com.br/payt/exijo-estorno-em-dobro-por-cobranca-indevida-apos-cancelamento-de-curso_hNTqYb2If2uDnQCr/

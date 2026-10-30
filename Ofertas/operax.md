@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/operax"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29
@@ -109,3 +109,7 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 4 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (3 -> 4) na Payt: 262758435 ('Operax - OFICIAL', 27/10).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+Complemento 21h26: 1 ID novo, 262931397 (Payt, 29/10 17h53, assinatura de R$ 97 cobrada no cartao).
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-reembolso-dos-97-reais-que-a-operax-tirou-do-meu-cartao_KJAzD6zTxPqzn7ja/
