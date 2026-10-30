@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/tokscale-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 34
+ra_reclamacoes: 35
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29

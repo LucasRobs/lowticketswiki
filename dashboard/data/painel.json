@@ -5,7 +5,7 @@
   "angulos": 100,
   "observacoes": 1114,
   "dias_radar": 47,
-  "passadas": 128,
+  "passadas": 129,
   "analises": 12,
   "ultima_rodada": "2026-10-29"
  },
@@ -6661,7 +6661,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 44,
+   "ra_reclamacoes": 45,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -6670,7 +6670,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=direct%20line%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 10,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 21,
+   "n_citacoes": 22,
    "resumo": "Aplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.",
    "flags": [
     "score-provisorio",
@@ -6719,7 +6719,7 @@
    "dias_no_ar": 54,
    "criativos_ultima": 19,
    "criativos_delta": 3,
-   "ra_reclamacoes": 38,
+   "ra_reclamacoes": 40,
    "ra_primeira_reclamacao": "2026-08-20",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -6728,7 +6728,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
    "n_obs": 16,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 32,
+   "n_citacoes": 33,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -10255,7 +10255,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 9,
+   "ra_reclamacoes": 10,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -10264,7 +10264,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=crie%20ai&search_type=keyword_unordered&media_type=all",
    "n_obs": 3,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 5,
+   "n_citacoes": 6,
    "resumo": "Gerador de sites com IA vendido como 'criacao ilimitada' e plano vitalicio de R$ 297,99 na Cakto; na pratica limita o numero de sites e cobra creditos de IA a parte (261809083: 'venda casada de creditos'), com garantia de 15 dias recusada por Termos de Uso. 4…",
    "flags": [
     "score-provisorio",
@@ -13907,7 +13907,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 28,
+   "ra_reclamacoes": 29,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -13916,7 +13916,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
    "n_obs": 9,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 26,
+   "n_citacoes": 27,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -21153,7 +21153,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 12,
+   "ra_reclamacoes": 13,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -21162,7 +21162,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Truque%20da%20Loto&search_type=keyword_unordered&media_type=all",
    "n_obs": 8,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 13,
+   "n_citacoes": 14,
    "resumo": "Achado novo e o mais chamativo da passada: funil de 4 produtos amarrados (O Truque da Loto PRO, Lovable.app, Blindagem Anti-Erro do Apostador, Comunidade Truque da Loto) vendendo 'método' de previsão de loteria. Cobrança não autorizada clara, suporte bloqueou…",
    "flags": [
     "score-provisorio",
@@ -21266,7 +21266,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 4,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -21275,7 +21275,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Operax&search_type=keyword_unordered&media_type=all",
    "n_obs": 4,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 9,
+   "n_citacoes": 10,
    "resumo": "Anuncio no Instagram promete IA que paga por avaliar empresas (Amazon, Google). Entrega e curso de trader com exigencia de deposito.",
    "flags": [
     "sem-longevidade",
@@ -24208,7 +24208,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all",
    "n_obs": 11,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 21,
+   "n_citacoes": 22,
    "resumo": "Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.",
    "flags": [
     "score-provisorio",
@@ -25422,7 +25422,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 34,
+   "ra_reclamacoes": 35,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -25431,7 +25431,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=tokscale&search_type=keyword_unordered&media_type=all",
    "n_obs": 9,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 17,
+   "n_citacoes": 18,
    "resumo": "Plataforma de videos com IA para TikTok Shop, vendida como assinatura (261202955, contratada em 25/09). 6 reclamacoes na Payt em 08-11/10 (261367965, 261093565, 261202955, 261154757, 261154719, 261118633), todas de reembolso sem resposta. Mesmo cluster do…",
    "flags": [
     "score-provisorio",
@@ -26750,7 +26750,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 92,
+   "ra_reclamacoes": 93,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-10-29",
    "bump_oculto": false,
@@ -26759,7 +26759,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 29,
    "ultima_obs": "2026-10-29",
-   "n_citacoes": 62,
+   "n_citacoes": 63,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -26846,8 +26846,8 @@
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "leitura": "Rodada de ~46h (desde 27/10 16h13) pela API do RA: 333 reclamacoes com ID acima do maior lido em 27/10 (262731315), 11 gateways, 48 paginas. Quatro estreias: Atmoz (Kirvano, 3 IDs em 24h, escada app R$ 297,99 -> PRO -> Carteira John -> R$ 997, com ~110 anuncios de um unico anunciante desde 18/10), Green Stalker (PerfectPay, 4 IDs com a fila), Spygram (PerfectPay, 3 IDs em tres rodadas) e Imperio da Renda Academy…"
+   "n_passadas": 2,
+   "leitura": "Dia com duas rodadas. A das 13h55 leu ~46h pela API do RA (333 IDs novos, 11 gateways) e trouxe quatro estreias: Atmoz, Green Stalker, Spygram e Imperio da Renda Academy. O complemento das 21h26 so teve a lista de 5 linhas por gateway, porque a API ficou atras de um desafio do Cloudflare. Leu 25 IDs acima de 262916077, casou 11 com 9 ofertas ja mapeadas (App do Paizao +2, os outros +1) e nao teve estreia. Sinal novo…"
   },
   {
    "arquivo": "Radar/2026-10-27.md",
@@ -27770,6 +27770,39 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-29 -- 2126.md",
+   "data": "2026-10-29",
+   "hora": "21:26",
+   "gateways": [
+    "perfectpay",
+    "payt",
+    "kirvano",
+    "kiwify",
+    "cakto",
+    "hotmart",
+    "wiapy",
+    "ticto",
+    "lastlink",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 11,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "app-do-paizao",
+    "crie-ai",
+    "fornece-up",
+    "o-truque-da-loto-pro",
+    "operax",
+    "shopminer",
+    "tokscale-ia",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: perfectpay, payt, kirvano, kiwify, cakto, hotmart, wiapy, ticto, lastlink, eduzz, monetizze · Páginas: 11 · Coleta: parcial · Achados: 9 ## Quentes app-do-paizao — Kirvano · +2 IDs (38 -> 40); corpo com compra de 05/08 e troca de…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",
    "data": "2026-10-29",
@@ -31362,26 +31395,26 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "b78b9d474421b512",
-  "atualizado_em": "2026-10-29T13:59:06-03:00",
+  "hash": "80dae710e7b42632",
+  "atualizado_em": "2026-10-29T21:34:42-03:00",
   "ofertas": 386,
   "angulos": 100,
   "observacoes": 1114,
   "ultima_rodada": "2026-10-29",
   "ultima_passada": {
    "data": "2026-10-29",
-   "hora": "13:55",
-   "coleta": "ok",
+   "hora": "21:26",
+   "coleta": "parcial",
    "gateways": [
+    "perfectpay",
+    "payt",
+    "kirvano",
     "kiwify",
+    "cakto",
+    "hotmart",
+    "wiapy",
     "ticto",
     "lastlink",
-    "kirvano",
-    "perfectpay",
-    "cakto",
-    "wiapy",
-    "payt",
-    "hotmart",
     "eduzz",
     "monetizze"
    ]

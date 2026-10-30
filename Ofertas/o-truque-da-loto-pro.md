@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 12
+ra_reclamacoes: 13
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29

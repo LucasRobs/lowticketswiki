@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/operax"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29

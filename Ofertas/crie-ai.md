@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/crie-ai"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29

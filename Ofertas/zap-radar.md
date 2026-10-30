@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 92
+ra_reclamacoes: 93
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-10-29

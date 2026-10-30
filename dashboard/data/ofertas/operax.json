@@ -48,7 +48,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 4,
+  "ra_reclamacoes": 5,
   "ra_plataformas": [
    "kirvano",
    "payt"
@@ -127,6 +127,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-29 -- 2126.md",
+   "data": "2026-10-29",
+   "titulo": "Passada 2026-10-29 21:26"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",
