@@ -2,6 +2,32 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-10-31.md",
+   "data": "2026-10-31",
+   "titulo": "Radar 2026-10-31",
+   "ofertas_vistas": 7,
+   "novas": 0,
+   "retornaram": 1,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-10-31\n\n## Novas\n\n## Movimento\n\n- [[chatgpt-privado]] — ra_reclamacoes atualizado para 9\n- [[fornece-up]] — ra_reclamacoes atualizado para 30\n- [[app-direct-line]] — ra_reclamacoes atualizado para 46\n- [[trendly]] — ra_reclamacoes atualizado para 4\n- [[atmoz]] — ra_reclamacoes atualizado para 3\n- [[treino-trinca]] — ra_reclamacoes atualizado para 128\n\n## Retornaram\n\n- [[arsenal-lucrativo]] — ferramentas-ia — reapareceu (4 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada de ~47 horas (a anterior foi o complemento de 29/10 21h26) com o instrumento mais estreito ate agora: a API do RA continua barrada, a verificacao anti-bot do Cloudflare cortou a leitura de corpos depois de 8, e sobraram 12 listas de 5 linhas (~19h da janela). Nenhuma estreia; 4 IDs novos em ofertas ja mapeadas (ChatGPT Privado, Fornece Up, Direct Line e o retorno do Arsenal Lucrativo/Flow Ultra). O sinal util veio da Biblioteca: Atmoz subiu de ~110 para ~120 anuncios com criativos novos em 29-30/10, e o Treino Trinca voltou de ~84 para ~100 com criativos ate 28/10, o que desmente a leitura de que o silencio no RA seria a oferta saindo do ar.\n\n## Passadas do dia\n- [[2026-10-31 -- 2043]] - kirvano, payt, kiwify, hotmart, wiapy, perfectpay, cakto, ticto, lastlink, eduzz, monetizze, braip - 7 achado(s) - rodada diaria — 12 gateways pela lista de 5 linhas (API e corpos barrados pelo Cloudflare) + 2 buscas na Biblioteca; 0 novas, 7 revistas, 1…\n"
+  },
+  {
    "arquivo": "Radar/2026-10-29.md",
    "data": "2026-10-29",
    "titulo": "Radar 2026-10-29",
@@ -947,6 +973,38 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-31 -- 2043.md",
+   "data": "2026-10-31",
+   "hora": "20:43",
+   "gateways": [
+    "kirvano",
+    "payt",
+    "kiwify",
+    "hotmart",
+    "wiapy",
+    "perfectpay",
+    "cakto",
+    "ticto",
+    "lastlink",
+    "eduzz",
+    "monetizze",
+    "braip"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "arsenal-lucrativo",
+    "atmoz",
+    "chatgpt-privado",
+    "fornece-up",
+    "treino-trinca",
+    "trendly"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-10-31]].\n\n# Rodada — 31/10/2026 · 20:43 Fortaleza\n\n**Gateways:** kirvano, payt, kiwify, hotmart, wiapy, perfectpay, cakto, ticto, lastlink, eduzz, monetizze, braip · **Páginas:** 12 · **Coleta:** parcial · **Achados:** 7\n\n## Quentes\n- [[atmoz]] — Kirvano · Biblioteca ~110 -> ~120 anuncios, 6 iniciados em 29-30/10; sem ID novo no RA\n\n## Mornas\n- [[treino-trinca]] — Lastlink · Biblioteca ~84 -> ~100, criativos novos ate 28/10; RA parado desde 27/10\n- +1 ID: [[chatgpt-privado]] 9 (R$ 67, primeiro desde 11/10), [[fornece-up]] 30, [[app-direct-line]] 46, [[arsenal-lucrativo]] 4 (retorno, Flow Ultra)\n- [[trendly]] — avistamento sem contagem (mesmo comprador do 262754769)\n- Fila (1 ID, sem nome no vault): ARES B3 (Kirvano 263090387, comprado 31/10), Cupom de Premios (PerfectPay 263060223, saldo bloqueado)\n\nLeitura: API do RA bloqueada e a verificacao anti-bot do Cloudflare cortou a leitura de corpos depois de 8; 12 listas de 5 linhas, ~19h de uma janela de ~47h. Sem estreia.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-29 -- 2126.md",
    "data": "2026-10-29",

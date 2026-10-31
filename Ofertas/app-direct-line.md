@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-29
-rodadas_vista: 10
+visto_ultimo: 2026-10-31
+rodadas_vista: 11
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 45
+ra_reclamacoes: 46
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -143,3 +143,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262924091 (Cakto, 29/10 14h52, comprado por anuncio no Instagram, nao conecta com o Google Calendar como prometido).
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/comprei-um-app-que-nao-funciona-e-quero-meu-dinheiro-de-volta_Nz5J2U7BplSVkGY0/
+
+## Rodada 2026-10-31
+
+46 mencao(oes) nesta varredura (gateway Cakto). Rodada 31/10: 1 ID novo, 263090227 (31/10 17h14): comprado em 30/10, cancelamento pedido no mesmo dia pelo suporte, sem resposta. Mesmo padrao de arrependimento dentro dos 7 dias sem canal para cancelar.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-o-directline-e-o-suporte-nao-me-responde_RDrJ2Krcxzr64LhR/

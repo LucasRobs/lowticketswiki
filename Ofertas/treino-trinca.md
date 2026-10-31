@@ -26,11 +26,11 @@ s_replica: 6
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-29
-rodadas_vista: 16
-dias_no_ar: 60
-criativos_ultima: 140
-criativos_delta: -40
+visto_ultimo: 2026-10-31
+rodadas_vista: 17
+dias_no_ar: 70
+criativos_ultima: 100
+criativos_delta: 16
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 128
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -212,3 +212,10 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/ (I
 128 mencao(oes) nesta varredura (gateway Lastlink). 2 IDs novos em ~46h (126 -> 128), ambos na Lastlink e ambos de 27/10 a noite: 262764751, 262763683 ('Desafio Treino Trinca - Pedro Lotz', treino nao personalizado). Nenhum em 28-29/10.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/
+
+## Rodada 2026-10-31
+
+128 mencao(oes) nesta varredura (gateway Lastlink). So Biblioteca (nenhum ID novo nas 5 linhas da Lastlink): ~100 resultados para 'treino trinca' (eram ~84 em 26/10 e ~140 em 21 e 23/10), todos os carregados de Pedro Lotz, LP ltz.pedrolotz.online e inlead.digital. Mais antigo carregado 22/08 (70 dias), 5 criativos iniciados de 26 a 28/10, nenhum de 29 a 31/10. A verba nao parou: o silencio do RA desde 27/10 nao e a oferta saindo do ar.
+
+Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=treino%20trinca&search_type=keyword_unordered&media_type=all
+- **Medido na Biblioteca (2026-10-31):** ~100 resultados para "treino trinca" (eram ~84 em 26/10; o frontmatter ainda guardava o 140 de 21-23/10), todos os carregados de Pedro Lotz (LP `ltz.pedrolotz.online` e `inlead.digital`). Mais antigo carregado 22/08 -> `dias_no_ar: 70`; 5 criativos iniciados de 26 a 28/10, nenhum de 29 a 31/10 -> `criativos_ultima: 100`, `criativos_delta: +16` contra a leitura de 26/10. Responde a pergunta de 27/10: a verba nao parou; o silencio do RA desde 27/10 (2 IDs em ~46h, 0 nas 5 linhas da Lastlink hoje) nao e a oferta saindo do ar. `s_lucro` 8 mantido (faixa 45-90 dias).
