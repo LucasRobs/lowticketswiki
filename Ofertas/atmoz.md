@@ -28,9 +28,9 @@ status: ativa
 visto_primeiro: 2026-10-29
 visto_ultimo: 2026-10-31
 rodadas_vista: 2
-dias_no_ar: 11
-criativos_ultima: 110
-criativos_delta: 0
+dias_no_ar: 13
+criativos_ultima: 120
+criativos_delta: 10
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/atmoz"
 gateways_detectados: [kirvano]
@@ -92,3 +92,4 @@ views:
 3 mencao(oes) nesta varredura (gateway Kirvano). So Biblioteca (nenhum ID novo nas 5 linhas da Kirvano): ~120 anuncios ativos para 'atmoz' (eram ~110 em 29/10), todos os carregados de John Atmoz Rodrigues, LP inteligenciajohn.com/atmoz ('Aula Gratuita | JOHN'). Mais antigo carregado 18/10 (13 dias), 5 iniciados em 29/10 e 1 em 30/10: a verba continua entrando.
 
 Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=atmoz&search_type=keyword_unordered&media_type=all
+- **Medido na Biblioteca (2026-10-31):** ~120 anuncios ativos para "atmoz" (eram ~110 em 29/10), todos os carregados de John Atmoz Rodrigues, LP `inteligenciajohn.com/atmoz`. Mais antigo carregado 18/10 -> `dias_no_ar: 13`; 5 iniciados em 29/10 e 1 em 30/10 -> `criativos_ultima: 120`, `criativos_delta: +10`. Primeira segunda leitura: a verba segue subindo. `s_lucro` mantido em 4 (faixa 7-20 dias; delta positivo numa leitura so ainda nao e "aquecendo", que pede 2+ rodadas).
