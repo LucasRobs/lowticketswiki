@@ -24,10 +24,10 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-09
-visto_ultimo: 2026-10-21
-rodadas_vista: 5
+visto_ultimo: 2026-10-31
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/arsenal-lucrativo"
 gateways_detectados: [cakto, kiwify]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [cakto, kiwify]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-21
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 3 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo na Cakto (2 -> 3): 262128563, 'Comunidade Arsenal Lucrativo' R$ 65,99 no Pix (compra 28/09), vendida por uma vendedora a partir de anuncio no Facebook; entrega e acesso a Flow e ChatGPT para geracao de videos. Nao e rateio: e revenda de acesso a ferramentas de IA.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-10-31
+
+4 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID, 263094707 (31/10 18h49): cancelamento do 'Flow Ultra' (o nivel ja citado como 'Arsenal Lucrativo - Apenas Flow Ultra') e reembolso da renovacao automatica de 18/10. O corpo diz que restricoes do Google no inicio de outubro impediram o uso do servico e que o suporte prometeu cancelar a renovacao de todos e migrar para um servico novo, sem cumprir. E assinatura recorrente.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/solicito-cancelamento-do-flow-ultra-e-reembolso-de-pagamento_6KtZehE2AJ9YGXoY/

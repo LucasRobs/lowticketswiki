@@ -3,11 +3,11 @@
  "totais": {
   "ofertas": 386,
   "angulos": 100,
-  "observacoes": 1114,
-  "dias_radar": 47,
-  "passadas": 129,
+  "observacoes": 1121,
+  "dias_radar": 48,
+  "passadas": 130,
   "analises": 12,
-  "ultima_rodada": "2026-10-29"
+  "ultima_rodada": "2026-10-31"
  },
  "ofertas": [
   {
@@ -6656,21 +6656,21 @@
    "score": 1.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-29",
-   "rodadas_vista": 10,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 11,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 45,
+   "ra_reclamacoes": 46,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-29",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=direct%20line%20app&search_type=keyword_unordered&media_type=all",
-   "n_obs": 10,
-   "ultima_obs": "2026-10-29",
-   "n_citacoes": 22,
+   "n_obs": 11,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 24,
    "resumo": "Aplicativo vendido por assinatura (plano Pro) com garantia de 7 dias que, segundo os compradores, nao e honrada. 5 reclamacoes na Cakto em 09-11/10 (261380877, 261371245, 261357363, 261239765, 261205833). Funcao do app nao descrita nos corpos.",
    "flags": [
     "score-provisorio",
@@ -6964,7 +6964,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "cakto",
@@ -6992,21 +6992,21 @@
    "score": 0.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-09",
-   "visto_ultimo": "2026-10-21",
-   "rodadas_vista": 5,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 6,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 3,
+   "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-21",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Arsenal%20Lucrativo&search_type=keyword_unordered&media_type=all",
-   "n_obs": 5,
-   "ultima_obs": "2026-10-21",
-   "n_citacoes": 11,
+   "n_obs": 6,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 13,
    "resumo": "Comunidade 'Arsenal Lucrativo — Flow Ultra' vendida via Cakto, produtor não identificado. 1ª aparição no radar.",
    "flags": [
     "score-provisorio",
@@ -7183,7 +7183,7 @@
    "classe": "oferta",
    "nicho": "ganhar-dinheiro",
    "sub_nicho": "",
-   "status": "nova",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -7212,21 +7212,21 @@
    "score": 4.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-29",
-   "visto_ultimo": "2026-10-29",
-   "rodadas_vista": 1,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 2,
    "dias_no_ar": 11,
    "criativos_ultima": 110,
    "criativos_delta": 0,
    "ra_reclamacoes": 3,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-29",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://inteligenciajohn.com",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=atmoz&search_type=keyword_unordered&media_type=all",
-   "n_obs": 1,
-   "ultima_obs": "2026-10-29",
-   "n_citacoes": 1,
+   "n_obs": 2,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 3,
    "resumo": "Estreia, 3 IDs na Kirvano em ~24h, tres compradores diferentes: 262837843 (app Atmoz R$ 297,99 no Pix em 28/10; para usar, pedem 'investimento' de R$ 997), 262880843 (tres cobrancas no cartao em 28/10: R$ 366,30 + R$ 369,99 + R$ 858,30, 'o Sr Jhon da…",
    "flags": [
     "score-provisorio"
@@ -9094,21 +9094,21 @@
    "score": 3.0,
    "decisao": "descartar",
    "visto_primeiro": "2026-09-27",
-   "visto_ultimo": "2026-10-11",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 130,
    "criativos_delta": 10,
-   "ra_reclamacoes": 8,
+   "ra_reclamacoes": 9,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-11",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ChatGPT%20Privado&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-11",
-   "n_citacoes": 8,
+   "n_obs": 5,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 10,
    "resumo": "Revenda de acesso ao ChatGPT que exige criar e-mail novo todo mes para continuar usando. ID 260135435 (26/09).",
    "flags": [
     "sem-longevidade",
@@ -13902,21 +13902,21 @@
    "score": 2.15,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-11",
-   "visto_ultimo": "2026-10-29",
-   "rodadas_vista": 9,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 10,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 29,
+   "ra_reclamacoes": 30,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-29",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=forneceup&search_type=keyword_unordered&media_type=all",
-   "n_obs": 9,
-   "ultima_obs": "2026-10-29",
-   "n_citacoes": 27,
+   "n_obs": 10,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 29,
    "resumo": "Plataforma de fornecedores por assinatura parcelada em 12x (261367699). 8 reclamacoes na PerfectPay em 08-11/10, quase todas com o mesmo texto 'nao consigo cancelar a compra da ForneceUp' (261316209, 261316083, 261280965, 261236057, 261183451, 261168583…",
    "flags": [
     "score-provisorio",
@@ -14754,7 +14754,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -16023,7 +16024,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -24656,7 +24658,8 @@
    "flags": [
     "score-provisorio",
     "sem-longevidade",
-    "sem-lp"
+    "sem-lp",
+    "status-vencido"
    ]
   },
   {
@@ -25531,21 +25534,21 @@
    "score": 6.6,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-10-29",
-   "rodadas_vista": 16,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 17,
    "dias_no_ar": 60,
    "criativos_ultima": 140,
    "criativos_delta": -40,
    "ra_reclamacoes": 128,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-29",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://treinotrinca.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
-   "n_obs": 16,
-   "ultima_obs": "2026-10-29",
-   "n_citacoes": 35,
+   "n_obs": 17,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 37,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
    "flags": []
   },
@@ -25584,21 +25587,21 @@
    "score": 4.7,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-23",
-   "visto_ultimo": "2026-10-29",
-   "rodadas_vista": 6,
+   "visto_ultimo": "2026-10-31",
+   "rodadas_vista": 7,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
    "ra_reclamacoes": 4,
    "ra_primeira_reclamacao": "2026-08-22",
-   "ra_checado": "2026-10-29",
+   "ra_checado": "2026-10-31",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Trendly&search_type=keyword_unordered&media_type=all",
-   "n_obs": 6,
-   "ultima_obs": "2026-10-29",
-   "n_citacoes": 17,
+   "n_obs": 7,
+   "ultima_obs": "2026-10-31",
+   "n_citacoes": 19,
    "resumo": "Descoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por R$ 299,00, sem suporte e com reembolso recusado.",
    "flags": [
     "sem-lp"
@@ -26825,6 +26828,32 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-10-31.md",
+   "data": "2026-10-31",
+   "titulo": "Radar 2026-10-31",
+   "ofertas_vistas": 7,
+   "novas": 0,
+   "retornaram": 1,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": "Rodada de ~47 horas (a anterior foi o complemento de 29/10 21h26) com o instrumento mais estreito ate agora: a API do RA continua barrada, a verificacao anti-bot do Cloudflare cortou a leitura de corpos depois de 8, e sobraram 12 listas de 5 linhas (~19h da janela). Nenhuma estreia; 4 IDs novos em ofertas ja mapeadas (ChatGPT Privado, Fornece Up, Direct Line e o retorno do Arsenal Lucrativo/Flow Ultra). O sinal util…"
+  },
+  {
    "arquivo": "Radar/2026-10-29.md",
    "data": "2026-10-29",
    "titulo": "Radar 2026-10-29",
@@ -27770,6 +27799,38 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-10-31 -- 2043.md",
+   "data": "2026-10-31",
+   "hora": "20:43",
+   "gateways": [
+    "kirvano",
+    "payt",
+    "kiwify",
+    "hotmart",
+    "wiapy",
+    "perfectpay",
+    "cakto",
+    "ticto",
+    "lastlink",
+    "eduzz",
+    "monetizze",
+    "braip"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-direct-line",
+    "arsenal-lucrativo",
+    "atmoz",
+    "chatgpt-privado",
+    "fornece-up",
+    "treino-trinca",
+    "trendly"
+   ],
+   "resumo": "Gateways: kirvano, payt, kiwify, hotmart, wiapy, perfectpay, cakto, ticto, lastlink, eduzz, monetizze, braip · Páginas: 12 · Coleta: parcial · Achados: 7 ## Quentes atmoz — Kirvano · Biblioteca ~110 -> ~120 anuncios, 6 iniciados em…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-10-29 -- 2126.md",
    "data": "2026-10-29",
@@ -31004,7 +31065,8 @@
    "2026-10-23": 28,
    "2026-10-26": 32,
    "2026-10-27": 22,
-   "2026-10-29": 29
+   "2026-10-29": 29,
+   "2026-10-31": 7
   }
  },
  "analises": [
@@ -31322,7 +31384,9 @@
    "fluency-english",
    "forro-do-zero-pe-descalco",
    "forrozeiro-do-zero",
+   "green-stalker",
    "horinha-da-leitura",
+   "imperio-da-renda-academy-paola-lellis",
    "kit-grafismo-fonetico",
    "kit-mundinho-de-papel",
    "laboratorio-de-influencers-ia",
@@ -31339,6 +31403,7 @@
    "play-videos-premiados",
    "portal-do-mei-brasil",
    "portal-shakti-club",
+   "spygram",
    "tdah-guia-pais-renata",
    "tdah-tod-paula-frati",
    "turminha-alfa-kids",
@@ -31346,7 +31411,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1600
+   "canonico": 1607
   }
  },
  "vocabulario": {
@@ -31395,28 +31460,29 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "98805654c8c6a06e",
-  "atualizado_em": "2026-10-29T21:36:02-03:00",
+  "hash": "cb7492735144df56",
+  "atualizado_em": "2026-10-31T20:49:15-03:00",
   "ofertas": 386,
   "angulos": 100,
-  "observacoes": 1114,
-  "ultima_rodada": "2026-10-29",
+  "observacoes": 1121,
+  "ultima_rodada": "2026-10-31",
   "ultima_passada": {
-   "data": "2026-10-29",
-   "hora": "21:26",
+   "data": "2026-10-31",
+   "hora": "20:43",
    "coleta": "parcial",
    "gateways": [
-    "perfectpay",
-    "payt",
     "kirvano",
+    "payt",
     "kiwify",
-    "cakto",
     "hotmart",
     "wiapy",
+    "perfectpay",
+    "cakto",
     "ticto",
     "lastlink",
     "eduzz",
-    "monetizze"
+    "monetizze",
+    "braip"
    ]
   }
  }

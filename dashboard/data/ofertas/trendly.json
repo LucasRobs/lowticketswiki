@@ -35,8 +35,8 @@
   "s_saturacao": 5,
   "status": "ativa",
   "visto_primeiro": "2026-08-23",
-  "visto_ultimo": "2026-10-29",
-  "rodadas_vista": 6,
+  "visto_ultimo": "2026-10-31",
+  "rodadas_vista": 7,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -52,7 +52,7 @@
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "2026-08-22",
-  "ra_checado": "2026-10-29",
+  "ra_checado": "2026-10-31",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -70,7 +70,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Trendly | Vitalicio\n\nDescoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por **R$ 299,00**, sem suporte e com reembolso recusado.\n\nNao e low ticket na frente - e o oposto: ticket unico alto vendido como acesso vitalicio, que e a forma que uma ferramenta usa para nao depender de recorrencia. Entra no radar como contraponto, nao como candidata: `s_ticket` maximo, `s_replica` baixo porque e software.\n\n**O que falta:** pagina de vendas, idade da oferta, se existe versao de entrada barata que escada ate os 299. Se existir, a oferta interessante e a de entrada, nao esta.\n\n## Rodada 2026-08-24\n\nPerfectPay, mesma reclamacao do vitalicio de R$ 299. Sem alteracao.\n\n## Rodada 2026-10-16\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida vitalicia. Reclamacao: promessa de suporte nao cumprida, pedido de reembolso.\n\nEvidencia: \n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida como acesso vitalicio por R$299. Mesma reclamacao das rodadas anteriores -- zero novidade.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/\n\n## Rodada 2026-10-19\n\n3 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (1 -> 3): 261774809 (assinatura sem acesso), 261761683 (promessa de suporte).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-29\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). Retorno com 1 ID (3 -> 4): 262754769, assinatura comprada em marco por R$ 239,76; acesso funcionou alguns meses e parou. Primeiro carimbo de idade da nota: vende desde marco/2026.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n",
+ "corpo": "# Trendly | Vitalicio\n\nDescoberta na lista da PerfectPay (ha 8h): compra do produto \"Trendly - Trendly | Vitalicio\" por **R$ 299,00**, sem suporte e com reembolso recusado.\n\nNao e low ticket na frente - e o oposto: ticket unico alto vendido como acesso vitalicio, que e a forma que uma ferramenta usa para nao depender de recorrencia. Entra no radar como contraponto, nao como candidata: `s_ticket` maximo, `s_replica` baixo porque e software.\n\n**O que falta:** pagina de vendas, idade da oferta, se existe versao de entrada barata que escada ate os 299. Se existir, a oferta interessante e a de entrada, nao esta.\n\n## Rodada 2026-08-24\n\nPerfectPay, mesma reclamacao do vitalicio de R$ 299. Sem alteracao.\n\n## Rodada 2026-10-16\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida vitalicia. Reclamacao: promessa de suporte nao cumprida, pedido de reembolso.\n\nEvidencia: \n\n## Rodada 2026-10-17\n\n1 mencao(oes) nesta varredura (gateway PerfectPay). Ferramenta de pesquisa de tendencias vendida como acesso vitalicio por R$299. Mesma reclamacao das rodadas anteriores -- zero novidade.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganada-com-promessa-de-suporte-e-quero-reembolso-do-produto-trendly_ZIcQ7A9PqEdjTGOV/\n\n## Rodada 2026-10-19\n\n3 mencao(oes) nesta varredura (gateway PerfectPay). 2 IDs novos na PerfectPay (1 -> 3): 261774809 (assinatura sem acesso), 261761683 (promessa de suporte).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-29\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). Retorno com 1 ID (3 -> 4): 262754769, assinatura comprada em marco por R$ 239,76; acesso funcionou alguns meses e parou. Primeiro carimbo de idade da nota: vende desde marco/2026.\n\nEvidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/\n\n## Rodada 2026-10-31\n\n4 mencao(oes) nesta varredura (gateway PerfectPay). Avistamento sem contagem: 263072749 (31/10 12h00) repete o texto do 262754769 contado em 29/10 (assinatura de R$ 239,76 comprada em marco, acesso parou ha meses). Mesmo comprador reabrindo; a PerfectPay negou alegando prazo de 7 dias.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-consigo-mais-logar-na-plataforma-trendly-e-quero-meu-dinheiro-de-volta_Y3IUA79pvUwOvDXk/\n",
  "observacoes": [
   {
    "data": "2026-08-23",
@@ -143,9 +143,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "4 mencao(oes) na varredura de hoje. Retorno com 1 ID (3 -> 4): 262754769, assinatura comprada em marco por R$ 239,76; acesso funcionou alguns meses e parou. Primeiro carimbo de idade da nota: vende desde marco/2026."
+  },
+  {
+   "data": "2026-10-31",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 4,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 239.76,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "4 mencao(oes) na varredura de hoje. Avistamento sem contagem: 263072749 (31/10 12h00) repete o texto do 262754769 contado em 29/10 (assinatura de R$ 239,76 comprada em marco, acesso parou ha meses). Mesmo comprador reabrindo; a PerfectPay negou alegando prazo de 7 dias."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-10-31 -- 2043.md",
+   "data": "2026-10-31",
+   "titulo": "Passada 2026-10-31 20:43"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-10-31.md",
+   "data": "2026-10-31",
+   "titulo": "Radar 2026-10-31"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-29 -- 1355.md",

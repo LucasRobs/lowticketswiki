@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 2
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-10-11
-rodadas_vista: 4
+visto_ultimo: 2026-10-31
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 130
 criativos_delta: 10
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/chatgpt-privado"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 9
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-11
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -111,3 +111,9 @@ Mesma busca "chatgpt plus anual" de 02 e 05/10: ~130 resultados (eram ~120, delt
 8 mencao(oes) nesta varredura (gateway Kirvano). 2 reclamacoes com ID novo: 261270415 (link do TikTok, 'ChatGPT privado') e 261140941 ('CHAT GPT PRIVADO', Kirvano). O mesmo vendedor (Infinity Apps) aparece em mais duas por SuperGrok anual (261308765, 261222951), nao contadas. 261357215 (ChatGPT Plus anual, vendedor sem nome) tambem nao contada.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (IDs 261270415, 261140941)
+
+## Rodada 2026-10-31
+
+9 mencao(oes) nesta varredura (gateway Kirvano). Rodada 31/10 (lista de 5 linhas): 1 ID novo, 263094041 (31/10 18h34): 'CHAT GPT PRIVADO [G]' por R$ 67 no Pix em 28/10; prometia credencial privada e entregou um tutorial no Telegram para pegar promocao gratuita; o produtor recusou o reembolso dentro dos 7 dias alegando 'produto digital resgatado'. Primeiro ID desde 11/10.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/solicitacao-sumiu-do-site-e-recusa-de-reembolso-pix-produto-chat-gpt-privado_xQuSP1y2GeKY6S_s/

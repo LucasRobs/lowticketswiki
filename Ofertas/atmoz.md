@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 4
 s_replica: 3
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-29
-visto_ultimo: 2026-10-29
-rodadas_vista: 1
+visto_ultimo: 2026-10-31
+rodadas_vista: 2
 dias_no_ar: 11
 criativos_ultima: 110
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 3
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -86,3 +86,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-10-31
+
+3 mencao(oes) nesta varredura (gateway Kirvano). So Biblioteca (nenhum ID novo nas 5 linhas da Kirvano): ~120 anuncios ativos para 'atmoz' (eram ~110 em 29/10), todos os carregados de John Atmoz Rodrigues, LP inteligenciajohn.com/atmoz ('Aula Gratuita | JOHN'). Mais antigo carregado 18/10 (13 dias), 5 iniciados em 29/10 e 1 em 30/10: a verba continua entrando.
+
+Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=atmoz&search_type=keyword_unordered&media_type=all

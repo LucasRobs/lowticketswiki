@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-29
-rodadas_vista: 9
+visto_ultimo: 2026-10-31
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 29
+ra_reclamacoes: 30
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -137,3 +137,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262943461 (29/10 18h01, 'centenas de influenciadores no TikTok fazendo lives'). Os 262641247 e 262722243 tambem estao na lista com carimbo de 29/10, mas os IDs sao de 26-27/10 (carimbo movido por resposta): nao contados.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/forneceup-e-propaganda-enganosa-quero-meu-dinheiro-de-volta_xqtXb5Q7E70ov2Xo/
+
+## Rodada 2026-10-31
+
+30 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 31/10: 1 ID novo, 263068407 (31/10 10h57): comprado em 11/10 pela PerfectPay, produtos cadastrados na plataforma sem nenhuma venda; pede estorno no cartao.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-forneceup-quero-meu-reembolso-por-desacordo-comercial_f32yTcf_wpnDr436/

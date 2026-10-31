@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 5
 status: ativa
 visto_primeiro: 2026-08-23
-visto_ultimo: 2026-10-29
-rodadas_vista: 6
+visto_ultimo: 2026-10-31
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -39,7 +39,7 @@ upsell_oculto: false
 ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: "2026-08-22"
-ra_checado: 2026-10-29
+ra_checado: 2026-10-31
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket]
@@ -80,3 +80,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
 4 mencao(oes) nesta varredura (gateway PerfectPay). Retorno com 1 ID (3 -> 4): 262754769, assinatura comprada em marco por R$ 239,76; acesso funcionou alguns meses e parou. Primeiro carimbo de idade da nota: vende desde marco/2026.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-10-31
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). Avistamento sem contagem: 263072749 (31/10 12h00) repete o texto do 262754769 contado em 29/10 (assinatura de R$ 239,76 comprada em marco, acesso parou ha meses). Mesmo comprador reabrindo; a PerfectPay negou alegando prazo de 7 dias.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-consigo-mais-logar-na-plataforma-trendly-e-quero-meu-dinheiro-de-volta_Y3IUA79pvUwOvDXk/
