@@ -12,14 +12,14 @@ checkout: kirvano
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=xicoria&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 300
-ticket_bump: 0
+ticket_frente: 77
+ticket_bump: 298
 ticket_upsell: 0
-ticket_medio_est: 300
+ticket_medio_est: 375
 margem_est: 0.8
 modelo: [direct]
 formato_entrega: []
-tem_recorrencia: false
+tem_recorrencia: true
 s_ticket: 10
 s_lucro: 5
 s_replica: 0
@@ -51,7 +51,7 @@ tags: [oferta, lowticket, marca]
 Estreia 05/11 com 4 IDs na Kirvano (263197379, 263224725, 263333357, 263412725). E-book 'Manual do Hormonio' de Tim Chicoria; no checkout o comprador e 'induzido a contratar' a assinatura da assessoria esportiva 'Xicoria Team', cerca de R$ 300/mes. Os quatro pedem estorno da assinatura, nao do e-book; suporte 'zomba' e alega 30 dias para resolver Pix. A Biblioteca para 'manual do hormonio' devolveu outra marca (Manual, telemedicina) e nao serve.
 
 ## Funil
-anuncio -> pagina -> checkout kirvano -> ver evidencia.
+anuncio -> pagina -> checkout kirvano: e-book 'Manual do Hormonio' a R$ 77 + assessoria 'Xicoria Team' de R$ 298 (assinatura) cobrada no mesmo checkout. Medido em 05/11 17h12 pelo ID 263475049 ('debitaram ... mais R$298,00 de uma consultoria a qual NAO CONTRATEI'). O bump vale ~4x a frente; `ticket_medio_est` 375 assume o bump pre-marcado, como os 5 corpos sugerem.
 
 ## Por que funciona
 <!-- preencher com leitura humana -->

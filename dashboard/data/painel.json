@@ -18477,12 +18477,12 @@
     "direct"
    ],
    "formato_entrega": [],
-   "recorrente": false,
+   "recorrente": true,
    "moeda": "BRL",
-   "ticket_frente": 300,
-   "ticket_bump": 0,
+   "ticket_frente": 77,
+   "ticket_bump": 298,
    "ticket_upsell": 0,
-   "ticket_medio_est": 300,
+   "ticket_medio_est": 375,
    "s_ticket": 10,
    "s_lucro": 5,
    "s_replica": 0,
@@ -27180,7 +27180,7 @@
    ],
    "duracao_min": 0,
    "n_passadas": 2,
-   "leitura": "Complemento das 17h12, ~7h depois da leitura completa das 09h45, so com a lista de 5 linhas (a API do RA ficou fora: executar JS foi negado, e o acesso ao RA foi recusado depois de 6 gateways). Cinco IDs novos acima de 263440907, todos de ofertas ja conhecidas: ShopMiner +2 (89), Xicoria +1 com a escada medida (manual R$ 77 + consultoria de R$ 298 nao contratada), Zap Radar chega a 100, Paizao +1 e o retorno do…"
+   "leitura": "09h45: A API de busca do RA voltou a responder e leu a janela inteira desde a rodada de 31/10: 700 reclamacoes unicas em 11 gateways, ~4,5 dias. Sinal novo real e concentrado: ShopMiner +19 IDs na Payt (68 -> 87) sem nenhum anuncio na Biblioteca da Meta, Paizao +8, Direct Line +7, TokScale +7 e PostCloner triplicando (3 -> 9). Seis estreias, a mais interessante o Manual do Hormonio (Kirvano), que induz no checkout…"
   },
   {
    "arquivo": "Radar/2026-10-31.md",
@@ -31885,8 +31885,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "d04518e882312165",
-  "atualizado_em": "2026-11-05T17:12:47-03:00",
+  "hash": "36d594b336d8b571",
+  "atualizado_em": "2026-11-05T17:14:22-03:00",
   "ofertas": 391,
   "angulos": 101,
   "observacoes": 1157,
