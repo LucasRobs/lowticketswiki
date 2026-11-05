@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-29
-visto_ultimo: 2026-10-31
-rodadas_vista: 2
+visto_ultimo: 2026-11-05
+rodadas_vista: 3
 dias_no_ar: 13
 criativos_ultima: 120
 criativos_delta: 10
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/atmoz"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 6
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-31
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -93,3 +93,9 @@ views:
 
 Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=atmoz&search_type=keyword_unordered&media_type=all
 - **Medido na Biblioteca (2026-10-31):** ~120 anuncios ativos para "atmoz" (eram ~110 em 29/10), todos os carregados de John Atmoz Rodrigues, LP `inteligenciajohn.com/atmoz`. Mais antigo carregado 18/10 -> `dias_no_ar: 13`; 5 iniciados em 29/10 e 1 em 30/10 -> `criativos_ultima: 120`, `criativos_delta: +10`. Primeira segunda leitura: a verba segue subindo. `s_lucro` mantido em 4 (faixa 7-20 dias; delta positivo numa leitura so ainda nao e "aquecendo", que pede 2+ rodadas).
+
+## Rodada 2026-11-05
+
+6 mencao(oes) nesta varredura (gateway Kirvano). Rodada 05/11: 3 IDs novos (3 -> 6): 263382171 e 263399799 na Kirvano ('ATMOZ PRO', 'nem de perto parecido com o que John fala') e 263410599 na Cakto (R$ 297, comprado 04/11, acesso nao funciona). Primeira vez em segundo gateway.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-acessar-o-curso-que-paguei-e-quero-meu-dinheiro-de-volta_X5BLTwtBaJ_R2P-I/

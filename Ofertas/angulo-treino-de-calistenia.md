@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 1
 status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-10-27
-rodadas_vista: 4
+visto_ultimo: 2026-11-05
+rodadas_vista: 5
 dias_no_ar: 67
 criativos_ultima: 680
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/angulo-treino-de-calistenia"
 gateways_detectados: [payt, lastlink, wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 11
 ra_plataformas: [payt, lastlink, wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -109,3 +109,9 @@ Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=al
 Busca "calistenia asiática": **~680 anúncios ativos**. Primeira página com pelo menos seis operadores com nome de pessoa — Raquel Gomes (calisteniamulheres.com, desde 21/08, ~67 dias), Larissa Guerra dos Santos (calisteniaasiatica.app.site, 13/10), Helena Duarte (13/10), Helena Costa (16/10), Julia Saito (17/10), Ana Kern (18/10) — com a mesma copy "Desafio de Calistenia Asiática em Casa", quiz + app personalizado. Parte deles usa **"acesso antes de pagar" pelo WhatsApp** ("só depois faz a sua contribuição pela liberação"). É coorte, não marca: por isso continua ângulo.
 
 Recalculado pelo `Scoring.md`: `ticket_frente`/`ticket_medio_est` 37 (R$ 35,25 a R$ 38,89 nos corpos 262616199, 262449711, 262657047) → `s_ticket` 5; `s_saturacao` 1 (dezenas de players, criativos idênticos); `dias_no_ar` 67 (operador mais antigo visto); `criativos_ultima` 680 (contagem da Biblioteca, oscila ±40 de um dia para o outro). `s_replica` segue 0 (sentinela, não medido).
+
+## Rodada 2026-11-05
+
+11 mencao(oes) nesta varredura (gateway Lastlink). Rodada 05/11: 3 IDs novos (8 -> 11), Lastlink: 263155751 ('calistenia asiatica', R$ 37,90 pelo Instagram), 263163821 e 263414959 ('Calistenia Shaolin', acesso vitalicio sem acesso). Nome novo na coorte: Shaolin.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/nao-consigo-acessar-meu-acesso-vitalicio-do-calistenia-shaolin_ZGQE7BavDQJW9hLB/

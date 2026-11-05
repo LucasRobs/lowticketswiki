@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-29
-rodadas_vista: 27
+visto_ultimo: 2026-11-05
+rodadas_vista: 28
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 93
+ra_reclamacoes: 99
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -267,3 +267,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262941951 (PerfectPay, 29/10 17h44, R$ 137, recebeu link de site de cursos em vez do app).
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-e-quero-reembolso-do-aplicativo-zap-rada_eTQtZOvS1MUpb5pT/
+
+## Rodada 2026-11-05
+
+99 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 6 IDs novos (93 -> 99) em PerfectPay e Payt: 263100461, 263109527, 263128537 (pagou R$ 509 no total), 263135211, 263140455, 263425543 (compra 29/10). O 262778703, recarimbado em 03/11, ja estava contado em 29/10 e ficou fora.
+
+Evidencia: https://www.reclameaqui.com.br/payt/solicitei-reembolso-de-curso-pago-via-pix-e-nao-recebi-estorno_uo-N10kDZm1R0mkk/

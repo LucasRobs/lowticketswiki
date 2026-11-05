@@ -24,22 +24,22 @@ s_ticket: 3
 s_lucro: 8
 s_replica: 3
 s_saturacao: 6
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-08-27
-rodadas_vista: 5
+visto_ultimo: 2026-11-05
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-streaming-doramas-turcas"
-gateways_detectados: [lowify, cakto]
+gateways_detectados: [lowify, cakto, wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
-ra_plataformas: [lowify, cakto]
+ra_reclamacoes: 13
+ra_plataformas: [lowify, cakto, wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-08-27
+ra_checado: 2026-11-05
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -109,3 +109,9 @@ RETORNO. Lowify, 21/08: "compra de uma serie, informando que teriam todos os epi
 ## Rodada 2026-08-24
 
 Lowify, mesma reclamacao de serie incompleta ja registrada em 23/08 — a linha nao girou. Sem alteracao.
+
+## Rodada 2026-11-05
+
+13 mencao(oes) nesta varredura (gateway Wiapy). Rodada 05/11: 4 IDs novos (9 -> 13), Wiapy: 263138027 e 263208561 ('Cinerama', 5.000 series e novelas, pedidos atendidos so com novos pagamentos), 263309353 ('Cinekadrama', acesso bloqueado) e 263427677 ('Cinedramatv', vitalicio que virou 'teste gratis de 10 min' depois de um mes). Retorno do angulo, agora na Wiapy.
+
+Evidencia: https://www.reclameaqui.com.br/wiapy/solicito-reembolso-total-do-servico-cinerama-por-propaganda-enganosa_6onhFst7s-t1CG_8/

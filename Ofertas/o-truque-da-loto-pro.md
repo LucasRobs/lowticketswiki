@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-29
-rodadas_vista: 8
+visto_ultimo: 2026-11-05
+rodadas_vista: 9
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/o-truque-da-loto-pro"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 13
+ra_reclamacoes: 16
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -131,3 +131,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262945507 (Payt, 29/10 18h23, compra de 28/10 21h14, 1x R$ 97, comprador diz nao reconhecer a compra).
 
 Evidencia: https://www.reclameaqui.com.br/payt/fui-cobrado-indevidamente-por-uma-compra-que-nao-fiz_UvVXuDz8Oyli0Q4b/
+
+## Rodada 2026-11-05
+
+16 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 3 IDs novos (13 -> 16), Payt: 263108529 (acesso cancelado apos 1 mes), 263155789 ('Truque da Lotofacil', Pix), 263306037 (R$ 149 em 31/10 as 23h59). Preco subiu de R$ 97 (29/10) para R$ 149.
+
+Evidencia: https://www.reclameaqui.com.br/payt/solicito-cancelamento-e-reembolso-de-r-14900-por-direito-de-arrependimento_L4g8PDlwAypDIOZ-/

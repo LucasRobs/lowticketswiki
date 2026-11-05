@@ -26,8 +26,8 @@ s_replica: 2
 s_saturacao: 2
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-10-31
-rodadas_vista: 5
+visto_ultimo: 2026-11-05
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 130
 criativos_delta: 10
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/chatgpt-privado"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-31
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -117,3 +117,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 9 mencao(oes) nesta varredura (gateway Kirvano). Rodada 31/10 (lista de 5 linhas): 1 ID novo, 263094041 (31/10 18h34): 'CHAT GPT PRIVADO [G]' por R$ 67 no Pix em 28/10; prometia credencial privada e entregou um tutorial no Telegram para pegar promocao gratuita; o produtor recusou o reembolso dentro dos 7 dias alegando 'produto digital resgatado'. Primeiro ID desde 11/10.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/solicitacao-sumiu-do-site-e-recusa-de-reembolso-pix-produto-chat-gpt-privado_xQuSP1y2GeKY6S_s/
+
+## Rodada 2026-11-05
+
+10 mencao(oes) nesta varredura (gateway Kirvano). Rodada 05/11: 1 ID novo (9 -> 10), Kirvano 263416113: vendedor 'Gabriel de Jesus', sem entrega e sem reembolso.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-meu-chat-gpt-privado-da-kirvano-e-nao-fui-reembolsada_rmDolv3Nz3MMJCVq/

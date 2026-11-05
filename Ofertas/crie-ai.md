@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-19
-visto_ultimo: 2026-10-29
-rodadas_vista: 3
+visto_ultimo: 2026-11-05
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/crie-ai"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 13
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -101,3 +101,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262936753 (Cakto, 29/10 16h50, comprou hoje, pedido de cancelamento posto 'em analise' pelo produtor).
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-a-ferramenta-crieai-que-comprei-hoje_DZHu_jmyl5PlIE_4/
+
+## Rodada 2026-11-05
+
+13 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 3 IDs novos (10 -> 13), Cakto: 263145371 (Crieia), 263253015 (Criai, reembolso negado no prazo), 263309037 (plano vitalicio CTK CRIEAIAPP).
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/reembolso-negado-indevidamente-por-criaicakto_a3rD0djj7xwAXalP/

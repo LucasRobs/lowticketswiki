@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-29
-visto_ultimo: 2026-10-13
-rodadas_vista: 3
+visto_ultimo: 2026-11-05
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkea-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 8
+ra_reclamacoes: 10
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-13
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-por-prop
 2 mencao(oes) nesta varredura (gateway PerfectPay). App de espionar Instagram/WhatsApp, recorrente desde 22/09 em quase toda rodada. Hoje (13/10) mais 2 pedidos de estorno por 'produto enganoso', com grafia nova 'StalkeIA.com' além de Stalkea.ai/Stalker AI.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-produto-enganoso-e-editado-pelo-reclame-aqui_fwnSA1pYgj3gcHTq/
+
+## Rodada 2026-11-05
+
+10 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 2 IDs novos (8 -> 10): 263142579 e 263148749 ('custos adicionais nao informados').
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-integral-por-custos-adicionais-nao-informados_IaaWx9XNxzgfzvWp/

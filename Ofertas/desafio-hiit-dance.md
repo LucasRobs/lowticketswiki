@@ -24,10 +24,10 @@ s_ticket: 6
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-08
-visto_ultimo: 2026-10-08
-rodadas_vista: 1
+visto_ultimo: 2026-11-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/desafio-hiit-dance"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
+ra_reclamacoes: 3
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-08
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-05
+
+3 mencao(oes) nesta varredura (gateway Lastlink). Rodada 05/11: 2 IDs novos (1 -> 3), Lastlink: 263124399 (compra 30/10, nao entregue) e 263430851 (aulas nao aparecem).
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/nao-consigo-acessar-as-aulas-do-desafio-hiit-dance-e-quero-meu-dinheiro-de-volta_t1IO6Q4nQhlCc1Ih/

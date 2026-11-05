@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 5
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-29
-visto_ultimo: 2026-10-29
-rodadas_vista: 1
+visto_ultimo: 2026-11-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/green-stalker"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 9
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-05
+
+9 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 5 IDs novos (4 -> 9), PerfectPay: 263181713, 263206137, 263211999, 263305937, 263335419. 'Pagamento unico de R$ 67' seguido de R$ 37 e novos Pix para 'adicionar credito'; so entrega simulacao. Mesma escada de taxa do Stalkeia.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-duas-vezes-por-um-produto-e-quero-meu-reembolso_jQGJQ7c7XvP4n38p/

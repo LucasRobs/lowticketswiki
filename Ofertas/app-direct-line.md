@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-31
-rodadas_vista: 11
+visto_ultimo: 2026-11-05
+rodadas_vista: 12
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 46
+ra_reclamacoes: 53
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-31
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -149,3 +149,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/comprei-um-app-que-nao-funci
 46 mencao(oes) nesta varredura (gateway Cakto). Rodada 31/10: 1 ID novo, 263090227 (31/10 17h14): comprado em 30/10, cancelamento pedido no mesmo dia pelo suporte, sem resposta. Mesmo padrao de arrependimento dentro dos 7 dias sem canal para cancelar.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-o-directline-e-o-suporte-nao-me-responde_RDrJ2Krcxzr64LhR/
+
+## Rodada 2026-11-05
+
+53 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 7 IDs novos (46 -> 53), todos na Cakto: 263129397, 263137401, 263193355, 263230085, 263409475, 263411829, 263439871. 'Programa de agenda pelo WhatsApp' / 'programa de IA' com assinatura que o app nao deixa cancelar; uma reclamacao nomeia a proprietaria (Danni L., 263193355).
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-meu-programa-de-agenda-direct-line-da-cakto-pay_vuM7DT8bY25VIDi0/

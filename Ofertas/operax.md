@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-29
-rodadas_vista: 4
+visto_ultimo: 2026-11-05
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/operax"
 gateways_detectados: [kirvano, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [kirvano, payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: descartar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -113,3 +113,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262931397 (Payt, 29/10 17h53, assinatura de R$ 97 cobrada no cartao).
 
 Evidencia: https://www.reclameaqui.com.br/payt/quero-reembolso-dos-97-reais-que-a-operax-tirou-do-meu-cartao_KJAzD6zTxPqzn7ja/
+
+## Rodada 2026-11-05
+
+6 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 1 ID novo (5 -> 6), Payt 263374627: curso 'nao cumpre o anuncio'.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-cancelar-meu-curso-da-operax-e-ser-reembolsado_Ep497wV04yqi-7Y5/
