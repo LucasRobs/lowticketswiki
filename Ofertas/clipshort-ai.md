@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: esfriando
+status: ativa
 visto_primeiro: 2026-10-05
-visto_ultimo: 2026-10-20
-rodadas_vista: 4
+visto_ultimo: 2026-11-05
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/clipshort-ai"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 6
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-20
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 5 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos na Kirvano (3 -> 5): 262113545 ('clicshort', R$ 68 pela promessa de criar videos e divulgar nas redes) e 262106801 (Clipshort, defeito e propaganda enganosa).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+6 mencao(oes) nesta varredura (gateway Kirvano). Complemento 05/11 17h12, retorno depois de 20/10: 1 ID novo na Kirvano, 5 -> 6. 263487929 (15h01): o comprador pagou R$ 67,99 de novo porque o suporte avisou que a geracao de videos tinha sido consertada, e continua sem funcionar. Recompra induzida pelo suporte, mesma familia 'app que gera video' do ShopMiner.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/quero-estorno-do-clipshort-que-nao-funciona-e-propaganda-enganosa_vodie1e49T4oJwQw/

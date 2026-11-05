@@ -12,14 +12,14 @@ checkout: kirvano
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=xicoria&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 300
-ticket_bump: 0
+ticket_frente: 77
+ticket_bump: 298
 ticket_upsell: 0
-ticket_medio_est: 300
+ticket_medio_est: 375
 margem_est: 0.8
 modelo: [direct]
 formato_entrega: []
-tem_recorrencia: false
+tem_recorrencia: true
 s_ticket: 10
 s_lucro: 5
 s_replica: 0
@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/manual-do-hormonio-xicoria-team"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
 ra_checado: 2026-11-05
@@ -51,7 +51,7 @@ tags: [oferta, lowticket, marca]
 Estreia 05/11 com 4 IDs na Kirvano (263197379, 263224725, 263333357, 263412725). E-book 'Manual do Hormonio' de Tim Chicoria; no checkout o comprador e 'induzido a contratar' a assinatura da assessoria esportiva 'Xicoria Team', cerca de R$ 300/mes. Os quatro pedem estorno da assinatura, nao do e-book; suporte 'zomba' e alega 30 dias para resolver Pix. A Biblioteca para 'manual do hormonio' devolveu outra marca (Manual, telemedicina) e nao serve.
 
 ## Funil
-anuncio -> pagina -> checkout kirvano -> ver evidencia.
+anuncio -> pagina -> checkout kirvano: e-book 'Manual do Hormonio' a R$ 77 + assessoria 'Xicoria Team' de R$ 298 (assinatura) cobrada no mesmo checkout. Medido em 05/11 17h12 pelo ID 263475049 ('debitaram ... mais R$298,00 de uma consultoria a qual NAO CONTRATEI'). O bump vale ~4x a frente; `ticket_medio_est` 375 assume o bump pre-marcado, como os 5 corpos sugerem.
 
 ## Por que funciona
 <!-- preencher com leitura humana -->
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-05
+
+5 mencao(oes) nesta varredura (gateway Kirvano). Complemento 05/11 17h12: 1 ID novo na Kirvano, 4 -> 5. 263475049 (13h16) mede a escada pela primeira vez: o manual custou R$ 77 e foram debitados mais R$ 298 de uma consultoria 'que NAO CONTRATEI'; reembolso negado dentro dos 7 dias apesar da garantia anunciada.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-indevidamente-por-consultoria-nao-contratada-e-negaram-meu-reembolso_m5xdOMKdCJBk_apR/

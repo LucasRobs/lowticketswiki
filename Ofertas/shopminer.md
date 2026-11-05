@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 87
+ra_reclamacoes: 89
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-11-05
@@ -157,3 +157,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/nao-recebi-o-reembolso-total-do-m
 87 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11 (API, janela 31/10 20h40 -> 05/11 09h): 19 IDs novos, 68 -> 87, o maior volume da janela em qualquer gateway (19 de 142 reclamacoes da Payt). App de 'minerar produtos e gerar videos de IA', vitalicio; compras de 14/10 a 04/11, varias com cancelamento no dia seguinte e app que nao gera os videos. Um comprador levou junto o curso 'Maquina de Vendas - Metodo HS' (263440907). Biblioteca de Anuncios: zero anuncios ativos para 'shopminer' e para "shop miner" (frase exata) em 05/11, entao a aquisicao nao e pela Meta.
 
 Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-urgente-do-app-shop-miner-e-curso-maquina-de-vendas_-_h2XY5cq71c005G/
+
+## Rodada 2026-11-05 (complemento 17h12)
+
+Complemento 05/11 17h12 (lista de 5 linhas, IDs acima de 263440907): 2 IDs novos na Payt, 87 -> 89. 263490617 (15h22, 'app no valor de 297,00 nao cumpriu o que prometeu') e 263495429 (16h02, compra em 30/10 por R$ 344 via Pix, arrependimento dentro dos 7 dias sem resposta). Duas das cinco linhas da Payt da tarde sao ShopMiner.
+
+Evidencia: https://www.reclameaqui.com.br/payt/solicito-cancelamento-e-reembolso-de-r-00-do-shopminer_72QWsNmCnG6NMrQy/

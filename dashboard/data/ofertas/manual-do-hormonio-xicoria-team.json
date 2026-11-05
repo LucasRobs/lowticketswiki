@@ -17,16 +17,16 @@
   "url_pagina": "",
   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=xicoria&search_type=keyword_unordered&media_type=all",
   "moeda": "BRL",
-  "ticket_frente": 300,
-  "ticket_bump": 0,
+  "ticket_frente": 77,
+  "ticket_bump": 298,
   "ticket_upsell": 0,
-  "ticket_medio_est": 300,
+  "ticket_medio_est": 375,
   "margem_est": 0.8,
   "modelo": [
    "direct"
   ],
   "formato_entrega": [],
-  "tem_recorrencia": false,
+  "tem_recorrencia": true,
   "s_ticket": 10,
   "s_lucro": 5,
   "s_replica": 0,
@@ -45,7 +45,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 4,
+  "ra_reclamacoes": 5,
   "ra_plataformas": [
    "kirvano"
   ],
@@ -71,7 +71,7 @@
    "kirvano"
   ]
  },
- "corpo": "# Manual do Hormônio (Xicoria Team)\n\n## Angulo\nEstreia 05/11 com 4 IDs na Kirvano (263197379, 263224725, 263333357, 263412725). E-book 'Manual do Hormonio' de Tim Chicoria; no checkout o comprador e 'induzido a contratar' a assinatura da assessoria esportiva 'Xicoria Team', cerca de R$ 300/mes. Os quatro pedem estorno da assinatura, nao do e-book; suporte 'zomba' e alega 30 dias para resolver Pix. A Biblioteca para 'manual do hormonio' devolveu outra marca (Manual, telemedicina) e nao serve.\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 4 mencao(oes) na varredura de 2026-11-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-por-assinatura-que-nao-contratei-e-quero-reembolso_8waHuBZsRgJFCvI8/\n\n## Historico\n",
+ "corpo": "# Manual do Hormônio (Xicoria Team)\n\n## Angulo\nEstreia 05/11 com 4 IDs na Kirvano (263197379, 263224725, 263333357, 263412725). E-book 'Manual do Hormonio' de Tim Chicoria; no checkout o comprador e 'induzido a contratar' a assinatura da assessoria esportiva 'Xicoria Team', cerca de R$ 300/mes. Os quatro pedem estorno da assinatura, nao do e-book; suporte 'zomba' e alega 30 dias para resolver Pix. A Biblioteca para 'manual do hormonio' devolveu outra marca (Manual, telemedicina) e nao serve.\n\n## Funil\nanuncio -> pagina -> checkout kirvano: e-book 'Manual do Hormonio' a R$ 77 + assessoria 'Xicoria Team' de R$ 298 (assinatura) cobrada no mesmo checkout. Medido em 05/11 17h12 pelo ID 263475049 ('debitaram ... mais R$298,00 de uma consultoria a qual NAO CONTRATEI'). O bump vale ~4x a frente; `ticket_medio_est` 375 assume o bump pre-marcado, como os 5 corpos sugerem.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 4 mencao(oes) na varredura de 2026-11-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-por-assinatura-que-nao-contratei-e-quero-reembolso_8waHuBZsRgJFCvI8/\n\n## Historico\n\n## Rodada 2026-11-05\n\n5 mencao(oes) nesta varredura (gateway Kirvano). Complemento 05/11 17h12: 1 ID novo na Kirvano, 4 -> 5. 263475049 (13h16) mede a escada pela primeira vez: o manual custou R$ 77 e foram debitados mais R$ 298 de uma consultoria 'que NAO CONTRATEI'; reembolso negado dentro dos 7 dias apesar da garantia anunciada.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-indevidamente-por-consultoria-nao-contratada-e-negaram-meu-reembolso_m5xdOMKdCJBk_apR/\n",
  "observacoes": [
   {
    "data": "2026-11-05",
@@ -87,6 +87,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-11-05 -- 1712.md",
+   "data": "2026-11-05",
+   "titulo": "Passada 2026-11-05 17:12"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-11-05.md",

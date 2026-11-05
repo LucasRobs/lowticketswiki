@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/zap-radar"
 gateways_detectados: [perfectpay, payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 99
+ra_reclamacoes: 100
 ra_plataformas: [perfectpay, payt]
 ra_primeira_reclamacao: 
 ra_checado: 2026-11-05
@@ -273,3 +273,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-enganado-e-quero-reembo
 99 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 6 IDs novos (93 -> 99) em PerfectPay e Payt: 263100461, 263109527, 263128537 (pagou R$ 509 no total), 263135211, 263140455, 263425543 (compra 29/10). O 262778703, recarimbado em 03/11, ja estava contado em 29/10 e ficou fora.
 
 Evidencia: https://www.reclameaqui.com.br/payt/solicitei-reembolso-de-curso-pago-via-pix-e-nao-recebi-estorno_uo-N10kDZm1R0mkk/
+
+## Rodada 2026-11-05 (complemento 17h12)
+
+Complemento 05/11 17h12: 1 ID novo na Payt, 99 -> 100. 263484877 (14h36): pagou R$ 137 pela promessa de entregar as conversas privadas de um contato e recebeu so um relatorio que parece falso.
+
+Evidencia: https://www.reclameaqui.com.br/payt/comprei-zapradar-por-r137-e-so-recebi-relatorio-falso_koiLIqa2wjBpiOZe/

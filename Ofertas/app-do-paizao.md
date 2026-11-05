@@ -36,7 +36,7 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 48
+ra_reclamacoes: 49
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
 ra_checado: 2026-11-05
@@ -219,3 +219,9 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-consigo-acessar
 48 mencao(oes) nesta varredura (gateway Kirvano). Rodada 05/11: 8 IDs novos (40 -> 48), todos na Kirvano (263163579, 263233081, 263233621, 263298575, 263304875, 263323025, 263400083, 263411057). Plano mensal de R$ 49 com cancelamento negado; 'assinei sem querer e me cobraram outra assinatura' (263163579), o mesmo degrau de assinatura dupla ja descrito. Compras ate 03/11.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-reembolso-do-aplicativo-app-do-paizao-apos-me-arrepender-da-compra_4BTr6AwDvCrMNXrR/
+
+## Rodada 2026-11-05 (complemento 17h12)
+
+Complemento 05/11 17h12: 1 ID novo na Kirvano, 48 -> 49. 263472117 (12h52): plano mensal comprado em 31/10, cancelamento pedido em 05/11 dentro dos 7 dias e estorno recusado.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-o-servico-do-app-do-paizao-e-recusaram-meu-estorno_MFBMzNDSy5d0KDhA/
