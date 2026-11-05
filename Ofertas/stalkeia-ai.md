@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 3
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-29
-rodadas_vista: 26
+visto_ultimo: 2026-11-05
+rodadas_vista: 27
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkeia-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: true
 upsell_oculto: false
-ra_reclamacoes: 57
+ra_reclamacoes: 60
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket, marca]
@@ -261,3 +261,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/ 
 57 mencao(oes) nesta varredura (gateway PerfectPay). 3 IDs novos (54 -> 57) na PerfectPay: 262887903 (up.stalkeia.ai, comprado 29/10), 262847163, 262788713 (Pix).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+60 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 3 IDs novos (57 -> 60): 263258249 (R$ 37,90 via Pix, 'so apresenta simulacao e exige novos pagamentos'), 263322203 (estalkeia.com) e 263406123 (varios Pix). O 263287601 ('stalke ai', 37+37+67 e pedido de mais 97) e o 263397659 (generico) nao foram atribuidos.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/fui-cobrado-por-servico-de-investigacao-no-e-so-recebi-simulacao_4ILAoPQplzGuGYKO/

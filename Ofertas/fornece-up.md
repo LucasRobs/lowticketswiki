@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-31
-rodadas_vista: 10
+visto_ultimo: 2026-11-05
+rodadas_vista: 11
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/fornece-up"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 30
+ra_reclamacoes: 33
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-31
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -143,3 +143,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/forneceup-e-propaganda-enga
 30 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 31/10: 1 ID novo, 263068407 (31/10 10h57): comprado em 11/10 pela PerfectPay, produtos cadastrados na plataforma sem nenhuma venda; pede estorno no cartao.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa-forneceup-quero-meu-reembolso-por-desacordo-comercial_f32yTcf_wpnDr436/
+
+## Rodada 2026-11-05
+
+33 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 3 IDs novos (30 -> 33): 263102945 (acesso bloqueado no dia da compra), 263294903 e 263339661 (assinatura cancelada no mesmo dia).
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-e-cancelamento-da-assinatura-fornece-up_sitmASgeSQKgLLwT/

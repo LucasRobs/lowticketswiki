@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-29
-rodadas_vista: 5
+visto_ultimo: 2026-11-05
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/anunciaie"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 7
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
 5 mencao(oes) nesta varredura (gateway PerfectPay). Retorno com 1 ID (4 -> 5): 262863489 ('Anunciae', comprado 24/10, reembolso pedido 25/10).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/perfectpay/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+7 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 2 IDs novos (5 -> 7), PerfectPay: 263280983 (produtor Gabriel Sampaio) e 263371813.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-o-servico-prometido-e-quero-reembolso-integral-do-produto-anunciae_0ucnM8AnovL0bDne/

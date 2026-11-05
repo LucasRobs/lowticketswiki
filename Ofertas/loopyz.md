@@ -26,8 +26,8 @@ s_replica: 4
 s_saturacao: 8
 status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-29
-rodadas_vista: 14
+visto_ultimo: 2026-11-05
+rodadas_vista: 15
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/loopyz"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 13
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 2
 tags: [oferta, lowticket, marca]
@@ -174,3 +174,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 10 mencao(oes) nesta varredura (gateway Cakto). 2 IDs novos (8 -> 10) na Cakto, 'Loopyz Live': 262858745, 262798863.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+13 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 3 IDs novos (10 -> 13), Cakto: 263268275 (compra de 09/08), 263298541, 263366293 (Loopyz Live R$ 97,90).
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-reembolso-do-loopyz-live-e-cakto-nao-resolve_myueazJ2N2AelUR9/

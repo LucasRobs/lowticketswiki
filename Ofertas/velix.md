@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-27
-visto_ultimo: 2026-10-27
-rodadas_vista: 1
+visto_ultimo: 2026-11-05
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/velix"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 7
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-05
+
+7 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 4 IDs novos (3 -> 7), PerfectPay: 263198619, 263353051 (R$ 132,72, assinatura), 263421679, 263429695. Vendido em live no TikTok ('pelo Luan') como ferramenta de afiliado do Mercado Livre, com promessa de acompanhamento individual.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-do-curso-velix-cancelado-em-7-dias_YPyZNZk_ccAqjaOR/

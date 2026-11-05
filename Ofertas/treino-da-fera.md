@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-19
-visto_ultimo: 2026-10-27
-rodadas_vista: 4
+visto_ultimo: 2026-11-05
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-da-fera"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 10
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-27
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 6 mencao(oes) nesta varredura (gateway Payt). 1 ID novo (5 -> 6): 262683101 (Payt, R$ 67 no Pix em 26/10, nao recebido).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 262683101)
+
+## Rodada 2026-11-05
+
+10 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 4 IDs novos (6 -> 10), Payt: 263276671, 263333517, 263405419 (Arbon, Pix), 263426247 (Treino da Fera + versao vitalicia).
+
+Evidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-do-curso-treino-da-fera_sHCxEyooI1UQYD-h/

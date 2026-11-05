@@ -33,10 +33,10 @@
   "s_lucro": 8,
   "s_replica": 3,
   "s_saturacao": 6,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-08-16",
-  "visto_ultimo": "2026-08-27",
-  "rodadas_vista": 5,
+  "visto_ultimo": "2026-11-05",
+  "rodadas_vista": 6,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -44,17 +44,19 @@
   "ativos_pasta": "Ativos/angulo-streaming-doramas-turcas",
   "gateways_detectados": [
    "lowify",
-   "cakto"
+   "cakto",
+   "wiapy"
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 9,
+  "ra_reclamacoes": 13,
   "ra_plataformas": [
    "lowify",
-   "cakto"
+   "cakto",
+   "wiapy"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-08-27",
+  "ra_checado": "2026-11-05",
   "veredito": "descartar",
   "prioridade": 0,
   "tags": [
@@ -72,10 +74,11 @@
   ],
   "gateways": [
    "cakto",
-   "lowify"
+   "lowify",
+   "wiapy"
   ]
  },
- "corpo": "# Novelas turcas, doramas e mini dramas\n\n## Angulo\nAcesso vitalicio a catalogo de novelas turcas, doramas, mini dramas e desenhos classicos. Ticket de R$10 a R$20.\n\n## Funil\nanuncio -> pagina -> Pix -> link/login para o catalogo.\n\n## Por que funciona\nSeis mencoes em dois gateways (Lowify e Cakto). Volume alto e ticket baixissimo - e o nicho de streaming que a taxonomia marca como pouco explorado por infoprodutor.\n\n## O que copiar / o que evitar\nNao replicar como esta: o catalogo e conteudo de terceiros. O que vale e a leitura de demanda - o publico de novela turca compra por impulso a R$10 e nao pede reembolso por preco, so por acesso.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (6 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/pagamento-efetuado-mas-sem-acesso-as-novelas-e-series-turcas_L1Hr6fNcsbhS8Sxe/\n\n## Historico\n\n## Rodada 2026-08-20 — recorrência confirmada\n\nDuas reclamações novas na lista da Lowify, ambas de um dia atrás. Uma delas nomeia os\nplanos com precisão:\n\n> \"assinatura Dorama VIP vitalícia\" e \"de 1 mês\"\n\nA oferta tem **trilho de assinatura mensal** além do vitalício — `tem_recorrencia`\ncorrigido para `true`. Pela rubrica de `s_ticket`, recorrência puxaria a nota para 9-10;\nnão aplico o ajuste porque o valor da mensalidade não foi citado e a mecânica aqui é\ntipicamente de R$10 a R$20. Registro a pendência em vez de inflar o score.\n\nOito menções em dois gateways é o segundo maior volume do vault, atrás só de\n[[treino-trinca]]. O veredito segue `descartar`: o produto é catálogo de terceiro. O que\nvale continua sendo a leitura de demanda.\n\n## Rodada 2026-08-23\n\nRETORNO. Lowify, 21/08: \"compra de uma serie, informando que teriam todos os episodios mas veio apenas alguns\". Estava esfriando desde 20/08 por ausencia, nao por queda - a rodada de ontem simplesmente nao alcancou esta reclamacao. Nona reclamacao acumulada.\n\n## Rodada 2026-08-24\n\nLowify, mesma reclamacao de serie incompleta ja registrada em 23/08 — a linha nao girou. Sem alteracao.\n",
+ "corpo": "# Novelas turcas, doramas e mini dramas\n\n## Angulo\nAcesso vitalicio a catalogo de novelas turcas, doramas, mini dramas e desenhos classicos. Ticket de R$10 a R$20.\n\n## Funil\nanuncio -> pagina -> Pix -> link/login para o catalogo.\n\n## Por que funciona\nSeis mencoes em dois gateways (Lowify e Cakto). Volume alto e ticket baixissimo - e o nicho de streaming que a taxonomia marca como pouco explorado por infoprodutor.\n\n## O que copiar / o que evitar\nNao replicar como esta: o catalogo e conteudo de terceiros. O que vale e a leitura de demanda - o publico de novela turca compra por impulso a R$10 e nao pede reembolso por preco, so por acesso.\n\n## Estado dos dados\n- **Confirmado:** existencia, gateway de checkout, contagem de reclamacoes em amostra de 10 paginas (6 mencao/mencoes).\n- **Provisorio:** tickets e `s_ticket` quando o reclamante nao citou valor; `s_lucro` usa repeticao no Reclame Aqui como proxy, nao tempo no ar.\n- **Faltando:** dias no ar, contagem de criativos, bump e upsell ocultos (unFunnelizer).\n\nEvidencia: https://www.reclameaqui.com.br/cakto-pay/pagamento-efetuado-mas-sem-acesso-as-novelas-e-series-turcas_L1Hr6fNcsbhS8Sxe/\n\n## Historico\n\n## Rodada 2026-08-20 — recorrência confirmada\n\nDuas reclamações novas na lista da Lowify, ambas de um dia atrás. Uma delas nomeia os\nplanos com precisão:\n\n> \"assinatura Dorama VIP vitalícia\" e \"de 1 mês\"\n\nA oferta tem **trilho de assinatura mensal** além do vitalício — `tem_recorrencia`\ncorrigido para `true`. Pela rubrica de `s_ticket`, recorrência puxaria a nota para 9-10;\nnão aplico o ajuste porque o valor da mensalidade não foi citado e a mecânica aqui é\ntipicamente de R$10 a R$20. Registro a pendência em vez de inflar o score.\n\nOito menções em dois gateways é o segundo maior volume do vault, atrás só de\n[[treino-trinca]]. O veredito segue `descartar`: o produto é catálogo de terceiro. O que\nvale continua sendo a leitura de demanda.\n\n## Rodada 2026-08-23\n\nRETORNO. Lowify, 21/08: \"compra de uma serie, informando que teriam todos os episodios mas veio apenas alguns\". Estava esfriando desde 20/08 por ausencia, nao por queda - a rodada de ontem simplesmente nao alcancou esta reclamacao. Nona reclamacao acumulada.\n\n## Rodada 2026-08-24\n\nLowify, mesma reclamacao de serie incompleta ja registrada em 23/08 — a linha nao girou. Sem alteracao.\n\n## Rodada 2026-11-05\n\n13 mencao(oes) nesta varredura (gateway Wiapy). Rodada 05/11: 4 IDs novos (9 -> 13), Wiapy: 263138027 e 263208561 ('Cinerama', 5.000 series e novelas, pedidos atendidos so com novos pagamentos), 263309353 ('Cinekadrama', acesso bloqueado) e 263427677 ('Cinedramatv', vitalicio que virou 'teste gratis de 10 min' depois de um mes). Retorno do angulo, agora na Wiapy.\n\nEvidencia: https://www.reclameaqui.com.br/wiapy/solicito-reembolso-total-do-servico-cinerama-por-propaganda-enganosa_6onhFst7s-t1CG_8/\n",
  "observacoes": [
   {
    "data": "2026-08-16",
@@ -136,9 +139,27 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "Lowify. Reclamacao de serie com episodios incompletos, ID 257017199, carimbo 21/08/2026 04h49. Rotulo dizia 'Ha 1 dia'. Anterior a rodada de 24/08 — nao incrementa."
+  },
+  {
+   "data": "2026-11-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 13,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 0,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "13 mencao(oes) na varredura de hoje. Rodada 05/11: 4 IDs novos (9 -> 13), Wiapy: 263138027 e 263208561 ('Cinerama', 5.000 series e novelas, pedidos atendidos so com novos pagamentos), 263309353 ('Cinekadrama', acesso bloqueado) e 263427677 ('Cinedramatv', vitalicio que virou 'teste gratis de 10 min' depois de um mes). Retorno do angulo, agora na Wiapy."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-11-05.md",
+   "data": "2026-11-05",
+   "titulo": "Radar 2026-11-05"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-08-29.md",

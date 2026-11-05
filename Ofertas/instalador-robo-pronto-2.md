@@ -24,10 +24,10 @@ s_ticket: 8
 s_lucro: 7
 s_replica: 5
 s_saturacao: 3
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-26
-rodadas_vista: 6
+visto_ultimo: 2026-11-05
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/instalador-robo-pronto-2"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: "2026-08-15"
-ra_checado: 2026-10-26
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 1
 tags: [oferta, lowticket]
@@ -89,3 +89,9 @@ Cakto, reclamacao NOVA: reembolso do INSTALADOR ROBO PRONTO 2.0 fora do prazo le
 4 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (3 -> 4), sem aparecer desde 27/08: 262585329 (Cakto, compra 13/10, produtor Caio Martins, cancelamento sem retorno).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262585329)
+
+## Rodada 2026-11-05
+
+5 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 1 ID novo (4 -> 5), Cakto 263345743. Retorno.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/solicito-reembolso-do-curso-instalador-robo-pronto-20-da-cakto_f_smVMbicF1cEOms/

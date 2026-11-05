@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-10-29
-rodadas_vista: 16
+visto_ultimo: 2026-11-05
+rodadas_vista: 17
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 40
+ra_reclamacoes: 48
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -213,3 +213,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 Complemento 21h26 (lista de 5 linhas): 2 IDs novos. 262927087 (29/10 15h18: plano mensal de R$ 47,01 trocado no checkout por cobranca unica de R$ 229,99, compra de 20/10) e 262959519 (29/10 21h24: 'Carlao do Paizao', compra de 05/08, login nunca funcionou). A compra de 05/08 e a mais antiga ja lida num corpo desta oferta.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-consigo-acessar-meu-aplicativo-carlao-do-paizao-e-exijo-reembolso_qDqRVaUozoq8naOB/
+
+## Rodada 2026-11-05
+
+48 mencao(oes) nesta varredura (gateway Kirvano). Rodada 05/11: 8 IDs novos (40 -> 48), todos na Kirvano (263163579, 263233081, 263233621, 263298575, 263304875, 263323025, 263400083, 263411057). Plano mensal de R$ 49 com cancelamento negado; 'assinei sem querer e me cobraram outra assinatura' (263163579), o mesmo degrau de assinatura dupla ja descrito. Compras ate 03/11.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-reembolso-do-aplicativo-app-do-paizao-apos-me-arrepender-da-compra_4BTr6AwDvCrMNXrR/

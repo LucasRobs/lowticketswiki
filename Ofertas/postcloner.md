@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-10-29
-rodadas_vista: 3
+visto_ultimo: 2026-11-05
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/postcloner"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 9
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (
 3 mencao(oes) nesta varredura (gateway Cakto). 1 ID novo (2 -> 3) na Cakto: 262779983 (videos duplicados).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+9 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 6 IDs novos (3 -> 9), todos na Cakto: 263110071, 263131651 (tres compras em 31/10), 263188195, 263278263, 263329193 ('Posh Clone'), 263390807 (automacao de redes que parou de funcionar e cobranca indevida). Triplicou em 5 dias.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/contratei-automacao-de-redes-sociais-e-parou-de-funcionar-alem-de-cobranca-indevida_t_tcB738kLDP5N5j/

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-27
-visto_ultimo: 2026-10-29
-rodadas_vista: 2
+visto_ultimo: 2026-11-05
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/metodo-mini-experts-suelen-mello"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 5
+ra_reclamacoes: 9
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 5 mencao(oes) nesta varredura (gateway Payt). 2 IDs novos (3 -> 5) na Payt: 262771521 (cancelamento sem resposta ha 10 dias), 262842663 ('curso miniexpert' comprado e cancelado no mesmo dia).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+9 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 4 IDs novos (5 -> 9), Payt: 263135651 (compra 25/10), 263390775, 263432195, 263438531. Cancelamento pedido e sem suporte.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-meu-dinheiro-de-volta-do-curso-mini-experts-da-suellen-melo_uvgJPE0ZTMMWASfl/

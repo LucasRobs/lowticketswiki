@@ -24,22 +24,22 @@ s_ticket: 7
 s_lucro: 8
 s_replica: 6
 s_saturacao: 4
-status: ativa
+status: aquecendo
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-10-31
-rodadas_vista: 17
-dias_no_ar: 70
-criativos_ultima: 100
-criativos_delta: 16
+visto_ultimo: 2026-11-05
+rodadas_vista: 18
+dias_no_ar: 75
+criativos_ultima: 120
+criativos_delta: 20
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 128
+ra_reclamacoes: 130
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-31
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -219,3 +219,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/lastlink/lista-reclamacoes/
 
 Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=treino%20trinca&search_type=keyword_unordered&media_type=all
 - **Medido na Biblioteca (2026-10-31):** ~100 resultados para "treino trinca" (eram ~84 em 26/10; o frontmatter ainda guardava o 140 de 21-23/10), todos os carregados de Pedro Lotz (LP `ltz.pedrolotz.online` e `inlead.digital`). Mais antigo carregado 22/08 -> `dias_no_ar: 70`; 5 criativos iniciados de 26 a 28/10, nenhum de 29 a 31/10 -> `criativos_ultima: 100`, `criativos_delta: +16` contra a leitura de 26/10. Responde a pergunta de 27/10: a verba nao parou; o silencio do RA desde 27/10 (2 IDs em ~46h, 0 nas 5 linhas da Lastlink hoje) nao e a oferta saindo do ar. `s_lucro` 8 mantido (faixa 45-90 dias).
+
+## Rodada 2026-11-05
+
+130 mencao(oes) nesta varredura (gateway Lastlink). Rodada 05/11: 2 IDs novos (128 -> 130), Lastlink: 263135169 (R$ 37, sem conseguir cancelar) e 263163939 (Pix de R$ 997 do pacote TF1000 nao devolvido). Biblioteca 05/11: 'treino trinca' ~120 resultados (~100 em 31/10), todos de Pedro Lotz, mais antigo de 22/08 (dias_no_ar 75).
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/nao-recebi-o-pix-de-r99700-do-pacote-tf1000_ggxQYKCNk9z8nd-B/

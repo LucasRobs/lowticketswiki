@@ -33,8 +33,8 @@
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-27",
-  "visto_ultimo": "2026-10-27",
-  "rodadas_vista": 1,
+  "visto_ultimo": "2026-11-05",
+  "rodadas_vista": 2,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 3,
+  "ra_reclamacoes": 7,
   "ra_plataformas": [
    "perfectpay"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-27",
+  "ra_checado": "2026-11-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "perfectpay"
   ]
  },
- "corpo": "# Velix\n\n## Angulo\nFerramenta/assinatura que promete ajudar a vender produtos digitais e em marketplace (Mercado Livre/Shopee), vendida pelo TikTok de 'Julio Gabriel'. 3 IDs na PerfectPay: 262719823 (R$ 296, comprada 27/10 09h50, suporte e robo), 262615033 (R$ 478,32, 26/10) e 262601455 (estorno de assinatura nao pago); os dois ultimos estavam na fila de 26/10. Biblioteca: 'velix' devolve outros anunciantes (Velix-Core, laser Vellix), nenhum desta oferta.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-ajuda-do-suporte-da-velix-e-solicito-reembolso_IIQUfbnvGhCSQyZN/\n\n## Historico\n",
+ "corpo": "# Velix\n\n## Angulo\nFerramenta/assinatura que promete ajudar a vender produtos digitais e em marketplace (Mercado Livre/Shopee), vendida pelo TikTok de 'Julio Gabriel'. 3 IDs na PerfectPay: 262719823 (R$ 296, comprada 27/10 09h50, suporte e robo), 262615033 (R$ 478,32, 26/10) e 262601455 (estorno de assinatura nao pago); os dois ultimos estavam na fila de 26/10. Biblioteca: 'velix' devolve outros anunciantes (Velix-Core, laser Vellix), nenhum desta oferta.\n\n## Funil\nanuncio -> pagina -> checkout perfectpay -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 3 mencao(oes) na varredura de 2026-10-27 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/nao-recebi-ajuda-do-suporte-da-velix-e-solicito-reembolso_IIQUfbnvGhCSQyZN/\n\n## Historico\n\n## Rodada 2026-11-05\n\n7 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 4 IDs novos (3 -> 7), PerfectPay: 263198619, 263353051 (R$ 132,72, assinatura), 263421679, 263429695. Vendido em live no TikTok ('pelo Luan') como ferramenta de afiliado do Mercado Livre, com promessa de acompanhamento individual.\n\nEvidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-do-curso-velix-cancelado-em-7-dias_YPyZNZk_ccAqjaOR/\n",
  "observacoes": [
   {
    "data": "2026-10-27",
@@ -84,9 +84,33 @@
    "preco_mudou": false,
    "angulo_novo": true,
    "texto": "Primeira vez vista. Ferramenta/assinatura que promete ajudar a vender produtos digitais e em marketplace (Mercado Livre/Shopee), vendida pelo TikTok de 'Julio Gabriel'. 3 IDs na PerfectPay: 262719823 (R$ 296, comprada 27/10 09h50, suporte e robo), 262615033 (R$ 478,32, 26/10) e 262601455 (estorno de assinatura nao pago); os dois ultimos estavam na fila de 26/10. Biblioteca: 'velix' devolve outros anunciantes (Velix-Core, laser Vellix), nenhum desta oferta."
+  },
+  {
+   "data": "2026-11-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 7,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 132.72,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "7 mencao(oes) na varredura de hoje. Rodada 05/11: 4 IDs novos (3 -> 7), PerfectPay: 263198619, 263353051 (R$ 132,72, assinatura), 263421679, 263429695. Vendido em live no TikTok ('pelo Luan') como ferramenta de afiliado do Mercado Livre, com promessa de acompanhamento individual."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-11-05 -- 0945.md",
+   "data": "2026-11-05",
+   "titulo": "Passada 2026-11-05 09:45"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-11-05.md",
+   "data": "2026-11-05",
+   "titulo": "Radar 2026-11-05"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-27.md",

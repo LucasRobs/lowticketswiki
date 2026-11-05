@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-10-29
-rodadas_vista: 10
+visto_ultimo: 2026-11-05
+rodadas_vista: 11
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 68
+ra_reclamacoes: 87
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -151,3 +151,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 Complemento 21h26: avistamento sem contagem. 262945537 (Payt, 29/10 18h23) e o mesmo comprador reabrindo o 261303597 (ja contado em 11/10): plano vitalicio de R$ 267, reembolso parcial de R$ 36,56.
 
 Evidencia: https://www.reclameaqui.com.br/payt/nao-recebi-o-reembolso-total-do-meu-plano-vitalicio-do-shopminer-o-valor-pago-foi-26700-e-recebi-a-devolucao-de-3656_QklAL42IShkDFBMD/
+
+## Rodada 2026-11-05
+
+87 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11 (API, janela 31/10 20h40 -> 05/11 09h): 19 IDs novos, 68 -> 87, o maior volume da janela em qualquer gateway (19 de 142 reclamacoes da Payt). App de 'minerar produtos e gerar videos de IA', vitalicio; compras de 14/10 a 04/11, varias com cancelamento no dia seguinte e app que nao gera os videos. Um comprador levou junto o curso 'Maquina de Vendas - Metodo HS' (263440907). Biblioteca de Anuncios: zero anuncios ativos para 'shopminer' e para "shop miner" (frase exata) em 05/11, entao a aquisicao nao e pela Meta.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-urgente-do-app-shop-miner-e-curso-maquina-de-vendas_-_h2XY5cq71c005G/

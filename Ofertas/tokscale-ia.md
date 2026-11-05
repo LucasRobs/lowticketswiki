@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-10-29
-rodadas_vista: 9
+visto_ultimo: 2026-11-05
+rodadas_vista: 10
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/tokscale-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 35
+ra_reclamacoes: 42
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -137,3 +137,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/
 Complemento 21h26: 1 ID novo, 262948571 (Payt, 29/10 18h59, 'TokScale - 2', pedido de 29/07/2026, cobrancas seguiram apos cancelamento em 7 dias). Compra de 29/07 indica venda ha pelo menos 3 meses.
 
 Evidencia: https://www.reclameaqui.com.br/payt/exijo-estorno-em-dobro-por-cobranca-indevida-apos-cancelamento-de-curso_hNTqYb2If2uDnQCr/
+
+## Rodada 2026-11-05
+
+42 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 7 IDs novos (35 -> 42), todos na Payt: 263233243, 263235315, 263235553, 263298789 (comprado 03/11), 263339901, 263387913, 263433289. Reembolso aprovado e nao pago, e falta de link de reembolso dentro do app.
+
+Evidencia: https://www.reclameaqui.com.br/payt/solicito-cancelamento-e-reembolso-da-tokscale-por-nao-atender-expectativas_yMlePwP-C03_xYGc/

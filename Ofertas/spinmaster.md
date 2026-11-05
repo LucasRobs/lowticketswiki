@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-29
-rodadas_vista: 6
+visto_ultimo: 2026-11-05
+rodadas_vista: 7
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/spinmaster"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 12
+ra_reclamacoes: 14
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-05
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -115,3 +115,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-recla
 12 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo (11 -> 12) na Kirvano: 262916077 (Pix de 18/10, cadastro nao funciona).
 
 Evidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/
+
+## Rodada 2026-11-05
+
+14 mencao(oes) nesta varredura (gateway Kirvano). Rodada 05/11: 2 IDs novos (12 -> 14), Kirvano: 263175063 e 263427301 (compra 02/11).
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/quero-o-reembolso-de-um-curso-que-descobri-ser-editado-pelo-reclame-aqui_EePs3blQiNCGzufB/

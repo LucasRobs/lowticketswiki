@@ -1,0 +1,16 @@
+---
+tipo: observacao
+data: 2026-11-05
+slug: fornece-up
+oferta: "[[fornece-up]]"
+criativos_ativos: 0
+dias_no_ar: 0
+ticket_frente: 0
+preco_mudou: false
+angulo_novo: false
+fonte: reclame-aqui
+ra_reclamacoes: 33
+criativos_novos: 0
+---
+
+33 mencao(oes) na varredura de hoje. Rodada 05/11: 3 IDs novos (30 -> 33): 263102945 (acesso bloqueado no dia da compra), 263294903 e 263339661 (assinatura cancelada no mesmo dia).
