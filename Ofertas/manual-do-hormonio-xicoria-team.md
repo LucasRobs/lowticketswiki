@@ -36,7 +36,7 @@ ativos_pasta: "Ativos/manual-do-hormonio-xicoria-team"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 4
+ra_reclamacoes: 5
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
 ra_checado: 2026-11-05
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-05
+
+5 mencao(oes) nesta varredura (gateway Kirvano). Complemento 05/11 17h12: 1 ID novo na Kirvano, 4 -> 5. 263475049 (13h16) mede a escada pela primeira vez: o manual custou R$ 77 e foram debitados mais R$ 298 de uma consultoria 'que NAO CONTRATEI'; reembolso negado dentro dos 7 dias apesar da garantia anunciada.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-indevidamente-por-consultoria-nao-contratada-e-negaram-meu-reembolso_m5xdOMKdCJBk_apR/

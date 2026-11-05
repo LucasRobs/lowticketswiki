@@ -48,7 +48,7 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 99,
+  "ra_reclamacoes": 100,
   "ra_plataformas": [
    "perfectpay",
    "payt"
@@ -438,6 +438,12 @@
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-11-05 -- 1712.md",
+   "data": "2026-11-05",
+   "titulo": "Passada 2026-11-05 17:12"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-11-05 -- 0945.md",

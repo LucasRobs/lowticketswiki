@@ -31,10 +31,10 @@
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
-  "status": "esfriando",
+  "status": "ativa",
   "visto_primeiro": "2026-10-05",
-  "visto_ultimo": "2026-10-20",
-  "rodadas_vista": 4,
+  "visto_ultimo": "2026-11-05",
+  "rodadas_vista": 5,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 5,
+  "ra_reclamacoes": 6,
   "ra_plataformas": [
    "kirvano"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-20",
+  "ra_checado": "2026-11-05",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -71,7 +71,7 @@
    "kirvano"
   ]
  },
- "corpo": "# ClipShort.Ai\n\n## Angulo\nFerramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260771579)\n\n## Historico\n\n## Rodada 2026-10-14\n\n2 mencao(oes) nesta varredura (gateway Kirvano). 1 reclamacao com ID novo: 261484553 (comprou 'Corte virais', 'Clipshort gringo' e 'Clipshort' e nao recebeu acesso — a frente virou tres produtos).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261484553)\n\n## Rodada 2026-10-19\n\n3 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (2 -> 3): 261935939 (app nao recebido).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n5 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos na Kirvano (3 -> 5): 262113545 ('clicshort', R$ 68 pela promessa de criar videos e divulgar nas redes) e 262106801 (Clipshort, defeito e propaganda enganosa).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n",
+ "corpo": "# ClipShort.Ai\n\n## Angulo\nFerramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).\n\n## Funil\nanuncio -> pagina -> checkout kirvano -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-05 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/lista-reclamacoes/ (ID 260771579)\n\n## Historico\n\n## Rodada 2026-10-14\n\n2 mencao(oes) nesta varredura (gateway Kirvano). 1 reclamacao com ID novo: 261484553 (comprou 'Corte virais', 'Clipshort gringo' e 'Clipshort' e nao recebeu acesso — a frente virou tres produtos).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/ (ID 261484553)\n\n## Rodada 2026-10-19\n\n3 mencao(oes) nesta varredura (gateway Kirvano). 1 ID novo na Kirvano (2 -> 3): 261935939 (app nao recebido).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-10-20\n\n5 mencao(oes) nesta varredura (gateway Kirvano). 2 IDs novos na Kirvano (3 -> 5): 262113545 ('clicshort', R$ 68 pela promessa de criar videos e divulgar nas redes) e 262106801 (Clipshort, defeito e propaganda enganosa).\n\nEvidencia: https://www.reclameaqui.com.br/empresa/kirvano-pagamentos/lista-reclamacoes/\n\n## Rodada 2026-11-05\n\n6 mencao(oes) nesta varredura (gateway Kirvano). Complemento 05/11 17h12, retorno depois de 20/10: 1 ID novo na Kirvano, 5 -> 6. 263487929 (15h01): o comprador pagou R$ 67,99 de novo porque o suporte avisou que a geracao de videos tinha sido consertada, e continua sem funcionar. Recompra induzida pelo suporte, mesma familia 'app que gera video' do ShopMiner.\n\nEvidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/quero-estorno-do-clipshort-que-nao-funciona-e-propaganda-enganosa_vodie1e49T4oJwQw/\n",
  "observacoes": [
   {
    "data": "2026-10-05",
@@ -120,9 +120,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "5 mencao(oes) na varredura de hoje. 2 IDs novos na Kirvano (3 -> 5): 262113545 ('clicshort', R$ 68 pela promessa de criar videos e divulgar nas redes) e 262106801 (Clipshort, defeito e propaganda enganosa)."
+  },
+  {
+   "data": "2026-11-05",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 6,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 67.99,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "6 mencao(oes) na varredura de hoje. Complemento 05/11 17h12, retorno depois de 20/10: 1 ID novo na Kirvano, 5 -> 6. 263487929 (15h01): o comprador pagou R$ 67,99 de novo porque o suporte avisou que a geracao de videos tinha sido consertada, e continua sem funcionar. Recompra induzida pelo suporte, mesma familia 'app que gera video' do ShopMiner."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-11-05 -- 1712.md",
+   "data": "2026-11-05",
+   "titulo": "Passada 2026-11-05 17:12"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-11-05.md",
+   "data": "2026-11-05",
+   "titulo": "Radar 2026-11-05"
+  },
   {
    "tipo": "passada",
    "arquivo": "Radar/rodadas/2026-10-20 -- 1342.md",

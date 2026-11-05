@@ -1,27 +1,22 @@
 {
  "esquema": 1,
- "hash": "0c885e23193e4f54",
- "atualizado_em": "2026-11-05T09:58:38-03:00",
+ "hash": "d04518e882312165",
+ "atualizado_em": "2026-11-05T17:12:47-03:00",
  "ofertas": 391,
  "angulos": 101,
- "observacoes": 1156,
+ "observacoes": 1157,
  "ultima_rodada": "2026-11-05",
  "ultima_passada": {
   "data": "2026-11-05",
-  "hora": "09:45",
-  "coleta": "ok",
+  "hora": "17:12",
+  "coleta": "parcial",
   "gateways": [
-   "kiwify",
-   "ticto",
-   "lastlink",
-   "kirvano",
-   "perfectpay",
-   "cakto",
-   "wiapy",
    "payt",
-   "hotmart",
-   "eduzz",
-   "monetizze"
+   "kirvano",
+   "kiwify",
+   "lastlink",
+   "cakto",
+   "hotmart"
   ]
  }
 }

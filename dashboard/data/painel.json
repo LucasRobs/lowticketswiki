@@ -3,9 +3,9 @@
  "totais": {
   "ofertas": 391,
   "angulos": 101,
-  "observacoes": 1156,
+  "observacoes": 1157,
   "dias_radar": 49,
-  "passadas": 131,
+  "passadas": 132,
   "analises": 12,
   "ultima_rodada": "2026-11-05"
  },
@@ -6772,7 +6772,7 @@
    "dias_no_ar": 54,
    "criativos_ultima": 19,
    "criativos_delta": 3,
-   "ra_reclamacoes": 48,
+   "ra_reclamacoes": 49,
    "ra_primeira_reclamacao": "2026-08-20",
    "ra_checado": "2026-11-05",
    "bump_oculto": false,
@@ -6781,7 +6781,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
    "n_obs": 17,
    "ultima_obs": "2026-11-05",
-   "n_citacoes": 35,
+   "n_citacoes": 36,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -9341,7 +9341,7 @@
    "classe": "oferta",
    "nicho": "ferramentas-ia",
    "sub_nicho": "",
-   "status": "esfriando",
+   "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
    "checkout": "kirvano",
@@ -9368,21 +9368,21 @@
    "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-05",
-   "visto_ultimo": "2026-10-20",
-   "rodadas_vista": 4,
+   "visto_ultimo": "2026-11-05",
+   "rodadas_vista": 5,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 5,
+   "ra_reclamacoes": 6,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-10-20",
+   "ra_checado": "2026-11-05",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=clipshort&search_type=keyword_unordered&media_type=all",
-   "n_obs": 4,
-   "ultima_obs": "2026-10-20",
-   "n_citacoes": 5,
+   "n_obs": 5,
+   "ultima_obs": "2026-11-05",
+   "n_citacoes": 7,
    "resumo": "Ferramenta de cortes de video com IA anunciada no Instagram, R$ 84,99 (260771579, 04/10).",
    "flags": [
     "score-provisorio",
@@ -18495,7 +18495,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 4,
+   "ra_reclamacoes": 5,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-11-05",
    "bump_oculto": false,
@@ -18504,7 +18504,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=xicoria&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-11-05",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Estreia 05/11 com 4 IDs na Kirvano (263197379, 263224725, 263333357, 263412725). E-book 'Manual do Hormonio' de Tim Chicoria; no checkout o comprador e 'induzido a contratar' a assinatura da assessoria esportiva 'Xicoria Team', cerca de R$ 300/mes. Os quatro…",
    "flags": [
     "score-provisorio",
@@ -24419,7 +24419,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 87,
+   "ra_reclamacoes": 89,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-11-05",
    "bump_oculto": false,
@@ -24428,7 +24428,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all",
    "n_obs": 12,
    "ultima_obs": "2026-11-05",
-   "n_citacoes": 24,
+   "n_citacoes": 25,
    "resumo": "Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.",
    "flags": [
     "score-provisorio",
@@ -27083,7 +27083,7 @@
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 99,
+   "ra_reclamacoes": 100,
    "ra_primeira_reclamacao": "",
    "ra_checado": "2026-11-05",
    "bump_oculto": false,
@@ -27092,7 +27092,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=WhatsRadar&search_type=keyword_unordered&media_type=all",
    "n_obs": 30,
    "ultima_obs": "2026-11-05",
-   "n_citacoes": 65,
+   "n_citacoes": 66,
    "resumo": "Busca/rastreio de numero de WhatsApp. R$97 de entrada, o dobro do padrao do nicho.",
    "flags": [
     "sem-longevidade"
@@ -27161,9 +27161,9 @@
    "arquivo": "Radar/2026-11-05.md",
    "data": "2026-11-05",
    "titulo": "Radar 2026-11-05",
-   "ofertas_vistas": 35,
+   "ofertas_vistas": 36,
    "novas": 6,
-   "retornaram": 4,
+   "retornaram": 5,
    "sumiram": 0,
    "fontes": [
     "cakto",
@@ -27179,8 +27179,8 @@
     "wiapy"
    ],
    "duracao_min": 0,
-   "n_passadas": 1,
-   "leitura": "A API de busca do RA voltou a responder e leu a janela inteira desde a rodada de 31/10: 700 reclamacoes unicas em 11 gateways, ~4,5 dias. Sinal novo real e concentrado: ShopMiner +19 IDs na Payt (68 -> 87) sem nenhum anuncio na Biblioteca da Meta, Paizao +8, Direct Line +7, TokScale +7 e PostCloner triplicando (3 -> 9). Seis estreias, a mais interessante o Manual do Hormonio (Kirvano), que induz no checkout uma…"
+   "n_passadas": 2,
+   "leitura": "Complemento das 17h12, ~7h depois da leitura completa das 09h45, so com a lista de 5 linhas (a API do RA ficou fora: executar JS foi negado, e o acesso ao RA foi recusado depois de 6 gateways). Cinco IDs novos acima de 263440907, todos de ofertas ja conhecidas: ShopMiner +2 (89), Xicoria +1 com a escada medida (manual R$ 77 + consultoria de R$ 298 nao contratada), Zap Radar chega a 100, Paizao +1 e o retorno do…"
   },
   {
    "arquivo": "Radar/2026-10-31.md",
@@ -28154,6 +28154,30 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-11-05 -- 1712.md",
+   "data": "2026-11-05",
+   "hora": "17:12",
+   "gateways": [
+    "payt",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "cakto",
+    "hotmart"
+   ],
+   "paginas": 6,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "clipshort-ai",
+    "manual-do-hormonio-xicoria-team",
+    "shopminer",
+    "zap-radar"
+   ],
+   "resumo": "Gateways: payt, kirvano, kiwify, lastlink, cakto, hotmart · Páginas: 6 · Coleta: parcial · Achados: 5 ## Quentes shopminer — Payt · +2 IDs desde a manha (87 -> 89), R$ 297 e R$ 344 manual-do-hormonio-xicoria-team — Kirvano · +1 (5)…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-11-05 -- 0945.md",
    "data": "2026-11-05",
@@ -31469,7 +31493,7 @@
    "2026-10-27": 22,
    "2026-10-29": 29,
    "2026-10-31": 7,
-   "2026-11-05": 35
+   "2026-11-05": 36
   }
  },
  "analises": [
@@ -31812,7 +31836,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1648
+   "canonico": 1649
   }
  },
  "vocabulario": {
@@ -31861,28 +31885,23 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "0c885e23193e4f54",
-  "atualizado_em": "2026-11-05T09:58:38-03:00",
+  "hash": "d04518e882312165",
+  "atualizado_em": "2026-11-05T17:12:47-03:00",
   "ofertas": 391,
   "angulos": 101,
-  "observacoes": 1156,
+  "observacoes": 1157,
   "ultima_rodada": "2026-11-05",
   "ultima_passada": {
    "data": "2026-11-05",
-   "hora": "09:45",
-   "coleta": "ok",
+   "hora": "17:12",
+   "coleta": "parcial",
    "gateways": [
-    "kiwify",
-    "ticto",
-    "lastlink",
-    "kirvano",
-    "perfectpay",
-    "cakto",
-    "wiapy",
     "payt",
-    "hotmart",
-    "eduzz",
-    "monetizze"
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "cakto",
+    "hotmart"
    ]
   }
  }
