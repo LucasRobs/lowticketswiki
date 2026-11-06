@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-27
-visto_ultimo: 2026-11-05
-rodadas_vista: 2
+visto_ultimo: 2026-11-06
+rodadas_vista: 3
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/velix"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 7
+ra_reclamacoes: 8
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -91,3 +91,9 @@ views:
 7 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 4 IDs novos (3 -> 7), PerfectPay: 263198619, 263353051 (R$ 132,72, assinatura), 263421679, 263429695. Vendido em live no TikTok ('pelo Luan') como ferramenta de afiliado do Mercado Livre, com promessa de acompanhamento individual.
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-do-curso-velix-cancelado-em-7-dias_YPyZNZk_ccAqjaOR/
+
+## Rodada 2026-11-06
+
+8 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 06/11: 1 ID novo na PerfectPay, 7 -> 8. 263590831 (14h43): 'Velix 2.0' comprado em 27/10 em 12x de R$ 39,86 (~R$ 478), estorno pedido em 28/10 e negado pelo produtor so em 06/11, depois de vencidos os 7 dias.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/nao-consigo-estorno-do-meu-velix-20-e-a-empresa-nao-aprova_VZXQ8jv6U2UYY5ah/

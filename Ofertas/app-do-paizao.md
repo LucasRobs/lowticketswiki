@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-11-05
-rodadas_vista: 17
+visto_ultimo: 2026-11-06
+rodadas_vista: 18
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 49
+ra_reclamacoes: 51
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -225,3 +225,9 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-reembols
 Complemento 05/11 17h12: 1 ID novo na Kirvano, 48 -> 49. 263472117 (12h52): plano mensal comprado em 31/10, cancelamento pedido em 05/11 dentro dos 7 dias e estorno recusado.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-o-servico-do-app-do-paizao-e-recusaram-meu-estorno_MFBMzNDSy5d0KDhA/
+
+## Rodada 2026-11-06
+
+51 mencao(oes) nesta varredura (gateway Kirvano). Rodada 06/11: 2 IDs novos na Kirvano, 49 -> 51. 263586783 (14h07): tres pedidos somando R$ 326,98 (R$ 38,99 + R$ 238,99 + R$ 49,00) que a compradora diz nao ter autorizado conscientemente, com valores apresentados em video e nao por escrito; nem abriu o app. 263565517 (11h06): 'aplicativo do Carlao' por R$ 47, treino em casa sem video de execucao dos exercicios.
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-indevidamente-no-meu-cartao-por-compras-que-nao-autorizei-no-app-do-paizao_zmQh9V09vpWLLBOA/

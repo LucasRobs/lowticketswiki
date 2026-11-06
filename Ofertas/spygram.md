@@ -24,10 +24,10 @@ s_ticket: 10
 s_lucro: 3
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-29
-visto_ultimo: 2026-10-29
-rodadas_vista: 1
+visto_ultimo: 2026-11-06
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/spygram"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
+ra_reclamacoes: 4
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-29
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-06
+
+4 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 06/11: 1 ID novo, 3 -> 4, ausente desde 29/10. 263546067 (listada na Payt, publicada 06/11): pagou pelo QR code da PerfectPay e nao recebeu o prometido; cita outras reclamacoes da mesma empresa. A reclamacao caiu na pagina da Payt apesar de o pagamento ser PerfectPay.
+
+Evidencia: https://www.reclameaqui.com.br/payt/nao-recebi-o-que-foi-proposto-pela-spygram-apos-pagamento-via-perfect-pay_JPh5atZoRMRbmOf9/

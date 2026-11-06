@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 1
 status: ativa
 visto_primeiro: 2026-09-25
-visto_ultimo: 2026-11-05
-rodadas_vista: 5
+visto_ultimo: 2026-11-06
+rodadas_vista: 6
 dias_no_ar: 67
 criativos_ultima: 680
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/angulo-treino-de-calistenia"
 gateways_detectados: [payt, lastlink, wiapy]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 11
+ra_reclamacoes: 12
 ra_plataformas: [payt, lastlink, wiapy]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -115,3 +115,9 @@ Recalculado pelo `Scoring.md`: `ticket_frente`/`ticket_medio_est` 37 (R$ 35,25 a
 11 mencao(oes) nesta varredura (gateway Lastlink). Rodada 05/11: 3 IDs novos (8 -> 11), Lastlink: 263155751 ('calistenia asiatica', R$ 37,90 pelo Instagram), 263163821 e 263414959 ('Calistenia Shaolin', acesso vitalicio sem acesso). Nome novo na coorte: Shaolin.
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/nao-consigo-acessar-meu-acesso-vitalicio-do-calistenia-shaolin_ZGQE7BavDQJW9hLB/
+
+## Rodada 2026-11-06
+
+12 mencao(oes) nesta varredura (gateway Lastlink). Rodada 06/11: 1 ID novo na Lastlink, 11 -> 12. 263587547 (14h14): app 'calistenia asiatica Fernanda Yamamoto' vendido como vitalicio entrega 21 dias de treino; depois vira 'nivel 2' exclusivo do acesso Pro. Nome novo na coorte (Fernanda Yamamoto) e o upsell Pro aparece pela primeira vez.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/comprei-app-de-calistenia-vitalicio-e-so-tenho-21-dias-de-treino_NQEnvqnecaoPgoDH/

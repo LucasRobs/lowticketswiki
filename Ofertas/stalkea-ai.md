@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-29
-visto_ultimo: 2026-11-05
-rodadas_vista: 4
+visto_ultimo: 2026-11-06
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/stalkea-ai"
 gateways_detectados: [perfectpay]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 11
 ra_plataformas: [perfectpay]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/perfectpay/quero-meu-reembolso-por-pro
 10 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 05/11: 2 IDs novos (8 -> 10): 263142579 e 263148749 ('custos adicionais nao informados').
 
 Evidencia: https://www.reclameaqui.com.br/perfectpay/solicito-reembolso-integral-por-custos-adicionais-nao-informados_IaaWx9XNxzgfzvWp/
+
+## Rodada 2026-11-06
+
+11 mencao(oes) nesta varredura (gateway PerfectPay). Rodada 06/11: 1 ID novo na PerfectPay, 10 -> 11. 263585435 (13h55): pagamento para 'Stalkea.AI' sem entrega do produto. Corpo de uma linha, sem valor.
+
+Evidencia: https://www.reclameaqui.com.br/perfectpay/propaganda-enganosa_rq-YO3uF4lREweLP/
