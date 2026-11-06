@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-11-05
+atualizado: 2026-11-06
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,35 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-11-05 (rodada diaria, complemento 17h12)
+## Leitura atual — 2026-11-06 (rodada diaria)
+
+Passada: [[2026-11-06 -- 1606]] · nota do dia: [[2026-11-06]].
+
+**492 notas · 391 ofertas · 101 ângulos · 0 novas hoje · 10 revistas (9 com ID novo, 1 só avistamento) · 0 retornos · 1 mudança de status · status (todas): 115 nova · 91 ativa · 1 aquecendo · 243 esfriando · 42 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Uma rodada de ~23 horas com o instrumento estreito.** A anterior foi o complemento de 05/11 às 17h12, e a última leitura completa foi a das 09h45 de 05/11 (maior ID: 263440907). A tarefa das 23h30 rodou às 16h06. A API de busca do RA respondeu a uma chamada de teste, mas **a varredura em lote pela API foi negada nesta sessão**, e a rodada não tentou contornar. Sobrou a **lista de 5 linhas por gateway**, lida nos 11 gateways de sempre (PerfectPay, Payt, Kirvano, Kiwify, Lastlink, Cakto, Ticto, Hotmart, Wiapy, Eduzz e Monetizze). Foram 18 corpos abertos, todos com **ID acima de 263440907** e publicados em 06/11. A Biblioteca não foi consultada.
+
+**Sinal novo real: pequeno.** É gotejamento das mesmas ofertas, sem estreia.
+- [[shopminer]] **89 → 91 (+2)**, na Payt: 263590861 e 263594469, dois compradores de cidades diferentes que compraram em 05/11 e usam o mesmo texto. **Pela terceira leitura seguida, duas das cinco linhas da Payt são ShopMiner.** Um terceiro título apareceu só em "reclamações parecidas" e não foi contado.
+- [[app-do-paizao]] **49 → 51 (+2)**, na Kirvano. O 263586783 dá **três pedidos somando R$ 326,98** (R$ 38,99 + R$ 238,99 + R$ 49,00), e a compradora diz que os valores aparecem só **em vídeo, não por escrito**. É a mesma escada de 27/09 e 06/10, agora com o degrau de R$ 238,99. O 263565517 chama o produto de "aplicativo do Carlão" (R$ 47), o nome do anunciante da Biblioteca.
+- [[treino-da-fera]] **10 → 12 (+2)**, na Payt. Um comprador levou "Treino da Fera" e "Treino da Fera **Vitalício**" juntos em 01/11, o que aponta para um bump de acesso vitalício. O outro diz que o e-mail de suporte informado na compra **devolve erro de entrega**.
+- Com +1 ID cada: [[velix]] **8** ("Velix 2.0" em **12x de R$ 39,86**, ~R$ 478, com o estorno pedido em 28/10 e negado só em 06/11, depois dos 7 dias), [[stalkea-ai]] 11, [[app-direct-line]] 54 (plano PRO), [[postcloner]] 10 (de novo como "Posh Clone") e o ângulo [[angulo-treino-de-calistenia]] 12.
+- [[spygram]] **3 → 4**, ausente desde 29/10. O pagamento foi pelo QR da PerfectPay, mas **a reclamação caiu na lista da Payt**. É o mesmo comportamento da reatribuição da Etapa 3b, só que entre gateways.
+- [[fornece-up]]: avistamento sem contagem. O 263587717 é o mesmo comprador reabrindo uma reclamação encerrada (cancelamento em 06/10), e fica em 33.
+
+**Fila (1 ID cada, sem nota):** Sambox (Kirvano 263550183, cancelamento dentro dos 7 dias sem resposta). Kits em PDF de "35 jogos bíblicos" e "kit educacional da palavra de Deus para os filhos", que viraram um curso que não carrega (Kirvano 263566577). "Mentoria Profissão do Futuro", com **quatro bumps no checkout** (Combo Master IA, Arsenal de Vendas Black, Máquina de Recorrência IA e Acesso Permanente) e nenhum entregue (Cakto 263599289). Biblioteca Hora Santa (Cakto 263588225). **Só pelo título, sem ID:** Auto Live Shop (Cakto, 3º avistamento depois dos 2 IDs da fila de 05/11), "aplicativo Criação" (Cakto), CRIE.AI vitalício (Cakto, possível [[crie-ai]]), Método Mini Expert (Payt, possível [[metodo-mini-experts-suelen-mello]]), Mago do Hot e Creator Automatização (PerfectPay), curso Fabio Miudinho (Kiwify), sala de operações da TSR e agentes de IA de Bruno Gabarra (Lastlink), Plano Enriquecer Digital e Workshop Super Públicos (Ticto), app Cozinha Perfeita cobrado de novo e pack de STL (Wiapy), RiseGuide, EmotionLift, AvantPro Ultra e crochê premium (Eduzz).
+
+**Mecânica de funil.** (1) **"Vitalício" que é teste de 21 dias** (calistenia asiática, nome novo na coorte: Fernanda Yamamoto). O app vendido como acesso vitalício libera 21 dias e trava o "nível 2" atrás do plano Pro. É um upsell de assinatura escondido dentro da promessa de pagamento único. (2) **Escada de quatro bumps num checkout só** (Profissão do Futuro). É a versão em largura do que o Xicoria faz em altura: em vez de um bump caro, quatro bumps de nome genérico de IA. (3) **Preço só em vídeo** (Paizão). O degrau de R$ 238,99 não aparece por escrito, e a compradora não reconhece ter aceitado. É a mesma família do "bump não escolhido" do Xicoria.
+
+**Status.** **1 mudança:** [[spygram]] saiu de `nova` para `ativa` pelo `sync`. Não é retorno, porque nunca esteve `esfriando`. **Nenhum decaimento manual.** Os 11 gateways foram abertos, mas só nas cinco linhas mais recentes, umas 3 a 6 horas de uma janela de ~23. As leituras anteriores só decaíram depois de duas leituras completas sem a oferta, e esta não é completa, como a de 31/10.
+
+**Cuidados.** (1) Só contaram IDs acima de 263440907, e nenhum dos 10 IDs do complemento de 05/11 reapareceu. (2) Os dois IDs do ShopMiner têm texto idêntico, mas são de compradores e cidades diferentes, então contam os dois. (3) "Aplicativo do Carlão" foi atribuído ao Paizão pelo nome do anunciante (Carlão Silva) e pelo preço (R$ 47). Se for outro app do mesmo operador, a contagem do Paizão está inflada em 1. (4) Scores sem mudança: Trinca 6,60 (observar), Stalkeia 5,85, Paizão 5,75, Zap Radar 5,00, Velix e Spygram 3,05, Treino da Fera 2,65, ShopMiner 2,50, Fornece Up 2,15, PostCloner 1,90, Direct Line 1,75 e Stalkea 1,05, os de volume alto ainda provisórios. **Ninguém novo cruza o corte.**
+
+**Autocrítica.** **Não houve sinal novo relevante.** São 12 IDs em 9 notas já mapeadas (mais 4 na fila), nenhuma estreia, e um instrumento que viu talvez 20% da janela. A rodada trouxe três mecânicas de funil (o "vitalício" de 21 dias, os quatro bumps e o preço só em vídeo) e o preço do Velix 2.0, e mais nada. A conclusão é a mesma de 29/10, 31/10 e do complemento de 05/11: **o gargalo é o acesso à API do RA, não a cadência.** Uma chamada isolada passou e a varredura foi barrada, então a próxima rodada deve perguntar antes se a leitura em lote está liberada, em vez de descobrir no meio. A pendência da Etapa 3b (`ra_primeira_reclamacao` do ShopMiner, Trinca, Zap Radar e Paizão) segue aberta pela décima sexta vez.
+
+---
+
+## Leitura anterior — 2026-11-05 (rodada diaria, complemento 17h12)
 
 Passadas: [[2026-11-05 -- 0945]] e o complemento [[2026-11-05 -- 1712]] · nota do dia: [[2026-11-05]].
 
@@ -98,33 +126,6 @@ Passada: [[2026-10-31 -- 2043]] · nota do dia: [[2026-10-31]].
 **Cuidados.** (1) As 7 "revistas" incluem 2 que vieram só da Biblioteca (Trinca e Atmoz), com `mencoes` igual à contagem anterior: o snapshot registra o avistamento, não um ID novo. (2) O Trendly ficou em 4 pela regra do comprador reabrindo. (3) Scores sem mudança: Trinca 6,60 (observar, `s_lucro` 8 na faixa de 45-90 dias), Stalkeia 5,85, Paizão 5,75, Zap Radar 5,00, Trendly 4,70, Atmoz 4,30 (provisório), ChatGPT Privado 3,00 e Arsenal Lucrativo 0,70 (provisório). Ninguém novo cruza o corte.
 
 **Autocrítica.** **No RA não houve sinal novo relevante:** 4 IDs em ofertas já mapeadas e nenhuma estreia, com um instrumento que viu 40% da janela. O que a rodada acrescenta de verdade são duas leituras de série na Biblioteca. O Trinca continua comprando anúncio enquanto o RA silencia, e isso muda a leitura dos últimos quatro Painéis. A Atmoz tem agora duas medições com verba subindo. A cadência diária não é o gargalo: **o gargalo é o acesso ao RA.** Sem a API, uma rodada de 47 horas rende menos que o complemento de 7,5 horas de 29/10. A pendência da Etapa 3b (`ra_primeira_reclamacao` do Trinca, do Zap Radar e do Paizão) segue aberta pela décima terceira vez, e agora também depende de o RA voltar a responder.
-
----
-
-## Leitura anterior — 2026-10-29 (rodada diaria, complemento 21h26)
-
-Passadas: [[2026-10-29 -- 1355]] e o complemento [[2026-10-29 -- 2126]] · nota do dia: [[2026-10-29]].
-
-**486 notas · 386 ofertas · 100 ângulos · 0 novas no complemento (4 no dia) · 9 revistas no complemento · 0 mudanças de status · status (todas): 113 nova · 87 ativa · 244 esfriando · 42 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
-
-**Segunda rodada do dia, ~7,5 horas depois da primeira.** A tarefa das 23h30 rodou às 21h26, e a das 13h55 já tinha lido ~46 horas pela API. Este complemento cobre só o intervalo entre as duas. **O instrumento piorou:** a API de busca do RA (`iosearch.reclameaqui.com.br`) devolveu um desafio do Cloudflare ("Attention Required"), e executar JS dentro da aba foi negado nesta sessão. Sobrou a **lista de 5 linhas por gateway**, a mesma do adendo de 23/08, aberta pelo navegador interno, com os corpos lidos um a um. Foram **11 gateways, 1 página cada e ~45 corpos abertos**. Desses, **25 IDs estão acima do maior citado às 13h55 (262916077)**. Ticto, Lastlink, Eduzz e Monetizze não tiveram nenhum: as cinco linhas de cada um eram de 27 e 28/10, já lidas. A Biblioteca não foi consultada.
-
-**Sinal novo real: pequeno.** É gotejamento das mesmas ofertas, sem estreia e sem nome com ritmo novo.
-- [[app-do-paizao]] **38 → 40 (+2)**, na Kirvano. Um dos corpos traz a mecânica: o plano **mensal de R$ 47,01 virou cobrança única de R$ 229,99** no checkout (262927087). É o mesmo degrau "mensal → anual" que a leitura das 13h55 descreveu como empurrado por vídeo dentro do app, só que aqui aparece já na compra. O outro corpo traz **compra em 05/08** (262959519), a data mais antiga já lida num corpo do Paizão.
-- Com +1 ID cada: [[zap-radar]] 93 (R$ 137 na PerfectPay), [[fornece-up]] 29 ("centenas de influenciadores no TikTok fazendo lives"), [[operax]] 5 (R$ 97, Payt), [[tokscale-ia]] 35 (pedido de **29/07**, ou seja, vende há pelo menos três meses), [[o-truque-da-loto-pro]] 13 (R$ 97), [[crie-ai]] 10 e [[app-direct-line]] 45 (comprado por **anúncio no Instagram**, Cakto).
-- [[shopminer]]: avistamento sem contagem. O 262945537 é o mesmo comprador reabrindo o 261303597, já contado em 11/10 (R$ 267 vitalício, reembolso parcial de R$ 36,56).
-
-**Fila, para a próxima rodada somar por ID (1 ID cada, nenhum chegou a 3):** VideoShop, um APK que trava o celular (Kirvano 262940693). ChatGPT GO sem credencial entregue (Kirvano 262947323), que pode ser o mesmo vendedor da nota [[chatgpt-privado]], onde o Go já aparecia como "provável, não contada". Renda Play R$ 49,90 + Pro R$ 29,90 via Pix (Kiwify 262951069). Manual do Afiliado 2.0 + grupo VIP de Anderson Gavineski (Kiwify 262928885). "+1.300 Animações de Exercícios", vendido por anúncio no Instagram (Wiapy 262944409). Fábrica de Renda com Vídeos + Código das IAs, dois cursos do mesmo comprador (Hotmart 262955095). "Ferramenta BOT I.A do Caio Martins" (Cakto 262945673). Pode ser o [[instalador-robo-pronto-2]] ou a [[mentoria-caio-martins]], então não foi atribuída. Também: "plantas de casa" (Wiapy 262947487) e "material Kids" com adicionais (Wiapy 262929703).
-
-**Mecânica de funil.** (1) **Troca de plano no checkout.** No Paizão, quem escolheu o mensal levou a cobrança única (262927087). Se isso se repetir, é um ticket médio inflado pelo checkout, não pelo upsell. (2) **TikTok live como canal**, de novo: Fornece Up e uma plataforma sem nome na Payt (262957579, "compra de uma plataforma em uma live no TikTok"). É o mesmo canal da [[velix]], e o instrumento não o vê.
-
-**Gargalos do instrumento.** (1) **A API do RA caiu atrás do Cloudflare.** É a primeira vez desde 11/10. Se persistir, a regra de 24/08 ("5 sinais por gateway por rodada") volta a valer, e **as contagens deste complemento não são comparáveis com as das 13h55**. (2) **O carimbo movido, ao vivo:** dois IDs da Fornece Up de 26 e 27/10 (262641247, 262722243) aparecem com carimbo de 29/10 12h43 e 13h03. A lista ordena por atividade, e só o ID separou o novo do relido, como manda o adendo de 27/08. (3) Os corpos das "reclamações parecidas" trazem o carimbo de outras quatro reclamações do mesmo gateway. Isso ajudou a achar o 20h45 da PerfectPay ("estorno do meu curso e da IA"), que não estava na lista. Ficou sem abrir.
-
-**Status.** **Nenhuma mudança.** As 9 ofertas revistas já tinham sido vistas às 13h55. O sync conta o dia como uma rodada só, e o decaimento dos 11 gateways já foi aplicado de manhã. Aplicar de novo contaria a mesma ausência duas vezes.
-
-**Cuidados.** (1) Este complemento leu ~5 linhas por gateway, contra as ~30 por gateway das 13h55. **Zero estreias aqui não quer dizer mercado parado, quer dizer instrumento estreito.** (2) Como as notas já tinham a seção `## Rodada 2026-10-29`, os IDs do complemento foram anexados à mão no fim de cada nota. O snapshot do dia não foi tocado (append-only). (3) Scores sem mudança: Trinca 6,60 (observar), Stalkeia 5,85, Paizão 5,75, Zap Radar 5,00 e Atmoz 4,30 (provisório). Ninguém cruza o corte.
-
-**Autocrítica.** **Não houve sinal novo relevante neste complemento.** Ele confirma que as ofertas com ritmo seguem pingando, com o Paizão de novo à frente, e acrescenta dois dados de idade por data de compra (Paizão em 05/08, TokScale em 29/07). Ainda assim, não entram como `dias_no_ar`, porque são uma compra só cada. A cadência diária com duas rodadas no mesmo dia rende pouco quando a primeira já leu tudo. O que segura a próxima rodada é o acesso à API, não a hora em que ela roda. A pendência da Etapa 3b (`ra_primeira_reclamacao` do Trinca, do Zap Radar e do Paizão) segue aberta pela décima segunda vez.
 
 ---
 
