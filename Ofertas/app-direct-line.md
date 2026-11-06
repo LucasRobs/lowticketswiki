@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-11-05
-rodadas_vista: 12
+visto_ultimo: 2026-11-06
+rodadas_vista: 13
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/app-direct-line"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 53
+ra_reclamacoes: 54
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -155,3 +155,9 @@ Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-o-directline-
 53 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 7 IDs novos (46 -> 53), todos na Cakto: 263129397, 263137401, 263193355, 263230085, 263409475, 263411829, 263439871. 'Programa de agenda pelo WhatsApp' / 'programa de IA' com assinatura que o app nao deixa cancelar; uma reclamacao nomeia a proprietaria (Danni L., 263193355).
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-cancelar-meu-programa-de-agenda-direct-line-da-cakto-pay_vuM7DT8bY25VIDi0/
+
+## Rodada 2026-11-06
+
+54 mencao(oes) nesta varredura (gateway Cakto). Rodada 06/11: 1 ID novo na Cakto, 53 -> 54. 263580797 (13h14): estorno do 'plano PRO' do app DirectLine, suporte nao responde.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/quero-estorno-do-plano-pro-do-app-directline-pois-nao-estou-satisfeita_59UXBgtL09ZQLIcP/

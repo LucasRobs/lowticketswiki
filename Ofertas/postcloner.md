@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-09-27
-visto_ultimo: 2026-11-05
-rodadas_vista: 4
+visto_ultimo: 2026-11-06
+rodadas_vista: 5
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/postcloner"
 gateways_detectados: [cakto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 9
+ra_reclamacoes: 10
 ra_plataformas: [cakto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -103,3 +103,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/
 9 mencao(oes) nesta varredura (gateway Cakto). Rodada 05/11: 6 IDs novos (3 -> 9), todos na Cakto: 263110071, 263131651 (tres compras em 31/10), 263188195, 263278263, 263329193 ('Posh Clone'), 263390807 (automacao de redes que parou de funcionar e cobranca indevida). Triplicou em 5 dias.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/contratei-automacao-de-redes-sociais-e-parou-de-funcionar-alem-de-cobranca-indevida_t_tcB738kLDP5N5j/
+
+## Rodada 2026-11-06
+
+10 mencao(oes) nesta varredura (gateway Cakto). Rodada 06/11: 1 ID novo na Cakto, 9 -> 10. 263592245 (14h54): 'Posh Clone' (grafia ja atribuida em 05/11), produto incompleto desde o dia da compra, vendedor sem resposta ha 72h e a Cakto manda falar com o vendedor.
+
+Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-cancelar-a-compra-do-posh-clone-e-a-cakto-nao-me-reembolsa_xnBjNissrdmkmPri/

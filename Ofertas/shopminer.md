@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-11-05
-rodadas_vista: 11
+visto_ultimo: 2026-11-06
+rodadas_vista: 12
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 89
+ra_reclamacoes: 91
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -163,3 +163,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/quero-estorno-urgente-do-app-shop
 Complemento 05/11 17h12 (lista de 5 linhas, IDs acima de 263440907): 2 IDs novos na Payt, 87 -> 89. 263490617 (15h22, 'app no valor de 297,00 nao cumpriu o que prometeu') e 263495429 (16h02, compra em 30/10 por R$ 344 via Pix, arrependimento dentro dos 7 dias sem resposta). Duas das cinco linhas da Payt da tarde sao ShopMiner.
 
 Evidencia: https://www.reclameaqui.com.br/payt/solicito-cancelamento-e-reembolso-de-r-00-do-shopminer_72QWsNmCnG6NMrQy/
+
+## Rodada 2026-11-06
+
+91 mencao(oes) nesta varredura (gateway Payt). Rodada 06/11 16h06 (lista de 5 linhas, IDs acima de 263440907): 2 IDs novos na Payt, 89 -> 91. 263590861 (14h43) e 263594469 (15h13), dois compradores de cidades diferentes, ambos compraram em 05/11 e reclamam com o mesmo texto ('app nao condiz com o prometido, vendedora nao responde'). Duas das cinco linhas da Payt de novo; um terceiro titulo ShopMiner (15h41) apareceu so em 'reclamacoes parecidas' e nao foi contado.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-reembolso-do-app-shopminer-que-nao-condiz-com-o-prometido_fj9-PixYKGxDZdwG/

@@ -2,6 +2,31 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-11-06.md",
+   "data": "2026-11-06",
+   "titulo": "Radar 2026-11-06",
+   "ofertas_vistas": 10,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-11-06\n\n## Novas\n\n## Movimento\n\n- [[shopminer]] — ra_reclamacoes atualizado para 91\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 51\n- [[treino-da-fera]] — ra_reclamacoes atualizado para 12\n- [[velix]] — ra_reclamacoes atualizado para 8\n- [[stalkea-ai]] — ra_reclamacoes atualizado para 11\n- [[spygram]] — ra_reclamacoes atualizado para 4\n- [[app-direct-line]] — ra_reclamacoes atualizado para 54\n- [[postcloner]] — ra_reclamacoes atualizado para 10\n- [[angulo-treino-de-calistenia]] — ra_reclamacoes atualizado para 12\n- [[fornece-up]] — ra_reclamacoes atualizado para 33\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada diaria de 06/11 com a API de busca do RA negada: lista de 5 linhas nos 11 gateways e 18 corpos abertos, todos com ID acima de 263440907. Gotejamento das ofertas ja mapeadas (ShopMiner e Paizao +2, Treino da Fera +2, mais seis com +1 ou avistamento), um retorno (Spygram) e nenhuma estreia. Sinal novo real pequeno; o gargalo segue sendo o acesso a API, nao a cadencia.\n\n## Passadas do dia\n- [[2026-11-06 -- 1606]] - perfectpay, payt, kirvano, kiwify, lastlink, cakto, ticto, hotmart, wiapy, eduzz, monetizze - 10 achado(s) - rodada diaria — API negada, lista de 5 linhas em 11 gateways: 9 revistas, 0 novas, gotejamento (ShopMiner e Paizao +2)\n"
+  },
+  {
    "arquivo": "Radar/2026-11-05.md",
    "data": "2026-11-05",
    "titulo": "Radar 2026-11-05",
@@ -998,6 +1023,39 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-11-06 -- 1606.md",
+   "data": "2026-11-06",
+   "hora": "16:06",
+   "gateways": [
+    "perfectpay",
+    "payt",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "cakto",
+    "ticto",
+    "hotmart",
+    "wiapy",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 11,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-treino-de-calistenia",
+    "app-direct-line",
+    "app-do-paizao",
+    "postcloner",
+    "shopminer",
+    "spygram",
+    "stalkea-ai",
+    "treino-da-fera",
+    "velix"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-11-06]].\n\n# Rodada — 06/11/2026 · 16:06 Fortaleza\n\n**Gateways:** perfectpay, payt, kirvano, kiwify, lastlink, cakto, ticto, hotmart, wiapy, eduzz, monetizze · **Páginas:** 11 · **Coleta:** parcial · **Achados:** 10\n\n## Quentes\n- [[shopminer]] — Payt · +2 (89 -> 91), dois compradores de 05/11, de novo 2 das 5 linhas da Payt\n- [[app-do-paizao]] — Kirvano · +2 (49 -> 51), tres pedidos somando R$ 326,98 com precos so em video\n\n## Mornas\n- [[treino-da-fera]] +2 (12) · [[velix]] +1 (8, 12x R$ 39,86, estorno negado depois dos 7 dias) · [[stalkea-ai]] +1 (11) · [[spygram]] retorno +1 (4) · [[app-direct-line]] +1 (54) · [[postcloner]] +1 (10) · [[angulo-treino-de-calistenia]] +1 (12, 'vitalicio' de 21 dias + Pro)\n- Fornece Up: avistamento sem contagem (comprador reabrindo)\n- Fila (1 ID): Sambox (Kirvano 263550183), kits PDF de jogos biblicos (Kirvano 263566577), Mentoria Profissao do Futuro com 4 bumps (Cakto 263599289), Biblioteca Hora Santa (Cakto 263588225)\n\nLeitura: API de busca negada; lista de 5 linhas nos 11 gateways com 18 corpos abertos. Gotejamento das mesmas ofertas, sem estreia.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-11-05 -- 1712.md",
    "data": "2026-11-05",

@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-19
-visto_ultimo: 2026-11-05
-rodadas_vista: 5
+visto_ultimo: 2026-11-06
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-da-fera"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 10
+ra_reclamacoes: 12
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-06
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -109,3 +109,9 @@ Evidencia: https://www.reclameaqui.com.br/empresa/payt/lista-reclamacoes/ (ID 26
 10 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 4 IDs novos (6 -> 10), Payt: 263276671, 263333517, 263405419 (Arbon, Pix), 263426247 (Treino da Fera + versao vitalicia).
 
 Evidencia: https://www.reclameaqui.com.br/payt/solicito-reembolso-do-curso-treino-da-fera_sHCxEyooI1UQYD-h/
+
+## Rodada 2026-11-06
+
+12 mencao(oes) nesta varredura (gateway Payt). Rodada 06/11: 2 IDs novos na Payt, 10 -> 12. 263588369 (14h21): comprou 'Treino da Fera' e 'Treino da Fera Vitalicio' em 01/11 em treinofera.com.br, suporte e celular nao respondem (Payt reembolsou via Pix). 263592031 (14h52): compra em 31/10 23h32, e-mail de suporte informado na compra devolve erro de entrega.
+
+Evidencia: https://www.reclameaqui.com.br/payt/quero-cancelar-a-compra-do-treino-da-fera-e-ter-meu-reembolso_Ot3uVhJFt6FPSkR0/
