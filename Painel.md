@@ -1,6 +1,6 @@
 ---
 tipo: painel
-atualizado: 2026-11-06
+atualizado: 2026-11-15
 ---
 
 # Painel — Radar Low Ticket
@@ -11,7 +11,35 @@ precisa ser reescrita, e a tarefa agendada reescreve.
 
 ---
 
-## Leitura atual — 2026-11-06 (rodada diaria)
+## Leitura atual — 2026-11-15 (rodada diaria)
+
+Passada: [[2026-11-15 -- 1936]] · nota do dia: [[2026-11-15]].
+
+**492 notas · 391 ofertas · 101 ângulos · 0 novas hoje · 3 revistas (todas com ID novo) · 0 retornos · 1 mudança de status (correção de `sync`) · status (todas): 115 nova · 91 ativa · 1 aquecendo · 243 esfriando · 42 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
+
+**Nove dias sem rodada, lidos por uma fresta.** A anterior foi a de 06/11 às 16h06 (maior ID: 263599289). Não houve rodada de 07 a 14/11, e as passadas 6x/dia seguem paradas desde 18/10. **A API de busca do RA foi negada de novo**, pela quarta rodada seguida, e a rodada não tentou contornar. Sobrou a **lista de 5 linhas**, lida em 9 gateways: Kiwify, Hotmart, Ticto, Eduzz, Monetizze, Kirvano, Lastlink, Payt e PerfectPay. Depois de **8 corpos abertos o RA passou a devolver 429 com a verificação do Cloudflare**, e Cakto, Wiapy, Hubla e Braip ficaram sem leitura. Uma espera e uma nova tentativa não liberaram. As cinco linhas de cada gateway cobrem só **as últimas ~6 a 30 horas de 15/11**, todas com ID acima de 264340000: de uma janela de ~9 dias, a rodada viu talvez 5%. A Biblioteca abriu sem aprovação para 2 buscas.
+
+**Sinal novo real: só na Biblioteca.**
+- **[[treino-trinca]]: a verba acelerou.** "treino trinca" foi de ~120 (05/11) para **~200 resultados**, todos os carregados de Pedro Lotz. O mais antigo ativo segue de 22/08 (**`dias_no_ar` 75 → 85**). Há um **criativo novo** ("a metodologia de treino que praticamente todas as Famosas e Atrizes estão usando"), com lotes iniciados em 03, 06, 07 e 10/11. É a terceira leitura seguida com `criativos_delta` positivo (+16, +20, **+80**). No RA entrou +1 (131): o 264369015 diz que **a frente de R$ 37 virou 7x de R$ 42,53 (~R$ 298)** no cartão, perto do upsell de R$ 220 já registrado. Em cinco semanas, a série saiu de "a verba parou?" (27/10) para a maior medição de criativos do vault.
+- A segunda busca ("app do paizão") voltou poluída, com ~210 resultados de outros anunciantes misturados, e **não serve como medição**. Ela só confirma que os anúncios de Carlão Silva (`avaliacaogratuitapaizao.com.br`) seguem ativos, com o mais antigo carregado de 05/10.
+
+**RA: gotejamento das mesmas três, nenhuma estreia.**
+- [[app-do-paizao]] **51 → 54 (+3)**, **três das cinco linhas da Kirvano**. O 264359355 repete a escada de 27/09, 06/10 e 06/11: "menos de R$ 50" e depois **duas cobranças de R$ 237 e R$ 39** no cartão. O 264345981 chama o produto de "app do personal de TikTok Carlão Silva", e o 264357515 diz que a assinatura cancelada em 20/10 continuou cobrando.
+- [[shopminer]] **91 → 92 (+1)**, mas no **gateway novo: Ticto** (264344729, "Shopminer vitalício" mais um "curso da Hayane" no mesmo pedido). É a primeira reclamação do ShopMiner fora da Payt em 92. Ou o produtor abriu um segundo checkout, ou um afiliado/coprodutor revende com um curso acoplado. **A Payt não mostrou ShopMiner nas 5 linhas de hoje**, depois de três leituras seguidas com 2 em 5. Com 5 linhas, isso não diz nada.
+
+**Fila (1 ID cada, sem nota):** produto de **Arthur Benatti** vendido em live (Kiwify 264362177), em que os "cursos adicionais" anunciados seriam liberados **só depois de 7 dias**, e não foram. Upsells em cascata, um deles sem nenhum entregável (Hotmart 264367233, produtor não nomeado). **Só pelo título, sem ID:** Green Stalker (PerfectPay, possível +1 em [[green-stalker]]), claudiaweb.com (Lastlink, possível [[claudia-app]]), Império de Apps e Mentoria Melfi (Payt), Pro Academy e MW Informática 4.0 (Hotmart, renovação automática), Comunidade FMI e Cicatrização da Alma (Eduzz), Presépio Novena (Kirvano, físico). Ninguém da fila de 06/11 (Sambox, jogos bíblicos, Profissão do Futuro, Hora Santa) voltou nas linhas lidas.
+
+**Mecânica de funil.** (1) **Bônus liberado depois da garantia** (Benatti): a oferta promete cursos extras que só abrem no 8º dia. Quem espera para ver o pacote completo perde o prazo de arrependimento. É a versão de calendário do "vitalício que é teste de 21 dias" de 06/11. (2) **Frente de R$ 37 que vira parcelamento de ~R$ 298** (Trinca): o comprador não percebe o upsell como compra separada, só vê as 7 parcelas. É a mesma família do "preço só em vídeo" do Paizão. (3) **Produto de vídeo com segundo checkout e curso acoplado** (ShopMiner na Ticto): se for afiliado, a família "app que gera vídeo" já está na fase de revenda.
+
+**Status.** **1 mudança, e é correção:** o `sync` gravou [[treino-trinca]] como `ativa` (vista hoje). Ela voltou à mão para **`aquecendo`** pela tabela do `Scoring.md` (`criativos_delta` > 0 por 2+ rodadas, agora 3). **Nenhum decaimento manual.** Os 9 gateways foram abertos só nas 5 linhas mais recentes, ~5% da janela, e quatro gateways nem isso. Como em 31/10 e 06/11, aplicar a tabela de ausência aqui contaria buraco de cobertura como esfriamento.
+
+**Cuidados.** (1) Só contaram IDs acima de 263599289, e todos os 8 corpos abertos são de 15/11, entre 09h13 e 18h15. (2) O Trinca tem `ra_reclamacoes` 131 e "~200" anúncios, mas a busca é por palavra-chave: "todos de Pedro Lotz" vale para os carregados (~20), não foi conferido nos 200. (3) A atribuição do Paizão é por nome nos três corpos, sem ambiguidade desta vez. (4) Scores sem mudança: Trinca 6,60 (observar; `s_lucro` 8 mantido, o 9 só a partir de 90 dias, que ele cruza por volta de 20/11 se a verba continuar), Paizão 5,75 e ShopMiner 2,50 (provisório). **Ninguém novo cruza o corte.**
+
+**Autocrítica.** **No RA não houve sinal novo relevante:** 5 IDs em três ofertas já mapeadas, nenhuma estreia, numa janela de nove dias vista por uma fresta de horas. O único dado novo que vale é a série do Trinca na Biblioteca, que dobrou de criativos em dez dias e é hoje a oferta medida com mais segurança no vault. Dois erros de processo: a rodada abriu corpos demais nos primeiros gateways e tomou o 429 antes de chegar a Cakto, Wiapy, Hubla e Braip. Na próxima, vale ler as 13 listas primeiro e só depois abrir corpos. E os nove dias sem rodada não foram culpa do instrumento: **a tarefa diária não rodou de 07 a 14/11**, e nada no vault registra por quê. A pendência da Etapa 3b (`ra_primeira_reclamacao` do ShopMiner, Zap Radar e Paizão) segue aberta pela décima sétima vez, e continua dependendo da API.
+
+---
+
+## Leitura anterior — 2026-11-06 (rodada diaria)
 
 Passada: [[2026-11-06 -- 1606]] · nota do dia: [[2026-11-06]].
 
@@ -94,38 +122,6 @@ Passada: [[2026-11-05 -- 0945]] · nota do dia: [[2026-11-05]].
 **Cuidados.** (1) Só contaram IDs acima de 263094707. O 262778703 do Zap Radar, recarimbado em 03/11, já estava contado em 29/10 e ficou fora. Os IDs baixos recarimbados (263074187, 262758757, 263059951) também ficaram fora. (2) O 263287601 ("stalke ai", 37 + 37 + 67 + 97) e o 263397659 (genérico) não foram atribuídos a nenhum Stalke*. (3) A VideoShop estreia com o 262940693, da fila de 29/10, que foi lido e nunca contado. Não há contagem dupla. (4) Scores: Trinca 6,60 (observar), Stalkeia 5,85, Paizão 5,75, Zap Radar 5,00, Trendly 4,70 e Atmoz 4,30. ShopMiner fica em 2,50, TokScale e Direct Line em 1,75 e PostCloner em 1,90, todos provisórios: volume alto e score baixo porque `s_ticket`/`s_replica` seguem sentinela. As estreias ficam entre 1,05 e 3,75, provisórias. **Ninguém novo cruza o corte.**
 
 **Autocrítica.** **Desta vez houve sinal novo real, e a diferença foi o instrumento, não a cadência.** A lista de 5 linhas de 31/10 teria visto no máximo 55 das 700 (cinco por gateway), ~8% da janela. O achado que importa é estrutural: **a família que mais cresce no RA (ShopMiner, TokScale, PostCloner, Velix) é invisível na Biblioteca**, então `dias_no_ar` e `criativos` nunca vão sair para ela pela Etapa 1, e o score delas fica travado em provisório por construção. A rodada não resolveu isso: o próximo passo é a Etapa 3b com a API (`ra_primeira_reclamacao` do ShopMiner pela paginação até o fim), que mede idade sem anúncio. Essa pendência, junto com a do Trinca, Zap Radar e Paizão, segue aberta pela décima quarta vez. A rodada também gastou 3 buscas na Biblioteca e só uma (Trinca) mediu algo.
-
----
-
-## Leitura anterior — 2026-10-31 (rodada diaria)
-
-Passada: [[2026-10-31 -- 2043]] · nota do dia: [[2026-10-31]].
-
-**486 notas · 386 ofertas · 100 ângulos · 0 novas hoje · 7 revistas · 1 retorno · 2 mudanças de status · status (todas): 112 nova · 89 ativa · 243 esfriando · 42 morta · 1 no corte ([[little-genius]], 7,60, sem mudança)**
-
-**Uma rodada de ~47 horas com o instrumento mais estreito desde 11/10.** Não houve rodada em 30/10. A anterior foi o complemento de 29/10 às 21h26 (maior ID lido: 262959519). As passadas 6x/dia seguem paradas desde 18/10. **Executar JS na aba do RA foi negado de novo**, então a API de busca ficou fora. Sobrou a lista de 5 linhas, e a paginação por clique continua sem trocar a lista (`?pagina=2` devolve as mesmas cinco). Foram **12 gateways, 1 página cada**, as 11 de sempre mais a Braip. Depois de **8 corpos abertos, o RA passou a exibir a verificação anti-bot do Cloudflare** ("Just a moment…"). A página não liberou depois de duas esperas, e a rodada não tentou contorná-la. As cinco linhas de cada gateway cobrem só de ~30/10 22h até agora, umas 19 das ~47 horas. A Biblioteca abriu sem aprovação para 2 buscas.
-
-**Sinal novo real: só na Biblioteca, e responde à pergunta que estava aberta.**
-- **[[treino-trinca]]: a verba não parou.** "treino trinca" foi de ~84 (26/10) para **~100 resultados**, todos os carregados de Pedro Lotz. O mais antigo carregado é de 22/08 (**`dias_no_ar` 60 → 70**), e há **5 criativos iniciados de 26 a 28/10**, nenhum de 29 a 31/10. A pergunta de 27/10 (coorte esgotada ou reembolso funcionando) ganha meia resposta: **o silêncio do RA desde 27/10 não é a oferta saindo do ar.** Ou o reembolso passou a funcionar, ou os compradores novos ainda estão dentro dos 7 dias. A série do RA segue em 2 IDs em 46 horas e 0 nas cinco linhas da Lastlink hoje. O frontmatter ainda guardava o 140 de 21-23/10, e foi corrigido para `criativos_ultima: 100`, `criativos_delta: +16` contra a leitura de 26/10.
-- **[[atmoz]]: segunda leitura, e a verba segue subindo.** De ~110 para **~120 anúncios**, ainda de um anunciante só (John Atmoz Rodrigues, `inteligenciajohn.com/atmoz`). Há **5 iniciados em 29/10 e 1 em 30/10**, e o mais antigo segue sendo de 18/10 (`dias_no_ar` 13). Nas cinco linhas da Kirvano não houve ID novo, o que com 5 linhas não diz nada. O status saiu de `nova` para `ativa`. Ainda não é `aquecendo`, que pede `criativos_delta` > 0 por 2+ rodadas, e esta é a primeira com delta.
-
-**RA: 4 IDs novos, nenhum nome novo com ritmo.**
-- [[chatgpt-privado]] 8 → **9** (Kirvano 263094041), o primeiro desde 11/10. "CHAT GPT PRIVADO [G]" por R$ 67 no Pix. **Prometia credencial privada e entregou um tutorial no Telegram para pegar uma promoção gratuita.** O produtor recusou o reembolso dentro dos 7 dias alegando "produto digital resgatado". É provável que seja o mesmo "ChatGPT GO sem credencial" da fila de 29/10 (262947323). Não foi somado, porque o nome não bate.
-- Com +1 ID: [[fornece-up]] **30** (comprado em 11/10, "cadastrei diversos produtos e nenhuma venda", 263068407) e [[app-direct-line]] **46** (comprado em 30/10, cancelamento pedido no mesmo dia sem resposta, 263090227).
-- **Retorno: [[arsenal-lucrativo]]** (Cakto, 3 → 4, `esfriando` → `ativa`). É o nível "Flow Ultra", com renovação automática cobrada em 18/10. O corpo (263094707) diz que **restrições do Google no início de outubro** impediram o uso, e que o suporte prometeu cancelar a renovação de todos e migrar para um serviço novo. É a primeira menção a uma ferramenta derrubada por mudança de plataforma, e não por fraude.
-- [[trendly]]: avistamento sem contagem. O 263072749 repete o texto do 262754769, contado em 29/10 (R$ 239,76 em março): é o mesmo comprador reabrindo, agora com a PerfectPay negando pelo prazo de 7 dias.
-
-**Fila, para a próxima rodada somar por ID (1 ID cada):** "ARES B3 - B3" (Kirvano 263090387, comprado em 31/10, suporte "só em dias úteis" antes do feriado de segunda). Pelo nome, é trading/B3. "Cupom de Prêmios", app de jogo com "saldo bloqueado" (PerfectPay 263060223), da família "taxa para liberar". Sem corpo aberto, só pelo título: Descomplicart R$ 97 e Fábrica de Comissões (Kiwify), Vitrine Lucrativa (Eduzz), Slim Detox Caps (Monetizze), "jogos virtuais" (Payt), Hi Spy (Ticto, possível [[hi-spy-4-0]]), dicas de Pilates (Lastlink), Teacher Zap vitalício (Lastlink, possível [[teacher-zap]]), Perfect Lizz e Lift Gold (Monetizze, possíveis [[perfect-liss]] e [[lift-gold]]), Gold Card TV (Braip, possível [[gold-card-tv]]), ShopMiner (Payt) e "plantas de casa" (Wiapy, 2º título depois do 262947487 de 29/10). **Esses 11 ficaram sem ID porque o Cloudflare cortou a leitura antes, e não entram na conta.**
-
-**Mecânica de funil.** (1) **"Credencial privada" que é tutorial de promoção gratuita** (ChatGPT Privado). É a mesma família do "ChatGPT GO sem credencial": vende-se o acesso, entrega-se o caminho para o acesso grátis. (2) **Suporte só em dia útil na véspera de feriado** (ARES B3), para gastar o prazo de 7 dias. É a versão de calendário do "suporte não responde". (3) **Assinatura que sobrevive ao fim do produto** (Flow Ultra): a ferramenta parou por restrição do Google, e a renovação automática seguiu cobrando.
-
-**Gargalos do instrumento.** (1) **O RA fechou as duas portas na mesma sessão:** a API (JS negado) e, depois de 8 corpos, a própria página (Cloudflare). Se isso se repetir, **a rodada passa a ler títulos, não IDs**, e a regra de 27/08 (só o ID conta) deixa quase tudo na fila. (2) As 5 linhas cobrem ~19 de ~47 horas. **As contagens desta rodada não são comparáveis nem com as do complemento de 29/10**, que abriu ~45 corpos. (3) A Biblioteca foi a única fonte que respondeu inteira. Com 2 buscas por rodada sem aprovação, as melhores perguntas são as de série (Trinca, Atmoz), não as de descoberta.
-
-**Status.** São **2 mudanças**: [[arsenal-lucrativo]] voltou para `ativa` pelo `sync` (retorno de `esfriando`) e [[atmoz]] saiu de `nova` para `ativa`. **Nenhum decaimento manual.** Os 12 gateways foram abertos, mas só nas cinco linhas mais recentes, ~40% da janela. As leituras anteriores só decaíram depois de "duas leituras completas" sem a oferta, e esta não é completa. Aplicar a tabela aqui contaria buraco de cobertura como esfriamento, que é exatamente o que o `sync` evita de propósito.
-
-**Cuidados.** (1) As 7 "revistas" incluem 2 que vieram só da Biblioteca (Trinca e Atmoz), com `mencoes` igual à contagem anterior: o snapshot registra o avistamento, não um ID novo. (2) O Trendly ficou em 4 pela regra do comprador reabrindo. (3) Scores sem mudança: Trinca 6,60 (observar, `s_lucro` 8 na faixa de 45-90 dias), Stalkeia 5,85, Paizão 5,75, Zap Radar 5,00, Trendly 4,70, Atmoz 4,30 (provisório), ChatGPT Privado 3,00 e Arsenal Lucrativo 0,70 (provisório). Ninguém novo cruza o corte.
-
-**Autocrítica.** **No RA não houve sinal novo relevante:** 4 IDs em ofertas já mapeadas e nenhuma estreia, com um instrumento que viu 40% da janela. O que a rodada acrescenta de verdade são duas leituras de série na Biblioteca. O Trinca continua comprando anúncio enquanto o RA silencia, e isso muda a leitura dos últimos quatro Painéis. A Atmoz tem agora duas medições com verba subindo. A cadência diária não é o gargalo: **o gargalo é o acesso ao RA.** Sem a API, uma rodada de 47 horas rende menos que o complemento de 7,5 horas de 29/10. A pendência da Etapa 3b (`ra_primeira_reclamacao` do Trinca, do Zap Radar e do Paizão) segue aberta pela décima terceira vez, e agora também depende de o RA voltar a responder.
 
 ---
 
