@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 4
 status: ativa
 visto_primeiro: 2026-08-21
-visto_ultimo: 2026-11-06
-rodadas_vista: 18
+visto_ultimo: 2026-11-15
+rodadas_vista: 19
 dias_no_ar: 54
 criativos_ultima: 19
 criativos_delta: 3
@@ -36,10 +36,10 @@ ativos_pasta:
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 51
+ra_reclamacoes: 54
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: "2026-08-20"
-ra_checado: 2026-11-06
+ra_checado: 2026-11-15
 veredito: observar
 prioridade: 1
 tags: [oferta, recorrencia, parentalidade]
@@ -231,3 +231,9 @@ Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/nao-recebi-o-servic
 51 mencao(oes) nesta varredura (gateway Kirvano). Rodada 06/11: 2 IDs novos na Kirvano, 49 -> 51. 263586783 (14h07): tres pedidos somando R$ 326,98 (R$ 38,99 + R$ 238,99 + R$ 49,00) que a compradora diz nao ter autorizado conscientemente, com valores apresentados em video e nao por escrito; nem abriu o app. 263565517 (11h06): 'aplicativo do Carlao' por R$ 47, treino em casa sem video de execucao dos exercicios.
 
 Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-indevidamente-no-meu-cartao-por-compras-que-nao-autorizei-no-app-do-paizao_zmQh9V09vpWLLBOA/
+
+## Rodada 2026-11-15
+
+54 mencao(oes) nesta varredura (gateway Kirvano). Rodada 15/11 (lista de 5 linhas, IDs acima de 263599289): 3 IDs novos na Kirvano, 51 -> 54, tres das cinco linhas da Kirvano. 264345981 (09h45, 'app do personal de tiktok Carlao Silva', treino 'personalizado' que nao e), 264357515 (13h45, cancelamento pedido em 20/10 e cobrancas seguintes nao devolvidas) e 264359355 (14h28, prometido 'menos de R$ 50' e depois duas cobrancas de R$ 237 e R$ 39 no cartao). Mesma escada de 27/09, 06/10 e 06/11 (frente ~R$ 47, degrau de ~R$ 237-239, mais ~R$ 39-49).
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/fui-cobrado-indevidamente-no-cartao-por-um-app-e-nao-consigo-cancelar_UOA4tdR8ThI91FSZ/

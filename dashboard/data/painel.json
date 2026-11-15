@@ -3,11 +3,11 @@
  "totais": {
   "ofertas": 391,
   "angulos": 101,
-  "observacoes": 1167,
-  "dias_radar": 50,
-  "passadas": 133,
+  "observacoes": 1170,
+  "dias_radar": 51,
+  "passadas": 134,
   "analises": 12,
-  "ultima_rodada": "2026-11-06"
+  "ultima_rodada": "2026-11-15"
  },
  "ofertas": [
   {
@@ -6768,21 +6768,21 @@
    "score": 5.75,
    "decisao": "descartar",
    "visto_primeiro": "2026-08-21",
-   "visto_ultimo": "2026-11-06",
-   "rodadas_vista": 18,
+   "visto_ultimo": "2026-11-15",
+   "rodadas_vista": 19,
    "dias_no_ar": 54,
    "criativos_ultima": 19,
    "criativos_delta": 3,
-   "ra_reclamacoes": 51,
+   "ra_reclamacoes": 54,
    "ra_primeira_reclamacao": "2026-08-20",
-   "ra_checado": "2026-11-06",
+   "ra_checado": "2026-11-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=app%20do%20paiz%C3%A3o&search_type=keyword_unordered&media_type=all",
-   "n_obs": 18,
-   "ultima_obs": "2026-11-06",
-   "n_citacoes": 38,
+   "n_obs": 19,
+   "ultima_obs": "2026-11-15",
+   "n_citacoes": 40,
    "resumo": "Todo o cluster de comportamento infantil do vault — dezessete notas, gravadas hoje — converge numa conclusão só: o nicho vende alívio de culpa da mãe. \"Pare de gritar\", \"sem culpa\", \"não é falha sua\". A compradora é sempre ela.",
    "flags": [
     "sem-lp"
@@ -9328,7 +9328,7 @@
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=claudia%20app&search_type=keyword_unordered&media_type=all",
    "n_obs": 1,
    "ultima_obs": "2026-11-05",
-   "n_citacoes": 1,
+   "n_citacoes": 2,
    "resumo": "Estreia 05/11 com 3 IDs na Lastlink: 263144771, 263312327 (compra 27/10, pagamento processado pela Adyen, e-mail de suporte nao funciona) e 263381047 (compra 11/10, cancelado no mesmo dia, sem reembolso). App de ingles 'repetitivo', sem lugar para pedir…",
    "flags": [
     "score-provisorio",
@@ -24394,7 +24394,8 @@
    "prioridade": 0,
    "checkout": "payt",
    "gateways": [
-    "payt"
+    "payt",
+    "ticto"
    ],
    "plataforma_ads": [
     "meta"
@@ -24418,21 +24419,21 @@
    "score": 2.5,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-03",
-   "visto_ultimo": "2026-11-06",
-   "rodadas_vista": 12,
+   "visto_ultimo": "2026-11-15",
+   "rodadas_vista": 13,
    "dias_no_ar": 0,
    "criativos_ultima": 0,
    "criativos_delta": 0,
-   "ra_reclamacoes": 91,
+   "ra_reclamacoes": 92,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-11-06",
+   "ra_checado": "2026-11-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=ShopMiner&search_type=keyword_unordered&media_type=all",
-   "n_obs": 13,
-   "ultima_obs": "2026-11-06",
-   "n_citacoes": 27,
+   "n_obs": 14,
+   "ultima_obs": "2026-11-15",
+   "n_citacoes": 29,
    "resumo": "Ferramenta de pesquisa de produtos pra loja online que não entrega as funcionalidades anunciadas na compra.",
    "flags": [
     "score-provisorio",
@@ -25755,21 +25756,21 @@
    "score": 6.6,
    "decisao": "observar",
    "visto_primeiro": "2026-08-16",
-   "visto_ultimo": "2026-11-05",
-   "rodadas_vista": 18,
-   "dias_no_ar": 75,
-   "criativos_ultima": 120,
-   "criativos_delta": 20,
-   "ra_reclamacoes": 130,
+   "visto_ultimo": "2026-11-15",
+   "rodadas_vista": 19,
+   "dias_no_ar": 85,
+   "criativos_ultima": 200,
+   "criativos_delta": 80,
+   "ra_reclamacoes": 131,
    "ra_primeira_reclamacao": "",
-   "ra_checado": "2026-11-05",
+   "ra_checado": "2026-11-15",
    "bump_oculto": false,
    "upsell_oculto": false,
    "url_pagina": "https://treinotrinca.com.br/",
    "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Treino%20Trinca&search_type=keyword_unordered&media_type=all",
-   "n_obs": 18,
-   "ultima_obs": "2026-11-05",
-   "n_citacoes": 38,
+   "n_obs": 19,
+   "ultima_obs": "2026-11-15",
+   "n_citacoes": 40,
    "resumo": "Desafio de treino em casa com rosto e nome do produtor (Pedro Lotz). Promessa de acesso completo por R$37 no criativo.",
    "flags": []
   },
@@ -27163,6 +27164,29 @@
  ],
  "dias": [
   {
+   "arquivo": "Radar/2026-11-15.md",
+   "data": "2026-11-15",
+   "titulo": "Radar 2026-11-15",
+   "ofertas_vistas": 3,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "leitura": "Rodada diaria de 15/11, nove dias depois da anterior, com a API do RA negada e o Cloudflare devolvendo 429 depois de 8 corpos: lista de 5 linhas em 9 gateways (Cakto, Wiapy, Hubla e Braip sem leitura), todos os IDs acima de 263599289 e publicados em 15/11. Gotejamento das mesmas ofertas: Paizao +3, Trinca +1 e ShopMiner +1 (primeira vez na Ticto). O unico sinal novo de verdade veio da Biblioteca: o Treino Trinca foi…"
+  },
+  {
    "arquivo": "Radar/2026-11-06.md",
    "data": "2026-11-06",
    "titulo": "Radar 2026-11-06",
@@ -28184,6 +28208,32 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-11-15 -- 1936.md",
+   "data": "2026-11-15",
+   "hora": "19:36",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "kirvano",
+    "lastlink",
+    "payt",
+    "perfectpay"
+   ],
+   "paginas": 9,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "claudia-app",
+    "shopminer",
+    "treino-trinca"
+   ],
+   "resumo": "Gateways: kiwify, hotmart, ticto, eduzz, monetizze, kirvano, lastlink, payt, perfectpay · Páginas: 9 · Coleta: parcial · Achados: 3 ## Quentes app-do-paizao — Kirvano · +3 (51 -> 54), tres das cinco linhas da Kirvano; mesma escada R$ 47 +…"
+  },
   {
    "arquivo": "Radar/rodadas/2026-11-06 -- 1606.md",
    "data": "2026-11-06",
@@ -31557,7 +31607,8 @@
    "2026-10-29": 29,
    "2026-10-31": 7,
    "2026-11-05": 36,
-   "2026-11-06": 10
+   "2026-11-06": 10,
+   "2026-11-15": 3
   }
  },
  "analises": [
@@ -31905,7 +31956,7 @@
    "vonixx-curso-de-estofamento-automotivo"
   ],
   "estilos_frontmatter": {
-   "canonico": 1659
+   "canonico": 1662
   }
  },
  "vocabulario": {
@@ -31954,28 +32005,26 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "595de164864d2ee3",
-  "atualizado_em": "2026-11-06T16:07:22-03:00",
+  "hash": "e28b9bce7c532274",
+  "atualizado_em": "2026-11-15T19:37:17-03:00",
   "ofertas": 391,
   "angulos": 101,
-  "observacoes": 1167,
-  "ultima_rodada": "2026-11-06",
+  "observacoes": 1170,
+  "ultima_rodada": "2026-11-15",
   "ultima_passada": {
-   "data": "2026-11-06",
-   "hora": "16:06",
+   "data": "2026-11-15",
+   "hora": "19:36",
    "coleta": "parcial",
    "gateways": [
-    "perfectpay",
-    "payt",
-    "kirvano",
     "kiwify",
-    "lastlink",
-    "cakto",
-    "ticto",
     "hotmart",
-    "wiapy",
+    "ticto",
     "eduzz",
-    "monetizze"
+    "monetizze",
+    "kirvano",
+    "lastlink",
+    "payt",
+    "perfectpay"
    ]
   }
  }

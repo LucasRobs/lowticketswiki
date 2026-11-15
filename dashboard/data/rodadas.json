@@ -2,6 +2,29 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-11-15.md",
+   "data": "2026-11-15",
+   "titulo": "Radar 2026-11-15",
+   "ofertas_vistas": 3,
+   "novas": 0,
+   "retornaram": 0,
+   "sumiram": 0,
+   "fontes": [
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-11-15\n\n## Novas\n\n## Movimento\n\n- [[app-do-paizao]] — ra_reclamacoes atualizado para 54\n- [[treino-trinca]] — ra_reclamacoes atualizado para 131\n- [[shopminer]] — ra_reclamacoes atualizado para 92\n\n## Retornaram\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada diaria de 15/11, nove dias depois da anterior, com a API do RA negada e o Cloudflare devolvendo 429 depois de 8 corpos: lista de 5 linhas em 9 gateways (Cakto, Wiapy, Hubla e Braip sem leitura), todos os IDs acima de 263599289 e publicados em 15/11. Gotejamento das mesmas ofertas: Paizao +3, Trinca +1 e ShopMiner +1 (primeira vez na Ticto). O unico sinal novo de verdade veio da Biblioteca: o Treino Trinca foi de ~120 para ~200 anuncios com um criativo novo desde 03/11 e 85 dias no ar. Nenhuma estreia.\n\n## Passadas do dia\n- [[2026-11-15 -- 1936]] - kiwify, hotmart, ticto, eduzz, monetizze, kirvano, lastlink, payt, perfectpay - 3 achado(s) - rodada diaria — API negada, Cloudflare apos 8 corpos; 5 linhas em 9 gateways: 3 revistas (Paizao +3, Trinca +1 e Biblioteca ~200, ShopMiner…\n"
+  },
+  {
    "arquivo": "Radar/2026-11-06.md",
    "data": "2026-11-06",
    "titulo": "Radar 2026-11-06",
@@ -1023,6 +1046,32 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-11-15 -- 1936.md",
+   "data": "2026-11-15",
+   "hora": "19:36",
+   "gateways": [
+    "kiwify",
+    "hotmart",
+    "ticto",
+    "eduzz",
+    "monetizze",
+    "kirvano",
+    "lastlink",
+    "payt",
+    "perfectpay"
+   ],
+   "paginas": 9,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "app-do-paizao",
+    "claudia-app",
+    "shopminer",
+    "treino-trinca"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-11-15]].\n\n# Rodada — 15/11/2026 · 19:36 Fortaleza\n\n**Gateways:** kiwify, hotmart, ticto, eduzz, monetizze, kirvano, lastlink, payt, perfectpay · **Páginas:** 9 · **Coleta:** parcial · **Achados:** 3\n\n## Quentes\n- [[app-do-paizao]] — Kirvano · +3 (51 -> 54), tres das cinco linhas da Kirvano; mesma escada R$ 47 + R$ 237 + R$ 39\n- [[treino-trinca]] — Lastlink · +1 (131), R$ 37 que virou 7x R$ 42,53; Biblioteca ~200 (eram ~120), dias_no_ar 85, criativo novo desde 03/11\n\n## Mornas\n- [[shopminer]] — Ticto · +1 (92), primeira reclamacao fora da Payt ('Shopminer vitalicio' + curso Hayane)\n- Fila (1 ID, sem nota): produto de Arthur Benatti vendido em live na Kiwify (264362177), cursos 'liberados depois de 7 dias' que nao liberam; upsells em cascata sem entregavel na Hotmart (264367233)\n- So titulo, sem ID: Green Stalker (PerfectPay), claudiaweb.com (Lastlink, possivel [[claudia-app]]), Imperio de Apps e Mentoria Melfi (Payt), Pro Academy e MW Informatica 4.0 (Hotmart), Comunidade FMI e Cicatrizacao da Alma (Eduzz), Presepio Novena (Kirvano)\n\nLeitura: API do RA negada e Cloudflare (429) depois de 8 corpos; Cakto, Wiapy, Hubla e Braip sem leitura. Gotejamento das mesmas ofertas, sem estreia.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-11-06 -- 1606.md",
    "data": "2026-11-06",

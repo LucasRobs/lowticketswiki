@@ -26,20 +26,20 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-11-06
-rodadas_vista: 12
+visto_ultimo: 2026-11-15
+rodadas_vista: 13
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/shopminer"
-gateways_detectados: [payt]
+gateways_detectados: [payt, ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 91
-ra_plataformas: [payt]
+ra_reclamacoes: 92
+ra_plataformas: [payt, ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-06
+ra_checado: 2026-11-15
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -169,3 +169,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/solicito-cancelamento-e-reembolso
 91 mencao(oes) nesta varredura (gateway Payt). Rodada 06/11 16h06 (lista de 5 linhas, IDs acima de 263440907): 2 IDs novos na Payt, 89 -> 91. 263590861 (14h43) e 263594469 (15h13), dois compradores de cidades diferentes, ambos compraram em 05/11 e reclamam com o mesmo texto ('app nao condiz com o prometido, vendedora nao responde'). Duas das cinco linhas da Payt de novo; um terceiro titulo ShopMiner (15h41) apareceu so em 'reclamacoes parecidas' e nao foi contado.
 
 Evidencia: https://www.reclameaqui.com.br/payt/quero-reembolso-do-app-shopminer-que-nao-condiz-com-o-prometido_fj9-PixYKGxDZdwG/
+
+## Rodada 2026-11-15
+
+92 mencao(oes) nesta varredura (gateway Ticto). Rodada 15/11: 1 ID novo, e no gateway novo: Ticto 264344729 (09h13), 'Shopminer vitalicio' + 'curso da Hayane' comprados juntos, plataforma nao funciona e suporte nao responde. 91 -> 92. Primeira vez fora da Payt: o ShopMiner agora tem checkout tambem na Ticto, com uma versao 'vitalicio' e um curso acoplado. A Payt nao mostrou ShopMiner nas 5 linhas de hoje.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/quero-cancelar-shopminer-vitalicio-e-curso-hayane-e-ter-meu-dinheiro-de-volta_smB8HvoE_Ri8AdoE/

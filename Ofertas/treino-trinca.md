@@ -26,20 +26,20 @@ s_replica: 6
 s_saturacao: 4
 status: aquecendo
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-11-05
-rodadas_vista: 18
-dias_no_ar: 75
-criativos_ultima: 120
-criativos_delta: 20
+visto_ultimo: 2026-11-15
+rodadas_vista: 19
+dias_no_ar: 85
+criativos_ultima: 200
+criativos_delta: 80
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 130
+ra_reclamacoes: 131
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-15
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -225,3 +225,10 @@ Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=al
 130 mencao(oes) nesta varredura (gateway Lastlink). Rodada 05/11: 2 IDs novos (128 -> 130), Lastlink: 263135169 (R$ 37, sem conseguir cancelar) e 263163939 (Pix de R$ 997 do pacote TF1000 nao devolvido). Biblioteca 05/11: 'treino trinca' ~120 resultados (~100 em 31/10), todos de Pedro Lotz, mais antigo de 22/08 (dias_no_ar 75).
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/nao-recebi-o-pix-de-r99700-do-pacote-tf1000_ggxQYKCNk9z8nd-B/
+
+## Rodada 2026-11-15
+
+131 mencao(oes) nesta varredura (gateway Lastlink). Rodada 15/11: 1 ID novo na Lastlink (130 -> 131): 264369015 (18h15), 'comprei por R$ 37 e passaram 7x de R$ 42,53' (~R$ 297,71) sem acesso. Biblioteca 15/11: 'treino trinca' ~200 resultados (~120 em 05/11), todos os carregados de Pedro Lotz (ltz.pedrolotz.online); mais antigo ainda ativo de 22/08 (dias_no_ar 85); criativo novo ('a metodologia que as Famosas e Atrizes estao usando') com lotes iniciados em 03, 06, 07 e 10/11.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/fui-cobrado-indevidamente-nao-comprem-treino-trinca_FmUFvx-xavAlbE3G/
+- **Medido na Biblioteca (2026-11-15):** ~200 resultados para "treino trinca" (eram ~120 em 05/11), todos os carregados de Pedro Lotz (`ltz.pedrolotz.online`). O mais antigo ainda ativo segue sendo de 22/08 -> `dias_no_ar: 85`. Entrou um criativo novo ("A metodologia de treino que praticamente todas as Famosas e Atrizes estao usando pra secar e definir rapido!"), com lotes iniciados em 03, 06, 07 e 10/11 -> `criativos_ultima: 200`, `criativos_delta: +80`. Terceira leitura seguida com delta positivo: `status` volta para `aquecendo` (o `sync` tinha gravado `ativa`). `s_lucro` 8 mantido (85 dias, faixa 45-90; o 9 so com 90+). Preco: o 264369015 mostra a frente de R$ 37 virando **7x de R$ 42,53 (~R$ 297,71)** no cartao, perto do upsell de R$ 220 ja registrado.
