@@ -24,10 +24,10 @@ s_ticket: 7
 s_lucro: 8
 s_replica: 6
 s_saturacao: 4
-status: aquecendo
+status: ativa
 visto_primeiro: 2026-08-16
-visto_ultimo: 2026-11-05
-rodadas_vista: 18
+visto_ultimo: 2026-11-15
+rodadas_vista: 19
 dias_no_ar: 75
 criativos_ultima: 120
 criativos_delta: 20
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/treino-trinca"
 gateways_detectados: [lastlink]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 130
+ra_reclamacoes: 131
 ra_plataformas: [lastlink]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-15
 veredito: observar
 prioridade: 3
 tags: [oferta, lowticket, marca]
@@ -225,3 +225,9 @@ Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=al
 130 mencao(oes) nesta varredura (gateway Lastlink). Rodada 05/11: 2 IDs novos (128 -> 130), Lastlink: 263135169 (R$ 37, sem conseguir cancelar) e 263163939 (Pix de R$ 997 do pacote TF1000 nao devolvido). Biblioteca 05/11: 'treino trinca' ~120 resultados (~100 em 31/10), todos de Pedro Lotz, mais antigo de 22/08 (dias_no_ar 75).
 
 Evidencia: https://www.reclameaqui.com.br/lastlink/nao-recebi-o-pix-de-r99700-do-pacote-tf1000_ggxQYKCNk9z8nd-B/
+
+## Rodada 2026-11-15
+
+131 mencao(oes) nesta varredura (gateway Lastlink). Rodada 15/11: 1 ID novo na Lastlink (130 -> 131): 264369015 (18h15), 'comprei por R$ 37 e passaram 7x de R$ 42,53' (~R$ 297,71) sem acesso. Biblioteca 15/11: 'treino trinca' ~200 resultados (~120 em 05/11), todos os carregados de Pedro Lotz (ltz.pedrolotz.online); mais antigo ainda ativo de 22/08 (dias_no_ar 85); criativo novo ('a metodologia que as Famosas e Atrizes estao usando') com lotes iniciados em 03, 06, 07 e 10/11.
+
+Evidencia: https://www.reclameaqui.com.br/lastlink/fui-cobrado-indevidamente-nao-comprem-treino-trinca_FmUFvx-xavAlbE3G/
