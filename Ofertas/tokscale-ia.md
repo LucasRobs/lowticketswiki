@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-11
-visto_ultimo: 2026-11-05
-rodadas_vista: 10
+visto_ultimo: 2026-11-16
+rodadas_vista: 11
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/tokscale-ia"
 gateways_detectados: [payt]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 42
+ra_reclamacoes: 43
 ra_plataformas: [payt]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -143,3 +143,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/exijo-estorno-em-dobro-por-cobran
 42 mencao(oes) nesta varredura (gateway Payt). Rodada 05/11: 7 IDs novos (35 -> 42), todos na Payt: 263233243, 263235315, 263235553, 263298789 (comprado 03/11), 263339901, 263387913, 263433289. Reembolso aprovado e nao pago, e falta de link de reembolso dentro do app.
 
 Evidencia: https://www.reclameaqui.com.br/payt/solicito-cancelamento-e-reembolso-da-tokscale-por-nao-atender-expectativas_yMlePwP-C03_xYGc/
+
+## Rodada 2026-11-16
+
+43 mencao(oes) nesta varredura (gateway Payt). Rodada 16/11: 1 ID novo na Payt, 42 -> 43. 264445105 (16/11 15h04, Uberlandia-MG): TokScale comprado parcelado pela Pagaleve (BNPL); a Payt confirmou o pedido de reembolso por e-mail com o campo de valor em branco e sem prazo, e as parcelas da Pagaleve seguem abertas. Primeira mencao de BNPL (Pagaleve) na familia 'app que gera video'. Ausente das linhas desde 05/11.
+
+Evidencia: https://www.reclameaqui.com.br/payt/reembolso-solicitado-na-payt-sem-prazo-de-conclusao-tokscale__5ilx0o1eq-lgkqm/

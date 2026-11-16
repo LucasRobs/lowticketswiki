@@ -12,22 +12,22 @@ checkout: braip
 url_pagina: 
 url_ads: "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gold%20Card%20TV&search_type=keyword_unordered&media_type=all"
 moeda: BRL
-ticket_frente: 0
+ticket_frente: 107.99
 ticket_bump: 0
 ticket_upsell: 0
-ticket_medio_est: 0
+ticket_medio_est: 107.99
 margem_est: 0.8
 modelo: [direct]
 formato_entrega: []
 tem_recorrencia: false
-s_ticket: 0
+s_ticket: 8
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-04
-visto_ultimo: 2026-10-12
-rodadas_vista: 3
+visto_ultimo: 2026-11-16
+rodadas_vista: 4
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/gold-card-tv"
 gateways_detectados: [braip]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 2
+ra_reclamacoes: 3
 ra_plataformas: [braip]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-12
+ra_checado: 2026-11-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -97,3 +97,9 @@ Evidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-ree
 2 mencao(oes) nesta varredura (gateway Braip). App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso.
 
 Evidencia: https://www.reclameaqui.com.br/braip/nao-recebi-estorno-do-goldcardtv-e-ja-se-passaram-8-dias-uteis_W1SlFHKR1Oa6w-s8/
+
+## Rodada 2026-11-16
+
+3 mencao(oes) nesta varredura (gateway Braip). Rodada 16/11: 1 ID novo na Braip, 2 -> 3, primeiro preco medido. 264423903 (16/11 12h31, Indaiatuba-SP): compra de R$ 107,99 em 03/11 na 'Good Card TV' (grafia do comprador), cancelada em 04/11; a Braip prometeu estorno em 4 dias e nao fez. Ausente desde 12/10. Biblioteca 16/11: 'good card tv' (frase exata) = 0 anuncios ativos.
+
+Evidencia: https://www.reclameaqui.com.br/braip/nao-recebi-minha-compra-da-good-card-tv-e-a-braip-nao-estornou-o-valor_onzjBS3aAr18Htxl/

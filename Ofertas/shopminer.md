@@ -26,8 +26,8 @@ s_replica: 0
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-03
-visto_ultimo: 2026-11-15
-rodadas_vista: 13
+visto_ultimo: 2026-11-16
+rodadas_vista: 14
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/shopminer"
 gateways_detectados: [payt, ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 92
+ra_reclamacoes: 93
 ra_plataformas: [payt, ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-15
+ra_checado: 2026-11-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -175,3 +175,9 @@ Evidencia: https://www.reclameaqui.com.br/payt/quero-reembolso-do-app-shopminer-
 92 mencao(oes) nesta varredura (gateway Ticto). Rodada 15/11: 1 ID novo, e no gateway novo: Ticto 264344729 (09h13), 'Shopminer vitalicio' + 'curso da Hayane' comprados juntos, plataforma nao funciona e suporte nao responde. 91 -> 92. Primeira vez fora da Payt: o ShopMiner agora tem checkout tambem na Ticto, com uma versao 'vitalicio' e um curso acoplado. A Payt nao mostrou ShopMiner nas 5 linhas de hoje.
 
 Evidencia: https://www.reclameaqui.com.br/ticto/quero-cancelar-shopminer-vitalicio-e-curso-hayane-e-ter-meu-dinheiro-de-volta_smB8HvoE_Ri8AdoE/
+
+## Rodada 2026-11-16
+
+93 mencao(oes) nesta varredura (gateway Payt). Rodada 16/11 (lista de 5 linhas, IDs acima de 264369015): 1 ID novo de volta na Payt, 92 -> 93. 264441249 (16/11 14h37, Ananindeua-PA): cancelamento pedido ao ShopMiner, que encaminhou para a Payt; a Payt devolveu o Pix 4 minutos depois de publicada a reclamacao (resolvida, nota 10). Depois da estreia na Ticto em 15/11, a Payt volta a ter ShopMiner nas 5 linhas.
+
+Evidencia: https://www.reclameaqui.com.br/payt/aguardo-reembolso-da-minha-compra-cancelada-na-shopminer_LJImLBPOvbS8dtz8/

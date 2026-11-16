@@ -17,24 +17,24 @@
   "url_pagina": "",
   "url_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&q=Gold%20Card%20TV&search_type=keyword_unordered&media_type=all",
   "moeda": "BRL",
-  "ticket_frente": 0,
+  "ticket_frente": 107.99,
   "ticket_bump": 0,
   "ticket_upsell": 0,
-  "ticket_medio_est": 0,
+  "ticket_medio_est": 107.99,
   "margem_est": 0.8,
   "modelo": [
    "direct"
   ],
   "formato_entrega": [],
   "tem_recorrencia": false,
-  "s_ticket": 0,
+  "s_ticket": 8,
   "s_lucro": 2,
   "s_replica": 0,
   "s_saturacao": 0,
   "status": "ativa",
   "visto_primeiro": "2026-10-04",
-  "visto_ultimo": "2026-10-12",
-  "rodadas_vista": 3,
+  "visto_ultimo": "2026-11-16",
+  "rodadas_vista": 4,
   "dias_no_ar": 0,
   "criativos_ultima": 0,
   "criativos_delta": 0,
@@ -45,12 +45,12 @@
   ],
   "bump_oculto": false,
   "upsell_oculto": false,
-  "ra_reclamacoes": 2,
+  "ra_reclamacoes": 3,
   "ra_plataformas": [
    "braip"
   ],
   "ra_primeira_reclamacao": "",
-  "ra_checado": "2026-10-12",
+  "ra_checado": "2026-11-16",
   "veredito": "observar",
   "prioridade": 0,
   "tags": [
@@ -60,7 +60,7 @@
   ]
  },
  "calc": {
-  "score": 0.7,
+  "score": 2.3,
   "decisao": "descartar",
   "flags": [
    "score-provisorio",
@@ -71,7 +71,7 @@
    "braip"
   ]
  },
- "corpo": "# Gold Card TV\n\n## Angulo\nServiço de streaming/IPTV, falta de suporte e atraso no reembolso.\n\n## Funil\nanuncio -> pagina -> checkout braip -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Braip). Outro servico de acesso/streaming de TV vendido via Braip, mesmo perfil de queixa do POPTV (falta de suporte, atraso no reembolso).\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Rodada 2026-10-12\n\n2 mencao(oes) nesta varredura (gateway Braip). App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso.\n\nEvidencia: https://www.reclameaqui.com.br/braip/nao-recebi-estorno-do-goldcardtv-e-ja-se-passaram-8-dias-uteis_W1SlFHKR1Oa6w-s8/\n",
+ "corpo": "# Gold Card TV\n\n## Angulo\nServiço de streaming/IPTV, falta de suporte e atraso no reembolso.\n\n## Funil\nanuncio -> pagina -> checkout braip -> ver evidencia.\n\n## Por que funciona\n\n## O que copiar / o que evitar\n\n## Estado dos dados\n- **Confirmado:** existencia, 1 mencao(oes) na varredura de 2026-10-04 (radar-low-ticket automatico, WebFetch por titulo de lista — sem abrir todas as paginas).\n- **Sentinela (nao medido ainda):** dias_no_ar, criativos_ultima, s_replica, s_saturacao — dependem da Etapa 1 (Biblioteca de Anuncios) / Etapa 2 (unFunnelizer), que a automacao 6x/dia nao roda.\n- **Estimado, nao confirmado:** ticket_medio_est a partir da faixa de preco citada na(s) reclamacao(oes); s_lucro travado no teto 6 (Scoring.md) por falta de dias_no_ar.\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Historico\n\n## Rodada 2026-10-05\n\n1 mencao(oes) nesta varredura (gateway Braip). Outro servico de acesso/streaming de TV vendido via Braip, mesmo perfil de queixa do POPTV (falta de suporte, atraso no reembolso).\n\nEvidencia: https://www.reclameaqui.com.br/braip/falta-de-suporte-e-atraso-no-reembolso-de-compra-na-gold-card-tv_UUhi9eccjomUirPL/\n\n## Rodada 2026-10-12\n\n2 mencao(oes) nesta varredura (gateway Braip). App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso.\n\nEvidencia: https://www.reclameaqui.com.br/braip/nao-recebi-estorno-do-goldcardtv-e-ja-se-passaram-8-dias-uteis_W1SlFHKR1Oa6w-s8/\n\n## Rodada 2026-11-16\n\n3 mencao(oes) nesta varredura (gateway Braip). Rodada 16/11: 1 ID novo na Braip, 2 -> 3, primeiro preco medido. 264423903 (16/11 12h31, Indaiatuba-SP): compra de R$ 107,99 em 03/11 na 'Good Card TV' (grafia do comprador), cancelada em 04/11; a Braip prometeu estorno em 4 dias e nao fez. Ausente desde 12/10. Biblioteca 16/11: 'good card tv' (frase exata) = 0 anuncios ativos.\n\nEvidencia: https://www.reclameaqui.com.br/braip/nao-recebi-minha-compra-da-good-card-tv-e-a-braip-nao-estornou-o-valor_onzjBS3aAr18Htxl/\n",
  "observacoes": [
   {
    "data": "2026-10-04",
@@ -108,9 +108,33 @@
    "preco_mudou": false,
    "angulo_novo": false,
    "texto": "2 mencao(oes) na varredura de hoje. App/servico de streaming vendido como 'GoldcardTv' (possivel IPTV ou catalogo de canais). Duas reclamacoes em dias diferentes (01/10 e 09/10) sobre nao liberar acesso e atraso de estorno via Pix -- padrao classico do nicho de streaming/acesso."
+  },
+  {
+   "data": "2026-11-16",
+   "fonte": "reclame-aqui",
+   "ra_reclamacoes": 3,
+   "criativos_ativos": 0,
+   "criativos_novos": 0,
+   "dias_no_ar": 0,
+   "ticket_frente": 107.99,
+   "preco_mudou": false,
+   "angulo_novo": false,
+   "texto": "3 mencao(oes) na varredura de hoje. Rodada 16/11: 1 ID novo na Braip, 2 -> 3, primeiro preco medido. 264423903 (16/11 12h31, Indaiatuba-SP): compra de R$ 107,99 em 03/11 na 'Good Card TV' (grafia do comprador), cancelada em 04/11; a Braip prometeu estorno em 4 dias e nao fez. Ausente desde 12/10. Biblioteca 16/11: 'good card tv' (frase exata) = 0 anuncios ativos."
   }
  ],
  "citacoes": [
+  {
+   "tipo": "passada",
+   "arquivo": "Radar/rodadas/2026-11-16 -- 1600.md",
+   "data": "2026-11-16",
+   "titulo": "Passada 2026-11-16 16:00"
+  },
+  {
+   "tipo": "radar",
+   "arquivo": "Radar/2026-11-16.md",
+   "data": "2026-11-16",
+   "titulo": "Radar 2026-11-16"
+  },
   {
    "tipo": "radar",
    "arquivo": "Radar/2026-10-12.md",
