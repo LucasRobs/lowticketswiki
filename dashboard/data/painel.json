@@ -4715,14 +4715,14 @@
   },
   {
    "slug": "angulo-oracao-perdida-nome-incerto",
-   "nome": "Oração perdida (nome incerto)",
+   "nome": "A Oração Perdida",
    "classe": "angulo",
    "nicho": "religioso",
    "sub_nicho": "",
    "status": "ativa",
    "veredito": "observar",
    "prioridade": 0,
-   "checkout": "desconhecido",
+   "checkout": "ticto",
    "gateways": [
     "ticto"
    ],
@@ -14670,15 +14670,15 @@
    "formato_entrega": [],
    "recorrente": false,
    "moeda": "BRL",
-   "ticket_frente": 0,
+   "ticket_frente": 107.99,
    "ticket_bump": 0,
    "ticket_upsell": 0,
-   "ticket_medio_est": 0,
-   "s_ticket": 0,
+   "ticket_medio_est": 107.99,
+   "s_ticket": 8,
    "s_lucro": 2,
    "s_replica": 0,
    "s_saturacao": 0,
-   "score": 0.7,
+   "score": 2.3,
    "decisao": "descartar",
    "visto_primeiro": "2026-10-04",
    "visto_ultimo": "2026-11-16",
@@ -31860,7 +31860,7 @@
    {
     "campo": "ticket_medio_est",
     "rotulo": "Ticket estimado",
-    "preenchidas": 190,
+    "preenchidas": 191,
     "total": 391
    },
    {
@@ -32064,8 +32064,8 @@
  },
  "versao": {
   "esquema": 1,
-  "hash": "23d2dedbf31c9957",
-  "atualizado_em": "2026-11-16T16:04:26-03:00",
+  "hash": "7af6cec8fb075d8c",
+  "atualizado_em": "2026-11-16T16:05:37-03:00",
   "ofertas": 391,
   "angulos": 101,
   "observacoes": 1177,
