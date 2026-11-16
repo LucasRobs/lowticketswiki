@@ -24,22 +24,22 @@ s_ticket: 7
 s_lucro: 4
 s_replica: 5
 s_saturacao: 3
-status: esfriando
+status: ativa
 visto_primeiro: 2026-08-22
-visto_ultimo: 2026-10-23
-rodadas_vista: 5
+visto_ultimo: 2026-11-16
+rodadas_vista: 6
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: 
-gateways_detectados: [ticto, cakto]
+gateways_detectados: [ticto, cakto, eduzz]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 3
-ra_plataformas: [ticto, cakto]
+ra_reclamacoes: 4
+ra_plataformas: [ticto, cakto, eduzz]
 ra_primeira_reclamacao: "2026-08-21"
-ra_checado: 2026-10-23
+ra_checado: 2026-11-16
 veredito: observar
 prioridade: 1
 tags: [oferta, meta-oferta, inteligencia-de-nicho]
@@ -104,3 +104,9 @@ Ticto, mesma reclamacao de arrependimento de 23/08. Sem alteracao.
 3 mencao(oes) nesta varredura (gateway Cakto). Retorno com 1 ID (2 -> 3), agora na Cakto: 262271371, 'Fabrica de Low Ticket' do Kaua Henrique, cancelamento dificultado. A nota tinha checkout Ticto e nao era vista desde 27/08.
 
 Evidencia: https://www.reclameaqui.com.br/empresa/cakto-pay/lista-reclamacoes/ (ID 262271371)
+
+## Rodada 2026-11-16
+
+4 mencao(oes) nesta varredura (gateway Eduzz). Rodada 16/11: 1 ID novo, e na Eduzz (gateway novo para a nota), 3 -> 4. 264395635 (16/11 09h05, Ribeirao Preto-SP): comprou em 15/11 o 'curso Fabrica de Low Tickets, Aula Magnetica com OBS' pela plataforma Alumy, mais 'compras extras alem do curso'; 40 minutos depois tentou cancelar e nao conseguiu nem acessar o site. Atribuicao pelo nome; o produtor nao foi confirmado, e a nota antiga era Ticto/Cakto.
+
+Evidencia: https://www.reclameaqui.com.br/eduzz/nao-consigo-cancelar-a-compra-do-curso-fabrica-de-low-tickets-e-nao-recebi-o-que-paguei_NFLHer0KSlpJTBXK/

@@ -2,6 +2,32 @@
  "esquema": 1,
  "dias": [
   {
+   "arquivo": "Radar/2026-11-16.md",
+   "data": "2026-11-16",
+   "titulo": "Radar 2026-11-16",
+   "ofertas_vistas": 7,
+   "novas": 0,
+   "retornaram": 1,
+   "sumiram": 0,
+   "fontes": [
+    "braip",
+    "cakto",
+    "eduzz",
+    "hotmart",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "monetizze",
+    "payt",
+    "perfectpay",
+    "ticto",
+    "wiapy"
+   ],
+   "duracao_min": 0,
+   "n_passadas": 1,
+   "corpo": "# Radar 2026-11-16\n\n## Novas\n\n## Movimento\n\n- [[shopminer]] — ra_reclamacoes atualizado para 93\n- [[tokscale-ia]] — ra_reclamacoes atualizado para 43\n- [[videoshop]] — ra_reclamacoes atualizado para 4\n- [[atmoz]] — ra_reclamacoes atualizado para 7\n- [[gold-card-tv]] — ra_reclamacoes atualizado para 3\n- [[angulo-oracao-perdida-nome-incerto]] — ra_reclamacoes atualizado para 2\n\n## Retornaram\n\n- [[fabrica-de-low-ticket]] — ganhar-dinheiro — reapareceu (4 mencao(oes))\n\n## Sumiram\nNao avaliado por esta automacao — ela cobre so PerfectPay/Cakto (poucas paginas por rodada),\nnao o vault inteiro. Decair status por ausencia aqui confundiria \"fora do escopo desta skill\"\ncom \"mercado esfriando\" (ver _meta/Scoring.md). Fica para a Etapa 1/3b do Pipeline.md completo.\n\n## Leitura da rodada\n\nRodada diaria de 16/11, ~20h depois da anterior, com a API do RA negada pela quinta vez: lista de 5 linhas em 12 gateways (Cakto so 3 linhas, Hubla 404), 9 corpos abertos, todos com ID acima de 264369015 e publicados em 16/11. Gotejamento de 7 notas ja mapeadas, sem estreia: ShopMiner de volta na Payt (93), TokScale parcelado pela Pagaleve (43), Atmoz + Atmoz Pro (7), VideoShop (4), Gold Card TV com o primeiro preco medido (R$ 107,99), retorno da Fabrica de Low Ticket na Eduzz e o nome confirmado d'A Oracao Perdida (Ticto), que a Biblioteca mostra com ~16 anuncios de duas paginas novas. Nenhum sinal novo forte.\n\n## Passadas do dia\n- [[2026-11-16 -- 1600]] - cakto, wiapy, braip, perfectpay, kirvano, kiwify, lastlink, ticto, hotmart, payt, eduzz, monetizze - 7 achado(s) - rodada diaria — API negada; 5 linhas em 12 gateways (Hubla 404): 7 revistas (ShopMiner, TokScale, VideoShop, Atmoz, Gold Card TV, Fabrica…\n"
+  },
+  {
    "arquivo": "Radar/2026-11-15.md",
    "data": "2026-11-15",
    "titulo": "Radar 2026-11-15",
@@ -1046,6 +1072,39 @@
   }
  ],
  "passadas": [
+  {
+   "arquivo": "Radar/rodadas/2026-11-16 -- 1600.md",
+   "data": "2026-11-16",
+   "hora": "16:00",
+   "gateways": [
+    "cakto",
+    "wiapy",
+    "braip",
+    "perfectpay",
+    "kirvano",
+    "kiwify",
+    "lastlink",
+    "ticto",
+    "hotmart",
+    "payt",
+    "eduzz",
+    "monetizze"
+   ],
+   "paginas": 12,
+   "coleta": "parcial",
+   "origem": "tarefa agendada",
+   "ofertas": [
+    "angulo-oracao-perdida-nome-incerto",
+    "atmoz",
+    "fabrica-de-low-ticket",
+    "gold-card-tv",
+    "green-stalker",
+    "shopminer",
+    "tokscale-ia",
+    "videoshop"
+   ],
+   "corpo": "> Registro da passada. Consolidado do dia: [[2026-11-16]].\n\n# Rodada — 16/11/2026 · 16:00 Fortaleza\n\n**Gateways:** cakto, wiapy, braip, perfectpay, kirvano, kiwify, lastlink, ticto, hotmart, payt, eduzz, monetizze · **Páginas:** 12 · **Coleta:** parcial · **Achados:** 7\n\n## Quentes\n- [[shopminer]] — Payt · +1 (93), de volta na Payt; reembolso via Pix 4 min depois da reclamacao\n- [[angulo-oracao-perdida-nome-incerto]] — Ticto · +1 (2), nome confirmado 'A Oracao Perdida'; Biblioteca ~16 anuncios de 2 paginas novas (mais antigo 30/10, lote de VSL traduzida de 12-15/11)\n\n## Mornas\n- [[tokscale-ia]] — Payt · +1 (43), parcelado pela Pagaleve, reembolso sem valor nem prazo\n- [[atmoz]] — Kirvano · +1 (7), Atmoz + Atmoz Pro no mesmo dia\n- [[videoshop]] — Kirvano · +1 (4)\n- [[gold-card-tv]] — Braip · +1 (3), R$ 107,99 (primeiro preco); 0 anuncios na Biblioteca\n- [[fabrica-de-low-ticket]] — Eduzz · +1 (4), retorno, 'Aula Magnetica com OBS' via Alumy, compras extras\n- Fila (1 ID, sem nota): 'tres transacoes de Pix pelo stalker' (PerfectPay 264430841, possivel [[green-stalker]], nao atribuido)\n- So titulo, sem ID: curso Claude Code e Metodo Mais Cinco (Kirvano), Metodo ZN TikTok Shop e Rota do Dolar (Kiwify), Shark Map AI e Black 2026 Docis/Felipe Russo (Hotmart), Memorivex e Socios do Dolar (Payt), Norte Broker e ferramenta de WhatsApp que virou curso (PerfectPay), Victor Pareto Time Hibrido (Lastlink, renovacao automatica)\n\nLeitura: API do RA negada (5a rodada); 5 linhas em 12 gateways (Cakto so 3, Hubla 404), 9 corpos abertos, todos de 16/11. Gotejamento de 7 notas ja mapeadas, sem estreia.\n"
+  },
   {
    "arquivo": "Radar/rodadas/2026-11-15 -- 1936.md",
    "data": "2026-11-15",

@@ -26,8 +26,8 @@ s_replica: 3
 s_saturacao: 0
 status: ativa
 visto_primeiro: 2026-10-29
-visto_ultimo: 2026-11-05
-rodadas_vista: 3
+visto_ultimo: 2026-11-16
+rodadas_vista: 4
 dias_no_ar: 13
 criativos_ultima: 120
 criativos_delta: 10
@@ -36,10 +36,10 @@ ativos_pasta: "Ativos/atmoz"
 gateways_detectados: [kirvano]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 6
+ra_reclamacoes: 7
 ra_plataformas: [kirvano]
 ra_primeira_reclamacao: 
-ra_checado: 2026-11-05
+ra_checado: 2026-11-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, marca]
@@ -99,3 +99,9 @@ Evidencia: https://www.facebook.com/ads/library/?active_status=active&ad_type=al
 6 mencao(oes) nesta varredura (gateway Kirvano). Rodada 05/11: 3 IDs novos (3 -> 6): 263382171 e 263399799 na Kirvano ('ATMOZ PRO', 'nem de perto parecido com o que John fala') e 263410599 na Cakto (R$ 297, comprado 04/11, acesso nao funciona). Primeira vez em segundo gateway.
 
 Evidencia: https://www.reclameaqui.com.br/cakto-pay/nao-consigo-acessar-o-curso-que-paguei-e-quero-meu-dinheiro-de-volta_X5BLTwtBaJ_R2P-I/
+
+## Rodada 2026-11-16
+
+7 mencao(oes) nesta varredura (gateway Kirvano). Rodada 16/11: 1 ID novo na Kirvano, 6 -> 7. 264415599 (16/11 11h29, Cassilandia-MS): comprou 'o Atmoz e o Atmoz Pro' no cartao no mesmo dia e pede cancelamento das duas. Confirma a escada frente + versao Pro no mesmo checkout (Kirvano).
+
+Evidencia: https://www.reclameaqui.com.br/kirvano-pagamentos/quero-cancelar-a-compra-do-atmoz-e-atmoz-pro-que-fiz-hoje_3qxjRWHEKtKQghKi/

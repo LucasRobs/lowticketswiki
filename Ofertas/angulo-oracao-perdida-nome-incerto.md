@@ -24,22 +24,22 @@ s_ticket: 0
 s_lucro: 2
 s_replica: 0
 s_saturacao: 0
-status: nova
+status: ativa
 visto_primeiro: 2026-10-14
-visto_ultimo: 2026-10-14
-rodadas_vista: 1
+visto_ultimo: 2026-11-16
+rodadas_vista: 2
 dias_no_ar: 0
 criativos_ultima: 0
 criativos_delta: 0
 unfunnelizer_capturado: false
 ativos_pasta: "Ativos/angulo-oracao-perdida-nome-incerto"
-gateways_detectados: []
+gateways_detectados: [ticto]
 bump_oculto: false
 upsell_oculto: false
-ra_reclamacoes: 1
-ra_plataformas: []
+ra_reclamacoes: 2
+ra_plataformas: [ticto]
 ra_primeira_reclamacao: 
-ra_checado: 2026-10-14
+ra_checado: 2026-11-16
 veredito: observar
 prioridade: 0
 tags: [oferta, lowticket, angulo]
@@ -85,3 +85,9 @@ views:
       - property: note.data
         direction: DESC
 ```
+
+## Rodada 2026-11-16
+
+2 mencao(oes) nesta varredura (gateway Ticto). Rodada 16/11: 1 ID novo na Ticto, 1 -> 2, e o nome confirmado: 'A Oração Perdida'. 264396257 (16/11 09h12, Sao Jose dos Campos-SP): comprado em 11/11, 'nao era o que eu esperava', pede reembolso. Biblioteca 16/11 ('oração perdida', frase exata): ~16 anuncios ativos de dois anunciantes com paginas novas: 'Fe em Jesus' (jornalurgente.online, 6 anuncios, mais antigo 30/10) e 'David Williams' (brightlittlehearts.com, ~10 anuncios de 12 a 15/11, VSL americana traduzida: 'Uma oracao ARRUINOU a minha vida', 'a oracao que Jesus orava'). Qual dos dois vende na Ticto nao foi confirmado.
+
+Evidencia: https://www.reclameaqui.com.br/ticto/solicito-cancelamento-e-reembolso-de-a-oracao-perdida_fYDUGUdqvzEBjet7/
